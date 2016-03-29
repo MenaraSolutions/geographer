@@ -1,0 +1,27 @@
+{
+    "name": "menarasolutions/fluent-geonames",
+    "type": "library",
+    "description": "Link preview generation for PHP with Laravel support",
+    "keywords": ["geolocation","localization","geonames","geo"],
+    "homepage": "https://github.com/MenaraSolutions/fluent-geonames",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@menara.com.au",
+            "homepage": "https://www.menara.com.au"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "codeclimate/php-test-reporter": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "MenaraSolutions\\FluentGeonames\\": "src/"
+        }
+    }
+}
