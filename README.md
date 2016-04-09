@@ -6,7 +6,7 @@ Includes integrations with: Laravel 5
 
 ## Dependencies
 
-* PHP >= 5.5
+* PHP >= 5.6
 
 ## Installation via Composer
 
