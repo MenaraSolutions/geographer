@@ -2,9 +2,9 @@
 [![Build Status](https://travis-ci.org/MenaraSolutions/fluent-geonames.svg)](https://travis-ci.org/MenaraSolutions/fluent-geonames)
 [![Code Climate](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges/gpa.svg)](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges)
 [![Test Coverage](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges/coverage.svg)](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges)
-[![Total Downloads](https://poser.pugx.org/dusterio/link-preview/d/total.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
-[![Latest Stable Version](https://poser.pugx.org/dusterio/link-preview/v/stable.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
-[![Latest Unstable Version](https://poser.pugx.org/dusterio/link-preview/v/unstable.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
+[![Total Downloads](https://poser.pugx.org/MenaraSolutions/fluent-geonames/d/total.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
+[![Latest Stable Version](https://poser.pugx.org/MenaraSolutions/fluent-geonames/v/stable.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
+[![Latest Unstable Version](https://poser.pugx.org/MenaraSolutions/fluent-geonames/v/unstable.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
 [![License](https://poser.pugx.org/MenaraSolutions/fluent-geonames/license.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
 
 A PHP library that knows how any country, state or city is called in another language.
