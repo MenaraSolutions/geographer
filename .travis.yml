@@ -7,6 +7,6 @@ php:
 before_script:
   - composer install --dev
 
-#addons:
-#    code_climate:
-#        repo_token: 41491c864d8b663847264acd3b49e6dc4d11ee2445ab19b473aed0aab4905e45
+addons:
+    code_climate:
+        repo_token: 68fffc20946fecc3411b3e452df63f400d3ed472a5bfc06e068bd92844bdfbdc
