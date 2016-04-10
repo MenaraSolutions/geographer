@@ -30,8 +30,9 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
     {
         $planet = new Planet();
         $countries = $planet->getCountries();
-        $this->assertTrue(is_array($countries));
+        $this->assertTrue(is_array($countries->toArray()));
         $this->assertEquals(self::TOTAL_COUNTRIES, count($countries));
+        $this->assertEquals(self::TOTAL_COUNTRIES, count($countries->toArray()));
     }
 
     /**

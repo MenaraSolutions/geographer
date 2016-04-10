@@ -2,6 +2,7 @@
 
 namespace MenaraSolutions\FluentGeonames;
 
+use MenaraSolutions\FluentGeonames\Collections\DivisionCollection;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
@@ -12,7 +13,7 @@ class Planet
     use HasPublicFields;
 
     /**
-     * @var array $countries
+     * @var DivisionCollection $countries
      */
     private $countries;
 
@@ -41,20 +42,21 @@ class Planet
     }
 
     /**
+     * @param DivisionCollection $collection
      * @return void
      * @throws MisconfigurationException
      */
-    private function loadDefaultCountries()
+    private function loadDefaultCountries(DivisionCollection $collection = null)
     {
         $countriesFile = $this->config->getStoragePath() . "countries.json";
         if (!file_exists($countriesFile)) throw new MisconfigurationException('Unable to load countries');
 
-        $countries = [];
+        $collection = $collection ?: (new DivisionCollection());
 
         foreach(json_decode(file_get_contents($countriesFile)) as $countryConfig) {
-            $countries[] = new Country($countryConfig);
+            $collection->addDivision(new Country($countryConfig));
         }
 
-        $this->setCountries($countries);
+        $this->setCountries($collection);
     }
 }

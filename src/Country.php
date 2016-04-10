@@ -48,4 +48,17 @@ class Country
     {
         return $this->config->names->long ?: $this->config->names->short;
     }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'code' => $this->getCode(),
+            'code_3' => $this->getCode(true),
+            'short_name' => $this->getShortName(),
+            'long_name' => $this->getLongName()
+        ];
+    }
 }
