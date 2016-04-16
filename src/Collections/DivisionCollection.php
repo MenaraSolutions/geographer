@@ -2,12 +2,11 @@
 
 namespace MenaraSolutions\FluentGeonames\Collections;
 
+use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
+
 class DivisionCollection implements \ArrayAccess, \Countable
 {
-    /**
-     * @var string $language Current language for output
-     */
-    private $language;
+    use HasTranslations;
 
     /**
      * @var array $divisions
@@ -27,26 +26,7 @@ class DivisionCollection implements \ArrayAccess, \Countable
 
         return $array;
     }
-
-    /**
-     * @return string
-     */
-    public function getLanguage()
-    {
-        return $this->language;
-    }
-
-    /**
-     * @param string $language
-     * @return $this
-     */
-    public function setLanguage($language)
-    {
-        $this->language = $language;
-
-        return $this;
-    }
-
+    
     /**
      * @param $division
      */

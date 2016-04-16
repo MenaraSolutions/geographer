@@ -46,7 +46,7 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
             $this->assertNotEmpty($country->getShortName());
             $this->assertNotEmpty($country->getLongName());
             $this->assertEquals(2, strlen($country->getCode()));
-            $this->assertEquals(3, strlen($country->getCode(true)));
+            $this->assertEquals(3, strlen($country->getCode3()));
         }
     }
 }
