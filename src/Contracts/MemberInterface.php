@@ -3,10 +3,10 @@
 namespace MenaraSolutions\FluentGeonames\Contracts;
 
 /**
- * Interface DivisionInterface
+ * Interface MemberInterface
  * @package MenaraSolutions\FluentGeonames\Contracts
  */
-interface DivisionInterface
+interface MemberInterface
 {
     /**
      * @return array

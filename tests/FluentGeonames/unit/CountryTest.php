@@ -2,9 +2,8 @@
 
 namespace MenaraSolutions\FluentGeonames\Tests;
 
-use MenaraSolutions\FluentGeonames\Collections\DivisionCollection;
+use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Country;
-use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\Planet;
 
 class CountryTest extends \PHPUnit_Framework_TestCase
@@ -26,6 +25,6 @@ class CountryTest extends \PHPUnit_Framework_TestCase
     public function can_fetch_states_for_a_random_country()
     {
         $states = $this->country->getStates();
-        $this->assertEquals(DivisionCollection::class, get_class($states));
+        $this->assertEquals(MemberCollection::class, get_class($states));
     }
 }

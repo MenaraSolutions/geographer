@@ -2,11 +2,8 @@
 
 namespace MenaraSolutions\FluentGeonames;
 
-use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
-use MenaraSolutions\FluentGeonames\Traits\HasPublicFields;
 use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
-use MenaraSolutions\FluentGeonames\Collections\DivisionCollection;
-use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
+use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 
 /**
  * Class Country
@@ -20,20 +17,7 @@ class Country extends Divisible
      * @var string
      */
     protected $memberClass = State::class;
-
-    /**
-     * Country constructor.
-     * @param \stdClass $meta
-     * @param TranslationRepositoryInterface $translator
-     */
-    public function __construct(\stdClass $meta, TranslationRepositoryInterface $translator)
-    {
-        $this->meta = $meta;
-        $this->translator = $translator;
-
-        $this->loadMembers();
-    }
-
+    
     /**
      * Get alpha2 ISO code
      *
@@ -93,7 +77,7 @@ class Country extends Divisible
     }
 
     /**
-     * @return DivisionCollection
+     * @return MemberCollection
      */
     public function getStates()
     {

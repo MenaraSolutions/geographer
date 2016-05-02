@@ -4,7 +4,11 @@ namespace MenaraSolutions\FluentGeonames\Collections;
 
 use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
 
-class DivisionCollection implements \ArrayAccess, \Countable
+/**
+ * Class MemberCollection
+ * @package MenaraSolutions\FluentGeonames\Collections
+ */
+class MemberCollection implements \ArrayAccess, \Countable
 {
     use HasTranslations;
 
