@@ -5,37 +5,24 @@ namespace MenaraSolutions\FluentGeonames;
 use MenaraSolutions\FluentGeonames\Collections\DivisionCollection;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
-use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
 use MenaraSolutions\FluentGeonames\Services\TranslationRepository;
 use MenaraSolutions\FluentGeonames\Traits\HasPublicFields;
+use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
 
-class Planet
+class Planet extends Divisible
 {
-    use HasPublicFields;
-
-    /**
-     * @var DivisionCollection $countries
-     */
-    private $countries;
-
-    /**
-     * Class properties visible to the world
-     * @var array
-     */
-    private $public = [
-        'countries'
-    ];
+    use HasTranslations;
 
     /**
      * @var ConfigInterface $config
      */
     private $config;
-
+    
     /**
-     * @var TranslationRepository
+     * @var string
      */
-    private $translator;
+    protected $memberClass = Country::class;
 
     /**
      * Planet constructor.
@@ -47,25 +34,21 @@ class Planet
         $this->config = $config ?: new DefaultConfig();
         $this->translator = $translator ?: new TranslationRepository();
 
-        $this->loadDefaultCountries();
+        $this->loadMembers($translator);
     }
 
     /**
-     * @param DivisionCollection $collection
-     * @return void
-     * @throws MisconfigurationException
+     * @return DivisionCollection
      */
-    private function loadDefaultCountries(DivisionCollection $collection = null)
+    public function getCountries()
     {
-        $countriesFile = $this->config->getStoragePath() . "countries.json";
-        if (!file_exists($countriesFile)) throw new MisconfigurationException('Unable to load countries');
+        return $this->getMembers();
+    }
 
-        $collection = $collection ?: (new DivisionCollection());
-
-        foreach(json_decode(file_get_contents($countriesFile)) as $countryConfig) {
-            $collection->addDivision(new Country($countryConfig, $this->translator));
-        }
-
-        $this->setCountries($collection);
+    /**
+     * @return string
+     */
+    protected function getStoragePath() {
+        return $this->config->getStoragePath() . "countries.json";
     }
 }

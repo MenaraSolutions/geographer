@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "C",
+            "geonames": 7521313
+        },
+        "names": {
+            "long": "Connaught",
+            "short": "Connaught"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L",
+            "geonames": 7521314
+        },
+        "names": {
+            "long": "Leinster",
+            "short": "Leinster"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M",
+            "geonames": 7521315
+        },
+        "names": {
+            "long": "Munster",
+            "short": "Munster"
+        }
+    },
+    {
+        "ids": {
+            "fips": "U",
+            "geonames": 7521316
+        },
+        "names": {
+            "long": "Ulster",
+            "short": "Ulster"
+        }
+    }
+]

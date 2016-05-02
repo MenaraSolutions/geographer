@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "S",
+            "geonames": 923817
+        },
+        "names": {
+            "long": "Southern Region",
+            "short": "Southern Region"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N",
+            "geonames": 924591
+        },
+        "names": {
+            "long": "Northern Region",
+            "short": "Northern Region"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C",
+            "geonames": 931597
+        },
+        "names": {
+            "long": "Central Region",
+            "short": "Central Region"
+        }
+    }
+]

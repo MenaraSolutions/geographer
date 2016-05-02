@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 934867
+        },
+        "names": {
+            "long": "Shiselweni",
+            "short": "Shiselweni"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 934994
+        },
+        "names": {
+            "long": "Manzini",
+            "short": "Manzini"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 935042
+        },
+        "names": {
+            "long": "Lubombo",
+            "short": "Lubombo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 935085
+        },
+        "names": {
+            "long": "Hhohho",
+            "short": "Hhohho"
+        }
+    }
+]

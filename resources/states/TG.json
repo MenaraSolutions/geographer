@@ -1,0 +1,52 @@
+[
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 2364205
+        },
+        "names": {
+            "long": "Savanes",
+            "short": "Savanes"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 2364370
+        },
+        "names": {
+            "long": "Plateaux",
+            "short": "Plateaux"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 2365173
+        },
+        "names": {
+            "long": "Maritime",
+            "short": "Maritime"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 2367237
+        },
+        "names": {
+            "long": "Centrale",
+            "short": "Centrale"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 2597439
+        },
+        "names": {
+            "long": "Kara",
+            "short": "Kara"
+        }
+    }
+]

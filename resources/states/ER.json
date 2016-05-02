@@ -1,0 +1,62 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 448497
+        },
+        "names": {
+            "long": "Anseba",
+            "short": "Anseba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 448498
+        },
+        "names": {
+            "long": "Debub",
+            "short": "Debub"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 448499
+        },
+        "names": {
+            "long": "Southern Red Sea",
+            "short": "Southern Red Sea"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 448500
+        },
+        "names": {
+            "long": "Gash-Barka",
+            "short": "Gash-Barka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 448501
+        },
+        "names": {
+            "long": "Maekel",
+            "short": "Maekel"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 448502
+        },
+        "names": {
+            "long": "Northern Red Sea",
+            "short": "Northern Red Sea"
+        }
+    }
+]

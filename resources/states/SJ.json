@@ -1,0 +1,22 @@
+[
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 3041964
+        },
+        "names": {
+            "long": "Jan Mayen",
+            "short": "Jan Mayen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 7521757
+        },
+        "names": {
+            "long": "Svalbard",
+            "short": "Svalbard"
+        }
+    }
+]

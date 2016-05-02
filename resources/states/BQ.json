@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "BO",
+            "geonames": 7609816
+        },
+        "names": {
+            "long": "Bonaire",
+            "short": "Bonaire"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SB",
+            "geonames": 7610358
+        },
+        "names": {
+            "long": "Saba",
+            "short": "Saba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SE",
+            "geonames": 7610359
+        },
+        "names": {
+            "long": "Sint Eustatius",
+            "short": "Sint Eustatius"
+        }
+    }
+]

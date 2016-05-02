@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "98613",
+            "geonames": 4034759
+        },
+        "names": {
+            "long": "Circonscription d'Uvéa",
+            "short": "Circonscription d'Uvéa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "98612",
+            "geonames": 4034776
+        },
+        "names": {
+            "long": "Circonscription de Sigavé",
+            "short": "Circonscription de Sigavé"
+        }
+    },
+    {
+        "ids": {
+            "fips": "98611",
+            "geonames": 4034884
+        },
+        "names": {
+            "long": "Circonscription d'Alo",
+            "short": "Circonscription d'Alo"
+        }
+    }
+]

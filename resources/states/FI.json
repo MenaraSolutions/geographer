@@ -1,0 +1,182 @@
+[
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 830603
+        },
+        "names": {
+            "long": "Lapland",
+            "short": "Lapland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 830664
+        },
+        "names": {
+            "long": "Kainuu",
+            "short": "Kainuu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 830667
+        },
+        "names": {
+            "long": "Northern Ostrobothnia",
+            "short": "Northern Ostrobothnia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 830675
+        },
+        "names": {
+            "long": "Central Ostrobothnia",
+            "short": "Central Ostrobothnia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 830676
+        },
+        "names": {
+            "long": "Ostrobothnia",
+            "short": "Ostrobothnia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 830682
+        },
+        "names": {
+            "long": "Southern Ostrobothnia",
+            "short": "Southern Ostrobothnia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 830685
+        },
+        "names": {
+            "long": "Central Finland",
+            "short": "Central Finland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 830686
+        },
+        "names": {
+            "long": "North Karelia",
+            "short": "North Karelia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 830690
+        },
+        "names": {
+            "long": "Northern Savo",
+            "short": "Northern Savo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 830695
+        },
+        "names": {
+            "long": "Southern Savonia",
+            "short": "Southern Savonia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 830699
+        },
+        "names": {
+            "long": "South Karelia",
+            "short": "South Karelia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 830703
+        },
+        "names": {
+            "long": "Kymenlaakso",
+            "short": "Kymenlaakso"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 830704
+        },
+        "names": {
+            "long": "Pirkanmaa",
+            "short": "Pirkanmaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 830705
+        },
+        "names": {
+            "long": "Häme",
+            "short": "Häme"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 830708
+        },
+        "names": {
+            "long": "Southwest Finland",
+            "short": "Southwest Finland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 830709
+        },
+        "names": {
+            "long": "Uusimaa",
+            "short": "Uusimaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 831040
+        },
+        "names": {
+            "long": "Päijänne Tavastia",
+            "short": "Päijänne Tavastia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 831041
+        },
+        "names": {
+            "long": "Satakunta",
+            "short": "Satakunta"
+        }
+    }
+]

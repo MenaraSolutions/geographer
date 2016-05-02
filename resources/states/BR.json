@@ -1,0 +1,272 @@
+[
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 3390290
+        },
+        "names": {
+            "long": "Rio Grande do Norte",
+            "short": "Rio Grande do Norte"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 3392213
+        },
+        "names": {
+            "long": "Piauí",
+            "short": "Piauí"
+        }
+    },
+    {
+        "ids": {
+            "fips": "30",
+            "geonames": 3392268
+        },
+        "names": {
+            "long": "Pernambuco",
+            "short": "Pernambuco"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3393098
+        },
+        "names": {
+            "long": "Paraíba",
+            "short": "Paraíba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3393129
+        },
+        "names": {
+            "long": "Pará",
+            "short": "Pará"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3395443
+        },
+        "names": {
+            "long": "Maranhão",
+            "short": "Maranhão"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3402362
+        },
+        "names": {
+            "long": "Ceará",
+            "short": "Ceará"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3407762
+        },
+        "names": {
+            "long": "Amapá",
+            "short": "Amapá"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3408096
+        },
+        "names": {
+            "long": "Alagoas",
+            "short": "Alagoas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 3447799
+        },
+        "names": {
+            "long": "Sergipe",
+            "short": "Sergipe"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 3448433
+        },
+        "names": {
+            "long": "São Paulo",
+            "short": "São Paulo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 3450387
+        },
+        "names": {
+            "long": "Santa Catarina",
+            "short": "Santa Catarina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 3451133
+        },
+        "names": {
+            "long": "Rio Grande do Sul",
+            "short": "Rio Grande do Sul"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 3451189
+        },
+        "names": {
+            "long": "Rio de Janeiro",
+            "short": "Rio de Janeiro"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 3455077
+        },
+        "names": {
+            "long": "Paraná",
+            "short": "Paraná"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3457153
+        },
+        "names": {
+            "long": "Minas Gerais",
+            "short": "Minas Gerais"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3457415
+        },
+        "names": {
+            "long": "Mato Grosso do Sul",
+            "short": "Mato Grosso do Sul"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3457419
+        },
+        "names": {
+            "long": "Mato Grosso",
+            "short": "Mato Grosso"
+        }
+    },
+    {
+        "ids": {
+            "fips": "29",
+            "geonames": 3462372
+        },
+        "names": {
+            "long": "Goiás",
+            "short": "Goiás"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3463504
+        },
+        "names": {
+            "long": "Federal District",
+            "short": "Federal District"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3463930
+        },
+        "names": {
+            "long": "Espírito Santo",
+            "short": "Espírito Santo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3471168
+        },
+        "names": {
+            "long": "Bahia",
+            "short": "Bahia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "31",
+            "geonames": 3474575
+        },
+        "names": {
+            "long": "Tocantins",
+            "short": "Tocantins"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 3662560
+        },
+        "names": {
+            "long": "Roraima",
+            "short": "Roraima"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3665361
+        },
+        "names": {
+            "long": "Amazonas",
+            "short": "Amazonas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3665474
+        },
+        "names": {
+            "long": "Acre",
+            "short": "Acre"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 3924825
+        },
+        "names": {
+            "long": "Rondônia",
+            "short": "Rondônia"
+        }
+    }
+]

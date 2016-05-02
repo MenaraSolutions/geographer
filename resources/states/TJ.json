@@ -1,0 +1,52 @@
+[
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 1221092
+        },
+        "names": {
+            "long": "Viloyati Sughd",
+            "short": "Viloyati Sughd"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 1221692
+        },
+        "names": {
+            "long": "Gorno-Badakhshan",
+            "short": "Gorno-Badakhshan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 1347488
+        },
+        "names": {
+            "long": "Khatlon",
+            "short": "Khatlon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "RR",
+            "geonames": 6452615
+        },
+        "names": {
+            "long": "Republican Subordination",
+            "short": "Republican Subordination"
+        }
+    },
+    {
+        "ids": {
+            "fips": "7280679",
+            "geonames": 7280679
+        },
+        "names": {
+            "long": "Dushanbe",
+            "short": "Dushanbe"
+        }
+    }
+]

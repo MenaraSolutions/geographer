@@ -1,0 +1,2102 @@
+[
+    {
+        "ids": {
+            "fips": "N5",
+            "geonames": 3186843
+        },
+        "names": {
+            "long": "Žalec",
+            "short": "Žalec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E7",
+            "geonames": 3186905
+        },
+        "names": {
+            "long": "Zagorje ob Savi",
+            "short": "Zagorje ob Savi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E5",
+            "geonames": 3187213
+        },
+        "names": {
+            "long": "Vrhnika",
+            "short": "Vrhnika"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D5",
+            "geonames": 3188687
+        },
+        "names": {
+            "long": "Tržič",
+            "short": "Tržič"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D4",
+            "geonames": 3188885
+        },
+        "names": {
+            "long": "Trebnje",
+            "short": "Trebnje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D3",
+            "geonames": 3188914
+        },
+        "names": {
+            "long": "Trbovlje",
+            "short": "Trbovlje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D2",
+            "geonames": 3189037
+        },
+        "names": {
+            "long": "Tolmin",
+            "short": "Tolmin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D7",
+            "geonames": 3189074
+        },
+        "names": {
+            "long": "Velenje",
+            "short": "Velenje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C5",
+            "geonames": 3190509
+        },
+        "names": {
+            "long": "Šmarje pri Jelšah",
+            "short": "Šmarje pri Jelšah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C4",
+            "geonames": 3190529
+        },
+        "names": {
+            "long": "Slovenska Konjice",
+            "short": "Slovenska Konjice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L8",
+            "geonames": 3190533
+        },
+        "names": {
+            "long": "Slovenska Bistrica",
+            "short": "Slovenska Bistrica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C2",
+            "geonames": 3190535
+        },
+        "names": {
+            "long": "Slovenj Gradec",
+            "short": "Slovenj Gradec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B9",
+            "geonames": 3190716
+        },
+        "names": {
+            "long": "Škofja Loka",
+            "short": "Škofja Loka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B7",
+            "geonames": 3190944
+        },
+        "names": {
+            "long": "Sežana",
+            "short": "Sežana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B6",
+            "geonames": 3190949
+        },
+        "names": {
+            "long": "Sevnica",
+            "short": "Sevnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L7",
+            "geonames": 3191028
+        },
+        "names": {
+            "long": "Municipality of Šentjur",
+            "short": "Municipality of Šentjur"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L1",
+            "geonames": 3191679
+        },
+        "names": {
+            "long": "Ribnica",
+            "short": "Ribnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A3",
+            "geonames": 3192062
+        },
+        "names": {
+            "long": "Radovljica",
+            "short": "Radovljica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A2",
+            "geonames": 3192120
+        },
+        "names": {
+            "long": "Radlje ob Dravi",
+            "short": "Radlje ob Dravi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K7",
+            "geonames": 3192240
+        },
+        "names": {
+            "long": "Ptuj",
+            "short": "Ptuj"
+        }
+    },
+    {
+        "ids": {
+            "fips": "94",
+            "geonames": 3192672
+        },
+        "names": {
+            "long": "Postojna",
+            "short": "Postojna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J9",
+            "geonames": 3193340
+        },
+        "names": {
+            "long": "Piran-Pirano",
+            "short": "Piran-Pirano"
+        }
+    },
+    {
+        "ids": {
+            "fips": "87",
+            "geonames": 3193964
+        },
+        "names": {
+            "long": "Ormož",
+            "short": "Ormož"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J7",
+            "geonames": 3194350
+        },
+        "names": {
+            "long": "Novo Mesto",
+            "short": "Novo Mesto"
+        }
+    },
+    {
+        "ids": {
+            "fips": "84",
+            "geonames": 3194451
+        },
+        "names": {
+            "long": "Nova Gorica",
+            "short": "Nova Gorica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "80",
+            "geonames": 3194647
+        },
+        "names": {
+            "long": "Murska Sobota",
+            "short": "Murska Sobota"
+        }
+    },
+    {
+        "ids": {
+            "fips": "79",
+            "geonames": 3194791
+        },
+        "names": {
+            "long": "Mozirje",
+            "short": "Mozirje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "73",
+            "geonames": 3195213
+        },
+        "names": {
+            "long": "Metlika",
+            "short": "Metlika"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J2",
+            "geonames": 3195505
+        },
+        "names": {
+            "long": "Maribor",
+            "short": "Maribor"
+        }
+    },
+    {
+        "ids": {
+            "fips": "64",
+            "geonames": 3196288
+        },
+        "names": {
+            "long": "Logatec",
+            "short": "Logatec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I6",
+            "geonames": 3196306
+        },
+        "names": {
+            "long": "Ljutomer",
+            "short": "Ljutomer"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I5",
+            "geonames": 3196424
+        },
+        "names": {
+            "long": "Litija",
+            "short": "Litija"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I3",
+            "geonames": 3196684
+        },
+        "names": {
+            "long": "Lenart",
+            "short": "Lenart"
+        }
+    },
+    {
+        "ids": {
+            "fips": "57",
+            "geonames": 3196759
+        },
+        "names": {
+            "long": "Laško",
+            "short": "Laško"
+        }
+    },
+    {
+        "ids": {
+            "fips": "54",
+            "geonames": 3197146
+        },
+        "names": {
+            "long": "Krško",
+            "short": "Krško"
+        }
+    },
+    {
+        "ids": {
+            "fips": "52",
+            "geonames": 3197377
+        },
+        "names": {
+            "long": "Kranj",
+            "short": "Kranj"
+        }
+    },
+    {
+        "ids": {
+            "fips": "50",
+            "geonames": 3197752
+        },
+        "names": {
+            "long": "Koper-Capodistria",
+            "short": "Koper-Capodistria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H7",
+            "geonames": 3197942
+        },
+        "names": {
+            "long": "Kočevje",
+            "short": "Kočevje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H6",
+            "geonames": 3198364
+        },
+        "names": {
+            "long": "Kamnik",
+            "short": "Kamnik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H4",
+            "geonames": 3198646
+        },
+        "names": {
+            "long": "Jesenice",
+            "short": "Jesenice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "40",
+            "geonames": 3199016
+        },
+        "names": {
+            "long": "Izola-Isola",
+            "short": "Izola-Isola"
+        }
+    },
+    {
+        "ids": {
+            "fips": "38",
+            "geonames": 3199130
+        },
+        "names": {
+            "long": "Ilirska Bistrica",
+            "short": "Ilirska Bistrica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "36",
+            "geonames": 3199169
+        },
+        "names": {
+            "long": "Idrija",
+            "short": "Idrija"
+        }
+    },
+    {
+        "ids": {
+            "fips": "34",
+            "geonames": 3199296
+        },
+        "names": {
+            "long": "Hrastnik",
+            "short": "Hrastnik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "32",
+            "geonames": 3199522
+        },
+        "names": {
+            "long": "Grosuplje",
+            "short": "Grosuplje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "29",
+            "geonames": 3200196
+        },
+        "names": {
+            "long": "Gornja Radgona",
+            "short": "Gornja Radgona"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 3201252
+        },
+        "names": {
+            "long": "Dravograd",
+            "short": "Dravograd"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G7",
+            "geonames": 3201729
+        },
+        "names": {
+            "long": "Domžale",
+            "short": "Domžale"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3202332
+        },
+        "names": {
+            "long": "Črnomelj",
+            "short": "Črnomelj"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3202707
+        },
+        "names": {
+            "long": "Cerknica",
+            "short": "Cerknica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3202780
+        },
+        "names": {
+            "long": "Celje",
+            "short": "Celje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3203411
+        },
+        "names": {
+            "long": "Brežice",
+            "short": "Brežice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3204853
+        },
+        "names": {
+            "long": "Ajdovščina",
+            "short": "Ajdovščina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "35",
+            "geonames": 3239050
+        },
+        "names": {
+            "long": "Hrpelje-Kozina",
+            "short": "Hrpelje-Kozina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 3239051
+        },
+        "names": {
+            "long": "Divača",
+            "short": "Divača"
+        }
+    },
+    {
+        "ids": {
+            "fips": "91",
+            "geonames": 3239054
+        },
+        "names": {
+            "long": "Pivka",
+            "short": "Pivka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I7",
+            "geonames": 3239056
+        },
+        "names": {
+            "long": "Loška Dolina",
+            "short": "Loška Dolina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "66",
+            "geonames": 3239059
+        },
+        "names": {
+            "long": "Loški Potok",
+            "short": "Loški Potok"
+        }
+    },
+    {
+        "ids": {
+            "fips": "88",
+            "geonames": 3239061
+        },
+        "names": {
+            "long": "Osilnica",
+            "short": "Osilnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D8",
+            "geonames": 3239062
+        },
+        "names": {
+            "long": "Velike Lašče",
+            "short": "Velike Lašče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C1",
+            "geonames": 3239066
+        },
+        "names": {
+            "long": "Škofljica",
+            "short": "Škofljica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "37",
+            "geonames": 3239069
+        },
+        "names": {
+            "long": "Ig",
+            "short": "Ig"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3239071
+        },
+        "names": {
+            "long": "Brezovica",
+            "short": "Brezovica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3239073
+        },
+        "names": {
+            "long": "Borovnica",
+            "short": "Borovnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E1",
+            "geonames": 3239075
+        },
+        "names": {
+            "long": "Vipava",
+            "short": "Vipava"
+        }
+    },
+    {
+        "ids": {
+            "fips": "49",
+            "geonames": 3239078
+        },
+        "names": {
+            "long": "Komen",
+            "short": "Komen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J5",
+            "geonames": 3239080
+        },
+        "names": {
+            "long": "Miren-Kostanjevica",
+            "short": "Miren-Kostanjevica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3239083
+        },
+        "names": {
+            "long": "Brda",
+            "short": "Brda"
+        }
+    },
+    {
+        "ids": {
+            "fips": "44",
+            "geonames": 3239086
+        },
+        "names": {
+            "long": "Kanal",
+            "short": "Kanal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F2",
+            "geonames": 3239087
+        },
+        "names": {
+            "long": "Žiri",
+            "short": "Žiri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3239091
+        },
+        "names": {
+            "long": "Cerkno",
+            "short": "Cerkno"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F1",
+            "geonames": 3239093
+        },
+        "names": {
+            "long": "Železniki",
+            "short": "Železniki"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 3239095
+        },
+        "names": {
+            "long": "Gorenja Vas-Poljane",
+            "short": "Gorenja Vas-Poljane"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G4",
+            "geonames": 3239096
+        },
+        "names": {
+            "long": "Dobrova-Horjul-Polhov Gradec",
+            "short": "Dobrova-Horjul-Polhov Gradec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "46",
+            "geonames": 3239098
+        },
+        "names": {
+            "long": "Kobarid",
+            "short": "Kobarid"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3239100
+        },
+        "names": {
+            "long": "Bovec",
+            "short": "Bovec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3239101
+        },
+        "names": {
+            "long": "Bohinj",
+            "short": "Bohinj"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3239103
+        },
+        "names": {
+            "long": "Bled",
+            "short": "Bled"
+        }
+    },
+    {
+        "ids": {
+            "fips": "82",
+            "geonames": 3239104
+        },
+        "names": {
+            "long": "Naklo",
+            "short": "Naklo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "53",
+            "geonames": 3239105
+        },
+        "names": {
+            "long": "Kranjska Gora",
+            "short": "Kranjska Gora"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K5",
+            "geonames": 3239107
+        },
+        "names": {
+            "long": "Preddvor",
+            "short": "Preddvor"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3239110
+        },
+        "names": {
+            "long": "Municipality of Cerklje na Gorenjskem",
+            "short": "Municipality of Cerklje na Gorenjskem"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B2",
+            "geonames": 3239111
+        },
+        "names": {
+            "long": "Šenčur",
+            "short": "Šenčur"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E3",
+            "geonames": 3239112
+        },
+        "names": {
+            "long": "Vodice",
+            "short": "Vodice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "71",
+            "geonames": 3239113
+        },
+        "names": {
+            "long": "Medvode",
+            "short": "Medvode"
+        }
+    },
+    {
+        "ids": {
+            "fips": "72",
+            "geonames": 3239114
+        },
+        "names": {
+            "long": "Mengeš",
+            "short": "Mengeš"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 3239115
+        },
+        "names": {
+            "long": "Dol pri Ljubljani",
+            "short": "Dol pri Ljubljani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "77",
+            "geonames": 3239132
+        },
+        "names": {
+            "long": "Moravče",
+            "short": "Moravče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "30",
+            "geonames": 3239133
+        },
+        "names": {
+            "long": "Gornji Grad",
+            "short": "Gornji Grad"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I9",
+            "geonames": 3239134
+        },
+        "names": {
+            "long": "Luče",
+            "short": "Luče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K8",
+            "geonames": 3239175
+        },
+        "names": {
+            "long": "Ravne na Koroškem",
+            "short": "Ravne na Koroškem"
+        }
+    },
+    {
+        "ids": {
+            "fips": "74",
+            "geonames": 3239177
+        },
+        "names": {
+            "long": "Mežica",
+            "short": "Mežica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "81",
+            "geonames": 3239179
+        },
+        "names": {
+            "long": "Muta",
+            "short": "Muta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E6",
+            "geonames": 3239180
+        },
+        "names": {
+            "long": "Vuzenica",
+            "short": "Vuzenica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3239181
+        },
+        "names": {
+            "long": "Črna na Koroškem",
+            "short": "Črna na Koroškem"
+        }
+    },
+    {
+        "ids": {
+            "fips": "62",
+            "geonames": 3239184
+        },
+        "names": {
+            "long": "Ljubno",
+            "short": "Ljubno"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C7",
+            "geonames": 3239185
+        },
+        "names": {
+            "long": "Šoštanj",
+            "short": "Šoštanj"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C6",
+            "geonames": 3239187
+        },
+        "names": {
+            "long": "Šmartno ob Paki",
+            "short": "Šmartno ob Paki"
+        }
+    },
+    {
+        "ids": {
+            "fips": "68",
+            "geonames": 3239188
+        },
+        "names": {
+            "long": "Lukovica",
+            "short": "Lukovica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "99",
+            "geonames": 3239189
+        },
+        "names": {
+            "long": "Radeče",
+            "short": "Radeče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "39",
+            "geonames": 3239191
+        },
+        "names": {
+            "long": "Ivančna Gorica",
+            "short": "Ivančna Gorica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 3239193
+        },
+        "names": {
+            "long": "Dobrepolje",
+            "short": "Dobrepolje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B1",
+            "geonames": 3239195
+        },
+        "names": {
+            "long": "Semič",
+            "short": "Semič"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B4",
+            "geonames": 3239197
+        },
+        "names": {
+            "long": "Šentjernej",
+            "short": "Šentjernej"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B8",
+            "geonames": 3239199
+        },
+        "names": {
+            "long": "Škocjan",
+            "short": "Škocjan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C9",
+            "geonames": 3239200
+        },
+        "names": {
+            "long": "Štore",
+            "short": "Štore"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N3",
+            "geonames": 3239202
+        },
+        "names": {
+            "long": "Vojnik",
+            "short": "Vojnik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E2",
+            "geonames": 3239204
+        },
+        "names": {
+            "long": "Vitanje",
+            "short": "Vitanje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F3",
+            "geonames": 3239205
+        },
+        "names": {
+            "long": "Zreče",
+            "short": "Zreče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "76",
+            "geonames": 3239207
+        },
+        "names": {
+            "long": "Mislinja",
+            "short": "Mislinja"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L3",
+            "geonames": 3239211
+        },
+        "names": {
+            "long": "Ruše",
+            "short": "Ruše"
+        }
+    },
+    {
+        "ids": {
+            "fips": "55",
+            "geonames": 3239213
+        },
+        "names": {
+            "long": "Kungota",
+            "short": "Kungota"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B3",
+            "geonames": 3239214
+        },
+        "names": {
+            "long": "Šentilj",
+            "short": "Šentilj"
+        }
+    },
+    {
+        "ids": {
+            "fips": "89",
+            "geonames": 3239215
+        },
+        "names": {
+            "long": "Pesnica",
+            "short": "Pesnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 3239216
+        },
+        "names": {
+            "long": "Duplek",
+            "short": "Duplek"
+        }
+    },
+    {
+        "ids": {
+            "fips": "98",
+            "geonames": 3239224
+        },
+        "names": {
+            "long": "Rače-Fram",
+            "short": "Rače-Fram"
+        }
+    },
+    {
+        "ids": {
+            "fips": "C8",
+            "geonames": 3239226
+        },
+        "names": {
+            "long": "Starše",
+            "short": "Starše"
+        }
+    },
+    {
+        "ids": {
+            "fips": "45",
+            "geonames": 3239227
+        },
+        "names": {
+            "long": "Kidričevo",
+            "short": "Kidričevo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J1",
+            "geonames": 3239229
+        },
+        "names": {
+            "long": "Majšperk",
+            "short": "Majšperk"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N2",
+            "geonames": 3239231
+        },
+        "names": {
+            "long": "Videm",
+            "short": "Videm"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A7",
+            "geonames": 3239234
+        },
+        "names": {
+            "long": "Rogaška Slatina",
+            "short": "Rogaška Slatina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A8",
+            "geonames": 3239237
+        },
+        "names": {
+            "long": "Rogatec",
+            "short": "Rogatec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "92",
+            "geonames": 3239241
+        },
+        "names": {
+            "long": "Podčetrtek",
+            "short": "Podčetrtek"
+        }
+    },
+    {
+        "ids": {
+            "fips": "51",
+            "geonames": 3239243
+        },
+        "names": {
+            "long": "Kozje",
+            "short": "Kozje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 3239245
+        },
+        "names": {
+            "long": "Gorišnica",
+            "short": "Gorišnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E9",
+            "geonames": 3239247
+        },
+        "names": {
+            "long": "Zavrč",
+            "short": "Zavrč"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 3239248
+        },
+        "names": {
+            "long": "Municipality of Dornava",
+            "short": "Municipality of Dornava"
+        }
+    },
+    {
+        "ids": {
+            "fips": "42",
+            "geonames": 3239251
+        },
+        "names": {
+            "long": "Juršinci",
+            "short": "Juršinci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D1",
+            "geonames": 3239259
+        },
+        "names": {
+            "long": "Sveti Jurij",
+            "short": "Sveti Jurij"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A1",
+            "geonames": 3239262
+        },
+        "names": {
+            "long": "Radenci",
+            "short": "Radenci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "97",
+            "geonames": 3239268
+        },
+        "names": {
+            "long": "Puconci",
+            "short": "Puconci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A6",
+            "geonames": 3239270
+        },
+        "names": {
+            "long": "Rogašovci",
+            "short": "Rogašovci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I2",
+            "geonames": 3239272
+        },
+        "names": {
+            "long": "Kuzma",
+            "short": "Kuzma"
+        }
+    },
+    {
+        "ids": {
+            "fips": "31",
+            "geonames": 3239275
+        },
+        "names": {
+            "long": "Gornji Petrovci",
+            "short": "Gornji Petrovci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "78",
+            "geonames": 3239279
+        },
+        "names": {
+            "long": "Municipality of Moravske Toplice",
+            "short": "Municipality of Moravske Toplice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "47",
+            "geonames": 3239280
+        },
+        "names": {
+            "long": "Kobilje",
+            "short": "Kobilje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3239282
+        },
+        "names": {
+            "long": "Beltinci",
+            "short": "Beltinci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D6",
+            "geonames": 3239283
+        },
+        "names": {
+            "long": "Turnišče",
+            "short": "Turnišče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "86",
+            "geonames": 3239285
+        },
+        "names": {
+            "long": "Odranci",
+            "short": "Odranci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3239286
+        },
+        "names": {
+            "long": "Črenšovci",
+            "short": "Črenšovci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "83",
+            "geonames": 3239294
+        },
+        "names": {
+            "long": "Nazarje",
+            "short": "Nazarje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "61",
+            "geonames": 3239318
+        },
+        "names": {
+            "long": "Ljubljana",
+            "short": "Ljubljana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N7",
+            "geonames": 3344893
+        },
+        "names": {
+            "long": "Žirovnica",
+            "short": "Žirovnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H5",
+            "geonames": 3344894
+        },
+        "names": {
+            "long": "Jezersko",
+            "short": "Jezersko"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M2",
+            "geonames": 3344895
+        },
+        "names": {
+            "long": "Solčava",
+            "short": "Solčava"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H8",
+            "geonames": 3344896
+        },
+        "names": {
+            "long": "Komenda",
+            "short": "Komenda"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H3",
+            "geonames": 3344897
+        },
+        "names": {
+            "long": "Horjul",
+            "short": "Horjul"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L6",
+            "geonames": 3344898
+        },
+        "names": {
+            "long": "Šempeter-Vrtojba",
+            "short": "Šempeter-Vrtojba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F6",
+            "geonames": 3344899
+        },
+        "names": {
+            "long": "Bloke",
+            "short": "Bloke"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M1",
+            "geonames": 3344900
+        },
+        "names": {
+            "long": "Sodražica",
+            "short": "Sodražica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M8",
+            "geonames": 3344901
+        },
+        "names": {
+            "long": "Trzin",
+            "short": "Trzin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K6",
+            "geonames": 3344902
+        },
+        "names": {
+            "long": "Prevalje",
+            "short": "Prevalje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N4",
+            "geonames": 3344903
+        },
+        "names": {
+            "long": "Vransko",
+            "short": "Vransko"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M5",
+            "geonames": 3344904
+        },
+        "names": {
+            "long": "Tabor",
+            "short": "Tabor"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F7",
+            "geonames": 3344905
+        },
+        "names": {
+            "long": "Braslovče",
+            "short": "Braslovče"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K3",
+            "geonames": 3344906
+        },
+        "names": {
+            "long": "Polzela",
+            "short": "Polzela"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K4",
+            "geonames": 3344907
+        },
+        "names": {
+            "long": "Prebold",
+            "short": "Prebold"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H9",
+            "geonames": 3344908
+        },
+        "names": {
+            "long": "Kostel",
+            "short": "Kostel"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N8",
+            "geonames": 3344909
+        },
+        "names": {
+            "long": "Žužemberk",
+            "short": "Žužemberk"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G6",
+            "geonames": 3344910
+        },
+        "names": {
+            "long": "Dolenjske Toplice",
+            "short": "Dolenjske Toplice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J6",
+            "geonames": 3344911
+        },
+        "names": {
+            "long": "Mirna Peč",
+            "short": "Mirna Peč"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F5",
+            "geonames": 3344912
+        },
+        "names": {
+            "long": "Bistrica ob Sotli",
+            "short": "Bistrica ob Sotli"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G2",
+            "geonames": 3344913
+        },
+        "names": {
+            "long": "Dobje",
+            "short": "Dobje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G3",
+            "geonames": 3344914
+        },
+        "names": {
+            "long": "Municipality of Dobrna",
+            "short": "Municipality of Dobrna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J8",
+            "geonames": 3344915
+        },
+        "names": {
+            "long": "Oplotnica",
+            "short": "Oplotnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K2",
+            "geonames": 3344916
+        },
+        "names": {
+            "long": "Podvelka",
+            "short": "Podvelka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L2",
+            "geonames": 3344917
+        },
+        "names": {
+            "long": "Ribnica na Pohorju",
+            "short": "Ribnica na Pohorju"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I8",
+            "geonames": 3344918
+        },
+        "names": {
+            "long": "Lovrenc na Pohorju",
+            "short": "Lovrenc na Pohorju"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L5",
+            "geonames": 3344919
+        },
+        "names": {
+            "long": "Selnica ob Dravi",
+            "short": "Selnica ob Dravi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H1",
+            "geonames": 3344920
+        },
+        "names": {
+            "long": "Hoče-Slivnica",
+            "short": "Hoče-Slivnica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J4",
+            "geonames": 3344921
+        },
+        "names": {
+            "long": "Miklavž na Dravskem Polju",
+            "short": "Miklavž na Dravskem Polju"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G9",
+            "geonames": 3344922
+        },
+        "names": {
+            "long": "Hajdina",
+            "short": "Hajdina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N6",
+            "geonames": 3344923
+        },
+        "names": {
+            "long": "Žetale",
+            "short": "Žetale"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K1",
+            "geonames": 3344924
+        },
+        "names": {
+            "long": "Podlehnik",
+            "short": "Podlehnik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "J3",
+            "geonames": 3344925
+        },
+        "names": {
+            "long": "Markovci",
+            "short": "Markovci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G1",
+            "geonames": 3344926
+        },
+        "names": {
+            "long": "Destrnik",
+            "short": "Destrnik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M7",
+            "geonames": 3344927
+        },
+        "names": {
+            "long": "Trnovska Vas",
+            "short": "Trnovska Vas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M4",
+            "geonames": 3344928
+        },
+        "names": {
+            "long": "Sveti Andraž v Slovenskih Goricah",
+            "short": "Sveti Andraž v Slovenskih Goricah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F9",
+            "geonames": 3344929
+        },
+        "names": {
+            "long": "Cerkvenjak",
+            "short": "Cerkvenjak"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F4",
+            "geonames": 3344930
+        },
+        "names": {
+            "long": "Benedikt",
+            "short": "Benedikt"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M3",
+            "geonames": 3344931
+        },
+        "names": {
+            "long": "Sveta Ana",
+            "short": "Sveta Ana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I1",
+            "geonames": 3344932
+        },
+        "names": {
+            "long": "Križevci",
+            "short": "Križevci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N1",
+            "geonames": 3344933
+        },
+        "names": {
+            "long": "Veržej",
+            "short": "Veržej"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M9",
+            "geonames": 3344934
+        },
+        "names": {
+            "long": "Velika Polana",
+            "short": "Velika Polana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "I4",
+            "geonames": 3344935
+        },
+        "names": {
+            "long": "Lendava-Lendva",
+            "short": "Lendava-Lendva"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G5",
+            "geonames": 3344936
+        },
+        "names": {
+            "long": "Dobrovnik-Dobronak",
+            "short": "Dobrovnik-Dobronak"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M6",
+            "geonames": 3344937
+        },
+        "names": {
+            "long": "Tišina",
+            "short": "Tišina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F8",
+            "geonames": 3344938
+        },
+        "names": {
+            "long": "Cankova",
+            "short": "Cankova"
+        }
+    },
+    {
+        "ids": {
+            "fips": "G8",
+            "geonames": 3344939
+        },
+        "names": {
+            "long": "Grad",
+            "short": "Grad"
+        }
+    },
+    {
+        "ids": {
+            "fips": "H2",
+            "geonames": 3344940
+        },
+        "names": {
+            "long": "Hodoš-Hodos",
+            "short": "Hodoš-Hodos"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K9",
+            "geonames": 3344941
+        },
+        "names": {
+            "long": "Razkrižje",
+            "short": "Razkrižje"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L9",
+            "geonames": 3344942
+        },
+        "names": {
+            "long": "Šmartno pri Litiji",
+            "short": "Šmartno pri Litiji"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L4",
+            "geonames": 3344943
+        },
+        "names": {
+            "long": "Šalovci",
+            "short": "Šalovci"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N9",
+            "geonames": 8133579
+        },
+        "names": {
+            "long": "Apače",
+            "short": "Apače"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O1",
+            "geonames": 8133580
+        },
+        "names": {
+            "long": "Cirkulane",
+            "short": "Cirkulane"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O3",
+            "geonames": 8133581
+        },
+        "names": {
+            "long": "Kostanjevica na Krki",
+            "short": "Kostanjevica na Krki"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O4",
+            "geonames": 8133582
+        },
+        "names": {
+            "long": "Log–Dragomer",
+            "short": "Log–Dragomer"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O5",
+            "geonames": 8133583
+        },
+        "names": {
+            "long": "Makole",
+            "short": "Makole"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O7",
+            "geonames": 8133584
+        },
+        "names": {
+            "long": "Mokronog-Trebelno",
+            "short": "Mokronog-Trebelno"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O8",
+            "geonames": 8133585
+        },
+        "names": {
+            "long": "Poljčane",
+            "short": "Poljčane"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O9",
+            "geonames": 8133586
+        },
+        "names": {
+            "long": "Rečica ob Savinji",
+            "short": "Rečica ob Savinji"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P1",
+            "geonames": 8133587
+        },
+        "names": {
+            "long": "Renče-Vogrsko",
+            "short": "Renče-Vogrsko"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P4",
+            "geonames": 8133588
+        },
+        "names": {
+            "long": "Središče ob Dravi",
+            "short": "Središče ob Dravi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P5",
+            "geonames": 8133589
+        },
+        "names": {
+            "long": "Straža",
+            "short": "Straža"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P6",
+            "geonames": 8133590
+        },
+        "names": {
+            "long": "Sveta Trojica v Slovenskih Goricah",
+            "short": "Sveta Trojica v Slovenskih Goricah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P8",
+            "geonames": 8133591
+        },
+        "names": {
+            "long": "Sveti Tomaž",
+            "short": "Sveti Tomaž"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P2",
+            "geonames": 8133592
+        },
+        "names": {
+            "long": "Šentrupert",
+            "short": "Šentrupert"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P3",
+            "geonames": 8133593
+        },
+        "names": {
+            "long": "Šmarješke Toplice",
+            "short": "Šmarješke Toplice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "P7",
+            "geonames": 8469236
+        },
+        "names": {
+            "long": "Sveti Jurij v Slovenskih Goricah",
+            "short": "Sveti Jurij v Slovenskih Goricah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "O2",
+            "geonames": 8986279
+        },
+        "names": {
+            "long": "Gorje",
+            "short": "Gorje"
+        }
+    }
+]

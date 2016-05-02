@@ -1,0 +1,362 @@
+[
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 1252881
+        },
+        "names": {
+            "long": "West Bengal",
+            "short": "West Bengal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "36",
+            "geonames": 1253626
+        },
+        "names": {
+            "long": "Uttar Pradesh",
+            "short": "Uttar Pradesh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 1254169
+        },
+        "names": {
+            "long": "Tripura",
+            "short": "Tripura"
+        }
+    },
+    {
+        "ids": {
+            "fips": "40",
+            "geonames": 1254788
+        },
+        "names": {
+            "long": "Telangana",
+            "short": "Telangana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 1255053
+        },
+        "names": {
+            "long": "Tamil Nadu",
+            "short": "Tamil Nadu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "29",
+            "geonames": 1256312
+        },
+        "names": {
+            "long": "Sikkim",
+            "short": "Sikkim"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 1258899
+        },
+        "names": {
+            "long": "Rajasthan",
+            "short": "Rajasthan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 1259223
+        },
+        "names": {
+            "long": "Punjab",
+            "short": "Punjab"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 1259424
+        },
+        "names": {
+            "long": "Pondicherry",
+            "short": "Pondicherry"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 1261029
+        },
+        "names": {
+            "long": "Odisha",
+            "short": "Odisha"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 1262271
+        },
+        "names": {
+            "long": "Nagaland",
+            "short": "Nagaland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "31",
+            "geonames": 1262963
+        },
+        "names": {
+            "long": "Mizoram",
+            "short": "Mizoram"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 1263207
+        },
+        "names": {
+            "long": "Meghalaya",
+            "short": "Meghalaya"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 1263706
+        },
+        "names": {
+            "long": "Manipur",
+            "short": "Manipur"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 1264418
+        },
+        "names": {
+            "long": "Maharashtra",
+            "short": "Maharashtra"
+        }
+    },
+    {
+        "ids": {
+            "fips": "35",
+            "geonames": 1264542
+        },
+        "names": {
+            "long": "Madhya Pradesh",
+            "short": "Madhya Pradesh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 1265206
+        },
+        "names": {
+            "long": "Laccadives",
+            "short": "Laccadives"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 1267254
+        },
+        "names": {
+            "long": "Kerala",
+            "short": "Kerala"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 1267701
+        },
+        "names": {
+            "long": "Karnataka",
+            "short": "Karnataka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 1269320
+        },
+        "names": {
+            "long": "Kashmir",
+            "short": "Kashmir"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 1270101
+        },
+        "names": {
+            "long": "Himachal Pradesh",
+            "short": "Himachal Pradesh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 1270260
+        },
+        "names": {
+            "long": "Haryana",
+            "short": "Haryana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 1270770
+        },
+        "names": {
+            "long": "Gujarat",
+            "short": "Gujarat"
+        }
+    },
+    {
+        "ids": {
+            "fips": "32",
+            "geonames": 1271155
+        },
+        "names": {
+            "long": "Daman and Diu",
+            "short": "Daman and Diu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "33",
+            "geonames": 1271157
+        },
+        "names": {
+            "long": "Goa",
+            "short": "Goa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 1273293
+        },
+        "names": {
+            "long": "NCT",
+            "short": "NCT"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 1273726
+        },
+        "names": {
+            "long": "Dadra and Nagar Haveli",
+            "short": "Dadra and Nagar Haveli"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 1274744
+        },
+        "names": {
+            "long": "Chandigarh",
+            "short": "Chandigarh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "34",
+            "geonames": 1275715
+        },
+        "names": {
+            "long": "Bihar",
+            "short": "Bihar"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 1278253
+        },
+        "names": {
+            "long": "Assam",
+            "short": "Assam"
+        }
+    },
+    {
+        "ids": {
+            "fips": "30",
+            "geonames": 1278341
+        },
+        "names": {
+            "long": "Arunachal Pradesh",
+            "short": "Arunachal Pradesh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 1278629
+        },
+        "names": {
+            "long": "Andhra Pradesh",
+            "short": "Andhra Pradesh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 1278647
+        },
+        "names": {
+            "long": "Andaman and Nicobar Islands",
+            "short": "Andaman and Nicobar Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "37",
+            "geonames": 1444364
+        },
+        "names": {
+            "long": "Chhattisgarh",
+            "short": "Chhattisgarh"
+        }
+    },
+    {
+        "ids": {
+            "fips": "38",
+            "geonames": 1444365
+        },
+        "names": {
+            "long": "Jharkhand",
+            "short": "Jharkhand"
+        }
+    },
+    {
+        "ids": {
+            "fips": "39",
+            "geonames": 1444366
+        },
+        "names": {
+            "long": "Uttarakhand",
+            "short": "Uttarakhand"
+        }
+    }
+]

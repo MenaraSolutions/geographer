@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 7602003
+        },
+        "names": {
+            "long": "Qaasuitsup",
+            "short": "Qaasuitsup"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 7602005
+        },
+        "names": {
+            "long": "Kujalleq",
+            "short": "Kujalleq"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 7602006
+        },
+        "names": {
+            "long": "Qeqqata",
+            "short": "Qeqqata"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 7602007
+        },
+        "names": {
+            "long": "Sermersooq",
+            "short": "Sermersooq"
+        }
+    }
+]

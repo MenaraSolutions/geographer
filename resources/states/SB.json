@@ -1,0 +1,102 @@
+[
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 2101556
+        },
+        "names": {
+            "long": "Western Province",
+            "short": "Western Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2106552
+        },
+        "names": {
+            "long": "Malaita",
+            "short": "Malaita"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2108262
+        },
+        "names": {
+            "long": "Isabel",
+            "short": "Isabel"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2108831
+        },
+        "names": {
+            "long": "Guadalcanal",
+            "short": "Guadalcanal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 2109495
+        },
+        "names": {
+            "long": "Central Province",
+            "short": "Central Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2178472
+        },
+        "names": {
+            "long": "Temotu",
+            "short": "Temotu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2178730
+        },
+        "names": {
+            "long": "Makira",
+            "short": "Makira"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 7280292
+        },
+        "names": {
+            "long": "Choiseul",
+            "short": "Choiseul"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 7280293
+        },
+        "names": {
+            "long": "Rennell and Bellona",
+            "short": "Rennell and Bellona"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 9259067
+        },
+        "names": {
+            "long": "Honiara",
+            "short": "Honiara"
+        }
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 293198
+        },
+        "names": {
+            "long": "Jerusalem",
+            "short": "Jerusalem"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 293396
+        },
+        "names": {
+            "long": "Tel Aviv",
+            "short": "Tel Aviv"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 294800
+        },
+        "names": {
+            "long": "Haifa",
+            "short": "Haifa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 294824
+        },
+        "names": {
+            "long": "Northern District",
+            "short": "Northern District"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 294904
+        },
+        "names": {
+            "long": "Central District",
+            "short": "Central District"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 294952
+        },
+        "names": {
+            "long": "Southern District",
+            "short": "Southern District"
+        }
+    }
+]

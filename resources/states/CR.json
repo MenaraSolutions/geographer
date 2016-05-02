@@ -1,0 +1,72 @@
+[
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3621837
+        },
+        "names": {
+            "long": "San José",
+            "short": "San José"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3622226
+        },
+        "names": {
+            "long": "Puntarenas",
+            "short": "Puntarenas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3623064
+        },
+        "names": {
+            "long": "Limón",
+            "short": "Limón"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3623484
+        },
+        "names": {
+            "long": "Heredia",
+            "short": "Heredia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3623582
+        },
+        "names": {
+            "long": "Guanacaste",
+            "short": "Guanacaste"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3624368
+        },
+        "names": {
+            "long": "Cartago",
+            "short": "Cartago"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3624953
+        },
+        "names": {
+            "long": "Alajuela",
+            "short": "Alajuela"
+        }
+    }
+]

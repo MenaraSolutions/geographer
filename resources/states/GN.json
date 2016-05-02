@@ -1,0 +1,82 @@
+[
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2422464
+        },
+        "names": {
+            "long": "Conakry",
+            "short": "Conakry"
+        }
+    },
+    {
+        "ids": {
+            "fips": "B",
+            "geonames": 8335085
+        },
+        "names": {
+            "long": "Boke",
+            "short": "Boke"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F",
+            "geonames": 8335086
+        },
+        "names": {
+            "long": "Faranah",
+            "short": "Faranah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "K",
+            "geonames": 8335087
+        },
+        "names": {
+            "long": "Kankan",
+            "short": "Kankan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "D",
+            "geonames": 8335088
+        },
+        "names": {
+            "long": "Kindia",
+            "short": "Kindia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "L",
+            "geonames": 8335089
+        },
+        "names": {
+            "long": "Labe",
+            "short": "Labe"
+        }
+    },
+    {
+        "ids": {
+            "fips": "M",
+            "geonames": 8335090
+        },
+        "names": {
+            "long": "Mamou",
+            "short": "Mamou"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N",
+            "geonames": 8335091
+        },
+        "names": {
+            "long": "Nzerekore",
+            "short": "Nzerekore"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 921780
+        },
+        "names": {
+            "long": "Mohéli",
+            "short": "Mohéli"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 921882
+        },
+        "names": {
+            "long": "Grande Comore",
+            "short": "Grande Comore"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 922001
+        },
+        "names": {
+            "long": "Anjouan",
+            "short": "Anjouan"
+        }
+    }
+]

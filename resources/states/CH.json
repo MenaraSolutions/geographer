@@ -1,0 +1,262 @@
+[
+    {
+        "ids": {
+            "iso_3166": "ZH",
+            "geonames": 2657895
+        },
+        "names": {
+            "long": "Zurich",
+            "short": "Zurich"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "ZG",
+            "geonames": 2657907
+        },
+        "names": {
+            "long": "Zug",
+            "short": "Zug"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "VD",
+            "geonames": 2658182
+        },
+        "names": {
+            "long": "Vaud",
+            "short": "Vaud"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "VS",
+            "geonames": 2658205
+        },
+        "names": {
+            "long": "Valais",
+            "short": "Valais"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "UR",
+            "geonames": 2658226
+        },
+        "names": {
+            "long": "Uri",
+            "short": "Uri"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "TI",
+            "geonames": 2658370
+        },
+        "names": {
+            "long": "Ticino",
+            "short": "Ticino"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "TG",
+            "geonames": 2658372
+        },
+        "names": {
+            "long": "Thurgau",
+            "short": "Thurgau"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "SO",
+            "geonames": 2658563
+        },
+        "names": {
+            "long": "Solothurn",
+            "short": "Solothurn"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "SZ",
+            "geonames": 2658664
+        },
+        "names": {
+            "long": "Schwyz",
+            "short": "Schwyz"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "SH",
+            "geonames": 2658760
+        },
+        "names": {
+            "long": "Schaffhausen",
+            "short": "Schaffhausen"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "SG",
+            "geonames": 2658821
+        },
+        "names": {
+            "long": "Saint Gallen",
+            "short": "Saint Gallen"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "OW",
+            "geonames": 2659315
+        },
+        "names": {
+            "long": "Obwalden",
+            "short": "Obwalden"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NW",
+            "geonames": 2659471
+        },
+        "names": {
+            "long": "Nidwalden",
+            "short": "Nidwalden"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NE",
+            "geonames": 2659495
+        },
+        "names": {
+            "long": "Neuchâtel",
+            "short": "Neuchâtel"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "LU",
+            "geonames": 2659810
+        },
+        "names": {
+            "long": "Lucerne",
+            "short": "Lucerne"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "JU",
+            "geonames": 2660207
+        },
+        "names": {
+            "long": "Jura",
+            "short": "Jura"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "GR",
+            "geonames": 2660522
+        },
+        "names": {
+            "long": "Grisons",
+            "short": "Grisons"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "GL",
+            "geonames": 2660593
+        },
+        "names": {
+            "long": "Glarus",
+            "short": "Glarus"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "GE",
+            "geonames": 2660645
+        },
+        "names": {
+            "long": "Geneva",
+            "short": "Geneva"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "FR",
+            "geonames": 2660717
+        },
+        "names": {
+            "long": "Fribourg",
+            "short": "Fribourg"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "BE",
+            "geonames": 2661551
+        },
+        "names": {
+            "long": "Bern",
+            "short": "Bern"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "BS",
+            "geonames": 2661602
+        },
+        "names": {
+            "long": "Basel-City",
+            "short": "Basel-City"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "BL",
+            "geonames": 2661603
+        },
+        "names": {
+            "long": "Basel-Landschaft",
+            "short": "Basel-Landschaft"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "AR",
+            "geonames": 2661739
+        },
+        "names": {
+            "long": "Appenzell Ausserrhoden",
+            "short": "Appenzell Ausserrhoden"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "AI",
+            "geonames": 2661741
+        },
+        "names": {
+            "long": "Appenzell Innerrhoden",
+            "short": "Appenzell Innerrhoden"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "AG",
+            "geonames": 2661876
+        },
+        "names": {
+            "long": "Aargau",
+            "short": "Aargau"
+        }
+    }
+]

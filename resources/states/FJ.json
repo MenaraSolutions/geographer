@@ -1,0 +1,52 @@
+[
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2194371
+        },
+        "names": {
+            "long": "Western",
+            "short": "Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2199295
+        },
+        "names": {
+            "long": "Northern",
+            "short": "Northern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2205272
+        },
+        "names": {
+            "long": "Central",
+            "short": "Central"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 4036647
+        },
+        "names": {
+            "long": "Eastern",
+            "short": "Eastern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 6324593
+        },
+        "names": {
+            "long": "Rotuma",
+            "short": "Rotuma"
+        }
+    }
+]

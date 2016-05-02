@@ -1,0 +1,252 @@
+[
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 3625035
+        },
+        "names": {
+            "long": "Zulia",
+            "short": "Zulia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 3625210
+        },
+        "names": {
+            "long": "Yaracuy",
+            "short": "Yaracuy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 3625974
+        },
+        "names": {
+            "long": "Trujillo",
+            "short": "Trujillo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 3626553
+        },
+        "names": {
+            "long": "Táchira",
+            "short": "Táchira"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 3626655
+        },
+        "names": {
+            "long": "Sucre",
+            "short": "Sucre"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 3629941
+        },
+        "names": {
+            "long": "Portuguesa",
+            "short": "Portuguesa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3631462
+        },
+        "names": {
+            "long": "Nueva Esparta",
+            "short": "Nueva Esparta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3632100
+        },
+        "names": {
+            "long": "Monagas",
+            "short": "Monagas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3632191
+        },
+        "names": {
+            "long": "Miranda",
+            "short": "Miranda"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3632306
+        },
+        "names": {
+            "long": "Mérida",
+            "short": "Mérida"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3636539
+        },
+        "names": {
+            "long": "Lara",
+            "short": "Lara"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3640017
+        },
+        "names": {
+            "long": "Guárico",
+            "short": "Guárico"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 3640846
+        },
+        "names": {
+            "long": "Dependencias Federales",
+            "short": "Dependencias Federales"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 3640847
+        },
+        "names": {
+            "long": "Capital",
+            "short": "Capital"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3640873
+        },
+        "names": {
+            "long": "Falcón",
+            "short": "Falcón"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3644541
+        },
+        "names": {
+            "long": "Delta Amacuro",
+            "short": "Delta Amacuro"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3645386
+        },
+        "names": {
+            "long": "Cojedes",
+            "short": "Cojedes"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3646751
+        },
+        "names": {
+            "long": "Carabobo",
+            "short": "Carabobo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3648106
+        },
+        "names": {
+            "long": "Bolívar",
+            "short": "Bolívar"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3648544
+        },
+        "names": {
+            "long": "Barinas",
+            "short": "Barinas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3649110
+        },
+        "names": {
+            "long": "Aragua",
+            "short": "Aragua"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3649151
+        },
+        "names": {
+            "long": "Apure",
+            "short": "Apure"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3649198
+        },
+        "names": {
+            "long": "Anzoátegui",
+            "short": "Anzoátegui"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3649302
+        },
+        "names": {
+            "long": "Amazonas",
+            "short": "Amazonas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 3830309
+        },
+        "names": {
+            "long": "Vargas",
+            "short": "Vargas"
+        }
+    }
+]

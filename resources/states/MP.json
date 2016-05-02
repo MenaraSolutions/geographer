@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "100",
+            "geonames": 4041530
+        },
+        "names": {
+            "long": "Rota",
+            "short": "Rota"
+        }
+    },
+    {
+        "ids": {
+            "fips": "110",
+            "geonames": 4041552
+        },
+        "names": {
+            "long": "Saipan",
+            "short": "Saipan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "120",
+            "geonames": 4041650
+        },
+        "names": {
+            "long": "Tinian",
+            "short": "Tinian"
+        }
+    },
+    {
+        "ids": {
+            "fips": "085",
+            "geonames": 7733156
+        },
+        "names": {
+            "long": "Northern Islands",
+            "short": "Northern Islands"
+        }
+    }
+]

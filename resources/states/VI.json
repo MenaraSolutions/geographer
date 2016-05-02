@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "010",
+            "geonames": 7267902
+        },
+        "names": {
+            "long": "Saint Croix Island",
+            "short": "Saint Croix Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "020",
+            "geonames": 7267903
+        },
+        "names": {
+            "long": "Saint John Island",
+            "short": "Saint John Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "030",
+            "geonames": 7267904
+        },
+        "names": {
+            "long": "Saint Thomas Island",
+            "short": "Saint Thomas Island"
+        }
+    }
+]

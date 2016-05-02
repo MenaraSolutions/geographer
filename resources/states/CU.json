@@ -1,0 +1,162 @@
+[
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3534168
+        },
+        "names": {
+            "long": "Villa Clara",
+            "short": "Villa Clara"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3536725
+        },
+        "names": {
+            "long": "Santiago de Cuba",
+            "short": "Santiago de Cuba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3540665
+        },
+        "names": {
+            "long": "Sancti Spíritus",
+            "short": "Sancti Spíritus"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3544088
+        },
+        "names": {
+            "long": "Pinar del Río",
+            "short": "Pinar del Río"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3547394
+        },
+        "names": {
+            "long": "Matanzas",
+            "short": "Matanzas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3550595
+        },
+        "names": {
+            "long": "Las Tunas",
+            "short": "Las Tunas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3556608
+        },
+        "names": {
+            "long": "Isla de la Juventud",
+            "short": "Isla de la Juventud"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3556965
+        },
+        "names": {
+            "long": "Holguín",
+            "short": "Holguín"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3557685
+        },
+        "names": {
+            "long": "Guantánamo",
+            "short": "Guantánamo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3558052
+        },
+        "names": {
+            "long": "Granma",
+            "short": "Granma"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3564073
+        },
+        "names": {
+            "long": "La Habana",
+            "short": "La Habana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3564120
+        },
+        "names": {
+            "long": "Cienfuegos",
+            "short": "Cienfuegos"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3564175
+        },
+        "names": {
+            "long": "Ciego de Ávila",
+            "short": "Ciego de Ávila"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3566062
+        },
+        "names": {
+            "long": "Camagüey",
+            "short": "Camagüey"
+        }
+    },
+    {
+        "ids": {
+            "fips": "AR",
+            "geonames": 7668824
+        },
+        "names": {
+            "long": "Artemisa",
+            "short": "Artemisa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "MA",
+            "geonames": 7668827
+        },
+        "names": {
+            "long": "Mayabeque",
+            "short": "Mayabeque"
+        }
+    }
+]

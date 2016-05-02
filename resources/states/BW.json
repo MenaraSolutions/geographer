@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 933043
+        },
+        "names": {
+            "long": "Ngwaketsi",
+            "short": "Ngwaketsi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 933044
+        },
+        "names": {
+            "long": "South-East",
+            "short": "South-East"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 933210
+        },
+        "names": {
+            "long": "North-East",
+            "short": "North-East"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 933230
+        },
+        "names": {
+            "long": "North-West",
+            "short": "North-West"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 933562
+        },
+        "names": {
+            "long": "Kweneng",
+            "short": "Kweneng"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 933654
+        },
+        "names": {
+            "long": "Kgatleng",
+            "short": "Kgatleng"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 933657
+        },
+        "names": {
+            "long": "Kgalagadi",
+            "short": "Kgalagadi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 933758
+        },
+        "names": {
+            "long": "Ghanzi",
+            "short": "Ghanzi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 933851
+        },
+        "names": {
+            "long": "Central",
+            "short": "Central"
+        }
+    }
+]

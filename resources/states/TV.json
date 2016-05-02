@@ -1,0 +1,82 @@
+[
+    {
+        "ids": {
+            "fips": "NUI",
+            "geonames": 2110341
+        },
+        "names": {
+            "long": "Nui",
+            "short": "Nui"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NMA",
+            "geonames": 2110345
+        },
+        "names": {
+            "long": "Nanumea",
+            "short": "Nanumea"
+        }
+    },
+    {
+        "ids": {
+            "fips": "FUN",
+            "geonames": 2110384
+        },
+        "names": {
+            "long": "Funafuti",
+            "short": "Funafuti"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NIT",
+            "geonames": 7601979
+        },
+        "names": {
+            "long": "Niutao",
+            "short": "Niutao"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NMG",
+            "geonames": 7601980
+        },
+        "names": {
+            "long": "Nanumanga",
+            "short": "Nanumanga"
+        }
+    },
+    {
+        "ids": {
+            "fips": "VAI",
+            "geonames": 7601981
+        },
+        "names": {
+            "long": "Vaitupu",
+            "short": "Vaitupu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NKF",
+            "geonames": 7601982
+        },
+        "names": {
+            "long": "Nukufetau",
+            "short": "Nukufetau"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NKL",
+            "geonames": 7601983
+        },
+        "names": {
+            "long": "Nukulaelae",
+            "short": "Nukulaelae"
+        }
+    }
+]

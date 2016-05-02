@@ -1,0 +1,132 @@
+[
+    {
+        "ids": {
+            "fips": "93",
+            "geonames": 2985244
+        },
+        "names": {
+            "long": "Provence-Alpes-Côte d'Azur",
+            "short": "Provence-Alpes-Côte d'Azur"
+        }
+    },
+    {
+        "ids": {
+            "fips": "52",
+            "geonames": 2988289
+        },
+        "names": {
+            "long": "Pays de la Loire",
+            "short": "Pays de la Loire"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3012874
+        },
+        "names": {
+            "long": "Île-de-France",
+            "short": "Île-de-France"
+        }
+    },
+    {
+        "ids": {
+            "fips": "94",
+            "geonames": 3023519
+        },
+        "names": {
+            "long": "Corsica",
+            "short": "Corsica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 3027939
+        },
+        "names": {
+            "long": "Centre",
+            "short": "Centre"
+        }
+    },
+    {
+        "ids": {
+            "fips": "53",
+            "geonames": 3030293
+        },
+        "names": {
+            "long": "Brittany",
+            "short": "Brittany"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 11071619
+        },
+        "names": {
+            "long": "Bourgogne-Franche-Comté",
+            "short": "Bourgogne-Franche-Comté"
+        }
+    },
+    {
+        "ids": {
+            "fips": "75",
+            "geonames": 11071620
+        },
+        "names": {
+            "long": "Aquitaine-Limousin-Poitou-Charentes",
+            "short": "Aquitaine-Limousin-Poitou-Charentes"
+        }
+    },
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 11071621
+        },
+        "names": {
+            "long": "Normandy",
+            "short": "Normandy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "44",
+            "geonames": 11071622
+        },
+        "names": {
+            "long": "Alsace-Champagne-Ardenne-Lorraine",
+            "short": "Alsace-Champagne-Ardenne-Lorraine"
+        }
+    },
+    {
+        "ids": {
+            "fips": "76",
+            "geonames": 11071623
+        },
+        "names": {
+            "long": "Languedoc-Roussillon-Midi-Pyrénées",
+            "short": "Languedoc-Roussillon-Midi-Pyrénées"
+        }
+    },
+    {
+        "ids": {
+            "fips": "32",
+            "geonames": 11071624
+        },
+        "names": {
+            "long": "Nord-Pas-de-Calais-Picardie",
+            "short": "Nord-Pas-de-Calais-Picardie"
+        }
+    },
+    {
+        "ids": {
+            "fips": "84",
+            "geonames": 11071625
+        },
+        "names": {
+            "long": "Auvergne-Rhône-Alpes",
+            "short": "Auvergne-Rhône-Alpes"
+        }
+    }
+]

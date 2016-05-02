@@ -1,0 +1,82 @@
+[
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 865084
+        },
+        "names": {
+            "long": "Košický",
+            "short": "Košický"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 865085
+        },
+        "names": {
+            "long": "Prešovský",
+            "short": "Prešovský"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3056506
+        },
+        "names": {
+            "long": "Žilinský",
+            "short": "Žilinský"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3343954
+        },
+        "names": {
+            "long": "Banskobystrický",
+            "short": "Banskobystrický"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3343955
+        },
+        "names": {
+            "long": "Bratislavský",
+            "short": "Bratislavský"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3343956
+        },
+        "names": {
+            "long": "Nitriansky",
+            "short": "Nitriansky"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3343957
+        },
+        "names": {
+            "long": "Trenčiansky",
+            "short": "Trenčiansky"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3343958
+        },
+        "names": {
+            "long": "Trnavský",
+            "short": "Trnavský"
+        }
+    }
+]

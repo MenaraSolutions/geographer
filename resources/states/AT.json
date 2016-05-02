@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2761367
+        },
+        "names": {
+            "long": "Vienna",
+            "short": "Vienna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2762300
+        },
+        "names": {
+            "long": "Vorarlberg",
+            "short": "Vorarlberg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2763586
+        },
+        "names": {
+            "long": "Tyrol",
+            "short": "Tyrol"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2764581
+        },
+        "names": {
+            "long": "Styria",
+            "short": "Styria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2766823
+        },
+        "names": {
+            "long": "Salzburg",
+            "short": "Salzburg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2769848
+        },
+        "names": {
+            "long": "Upper Austria",
+            "short": "Upper Austria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2770542
+        },
+        "names": {
+            "long": "Lower Austria",
+            "short": "Lower Austria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2774686
+        },
+        "names": {
+            "long": "Carinthia",
+            "short": "Carinthia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2781194
+        },
+        "names": {
+            "long": "Burgenland",
+            "short": "Burgenland"
+        }
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3042031
+        },
+        "names": {
+            "long": "Vaduz",
+            "short": "Vaduz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3042034
+        },
+        "names": {
+            "long": "Triesenberg",
+            "short": "Triesenberg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3042036
+        },
+        "names": {
+            "long": "Triesen",
+            "short": "Triesen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3042038
+        },
+        "names": {
+            "long": "Schellenberg",
+            "short": "Schellenberg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3042042
+        },
+        "names": {
+            "long": "Schaan",
+            "short": "Schaan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3042047
+        },
+        "names": {
+            "long": "Ruggell",
+            "short": "Ruggell"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3042050
+        },
+        "names": {
+            "long": "Planken",
+            "short": "Planken"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3042056
+        },
+        "names": {
+            "long": "Mauren",
+            "short": "Mauren"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3042063
+        },
+        "names": {
+            "long": "Gamprin",
+            "short": "Gamprin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3042069
+        },
+        "names": {
+            "long": "Eschen",
+            "short": "Eschen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3042074
+        },
+        "names": {
+            "long": "Balzers",
+            "short": "Balzers"
+        }
+    }
+]

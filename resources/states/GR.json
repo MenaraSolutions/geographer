@@ -1,0 +1,142 @@
+[
+    {
+        "ids": {
+            "fips": "736572",
+            "geonames": 736572
+        },
+        "names": {
+            "long": "Mount Athos",
+            "short": "Mount Athos"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE31",
+            "geonames": 6692632
+        },
+        "names": {
+            "long": "Attica",
+            "short": "Attica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE24",
+            "geonames": 6697800
+        },
+        "names": {
+            "long": "Central Greece",
+            "short": "Central Greece"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE12",
+            "geonames": 6697801
+        },
+        "names": {
+            "long": "Central Macedonia",
+            "short": "Central Macedonia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE43",
+            "geonames": 6697802
+        },
+        "names": {
+            "long": "Crete",
+            "short": "Crete"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE11",
+            "geonames": 6697803
+        },
+        "names": {
+            "long": "East Macedonia and Thrace",
+            "short": "East Macedonia and Thrace"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE21",
+            "geonames": 6697804
+        },
+        "names": {
+            "long": "Epirus",
+            "short": "Epirus"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE22",
+            "geonames": 6697805
+        },
+        "names": {
+            "long": "Ionian Islands",
+            "short": "Ionian Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE41",
+            "geonames": 6697806
+        },
+        "names": {
+            "long": "North Aegean",
+            "short": "North Aegean"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE25",
+            "geonames": 6697807
+        },
+        "names": {
+            "long": "Peloponnese",
+            "short": "Peloponnese"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE42",
+            "geonames": 6697808
+        },
+        "names": {
+            "long": "South Aegean",
+            "short": "South Aegean"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE14",
+            "geonames": 6697809
+        },
+        "names": {
+            "long": "Thessaly",
+            "short": "Thessaly"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE23",
+            "geonames": 6697810
+        },
+        "names": {
+            "long": "West Greece",
+            "short": "West Greece"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ESYE13",
+            "geonames": 6697811
+        },
+        "names": {
+            "long": "West Macedonia",
+            "short": "West Macedonia"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3229999
+        },
+        "names": {
+            "long": "Federation of Bosnia and Herzegovina",
+            "short": "Federation of Bosnia and Herzegovina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3230000
+        },
+        "names": {
+            "long": "Republika Srpska",
+            "short": "Republika Srpska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "BRC",
+            "geonames": 3294903
+        },
+        "names": {
+            "long": "Brčko",
+            "short": "Brčko"
+        }
+    }
+]

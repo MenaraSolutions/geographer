@@ -1,0 +1,62 @@
+[
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3580913
+        },
+        "names": {
+            "long": "Toledo",
+            "short": "Toledo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3580975
+        },
+        "names": {
+            "long": "Stann Creek",
+            "short": "Stann Creek"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3581511
+        },
+        "names": {
+            "long": "Orange Walk",
+            "short": "Orange Walk"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3582302
+        },
+        "names": {
+            "long": "Corozal",
+            "short": "Corozal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3582429
+        },
+        "names": {
+            "long": "Cayo",
+            "short": "Cayo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3582676
+        },
+        "names": {
+            "long": "Belize",
+            "short": "Belize"
+        }
+    }
+]

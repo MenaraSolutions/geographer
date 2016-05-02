@@ -1,0 +1,122 @@
+[
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 2743698
+        },
+        "names": {
+            "long": "South Holland",
+            "short": "South Holland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 2744011
+        },
+        "names": {
+            "long": "Zeeland",
+            "short": "Zeeland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2745909
+        },
+        "names": {
+            "long": "Utrecht",
+            "short": "Utrecht"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 2748838
+        },
+        "names": {
+            "long": "Overijssel",
+            "short": "Overijssel"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2749879
+        },
+        "names": {
+            "long": "North Holland",
+            "short": "North Holland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2749990
+        },
+        "names": {
+            "long": "North Brabant",
+            "short": "North Brabant"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2751596
+        },
+        "names": {
+            "long": "Limburg",
+            "short": "Limburg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2755249
+        },
+        "names": {
+            "long": "Groningen",
+            "short": "Groningen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2755634
+        },
+        "names": {
+            "long": "Gelderland",
+            "short": "Gelderland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2755812
+        },
+        "names": {
+            "long": "Friesland",
+            "short": "Friesland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2756631
+        },
+        "names": {
+            "long": "Drenthe",
+            "short": "Drenthe"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3319179
+        },
+        "names": {
+            "long": "Flevoland",
+            "short": "Flevoland"
+        }
+    }
+]

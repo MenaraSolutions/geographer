@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2396076
+        },
+        "names": {
+            "long": "Woleu-Ntem",
+            "short": "Woleu-Ntem"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2396924
+        },
+        "names": {
+            "long": "Ogooué-Maritime",
+            "short": "Ogooué-Maritime"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2396925
+        },
+        "names": {
+            "long": "Ogooué-Lolo",
+            "short": "Ogooué-Lolo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2396926
+        },
+        "names": {
+            "long": "Ogooué-Ivindo",
+            "short": "Ogooué-Ivindo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2397141
+        },
+        "names": {
+            "long": "Nyanga",
+            "short": "Nyanga"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2397466
+        },
+        "names": {
+            "long": "Ngouni",
+            "short": "Ngouni"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2397842
+        },
+        "names": {
+            "long": "Moyen-Ogooué",
+            "short": "Moyen-Ogooué"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2400454
+        },
+        "names": {
+            "long": "Haut-Ogooué",
+            "short": "Haut-Ogooué"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2400682
+        },
+        "names": {
+            "long": "Estuaire",
+            "short": "Estuaire"
+        }
+    }
+]

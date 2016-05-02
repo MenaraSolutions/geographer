@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "450",
+            "geonames": 4041685
+        },
+        "names": {
+            "long": "Wake Island",
+            "short": "Wake Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "350",
+            "geonames": 4743755
+        },
+        "names": {
+            "long": "Navassa Island",
+            "short": "Navassa Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "050",
+            "geonames": 5854907
+        },
+        "names": {
+            "long": "Baker Island",
+            "short": "Baker Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "100",
+            "geonames": 5854922
+        },
+        "names": {
+            "long": "Howland Island",
+            "short": "Howland Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "150",
+            "geonames": 5854926
+        },
+        "names": {
+            "long": "Jarvis Island",
+            "short": "Jarvis Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "200",
+            "geonames": 5854929
+        },
+        "names": {
+            "long": "Johnston Atoll",
+            "short": "Johnston Atoll"
+        }
+    },
+    {
+        "ids": {
+            "fips": "250",
+            "geonames": 5854936
+        },
+        "names": {
+            "long": "Kingman Reef",
+            "short": "Kingman Reef"
+        }
+    },
+    {
+        "ids": {
+            "fips": "300",
+            "geonames": 5854943
+        },
+        "names": {
+            "long": "Midway Islands",
+            "short": "Midway Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "400",
+            "geonames": 5854952
+        },
+        "names": {
+            "long": "Palmyra Atoll",
+            "short": "Palmyra Atoll"
+        }
+    }
+]

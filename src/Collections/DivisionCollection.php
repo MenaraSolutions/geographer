@@ -30,7 +30,7 @@ class DivisionCollection implements \ArrayAccess, \Countable
     /**
      * @param $division
      */
-    public function addDivision($division)
+    public function add($division)
     {
         $this->divisions[] = $division;
     }

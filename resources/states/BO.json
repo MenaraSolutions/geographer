@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3903319
+        },
+        "names": {
+            "long": "Tarija",
+            "short": "Tarija"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3904907
+        },
+        "names": {
+            "long": "Santa Cruz",
+            "short": "Santa Cruz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3907580
+        },
+        "names": {
+            "long": "Potosí",
+            "short": "Potosí"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3908600
+        },
+        "names": {
+            "long": "Pando",
+            "short": "Pando"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3909233
+        },
+        "names": {
+            "long": "Oruro",
+            "short": "Oruro"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3911924
+        },
+        "names": {
+            "long": "La Paz",
+            "short": "La Paz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3919966
+        },
+        "names": {
+            "long": "Cochabamba",
+            "short": "Cochabamba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3920177
+        },
+        "names": {
+            "long": "Chuquisaca",
+            "short": "Chuquisaca"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3923172
+        },
+        "names": {
+            "long": "El Beni",
+            "short": "El Beni"
+        }
+    }
+]

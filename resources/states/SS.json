@@ -1,0 +1,102 @@
+[
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 381229
+        },
+        "names": {
+            "long": "Upper Nile",
+            "short": "Upper Nile"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 408647
+        },
+        "names": {
+            "long": "Lakes",
+            "short": "Lakes"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 408650
+        },
+        "names": {
+            "long": "Unity",
+            "short": "Unity"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 408655
+        },
+        "names": {
+            "long": "Central Equatoria",
+            "short": "Central Equatoria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 408656
+        },
+        "names": {
+            "long": "Western Equatoria",
+            "short": "Western Equatoria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 408657
+        },
+        "names": {
+            "long": "Western Bahr al Ghazal",
+            "short": "Western Bahr al Ghazal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 408662
+        },
+        "names": {
+            "long": "Jonglei",
+            "short": "Jonglei"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 408665
+        },
+        "names": {
+            "long": "Northern Bahr al Ghazal",
+            "short": "Northern Bahr al Ghazal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 408668
+        },
+        "names": {
+            "long": "Eastern Equatoria",
+            "short": "Eastern Equatoria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 408670
+        },
+        "names": {
+            "long": "Warrap",
+            "short": "Warrap"
+        }
+    }
+]

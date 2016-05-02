@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 7280288
+        },
+        "names": {
+            "long": "Fukien",
+            "short": "Fukien"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 7280289
+        },
+        "names": {
+            "long": "Takao",
+            "short": "Takao"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 7280290
+        },
+        "names": {
+            "long": "Taipei",
+            "short": "Taipei"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 7280291
+        },
+        "names": {
+            "long": "Taiwan",
+            "short": "Taiwan"
+        }
+    }
+]

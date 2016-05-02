@@ -1,0 +1,132 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 5883102
+        },
+        "names": {
+            "long": "Alberta",
+            "short": "Alberta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 5909050
+        },
+        "names": {
+            "long": "British Columbia",
+            "short": "British Columbia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 6065171
+        },
+        "names": {
+            "long": "Manitoba",
+            "short": "Manitoba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 6087430
+        },
+        "names": {
+            "long": "New Brunswick",
+            "short": "New Brunswick"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 6091069
+        },
+        "names": {
+            "long": "Northwest Territories",
+            "short": "Northwest Territories"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 6091530
+        },
+        "names": {
+            "long": "Nova Scotia",
+            "short": "Nova Scotia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 6091732
+        },
+        "names": {
+            "long": "Nunavut",
+            "short": "Nunavut"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 6093943
+        },
+        "names": {
+            "long": "Ontario",
+            "short": "Ontario"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 6113358
+        },
+        "names": {
+            "long": "Prince Edward Island",
+            "short": "Prince Edward Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 6115047
+        },
+        "names": {
+            "long": "Quebec",
+            "short": "Quebec"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 6141242
+        },
+        "names": {
+            "long": "Saskatchewan",
+            "short": "Saskatchewan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 6185811
+        },
+        "names": {
+            "long": "Yukon",
+            "short": "Yukon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 6354959
+        },
+        "names": {
+            "long": "Newfoundland and Labrador",
+            "short": "Newfoundland and Labrador"
+        }
+    }
+]

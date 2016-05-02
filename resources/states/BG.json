@@ -1,0 +1,282 @@
+[
+    {
+        "ids": {
+            "fips": "52",
+            "geonames": 453751
+        },
+        "names": {
+            "long": "Razgrad",
+            "short": "Razgrad"
+        }
+    },
+    {
+        "ids": {
+            "fips": "47",
+            "geonames": 453753
+        },
+        "names": {
+            "long": "Montana",
+            "short": "Montana"
+        }
+    },
+    {
+        "ids": {
+            "fips": "64",
+            "geonames": 725713
+        },
+        "names": {
+            "long": "Vratsa",
+            "short": "Vratsa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "61",
+            "geonames": 726051
+        },
+        "names": {
+            "long": "Varna",
+            "short": "Varna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "40",
+            "geonames": 726419
+        },
+        "names": {
+            "long": "Dobrich",
+            "short": "Dobrich"
+        }
+    },
+    {
+        "ids": {
+            "fips": "58",
+            "geonames": 727012
+        },
+        "names": {
+            "long": "Sofia Province",
+            "short": "Sofia Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "53",
+            "geonames": 727524
+        },
+        "names": {
+            "long": "Ruse",
+            "short": "Ruse"
+        }
+    },
+    {
+        "ids": {
+            "fips": "51",
+            "geonames": 728194
+        },
+        "names": {
+            "long": "Plovdiv",
+            "short": "Plovdiv"
+        }
+    },
+    {
+        "ids": {
+            "fips": "50",
+            "geonames": 728204
+        },
+        "names": {
+            "long": "Pleven",
+            "short": "Pleven"
+        }
+    },
+    {
+        "ids": {
+            "fips": "49",
+            "geonames": 728331
+        },
+        "names": {
+            "long": "Pernik",
+            "short": "Pernik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "48",
+            "geonames": 728379
+        },
+        "names": {
+            "long": "Pazardzhik",
+            "short": "Pazardzhik"
+        }
+    },
+    {
+        "ids": {
+            "fips": "46",
+            "geonames": 729560
+        },
+        "names": {
+            "long": "Lovech",
+            "short": "Lovech"
+        }
+    },
+    {
+        "ids": {
+            "fips": "43",
+            "geonames": 730436
+        },
+        "names": {
+            "long": "Khaskovo",
+            "short": "Khaskovo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "42",
+            "geonames": 731061
+        },
+        "names": {
+            "long": "Sofia-Capital",
+            "short": "Sofia-Capital"
+        }
+    },
+    {
+        "ids": {
+            "fips": "39",
+            "geonames": 732771
+        },
+        "names": {
+            "long": "Burgas",
+            "short": "Burgas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "38",
+            "geonames": 733192
+        },
+        "names": {
+            "long": "Blagoevgrad",
+            "short": "Blagoevgrad"
+        }
+    },
+    {
+        "ids": {
+            "fips": "41",
+            "geonames": 864552
+        },
+        "names": {
+            "long": "Gabrovo",
+            "short": "Gabrovo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "44",
+            "geonames": 864553
+        },
+        "names": {
+            "long": "Kŭrdzhali",
+            "short": "Kŭrdzhali"
+        }
+    },
+    {
+        "ids": {
+            "fips": "45",
+            "geonames": 864554
+        },
+        "names": {
+            "long": "Kyustendil",
+            "short": "Kyustendil"
+        }
+    },
+    {
+        "ids": {
+            "fips": "54",
+            "geonames": 864555
+        },
+        "names": {
+            "long": "Shumen",
+            "short": "Shumen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "55",
+            "geonames": 864556
+        },
+        "names": {
+            "long": "Silistra",
+            "short": "Silistra"
+        }
+    },
+    {
+        "ids": {
+            "fips": "56",
+            "geonames": 864557
+        },
+        "names": {
+            "long": "Sliven",
+            "short": "Sliven"
+        }
+    },
+    {
+        "ids": {
+            "fips": "57",
+            "geonames": 864558
+        },
+        "names": {
+            "long": "Smolyan",
+            "short": "Smolyan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "59",
+            "geonames": 864559
+        },
+        "names": {
+            "long": "Stara Zagora",
+            "short": "Stara Zagora"
+        }
+    },
+    {
+        "ids": {
+            "fips": "60",
+            "geonames": 864560
+        },
+        "names": {
+            "long": "Tŭrgovishte",
+            "short": "Tŭrgovishte"
+        }
+    },
+    {
+        "ids": {
+            "fips": "62",
+            "geonames": 864561
+        },
+        "names": {
+            "long": "Veliko Tŭrnovo",
+            "short": "Veliko Tŭrnovo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "63",
+            "geonames": 864562
+        },
+        "names": {
+            "long": "Vidin",
+            "short": "Vidin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "65",
+            "geonames": 864563
+        },
+        "names": {
+            "long": "Yambol",
+            "short": "Yambol"
+        }
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 1820068
+        },
+        "names": {
+            "long": "Tutong",
+            "short": "Tutong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 1820106
+        },
+        "names": {
+            "long": "Temburong",
+            "short": "Temburong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 1820818
+        },
+        "names": {
+            "long": "Brunei and Muara",
+            "short": "Brunei and Muara"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 1820869
+        },
+        "names": {
+            "long": "Belait",
+            "short": "Belait"
+        }
+    }
+]

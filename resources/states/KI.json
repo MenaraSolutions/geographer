@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2110215
+        },
+        "names": {
+            "long": "Gilbert Islands",
+            "short": "Gilbert Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 4030940
+        },
+        "names": {
+            "long": "Line Islands",
+            "short": "Line Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 7521379
+        },
+        "names": {
+            "long": "Phoenix Islands",
+            "short": "Phoenix Islands"
+        }
+    }
+]

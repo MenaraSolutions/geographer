@@ -1,0 +1,152 @@
+[
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 587448
+        },
+        "names": {
+            "long": "Võrumaa",
+            "short": "Võrumaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 587590
+        },
+        "names": {
+            "long": "Viljandimaa",
+            "short": "Viljandimaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 587875
+        },
+        "names": {
+            "long": "Valgamaa",
+            "short": "Valgamaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 588334
+        },
+        "names": {
+            "long": "Tartu",
+            "short": "Tartu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 588879
+        },
+        "names": {
+            "long": "Saare",
+            "short": "Saare"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 589115
+        },
+        "names": {
+            "long": "Raplamaa",
+            "short": "Raplamaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 589373
+        },
+        "names": {
+            "long": "Põlvamaa",
+            "short": "Põlvamaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 589576
+        },
+        "names": {
+            "long": "Pärnumaa",
+            "short": "Pärnumaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 590854
+        },
+        "names": {
+            "long": "Lääne-Virumaa",
+            "short": "Lääne-Virumaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 590856
+        },
+        "names": {
+            "long": "Lääne",
+            "short": "Lääne"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 591901
+        },
+        "names": {
+            "long": "Jõgevamaa",
+            "short": "Jõgevamaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 591961
+        },
+        "names": {
+            "long": "Järvamaa",
+            "short": "Järvamaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 592075
+        },
+        "names": {
+            "long": "Ida-Virumaa",
+            "short": "Ida-Virumaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 592133
+        },
+        "names": {
+            "long": "Hiiumaa",
+            "short": "Hiiumaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 592170
+        },
+        "names": {
+            "long": "Harjumaa",
+            "short": "Harjumaa"
+        }
+    }
+]

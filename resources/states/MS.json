@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3578039
+        },
+        "names": {
+            "long": "Saint Peter",
+            "short": "Saint Peter"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3578044
+        },
+        "names": {
+            "long": "Saint Georges",
+            "short": "Saint Georges"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3578045
+        },
+        "names": {
+            "long": "Saint Anthony",
+            "short": "Saint Anthony"
+        }
+    }
+]

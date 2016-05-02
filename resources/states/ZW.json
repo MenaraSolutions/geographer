@@ -1,0 +1,102 @@
+[
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 886119
+        },
+        "names": {
+            "long": "Midlands",
+            "short": "Midlands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 886747
+        },
+        "names": {
+            "long": "Matabeleland South",
+            "short": "Matabeleland South"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 886748
+        },
+        "names": {
+            "long": "Matabeleland North",
+            "short": "Matabeleland North"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 886761
+        },
+        "names": {
+            "long": "Masvingo",
+            "short": "Masvingo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 886841
+        },
+        "names": {
+            "long": "Mashonaland West",
+            "short": "Mashonaland West"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 886842
+        },
+        "names": {
+            "long": "Mashonaland East",
+            "short": "Mashonaland East"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 886843
+        },
+        "names": {
+            "long": "Mashonaland Central",
+            "short": "Mashonaland Central"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 887358
+        },
+        "names": {
+            "long": "Manicaland",
+            "short": "Manicaland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 1105843
+        },
+        "names": {
+            "long": "Bulawayo",
+            "short": "Bulawayo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 1105844
+        },
+        "names": {
+            "long": "Harare",
+            "short": "Harare"
+        }
+    }
+]

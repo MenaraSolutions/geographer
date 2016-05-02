@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "C",
+            "geonames": 234594
+        },
+        "names": {
+            "long": "Central Region",
+            "short": "Central Region"
+        }
+    },
+    {
+        "ids": {
+            "fips": "E",
+            "geonames": 8260673
+        },
+        "names": {
+            "long": "Eastern Region",
+            "short": "Eastern Region"
+        }
+    },
+    {
+        "ids": {
+            "fips": "N",
+            "geonames": 8260674
+        },
+        "names": {
+            "long": "Northern Region",
+            "short": "Northern Region"
+        }
+    },
+    {
+        "ids": {
+            "fips": "W",
+            "geonames": 8260675
+        },
+        "names": {
+            "long": "Western Region",
+            "short": "Western Region"
+        }
+    }
+]

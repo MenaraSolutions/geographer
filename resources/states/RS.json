@@ -1,0 +1,22 @@
+[
+    {
+        "ids": {
+            "fips": "VO",
+            "geonames": 784272
+        },
+        "names": {
+            "long": "Vojvodina",
+            "short": "Vojvodina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SE",
+            "geonames": 785958
+        },
+        "names": {
+            "long": "Central Serbia",
+            "short": "Central Serbia"
+        }
+    }
+]

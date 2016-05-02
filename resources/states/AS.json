@@ -1,0 +1,52 @@
+[
+    {
+        "ids": {
+            "fips": "050",
+            "geonames": 5880873
+        },
+        "names": {
+            "long": "Western District",
+            "short": "Western District"
+        }
+    },
+    {
+        "ids": {
+            "fips": "040",
+            "geonames": 5881199
+        },
+        "names": {
+            "long": "Swains Island",
+            "short": "Swains Island"
+        }
+    },
+    {
+        "ids": {
+            "fips": "010",
+            "geonames": 5881219
+        },
+        "names": {
+            "long": "Eastern District",
+            "short": "Eastern District"
+        }
+    },
+    {
+        "ids": {
+            "fips": "020",
+            "geonames": 5881436
+        },
+        "names": {
+            "long": "Manu'a",
+            "short": "Manu'a"
+        }
+    },
+    {
+        "ids": {
+            "fips": "030",
+            "geonames": 7309441
+        },
+        "names": {
+            "long": "Rose Island",
+            "short": "Rose Island"
+        }
+    }
+]

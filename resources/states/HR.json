@@ -1,0 +1,212 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3337511
+        },
+        "names": {
+            "long": "Bjelovarsko-Bilogorska",
+            "short": "Bjelovarsko-Bilogorska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3337512
+        },
+        "names": {
+            "long": "Brodsko-Posavska",
+            "short": "Brodsko-Posavska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3337513
+        },
+        "names": {
+            "long": "Dubrovačko-Neretvanska",
+            "short": "Dubrovačko-Neretvanska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3337514
+        },
+        "names": {
+            "long": "Istarska",
+            "short": "Istarska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3337515
+        },
+        "names": {
+            "long": "Karlovačka",
+            "short": "Karlovačka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3337518
+        },
+        "names": {
+            "long": "Koprivničko-Križevačka",
+            "short": "Koprivničko-Križevačka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3337519
+        },
+        "names": {
+            "long": "Krapinsko-Zagorska",
+            "short": "Krapinsko-Zagorska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3337520
+        },
+        "names": {
+            "long": "Ličko-Senjska",
+            "short": "Ličko-Senjska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3337521
+        },
+        "names": {
+            "long": "Međimurska",
+            "short": "Međimurska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3337522
+        },
+        "names": {
+            "long": "Osječko-Baranjska",
+            "short": "Osječko-Baranjska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3337523
+        },
+        "names": {
+            "long": "Požeško-Slavonska",
+            "short": "Požeško-Slavonska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3337524
+        },
+        "names": {
+            "long": "Primorsko-Goranska",
+            "short": "Primorsko-Goranska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3337525
+        },
+        "names": {
+            "long": "Šibensko-Kniniska",
+            "short": "Šibensko-Kniniska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3337526
+        },
+        "names": {
+            "long": "Sisačko-Moslavačka",
+            "short": "Sisačko-Moslavačka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3337527
+        },
+        "names": {
+            "long": "Splitsko-Dalmatinska",
+            "short": "Splitsko-Dalmatinska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3337528
+        },
+        "names": {
+            "long": "Varaždinska",
+            "short": "Varaždinska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 3337529
+        },
+        "names": {
+            "long": "Vukovarsko-Srijemska",
+            "short": "Vukovarsko-Srijemska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 3337530
+        },
+        "names": {
+            "long": "Zadarska",
+            "short": "Zadarska"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 3337531
+        },
+        "names": {
+            "long": "Zagrebačka",
+            "short": "Zagrebačka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 3337532
+        },
+        "names": {
+            "long": "Grad Zagreb",
+            "short": "Grad Zagreb"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3337533
+        },
+        "names": {
+            "long": "Virovitičk-Podravska",
+            "short": "Virovitičk-Podravska"
+        }
+    }
+]

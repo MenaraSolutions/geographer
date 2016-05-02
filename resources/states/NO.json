@@ -1,0 +1,192 @@
+[
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 780166
+        },
+        "names": {
+            "long": "Finnmark Fylke",
+            "short": "Finnmark Fylke"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 3132015
+        },
+        "names": {
+            "long": "Vestfold",
+            "short": "Vestfold"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 3132064
+        },
+        "names": {
+            "long": "Vest-Agder",
+            "short": "Vest-Agder"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 3133897
+        },
+        "names": {
+            "long": "Troms",
+            "short": "Troms"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3134723
+        },
+        "names": {
+            "long": "Telemark",
+            "short": "Telemark"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3137400
+        },
+        "names": {
+            "long": "Sør-Trøndelag",
+            "short": "Sør-Trøndelag"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3137966
+        },
+        "names": {
+            "long": "Sogn og Fjordane",
+            "short": "Sogn og Fjordane"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3141558
+        },
+        "names": {
+            "long": "Rogaland",
+            "short": "Rogaland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3143188
+        },
+        "names": {
+            "long": "Østfold",
+            "short": "Østfold"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3143242
+        },
+        "names": {
+            "long": "Oslo",
+            "short": "Oslo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3143487
+        },
+        "names": {
+            "long": "Oppland",
+            "short": "Oppland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3144148
+        },
+        "names": {
+            "long": "Nord-Trøndelag",
+            "short": "Nord-Trøndelag"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3144301
+        },
+        "names": {
+            "long": "Nordland",
+            "short": "Nordland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3145495
+        },
+        "names": {
+            "long": "Møre og Romsdal",
+            "short": "Møre og Romsdal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3151864
+        },
+        "names": {
+            "long": "Hordaland",
+            "short": "Hordaland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3153403
+        },
+        "names": {
+            "long": "Hedmark",
+            "short": "Hedmark"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3159665
+        },
+        "names": {
+            "long": "Buskerud",
+            "short": "Buskerud"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3162354
+        },
+        "names": {
+            "long": "Aust-Agder",
+            "short": "Aust-Agder"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3163480
+        },
+        "names": {
+            "long": "Akershus",
+            "short": "Akershus"
+        }
+    }
+]

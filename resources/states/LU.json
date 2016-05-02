@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2960314
+        },
+        "names": {
+            "long": "Luxembourg",
+            "short": "Luxembourg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2960513
+        },
+        "names": {
+            "long": "Grevenmacher",
+            "short": "Grevenmacher"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2960655
+        },
+        "names": {
+            "long": "Diekirch",
+            "short": "Diekirch"
+        }
+    }
+]

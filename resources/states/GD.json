@@ -1,0 +1,72 @@
+[
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3579907
+        },
+        "names": {
+            "long": "Saint Patrick",
+            "short": "Saint Patrick"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3579913
+        },
+        "names": {
+            "long": "Saint Mark",
+            "short": "Saint Mark"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3579919
+        },
+        "names": {
+            "long": "Saint John",
+            "short": "Saint John"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3579926
+        },
+        "names": {
+            "long": "Saint George",
+            "short": "Saint George"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3579932
+        },
+        "names": {
+            "long": "Saint David",
+            "short": "Saint David"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3579938
+        },
+        "names": {
+            "long": "Saint Andrew",
+            "short": "Saint Andrew"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 7303836
+        },
+        "names": {
+            "long": "Carriacou and Petite Martinique",
+            "short": "Carriacou and Petite Martinique"
+        }
+    }
+]

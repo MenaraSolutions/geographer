@@ -1,0 +1,102 @@
+[
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 3375463
+        },
+        "names": {
+            "long": "Upper Takutu-Upper Essequibo",
+            "short": "Upper Takutu-Upper Essequibo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 3375469
+        },
+        "names": {
+            "long": "Upper Demerara-Berbice",
+            "short": "Upper Demerara-Berbice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3376386
+        },
+        "names": {
+            "long": "Potaro-Siparuni",
+            "short": "Potaro-Siparuni"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3376407
+        },
+        "names": {
+            "long": "Pomeroon-Supenaam",
+            "short": "Pomeroon-Supenaam"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 3377274
+        },
+        "names": {
+            "long": "Mahaica-Berbice",
+            "short": "Mahaica-Berbice"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3378741
+        },
+        "names": {
+            "long": "Essequibo Islands-West Demerara",
+            "short": "Essequibo Islands-West Demerara"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3378840
+        },
+        "names": {
+            "long": "East Berbice-Corentyne",
+            "short": "East Berbice-Corentyne"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3378950
+        },
+        "names": {
+            "long": "Demerara-Mahaica",
+            "short": "Demerara-Mahaica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3379023
+        },
+        "names": {
+            "long": "Cuyuni-Mazaruni",
+            "short": "Cuyuni-Mazaruni"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3379515
+        },
+        "names": {
+            "long": "Barima-Waini",
+            "short": "Barima-Waini"
+        }
+    }
+]

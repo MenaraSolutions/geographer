@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "36",
+            "geonames": 1223421
+        },
+        "names": {
+            "long": "Western",
+            "short": "Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "35",
+            "geonames": 1225265
+        },
+        "names": {
+            "long": "Uva",
+            "short": "Uva"
+        }
+    },
+    {
+        "ids": {
+            "fips": "34",
+            "geonames": 1227618
+        },
+        "names": {
+            "long": "Southern",
+            "short": "Southern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "33",
+            "geonames": 1228435
+        },
+        "names": {
+            "long": "Sabaragamuwa",
+            "short": "Sabaragamuwa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "32",
+            "geonames": 1232860
+        },
+        "names": {
+            "long": "North Western",
+            "short": "North Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "30",
+            "geonames": 1232870
+        },
+        "names": {
+            "long": "North Central",
+            "short": "North Central"
+        }
+    },
+    {
+        "ids": {
+            "fips": "29",
+            "geonames": 1249296
+        },
+        "names": {
+            "long": "Central",
+            "short": "Central"
+        }
+    },
+    {
+        "ids": {
+            "fips": "38",
+            "geonames": 7671049
+        },
+        "names": {
+            "long": "Northern Province",
+            "short": "Northern Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "37",
+            "geonames": 8133521
+        },
+        "names": {
+            "long": "Eastern Province",
+            "short": "Eastern Province"
+        }
+    }
+]

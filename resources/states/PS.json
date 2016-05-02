@@ -1,0 +1,22 @@
+[
+    {
+        "ids": {
+            "fips": "GZ",
+            "geonames": 281132
+        },
+        "names": {
+            "long": "Gaza Strip",
+            "short": "Gaza Strip"
+        }
+    },
+    {
+        "ids": {
+            "fips": "WE",
+            "geonames": 285153
+        },
+        "names": {
+            "long": "West Bank",
+            "short": "West Bank"
+        }
+    }
+]

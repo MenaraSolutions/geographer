@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "iso_3166": "BRU",
+            "geonames": 2800867
+        },
+        "names": {
+            "long": "Brussels Capital",
+            "short": "Brussels Capital"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "WAL",
+            "geonames": 3337387
+        },
+        "names": {
+            "long": "Wallonia",
+            "short": "Wallonia"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "VLG",
+            "geonames": 3337388
+        },
+        "names": {
+            "long": "Flanders",
+            "short": "Flanders"
+        }
+    }
+]

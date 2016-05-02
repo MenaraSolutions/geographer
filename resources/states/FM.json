@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2081175
+        },
+        "names": {
+            "long": "Yap",
+            "short": "Yap"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2081550
+        },
+        "names": {
+            "long": "Pohnpei",
+            "short": "Pohnpei"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2082036
+        },
+        "names": {
+            "long": "Kosrae",
+            "short": "Kosrae"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2082282
+        },
+        "names": {
+            "long": "Chuuk",
+            "short": "Chuuk"
+        }
+    }
+]

@@ -1,0 +1,772 @@
+[
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 1149965
+        },
+        "names": {
+            "long": "Uthai Thani",
+            "short": "Uthai Thani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "65",
+            "geonames": 1150006
+        },
+        "names": {
+            "long": "Trang",
+            "short": "Trang"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 1150489
+        },
+        "names": {
+            "long": "Tak",
+            "short": "Tak"
+        }
+    },
+    {
+        "ids": {
+            "fips": "60",
+            "geonames": 1150514
+        },
+        "names": {
+            "long": "Surat Thani",
+            "short": "Surat Thani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 1150532
+        },
+        "names": {
+            "long": "Sukhothai",
+            "short": "Sukhothai"
+        }
+    },
+    {
+        "ids": {
+            "fips": "52",
+            "geonames": 1150953
+        },
+        "names": {
+            "long": "Ratchaburi",
+            "short": "Ratchaburi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "59",
+            "geonames": 1150964
+        },
+        "names": {
+            "long": "Ranong",
+            "short": "Ranong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "57",
+            "geonames": 1151073
+        },
+        "names": {
+            "long": "Prachuap Khiri Khan",
+            "short": "Prachuap Khiri Khan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "62",
+            "geonames": 1151253
+        },
+        "names": {
+            "long": "Phuket",
+            "short": "Phuket"
+        }
+    },
+    {
+        "ids": {
+            "fips": "56",
+            "geonames": 1151416
+        },
+        "names": {
+            "long": "Phetchaburi",
+            "short": "Phetchaburi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "61",
+            "geonames": 1151462
+        },
+        "names": {
+            "long": "Phangnga",
+            "short": "Phangnga"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 1152221
+        },
+        "names": {
+            "long": "Mae Hong Son",
+            "short": "Mae Hong Son"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 1152467
+        },
+        "names": {
+            "long": "Lamphun",
+            "short": "Lamphun"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 1152472
+        },
+        "names": {
+            "long": "Lampang",
+            "short": "Lampang"
+        }
+    },
+    {
+        "ids": {
+            "fips": "63",
+            "geonames": 1152631
+        },
+        "names": {
+            "long": "Krabi",
+            "short": "Krabi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "50",
+            "geonames": 1153080
+        },
+        "names": {
+            "long": "Kanchanaburi",
+            "short": "Kanchanaburi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 1153089
+        },
+        "names": {
+            "long": "Kamphaeng Phet",
+            "short": "Kamphaeng Phet"
+        }
+    },
+    {
+        "ids": {
+            "fips": "58",
+            "geonames": 1153555
+        },
+        "names": {
+            "long": "Chumphon",
+            "short": "Chumphon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 1153668
+        },
+        "names": {
+            "long": "Chiang Rai",
+            "short": "Chiang Rai"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 1153670
+        },
+        "names": {
+            "long": "Chiang Mai",
+            "short": "Chiang Mai"
+        }
+    },
+    {
+        "ids": {
+            "fips": "72",
+            "geonames": 1604767
+        },
+        "names": {
+            "long": "Yasothon",
+            "short": "Yasothon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "70",
+            "geonames": 1604869
+        },
+        "names": {
+            "long": "Yala",
+            "short": "Yala"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 1605214
+        },
+        "names": {
+            "long": "Uttaradit",
+            "short": "Uttaradit"
+        }
+    },
+    {
+        "ids": {
+            "fips": "49",
+            "geonames": 1605277
+        },
+        "names": {
+            "long": "Trat",
+            "short": "Trat"
+        }
+    },
+    {
+        "ids": {
+            "fips": "29",
+            "geonames": 1606029
+        },
+        "names": {
+            "long": "Surin",
+            "short": "Surin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "51",
+            "geonames": 1606032
+        },
+        "names": {
+            "long": "Suphan Buri",
+            "short": "Suphan Buri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "68",
+            "geonames": 1606146
+        },
+        "names": {
+            "long": "Songkhla",
+            "short": "Songkhla"
+        }
+    },
+    {
+        "ids": {
+            "fips": "30",
+            "geonames": 1606238
+        },
+        "names": {
+            "long": "Sisaket",
+            "short": "Sisaket"
+        }
+    },
+    {
+        "ids": {
+            "fips": "33",
+            "geonames": 1606269
+        },
+        "names": {
+            "long": "Sing Buri",
+            "short": "Sing Buri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "67",
+            "geonames": 1606375
+        },
+        "names": {
+            "long": "Satun",
+            "short": "Satun"
+        }
+    },
+    {
+        "ids": {
+            "fips": "37",
+            "geonames": 1606417
+        },
+        "names": {
+            "long": "Sara Buri",
+            "short": "Sara Buri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "54",
+            "geonames": 1606585
+        },
+        "names": {
+            "long": "Samut Songkhram",
+            "short": "Samut Songkhram"
+        }
+    },
+    {
+        "ids": {
+            "fips": "55",
+            "geonames": 1606587
+        },
+        "names": {
+            "long": "Samut Sakhon",
+            "short": "Samut Sakhon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "42",
+            "geonames": 1606589
+        },
+        "names": {
+            "long": "Samut Prakan",
+            "short": "Samut Prakan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 1606789
+        },
+        "names": {
+            "long": "Sakon Nakhon",
+            "short": "Sakon Nakhon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 1607000
+        },
+        "names": {
+            "long": "Roi Et",
+            "short": "Roi Et"
+        }
+    },
+    {
+        "ids": {
+            "fips": "47",
+            "geonames": 1607016
+        },
+        "names": {
+            "long": "Rayong",
+            "short": "Rayong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "36",
+            "geonames": 1607530
+        },
+        "names": {
+            "long": "Phra Nakhon Si Ayutthaya",
+            "short": "Phra Nakhon Si Ayutthaya"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 1607551
+        },
+        "names": {
+            "long": "Phrae",
+            "short": "Phrae"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 1607707
+        },
+        "names": {
+            "long": "Phitsanulok",
+            "short": "Phitsanulok"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 1607724
+        },
+        "names": {
+            "long": "Phichit",
+            "short": "Phichit"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 1607736
+        },
+        "names": {
+            "long": "Phetchabun",
+            "short": "Phetchabun"
+        }
+    },
+    {
+        "ids": {
+            "fips": "41",
+            "geonames": 1607758
+        },
+        "names": {
+            "long": "Phayao",
+            "short": "Phayao"
+        }
+    },
+    {
+        "ids": {
+            "fips": "66",
+            "geonames": 1607778
+        },
+        "names": {
+            "long": "Phatthalung",
+            "short": "Phatthalung"
+        }
+    },
+    {
+        "ids": {
+            "fips": "69",
+            "geonames": 1607976
+        },
+        "names": {
+            "long": "Pattani",
+            "short": "Pattani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "39",
+            "geonames": 1607982
+        },
+        "names": {
+            "long": "Pathum Thani",
+            "short": "Pathum Thani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "38",
+            "geonames": 1608132
+        },
+        "names": {
+            "long": "Nonthaburi",
+            "short": "Nonthaburi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 1608231
+        },
+        "names": {
+            "long": "Nong Khai",
+            "short": "Nong Khai"
+        }
+    },
+    {
+        "ids": {
+            "fips": "31",
+            "geonames": 1608408
+        },
+        "names": {
+            "long": "Narathiwat",
+            "short": "Narathiwat"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 1608451
+        },
+        "names": {
+            "long": "Nan",
+            "short": "Nan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "64",
+            "geonames": 1608525
+        },
+        "names": {
+            "long": "Nakhon Si Thammarat",
+            "short": "Nakhon Si Thammarat"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 1608526
+        },
+        "names": {
+            "long": "Nakhon Sawan",
+            "short": "Nakhon Sawan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 1608528
+        },
+        "names": {
+            "long": "Nakhon Ratchasima",
+            "short": "Nakhon Ratchasima"
+        }
+    },
+    {
+        "ids": {
+            "fips": "73",
+            "geonames": 1608530
+        },
+        "names": {
+            "long": "Nakhon Phanom",
+            "short": "Nakhon Phanom"
+        }
+    },
+    {
+        "ids": {
+            "fips": "53",
+            "geonames": 1608533
+        },
+        "names": {
+            "long": "Nakhon Pathom",
+            "short": "Nakhon Pathom"
+        }
+    },
+    {
+        "ids": {
+            "fips": "43",
+            "geonames": 1608538
+        },
+        "names": {
+            "long": "Nakhon Nayok",
+            "short": "Nakhon Nayok"
+        }
+    },
+    {
+        "ids": {
+            "fips": "78",
+            "geonames": 1608595
+        },
+        "names": {
+            "long": "Mukdahan",
+            "short": "Mukdahan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 1608899
+        },
+        "names": {
+            "long": "Maha Sarakham",
+            "short": "Maha Sarakham"
+        }
+    },
+    {
+        "ids": {
+            "fips": "34",
+            "geonames": 1609031
+        },
+        "names": {
+            "long": "Lop Buri",
+            "short": "Lop Buri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 1609070
+        },
+        "names": {
+            "long": "Loei",
+            "short": "Loei"
+        }
+    },
+    {
+        "ids": {
+            "fips": "40",
+            "geonames": 1609348
+        },
+        "names": {
+            "long": "Bangkok",
+            "short": "Bangkok"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 1609775
+        },
+        "names": {
+            "long": "Khon Kaen",
+            "short": "Khon Kaen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 1610468
+        },
+        "names": {
+            "long": "Kalasin",
+            "short": "Kalasin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "46",
+            "geonames": 1611108
+        },
+        "names": {
+            "long": "Chon Buri",
+            "short": "Chon Buri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "48",
+            "geonames": 1611268
+        },
+        "names": {
+            "long": "Chanthaburi",
+            "short": "Chanthaburi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 1611406
+        },
+        "names": {
+            "long": "Chaiyaphum",
+            "short": "Chaiyaphum"
+        }
+    },
+    {
+        "ids": {
+            "fips": "32",
+            "geonames": 1611415
+        },
+        "names": {
+            "long": "Chai Nat",
+            "short": "Chai Nat"
+        }
+    },
+    {
+        "ids": {
+            "fips": "44",
+            "geonames": 1611438
+        },
+        "names": {
+            "long": "Chachoengsao",
+            "short": "Chachoengsao"
+        }
+    },
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 1611452
+        },
+        "names": {
+            "long": "Buriram",
+            "short": "Buriram"
+        }
+    },
+    {
+        "ids": {
+            "fips": "35",
+            "geonames": 1621034
+        },
+        "names": {
+            "long": "Ang Thong",
+            "short": "Ang Thong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "76",
+            "geonames": 1906686
+        },
+        "names": {
+            "long": "Changwat Udon Thani",
+            "short": "Changwat Udon Thani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "74",
+            "geonames": 1906687
+        },
+        "names": {
+            "long": "Prachin Buri",
+            "short": "Prachin Buri"
+        }
+    },
+    {
+        "ids": {
+            "fips": "75",
+            "geonames": 1906688
+        },
+        "names": {
+            "long": "Changwat Ubon Ratchathani",
+            "short": "Changwat Ubon Ratchathani"
+        }
+    },
+    {
+        "ids": {
+            "fips": "77",
+            "geonames": 1906689
+        },
+        "names": {
+            "long": "Amnat Charoen",
+            "short": "Amnat Charoen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "79",
+            "geonames": 1906690
+        },
+        "names": {
+            "long": "Changwat Nong Bua Lamphu",
+            "short": "Changwat Nong Bua Lamphu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "80",
+            "geonames": 1906691
+        },
+        "names": {
+            "long": "Sa Kaeo",
+            "short": "Sa Kaeo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "81",
+            "geonames": 8133594
+        },
+        "names": {
+            "long": "Changwat Bueng Kan",
+            "short": "Changwat Bueng Kan"
+        }
+    }
+]

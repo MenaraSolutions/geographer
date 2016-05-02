@@ -1,0 +1,202 @@
+[
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 2523119
+        },
+        "names": {
+            "long": "Sicily",
+            "short": "Sicily"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 2523228
+        },
+        "names": {
+            "long": "Sardinia",
+            "short": "Sardinia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2525468
+        },
+        "names": {
+            "long": "Calabria",
+            "short": "Calabria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 3164604
+        },
+        "names": {
+            "long": "Veneto",
+            "short": "Veneto"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 3164857
+        },
+        "names": {
+            "long": "Aosta Valley",
+            "short": "Aosta Valley"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 3165048
+        },
+        "names": {
+            "long": "Umbria",
+            "short": "Umbria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3165244
+        },
+        "names": {
+            "long": "Trentino-Alto Adige",
+            "short": "Trentino-Alto Adige"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3165361
+        },
+        "names": {
+            "long": "Tuscany",
+            "short": "Tuscany"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3169778
+        },
+        "names": {
+            "long": "Apulia",
+            "short": "Apulia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3170831
+        },
+        "names": {
+            "long": "Piedmont",
+            "short": "Piedmont"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3173222
+        },
+        "names": {
+            "long": "Molise",
+            "short": "Molise"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3174004
+        },
+        "names": {
+            "long": "The Marches",
+            "short": "The Marches"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3174618
+        },
+        "names": {
+            "long": "Lombardy",
+            "short": "Lombardy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3174725
+        },
+        "names": {
+            "long": "Liguria",
+            "short": "Liguria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3174976
+        },
+        "names": {
+            "long": "Latium",
+            "short": "Latium"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3176525
+        },
+        "names": {
+            "long": "Friuli Venezia Giulia",
+            "short": "Friuli Venezia Giulia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3177401
+        },
+        "names": {
+            "long": "Emilia-Romagna",
+            "short": "Emilia-Romagna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 3181042
+        },
+        "names": {
+            "long": "Campania",
+            "short": "Campania"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3182306
+        },
+        "names": {
+            "long": "Basilicate",
+            "short": "Basilicate"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3183560
+        },
+        "names": {
+            "long": "Abruzzo",
+            "short": "Abruzzo"
+        }
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "ids": {
+            "fips": "NYL",
+            "geonames": 1818224
+        },
+        "names": {
+            "long": "Yuen Long",
+            "short": "Yuen Long"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NTW",
+            "geonames": 1818458
+        },
+        "names": {
+            "long": "Tsuen Wan",
+            "short": "Tsuen Wan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NTP",
+            "geonames": 1818672
+        },
+        "names": {
+            "long": "Tai Po",
+            "short": "Tai Po"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NSK",
+            "geonames": 1819049
+        },
+        "names": {
+            "long": "Sai Kung",
+            "short": "Sai Kung"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NIS",
+            "geonames": 1819708
+        },
+        "names": {
+            "long": "Islands",
+            "short": "Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "HCW",
+            "geonames": 7533598
+        },
+        "names": {
+            "long": "Central and Western",
+            "short": "Central and Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "HWC",
+            "geonames": 7533607
+        },
+        "names": {
+            "long": "Wanchai",
+            "short": "Wanchai"
+        }
+    },
+    {
+        "ids": {
+            "fips": "HEA",
+            "geonames": 7533608
+        },
+        "names": {
+            "long": "Eastern",
+            "short": "Eastern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "HSO",
+            "geonames": 7533609
+        },
+        "names": {
+            "long": "Southern",
+            "short": "Southern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "KYT",
+            "geonames": 7533610
+        },
+        "names": {
+            "long": "Yau Tsim Mong",
+            "short": "Yau Tsim Mong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "KSS",
+            "geonames": 7533611
+        },
+        "names": {
+            "long": "Sham Shui Po",
+            "short": "Sham Shui Po"
+        }
+    },
+    {
+        "ids": {
+            "fips": "KKC",
+            "geonames": 7533612
+        },
+        "names": {
+            "long": "Kowloon City",
+            "short": "Kowloon City"
+        }
+    },
+    {
+        "ids": {
+            "fips": "KWT",
+            "geonames": 7533613
+        },
+        "names": {
+            "long": "Wong Tai Sin",
+            "short": "Wong Tai Sin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "KKT",
+            "geonames": 7533614
+        },
+        "names": {
+            "long": "Kwon Tong",
+            "short": "Kwon Tong"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NKT",
+            "geonames": 7533615
+        },
+        "names": {
+            "long": "Kwai Tsing",
+            "short": "Kwai Tsing"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NTM",
+            "geonames": 7533616
+        },
+        "names": {
+            "long": "Tuen Mun",
+            "short": "Tuen Mun"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NNO",
+            "geonames": 7533617
+        },
+        "names": {
+            "long": "North",
+            "short": "North"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NST",
+            "geonames": 7533618
+        },
+        "names": {
+            "long": "Sha Tin",
+            "short": "Sha Tin"
+        }
+    }
+]

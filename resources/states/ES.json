@@ -1,0 +1,192 @@
+[
+    {
+        "ids": {
+            "fips": "31",
+            "geonames": 2513413
+        },
+        "names": {
+            "long": "Murcia",
+            "short": "Murcia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "CE",
+            "geonames": 2519582
+        },
+        "names": {
+            "long": "Ceuta",
+            "short": "Ceuta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2521383
+        },
+        "names": {
+            "long": "Balearic Islands",
+            "short": "Balearic Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "51",
+            "geonames": 2593109
+        },
+        "names": {
+            "long": "Andalusia",
+            "short": "Andalusia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "53",
+            "geonames": 2593110
+        },
+        "names": {
+            "long": "Canary Islands",
+            "short": "Canary Islands"
+        }
+    },
+    {
+        "ids": {
+            "fips": "54",
+            "geonames": 2593111
+        },
+        "names": {
+            "long": "Castille-La Mancha",
+            "short": "Castille-La Mancha"
+        }
+    },
+    {
+        "ids": {
+            "fips": "57",
+            "geonames": 2593112
+        },
+        "names": {
+            "long": "Extremadura",
+            "short": "Extremadura"
+        }
+    },
+    {
+        "ids": {
+            "fips": "60",
+            "geonames": 2593113
+        },
+        "names": {
+            "long": "Valencia",
+            "short": "Valencia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "34",
+            "geonames": 3114710
+        },
+        "names": {
+            "long": "Asturias",
+            "short": "Asturias"
+        }
+    },
+    {
+        "ids": {
+            "fips": "32",
+            "geonames": 3115609
+        },
+        "names": {
+            "long": "Navarre",
+            "short": "Navarre"
+        }
+    },
+    {
+        "ids": {
+            "fips": "29",
+            "geonames": 3117732
+        },
+        "names": {
+            "long": "Madrid",
+            "short": "Madrid"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 3336897
+        },
+        "names": {
+            "long": "La Rioja",
+            "short": "La Rioja"
+        }
+    },
+    {
+        "ids": {
+            "fips": "39",
+            "geonames": 3336898
+        },
+        "names": {
+            "long": "Cantabria",
+            "short": "Cantabria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "52",
+            "geonames": 3336899
+        },
+        "names": {
+            "long": "Aragon",
+            "short": "Aragon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "55",
+            "geonames": 3336900
+        },
+        "names": {
+            "long": "Castille and León",
+            "short": "Castille and León"
+        }
+    },
+    {
+        "ids": {
+            "fips": "56",
+            "geonames": 3336901
+        },
+        "names": {
+            "long": "Catalonia",
+            "short": "Catalonia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "58",
+            "geonames": 3336902
+        },
+        "names": {
+            "long": "Galicia",
+            "short": "Galicia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "59",
+            "geonames": 3336903
+        },
+        "names": {
+            "long": "Basque Country",
+            "short": "Basque Country"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ML",
+            "geonames": 6362988
+        },
+        "names": {
+            "long": "Melilla",
+            "short": "Melilla"
+        }
+    }
+]

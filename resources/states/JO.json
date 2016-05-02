@@ -1,0 +1,122 @@
+[
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 248380
+        },
+        "names": {
+            "long": "Ma’an",
+            "short": "Ma’an"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 248944
+        },
+        "names": {
+            "long": "Irbid",
+            "short": "Irbid"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 250092
+        },
+        "names": {
+            "long": "Zarqa",
+            "short": "Zarqa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 250199
+        },
+        "names": {
+            "long": "Tafielah",
+            "short": "Tafielah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 250439
+        },
+        "names": {
+            "long": "Amman",
+            "short": "Amman"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 250583
+        },
+        "names": {
+            "long": "Mafraq",
+            "short": "Mafraq"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 250625
+        },
+        "names": {
+            "long": "Karak",
+            "short": "Karak"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 250751
+        },
+        "names": {
+            "long": "Balqa",
+            "short": "Balqa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 443120
+        },
+        "names": {
+            "long": "Ajlun",
+            "short": "Ajlun"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 443121
+        },
+        "names": {
+            "long": "Jerash",
+            "short": "Jerash"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 443122
+        },
+        "names": {
+            "long": "Aqaba",
+            "short": "Aqaba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 443123
+        },
+        "names": {
+            "long": "Madaba",
+            "short": "Madaba"
+        }
+    }
+]

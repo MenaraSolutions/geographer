@@ -1,0 +1,162 @@
+[
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 2822542
+        },
+        "names": {
+            "long": "Thuringia",
+            "short": "Thuringia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 2838632
+        },
+        "names": {
+            "long": "Schleswig-Holstein",
+            "short": "Schleswig-Holstein"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 2842565
+        },
+        "names": {
+            "long": "Saxony-Anhalt",
+            "short": "Saxony-Anhalt"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 2842566
+        },
+        "names": {
+            "long": "Saxony",
+            "short": "Saxony"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2842635
+        },
+        "names": {
+            "long": "Saarland",
+            "short": "Saarland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2847618
+        },
+        "names": {
+            "long": "Rheinland-Pfalz",
+            "short": "Rheinland-Pfalz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2861876
+        },
+        "names": {
+            "long": "North Rhine-Westphalia",
+            "short": "North Rhine-Westphalia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2862926
+        },
+        "names": {
+            "long": "Lower Saxony",
+            "short": "Lower Saxony"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 2872567
+        },
+        "names": {
+            "long": "Mecklenburg-Vorpommern",
+            "short": "Mecklenburg-Vorpommern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2905330
+        },
+        "names": {
+            "long": "Hesse",
+            "short": "Hesse"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2911297
+        },
+        "names": {
+            "long": "Hamburg",
+            "short": "Hamburg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2944387
+        },
+        "names": {
+            "long": "Bremen",
+            "short": "Bremen"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 2945356
+        },
+        "names": {
+            "long": "Brandenburg",
+            "short": "Brandenburg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 2950157
+        },
+        "names": {
+            "long": "Berlin",
+            "short": "Berlin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2951839
+        },
+        "names": {
+            "long": "Bavaria",
+            "short": "Bavaria"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2953481
+        },
+        "names": {
+            "long": "Baden-Württemberg",
+            "short": "Baden-Württemberg"
+        }
+    }
+]

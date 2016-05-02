@@ -1,0 +1,102 @@
+[
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 3716950
+        },
+        "names": {
+            "long": "Sud-Est",
+            "short": "Sud-Est"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3716952
+        },
+        "names": {
+            "long": "Sud",
+            "short": "Sud"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3719432
+        },
+        "names": {
+            "long": "Ouest",
+            "short": "Ouest"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3719536
+        },
+        "names": {
+            "long": "Nord-Ouest",
+            "short": "Nord-Ouest"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3719540
+        },
+        "names": {
+            "long": "Nord-Est",
+            "short": "Nord-Est"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3719543
+        },
+        "names": {
+            "long": "Nord",
+            "short": "Nord"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3724613
+        },
+        "names": {
+            "long": "GrandʼAnse",
+            "short": "GrandʼAnse"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 3728069
+        },
+        "names": {
+            "long": "Centre",
+            "short": "Centre"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 3731053
+        },
+        "names": {
+            "long": "Artibonite",
+            "short": "Artibonite"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 7115999
+        },
+        "names": {
+            "long": "Nippes",
+            "short": "Nippes"
+        }
+    }
+]

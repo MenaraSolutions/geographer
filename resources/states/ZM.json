@@ -1,0 +1,92 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 896140
+        },
+        "names": {
+            "long": "Western",
+            "short": "Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 896972
+        },
+        "names": {
+            "long": "Southern",
+            "short": "Southern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 900594
+        },
+        "names": {
+            "long": "North-Western",
+            "short": "North-Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 900601
+        },
+        "names": {
+            "long": "Northern",
+            "short": "Northern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 909129
+        },
+        "names": {
+            "long": "Lusaka",
+            "short": "Lusaka"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 909845
+        },
+        "names": {
+            "long": "Luapula",
+            "short": "Luapula"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 917388
+        },
+        "names": {
+            "long": "Eastern",
+            "short": "Eastern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 917524
+        },
+        "names": {
+            "long": "Copperbelt",
+            "short": "Copperbelt"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 921064
+        },
+        "names": {
+            "long": "Central",
+            "short": "Central"
+        }
+    }
+]

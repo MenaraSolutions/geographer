@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2140464
+        },
+        "names": {
+            "long": "South Province",
+            "short": "South Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2140685
+        },
+        "names": {
+            "long": "North Province",
+            "short": "North Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 7521415
+        },
+        "names": {
+            "long": "Loyalty Islands",
+            "short": "Loyalty Islands"
+        }
+    }
+]

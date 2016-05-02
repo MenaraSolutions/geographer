@@ -1,0 +1,162 @@
+[
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 3573606
+        },
+        "names": {
+            "long": "Tobago",
+            "short": "Tobago"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 3573739
+        },
+        "names": {
+            "long": "City of San Fernando",
+            "short": "City of San Fernando"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3573891
+        },
+        "names": {
+            "long": "City of Port of Spain",
+            "short": "City of Port of Spain"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3574155
+        },
+        "names": {
+            "long": "Mayaro",
+            "short": "Mayaro"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3575052
+        },
+        "names": {
+            "long": "Borough of Arima",
+            "short": "Borough of Arima"
+        }
+    },
+    {
+        "ids": {
+            "fips": "CHA",
+            "geonames": 7521937
+        },
+        "names": {
+            "long": "Chaguanas",
+            "short": "Chaguanas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "CTT",
+            "geonames": 7521938
+        },
+        "names": {
+            "long": "Couva-Tabaquite-Talparo",
+            "short": "Couva-Tabaquite-Talparo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "DMN",
+            "geonames": 7521939
+        },
+        "names": {
+            "long": "Diego Martin",
+            "short": "Diego Martin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ETO",
+            "geonames": 7521940
+        },
+        "names": {
+            "long": "Eastern Tobago",
+            "short": "Eastern Tobago"
+        }
+    },
+    {
+        "ids": {
+            "fips": "PED",
+            "geonames": 7521941
+        },
+        "names": {
+            "long": "Penal\/Debe",
+            "short": "Penal\/Debe"
+        }
+    },
+    {
+        "ids": {
+            "fips": "PRT",
+            "geonames": 7521942
+        },
+        "names": {
+            "long": "Princes Town",
+            "short": "Princes Town"
+        }
+    },
+    {
+        "ids": {
+            "fips": "PTF",
+            "geonames": 7521943
+        },
+        "names": {
+            "long": "Point Fortin",
+            "short": "Point Fortin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SGE",
+            "geonames": 7521944
+        },
+        "names": {
+            "long": "Sangre Grande",
+            "short": "Sangre Grande"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SIP",
+            "geonames": 7521945
+        },
+        "names": {
+            "long": "Siparia",
+            "short": "Siparia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SJL",
+            "geonames": 7521946
+        },
+        "names": {
+            "long": "San Juan\/Laventille",
+            "short": "San Juan\/Laventille"
+        }
+    },
+    {
+        "ids": {
+            "fips": "TUP",
+            "geonames": 7521947
+        },
+        "names": {
+            "long": "Tunapuna\/Piarco",
+            "short": "Tunapuna\/Piarco"
+        }
+    }
+]

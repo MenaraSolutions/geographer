@@ -1,0 +1,42 @@
+[
+    {
+        "ids": {
+            "fips": "WLS",
+            "geonames": 2634895
+        },
+        "names": {
+            "long": "Wales",
+            "short": "Wales"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SCT",
+            "geonames": 2638360
+        },
+        "names": {
+            "long": "Scotland",
+            "short": "Scotland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NIR",
+            "geonames": 2641364
+        },
+        "names": {
+            "long": "Northern Ireland",
+            "short": "Northern Ireland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ENG",
+            "geonames": 6269131
+        },
+        "names": {
+            "long": "England",
+            "short": "England"
+        }
+    }
+]

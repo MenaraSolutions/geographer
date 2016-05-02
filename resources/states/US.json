@@ -1,0 +1,512 @@
+[
+    {
+        "ids": {
+            "iso_3166": "AR",
+            "geonames": 4099753
+        },
+        "names": {
+            "long": "Arkansas",
+            "short": "Arkansas"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "DC",
+            "geonames": 4138106
+        },
+        "names": {
+            "long": "Washington, D.C.",
+            "short": "Washington, D.C."
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "DE",
+            "geonames": 4142224
+        },
+        "names": {
+            "long": "Delaware",
+            "short": "Delaware"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "FL",
+            "geonames": 4155751
+        },
+        "names": {
+            "long": "Florida",
+            "short": "Florida"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "GA",
+            "geonames": 4197000
+        },
+        "names": {
+            "long": "Georgia",
+            "short": "Georgia"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "KS",
+            "geonames": 4273857
+        },
+        "names": {
+            "long": "Kansas",
+            "short": "Kansas"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "LA",
+            "geonames": 4331987
+        },
+        "names": {
+            "long": "Louisiana",
+            "short": "Louisiana"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MD",
+            "geonames": 4361885
+        },
+        "names": {
+            "long": "Maryland",
+            "short": "Maryland"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MO",
+            "geonames": 4398678
+        },
+        "names": {
+            "long": "Missouri",
+            "short": "Missouri"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MS",
+            "geonames": 4436296
+        },
+        "names": {
+            "long": "Mississippi",
+            "short": "Mississippi"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NC",
+            "geonames": 4482348
+        },
+        "names": {
+            "long": "North Carolina",
+            "short": "North Carolina"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "OK",
+            "geonames": 4544379
+        },
+        "names": {
+            "long": "Oklahoma",
+            "short": "Oklahoma"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "SC",
+            "geonames": 4597040
+        },
+        "names": {
+            "long": "South Carolina",
+            "short": "South Carolina"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "TN",
+            "geonames": 4662168
+        },
+        "names": {
+            "long": "Tennessee",
+            "short": "Tennessee"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "TX",
+            "geonames": 4736286
+        },
+        "names": {
+            "long": "Texas",
+            "short": "Texas"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "WV",
+            "geonames": 4826850
+        },
+        "names": {
+            "long": "West Virginia",
+            "short": "West Virginia"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "AL",
+            "geonames": 4829764
+        },
+        "names": {
+            "long": "Alabama",
+            "short": "Alabama"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "CT",
+            "geonames": 4831725
+        },
+        "names": {
+            "long": "Connecticut",
+            "short": "Connecticut"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "IA",
+            "geonames": 4862182
+        },
+        "names": {
+            "long": "Iowa",
+            "short": "Iowa"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "IL",
+            "geonames": 4896861
+        },
+        "names": {
+            "long": "Illinois",
+            "short": "Illinois"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "IN",
+            "geonames": 4921868
+        },
+        "names": {
+            "long": "Indiana",
+            "short": "Indiana"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "ME",
+            "geonames": 4971068
+        },
+        "names": {
+            "long": "Maine",
+            "short": "Maine"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MI",
+            "geonames": 5001836
+        },
+        "names": {
+            "long": "Michigan",
+            "short": "Michigan"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MN",
+            "geonames": 5037779
+        },
+        "names": {
+            "long": "Minnesota",
+            "short": "Minnesota"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NE",
+            "geonames": 5073708
+        },
+        "names": {
+            "long": "Nebraska",
+            "short": "Nebraska"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NH",
+            "geonames": 5090174
+        },
+        "names": {
+            "long": "New Hampshire",
+            "short": "New Hampshire"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NJ",
+            "geonames": 5101760
+        },
+        "names": {
+            "long": "New Jersey",
+            "short": "New Jersey"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NY",
+            "geonames": 5128638
+        },
+        "names": {
+            "long": "New York",
+            "short": "New York"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "OH",
+            "geonames": 5165418
+        },
+        "names": {
+            "long": "Ohio",
+            "short": "Ohio"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "RI",
+            "geonames": 5224323
+        },
+        "names": {
+            "long": "Rhode Island",
+            "short": "Rhode Island"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "VT",
+            "geonames": 5242283
+        },
+        "names": {
+            "long": "Vermont",
+            "short": "Vermont"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "WI",
+            "geonames": 5279468
+        },
+        "names": {
+            "long": "Wisconsin",
+            "short": "Wisconsin"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "CA",
+            "geonames": 5332921
+        },
+        "names": {
+            "long": "California",
+            "short": "California"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "CO",
+            "geonames": 5417618
+        },
+        "names": {
+            "long": "Colorado",
+            "short": "Colorado"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NM",
+            "geonames": 5481136
+        },
+        "names": {
+            "long": "New Mexico",
+            "short": "New Mexico"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "NV",
+            "geonames": 5509151
+        },
+        "names": {
+            "long": "Nevada",
+            "short": "Nevada"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "UT",
+            "geonames": 5549030
+        },
+        "names": {
+            "long": "Utah",
+            "short": "Utah"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "AZ",
+            "geonames": 5551752
+        },
+        "names": {
+            "long": "Arizona",
+            "short": "Arizona"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "ID",
+            "geonames": 5596512
+        },
+        "names": {
+            "long": "Idaho",
+            "short": "Idaho"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MT",
+            "geonames": 5667009
+        },
+        "names": {
+            "long": "Montana",
+            "short": "Montana"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "ND",
+            "geonames": 5690763
+        },
+        "names": {
+            "long": "North Dakota",
+            "short": "North Dakota"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "OR",
+            "geonames": 5744337
+        },
+        "names": {
+            "long": "Oregon",
+            "short": "Oregon"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "SD",
+            "geonames": 5769223
+        },
+        "names": {
+            "long": "South Dakota",
+            "short": "South Dakota"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "WA",
+            "geonames": 5815135
+        },
+        "names": {
+            "long": "Washington",
+            "short": "Washington"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "WY",
+            "geonames": 5843591
+        },
+        "names": {
+            "long": "Wyoming",
+            "short": "Wyoming"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "HI",
+            "geonames": 5855797
+        },
+        "names": {
+            "long": "Hawaii",
+            "short": "Hawaii"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "AK",
+            "geonames": 5879092
+        },
+        "names": {
+            "long": "Alaska",
+            "short": "Alaska"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "KY",
+            "geonames": 6254925
+        },
+        "names": {
+            "long": "Kentucky",
+            "short": "Kentucky"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "MA",
+            "geonames": 6254926
+        },
+        "names": {
+            "long": "Massachusetts",
+            "short": "Massachusetts"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "PA",
+            "geonames": 6254927
+        },
+        "names": {
+            "long": "Pennsylvania",
+            "short": "Pennsylvania"
+        }
+    },
+    {
+        "ids": {
+            "iso_3166": "VA",
+            "geonames": 6254928
+        },
+        "names": {
+            "long": "Virginia",
+            "short": "Virginia"
+        }
+    }
+]

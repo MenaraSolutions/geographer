@@ -1,0 +1,222 @@
+[
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 70222
+        },
+        "names": {
+            "long": "Ta‘izz",
+            "short": "Ta‘izz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 70935
+        },
+        "names": {
+            "long": "Shabwah",
+            "short": "Shabwah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 71132
+        },
+        "names": {
+            "long": "Sanaa",
+            "short": "Sanaa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 71333
+        },
+        "names": {
+            "long": "Şa‘dah",
+            "short": "Şa‘dah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 71532
+        },
+        "names": {
+            "long": "Raymah",
+            "short": "Raymah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 72966
+        },
+        "names": {
+            "long": "Ma’rib",
+            "short": "Ma’rib"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 73200
+        },
+        "names": {
+            "long": "Al Maḩwīt",
+            "short": "Al Maḩwīt"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 74222
+        },
+        "names": {
+            "long": "Al Jawf",
+            "short": "Al Jawf"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 75411
+        },
+        "names": {
+            "long": "Muḩāfaz̧at Ḩaḑramawt",
+            "short": "Muḩāfaz̧at Ḩaḑramawt"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 76183
+        },
+        "names": {
+            "long": "Dhamār",
+            "short": "Dhamār"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 78985
+        },
+        "names": {
+            "long": "Al Mahrah",
+            "short": "Al Mahrah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 79416
+        },
+        "names": {
+            "long": "Muḩāfaz̧at al Ḩudaydah",
+            "short": "Muḩāfaz̧at al Ḩudaydah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 79838
+        },
+        "names": {
+            "long": "Al Bayḑāʼ",
+            "short": "Al Bayḑāʼ"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 80412
+        },
+        "names": {
+            "long": "Aden",
+            "short": "Aden"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 80425
+        },
+        "names": {
+            "long": "Abyan",
+            "short": "Abyan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 6201193
+        },
+        "names": {
+            "long": "Aḑ Ḑāli‘",
+            "short": "Aḑ Ḑāli‘"
+        }
+    },
+    {
+        "ids": {
+            "fips": "19",
+            "geonames": 6201194
+        },
+        "names": {
+            "long": "Omran",
+            "short": "Omran"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 6201195
+        },
+        "names": {
+            "long": "Ḩajjah",
+            "short": "Ḩajjah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 6201196
+        },
+        "names": {
+            "long": "Ibb",
+            "short": "Ibb"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 6201197
+        },
+        "names": {
+            "long": "Laḩij",
+            "short": "Laḩij"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 6940571
+        },
+        "names": {
+            "long": "Amanat Al Asimah",
+            "short": "Amanat Al Asimah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 9645387
+        },
+        "names": {
+            "long": "Soqatra Governorate",
+            "short": "Soqatra Governorate"
+        }
+    }
+]

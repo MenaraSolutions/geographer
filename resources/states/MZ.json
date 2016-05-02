@@ -1,0 +1,112 @@
+[
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 1024312
+        },
+        "names": {
+            "long": "Zambézia",
+            "short": "Zambézia"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 1026010
+        },
+        "names": {
+            "long": "Tete",
+            "short": "Tete"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 1026804
+        },
+        "names": {
+            "long": "Sofala",
+            "short": "Sofala"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 1030006
+        },
+        "names": {
+            "long": "Niassa",
+            "short": "Niassa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 1033354
+        },
+        "names": {
+            "long": "Nampula",
+            "short": "Nampula"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 1040649
+        },
+        "names": {
+            "long": "Maputo",
+            "short": "Maputo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 1040947
+        },
+        "names": {
+            "long": "Manica",
+            "short": "Manica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 1045110
+        },
+        "names": {
+            "long": "Inhambane",
+            "short": "Inhambane"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 1046058
+        },
+        "names": {
+            "long": "Gaza",
+            "short": "Gaza"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 1051823
+        },
+        "names": {
+            "long": "Cabo Delgado",
+            "short": "Cabo Delgado"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 1105845
+        },
+        "names": {
+            "long": "Maputo City",
+            "short": "Maputo City"
+        }
+    }
+]

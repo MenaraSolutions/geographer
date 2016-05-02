@@ -1,0 +1,52 @@
+[
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 162152
+        },
+        "names": {
+            "long": "Balkan",
+            "short": "Balkan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 162181
+        },
+        "names": {
+            "long": "Ahal",
+            "short": "Ahal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 601465
+        },
+        "names": {
+            "long": "Daşoguz",
+            "short": "Daşoguz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 1218666
+        },
+        "names": {
+            "long": "Mary",
+            "short": "Mary"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 1219651
+        },
+        "names": {
+            "long": "Lebap",
+            "short": "Lebap"
+        }
+    }
+]

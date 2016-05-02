@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "N",
+            "geonames": 4031091
+        },
+        "names": {
+            "long": "Nukunonu",
+            "short": "Nukunonu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "F",
+            "geonames": 4031112
+        },
+        "names": {
+            "long": "Fakaofo",
+            "short": "Fakaofo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "A",
+            "geonames": 4031116
+        },
+        "names": {
+            "long": "Atafu",
+            "short": "Atafu"
+        }
+    }
+]

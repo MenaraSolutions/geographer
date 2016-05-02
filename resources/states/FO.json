@@ -1,0 +1,62 @@
+[
+    {
+        "ids": {
+            "fips": "VG",
+            "geonames": 2610816
+        },
+        "names": {
+            "long": "Vágar",
+            "short": "Vágar"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SU",
+            "geonames": 2612137
+        },
+        "names": {
+            "long": "Suðuroy",
+            "short": "Suðuroy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "ST",
+            "geonames": 2612225
+        },
+        "names": {
+            "long": "Streymoy",
+            "short": "Streymoy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "SA",
+            "geonames": 2614219
+        },
+        "names": {
+            "long": "Sandoy",
+            "short": "Sandoy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "NO",
+            "geonames": 2616145
+        },
+        "names": {
+            "long": "Norðoyar",
+            "short": "Norðoyar"
+        }
+    },
+    {
+        "ids": {
+            "fips": "OS",
+            "geonames": 2622387
+        },
+        "names": {
+            "long": "Eysturoy",
+            "short": "Eysturoy"
+        }
+    }
+]

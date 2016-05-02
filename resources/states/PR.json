@@ -1,0 +1,782 @@
+[
+    {
+        "ids": {
+            "fips": "001",
+            "geonames": 4562487
+        },
+        "names": {
+            "long": "Adjuntas",
+            "short": "Adjuntas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "003",
+            "geonames": 4562503
+        },
+        "names": {
+            "long": "Aguada",
+            "short": "Aguada"
+        }
+    },
+    {
+        "ids": {
+            "fips": "005",
+            "geonames": 4562512
+        },
+        "names": {
+            "long": "Aguadilla",
+            "short": "Aguadilla"
+        }
+    },
+    {
+        "ids": {
+            "fips": "007",
+            "geonames": 4562516
+        },
+        "names": {
+            "long": "Aguas Buenas",
+            "short": "Aguas Buenas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "009",
+            "geonames": 4562531
+        },
+        "names": {
+            "long": "Aibonito",
+            "short": "Aibonito"
+        }
+    },
+    {
+        "ids": {
+            "fips": "011",
+            "geonames": 4562605
+        },
+        "names": {
+            "long": "Añasco",
+            "short": "Añasco"
+        }
+    },
+    {
+        "ids": {
+            "fips": "013",
+            "geonames": 4562640
+        },
+        "names": {
+            "long": "Arecibo",
+            "short": "Arecibo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "015",
+            "geonames": 4562682
+        },
+        "names": {
+            "long": "Arroyo",
+            "short": "Arroyo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "017",
+            "geonames": 4562771
+        },
+        "names": {
+            "long": "Barceloneta",
+            "short": "Barceloneta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "019",
+            "geonames": 4562779
+        },
+        "names": {
+            "long": "Barranquitas",
+            "short": "Barranquitas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "021",
+            "geonames": 4562837
+        },
+        "names": {
+            "long": "Bayamón",
+            "short": "Bayamón"
+        }
+    },
+    {
+        "ids": {
+            "fips": "023",
+            "geonames": 4562997
+        },
+        "names": {
+            "long": "Cabo Rojo",
+            "short": "Cabo Rojo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "025",
+            "geonames": 4563011
+        },
+        "names": {
+            "long": "Caguas",
+            "short": "Caguas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "027",
+            "geonames": 4563065
+        },
+        "names": {
+            "long": "Camuy",
+            "short": "Camuy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "029",
+            "geonames": 4563169
+        },
+        "names": {
+            "long": "Canovanas",
+            "short": "Canovanas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "031",
+            "geonames": 4563244
+        },
+        "names": {
+            "long": "Carolina",
+            "short": "Carolina"
+        }
+    },
+    {
+        "ids": {
+            "fips": "033",
+            "geonames": 4563299
+        },
+        "names": {
+            "long": "Catano",
+            "short": "Catano"
+        }
+    },
+    {
+        "ids": {
+            "fips": "035",
+            "geonames": 4563309
+        },
+        "names": {
+            "long": "Cayey",
+            "short": "Cayey"
+        }
+    },
+    {
+        "ids": {
+            "fips": "037",
+            "geonames": 4563380
+        },
+        "names": {
+            "long": "Ceiba",
+            "short": "Ceiba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "039",
+            "geonames": 4563774
+        },
+        "names": {
+            "long": "Ciales",
+            "short": "Ciales"
+        }
+    },
+    {
+        "ids": {
+            "fips": "041",
+            "geonames": 4563778
+        },
+        "names": {
+            "long": "Cidra",
+            "short": "Cidra"
+        }
+    },
+    {
+        "ids": {
+            "fips": "043",
+            "geonames": 4563812
+        },
+        "names": {
+            "long": "Coamo",
+            "short": "Coamo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "045",
+            "geonames": 4563921
+        },
+        "names": {
+            "long": "Comerio",
+            "short": "Comerio"
+        }
+    },
+    {
+        "ids": {
+            "fips": "047",
+            "geonames": 4564004
+        },
+        "names": {
+            "long": "Corozal",
+            "short": "Corozal"
+        }
+    },
+    {
+        "ids": {
+            "fips": "049",
+            "geonames": 4564071
+        },
+        "names": {
+            "long": "Culebra",
+            "short": "Culebra"
+        }
+    },
+    {
+        "ids": {
+            "fips": "051",
+            "geonames": 4564134
+        },
+        "names": {
+            "long": "Dorado",
+            "short": "Dorado"
+        }
+    },
+    {
+        "ids": {
+            "fips": "053",
+            "geonames": 4564949
+        },
+        "names": {
+            "long": "Fajardo",
+            "short": "Fajardo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "054",
+            "geonames": 4564993
+        },
+        "names": {
+            "long": "Florida",
+            "short": "Florida"
+        }
+    },
+    {
+        "ids": {
+            "fips": "055",
+            "geonames": 4565091
+        },
+        "names": {
+            "long": "Guanica",
+            "short": "Guanica"
+        }
+    },
+    {
+        "ids": {
+            "fips": "057",
+            "geonames": 4565107
+        },
+        "names": {
+            "long": "Guayama",
+            "short": "Guayama"
+        }
+    },
+    {
+        "ids": {
+            "fips": "059",
+            "geonames": 4565112
+        },
+        "names": {
+            "long": "Guayanilla",
+            "short": "Guayanilla"
+        }
+    },
+    {
+        "ids": {
+            "fips": "061",
+            "geonames": 4565120
+        },
+        "names": {
+            "long": "Guaynabo",
+            "short": "Guaynabo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "063",
+            "geonames": 4565126
+        },
+        "names": {
+            "long": "Gurabo",
+            "short": "Gurabo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "065",
+            "geonames": 4565348
+        },
+        "names": {
+            "long": "Hatillo",
+            "short": "Hatillo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "067",
+            "geonames": 4565381
+        },
+        "names": {
+            "long": "Hormigueros",
+            "short": "Hormigueros"
+        }
+    },
+    {
+        "ids": {
+            "fips": "069",
+            "geonames": 4565449
+        },
+        "names": {
+            "long": "Humacao",
+            "short": "Humacao"
+        }
+    },
+    {
+        "ids": {
+            "fips": "071",
+            "geonames": 4565581
+        },
+        "names": {
+            "long": "Isabela",
+            "short": "Isabela"
+        }
+    },
+    {
+        "ids": {
+            "fips": "073",
+            "geonames": 4565684
+        },
+        "names": {
+            "long": "Municipio de Jayuya",
+            "short": "Municipio de Jayuya"
+        }
+    },
+    {
+        "ids": {
+            "fips": "075",
+            "geonames": 4565713
+        },
+        "names": {
+            "long": "Juana Diaz",
+            "short": "Juana Diaz"
+        }
+    },
+    {
+        "ids": {
+            "fips": "077",
+            "geonames": 4565720
+        },
+        "names": {
+            "long": "Municipio de Juncos",
+            "short": "Municipio de Juncos"
+        }
+    },
+    {
+        "ids": {
+            "fips": "079",
+            "geonames": 4565900
+        },
+        "names": {
+            "long": "Lajas",
+            "short": "Lajas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "081",
+            "geonames": 4565910
+        },
+        "names": {
+            "long": "Lares",
+            "short": "Lares"
+        }
+    },
+    {
+        "ids": {
+            "fips": "083",
+            "geonames": 4565961
+        },
+        "names": {
+            "long": "Las Marias",
+            "short": "Las Marias"
+        }
+    },
+    {
+        "ids": {
+            "fips": "085",
+            "geonames": 4565981
+        },
+        "names": {
+            "long": "Las Piedras",
+            "short": "Las Piedras"
+        }
+    },
+    {
+        "ids": {
+            "fips": "087",
+            "geonames": 4566025
+        },
+        "names": {
+            "long": "Loiza",
+            "short": "Loiza"
+        }
+    },
+    {
+        "ids": {
+            "fips": "089",
+            "geonames": 4566106
+        },
+        "names": {
+            "long": "Luquillo",
+            "short": "Luquillo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "091",
+            "geonames": 4566138
+        },
+        "names": {
+            "long": "Manati",
+            "short": "Manati"
+        }
+    },
+    {
+        "ids": {
+            "fips": "093",
+            "geonames": 4566180
+        },
+        "names": {
+            "long": "Maricao",
+            "short": "Maricao"
+        }
+    },
+    {
+        "ids": {
+            "fips": "095",
+            "geonames": 4566209
+        },
+        "names": {
+            "long": "Maunabo",
+            "short": "Maunabo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "097",
+            "geonames": 4566217
+        },
+        "names": {
+            "long": "Mayaguez",
+            "short": "Mayaguez"
+        }
+    },
+    {
+        "ids": {
+            "fips": "099",
+            "geonames": 4566272
+        },
+        "names": {
+            "long": "Moca",
+            "short": "Moca"
+        }
+    },
+    {
+        "ids": {
+            "fips": "101",
+            "geonames": 4566334
+        },
+        "names": {
+            "long": "Morovis",
+            "short": "Morovis"
+        }
+    },
+    {
+        "ids": {
+            "fips": "103",
+            "geonames": 4566397
+        },
+        "names": {
+            "long": "Naguabo",
+            "short": "Naguabo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "105",
+            "geonames": 4566403
+        },
+        "names": {
+            "long": "Naranjito",
+            "short": "Naranjito"
+        }
+    },
+    {
+        "ids": {
+            "fips": "107",
+            "geonames": 4566456
+        },
+        "names": {
+            "long": "Orocovis",
+            "short": "Orocovis"
+        }
+    },
+    {
+        "ids": {
+            "fips": "109",
+            "geonames": 4566654
+        },
+        "names": {
+            "long": "Patillas",
+            "short": "Patillas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "111",
+            "geonames": 4566689
+        },
+        "names": {
+            "long": "Penuelas",
+            "short": "Penuelas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "113",
+            "geonames": 4566886
+        },
+        "names": {
+            "long": "Ponce",
+            "short": "Ponce"
+        }
+    },
+    {
+        "ids": {
+            "fips": "117",
+            "geonames": 4567727
+        },
+        "names": {
+            "long": "Rincon",
+            "short": "Rincon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "115",
+            "geonames": 4567734
+        },
+        "names": {
+            "long": "Quebradillas",
+            "short": "Quebradillas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "119",
+            "geonames": 4567823
+        },
+        "names": {
+            "long": "Rio Grande",
+            "short": "Rio Grande"
+        }
+    },
+    {
+        "ids": {
+            "fips": "121",
+            "geonames": 4568015
+        },
+        "names": {
+            "long": "Sabana Grande",
+            "short": "Sabana Grande"
+        }
+    },
+    {
+        "ids": {
+            "fips": "123",
+            "geonames": 4568043
+        },
+        "names": {
+            "long": "Salinas",
+            "short": "Salinas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "125",
+            "geonames": 4568105
+        },
+        "names": {
+            "long": "San German",
+            "short": "San German"
+        }
+    },
+    {
+        "ids": {
+            "fips": "127",
+            "geonames": 4568138
+        },
+        "names": {
+            "long": "San Juan",
+            "short": "San Juan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "129",
+            "geonames": 4568150
+        },
+        "names": {
+            "long": "San Lorenzo",
+            "short": "San Lorenzo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "131",
+            "geonames": 4568177
+        },
+        "names": {
+            "long": "San Sebastian",
+            "short": "San Sebastian"
+        }
+    },
+    {
+        "ids": {
+            "fips": "133",
+            "geonames": 4568213
+        },
+        "names": {
+            "long": "Santa Isabel Municipio",
+            "short": "Santa Isabel Municipio"
+        }
+    },
+    {
+        "ids": {
+            "fips": "135",
+            "geonames": 4568404
+        },
+        "names": {
+            "long": "Toa Alta",
+            "short": "Toa Alta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "137",
+            "geonames": 4568408
+        },
+        "names": {
+            "long": "Toa Baja",
+            "short": "Toa Baja"
+        }
+    },
+    {
+        "ids": {
+            "fips": "139",
+            "geonames": 4568452
+        },
+        "names": {
+            "long": "Trujillo Alto",
+            "short": "Trujillo Alto"
+        }
+    },
+    {
+        "ids": {
+            "fips": "141",
+            "geonames": 4568491
+        },
+        "names": {
+            "long": "Utuado",
+            "short": "Utuado"
+        }
+    },
+    {
+        "ids": {
+            "fips": "143",
+            "geonames": 4568529
+        },
+        "names": {
+            "long": "Vega Alta",
+            "short": "Vega Alta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "145",
+            "geonames": 4568534
+        },
+        "names": {
+            "long": "Vega Baja",
+            "short": "Vega Baja"
+        }
+    },
+    {
+        "ids": {
+            "fips": "149",
+            "geonames": 4568684
+        },
+        "names": {
+            "long": "Villalba",
+            "short": "Villalba"
+        }
+    },
+    {
+        "ids": {
+            "fips": "151",
+            "geonames": 4568909
+        },
+        "names": {
+            "long": "Yabucoa",
+            "short": "Yabucoa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "153",
+            "geonames": 4568918
+        },
+        "names": {
+            "long": "Yauco",
+            "short": "Yauco"
+        }
+    },
+    {
+        "ids": {
+            "fips": "147",
+            "geonames": 4568924
+        },
+        "names": {
+            "long": "Vieques Municipality",
+            "short": "Vieques Municipality"
+        }
+    }
+]

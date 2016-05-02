@@ -1,0 +1,142 @@
+[
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 1293118
+        },
+        "names": {
+            "long": "Tanintharyi",
+            "short": "Tanintharyi"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 1297099
+        },
+        "names": {
+            "long": "Shan",
+            "short": "Shan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 1298480
+        },
+        "names": {
+            "long": "Sagain",
+            "short": "Sagain"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 1298822
+        },
+        "names": {
+            "long": "Yangon",
+            "short": "Yangon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 1298852
+        },
+        "names": {
+            "long": "Rakhine",
+            "short": "Rakhine"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 1300463
+        },
+        "names": {
+            "long": "Bago",
+            "short": "Bago"
+        }
+    },
+    {
+        "ids": {
+            "fips": "13",
+            "geonames": 1308528
+        },
+        "names": {
+            "long": "Mon",
+            "short": "Mon"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 1311871
+        },
+        "names": {
+            "long": "Mandalay",
+            "short": "Mandalay"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 1312604
+        },
+        "names": {
+            "long": "Magway",
+            "short": "Magway"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 1319539
+        },
+        "names": {
+            "long": "Kayah",
+            "short": "Kayah"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 1320233
+        },
+        "names": {
+            "long": "Kayin",
+            "short": "Kayin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 1321702
+        },
+        "names": {
+            "long": "Kachin",
+            "short": "Kachin"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 1321850
+        },
+        "names": {
+            "long": "Ayeyarwady",
+            "short": "Ayeyarwady"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 1327132
+        },
+        "names": {
+            "long": "Chin",
+            "short": "Chin"
+        }
+    }
+]

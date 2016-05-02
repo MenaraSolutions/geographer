@@ -1,0 +1,202 @@
+[
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 715593
+        },
+        "names": {
+            "long": "Szabolcs-Szatmár-Bereg",
+            "short": "Szabolcs-Szatmár-Bereg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "20",
+            "geonames": 719637
+        },
+        "names": {
+            "long": "Jász-Nagykun-Szolnok",
+            "short": "Jász-Nagykun-Szolnok"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 720002
+        },
+        "names": {
+            "long": "Heves",
+            "short": "Heves"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 720293
+        },
+        "names": {
+            "long": "Hajdú-Bihar",
+            "short": "Hajdú-Bihar"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 721589
+        },
+        "names": {
+            "long": "Csongrád",
+            "short": "Csongrád"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 722064
+        },
+        "names": {
+            "long": "Borsod-Abaúj-Zemplén",
+            "short": "Borsod-Abaúj-Zemplén"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 722433
+        },
+        "names": {
+            "long": "Bekes",
+            "short": "Bekes"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 3042613
+        },
+        "names": {
+            "long": "Zala",
+            "short": "Zala"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 3042925
+        },
+        "names": {
+            "long": "Veszprém",
+            "short": "Veszprém"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 3043047
+        },
+        "names": {
+            "long": "Vas",
+            "short": "Vas"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 3043845
+        },
+        "names": {
+            "long": "Tolna",
+            "short": "Tolna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "17",
+            "geonames": 3045226
+        },
+        "names": {
+            "long": "Somogy",
+            "short": "Somogy"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 3046431
+        },
+        "names": {
+            "long": "Pest",
+            "short": "Pest"
+        }
+    },
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 3047348
+        },
+        "names": {
+            "long": "Nógrád",
+            "short": "Nógrád"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 3049518
+        },
+        "names": {
+            "long": "Komárom-Esztergom",
+            "short": "Komárom-Esztergom"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 3051977
+        },
+        "names": {
+            "long": "Győr-Moson-Sopron",
+            "short": "Győr-Moson-Sopron"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 3053028
+        },
+        "names": {
+            "long": "Fejér",
+            "short": "Fejér"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 3054638
+        },
+        "names": {
+            "long": "Budapest",
+            "short": "Budapest"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 3055399
+        },
+        "names": {
+            "long": "Baranya",
+            "short": "Baranya"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 3055744
+        },
+        "names": {
+            "long": "Bács-Kiskun",
+            "short": "Bács-Kiskun"
+        }
+    }
+]

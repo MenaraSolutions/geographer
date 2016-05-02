@@ -1,0 +1,102 @@
+[
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2294076
+        },
+        "names": {
+            "long": "Western",
+            "short": "Western"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2294234
+        },
+        "names": {
+            "long": "Volta",
+            "short": "Volta"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 2294286
+        },
+        "names": {
+            "long": "Upper West",
+            "short": "Upper West"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 2294291
+        },
+        "names": {
+            "long": "Upper East",
+            "short": "Upper East"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2297169
+        },
+        "names": {
+            "long": "Northern",
+            "short": "Northern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2300569
+        },
+        "names": {
+            "long": "Greater Accra",
+            "short": "Greater Accra"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2301360
+        },
+        "names": {
+            "long": "Eastern",
+            "short": "Eastern"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 2302353
+        },
+        "names": {
+            "long": "Central",
+            "short": "Central"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2302547
+        },
+        "names": {
+            "long": "Brong-Ahafo",
+            "short": "Brong-Ahafo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2304116
+        },
+        "names": {
+            "long": "Ashanti",
+            "short": "Ashanti"
+        }
+    }
+]

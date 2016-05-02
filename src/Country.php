@@ -2,37 +2,36 @@
 
 namespace MenaraSolutions\FluentGeonames;
 
-use MenaraSolutions\FluentGeonames\Contracts\DivisionInterface;
 use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
+use MenaraSolutions\FluentGeonames\Traits\HasPublicFields;
 use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
+use MenaraSolutions\FluentGeonames\Collections\DivisionCollection;
+use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 
 /**
  * Class Country
  * @package MenaraSolutions\FluentGeonames
  */
-class Country implements DivisionInterface
+class Country extends Divisible
 {
     use HasTranslations;
-
+    
     /**
-     * @var \stdClass
+     * @var string
      */
-    private $config;
-
-    /**
-     * @var TranslationRepositoryInterface 
-     */
-    private $translator;
+    protected $memberClass = State::class;
 
     /**
      * Country constructor.
-     * @param \stdClass $config
+     * @param \stdClass $meta
      * @param TranslationRepositoryInterface $translator
      */
-    public function __construct(\stdClass $config, TranslationRepositoryInterface $translator)
+    public function __construct(\stdClass $meta, TranslationRepositoryInterface $translator)
     {
-        $this->config = $config;
+        $this->meta = $meta;
         $this->translator = $translator;
+
+        $this->loadMembers();
     }
 
     /**
@@ -42,7 +41,7 @@ class Country implements DivisionInterface
      */
     public function getCode()
     {
-        return $this->config->iso_3611[0];
+        return $this->meta->iso_3611[0];
     }
 
     /**
@@ -52,7 +51,7 @@ class Country implements DivisionInterface
      */
     public function getCode3()
     {
-        return $this->config->iso_3611[1];
+        return $this->meta->iso_3611[1];
     }
 
     /**
@@ -60,7 +59,7 @@ class Country implements DivisionInterface
      */
     public function getShortName()
     {
-        return $this->getText($this->config->names->short) ?: $this->getText($this->config->names->long);
+        return $this->getText($this->meta->names->short) ?: $this->getText($this->meta->names->long);
     }
 
     /**
@@ -68,7 +67,7 @@ class Country implements DivisionInterface
      */
     public function getLongName()
     {
-        return $this->getText($this->config->names->long) ?: $this->getText($this->config->names->short);
+        return $this->getText($this->meta->names->long) ?: $this->getText($this->meta->names->short);
     }
 
     /**
@@ -91,5 +90,21 @@ class Country implements DivisionInterface
             'short_name' => $this->getShortName(),
             'long_name' => $this->getLongName()
         ];
+    }
+
+    /**
+     * @return DivisionCollection
+     */
+    public function getStates()
+    {
+        return $this->getMembers();
+    }
+
+    /**
+     * @return string
+     */
+    protected function getStoragePath()
+    {
+        return "resources/states/" . $this->getCode() . ".json";
     }
 }

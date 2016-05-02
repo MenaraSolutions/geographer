@@ -1,0 +1,112 @@
+[
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 205413
+        },
+        "names": {
+            "long": "South Kivu",
+            "short": "South Kivu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 205703
+        },
+        "names": {
+            "long": "Katanga",
+            "short": "Katanga"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 206938
+        },
+        "names": {
+            "long": "Nord Kivu",
+            "short": "Nord Kivu"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 209610
+        },
+        "names": {
+            "long": "Maniema",
+            "short": "Maniema"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 214138
+        },
+        "names": {
+            "long": "Kasaï-Oriental",
+            "short": "Kasaï-Oriental"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 214139
+        },
+        "names": {
+            "long": "Kasaï-Occidental",
+            "short": "Kasaï-Occidental"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 216139
+        },
+        "names": {
+            "long": "Orientale",
+            "short": "Orientale"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 216661
+        },
+        "names": {
+            "long": "Équateur",
+            "short": "Équateur"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2314300
+        },
+        "names": {
+            "long": "Kinshasa",
+            "short": "Kinshasa"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2317277
+        },
+        "names": {
+            "long": "Bas-Congo",
+            "short": "Bas-Congo"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2317396
+        },
+        "names": {
+            "long": "Bandundu",
+            "short": "Bandundu"
+        }
+    }
+]

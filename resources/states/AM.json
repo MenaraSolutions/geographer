@@ -1,0 +1,112 @@
+[
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 409313
+        },
+        "names": {
+            "long": "Ararat Province",
+            "short": "Ararat Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 409314
+        },
+        "names": {
+            "long": "Syunik Province",
+            "short": "Syunik Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 409315
+        },
+        "names": {
+            "long": "Vayots Dzor Province",
+            "short": "Vayots Dzor Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "11",
+            "geonames": 616051
+        },
+        "names": {
+            "long": "Yerevan",
+            "short": "Yerevan"
+        }
+    },
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 828259
+        },
+        "names": {
+            "long": "Aragatsotn Province",
+            "short": "Aragatsotn Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 828260
+        },
+        "names": {
+            "long": "Armavir Province",
+            "short": "Armavir Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "04",
+            "geonames": 828261
+        },
+        "names": {
+            "long": "Gegharkunik Province",
+            "short": "Gegharkunik Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 828262
+        },
+        "names": {
+            "long": "Kotayk Province",
+            "short": "Kotayk Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 828263
+        },
+        "names": {
+            "long": "Lori Province",
+            "short": "Lori Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 828264
+        },
+        "names": {
+            "long": "Shirak Province",
+            "short": "Shirak Province"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 828265
+        },
+        "names": {
+            "long": "Tavush Province",
+            "short": "Tavush Province"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "ids": {
+            "fips": "01",
+            "geonames": 2411430
+        },
+        "names": {
+            "long": "Ascension",
+            "short": "Ascension"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 3370684
+        },
+        "names": {
+            "long": "Tristan da Cunha",
+            "short": "Tristan da Cunha"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 6930057
+        },
+        "names": {
+            "long": "Saint Helena",
+            "short": "Saint Helena"
+        }
+    }
+]

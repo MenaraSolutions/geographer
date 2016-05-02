@@ -1,0 +1,212 @@
+[
+    {
+        "ids": {
+            "fips": "14",
+            "geonames": 604010
+        },
+        "names": {
+            "long": "Norrbotten",
+            "short": "Norrbotten"
+        }
+    },
+    {
+        "ids": {
+            "fips": "25",
+            "geonames": 2664179
+        },
+        "names": {
+            "long": "Västmanland",
+            "short": "Västmanland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "24",
+            "geonames": 2664292
+        },
+        "names": {
+            "long": "Västernorrland",
+            "short": "Västernorrland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "23",
+            "geonames": 2664415
+        },
+        "names": {
+            "long": "Västerbotten",
+            "short": "Västerbotten"
+        }
+    },
+    {
+        "ids": {
+            "fips": "22",
+            "geonames": 2664870
+        },
+        "names": {
+            "long": "Värmland",
+            "short": "Värmland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "21",
+            "geonames": 2666218
+        },
+        "names": {
+            "long": "Uppsala",
+            "short": "Uppsala"
+        }
+    },
+    {
+        "ids": {
+            "fips": "26",
+            "geonames": 2673722
+        },
+        "names": {
+            "long": "Stockholm",
+            "short": "Stockholm"
+        }
+    },
+    {
+        "ids": {
+            "fips": "18",
+            "geonames": 2676207
+        },
+        "names": {
+            "long": "Södermanland",
+            "short": "Södermanland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "16",
+            "geonames": 2685867
+        },
+        "names": {
+            "long": "Östergötland",
+            "short": "Östergötland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "15",
+            "geonames": 2686655
+        },
+        "names": {
+            "long": "Örebro",
+            "short": "Örebro"
+        }
+    },
+    {
+        "ids": {
+            "fips": "12",
+            "geonames": 2699050
+        },
+        "names": {
+            "long": "Kronoberg",
+            "short": "Kronoberg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "10",
+            "geonames": 2699767
+        },
+        "names": {
+            "long": "Dalarna",
+            "short": "Dalarna"
+        }
+    },
+    {
+        "ids": {
+            "fips": "09",
+            "geonames": 2702259
+        },
+        "names": {
+            "long": "Kalmar",
+            "short": "Kalmar"
+        }
+    },
+    {
+        "ids": {
+            "fips": "08",
+            "geonames": 2702976
+        },
+        "names": {
+            "long": "Jönköping",
+            "short": "Jönköping"
+        }
+    },
+    {
+        "ids": {
+            "fips": "07",
+            "geonames": 2703330
+        },
+        "names": {
+            "long": "Jämtland",
+            "short": "Jämtland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "06",
+            "geonames": 2708794
+        },
+        "names": {
+            "long": "Halland",
+            "short": "Halland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "05",
+            "geonames": 2711508
+        },
+        "names": {
+            "long": "Gotland",
+            "short": "Gotland"
+        }
+    },
+    {
+        "ids": {
+            "fips": "03",
+            "geonames": 2712411
+        },
+        "names": {
+            "long": "Gävleborg",
+            "short": "Gävleborg"
+        }
+    },
+    {
+        "ids": {
+            "fips": "02",
+            "geonames": 2721357
+        },
+        "names": {
+            "long": "Blekinge",
+            "short": "Blekinge"
+        }
+    },
+    {
+        "ids": {
+            "fips": "27",
+            "geonames": 3337385
+        },
+        "names": {
+            "long": "Skåne",
+            "short": "Skåne"
+        }
+    },
+    {
+        "ids": {
+            "fips": "28",
+            "geonames": 3337386
+        },
+        "names": {
+            "long": "Västra Götaland",
+            "short": "Västra Götaland"
+        }
+    }
+]
