@@ -45,7 +45,7 @@ abstract class Divisible
     public function __construct(\stdClass $meta = null, TranslationRepositoryInterface $translator = null)
     {
         $this->meta = $meta;
-        $this->translator = $translator ?? new TranslationRepository();
+        $this->translator = $translator ?: new TranslationRepository();
 
         $this->loadMembers();
     }
