@@ -8,7 +8,7 @@ use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
  * Class MemberCollection
  * @package MenaraSolutions\FluentGeonames\Collections
  */
-class MemberCollection implements \ArrayAccess, \Countable
+class MemberCollection extends \ArrayObject
 {
     use HasTranslations;
 
@@ -16,6 +16,13 @@ class MemberCollection implements \ArrayAccess, \Countable
      * @var array $divisions
      */
     private $divisions;
+
+    /**
+     * @return \ArrayIterator
+     */
+    public function getIterator() {
+        return new \ArrayIterator($this->divisions);
+    }
 
     /**
      * @return array
@@ -82,5 +89,21 @@ class MemberCollection implements \ArrayAccess, \Countable
     public function count()
     {
         return count($this->divisions);
+    }
+
+    /**
+     * @return mixed
+     */
+    public function serialize()
+    {
+        return serialize($this->divisions);
+    }
+
+    /**
+     * @param string $serialized
+     */
+    public function unserialize($serialized)
+    {
+        $this->divisions = unserialize($serialized);
     }
 }

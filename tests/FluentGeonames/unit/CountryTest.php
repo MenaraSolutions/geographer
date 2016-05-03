@@ -9,22 +9,17 @@ use MenaraSolutions\FluentGeonames\Planet;
 class CountryTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var Country;
-     */
-    protected $country;
-
-    public function setUp()
-    {
-        $countries = (new Planet())->getCountries();
-        $this->country = $countries[array_rand($countries->toArray())];
-    }
-
-    /**
      * @test
      */
-    public function can_fetch_states_for_a_random_country()
+    public function can_fetch_states_for_all_countries()
     {
-        $states = $this->country->getStates();
-        $this->assertEquals(MemberCollection::class, get_class($states));
+        $planet = new Planet();
+        $countries = $planet->getCountries();
+
+        foreach($countries as $country) {
+            $states = $country->getStates();
+            $this->assertEquals(MemberCollection::class, get_class($states));
+            $this->assertTrue(is_array($states) || $states instanceof \ArrayObject);
+        }
     }
 }

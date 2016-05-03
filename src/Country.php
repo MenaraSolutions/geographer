@@ -93,6 +93,6 @@ class Country extends Divisible
      */
     protected function getStoragePath()
     {
-        return $this->config->getStoragePath() . $this->getCode() . '.json';
+        return $this->config->getStoragePath() . 'states' . DIRECTORY_SEPARATOR . $this->getCode() . '.json';
     }
 }
