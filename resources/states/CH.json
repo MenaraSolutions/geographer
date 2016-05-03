@@ -6,7 +6,7 @@
         },
         "names": {
             "long": "Zurich",
-            "short": "Zurich"
+            "short": null
         }
     },
     {
@@ -16,7 +16,7 @@
         },
         "names": {
             "long": "Zug",
-            "short": "Zug"
+            "short": null
         }
     },
     {
@@ -26,7 +26,7 @@
         },
         "names": {
             "long": "Vaud",
-            "short": "Vaud"
+            "short": null
         }
     },
     {
@@ -36,7 +36,7 @@
         },
         "names": {
             "long": "Valais",
-            "short": "Valais"
+            "short": null
         }
     },
     {
@@ -46,7 +46,7 @@
         },
         "names": {
             "long": "Uri",
-            "short": "Uri"
+            "short": null
         }
     },
     {
@@ -56,7 +56,7 @@
         },
         "names": {
             "long": "Ticino",
-            "short": "Ticino"
+            "short": null
         }
     },
     {
@@ -66,7 +66,7 @@
         },
         "names": {
             "long": "Thurgau",
-            "short": "Thurgau"
+            "short": null
         }
     },
     {
@@ -76,7 +76,7 @@
         },
         "names": {
             "long": "Solothurn",
-            "short": "Solothurn"
+            "short": null
         }
     },
     {
@@ -86,7 +86,7 @@
         },
         "names": {
             "long": "Schwyz",
-            "short": "Schwyz"
+            "short": null
         }
     },
     {
@@ -96,7 +96,7 @@
         },
         "names": {
             "long": "Schaffhausen",
-            "short": "Schaffhausen"
+            "short": null
         }
     },
     {
@@ -106,7 +106,7 @@
         },
         "names": {
             "long": "Saint Gallen",
-            "short": "Saint Gallen"
+            "short": null
         }
     },
     {
@@ -116,7 +116,7 @@
         },
         "names": {
             "long": "Obwalden",
-            "short": "Obwalden"
+            "short": null
         }
     },
     {
@@ -126,7 +126,7 @@
         },
         "names": {
             "long": "Nidwalden",
-            "short": "Nidwalden"
+            "short": null
         }
     },
     {
@@ -136,7 +136,7 @@
         },
         "names": {
             "long": "Neuchâtel",
-            "short": "Neuchâtel"
+            "short": null
         }
     },
     {
@@ -146,7 +146,7 @@
         },
         "names": {
             "long": "Lucerne",
-            "short": "Lucerne"
+            "short": null
         }
     },
     {
@@ -156,7 +156,7 @@
         },
         "names": {
             "long": "Jura",
-            "short": "Jura"
+            "short": null
         }
     },
     {
@@ -166,7 +166,7 @@
         },
         "names": {
             "long": "Grisons",
-            "short": "Grisons"
+            "short": null
         }
     },
     {
@@ -176,7 +176,7 @@
         },
         "names": {
             "long": "Glarus",
-            "short": "Glarus"
+            "short": null
         }
     },
     {
@@ -186,7 +186,7 @@
         },
         "names": {
             "long": "Geneva",
-            "short": "Geneva"
+            "short": null
         }
     },
     {
@@ -196,7 +196,7 @@
         },
         "names": {
             "long": "Fribourg",
-            "short": "Fribourg"
+            "short": null
         }
     },
     {
@@ -206,7 +206,7 @@
         },
         "names": {
             "long": "Bern",
-            "short": "Bern"
+            "short": null
         }
     },
     {
@@ -216,7 +216,7 @@
         },
         "names": {
             "long": "Basel-City",
-            "short": "Basel-City"
+            "short": null
         }
     },
     {
@@ -226,7 +226,7 @@
         },
         "names": {
             "long": "Basel-Landschaft",
-            "short": "Basel-Landschaft"
+            "short": null
         }
     },
     {
@@ -236,7 +236,7 @@
         },
         "names": {
             "long": "Appenzell Ausserrhoden",
-            "short": "Appenzell Ausserrhoden"
+            "short": null
         }
     },
     {
@@ -246,7 +246,7 @@
         },
         "names": {
             "long": "Appenzell Innerrhoden",
-            "short": "Appenzell Innerrhoden"
+            "short": null
         }
     },
     {
@@ -256,7 +256,7 @@
         },
         "names": {
             "long": "Aargau",
-            "short": "Aargau"
+            "short": null
         }
     }
 ]

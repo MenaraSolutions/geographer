@@ -3,17 +3,11 @@
 namespace MenaraSolutions\FluentGeonames;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
 
 class Planet extends Divisible
 {
     use HasTranslations;
-
-    /**
-     * @var ConfigInterface $config
-     */
-    private $config;
 
     /**
      * @var string
@@ -32,6 +26,6 @@ class Planet extends Divisible
      * @return string
      */
     protected function getStoragePath() {
-        return "resources/countries.json";
+        return $this->config->getStoragePath() . 'countries.json';
     }
 }

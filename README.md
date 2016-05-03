@@ -28,7 +28,7 @@ Or add it to `composer.json` manually:
 ```json
 {
     "require": {
-        "menarasolutions/fluent-geonames": "~1.2"
+        "menarasolutions/fluent-geonames": "~0.1"
     }
 }
 ```
@@ -56,7 +56,7 @@ $thailand->getStates()->toArray();
 $thailand->getStates()->setLanguage('ru')->toArray();
 
 // Oh, but I want them conjugated to 'in' form
-$thailand->getStates()->setLanguage('ru')->conjugateIn()->toArray();
+$thailand->getStates()->setLanguage('ru')->inflict('in')->toArray();
 
 // What's the capital and do you have a geonames ID for that? Or maybe latitude and longitude?
 $capital = $thailand->getCapital();

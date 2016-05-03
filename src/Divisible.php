@@ -3,7 +3,9 @@
 namespace MenaraSolutions\FluentGeonames;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
+use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
+use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
 use MenaraSolutions\FluentGeonames\Services\TranslationRepository;
 
 /**
@@ -33,23 +35,23 @@ abstract class Divisible
     protected $translator;
 
     /**
+     * Country constructor.
+     * @param \stdClass $meta
+     * @param ConfigInterface $config
+     */
+    public function __construct(\stdClass $meta = null, ConfigInterface $config = null)
+    {
+        $this->meta = $meta;
+        $this->config = $config ?: new DefaultConfig();
+
+        $this->loadMembers();
+    }
+
+    /**
      * @return string
      */
     abstract protected function getStoragePath();
 
-    /**
-     * Country constructor.
-     * @param \stdClass $meta
-     * @param TranslationRepositoryInterface $translator
-     */
-    public function __construct(\stdClass $meta = null, TranslationRepositoryInterface $translator = null)
-    {
-        $this->meta = $meta;
-        $this->translator = $translator ?: new TranslationRepository();
-
-        $this->loadMembers();
-    }
-    
     /**
      * @return MemberCollection
      */
@@ -70,7 +72,7 @@ abstract class Divisible
 
         if (file_exists($file)) {
             foreach(json_decode(file_get_contents($file)) as $meta) {
-                $collection->add(new $this->memberClass($meta, $this->translator));
+                $collection->add(new $this->memberClass($meta, $this->config));
             }
         }
 

@@ -6,7 +6,7 @@
         },
         "names": {
             "long": "Western",
-            "short": "Western"
+            "short": null
         }
     },
     {
@@ -16,7 +16,7 @@
         },
         "names": {
             "long": "Northern",
-            "short": "Northern"
+            "short": null
         }
     },
     {
@@ -26,7 +26,7 @@
         },
         "names": {
             "long": "Central",
-            "short": "Central"
+            "short": null
         }
     },
     {
@@ -36,7 +36,7 @@
         },
         "names": {
             "long": "Eastern",
-            "short": "Eastern"
+            "short": null
         }
     },
     {
@@ -46,7 +46,7 @@
         },
         "names": {
             "long": "Rotuma",
-            "short": "Rotuma"
+            "short": null
         }
     }
 ]

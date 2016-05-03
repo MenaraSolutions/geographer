@@ -2,6 +2,8 @@
 
 namespace MenaraSolutions\FluentGeonames\Traits;
 
+use MenaraSolutions\FluentGeonames\Divisible;
+
 /**
  * Class HasTranslations
  * @package MenaraSolutions\FluentGeonames
@@ -17,10 +19,13 @@ trait HasTranslations
 
     /**
      * @param $language
+     * @return Divisible
      */
     public function setLanguage($language)
     {
         $this->language = $language;
+
+        return $this;
     }
 
     /**
@@ -29,5 +34,14 @@ trait HasTranslations
     public function getLanguage()
     {
         return $this->language;
+    }
+
+    /**
+     * @param $input
+     * @return string
+     */
+    public function getText($input)
+    {
+        return $this->config->getTranslator()->translate($input, get_class($this), $this->language);
     }
 }

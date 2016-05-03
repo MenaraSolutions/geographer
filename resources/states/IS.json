@@ -6,7 +6,7 @@
         },
         "names": {
             "long": "Northwest",
-            "short": "Northwest"
+            "short": null
         }
     },
     {
@@ -16,7 +16,7 @@
         },
         "names": {
             "long": "Northeast",
-            "short": "Northeast"
+            "short": null
         }
     },
     {
@@ -26,7 +26,7 @@
         },
         "names": {
             "long": "East",
-            "short": "East"
+            "short": null
         }
     },
     {
@@ -36,7 +36,7 @@
         },
         "names": {
             "long": "South",
-            "short": "South"
+            "short": null
         }
     },
     {
@@ -46,7 +46,7 @@
         },
         "names": {
             "long": "Capital Region",
-            "short": "Capital Region"
+            "short": null
         }
     },
     {
@@ -56,7 +56,7 @@
         },
         "names": {
             "long": "Southern Peninsula",
-            "short": "Southern Peninsula"
+            "short": null
         }
     },
     {
@@ -66,7 +66,7 @@
         },
         "names": {
             "long": "West",
-            "short": "West"
+            "short": null
         }
     },
     {
@@ -76,7 +76,7 @@
         },
         "names": {
             "long": "Westfjords",
-            "short": "Westfjords"
+            "short": null
         }
     }
 ]

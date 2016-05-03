@@ -4,6 +4,7 @@ namespace MenaraSolutions\FluentGeonames;
 
 use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
+use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 
 /**
  * Class Country
@@ -17,7 +18,19 @@ class Country extends Divisible
      * @var string
      */
     protected $memberClass = State::class;
-    
+
+    /**
+     * Country constructor.
+     * @param \stdClass $meta
+     * @param ConfigInterface $config
+     */
+    public function __construct(\stdClass $meta, ConfigInterface $config)
+    {
+        parent::__construct($meta, $config);
+
+        $this->config->setStoragePath($this->config->getStoragePath() . DIRECTORY_SEPARATOR . 'states' . DIRECTORY_SEPARATOR);
+    }
+
     /**
      * Get alpha2 ISO code
      *
@@ -53,16 +66,7 @@ class Country extends Divisible
     {
         return $this->getText($this->meta->names->long) ?: $this->getText($this->meta->names->short);
     }
-
-    /**
-     * @param $input
-     * @return string
-     */
-    public function getText($input)
-    {
-        return $this->translator->translate($input, get_class($this), $this->language);
-    }
-
+    
     /**
      * @return array
      */
@@ -89,6 +93,6 @@ class Country extends Divisible
      */
     protected function getStoragePath()
     {
-        return "resources/states/" . $this->getCode() . ".json";
+        return $this->config->getStoragePath() . $this->getCode() . '.json';
     }
 }

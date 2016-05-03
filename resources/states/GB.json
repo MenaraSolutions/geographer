@@ -6,7 +6,7 @@
         },
         "names": {
             "long": "Wales",
-            "short": "Wales"
+            "short": null
         }
     },
     {
@@ -16,7 +16,7 @@
         },
         "names": {
             "long": "Scotland",
-            "short": "Scotland"
+            "short": null
         }
     },
     {
@@ -26,7 +26,7 @@
         },
         "names": {
             "long": "Northern Ireland",
-            "short": "Northern Ireland"
+            "short": null
         }
     },
     {
@@ -36,7 +36,7 @@
         },
         "names": {
             "long": "England",
-            "short": "England"
+            "short": null
         }
     }
 ]
