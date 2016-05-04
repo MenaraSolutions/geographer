@@ -29,4 +29,15 @@ interface ConfigInterface
      * @return ConfigInterface
      */
     public function setTranslator(TranslationRepositoryInterface $translator);
+
+    /**
+     * @return string
+     */
+    public function getLanguage();
+
+    /**
+     * @param string $language
+     * @return ConfigInterface
+     */
+    public function setLanguage($language);
 }

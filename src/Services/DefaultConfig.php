@@ -22,6 +22,11 @@ class DefaultConfig implements ConfigInterface
     protected $translator;
 
     /**
+     * @var string
+     */
+    protected $language;
+
+    /**
      * DefaultConfig constructor.
      * @param array $params
      */
@@ -69,5 +74,24 @@ class DefaultConfig implements ConfigInterface
         $this->translator = $translator;
 
         return $this;
+    }
+
+    /**
+     * @param $language
+     * @return $this
+     */
+    public function setLanguage($language)
+    {
+        $this->language = $language;
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLanguage()
+    {
+        return $this->language;
     }
 }

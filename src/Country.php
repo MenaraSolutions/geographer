@@ -56,7 +56,7 @@ class Country extends Divisible
      */
     public function getShortName()
     {
-        return $this->getText($this->meta->names->short) ?: $this->getText($this->meta->names->long);
+        return $this->translate($this->meta->names->short) ?: $this->translate($this->meta->names->long);
     }
 
     /**
@@ -64,7 +64,7 @@ class Country extends Divisible
      */
     public function getLongName()
     {
-        return $this->getText($this->meta->names->long) ?: $this->getText($this->meta->names->short);
+        return $this->translate($this->meta->names->long) ?: $this->translate($this->meta->names->short);
     }
     
     /**

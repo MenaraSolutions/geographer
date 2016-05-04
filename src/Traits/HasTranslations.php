@@ -10,38 +10,11 @@ use MenaraSolutions\FluentGeonames\Divisible;
  */
 trait HasTranslations
 {
-    /**
-     * Default language is English
-     *
-     * @var string
-     */
-    protected $language = 'en';
-
-    /**
-     * @param $language
-     * @return Divisible
-     */
-    public function setLanguage($language)
+    public function translate($input, $language = null)
     {
-        $this->language = $language;
+        $translator = $this->config->getTranslator();
+        $language = $language ?: $this->config->getLanguage();
 
-        return $this;
-    }
-
-    /**
-     * @return string
-     */
-    public function getLanguage()
-    {
-        return $this->language;
-    }
-
-    /**
-     * @param $input
-     * @return string
-     */
-    public function getText($input)
-    {
-        return $this->config->getTranslator()->translate($input, get_class($this), $this->language);
+        return $translator->translate($input, get_class($this), $language);
     }
 }
