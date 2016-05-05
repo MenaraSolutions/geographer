@@ -20,6 +20,12 @@ class CountryTest extends \PHPUnit_Framework_TestCase
             $states = $country->getStates();
             $this->assertEquals(MemberCollection::class, get_class($states));
             $this->assertTrue(is_array($states) || $states instanceof \ArrayObject);
+            $array = $country->toArray();
+            $this->assertTrue(is_array($array));
+            $this->assertArrayHasKey('code', $array);
+            $this->assertArrayHasKey('code_3', $array);
+            $this->assertArrayHasKey('short_name', $array);
+            $this->assertArrayHasKey('long_name', $array);
         }
     }
 }

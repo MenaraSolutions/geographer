@@ -18,7 +18,7 @@ class TranslationRepository implements TranslationRepositoryInterface
      */
     public function translate($input, $context, $language)
     {
-        // TODO: Implement translate() method.
+        // English is the source language
         if ($language == 'en') return $input;
 
         return 'DDsadsd';

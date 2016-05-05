@@ -35,4 +35,17 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
             $this->assertEquals(3, strlen($country->getCode3()));
         }
     }
+
+    /**
+     * @test
+     */
+    public function can_get_translated_country_names()
+    {
+        $planet = new Planet();
+        $countries = $planet->getCountries();
+        $country = $countries[rand(0, count($countries))];
+        $original = $country->getLongName();
+        $country->setLanguage('ru');
+        $this->assertNotEquals($original, $country->getLongName());
+    }
 }

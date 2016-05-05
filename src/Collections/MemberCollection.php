@@ -2,16 +2,12 @@
 
 namespace MenaraSolutions\FluentGeonames\Collections;
 
-use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
-
 /**
  * Class MemberCollection
  * @package MenaraSolutions\FluentGeonames\Collections
  */
 class MemberCollection extends \ArrayObject
 {
-    use HasTranslations;
-
     /**
      * @var array $divisions
      */

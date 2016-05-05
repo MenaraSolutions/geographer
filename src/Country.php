@@ -2,7 +2,6 @@
 
 namespace MenaraSolutions\FluentGeonames;
 
-use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 
@@ -12,8 +11,6 @@ use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
  */
 class Country extends Divisible
 {
-    use HasTranslations;
-    
     /**
      * @var string
      */

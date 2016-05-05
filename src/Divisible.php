@@ -30,9 +30,9 @@ abstract class Divisible
     protected $memberClass;
 
     /**
-     * @var TranslationRepositoryInterface
+     * @var ConfigInterface
      */
-    protected $translator;
+    protected $config;
 
     /**
      * Country constructor.
@@ -61,6 +61,14 @@ abstract class Divisible
     }
 
     /**
+     * @param string $language
+     */
+    public function setLanguage($language)
+    {
+        $this->config->setLanguage($language);
+    }
+
+    /**
      * @param MemberCollection $collection
      * @return void
      */
@@ -77,5 +85,18 @@ abstract class Divisible
         }
 
         $this->members = $collection;
+    }
+
+    /**
+     * @param $input
+     * @param string|null $language
+     * @return string
+     */
+    public function translate($input, $language = null)
+    {
+        $translator = $this->config->getTranslator();
+        $language = $language ?: $this->config->getLanguage();
+
+        return $translator->translate($input, get_class($this), $language);
     }
 }

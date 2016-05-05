@@ -24,7 +24,7 @@ class DefaultConfig implements ConfigInterface
     /**
      * @var string
      */
-    protected $language;
+    protected $language = 'en';
 
     /**
      * DefaultConfig constructor.

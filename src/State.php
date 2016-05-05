@@ -2,16 +2,12 @@
 
 namespace MenaraSolutions\FluentGeonames;
 
-use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
-
 /**
  * Class State
  * @package MenaraSolutions\FluentGeonames
  */
 class State extends Divisible
 {
-    use HasTranslations;
-
     /**
      * Get Geonames code
      *

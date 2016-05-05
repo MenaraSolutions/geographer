@@ -3,12 +3,9 @@
 namespace MenaraSolutions\FluentGeonames;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
-use MenaraSolutions\FluentGeonames\Traits\HasTranslations;
 
 class Planet extends Divisible
 {
-    use HasTranslations;
-
     /**
      * @var string
      */
