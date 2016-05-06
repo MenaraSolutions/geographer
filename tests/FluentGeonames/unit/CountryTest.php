@@ -28,4 +28,16 @@ class CountryTest extends \PHPUnit_Framework_TestCase
             $this->assertArrayHasKey('long_name', $array);
         }
     }
+
+    /**
+     * @test
+     */
+    public function country_can_ask_for_a_short_name()
+    {
+        $planet = new Planet();
+        $russia = $planet->find(['code' => 'RU']);
+        $longName = $russia->getName();
+        $russia->useShortNames();
+        $this->assertNotEquals($longName, $russia->getName());
+    }
 }

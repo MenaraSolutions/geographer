@@ -21,6 +21,34 @@ class State extends Divisible
     /**
      * @return string
      */
+    public function getShortName()
+    {
+        return $this->translate($this->meta->names->short) ?: $this->translate($this->meta->names->long);
+    }
+
+    /**
+     * @return string
+     */
+    public function getLongName()
+    {
+        return $this->translate($this->meta->names->long) ?: $this->translate($this->meta->names->short);
+    }
+    
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'geonames_id' => $this->getCode(),
+            'short_name' => $this->getShortName(),
+            'long_name' => $this->getLongName()
+        ];
+    }
+
+    /**
+     * @return string
+     */
     protected function getStoragePath()
     {
         return $this->config->getStoragePath() . $this->getCode() . '.json';

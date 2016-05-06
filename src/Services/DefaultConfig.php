@@ -27,6 +27,11 @@ class DefaultConfig implements ConfigInterface
     protected $language = 'en';
 
     /**
+     * @var bool
+     */
+    protected $brief = false;
+
+    /**
      * DefaultConfig constructor.
      * @param array $params
      */
@@ -93,5 +98,33 @@ class DefaultConfig implements ConfigInterface
     public function getLanguage()
     {
         return $this->language;
+    }
+
+    /**
+     * @return $this
+     */
+    public function useLongNames()
+    {
+        $this->brief = false;
+
+        return $this;
+    }
+
+    /**
+     * @return $this
+     */
+    public function useShortNames()
+    {
+        $this->brief = true;
+
+        return $this;
+    }
+
+    /**
+     * @return bool
+     */
+    public function expectsLongNames()
+    {
+        return ! $this->brief;
     }
 }

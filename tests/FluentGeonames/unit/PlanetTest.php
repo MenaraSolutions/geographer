@@ -2,6 +2,7 @@
 
 namespace MenaraSolutions\FluentGeonames\Tests;
 
+use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\Planet;
 
@@ -47,5 +48,16 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
         $original = $country->getLongName();
         $country->setLanguage('ru');
         $this->assertNotEquals($original, $country->getLongName());
+    }
+
+    /**
+     * @test
+     */
+    public function can_find_a_country_by_code()
+    {
+        $planet = new Planet();
+        $russia = $planet->find(['code' => 'RU']);
+        $this->assertTrue($russia instanceof Country);
+        $this->assertEquals('RU', $russia->getCode());
     }
 }

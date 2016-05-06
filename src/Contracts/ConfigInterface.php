@@ -40,4 +40,19 @@ interface ConfigInterface
      * @return ConfigInterface
      */
     public function setLanguage($language);
+
+    /**
+     * @return ConfigInterface
+     */
+    public function useShortNames();
+
+    /**
+     * @return ConfigInterface
+     */
+    public function useLongNames();
+
+    /**
+     * @return bool
+     */
+    public function expectsLongNames();
 }

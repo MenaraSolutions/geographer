@@ -7,6 +7,7 @@ use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
 use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
 use MenaraSolutions\FluentGeonames\Services\TranslationRepository;
+use MenaraSolutions\FluentGeonames\Traits\HasConfig;
 
 /**
  * Class Divisible
@@ -14,6 +15,8 @@ use MenaraSolutions\FluentGeonames\Services\TranslationRepository;
  */
 abstract class Divisible
 {
+    use HasConfig;
+
     /**
      * @var \stdClass $meta
      */
@@ -61,11 +64,23 @@ abstract class Divisible
     }
 
     /**
-     * @param string $language
+     * @param array $params
+     * @return Divisible|bool
      */
-    public function setLanguage($language)
+    public function find(array $params = [])
     {
-        $this->config->setLanguage($language);
+        foreach($this->members as $member) {
+            $memberArray = $member->toArray();
+            $match = true;
+
+            foreach ($params as $key => $value) {
+                if (!isset($memberArray[$key]) || $memberArray[$key] != $value) $match = false;
+            }
+
+            if ($match) return $member;
+        }
+
+        return false;
     }
 
     /**
@@ -76,7 +91,7 @@ abstract class Divisible
     {
         $file = $this->getStoragePath();
 
-        $collection = $collection ?: (new MemberCollection());
+        $collection = $collection ?: (new MemberCollection($this->config));
 
         if (file_exists($file)) {
             foreach(json_decode(file_get_contents($file)) as $meta) {
@@ -87,6 +102,28 @@ abstract class Divisible
         $this->members = $collection;
     }
 
+    /**
+     * @return string
+     */
+    abstract public function getLongName();
+
+    /**
+     * @return string
+     */
+    abstract public function getShortName();
+
+    /**
+     * Best effort name
+     *
+     * @return string
+     */
+    public function getName()
+    {
+        if (! $this->config->expectsLongNames()) return $this->getShortName();
+
+        return $this->getLongName();
+    }
+    
     /**
      * @param $input
      * @param string|null $language

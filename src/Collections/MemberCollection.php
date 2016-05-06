@@ -2,16 +2,37 @@
 
 namespace MenaraSolutions\FluentGeonames\Collections;
 
+use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
+use MenaraSolutions\FluentGeonames\Traits\HasConfig;
+
 /**
  * Class MemberCollection
  * @package MenaraSolutions\FluentGeonames\Collections
  */
 class MemberCollection extends \ArrayObject
 {
+    use HasConfig;
+    
     /**
      * @var array $divisions
      */
     private $divisions;
+
+    /**
+     * @var ConfigInterface
+     */
+    protected $config;
+
+    /**
+     * MemberCollection constructor.
+     * @param ConfigInterface $config
+     */
+    public function __construct(ConfigInterface $config)
+    {
+        parent::__construct();
+
+        $this->config = $config;
+    }
 
     /**
      * @return \ArrayIterator

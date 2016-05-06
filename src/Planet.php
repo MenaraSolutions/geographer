@@ -22,6 +22,22 @@ class Planet extends Divisible
     /**
      * @return string
      */
+    public function getShortName()
+    {
+        return 'Earth';
+    }
+
+    /**
+     * @return string
+     */
+    public function getLongName()
+    {
+        return 'The Blue Marble';
+    }
+
+    /**
+     * @return string
+     */
     protected function getStoragePath() {
         return $this->config->getStoragePath() . 'countries.json';
     }
