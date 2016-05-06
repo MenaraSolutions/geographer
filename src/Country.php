@@ -78,6 +78,16 @@ class Country extends Divisible
     }
 
     /**
+     * @return bool|Divisible
+     */
+    public function getCapital()
+    {
+        return $this->find([
+            'capital' => true
+        ]);
+    }
+
+    /**
      * @return MemberCollection
      */
     public function getStates()

@@ -49,13 +49,13 @@ $planet->getCountries()->useShortNames()->toArray();
 
 // Now please give me all states of Thailand
 $countries = $planet->getCountries();
-$thailand = $countries->find(['iso_code' => 'th']);
+$thailand = $countries->find(['code' => 'TH']);
 $thailand->getStates()->toArray();
 
 // Oh, but I want them in Russian
 $thailand->getStates()->setLanguage('ru')->toArray();
 
-// Oh, but I want them conjugated to 'in' form
+// Oh, but I want them inflicted to 'in' form (eg. 'in Spain')
 $thailand->getStates()->setLanguage('ru')->inflict('in')->toArray();
 
 // What's the capital and do you have a geonames ID for that? Or maybe latitude and longitude?
