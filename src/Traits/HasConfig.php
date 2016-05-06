@@ -2,19 +2,12 @@
 
 namespace MenaraSolutions\FluentGeonames\Traits;
 
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
-
 /**
  * Class HasConfig
  * @package MenaraSolutions\FluentGeonames\Traits
  */
 trait HasConfig
 {
-    /**
-     * @var ConfigInterface
-     */
-    protected $config;
-
     /**
      * @param string $language
      */
