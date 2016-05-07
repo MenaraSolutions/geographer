@@ -40,7 +40,7 @@ class DefaultConfig implements ConfigInterface
         $this->path = isset($params['path']) ? $params['path']
             : dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
 
-        $this->translator = isset($params['translator']) ? $params['translator'] : new TranslationRepository();
+        $this->translator = isset($params['translator']) ? $params['translator'] : new TranslationRepository($this->path);
     }
 
     /**

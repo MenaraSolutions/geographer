@@ -24,8 +24,7 @@ class CountryTest extends \PHPUnit_Framework_TestCase
             $this->assertTrue(is_array($array));
             $this->assertArrayHasKey('code', $array);
             $this->assertArrayHasKey('code_3', $array);
-            $this->assertArrayHasKey('short_name', $array);
-            $this->assertArrayHasKey('long_name', $array);
+            $this->assertArrayHasKey('name', $array);
         }
     }
 

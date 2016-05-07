@@ -38,6 +38,24 @@ class Planet extends Divisible
     /**
      * @return string
      */
+    public function getCode()
+    {
+        return 'SOL-III';
+    }
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'name' => $this->getName()
+        ];
+    }
+
+    /**
+     * @return string
+     */
     protected function getStoragePath() {
         return $this->config->getStoragePath() . 'countries.json';
     }

@@ -16,7 +16,7 @@ class MemberCollection extends \ArrayObject
     /**
      * @var array $divisions
      */
-    private $divisions;
+    private $divisions = [];
 
     /**
      * @var ConfigInterface

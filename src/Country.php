@@ -24,8 +24,6 @@ class Country extends Divisible
     public function __construct(\stdClass $meta, ConfigInterface $config)
     {
         parent::__construct($meta, $config);
-
-        $this->config->setStoragePath($this->config->getStoragePath() . DIRECTORY_SEPARATOR . 'states' . DIRECTORY_SEPARATOR);
     }
 
     /**
@@ -72,8 +70,7 @@ class Country extends Divisible
         return [
             'code' => $this->getCode(),
             'code_3' => $this->getCode3(),
-            'short_name' => $this->getShortName(),
-            'long_name' => $this->getLongName()
+            'name' => $this->getName()
         ];
     }
 

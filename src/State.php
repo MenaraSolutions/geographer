@@ -41,8 +41,7 @@ class State extends Divisible
     {
         return [
             'geonames_id' => $this->getCode(),
-            'short_name' => $this->getShortName(),
-            'long_name' => $this->getLongName()
+            'name' => $this->getName()
         ];
     }
 

@@ -10,9 +10,9 @@ interface TranslationRepositoryInterface
 {
     /**
      * @param string $input
-     * @param string $context
+     * @param IdentifiableInterface $subject
      * @param string $language
      * @return string
      */
-    public function translate($input, $context, $language);
+    public function translate($input, IdentifiableInterface $subject, $language);
 }

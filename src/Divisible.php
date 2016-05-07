@@ -4,6 +4,7 @@ namespace MenaraSolutions\FluentGeonames;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
+use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
 use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
 use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
 use MenaraSolutions\FluentGeonames\Services\TranslationRepository;
@@ -13,7 +14,7 @@ use MenaraSolutions\FluentGeonames\Traits\HasConfig;
  * Class Divisible
  * @package App
  */
-abstract class Divisible
+abstract class Divisible implements IdentifiableInterface
 {
     use HasConfig;
 
@@ -25,7 +26,7 @@ abstract class Divisible
     /**
      * @var MemberCollection $members
      */
-    protected $members;
+    protected $members = null;
 
     /**
      * @var string $memberClass
@@ -46,8 +47,6 @@ abstract class Divisible
     {
         $this->meta = $meta;
         $this->config = $config ?: new DefaultConfig();
-
-        $this->loadMembers();
     }
 
     /**
@@ -60,6 +59,8 @@ abstract class Divisible
      */
     public function getMembers()
     {
+        if (! $this->members) $this->loadMembers();
+
         return $this->members;
     }
 
@@ -69,6 +70,8 @@ abstract class Divisible
      */
     public function find(array $params = [])
     {
+        if (! $this->members) $this->loadMembers();
+
         foreach($this->members as $member) {
             $memberArray = $member->toArray();
             $match = true;
@@ -113,6 +116,11 @@ abstract class Divisible
     abstract public function getShortName();
 
     /**
+     * @return array
+     */
+    abstract public function toArray();
+
+    /**
      * Best effort name
      *
      * @return string
@@ -134,6 +142,6 @@ abstract class Divisible
         $translator = $this->config->getTranslator();
         $language = $language ?: $this->config->getLanguage();
 
-        return $translator->translate($input, get_class($this), $language);
+        return $translator->translate($input, $this, $language);
     }
 }
