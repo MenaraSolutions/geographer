@@ -77,7 +77,7 @@ abstract class Divisible implements IdentifiableInterface
             $match = true;
 
             foreach ($params as $key => $value) {
-                if (!isset($memberArray[$key]) || $memberArray[$key] != $value) $match = false;
+                if (!isset($memberArray[$key]) || strcasecmp($memberArray[$key], $value) != 0) $match = false;
             }
 
             if ($match) return $member;
@@ -116,11 +116,6 @@ abstract class Divisible implements IdentifiableInterface
     abstract public function getShortName();
 
     /**
-     * @return array
-     */
-    abstract public function toArray();
-
-    /**
      * Best effort name
      *
      * @return string
@@ -131,7 +126,18 @@ abstract class Divisible implements IdentifiableInterface
 
         return $this->getLongName();
     }
-    
+
+    /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'code' => $this->getCode(),
+            'name' => $this->getName()
+        ];
+    }
+
     /**
      * @param $input
      * @param string|null $language

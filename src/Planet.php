@@ -42,17 +42,7 @@ class Planet extends Divisible
     {
         return 'SOL-III';
     }
-
-    /**
-     * @return array
-     */
-    public function toArray()
-    {
-        return [
-            'name' => $this->getName()
-        ];
-    }
-
+    
     /**
      * @return string
      */

@@ -17,11 +17,14 @@ class StateTest extends \PHPUnit_Framework_TestCase
         $countries = $planet->getCountries();
 
         foreach ($countries as $country) {
+            /**
+             * @var MemberCollection $states
+             */
             $states = $country->getStates();
 
             foreach ($states as $state) {
                 $array = $state->toArray();
-                $this->assertTrue(isset($array['geonames_id']) && is_int($array['geonames_id']));
+                $this->assertTrue(isset($array['code']) && is_int($array['code']));
                 $this->assertTrue(isset($array['name']) && is_string($array['name']));
             }
         }

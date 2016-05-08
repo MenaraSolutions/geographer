@@ -33,17 +33,6 @@ class State extends Divisible
     {
         return $this->translate($this->meta->names->long) ?: $this->translate($this->meta->names->short);
     }
-    
-    /**
-     * @return array
-     */
-    public function toArray()
-    {
-        return [
-            'geonames_id' => $this->getCode(),
-            'name' => $this->getName()
-        ];
-    }
 
     /**
      * @return string
