@@ -79,7 +79,7 @@ class TranslationRepository implements TranslationRepositoryInterface
 
         foreach ($this->cache[$this->getPrefix(get_class($subject))][$language] as $country) {
             if ($country['code'] == $subject->getCode()) {
-                return $country[$field]['default'] ?? $country[$backupField]['default'];
+                return $country[$field]['default'] ?: $country[$backupField]['default'];
             }
         }
     }
