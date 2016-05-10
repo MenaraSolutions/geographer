@@ -9,6 +9,7 @@ use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\State;
 use MenaraSolutions\FluentGeonames\Planet;
 use MenaraSolutions\FluentGeonames\Exceptions\FileNotFoundException;
+use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 
 /**
  * Class TranslationRepository
@@ -36,6 +37,11 @@ class TranslationRepository implements TranslationRepositoryInterface
     ];
 
     /**
+     * @var array
+     */
+    protected $cache = [];
+
+    /**
      * TranslationRepository constructor.
      * @param $base_path
      */
@@ -45,19 +51,37 @@ class TranslationRepository implements TranslationRepositoryInterface
     }
 
     /**
-     * @param string $input
+     * @param ConfigInterface $config
      * @param IdentifiableInterface $subject
      * @param string $language
      * @return string
      */
-    public function translate($input, IdentifiableInterface $subject, $language)
+    public function translate(ConfigInterface $config, IdentifiableInterface $subject, $language)
     {
         // English is the source language
-        if ($language == self::DEFAULT_LANGUAGE) return $input;
+        if ($language == self::DEFAULT_LANGUAGE) return null;
 
         $this->loadTranslations($subject, $language);
 
-        return 'dasdasd';
+        if (get_class($subject) == Country::class) return $this->translateCountry($config, $subject, $language);
+    }
+
+    /**
+     * @param ConfigInterface $config
+     * @param IdentifiableInterface $subject
+     * @param $language
+     * @return string
+     */
+    public function translateCountry(ConfigInterface $config, IdentifiableInterface $subject, $language)
+    {
+        $field = $config->expectsLongNames() ? 'long' : 'short';
+        $backupField = !$config->expectsLongNames() ? 'long' : 'short';
+
+        foreach ($this->cache[$this->getPrefix(get_class($subject))][$language] as $country) {
+            if ($country['code'] == $subject->getCode()) {
+                return $country[$field]['default'] ?? $country[$backupField]['default'];
+            }
+        }
     }
 
     /**
@@ -80,7 +104,19 @@ class TranslationRepository implements TranslationRepositoryInterface
      */
     public function getStoragePath($class, $id, $language)
     {
-        return $this->base_path . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $language . '.json';
+        switch ($class) {
+            case Country::class:
+                return $this->base_path . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $language . '.json';
+
+                break;
+
+            case State::class;
+                return $this->base_path . 'translations/' . $this->getPrefix($class) . $id . DIRECTORY_SEPARATOR . $language . '.json';
+
+                break;
+
+            default;
+        }
     }
 
     /**
@@ -93,5 +129,9 @@ class TranslationRepository implements TranslationRepositoryInterface
         $source = $this->getStoragePath(get_class($subject), $subject->getCode(), $language);
 
         if (!file_exists($source)) throw new FileNotFoundException('File not found: ' . $source);
+
+        if (isset($this->cache[$this->getPrefix(get_class($subject))][$language])) return;
+
+        $this->cache[$this->getPrefix(get_class($subject))][$language] = json_decode(file_get_contents($source), true);
     }
 }
