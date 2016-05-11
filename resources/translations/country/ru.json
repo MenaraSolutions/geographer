@@ -2364,13 +2364,13 @@
         "code": "RU",
         "long": {
             "default": "Российская Федерация",
-            "in": null,
-            "from": null
+            "in": "в Российской Федерации",
+            "from": "из Российской Федерации"
         },
         "short": {
             "default": "Россия",
-            "in": null,
-            "from": null
+            "in": "в России",
+            "from": "из России"
         }
     },
     {
@@ -2857,12 +2857,12 @@
     {
         "code": "TH",
         "long": {
-            "default": "Thailand",
-            "in": null,
-            "from": null
+            "default": "Таиланд",
+            "in": "в Таиланде",
+            "from": "из Таиланда"
         },
         "short": {
-            "default": "",
+            "default": null,
             "in": null,
             "from": null
         }
@@ -3052,14 +3052,14 @@
     {
         "code": "US",
         "long": {
-            "default": "United States of America",
-            "in": null,
-            "from": null
+            "default": "Соединённые Штаты Америки",
+            "in": "в Соединённых Штатах Америки",
+            "from": "из Соединённых Штатов Америки"
         },
         "short": {
-            "default": "",
-            "in": null,
-            "from": null
+            "default": "США",
+            "in": "в США",
+            "from": "из США"
         }
     },
     {

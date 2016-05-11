@@ -9,7 +9,17 @@ use MenaraSolutions\FluentGeonames\Planet;
 class PlanetTest extends \PHPUnit_Framework_TestCase
 {
     const TOTAL_COUNTRIES = 249;
-    
+
+    /**
+     * @var float Milliseconds
+     */
+    protected $performanceTimeGoal = 10;
+
+    /**
+     * @var int Bytes
+     */
+    protected $performanceMemoryGoal = 500000;
+
     /**
      * @test
      */
@@ -60,5 +70,18 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
         $russia = $planet->find(['code' => 'RU']);
         $this->assertTrue($russia instanceof Country);
         $this->assertEquals('RU', $russia->getCode());
+    }
+
+    /**
+     * @test
+     */
+    public function performance_test_falls_within_the_limits()
+    {
+        $memoryBefore = memory_get_usage();
+        $timeBefore = microtime(true);
+        $planet = new Planet();
+        $russia = $planet->find(['code' => 'RU']);
+        $this->assertTrue((microtime(true) - $timeBefore) * 1000 < $this->performanceTimeGoal);
+        $this->assertTrue(memory_get_usage() - $memoryBefore < $this->performanceMemoryGoal);
     }
 }
