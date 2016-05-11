@@ -11,7 +11,7 @@ class CountryTest extends \PHPUnit_Framework_TestCase
     /**
      * @var float Milliseconds
      */
-    protected $performanceTimeGoal = 10;
+    protected $performanceTimeGoal = 20;
 
     /**
      * @var int Bytes
