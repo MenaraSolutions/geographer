@@ -18,7 +18,7 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
     /**
      * @var int Bytes
      */
-    protected $performanceMemoryGoal = 500000;
+    protected $performanceMemoryGoal = 1000000;
 
     /**
      * @test
