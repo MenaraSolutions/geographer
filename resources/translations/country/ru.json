@@ -2364,13 +2364,13 @@
         "code": "RU",
         "long": {
             "default": "Российская Федерация",
-            "in": "в Российской Федерации",
-            "from": "из Российской Федерации"
+            "in": "Российской Федерации",
+            "from": "Российской Федерации"
         },
         "short": {
             "default": "Россия",
-            "in": "в России",
-            "from": "из России"
+            "in": "России",
+            "from": "России"
         }
     },
     {
@@ -2584,9 +2584,9 @@
     {
         "code": "SG",
         "long": {
-            "default": "Singapore",
-            "in": null,
-            "from": null
+            "default": "Сингапур",
+            "in": "Сингапуре",
+            "from": "Сингапура"
         },
         "short": {
             "default": "",
@@ -2701,9 +2701,9 @@
     {
         "code": "ES",
         "long": {
-            "default": "Spain",
-            "in": null,
-            "from": null
+            "default": "Испания",
+            "in": "Испании",
+            "from": "Испании"
         },
         "short": {
             "default": "",
@@ -2779,9 +2779,9 @@
     {
         "code": "SE",
         "long": {
-            "default": "Sweden",
-            "in": null,
-            "from": null
+            "default": "Швеция",
+            "in": "Швеции",
+            "from": "Швеции"
         },
         "short": {
             "default": "",
@@ -2858,8 +2858,8 @@
         "code": "TH",
         "long": {
             "default": "Таиланд",
-            "in": "в Таиланде",
-            "from": "из Таиланда"
+            "in": "Таиланде",
+            "from": "Таиланда"
         },
         "short": {
             "default": null,
@@ -3053,8 +3053,8 @@
         "code": "US",
         "long": {
             "default": "Соединённые Штаты Америки",
-            "in": "в Соединённых Штатах Америки",
-            "from": "из Соединённых Штатов Америки"
+            "in": "Соединённых Штатах Америки",
+            "from": "Соединённых Штатов Америки"
         },
         "short": {
             "default": "США",
@@ -3091,9 +3091,9 @@
     {
         "code": "UZ",
         "long": {
-            "default": "Uzbekistan",
-            "in": null,
-            "from": null
+            "default": "Узбекистан",
+            "in": "Узбекистане",
+            "from": "Узбекистана"
         },
         "short": {
             "default": "",
@@ -3130,9 +3130,9 @@
     {
         "code": "VN",
         "long": {
-            "default": "Vietnam",
-            "in": null,
-            "from": null
+            "default": "Вьетнам",
+            "in": "Вьетнаме",
+            "from": "Вьетнама"
         },
         "short": {
             "default": "",
