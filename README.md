@@ -7,9 +7,9 @@
 [![Latest Unstable Version](https://poser.pugx.org/MenaraSolutions/fluent-geonames/v/unstable.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
 [![License](https://poser.pugx.org/MenaraSolutions/fluent-geonames/license.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
 
-A PHP library that knows how any country, state or city is called in another language.
+A PHP library that knows how any country, state or city is called in any language.
 
-Includes integrations with: Laravel 5
+Includes integrations with: Laravel 5, Lumen 5
 
 ## Dependencies
 
@@ -36,19 +36,20 @@ Or add it to `composer.json` manually:
 ## Usage
 
 ```php
-use MenaraSolutions\FluentGeonames\Planet;
+use MenaraSolutions\FluentGeonames\Earth;
 use MenaraSolutions\FluentGeonames\Country;
 
-$planet = new Planet();
+// Default entry point is our beautiful planet
+$earth = new Earth();
 
 // Give me a list of all countries please
-$planet->getCountries()->toArray();
+$earth->getCountries()->toArray();
 
 // Oh, but please try to use short versions, eg. USA instead of United States of America
-$planet->getCountries()->useShortNames()->toArray();
+$earth->getCountries()->useShortNames()->toArray();
 
 // Now please give me all states of Thailand
-$countries = $planet->getCountries();
+$countries = $earth->getCountries();
 $thailand = $countries->find(['code' => 'TH']);
 $thailand->getStates()->toArray();
 
@@ -66,6 +67,10 @@ $capital->getLongitude();
 ```
 
 ## Todo
+
+1. Add memcached support
+2. Add Laravel and Lumen integrations (service providers)
+3. Add Russian and Spanish versions for all countries, states and major cities
 
 ## License
 

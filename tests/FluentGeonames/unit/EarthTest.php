@@ -4,9 +4,9 @@ namespace MenaraSolutions\FluentGeonames\Tests;
 
 use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
-use MenaraSolutions\FluentGeonames\Planet;
+use MenaraSolutions\FluentGeonames\Earth;
 
-class PlanetTest extends \PHPUnit_Framework_TestCase
+class EarthTest extends \PHPUnit_Framework_TestCase
 {
     const TOTAL_COUNTRIES = 249;
 
@@ -25,8 +25,8 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
      */
     public function planet_class_loads_default_countries()
     {
-        $planet = new Planet();
-        $countries = $planet->getCountries();
+        $earth = new Earth();
+        $countries = $earth->getCountries();
         $this->assertTrue(is_array($countries->toArray()));
         $this->assertEquals(self::TOTAL_COUNTRIES, count($countries));
         $this->assertEquals(self::TOTAL_COUNTRIES, count($countries->toArray()));
@@ -37,8 +37,8 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
      */
     public function can_get_country_names_and_iso_codes_for_all_countries()
     {
-        $planet = new Planet();
-        $countries = $planet->getCountries();
+        $earth = new Earth();
+        $countries = $earth->getCountries();
         foreach($countries as $country) {
             $this->assertNotEmpty($country->getShortName());
             $this->assertNotEmpty($country->getLongName());
@@ -52,8 +52,8 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
      */
     public function can_get_translated_country_names()
     {
-        $planet = new Planet();
-        $country = $planet->find(['code' => 'ru']);
+        $earth = new Earth();
+        $country = $earth->find(['code' => 'ru']);
         //$country = $countries[rand(0, count($countries))];
         $original = $country->getLongName();
         $country->setLanguage('ru');
@@ -66,8 +66,8 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
      */
     public function can_find_a_country_by_code()
     {
-        $planet = new Planet();
-        $russia = $planet->find(['code' => 'RU']);
+        $earth = new Earth();
+        $russia = $earth->find(['code' => 'RU']);
         $this->assertTrue($russia instanceof Country);
         $this->assertEquals('RU', $russia->getCode());
     }
@@ -79,8 +79,8 @@ class PlanetTest extends \PHPUnit_Framework_TestCase
     {
         $memoryBefore = memory_get_usage();
         $timeBefore = microtime(true);
-        $planet = new Planet();
-        $russia = $planet->find(['code' => 'RU']);
+        $earth = new Earth();
+        $russia = $earth->find(['code' => 'RU']);
         $this->assertTrue((microtime(true) - $timeBefore) * 1000 < $this->performanceTimeGoal);
         $this->assertTrue(memory_get_usage() - $memoryBefore < $this->performanceMemoryGoal);
     }

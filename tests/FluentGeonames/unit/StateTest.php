@@ -4,7 +4,7 @@ namespace MenaraSolutions\FluentGeonames\Tests;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Country;
-use MenaraSolutions\FluentGeonames\Planet;
+use MenaraSolutions\FluentGeonames\Earth;
 
 class StateTest extends \PHPUnit_Framework_TestCase
 {
@@ -13,7 +13,7 @@ class StateTest extends \PHPUnit_Framework_TestCase
      */
     public function all_states_of_all_countries_have_geonames_ids_and_names()
     {
-        $planet = new Planet();
+        $planet = new Earth();
         $countries = $planet->getCountries();
 
         foreach ($countries as $country) {

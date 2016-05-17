@@ -4,7 +4,7 @@ namespace MenaraSolutions\FluentGeonames\Tests;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Country;
-use MenaraSolutions\FluentGeonames\Planet;
+use MenaraSolutions\FluentGeonames\Earth;
 
 class CountryTest extends \PHPUnit_Framework_TestCase
 {
@@ -23,7 +23,7 @@ class CountryTest extends \PHPUnit_Framework_TestCase
      */
     public function can_fetch_states_for_all_countries()
     {
-        $planet = new Planet();
+        $planet = new Earth();
         $countries = $planet->getCountries();
 
         foreach($countries as $country) {
@@ -43,7 +43,7 @@ class CountryTest extends \PHPUnit_Framework_TestCase
      */
     public function country_can_ask_for_a_short_name()
     {
-        $planet = new Planet();
+        $planet = new Earth();
         $russia = $planet->find(['code' => 'RU']);
         $longName = $russia->getName();
         $russia->useShortNames();
@@ -57,7 +57,7 @@ class CountryTest extends \PHPUnit_Framework_TestCase
     {
         $memoryBefore = memory_get_usage();
         $timeBefore = microtime(true);
-        $planet = new Planet();
+        $planet = new Earth();
         $russia = $planet->find(['code' => 'RU']);
         $states = $russia->getStates();
         $this->assertTrue((microtime(true) - $timeBefore) * 1000 < $this->performanceTimeGoal);

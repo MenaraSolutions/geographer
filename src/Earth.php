@@ -4,7 +4,7 @@ namespace MenaraSolutions\FluentGeonames;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 
-class Planet extends Divisible
+class Earth extends Divisible
 {
     /**
      * @var string

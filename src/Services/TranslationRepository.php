@@ -7,7 +7,7 @@ use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
 use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\State;
-use MenaraSolutions\FluentGeonames\Planet;
+use MenaraSolutions\FluentGeonames\Earth;
 use MenaraSolutions\FluentGeonames\Exceptions\FileNotFoundException;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 
@@ -33,7 +33,7 @@ class TranslationRepository implements TranslationRepositoryInterface
     protected $prefixes = [
         Country::class => 'country',
         State::class => 'state',
-        Planet::class => 'planet'
+        Earth::class => 'planet'
     ];
 
     /**
