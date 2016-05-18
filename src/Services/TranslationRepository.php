@@ -43,7 +43,7 @@ class TranslationRepository implements TranslationRepositoryInterface
 
     /**
      * TranslationRepository constructor.
-     * @param $base_path
+     * @param string $base_path
      */
     public function __construct($base_path)
     {

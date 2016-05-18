@@ -70,9 +70,7 @@ abstract class Divisible implements IdentifiableInterface
      */
     public function find(array $params = [])
     {
-        if (! $this->members) $this->loadMembers();
-
-        foreach($this->members as $member) {
+        foreach($this->getMembers() as $member) {
             $memberArray = $member->toArray();
             $match = true;
 

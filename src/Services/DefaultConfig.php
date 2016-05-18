@@ -33,14 +33,13 @@ class DefaultConfig implements ConfigInterface
 
     /**
      * DefaultConfig constructor.
-     * @param array $params
+     * @param string $path
+     * @param TranslationRepositoryInterface $translator
      */
-    public function __construct(array $params = [])
+    public function __construct($path = null, TranslationRepositoryInterface $translator = null)
     {
-        $this->path = isset($params['path']) ? $params['path']
-            : dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
-
-        $this->translator = isset($params['translator']) ? $params['translator'] : new TranslationRepository($this->path);
+        $this->path = $path ?: dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
+        $this->translator = $translator ?: new TranslationRepository($this->path);
     }
 
     /**
