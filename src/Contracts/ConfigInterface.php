@@ -31,6 +31,11 @@ interface ConfigInterface
     public function setTranslator(TranslationRepositoryInterface $translator);
 
     /**
+     * @param string $form
+     */
+    public function setForm($form);
+
+    /**
      * @return string
      */
     public function getLanguage();

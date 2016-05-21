@@ -6,18 +6,8 @@ use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Earth;
 
-class CountryTest extends \PHPUnit_Framework_TestCase
+class CountryTest extends Test
 {
-    /**
-     * @var float Milliseconds
-     */
-    protected $performanceTimeGoal = 20;
-
-    /**
-     * @var int Bytes
-     */
-    protected $performanceMemoryGoal = 1000000;
-
     /**
      * @test
      */
@@ -48,19 +38,5 @@ class CountryTest extends \PHPUnit_Framework_TestCase
         $longName = $russia->getName();
         $russia->useShortNames();
         $this->assertNotEquals($longName, $russia->getName());
-    }
-
-    /**
-     * @test
-     */
-    public function performance_test_falls_within_the_limits()
-    {
-        $memoryBefore = memory_get_usage();
-        $timeBefore = microtime(true);
-        $planet = new Earth();
-        $russia = $planet->find(['code' => 'RU']);
-        $states = $russia->getStates();
-        $this->assertTrue((microtime(true) - $timeBefore) * 1000 < $this->performanceTimeGoal);
-        $this->assertTrue(memory_get_usage() - $memoryBefore < $this->performanceMemoryGoal);
     }
 }

@@ -27,6 +27,11 @@ class DefaultConfig implements ConfigInterface
     protected $language = 'en';
 
     /**
+     * @var string
+     */
+    protected $form;
+
+    /**
      * @var bool
      */
     protected $brief = false;
@@ -87,6 +92,17 @@ class DefaultConfig implements ConfigInterface
     public function setLanguage($language)
     {
         $this->language = $language;
+
+        return $this;
+    }
+
+    /**
+     * @param string $form
+     * @return $this
+     */
+    public function setForm($form)
+    {
+        $this->form = $form;
 
         return $this;
     }

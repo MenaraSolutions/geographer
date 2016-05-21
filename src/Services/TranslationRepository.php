@@ -53,17 +53,16 @@ class TranslationRepository implements TranslationRepositoryInterface
     /**
      * @param ConfigInterface $config
      * @param IdentifiableInterface $subject
-     * @param string $language
      * @return string
      */
-    public function translate(ConfigInterface $config, IdentifiableInterface $subject, $language)
+    public function translate(ConfigInterface $config, IdentifiableInterface $subject)
     {
         // English is the source language
-        if ($language == self::DEFAULT_LANGUAGE) return null;
+        if ($config->getLanguage() == self::DEFAULT_LANGUAGE) return null;
 
-        $this->loadTranslations($subject, $language);
+        $this->loadTranslations($subject, $config->getLanguage());
 
-        if (get_class($subject) == Country::class) return $this->translateCountry($config, $subject, $language);
+        if (get_class($subject) == Country::class) return $this->translateCountry($config, $subject, $config->getLanguage());
     }
 
     /**

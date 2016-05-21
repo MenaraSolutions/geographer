@@ -144,9 +144,8 @@ abstract class Divisible implements IdentifiableInterface
     public function translate($input, $language = null)
     {
         $translator = $this->config->getTranslator();
-        $language = $language ?: $this->config->getLanguage();
 
-        $translation = $translator->translate($this->config, $this, $language);
+        $translation = $translator->translate($this->config, $this);
         return $translation ?: $input;
     }
 }

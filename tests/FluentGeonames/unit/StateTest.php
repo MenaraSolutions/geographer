@@ -6,7 +6,7 @@ use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Earth;
 
-class StateTest extends \PHPUnit_Framework_TestCase
+class StateTest extends Test
 {
     /**
      * @test

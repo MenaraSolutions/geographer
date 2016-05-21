@@ -6,20 +6,10 @@ use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\Earth;
 
-class EarthTest extends \PHPUnit_Framework_TestCase
+class EarthTest extends Test
 {
     const TOTAL_COUNTRIES = 249;
-
-    /**
-     * @var float Milliseconds
-     */
-    protected $performanceTimeGoal = 20;
-
-    /**
-     * @var int Bytes
-     */
-    protected $performanceMemoryGoal = 1000000;
-
+    
     /**
      * @test
      */
@@ -70,18 +60,5 @@ class EarthTest extends \PHPUnit_Framework_TestCase
         $russia = $earth->find(['code' => 'RU']);
         $this->assertTrue($russia instanceof Country);
         $this->assertEquals('RU', $russia->getCode());
-    }
-
-    /**
-     * @test
-     */
-    public function performance_test_falls_within_the_limits()
-    {
-        $memoryBefore = memory_get_usage();
-        $timeBefore = microtime(true);
-        $earth = new Earth();
-        $russia = $earth->find(['code' => 'RU']);
-        $this->assertTrue((microtime(true) - $timeBefore) * 1000 < $this->performanceTimeGoal);
-        $this->assertTrue(memory_get_usage() - $memoryBefore < $this->performanceMemoryGoal);
     }
 }
