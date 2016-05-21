@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Tests;
+namespace Tests;
 
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Country;
@@ -13,8 +13,8 @@ class CountryTest extends Test
      */
     public function can_fetch_states_for_all_countries()
     {
-        $planet = new Earth();
-        $countries = $planet->getCountries();
+        $earth = new Earth();
+        $countries = $earth->getCountries();
 
         foreach($countries as $country) {
             $states = $country->getStates();

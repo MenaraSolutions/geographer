@@ -17,23 +17,7 @@ class State extends Divisible
     {
         return $this->meta->ids->geonames;
     }
-
-    /**
-     * @return string
-     */
-    public function getShortName()
-    {
-        return $this->translate($this->meta->names->short) ?: $this->translate($this->meta->names->long);
-    }
-
-    /**
-     * @return string
-     */
-    public function getLongName()
-    {
-        return $this->translate($this->meta->names->long) ?: $this->translate($this->meta->names->short);
-    }
-
+    
     /**
      * @return string
      */

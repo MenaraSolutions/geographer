@@ -5,9 +5,9 @@ namespace MenaraSolutions\FluentGeonames;
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
-use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
+use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
-use MenaraSolutions\FluentGeonames\Services\TranslationRepository;
+use MenaraSolutions\FluentGeonames\Services\TranslationAgency;
 use MenaraSolutions\FluentGeonames\Traits\HasConfig;
 
 /**
@@ -39,13 +39,20 @@ abstract class Divisible implements IdentifiableInterface
     protected $config;
 
     /**
+     * @var Divisible
+     */
+    private $parent;
+
+    /**
      * Country constructor.
      * @param \stdClass $meta
+     * @param Divisible $parent
      * @param ConfigInterface $config
      */
-    public function __construct(\stdClass $meta = null, ConfigInterface $config = null)
+    public function __construct(\stdClass $meta = null, Divisible $parent = null, ConfigInterface $config = null)
     {
         $this->meta = $meta;
+        //$this->parent = $parent;
         $this->config = $config ?: new DefaultConfig();
     }
 
@@ -96,22 +103,12 @@ abstract class Divisible implements IdentifiableInterface
 
         if (file_exists($file)) {
             foreach(json_decode(file_get_contents($file)) as $meta) {
-                $collection->add(new $this->memberClass($meta, $this->config));
+                $collection->add(new $this->memberClass($meta, $this, $this->config));
             }
         }
 
         $this->members = $collection;
     }
-
-    /**
-     * @return string
-     */
-    abstract public function getLongName();
-
-    /**
-     * @return string
-     */
-    abstract public function getShortName();
 
     /**
      * Best effort name
@@ -120,9 +117,52 @@ abstract class Divisible implements IdentifiableInterface
      */
     public function getName()
     {
-        if (! $this->config->expectsLongNames()) return $this->getShortName();
+        return $this->config->expectsLongNames() ? $this->getLongName() : $this->getShortName();
+    }
 
-        return $this->getLongName();
+
+    /**
+     * @return string
+     */
+    public function getShortName()
+    {
+        $this->config->useShortNames();
+
+        return $this->translate();
+    }
+
+    /**
+     * @return string
+     */
+    public function getLongName()
+    {
+        $this->config->useLongNames();
+
+        return $this->translate();
+    }
+
+    /**
+     * @return bool
+     */
+    public function expectsLongNames()
+    {
+        return $this->config->expectsLongNames();
+    }
+
+    /**
+     * @return Divisible
+     */
+    public function parent()
+    {
+        return $this->parent;
+    }
+
+    /**
+     * @return \stdClass
+     */
+    public function getMeta()
+    {
+        return $this->meta;
     }
 
     /**
@@ -137,15 +177,14 @@ abstract class Divisible implements IdentifiableInterface
     }
 
     /**
-     * @param $input
-     * @param string|null $language
+     * @param string $language
      * @return string
      */
-    public function translate($input, $language = null)
+    public function translate($language = null)
     {
-        $translator = $this->config->getTranslator();
+        if ($language) $this->config->setLanguage($language);
 
-        $translation = $translator->translate($this->config, $this);
-        return $translation ?: $input;
+        return $this->config->getTranslator()
+            ->translate($this, $this->config->getLanguage());
     }
 }

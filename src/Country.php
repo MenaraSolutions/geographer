@@ -17,16 +17,6 @@ class Country extends Divisible
     protected $memberClass = State::class;
 
     /**
-     * Country constructor.
-     * @param \stdClass $meta
-     * @param ConfigInterface $config
-     */
-    public function __construct(\stdClass $meta, ConfigInterface $config)
-    {
-        parent::__construct($meta, $config);
-    }
-
-    /**
      * Get alpha2 ISO code
      *
      * @return string
@@ -44,22 +34,6 @@ class Country extends Divisible
     public function getCode3()
     {
         return $this->meta->iso_3611[1];
-    }
-
-    /**
-     * @return string
-     */
-    public function getShortName()
-    {
-        return $this->translate($this->meta->names->short) ?: $this->translate($this->meta->names->long);
-    }
-
-    /**
-     * @return string
-     */
-    public function getLongName()
-    {
-        return $this->translate($this->meta->names->long) ?: $this->translate($this->meta->names->short);
     }
     
     /**

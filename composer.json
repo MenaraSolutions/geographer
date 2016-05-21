@@ -23,5 +23,11 @@
         "psr-4": {
             "MenaraSolutions\\FluentGeonames\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MenaraSolutions\\FluentGeonames\\": "src/",
+            "Tests\\": "tests/FluentGeonames/"
+        }
     }
 }

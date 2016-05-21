@@ -3,7 +3,7 @@
 namespace MenaraSolutions\FluentGeonames\Services;
 
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
-use MenaraSolutions\FluentGeonames\Contracts\TranslationRepositoryInterface;
+use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
 
 /**
  * Class DefaultConfig
@@ -17,7 +17,7 @@ class DefaultConfig implements ConfigInterface
     protected $path;
 
     /**
-     * @var TranslationRepositoryInterface $translator
+     * @var TranslationAgencyInterface $translator
      */
     protected $translator;
 
@@ -39,12 +39,12 @@ class DefaultConfig implements ConfigInterface
     /**
      * DefaultConfig constructor.
      * @param string $path
-     * @param TranslationRepositoryInterface $translator
+     * @param TranslationAgencyInterface $translator
      */
-    public function __construct($path = null, TranslationRepositoryInterface $translator = null)
+    public function __construct($path = null, TranslationAgencyInterface $translator = null)
     {
         $this->path = $path ?: dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
-        $this->translator = $translator ?: new TranslationRepository($this->path);
+        $this->translator = $translator ?: new TranslationAgency($this->path);
     }
 
     /**
@@ -67,7 +67,7 @@ class DefaultConfig implements ConfigInterface
     }
 
     /**
-     * @return TranslationRepositoryInterface
+     * @return TranslationAgencyInterface
      */
     public function getTranslator()
     {
@@ -75,10 +75,10 @@ class DefaultConfig implements ConfigInterface
     }
 
     /**
-     * @param TranslationRepositoryInterface $translator
+     * @param TranslationAgencyInterface $translator
      * @return $this
      */
-    public function setTranslator(TranslationRepositoryInterface $translator)
+    public function setTranslator(TranslationAgencyInterface $translator)
     {
         $this->translator = $translator;
 
@@ -91,7 +91,7 @@ class DefaultConfig implements ConfigInterface
      */
     public function setLanguage($language)
     {
-        $this->language = $language;
+        $this->language = strtolower(substr($language, 0, 2));
 
         return $this;
     }

@@ -1,18 +1,18 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Tests;
+namespace Tests;
 
 trait AnalyzesPerformance
 {
     /**
      * @var float Maximum execution time in seconds
      */
-    protected $performanceTimeGoal = 1;
+    protected $performanceTimeGoal = 0.5;
 
     /**
      * @var int Maximum memory usage in bytes
      */
-    protected $performanceMemoryGoal = 2000000;
+    protected $performanceMemoryGoal = 5000000;
 
     /**
      * @var int

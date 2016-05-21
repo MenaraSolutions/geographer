@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Tests;
+namespace Tests;
 
 use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;

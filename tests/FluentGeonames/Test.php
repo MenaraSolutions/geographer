@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Tests;
+namespace Tests;
 
 abstract class Test extends \PHPUnit_Framework_TestCase
 {
@@ -11,8 +11,8 @@ abstract class Test extends \PHPUnit_Framework_TestCase
      */
     public function setUp()
     {
-        parent::setUp();
         $this->performanceHook();
+        parent::setUp();
     }
 
     /**
@@ -20,7 +20,7 @@ abstract class Test extends \PHPUnit_Framework_TestCase
      */
     public function tearDown()
     {
-        parent::tearDown();
         $this->performanceCheck();
+        parent::tearDown();
     }
 }

@@ -20,15 +20,15 @@ interface ConfigInterface
     public function setStoragePath($path);
     
     /**
-     * @return TranslationRepositoryInterface
+     * @return TranslationAgencyInterface
      */
     public function getTranslator();
 
     /**
-     * @param TranslationRepositoryInterface $translator
+     * @param TranslationAgencyInterface $translator
      * @return ConfigInterface
      */
-    public function setTranslator(TranslationRepositoryInterface $translator);
+    public function setTranslator(TranslationAgencyInterface $translator);
 
     /**
      * @param string $form
