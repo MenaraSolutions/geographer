@@ -101,4 +101,13 @@ abstract class Base
             $this->cache[$this->getPrefix(get_class($subject))][$this->code][$one['code']] = $one;
         }
     }
+
+    /**
+     * @param IdentifiableInterface $subject
+     * @return array
+     */
+    protected function fromCache(IdentifiableInterface $subject)
+    {
+        return $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()];
+    }
 }
