@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames;
+namespace MenaraSolutions\Geographer;
 
 /**
  * Class State

@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Contracts;
+namespace MenaraSolutions\Geographer\Contracts;
 
 /**
  * Interface PoliglottaInterface

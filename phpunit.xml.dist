@@ -11,8 +11,8 @@
          bootstrap="tests/bootstrap.php"
 >
     <testsuites>
-        <testsuite name="Fluent Geonames library Test Suite">
-            <directory suffix=".php">tests/FluentGeonames/</directory>
+        <testsuite name="Geographer library Test Suite">
+            <directory suffix=".php">tests/Geographer/</directory>
         </testsuite>
     </testsuites>
 

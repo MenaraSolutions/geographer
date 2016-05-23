@@ -1,13 +1,13 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Services;
+namespace MenaraSolutions\Geographer\Services;
 
-use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
-use MenaraSolutions\FluentGeonames\Contracts\PoliglottaInterface;
-use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
-use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
-use MenaraSolutions\FluentGeonames\Services\Poliglottas\Russian;
-use MenaraSolutions\FluentGeonames\Services\Poliglottas\English;
+use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
+use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
+use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
+use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
+use MenaraSolutions\Geographer\Services\Poliglottas\Russian;
+use MenaraSolutions\Geographer\Services\Poliglottas\English;
 
 /**
  * Class TranslationAgency

@@ -1,4 +1,4 @@
-# Fluent Geonames
+# Geographer
 [![Build Status](https://travis-ci.org/MenaraSolutions/fluent-geonames.svg)](https://travis-ci.org/MenaraSolutions/fluent-geonames)
 [![Code Climate](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges/gpa.svg)](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges)
 [![Test Coverage](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges/coverage.svg)](https://codeclimate.com/github/MenaraSolutions/fluent-geonames/badges)
@@ -7,7 +7,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/MenaraSolutions/fluent-geonames/v/unstable.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
 [![License](https://poser.pugx.org/MenaraSolutions/fluent-geonames/license.svg)](https://packagist.org/packages/MenaraSolutions/fluent-geonames)
 
-A PHP library that knows how any country, state or city is called in any language.
+Geographer is a PHP library that knows how any country, state or city is called in any language.
 
 Includes integrations with: Laravel 5, Lumen 5
 
@@ -20,7 +20,7 @@ Includes integrations with: Laravel 5, Lumen 5
 To install simply run:
 
 ```
-composer require menarasolutions/fluent-geonames
+composer require menarasolutions/geographer
 ```
 
 Or add it to `composer.json` manually:
@@ -28,7 +28,7 @@ Or add it to `composer.json` manually:
 ```json
 {
     "require": {
-        "menarasolutions/fluent-geonames": "~0.1"
+        "menarasolutions/geographer": "~0.1"
     }
 }
 ```
@@ -36,8 +36,8 @@ Or add it to `composer.json` manually:
 ## Usage
 
 ```php
-use MenaraSolutions\FluentGeonames\Earth;
-use MenaraSolutions\FluentGeonames\Country;
+use MenaraSolutions\Geographer\Earth;
+use MenaraSolutions\Geographer\Country;
 
 // Default entry point is our beautiful planet
 $earth = new Earth();

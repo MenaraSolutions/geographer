@@ -1,12 +1,12 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames;
+namespace MenaraSolutions\Geographer;
 
-use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
-use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
-use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
-use MenaraSolutions\FluentGeonames\Traits\HasConfig;
+use MenaraSolutions\Geographer\Collections\MemberCollection;
+use MenaraSolutions\Geographer\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
+use MenaraSolutions\Geographer\Services\DefaultConfig;
+use MenaraSolutions\Geographer\Traits\HasConfig;
 
 /**
  * Class Divisible

@@ -1,10 +1,10 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Services\Poliglottas;
+namespace MenaraSolutions\Geographer\Services\Poliglottas;
 
-use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
-use MenaraSolutions\FluentGeonames\Contracts\PoliglottaInterface;
-use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
+use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
+use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
+use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 
 /**
  * Class Russian

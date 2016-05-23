@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Exceptions;
+namespace MenaraSolutions\Geographer\Exceptions;
 
 /**
  * Class UnknownFieldException

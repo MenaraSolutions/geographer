@@ -1,9 +1,9 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames;
+namespace MenaraSolutions\Geographer;
 
-use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Collections\MemberCollection;
+use MenaraSolutions\Geographer\Contracts\ConfigInterface;
 
 /**
  * Class Country

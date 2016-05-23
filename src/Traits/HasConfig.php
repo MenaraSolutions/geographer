@@ -1,6 +1,6 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Traits;
+namespace MenaraSolutions\Geographer\Traits;
 
 /**
  * Class HasConfig

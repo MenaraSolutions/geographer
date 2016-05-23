@@ -1,9 +1,9 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Collections;
+namespace MenaraSolutions\Geographer\Collections;
 
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
-use MenaraSolutions\FluentGeonames\Traits\HasConfig;
+use MenaraSolutions\Geographer\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Traits\HasConfig;
 
 /**
  * Class MemberCollection

@@ -1,9 +1,9 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Services;
+namespace MenaraSolutions\Geographer\Services;
 
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
-use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
+use MenaraSolutions\Geographer\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 
 /**
  * Class DefaultConfig

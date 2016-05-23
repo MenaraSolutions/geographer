@@ -1,9 +1,9 @@
 {
-    "name": "menarasolutions/fluent-geonames",
+    "name": "menarasolutions/geographer",
     "type": "library",
     "description": "A PHP library that knows how any country, state or city is called in any language",
     "keywords": ["geolocation","localization","geonames","geo"],
-    "homepage": "https://github.com/MenaraSolutions/fluent-geonames",
+    "homepage": "https://github.com/MenaraSolutions/geographer",
     "license": "MIT",
     "authors": [
         {
@@ -21,13 +21,13 @@
     },
     "autoload": {
         "psr-4": {
-            "MenaraSolutions\\FluentGeonames\\": "src/"
+            "MenaraSolutions\\Geographer\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MenaraSolutions\\FluentGeonames\\": "src/",
-            "Tests\\": "tests/FluentGeonames/"
+            "MenaraSolutions\\Geographer\\": "src/",
+            "Tests\\": "tests/Geographer/"
         }
     }
 }

@@ -1,8 +1,8 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames;
+namespace MenaraSolutions\Geographer;
 
-use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
+use MenaraSolutions\Geographer\Collections\MemberCollection;
 
 class Earth extends Divisible
 {

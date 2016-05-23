@@ -1,13 +1,13 @@
 <?php
 
-namespace MenaraSolutions\FluentGeonames\Services\Poliglottas;
+namespace MenaraSolutions\Geographer\Services\Poliglottas;
 
-use MenaraSolutions\FluentGeonames\Country;
-use MenaraSolutions\FluentGeonames\State;
-use MenaraSolutions\FluentGeonames\Earth;
-use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
-use MenaraSolutions\FluentGeonames\Exceptions\FileNotFoundException;
-use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
+use MenaraSolutions\Geographer\Country;
+use MenaraSolutions\Geographer\State;
+use MenaraSolutions\Geographer\Earth;
+use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
+use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
+use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 
 /**
  * Class Base
