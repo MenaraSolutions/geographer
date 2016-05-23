@@ -84,7 +84,7 @@ Good news is that Laravel will take care of singleton instance for you, so no ma
 ];
 
 // Start playing with it, all the same calls
-Earth::getCountries()->useShortNames()->toArray();
+Geographer::getCountries()->useShortNames()->toArray();
 ```
 
 ## Todo
