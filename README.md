@@ -66,6 +66,27 @@ $capital->getLatitude();
 $capital->getLongitude();
 ```
 
+## Usage in Laravel 5
+
+Good news is that Laravel will take care of singleton instance for you, so no matter how many times you call it – it's the same object.
+
+```php
+// Add in your config/app.php
+
+'providers' => [
+    '...',
+    'MenaraSolutions\Geographer\Integrations\LaravelServiceProvider',
+];
+
+'aliases' => [
+    '...',
+    'Geographer'    => 'MenaraSolutions\Geographer\Integrations\LaravelFacade',
+];
+
+// Start playing with it, all the same calls
+Earth::getCountries()->useShortNames()->toArray();
+```
+
 ## Todo
 
 1. Add memcached support
