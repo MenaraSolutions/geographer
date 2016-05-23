@@ -9,6 +9,8 @@ namespace MenaraSolutions\FluentGeonames\Contracts;
 interface IdentifiableInterface
 {
     /**
+     * Unique code
+     * 
      * @return string|int
      */
     public function getCode();

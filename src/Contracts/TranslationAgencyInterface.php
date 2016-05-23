@@ -19,4 +19,10 @@ interface TranslationAgencyInterface
      * @return array
      */
     public function getSupportedLanguages();
+
+    /**
+     * @param $form
+     * @return TranslationAgencyInterface
+     */
+    public function setForm($form);
 }

@@ -5,9 +5,7 @@ namespace MenaraSolutions\FluentGeonames;
 use MenaraSolutions\FluentGeonames\Collections\MemberCollection;
 use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
-use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\FluentGeonames\Services\DefaultConfig;
-use MenaraSolutions\FluentGeonames\Services\TranslationAgency;
 use MenaraSolutions\FluentGeonames\Traits\HasConfig;
 
 /**
@@ -163,6 +161,17 @@ abstract class Divisible implements IdentifiableInterface
     public function getMeta()
     {
         return $this->meta;
+    }
+
+    /**
+     * @param string $form
+     * @return $this
+     */
+    public function inflict($form)
+    {
+        $this->config->setForm($form);
+
+        return $this;
     }
 
     /**

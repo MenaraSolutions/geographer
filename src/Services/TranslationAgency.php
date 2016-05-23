@@ -5,14 +5,9 @@ namespace MenaraSolutions\FluentGeonames\Services;
 use MenaraSolutions\FluentGeonames\Contracts\IdentifiableInterface;
 use MenaraSolutions\FluentGeonames\Contracts\PoliglottaInterface;
 use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
-use MenaraSolutions\FluentGeonames\Country;
 use MenaraSolutions\FluentGeonames\Exceptions\MisconfigurationException;
 use MenaraSolutions\FluentGeonames\Services\Poliglottas\Russian;
 use MenaraSolutions\FluentGeonames\Services\Poliglottas\English;
-use MenaraSolutions\FluentGeonames\State;
-use MenaraSolutions\FluentGeonames\Earth;
-use MenaraSolutions\FluentGeonames\Exceptions\FileNotFoundException;
-use MenaraSolutions\FluentGeonames\Contracts\ConfigInterface;
 
 /**
  * Class TranslationAgency
@@ -24,6 +19,16 @@ class TranslationAgency implements TranslationAgencyInterface
      * @var string
      */
     protected $base_path;
+
+    /**
+     * @var string
+     */
+    protected $form;
+
+    /**
+     * @var array
+     */
+    protected $inflictsTo = [];
 
     /**
      * List of available translators
@@ -50,6 +55,17 @@ class TranslationAgency implements TranslationAgencyInterface
     }
 
     /**
+     * @param string $form
+     * @return $this
+     */
+    public function setForm($form)
+    {
+        $this->form = $form;
+
+        return $this;
+    }
+
+    /**
      * @param IdentifiableInterface $subject
      * @param string $language
      * @return string
@@ -61,7 +77,7 @@ class TranslationAgency implements TranslationAgencyInterface
             throw new MisconfigurationException('No hablo ' . $language . ', sorry');
         }
         
-        return $this->getTranslator($language)->translateCountry($subject);
+        return $this->getTranslator($language)->translate($subject, $this->form);
     }
 
     /**

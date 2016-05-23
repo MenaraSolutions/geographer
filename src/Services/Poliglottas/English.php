@@ -31,27 +31,10 @@ class English implements PoliglottaInterface
 
     /**
      * @param IdentifiableInterface $subject
+     * @param string $form
      * @return string
      */
-    public function translateCountry(IdentifiableInterface $subject)
-    {
-        return $subject->expectsLongNames() ? $this->getLongName($subject->getMeta()) : $this->getShortName($subject->getMeta());
-    }
-
-    /**
-     * @param IdentifiableInterface $subject
-     * @return string
-     */
-    public function translateState(IdentifiableInterface $subject)
-    {
-        return $subject->expectsLongNames() ? $this->getLongName($subject->getMeta()) : $this->getShortName($subject->getMeta());
-    }
-
-    /**
-     * @param IdentifiableInterface $subject
-     * @return string
-     */
-    public function translateCity(IdentifiableInterface $subject)
+    public function translate(IdentifiableInterface $subject, $form)
     {
         return $subject->expectsLongNames() ? $this->getLongName($subject->getMeta()) : $this->getShortName($subject->getMeta());
     }

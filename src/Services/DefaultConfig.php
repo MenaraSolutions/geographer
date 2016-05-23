@@ -12,11 +12,6 @@ use MenaraSolutions\FluentGeonames\Contracts\TranslationAgencyInterface;
 class DefaultConfig implements ConfigInterface
 {
     /**
-     * @var string $path
-     */
-    protected $path;
-
-    /**
      * @var TranslationAgencyInterface $translator
      */
     protected $translator;
@@ -35,6 +30,11 @@ class DefaultConfig implements ConfigInterface
      * @var bool
      */
     protected $brief = false;
+
+    /**
+     * @var string
+     */
+    protected $path;
 
     /**
      * DefaultConfig constructor.
@@ -102,7 +102,7 @@ class DefaultConfig implements ConfigInterface
      */
     public function setForm($form)
     {
-        $this->form = $form;
+        $this->translator->setForm($form);
 
         return $this;
     }
