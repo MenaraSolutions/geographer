@@ -162,40 +162,19 @@
     {
         "code": "BB",
         "long": {
-            "default": "Barbados",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Барбадос"
         }
     },
     {
         "code": "BY",
         "long": {
-            "default": "Белоруссия",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Белоруссия"
         }
     },
     {
         "code": "BE",
         "long": {
-            "default": "Бельгия",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бельгия"
         }
     },
     {
@@ -318,14 +297,7 @@
     {
         "code": "BR",
         "long": {
-            "default": "Бразилия",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бразилия"
         }
     },
     {
@@ -357,14 +329,7 @@
     {
         "code": "BG",
         "long": {
-            "default": "Bulgaria",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Болгария"
         }
     },
     {
@@ -409,40 +374,19 @@
     {
         "code": "KH",
         "long": {
-            "default": "Cambodia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Камбоджа"
         }
     },
     {
         "code": "CM",
         "long": {
-            "default": "Камерун",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Камерун"
         }
     },
     {
         "code": "CA",
         "long": {
-            "default": "Канада",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Канада"
         }
     },
     {
@@ -487,27 +431,13 @@
     {
         "code": "CL",
         "long": {
-            "default": "Чили",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Чили"
         }
     },
     {
         "code": "CN",
         "long": {
-            "default": "Китай",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Китай"
         }
     },
     {
@@ -539,14 +469,7 @@
     {
         "code": "CO",
         "long": {
-            "default": "Colombia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Колумбия"
         }
     },
     {
@@ -604,14 +527,7 @@
     {
         "code": "CR",
         "long": {
-            "default": "Costa Rica",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Коста Рика"
         }
     },
     {
@@ -630,27 +546,15 @@
     {
         "code": "HR",
         "long": {
-            "default": "Croatia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Хорватия"
         }
     },
     {
         "code": "CU",
         "long": {
-            "default": "Cuba",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Куба",
+            "in": "на Кубе",
+            "from": "с Кубы"
         }
     },
     {
@@ -669,40 +573,21 @@
     {
         "code": "CY",
         "long": {
-            "default": "Cyprus",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кипр",
+            "in": "на Кипре",
+            "from": "с Кипра"
         }
     },
     {
         "code": "CZ",
         "long": {
-            "default": "Czech Republic",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Чехия"
         }
     },
     {
         "code": "DK",
         "long": {
-            "default": "Denmark",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Дания"
         }
     },
     {
@@ -747,14 +632,7 @@
     {
         "code": "EC",
         "long": {
-            "default": "Ecuador",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Эквадор"
         }
     },
     {
