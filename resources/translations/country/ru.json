@@ -10,79 +10,46 @@
     {
         "code": "AX",
         "long": {
-            "default": "Åland Islands",
-            "in": null,
-            "from": null
+            "default": "Аландские острова",
+            "in": "на Аландских островах",
+            "from": "с Аландских островов"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Аланды",
+            "in": "на Аландах",
+            "from": "с Аландов"
         }
     },
     {
         "code": "AL",
         "long": {
-            "default": "Албания",
-            "in": null,
-            "from": null
+            "default": "Албания"
         },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
-        }
     },
     {
         "code": "DZ",
         "long": {
-            "default": "Алжир",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
-        }
+            "default": "Алжир"
+	}
     },
     {
         "code": "AS",
         "long": {
-            "default": "American Samoa",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Американское Самоа",
+            "in": "из Американского Самоа",
+            "from": "в Американском Самоа"
         }
     },
     {
         "code": "AD",
         "long": {
-            "default": "Andorra",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Андорра"
         }
     },
     {
         "code": "AO",
         "long": {
-            "default": "Angola",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ангола"
         }
     },
     {
@@ -101,14 +68,7 @@
     {
         "code": "AQ",
         "long": {
-            "default": "Антарктика",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Антарктика"
         }
     },
     {
@@ -127,92 +87,50 @@
     {
         "code": "AR",
         "long": {
-            "default": "Argentina",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Аргентина"
         }
     },
     {
         "code": "AM",
         "long": {
-            "default": "Armenia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Армения"
         }
     },
     {
         "code": "AW",
         "long": {
-            "default": "Aruba",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Аруба"
         }
     },
     {
         "code": "AU",
         "long": {
-            "default": "Australia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Австралия"
         }
     },
     {
         "code": "AT",
         "long": {
-            "default": "Austria",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Австрия"
         }
     },
     {
         "code": "AZ",
         "long": {
-            "default": "Азербайджан",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Азербайджан"
         }
     },
     {
         "code": "BS",
         "long": {
-            "default": "Bahamas",
-            "in": null,
-            "from": null
+            "default": "Багамские острова",
+            "in": "на Багамских островах",
+            "from": "с Багамских островов"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Багамы",
+            "in": "на Багамах",
+            "from": "с Багам"
         }
     },
     {
