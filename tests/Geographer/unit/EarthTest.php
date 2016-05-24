@@ -44,7 +44,6 @@ class EarthTest extends Test
     {
         $earth = new Earth();
         $country = $earth->find(['code' => 'ru']);
-        //$country = $countries[rand(0, count($countries))];
         $original = $country->getLongName();
         $country->setLanguage('ru');
         $this->assertTrue(!empty($country->getLongName()));

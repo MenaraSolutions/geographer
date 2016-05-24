@@ -4,6 +4,7 @@ namespace Tests;
 
 use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
+use MenaraSolutions\Geographer\Divisible;
 use MenaraSolutions\Geographer\Earth;
 
 class CountryTest extends Test
@@ -33,10 +34,31 @@ class CountryTest extends Test
      */
     public function country_can_ask_for_a_short_name()
     {
-        $planet = new Earth();
-        $russia = $planet->find(['code' => 'RU']);
+        $earth = new Earth();
+        $russia = $earth->find(['code' => 'RU']);
         $longName = $russia->getName();
         $russia->useShortNames();
         $this->assertNotEquals($longName, $russia->getName());
+    }
+
+    /**
+     * @test
+     */
+    public function lower_case_find_also_works()
+    {
+        $earth = new Earth();
+        $russia = $earth->find(['code' => 'ru']);
+        $this->assertInstanceOf(Country::class, $russia);
+    }
+
+    /**
+     * @test
+     */
+    public function country_can_ask_for_inflicted_russian_name()
+    {
+        $russia = (new Earth())->find(['code' => 'AF'])->setLanguage('ru');
+        $defaultName = $russia->getName();
+        $russia->inflict('from')->useShortNames();
+        $this->assertNotEquals($defaultName, $russia->getName());
     }
 }

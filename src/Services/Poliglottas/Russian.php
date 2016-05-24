@@ -20,7 +20,7 @@ class Russian extends Base implements PoliglottaInterface
     /**
      * @var array
      */
-    protected $inflictsTo = ['from', 'in'];
+    protected $inflictsTo = ['from', 'in', 'default'];
 
     /**
      * @param IdentifiableInterface $subject
@@ -28,7 +28,7 @@ class Russian extends Base implements PoliglottaInterface
      * @return string
      * @throws MisconfigurationException
      */
-    public function translate(IdentifiableInterface $subject, $form = '')
+    public function translate(IdentifiableInterface $subject, $form = 'default')
     {
         if (! empty($form) && ! in_array($form, $this->inflictsTo)) {
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
@@ -40,6 +40,10 @@ class Russian extends Base implements PoliglottaInterface
         $backupField = ! $subject->expectsLongNames() ? 'long' : 'short';
         $meta = $this->fromCache($subject);
 
-        return $meta[$field]['default'] ?: $meta[$backupField]['default'];
+        return isset($meta[$field][$form]) ? $meta[$field][$form] : (
+            isset($meta[$backupField][$form]) ? : $meta[$backupField][$form] (
+                isset($meta[$field]['default']) ? $meta[$field]['default'] : $meta[$backupField]['default']
+            )
+        );
     }
 }

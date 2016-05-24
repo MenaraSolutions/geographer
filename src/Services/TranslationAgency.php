@@ -23,7 +23,7 @@ class TranslationAgency implements TranslationAgencyInterface
     /**
      * @var string
      */
-    protected $form;
+    protected $form = 'default';
 
     /**
      * @var array

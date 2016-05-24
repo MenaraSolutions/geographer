@@ -165,7 +165,7 @@ abstract class Divisible implements IdentifiableInterface
 
     /**
      * @param string $form
-     * @return $this
+     * @return Divisible
      */
     public function inflict($form)
     {
