@@ -56,7 +56,7 @@ class CountryTest extends Test
      */
     public function country_can_ask_for_inflicted_russian_name()
     {
-        $russia = (new Earth())->find(['code' => 'AF'])->setLanguage('ru');
+        $russia = (new Earth())->find(['code' => 'br'])->setLanguage('ru');
         $defaultName = $russia->getName();
         $russia->inflict('from')->useShortNames();
         $this->assertNotEquals($defaultName, $russia->getName());

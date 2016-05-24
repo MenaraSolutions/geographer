@@ -16,12 +16,7 @@ class Russian extends Base implements PoliglottaInterface
      * @var string
      */
     protected $code = 'ru';
-
-    /**
-     * @var array
-     */
-    protected $inflictsTo = ['from', 'in', 'default'];
-
+    
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
@@ -30,20 +25,74 @@ class Russian extends Base implements PoliglottaInterface
      */
     public function translate(IdentifiableInterface $subject, $form = 'default')
     {
-        if (! empty($form) && ! in_array($form, $this->inflictsTo)) {
+        if (! empty($form) && ! method_exists($this, 'inflict' . ucfirst($form))) {
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
         }
 
         $this->loadDictionaries($subject);
-
-        $field = $subject->expectsLongNames() ? 'long' : 'short';
-        $backupField = ! $subject->expectsLongNames() ? 'long' : 'short';
         $meta = $this->fromCache($subject);
+        
+        return $this->{'inflict' . ucfirst($form)}($meta, $subject->expectsLongNames());
+    }
 
-        return isset($meta[$field][$form]) ? $meta[$field][$form] : (
-            isset($meta[$backupField][$form]) ? : $meta[$backupField][$form] (
-                isset($meta[$field]['default']) ? $meta[$field]['default'] : $meta[$backupField]['default']
-            )
-        );
+    /**
+     * @param array $meta
+     * @param $long
+     * @return string
+     */
+    protected function inflictDefault(array $meta, $long)
+    {
+        return $this->extract($meta, $long, 'default');
+    }
+
+    /**
+     * @param array $meta
+     * @param $long
+     * @return string
+     */
+    protected function inflictIn(array $meta, $long)
+    {
+        $form = $this->extract($meta, $long, 'in');
+
+        if (! $form) {
+            $form = $this->inflictDefault($meta, $long);
+            $form = mb_substr($form, 0, mb_strlen($form) - 1);
+            $form .= 'е';
+        }
+
+        return $form;
+    }
+
+    /**
+     * @param array $meta
+     * @param $long
+     * @return string
+     */
+    protected function inflictFrom(array $meta, $long)
+    {
+        $form = $this->extract($meta, $long, 'from');
+
+        if (! $form) {
+            $form = $this->inflictDefault($meta, $long);
+            $form = mb_substr($form, 0, mb_strlen($form) - 1);
+            $form .= 'а';
+        }
+
+        return $form;
+    }
+
+    /**
+     * @param array $meta
+     * @param $long
+     * @param $form
+     * @return mixed
+     */
+    private function extract(array $meta, $long, $form)
+    {
+        $field = $long ? 'long' : 'short';
+        $backupField = ! $long ? 'long' : 'short';
+
+        return isset($meta[$field][$form]) ? $meta[$field][$form] :
+            (isset($meta[$backupField][$form]) ? $meta[$backupField][$form] : false );
     }
 }

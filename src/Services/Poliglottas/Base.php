@@ -24,12 +24,7 @@ abstract class Base
      * @var string
      */
     protected $code;
-
-    /**
-     * @var array
-     */
-    protected $inflictsTo = [];
-
+    
     /**
      * @var array
      */
