@@ -206,14 +206,14 @@
     {
         "code": "BM",
         "long": {
-            "default": "Bermuda",
-            "in": null,
-            "from": null
+            "default": "Бермудские острова",
+            "in": "на Бермудских островах",
+            "from": "с Бермудских островов"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бермуды",
+            "in": "на Бермудах",
+            "from": "с Бермуд"
         }
     },
     {
@@ -258,14 +258,9 @@
     {
         "code": "BA",
         "long": {
-            "default": "Bosnia and Herzegovina",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Босния и Герцеговина",
+            "in": "в Боснии и Герцеговине",
+            "from": "из Боснии и Герцеговины"
         }
     },
     {
@@ -638,14 +633,7 @@
     {
         "code": "EG",
         "long": {
-            "default": "Egypt",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Египет"
         }
     },
     {
@@ -690,14 +678,7 @@
     {
         "code": "EE",
         "long": {
-            "default": "Estonia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Эстония"
         }
     },
     {
@@ -742,40 +723,21 @@
     {
         "code": "FJ",
         "long": {
-            "default": "Fiji",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Фиджи",
+            "in": "на Фиджи",
+            "from": "с Фиджи"
         }
     },
     {
         "code": "FI",
         "long": {
-            "default": "Finland",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Финляндия"
         }
     },
     {
         "code": "FR",
         "long": {
-            "default": "France",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Франция"
         }
     },
     {
@@ -846,27 +808,13 @@
     {
         "code": "GE",
         "long": {
-            "default": "Georgia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Грузия"
         }
     },
     {
         "code": "DE",
         "long": {
-            "default": "Germany",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Германия"
         }
     },
     {
