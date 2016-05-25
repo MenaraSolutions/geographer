@@ -2809,48 +2809,39 @@
     {
         "code": "UA",
         "long": {
-            "default": "Ukraine",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Украина",
+            "in": "в Украине",
+            "from": "из Украины"
         }
     },
     {
         "code": "AE",
         "long": {
-            "default": "United Arab Emirates",
-            "in": null,
-            "from": null
+            "default": "Объединенные Арабские Эмираты",
+            "in": "в Объединенных Арабских Эмиратах",
+            "from": "из Объединенных Арабских Эмиратов"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "ОАЭ"
         }
     },
     {
         "code": "GB",
         "long": {
-            "default": "United Kingdom of Great Britain and Northern Ireland",
-            "in": null,
-            "from": null
+            "default": "Соединенное Королевство",
+            "in": "в Соединенном Королевстве",
+            "from": "из Соединенного Королевства"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Великобритания"
         }
     },
     {
         "code": "US",
         "long": {
             "default": "Соединённые Штаты Америки",
-            "in": "Соединённых Штатах Америки",
-            "from": "Соединённых Штатов Америки"
+            "in": "из Соединённых Штатах Америки",
+            "from": "в Соединённых Штатов Америки"
         },
         "short": {
             "default": "США",
@@ -2861,170 +2852,81 @@
     {
         "code": "UM",
         "long": {
-            "default": "United States Minor Outlying Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Внешние малые острова США"
         }
     },
     {
         "code": "UY",
         "long": {
-            "default": "Uruguay",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Уругвай"
         }
     },
     {
         "code": "UZ",
         "long": {
-            "default": "Узбекистан",
-            "in": "Узбекистане",
-            "from": "Узбекистана"
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Узбекистан"
         }
     },
     {
         "code": "VU",
         "long": {
-            "default": "Vanuatu",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Вануату"
         }
     },
     {
         "code": "VE",
         "long": {
-            "default": "Bolivarian Republic of Venezuela",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Венесуэла"
         }
     },
     {
         "code": "VN",
         "long": {
-            "default": "Вьетнам",
-            "in": "Вьетнаме",
-            "from": "Вьетнама"
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Вьетнам"
         }
     },
     {
         "code": "VG",
         "long": {
-            "default": "British Virgin Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Британские Виргинские острова"
         }
     },
     {
         "code": "VI",
         "long": {
-            "default": "U.S. Virgin Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Виргинские острова США"
         }
     },
     {
         "code": "WF",
         "long": {
-            "default": "Wallis and Futuna",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Уоллис и Футуна"
         }
     },
     {
         "code": "EH",
         "long": {
-            "default": "Western Sahara",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Западная Сахара",
+            "in": "в Западной Сахаре",
+            "from": "из Западной Сахары"
         }
     },
     {
         "code": "YE",
         "long": {
-            "default": "Yemen",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Йемен"
         }
     },
     {
         "code": "ZM",
         "long": {
-            "default": "Zambia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Замбия"
         }
     },
     {
         "code": "ZW",
         "long": {
-            "default": "Zimbabwe",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Зимбабве"
         }
     }
 ]
