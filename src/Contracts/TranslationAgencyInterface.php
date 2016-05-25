@@ -25,4 +25,14 @@ interface TranslationAgencyInterface
      * @return TranslationAgencyInterface
      */
     public function setForm($form);
+
+    /**
+     * @return TranslationAgencyInterface
+     */
+    public function includePrepositions();
+
+    /**
+     * @return TranslationAgencyInterface
+     */
+    public function excludePrepositions();
 }

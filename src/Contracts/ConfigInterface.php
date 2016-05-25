@@ -57,6 +57,16 @@ interface ConfigInterface
     public function useLongNames();
 
     /**
+     * @return ConfigInterface
+     */
+    public function includePrepositions();
+
+    /**
+     * @return ConfigInterface
+     */
+    public function excludePrepositions();
+
+    /**
      * @return bool
      */
     public function expectsLongNames();

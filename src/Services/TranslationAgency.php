@@ -31,6 +31,11 @@ class TranslationAgency implements TranslationAgencyInterface
     protected $inflictsTo = [];
 
     /**
+     * @var bool
+     */
+    protected $prepositions = true;
+
+    /**
      * List of available translators
      *
      * @var array
@@ -66,6 +71,26 @@ class TranslationAgency implements TranslationAgencyInterface
     }
 
     /**
+     * @return $this
+     */
+    public function includePrepositions()
+    {
+        $this->prepositions = true;
+
+        return $this;
+    }
+
+    /**
+     * @return $this
+     */
+    public function excludePrepositions()
+    {
+        $this->prepositions = false;
+
+        return $this;
+    }
+
+    /**
      * @param IdentifiableInterface $subject
      * @param string $language
      * @return string
@@ -77,7 +102,7 @@ class TranslationAgency implements TranslationAgencyInterface
             throw new MisconfigurationException('No hablo ' . $language . ', sorry');
         }
         
-        return $this->getTranslator($language)->translate($subject, $this->form);
+        return $this->getTranslator($language)->translate($subject, $this->form, $this->prepositions);
     }
 
     /**

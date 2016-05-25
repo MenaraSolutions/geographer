@@ -162,18 +162,7 @@ abstract class Divisible implements IdentifiableInterface
     {
         return $this->meta;
     }
-
-    /**
-     * @param string $form
-     * @return Divisible
-     */
-    public function inflict($form)
-    {
-        $this->config->setForm($form);
-
-        return $this;
-    }
-
+    
     /**
      * @return array
      */

@@ -20,10 +20,11 @@ class Russian extends Base implements PoliglottaInterface
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
+     * @param bool $prepositions
      * @return string
      * @throws MisconfigurationException
      */
-    public function translate(IdentifiableInterface $subject, $form = 'default')
+    public function translate(IdentifiableInterface $subject, $form = 'default', $prepositions = true)
     {
         if (! empty($form) && ! method_exists($this, 'inflict' . ucfirst($form))) {
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
@@ -31,8 +32,14 @@ class Russian extends Base implements PoliglottaInterface
 
         $this->loadDictionaries($subject);
         $meta = $this->fromCache($subject);
-        
-        return $this->{'inflict' . ucfirst($form)}($meta, $subject->expectsLongNames());
+
+        $result = $this->{'inflict' . ucfirst($form)}($meta, $subject->expectsLongNames());
+
+        if ($form != 'default' && ! $prepositions) {
+            $result = mb_substr($result, mb_strpos($result, ' ') + 1);
+        }
+
+        return $result;
     }
 
     /**
@@ -55,7 +62,7 @@ class Russian extends Base implements PoliglottaInterface
         $form = $this->extract($meta, $long, 'in');
 
         if (! $form) {
-            $form = $this->inflictDefault($meta, $long);
+            $form = 'в ' . $this->inflictDefault($meta, $long);
             $form = mb_substr($form, 0, mb_strlen($form) - 1);
             $form .= 'е';
         }
@@ -73,7 +80,7 @@ class Russian extends Base implements PoliglottaInterface
         $form = $this->extract($meta, $long, 'from');
 
         if (! $form) {
-            $form = $this->inflictDefault($meta, $long);
+            $form = 'из ' . $this->inflictDefault($meta, $long);
             $form = mb_substr($form, 0, mb_strlen($form) - 1);
             $form .= 'а';
         }

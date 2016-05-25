@@ -32,6 +32,11 @@ class DefaultConfig implements ConfigInterface
     protected $brief = false;
 
     /**
+     * @var bool
+     */
+    protected $prepositions = true;
+
+    /**
      * @var string
      */
     protected $path;
@@ -71,6 +76,12 @@ class DefaultConfig implements ConfigInterface
      */
     public function getTranslator()
     {
+        if ($this->prepositions) {
+            $this->translator->includePrepositions();
+        } else {
+            $this->translator->excludePrepositions();
+        }
+
         return $this->translator;
     }
 
@@ -131,6 +142,26 @@ class DefaultConfig implements ConfigInterface
     public function useShortNames()
     {
         $this->brief = true;
+
+        return $this;
+    }
+
+    /**
+     * @return $this
+     */
+    public function includePrepositions()
+    {
+        $this->prepositions = true;
+
+        return $this;
+    }
+
+    /**
+     * @return $this
+     */
+    public function excludePrepositions()
+    {
+        $this->prepositions = false;
 
         return $this;
     }

@@ -49,4 +49,24 @@ trait HasConfig
 
         return $this;
     }
+
+    /**
+     * @return $this
+     */
+    public function excludePrepositions()
+    {
+        $this->config->excludePrepositions();
+
+        return $this;
+    }
+
+    /**
+     * @return $this
+     */
+    public function includePrepositions()
+    {
+        $this->config->includePrepositions();
+
+        return $this;
+    }
 }

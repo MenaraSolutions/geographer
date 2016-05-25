@@ -54,11 +54,12 @@ class CountryTest extends Test
     /**
      * @test
      */
-    public function country_can_ask_for_inflicted_russian_name()
+    public function country_can_ask_for_inflicted_russian_name_with_and_without_prep()
     {
         $russia = (new Earth())->find(['code' => 'br'])->setLanguage('ru');
         $defaultName = $russia->getName();
-        $russia->inflict('from')->useShortNames();
+        $russia->inflict('from')->useShortNames()->includePrepositions();
         $this->assertNotEquals($defaultName, $russia->getName());
+        $this->assertNotEquals($russia->getName(), $russia->excludePrepositions()->getName());
     }
 }
