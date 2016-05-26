@@ -55,14 +55,7 @@
     {
         "code": "AI",
         "long": {
-            "default": "Anguilla",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ангилья"
         }
     },
     {
@@ -74,14 +67,9 @@
     {
         "code": "AG",
         "long": {
-            "default": "Antigua and Barbuda",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Антигуа и Барбуда",
+            "in": "на Антигуа и Барбуде",
+            "from": "с Антигуа и Барбуды"
         }
     },
     {
@@ -136,14 +124,7 @@
     {
         "code": "BH",
         "long": {
-            "default": "Bahrain",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бахрейн"
         }
     },
     {
@@ -180,27 +161,13 @@
     {
         "code": "BZ",
         "long": {
-            "default": "Belize",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Белиз"
         }
     },
     {
         "code": "BJ",
         "long": {
-            "default": "Benin",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бенин"
         }
     },
     {
@@ -219,40 +186,21 @@
     {
         "code": "BT",
         "long": {
-            "default": "Bhutan",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бутан"
         }
     },
     {
         "code": "BO",
         "long": {
-            "default": "Plurinational State of Bolivia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Боливия"
         }
     },
     {
         "code": "BQ",
         "long": {
-            "default": "Bonaire, Sint Eustatius and Saba",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бонэйр, Синт-Эстатиус и Саба",
+            "in": "в Бонэйре, Синт-Эстатиусе и Саба",
+            "from": "из Бонэйра, Синт-Эстатиуса и Саба"
         }
     },
     {
@@ -266,27 +214,15 @@
     {
         "code": "BW",
         "long": {
-            "default": "Botswana",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ботсвана"
         }
     },
     {
         "code": "BV",
         "long": {
-            "default": "Bouvet Island",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Остров Буве",
+            "in": "на Острове Буве",
+            "from": "с Острова Буве"
         }
     },
     {
@@ -298,27 +234,15 @@
     {
         "code": "IO",
         "long": {
-            "default": "British Indian Ocean Territory",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Британская Территория в Индийском Океане",
+            "in": "на Британской Территории в Индийском Океане",
+            "from": "из Британской Территории в Индийском Океане"
         }
     },
     {
         "code": "BN",
         "long": {
-            "default": "Brunei Darussalam",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бруней"
         }
     },
     {
@@ -330,40 +254,19 @@
     {
         "code": "BF",
         "long": {
-            "default": "Burkina Faso",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Буркина-Фасо"
         }
     },
     {
         "code": "BI",
         "long": {
-            "default": "Burundi",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Бурунди"
         }
     },
     {
         "code": "CV",
         "long": {
-            "default": "Cabo Verde",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кабо-Верде"
         }
     },
     {
@@ -387,40 +290,23 @@
     {
         "code": "KY",
         "long": {
-            "default": "Cayman Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Острова Кайман",
+            "in": "на Островах Кайман",
+            "from": "с Островов Кайман"
         }
     },
     {
         "code": "CF",
         "long": {
-            "default": "Central African Republic",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Центральноафриканская Республика",
+            "in": "в Центральноафриканской Республике",
+            "from": "из Центральноафриканской Республики"
         }
     },
     {
         "code": "TD",
         "long": {
-            "default": "Chad",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Чад"
         }
     },
     {
@@ -438,27 +324,17 @@
     {
         "code": "CX",
         "long": {
-            "default": "Christmas Island",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Остров Рождества",
+            "in": "на Острове Рождества",
+            "from": "с Острова Рождества"
         }
     },
     {
         "code": "CC",
         "long": {
-            "default": "Cocos (Keeling) Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кокосовые острова",
+            "in": "на Кокосовых островах",
+            "from": "с Кокосовых островов"
         }
     },
     {
@@ -470,53 +346,34 @@
     {
         "code": "KM",
         "long": {
-            "default": "Comoros",
-            "in": null,
-            "from": null
+            "default": "Коморские Острова",
+            "in": "на Коморских Островах",
+            "from": "с Коморских Островов"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Коморы",
+            "in": "на Коромах",
+            "from": "с Коморов"
         }
     },
     {
         "code": "CG",
         "long": {
-            "default": "Congo Republic",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Республика Конго"
         }
     },
     {
         "code": "CD",
         "long": {
-            "default": "Democratic Republic of the Congo",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": "Congo",
-            "in": null,
-            "from": null
+            "default": "Конго"
         }
     },
     {
         "code": "CK",
         "long": {
-            "default": "Cook Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Острова Кука",
+            "in": "на Островах Кука",
+            "from": "с Островов Кука"
         }
     },
     {
@@ -528,14 +385,7 @@
     {
         "code": "CI",
         "long": {
-            "default": "Côte d'Ivoire",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кот-д’Ивуар"
         }
     },
     {
@@ -555,14 +405,7 @@
     {
         "code": "CW",
         "long": {
-            "default": "Curaçao",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кюрасао"
         }
     },
     {
@@ -588,40 +431,21 @@
     {
         "code": "DJ",
         "long": {
-            "default": "Djibouti",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Джибути"
         }
     },
     {
         "code": "DM",
         "long": {
-            "default": "Dominica",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Доминика"
         }
     },
     {
         "code": "DO",
         "long": {
-            "default": "Dominican Republic",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Доминиканская Республика",
+            "in": "в Доминиканской Республике",
+            "from": "из Доминиканской Республики"
         }
     },
     {
@@ -639,40 +463,21 @@
     {
         "code": "SV",
         "long": {
-            "default": "El Salvador",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Сальвадор"
         }
     },
     {
         "code": "GQ",
         "long": {
-            "default": "Equatorial Guinea",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Экваториальная Гвинея",
+            "in": "в Экваториальной Гвинее",
+            "from": "из Экваториальной Гвинеи"
         }
     },
     {
         "code": "ER",
         "long": {
-            "default": "Eritrea",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Эритрея"
         }
     },
     {
@@ -684,40 +489,28 @@
     {
         "code": "ET",
         "long": {
-            "default": "Ethiopia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Эфиопия"
         }
     },
     {
         "code": "FK",
         "long": {
-            "default": "Falkland Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": "Malvinas",
-            "in": null,
-            "from": null
+            "default": "Фолклендские острова",
+            "in": "на Фолклендских островах",
+            "from": "с Фолклендских островов"
         }
     },
     {
         "code": "FO",
         "long": {
-            "default": "Faroe Islands",
-            "in": null,
-            "from": null
+            "default": "Фарерские острова",
+            "in": "на Фарерских островах",
+            "from": "с Фарерских островов"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Фареры",
+            "in": "на Фарерах",
+            "from": "с Фареров"
         }
     },
     {
@@ -743,66 +536,40 @@
     {
         "code": "GF",
         "long": {
-            "default": "French Guiana",
-            "in": null,
-            "from": null
+            "default": "Французская Гвиана",
+            "in": "во Французской Гвиане",
+            "from": "из Французской Гвианы"
         },
         "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гвиана"
         }
     },
     {
         "code": "PF",
         "long": {
-            "default": "French Polynesia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Французская Полинезия",
+            "in": "во Французской Полинезии",
+            "from": "из Французской Полинезии"
         }
     },
     {
         "code": "TF",
         "long": {
-            "default": "French Southern Territories",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Французские Южные территории",
+            "in": "во Французских Южных территориях",
+            "from": "из Французских Южных территорий"
         }
     },
     {
         "code": "GA",
         "long": {
-            "default": "Gabon",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Габон"
         }
     },
     {
         "code": "GM",
         "long": {
-            "default": "Gambia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гамбия"
         }
     },
     {
@@ -820,872 +587,419 @@
     {
         "code": "GH",
         "long": {
-            "default": "Ghana",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гана"
         }
     },
     {
         "code": "GI",
         "long": {
-            "default": "Gibraltar",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гибралтар"
         }
     },
     {
         "code": "GR",
         "long": {
-            "default": "Greece",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Греция"
         }
     },
     {
         "code": "GL",
         "long": {
-            "default": "Greenland",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гринляндия"
         }
     },
     {
         "code": "GD",
         "long": {
-            "default": "Grenada",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гренада"
         }
     },
     {
         "code": "GP",
         "long": {
-            "default": "Guadeloupe",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гваделупа"
         }
     },
     {
         "code": "GU",
         "long": {
-            "default": "Guam",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гуам"
         }
     },
     {
         "code": "GT",
         "long": {
-            "default": "Guatemala",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гватемала"
         }
     },
     {
         "code": "GG",
         "long": {
-            "default": "Guernsey",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гернси"
         }
     },
     {
         "code": "GN",
         "long": {
-            "default": "Guinea",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гвинея"
         }
     },
     {
         "code": "GW",
         "long": {
-            "default": "Guinea-Bissau",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гвинея-Бисау"
         }
     },
     {
         "code": "GY",
         "long": {
-            "default": "Guyana",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гайана"
         }
     },
     {
         "code": "HT",
         "long": {
-            "default": "Haiti",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гаити"
         }
     },
     {
         "code": "HM",
         "long": {
-            "default": "Heard Island and McDonald Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Остров Херд и острова Макдональд",
+            "in": "на Острове Херд и островах Макдональд",
+            "from": "с Острова Херд и островов Макдональд"
         }
     },
     {
         "code": "VA",
         "long": {
-            "default": "Holy See",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ватикан"
         }
     },
     {
         "code": "HN",
         "long": {
-            "default": "Honduras",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гондурас"
         }
     },
     {
         "code": "HK",
         "long": {
-            "default": "Hong Kong",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Гонконг"
         }
     },
     {
         "code": "HU",
         "long": {
-            "default": "Hungary",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Венгрия"
         }
     },
     {
         "code": "IS",
         "long": {
-            "default": "Iceland",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Исландия"
         }
     },
     {
         "code": "IN",
         "long": {
-            "default": "India",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Индия"
         }
     },
     {
         "code": "ID",
         "long": {
-            "default": "Indonesia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Индонезия"
         }
     },
     {
         "code": "IR",
         "long": {
-            "default": "Islamic Republic of Iran",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Иран"
         }
     },
     {
         "code": "IQ",
         "long": {
-            "default": "Iraq",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ирак"
         }
     },
     {
         "code": "IE",
         "long": {
-            "default": "Ireland",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ирландия"
         }
     },
     {
         "code": "IM",
         "long": {
-            "default": "Isle of Man",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Остров Мэн",
+            "in": "на Острове Мэн",
+            "from": "с Острова Мэн"
         }
     },
     {
         "code": "IL",
         "long": {
-            "default": "Israel",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Израиль",
+            "in": "в Израиле",
+            "from": "из Израиля"
         }
     },
     {
         "code": "IT",
         "long": {
-            "default": "Italy",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Италия"
         }
     },
     {
         "code": "JM",
         "long": {
-            "default": "Jamaica",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ямайка"
         }
     },
     {
         "code": "JP",
         "long": {
-            "default": "Japan",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Япония"
         }
     },
     {
         "code": "JE",
         "long": {
-            "default": "Jersey",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Джерси"
         }
     },
     {
         "code": "JO",
         "long": {
-            "default": "Jordan",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Иордания"
         }
     },
     {
         "code": "KZ",
         "long": {
-            "default": "Kazakhstan",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Казахстан"
         }
     },
     {
         "code": "KE",
         "long": {
-            "default": "Kenya",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кения"
         }
     },
     {
         "code": "KI",
         "long": {
-            "default": "Kiribati",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кирибати"
         }
     },
     {
         "code": "KP",
         "long": {
-            "default": "Democratic People's Republic of Korea",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Северная Корея",
+            "in": "в Северной Корее",
+            "from": "из Северной Кореи"
         }
     },
     {
         "code": "KR",
         "long": {
-            "default": "Republic of Korea",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Южная Корея",
+            "in": "в Южной Корее",
+            "from": "из Южной Кореи"
         }
     },
     {
         "code": "KW",
         "long": {
-            "default": "Kuwait",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кювейт"
         }
     },
     {
         "code": "KG",
         "long": {
-            "default": "Kyrgyzstan",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Кыргызстан",
         }
     },
     {
         "code": "LA",
         "long": {
-            "default": "Lao People's Democratic Republic",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Лаос"
         }
     },
     {
         "code": "LV",
         "long": {
-            "default": "Latvia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Латвия"
         }
     },
     {
         "code": "LB",
         "long": {
-            "default": "Lebanon",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ливан"
         }
     },
     {
         "code": "LS",
         "long": {
-            "default": "Lesotho",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Лесото"
         }
     },
     {
         "code": "LR",
         "long": {
-            "default": "Liberia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Либерия"
         }
     },
     {
         "code": "LY",
         "long": {
-            "default": "Libya",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ливия"
         }
     },
     {
         "code": "LI",
         "long": {
-            "default": "Liechtenstein",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Лихтенштейн"
         }
     },
     {
         "code": "LT",
         "long": {
-            "default": "Lithuania",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Литва"
         }
     },
     {
         "code": "LU",
         "long": {
-            "default": "Luxembourg",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Люксембург"
         }
     },
     {
         "code": "MO",
         "long": {
-            "default": "Macao",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Макао"
         }
     },
     {
         "code": "MK",
         "long": {
-            "default": "Macedonia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Македония"
         }
     },
     {
         "code": "MG",
         "long": {
-            "default": "Madagascar",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мадагаскар"
         }
     },
     {
         "code": "MW",
         "long": {
-            "default": "Malawi",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Малави"
         }
     },
     {
         "code": "MY",
         "long": {
-            "default": "Malaysia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Малайзия"
         }
     },
     {
         "code": "MV",
         "long": {
-            "default": "Maldives",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мальдивы",
+            "in": "на Мальдивах",
+            "from": "с Мальдив"
         }
     },
     {
         "code": "ML",
         "long": {
-            "default": "Mali",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мали"
         }
     },
     {
         "code": "MT",
         "long": {
-            "default": "Malta",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мальта",
+            "in": "на Мальте",
+            "from": "с Мальты"
         }
     },
     {
         "code": "MH",
         "long": {
-            "default": "Marshall Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Маршалловы Острова",
+            "in": "на Маршалловых Островах",
+            "from": "с Маршалловых Островов"
         }
     },
     {
         "code": "MQ",
         "long": {
-            "default": "Martinique",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мартиника"
         }
     },
     {
         "code": "MR",
         "long": {
-            "default": "Mauritania",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мавритания"
         }
     },
     {
         "code": "MU",
         "long": {
-            "default": "Mauritius",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Маврикий"
         }
     },
     {
         "code": "YT",
         "long": {
-            "default": "Mayotte",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Майотта"
         }
     },
     {
         "code": "MX",
         "long": {
-            "default": "Mexico",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мексика"
         }
     },
     {
         "code": "FM",
         "long": {
-            "default": "Federated States of Micronesia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Микронезия"
         }
     },
     {
         "code": "MD",
         "long": {
-            "default": "Republic of Moldova",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Молдавия"
         }
     },
     {
         "code": "MC",
         "long": {
-            "default": "Monaco",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Монако"
         }
     },
     {
         "code": "MN",
         "long": {
-            "default": "Mongolia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Монголия"
         }
     },
     {
         "code": "ME",
         "long": {
-            "default": "Montenegro",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Черногория"
         }
     },
     {
         "code": "MS",
         "long": {
-            "default": "Montserrat",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Монсеррат"
         }
     },
     {

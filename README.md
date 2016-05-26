@@ -93,6 +93,10 @@ Geographer::getCountries()->useShortNames()->toArray();
 |-----------|--------------|------------|--------------|
 | English   | ✓            | ✓         | ✓            |
 | Russian   | ✓            | WIP       | WIP           |
+| Spanish   | WIP          | WIP        | WIP          |            
+| Italian   | WIP          | WIP        | WIP          |
+| French    | WIP          | WIP        | WIP          |
+| Bahasa Indonesia | WIP   | WIP        | WIP          |
 
 ## Todo
 
@@ -101,8 +105,8 @@ Geographer::getCountries()->useShortNames()->toArray();
 
 ## Projects using Geographer
 
-* [Boogie Call](https://www.boogiecall.com)
-* [Rapport](https://www.rapport.fm)
+* [Boogie Call – Music event finder](https://www.boogiecall.com)
+* [Rapport – Real-time random photo and video streams](https://www.rapport.fm)
 
 Tell us about yours!
 
