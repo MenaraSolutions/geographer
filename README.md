@@ -87,11 +87,24 @@ Good news is that Laravel will take care of singleton instance for you, so no ma
 Geographer::getCountries()->useShortNames()->toArray();
 ```
 
+## Current coverage
+
+| Language  |  Countries   |   States   |    Cities    |
+|-----------|--------------|------------|--------------|
+| English   | ✓            | ✓         | ✓            |
+| Russian   | ✓            | WIP       | WIP           |
+
 ## Todo
 
 1. Add memcached support
-2. Add Laravel and Lumen integrations (service providers)
-3. Add Russian and Spanish versions for all countries, states and major cities
+2. Add Russian and Spanish versions for all countries, states and major cities
+
+## Projects using Geographer
+
+* [Boogie Call](https://www.boogiecall.com)
+* [Rapport](https://www.rapport.fm)
+
+Tell us about yours!
 
 ## License
 
