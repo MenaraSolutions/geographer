@@ -1691,196 +1691,103 @@
     {
         "code": "MA",
         "long": {
-            "default": "Morocco",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Марокко"
         }
     },
     {
         "code": "MZ",
         "long": {
-            "default": "Mozambique",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мозамбик"
         }
     },
     {
         "code": "MM",
         "long": {
-            "default": "Myanmar",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Мьянма"
         }
     },
     {
         "code": "NA",
         "long": {
-            "default": "Namibia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Намибия"
         }
     },
     {
         "code": "NR",
         "long": {
-            "default": "Nauru",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Науру"
         }
     },
     {
         "code": "NP",
         "long": {
-            "default": "Nepal",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Непал"
         }
     },
     {
         "code": "NL",
         "long": {
-            "default": "Netherlands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Нидерланды",
+            "in": "в Нидерландах",
+            "from": "из Нидерландов"
         }
     },
     {
         "code": "NC",
         "long": {
-            "default": "New Caledonia",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Новая Каледония",
+            "in": "в Новой Каледонии",
+            "from": "из Новой Каледонии"
         }
     },
     {
         "code": "NZ",
         "long": {
-            "default": "New Zealand",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Новая Зеландия",
+            "in": "в Новой Зеландии",
+            "from": "из Новой Зеландии"
         }
     },
     {
         "code": "NI",
         "long": {
-            "default": "Nicaragua",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Никарагуа",
+            "in": "в Никарагуа",
+            "from": "из Никарагуа"
         }
     },
     {
         "code": "NE",
         "long": {
-            "default": "Niger",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Нигер"
         }
     },
     {
         "code": "NG",
         "long": {
-            "default": "Nigeria",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Нигерия"
         }
     },
     {
         "code": "NU",
         "long": {
-            "default": "Niue",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Ниуэ"
         }
     },
     {
         "code": "NF",
         "long": {
-            "default": "Norfolk Island",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Остров Норфолк",
+            "in": "на Острове Норфолк",
+            "from": "с Острова Норфолк"
         }
     },
     {
         "code": "MP",
         "long": {
-            "default": "Northern Mariana Islands",
-            "in": null,
-            "from": null
-        },
-        "short": {
-            "default": null,
-            "in": null,
-            "from": null
+            "default": "Северные Марианские Острова",
+            "in": "на Северных Марианских Островах",
+            "from": "с Северных Марианских Островов"
         }
     },
     {
@@ -2318,7 +2225,7 @@
     {
         "code": "TR",
         "long": {
-            "default": "Турция",
+            "default": "Турция"
         }
     },
     {
