@@ -71,6 +71,11 @@ class Russian extends Base implements PoliglottaInterface
 
                     break;
 
+                case 'л':
+                    $form .= 'е';
+
+                    break;
+
                 case 'к':
                 case 'г':
                 case 'м':
@@ -119,6 +124,11 @@ class Russian extends Base implements PoliglottaInterface
                 case 'й':
                     $form = mb_substr($form, 0, mb_strlen($form) - 1);
                     $form .= 'я';
+
+                    break;
+
+                case 'л':
+                    $form .= 'а';
 
                     break;
 

@@ -18,7 +18,6 @@ class Russian extends Test
 
         foreach($countries as $country) {
             $this->assertNotEquals($country->setLanguage('ru')->getName(), $country->setLanguage('en')->getName());
-            echo $country->setLanguage('ru')->inflict('from')->getName() . "\n";
         }
     }
 }
