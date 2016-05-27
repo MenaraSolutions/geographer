@@ -63,8 +63,41 @@ class Russian extends Base implements PoliglottaInterface
 
         if (! $form) {
             $form = 'в ' . $this->inflictDefault($meta, $long);
-            $form = mb_substr($form, 0, mb_strlen($form) - 1);
-            $form .= 'е';
+
+            switch (mb_substr($form, mb_strlen($form) - 1)) {
+                case 'й':
+                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
+                    $form .= 'е';
+
+                    break;
+
+                case 'к':
+                case 'г':
+                case 'м':
+                case 'з':
+                case 'ш':
+                case 'р':
+                case 'с':
+                case 'д':
+                case 'н':
+                    $form .= 'е';
+
+                    break;
+
+                case 'я':
+                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
+                    $form .= 'и';
+
+                    break;
+
+                case 'а':
+                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
+                    $form .= 'е';
+
+                    break;
+
+                default:
+            }
         }
 
         return $form;
@@ -81,8 +114,41 @@ class Russian extends Base implements PoliglottaInterface
 
         if (! $form) {
             $form = 'из ' . $this->inflictDefault($meta, $long);
-            $form = mb_substr($form, 0, mb_strlen($form) - 1);
-            $form .= 'а';
+
+            switch (mb_substr($form, mb_strlen($form) - 1)) {
+                case 'й':
+                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
+                    $form .= 'я';
+
+                    break;
+
+                case 'к':
+                case 'г':
+                case 'м':
+                case 'з':
+                case 'ш':
+                case 'р':
+                case 'с':
+                case 'д':
+                case 'н':
+                    $form .= 'а';
+
+                    break;
+
+                case 'я':
+                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
+                    $form .= 'и';
+
+                    break;
+
+                case 'а':
+                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
+                    $form .= 'ы';
+
+                    break;
+
+                default:
+            }
         }
 
         return $form;
