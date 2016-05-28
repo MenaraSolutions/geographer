@@ -76,6 +76,7 @@ class Russian extends Base implements PoliglottaInterface
 
                     break;
 
+                case 'т':
                 case 'к':
                 case 'г':
                 case 'м':
@@ -132,6 +133,7 @@ class Russian extends Base implements PoliglottaInterface
 
                     break;
 
+                case 'т':
                 case 'к':
                 case 'г':
                 case 'м':
