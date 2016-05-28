@@ -1,2741 +1,4973 @@
 [
-{
-    "iso_3611": [
-        "AF",
-        "AFG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Afghanistan",
-        "short": ""
+    {
+        "languages": [
+            "fa"
+        ],
+        "names": {
+            "long": "Afghanistan"
+        },
+        "ids": {
+            "iso_3611": [
+                "AF",
+                "AFG"
+            ],
+            "geonames": "1149361"
+        },
+        "area": "647500",
+        "currency": "AFN",
+        "phone": "93",
+        "continent": "AS",
+        "population": "29121286"
+    },
+    {
+        "languages": [
+            "sv"
+        ],
+        "names": {
+            "long": "Åland Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "AX",
+                "ALA"
+            ],
+            "geonames": "661882"
+        },
+        "area": "1580",
+        "currency": "EUR",
+        "phone": "35818",
+        "continent": "EU",
+        "population": "26711"
+    },
+    {
+        "languages": [
+            "sq"
+        ],
+        "names": {
+            "long": "Albania"
+        },
+        "ids": {
+            "iso_3611": [
+                "AL",
+                "ALB"
+            ],
+            "geonames": "783754"
+        },
+        "area": "28748",
+        "currency": "ALL",
+        "phone": "355",
+        "continent": "EU",
+        "population": "2986952"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Algeria"
+        },
+        "ids": {
+            "iso_3611": [
+                "DZ",
+                "DZA"
+            ],
+            "geonames": "2589581"
+        },
+        "area": "2381740",
+        "currency": "DZD",
+        "phone": "213",
+        "continent": "AF",
+        "population": "34586184"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "American Samoa"
+        },
+        "ids": {
+            "iso_3611": [
+                "AS",
+                "ASM"
+            ],
+            "geonames": "5880801"
+        },
+        "area": "199",
+        "currency": "USD",
+        "phone": "1684",
+        "continent": "OC",
+        "population": "57881"
+    },
+    {
+        "languages": [
+            "ca"
+        ],
+        "names": {
+            "long": "Andorra"
+        },
+        "ids": {
+            "iso_3611": [
+                "AD",
+                "AND"
+            ],
+            "geonames": "3041565"
+        },
+        "area": "468",
+        "currency": "EUR",
+        "phone": "376",
+        "continent": "EU",
+        "population": "84000"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Angola"
+        },
+        "ids": {
+            "iso_3611": [
+                "AO",
+                "AGO"
+            ],
+            "geonames": "3351879"
+        },
+        "area": "1246700",
+        "currency": "AOA",
+        "phone": "244",
+        "continent": "AF",
+        "population": "13068161"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Anguilla"
+        },
+        "ids": {
+            "iso_3611": [
+                "AI",
+                "AIA"
+            ],
+            "geonames": "3573511"
+        },
+        "area": "102",
+        "currency": "XCD",
+        "phone": "1264",
+        "continent": "NA",
+        "population": "13254"
+    },
+    {
+        "languages": [
+            ""
+        ],
+        "names": {
+            "long": "Antarctica"
+        },
+        "ids": {
+            "iso_3611": [
+                "AQ",
+                "ATA"
+            ],
+            "geonames": "6697173"
+        },
+        "area": "14000000",
+        "continent": "AN"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Antigua and Barbuda"
+        },
+        "ids": {
+            "iso_3611": [
+                "AG",
+                "ATG"
+            ],
+            "geonames": "3576396"
+        },
+        "area": "443",
+        "currency": "XCD",
+        "phone": "1268",
+        "continent": "NA",
+        "population": "86754"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Argentina"
+        },
+        "ids": {
+            "iso_3611": [
+                "AR",
+                "ARG"
+            ],
+            "geonames": "3865483"
+        },
+        "area": "2766890",
+        "currency": "ARS",
+        "phone": "54",
+        "continent": "SA",
+        "population": "41343201"
+    },
+    {
+        "languages": [
+            "hy"
+        ],
+        "names": {
+            "long": "Armenia"
+        },
+        "ids": {
+            "iso_3611": [
+                "AM",
+                "ARM"
+            ],
+            "geonames": "174982"
+        },
+        "area": "29800",
+        "currency": "AMD",
+        "phone": "374",
+        "continent": "AS",
+        "population": "2968000"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Aruba"
+        },
+        "ids": {
+            "iso_3611": [
+                "AW",
+                "ABW"
+            ],
+            "geonames": "3577279"
+        },
+        "area": "193",
+        "currency": "AWG",
+        "phone": "297",
+        "continent": "NA",
+        "population": "71566"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Australia"
+        },
+        "ids": {
+            "iso_3611": [
+                "AU",
+                "AUS"
+            ],
+            "geonames": "2077456"
+        },
+        "area": "7686850",
+        "currency": "AUD",
+        "phone": "61",
+        "continent": "OC",
+        "population": "21515754"
+    },
+    {
+        "languages": [
+            "de"
+        ],
+        "names": {
+            "long": "Austria"
+        },
+        "ids": {
+            "iso_3611": [
+                "AT",
+                "AUT"
+            ],
+            "geonames": "2782113"
+        },
+        "area": "83858",
+        "currency": "EUR",
+        "phone": "43",
+        "continent": "EU",
+        "population": "8205000"
+    },
+    {
+        "languages": [
+            "az"
+        ],
+        "names": {
+            "long": "Azerbaijan"
+        },
+        "ids": {
+            "iso_3611": [
+                "AZ",
+                "AZE"
+            ],
+            "geonames": "587116"
+        },
+        "area": "86600",
+        "currency": "AZN",
+        "phone": "994",
+        "continent": "AS",
+        "population": "8303512"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Bahamas"
+        },
+        "ids": {
+            "iso_3611": [
+                "BS",
+                "BHS"
+            ],
+            "geonames": "3572887"
+        },
+        "area": "13940",
+        "currency": "BSD",
+        "phone": "1242",
+        "continent": "NA",
+        "population": "301790"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Bahrain"
+        },
+        "ids": {
+            "iso_3611": [
+                "BH",
+                "BHR"
+            ],
+            "geonames": "290291"
+        },
+        "area": "665",
+        "currency": "BHD",
+        "phone": "973",
+        "continent": "AS",
+        "population": "738004"
+    },
+    {
+        "languages": [
+            "bn"
+        ],
+        "names": {
+            "long": "Bangladesh"
+        },
+        "ids": {
+            "iso_3611": [
+                "BD",
+                "BGD"
+            ],
+            "geonames": "1210997"
+        },
+        "area": "144000",
+        "currency": "BDT",
+        "phone": "880",
+        "continent": "AS",
+        "population": "156118464"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Barbados"
+        },
+        "ids": {
+            "iso_3611": [
+                "BB",
+                "BRB"
+            ],
+            "geonames": "3374084"
+        },
+        "area": "431",
+        "currency": "BBD",
+        "phone": "1246",
+        "continent": "NA",
+        "population": "285653"
+    },
+    {
+        "languages": [
+            "be"
+        ],
+        "names": {
+            "long": "Belarus"
+        },
+        "ids": {
+            "iso_3611": [
+                "BY",
+                "BLR"
+            ],
+            "geonames": "630336"
+        },
+        "area": "207600",
+        "currency": "BYR",
+        "phone": "375",
+        "continent": "EU",
+        "population": "9685000"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Belgium"
+        },
+        "ids": {
+            "iso_3611": [
+                "BE",
+                "BEL"
+            ],
+            "geonames": "2802361"
+        },
+        "area": "30510",
+        "currency": "EUR",
+        "phone": "32",
+        "continent": "EU",
+        "population": "10403000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Belize"
+        },
+        "ids": {
+            "iso_3611": [
+                "BZ",
+                "BLZ"
+            ],
+            "geonames": "3582678"
+        },
+        "area": "22966",
+        "currency": "BZD",
+        "phone": "501",
+        "continent": "NA",
+        "population": "314522"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Benin"
+        },
+        "ids": {
+            "iso_3611": [
+                "BJ",
+                "BEN"
+            ],
+            "geonames": "2395170"
+        },
+        "area": "112620",
+        "currency": "XOF",
+        "phone": "229",
+        "continent": "AF",
+        "population": "9056010"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Bermuda"
+        },
+        "ids": {
+            "iso_3611": [
+                "BM",
+                "BMU"
+            ],
+            "geonames": "3573345"
+        },
+        "area": "53",
+        "currency": "BMD",
+        "phone": "1441",
+        "continent": "NA",
+        "population": "65365"
+    },
+    {
+        "languages": [
+            "dz"
+        ],
+        "names": {
+            "long": "Bhutan"
+        },
+        "ids": {
+            "iso_3611": [
+                "BT",
+                "BTN"
+            ],
+            "geonames": "1252634"
+        },
+        "area": "47000",
+        "currency": "BTN",
+        "phone": "975",
+        "continent": "AS",
+        "population": "699847"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Plurinational State of Bolivia"
+        },
+        "ids": {
+            "iso_3611": [
+                "BO",
+                "BOL"
+            ],
+            "geonames": "3923057"
+        },
+        "area": "1098580",
+        "currency": "BOB",
+        "phone": "591",
+        "continent": "SA",
+        "population": "9947418"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Bonaire, Sint Eustatius and Saba"
+        },
+        "ids": {
+            "iso_3611": [
+                "BQ",
+                "BES"
+            ],
+            "geonames": "7626844"
+        },
+        "area": "328",
+        "currency": "USD",
+        "phone": "599",
+        "continent": "NA",
+        "population": "18012"
+    },
+    {
+        "languages": [
+            "bs"
+        ],
+        "names": {
+            "long": "Bosnia and Herzegovina"
+        },
+        "ids": {
+            "iso_3611": [
+                "BA",
+                "BIH"
+            ],
+            "geonames": "3277605"
+        },
+        "area": "51129",
+        "currency": "BAM",
+        "phone": "387",
+        "continent": "EU",
+        "population": "4590000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Botswana"
+        },
+        "ids": {
+            "iso_3611": [
+                "BW",
+                "BWA"
+            ],
+            "geonames": "933860"
+        },
+        "area": "600370",
+        "currency": "BWP",
+        "phone": "267",
+        "continent": "AF",
+        "population": "2029307"
+    },
+    {
+        "languages": [
+            ""
+        ],
+        "names": {
+            "long": "Bouvet Island"
+        },
+        "ids": {
+            "iso_3611": [
+                "BV",
+                "BVT"
+            ],
+            "geonames": "3371123"
+        },
+        "area": "49",
+        "currency": "NOK",
+        "continent": "AN"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Brazil"
+        },
+        "ids": {
+            "iso_3611": [
+                "BR",
+                "BRA"
+            ],
+            "geonames": "3469034"
+        },
+        "area": "8511965",
+        "currency": "BRL",
+        "phone": "55",
+        "continent": "SA",
+        "population": "201103330"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "British Indian Ocean Territory"
+        },
+        "ids": {
+            "iso_3611": [
+                "IO",
+                "IOT"
+            ],
+            "geonames": "1282588"
+        },
+        "area": "60",
+        "currency": "USD",
+        "phone": "246",
+        "continent": "AS",
+        "population": "4000"
+    },
+    {
+        "languages": [
+            "ms"
+        ],
+        "names": {
+            "long": "Brunei Darussalam"
+        },
+        "ids": {
+            "iso_3611": [
+                "BN",
+                "BRN"
+            ],
+            "geonames": "1820814"
+        },
+        "area": "5770",
+        "currency": "BND",
+        "phone": "673",
+        "continent": "AS",
+        "population": "395027"
+    },
+    {
+        "languages": [
+            "bg"
+        ],
+        "names": {
+            "long": "Bulgaria"
+        },
+        "ids": {
+            "iso_3611": [
+                "BG",
+                "BGR"
+            ],
+            "geonames": "732800"
+        },
+        "area": "110910",
+        "currency": "BGN",
+        "phone": "359",
+        "continent": "EU",
+        "population": "7148785"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Burkina Faso"
+        },
+        "ids": {
+            "iso_3611": [
+                "BF",
+                "BFA"
+            ],
+            "geonames": "2361809"
+        },
+        "area": "274200",
+        "currency": "XOF",
+        "phone": "226",
+        "continent": "AF",
+        "population": "16241811"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Burundi"
+        },
+        "ids": {
+            "iso_3611": [
+                "BI",
+                "BDI"
+            ],
+            "geonames": "433561"
+        },
+        "area": "27830",
+        "currency": "BIF",
+        "phone": "257",
+        "continent": "AF",
+        "population": "9863117"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Cabo Verde"
+        },
+        "ids": {
+            "iso_3611": [
+                "CV",
+                "CPV"
+            ],
+            "geonames": "3374766"
+        },
+        "area": "4033",
+        "currency": "CVE",
+        "phone": "238",
+        "continent": "AF",
+        "population": "508659"
+    },
+    {
+        "languages": [
+            "km"
+        ],
+        "names": {
+            "long": "Cambodia"
+        },
+        "ids": {
+            "iso_3611": [
+                "KH",
+                "KHM"
+            ],
+            "geonames": "1831722"
+        },
+        "area": "181040",
+        "currency": "KHR",
+        "phone": "855",
+        "continent": "AS",
+        "population": "14453680"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Cameroon"
+        },
+        "ids": {
+            "iso_3611": [
+                "CM",
+                "CMR"
+            ],
+            "geonames": "2233387"
+        },
+        "area": "475440",
+        "currency": "XAF",
+        "phone": "237",
+        "continent": "AF",
+        "population": "19294149"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Canada"
+        },
+        "ids": {
+            "iso_3611": [
+                "CA",
+                "CAN"
+            ],
+            "geonames": "6251999"
+        },
+        "area": "9984670",
+        "currency": "CAD",
+        "phone": "1",
+        "continent": "NA",
+        "population": "33679000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Cayman Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "KY",
+                "CYM"
+            ],
+            "geonames": "3580718"
+        },
+        "area": "262",
+        "currency": "KYD",
+        "phone": "1345",
+        "continent": "NA",
+        "population": "44270"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Central African Republic"
+        },
+        "ids": {
+            "iso_3611": [
+                "CF",
+                "CAF"
+            ],
+            "geonames": "239880"
+        },
+        "area": "622984",
+        "currency": "XAF",
+        "phone": "236",
+        "continent": "AF",
+        "population": "4844927"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Chad"
+        },
+        "ids": {
+            "iso_3611": [
+                "TD",
+                "TCD"
+            ],
+            "geonames": "2434508"
+        },
+        "area": "1284000",
+        "currency": "XAF",
+        "phone": "235",
+        "continent": "AF",
+        "population": "10543464"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Chile"
+        },
+        "ids": {
+            "iso_3611": [
+                "CL",
+                "CHL"
+            ],
+            "geonames": "3895114"
+        },
+        "area": "756950",
+        "currency": "CLP",
+        "phone": "56",
+        "continent": "SA",
+        "population": "16746491"
+    },
+    {
+        "languages": [
+            "zh"
+        ],
+        "names": {
+            "long": "China"
+        },
+        "ids": {
+            "iso_3611": [
+                "CN",
+                "CHN"
+            ],
+            "geonames": "1814991"
+        },
+        "area": "9596960",
+        "currency": "CNY",
+        "phone": "86",
+        "continent": "AS",
+        "population": "1330044000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Christmas Island"
+        },
+        "ids": {
+            "iso_3611": [
+                "CX",
+                "CXR"
+            ],
+            "geonames": "2078138"
+        },
+        "area": "135",
+        "currency": "AUD",
+        "phone": "61",
+        "continent": "AS",
+        "population": "1500"
+    },
+    {
+        "languages": [
+            "ms"
+        ],
+        "names": {
+            "long": "Cocos (Keeling) Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "CC",
+                "CCK"
+            ],
+            "geonames": "1547376"
+        },
+        "area": "14",
+        "currency": "AUD",
+        "phone": "61",
+        "continent": "AS",
+        "population": "628"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Colombia"
+        },
+        "ids": {
+            "iso_3611": [
+                "CO",
+                "COL"
+            ],
+            "geonames": "3686110"
+        },
+        "area": "1138910",
+        "currency": "COP",
+        "phone": "57",
+        "continent": "SA",
+        "population": "47790000"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Comoros"
+        },
+        "ids": {
+            "iso_3611": [
+                "KM",
+                "COM"
+            ],
+            "geonames": "921929"
+        },
+        "area": "2170",
+        "currency": "KMF",
+        "phone": "269",
+        "continent": "AF",
+        "population": "773407"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Congo Republic"
+        },
+        "ids": {
+            "iso_3611": [
+                "CG",
+                "COG"
+            ],
+            "geonames": "2260494"
+        },
+        "area": "342000",
+        "currency": "XAF",
+        "phone": "242",
+        "continent": "AF",
+        "population": "3039126"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Democratic Republic of the Congo"
+        },
+        "ids": {
+            "iso_3611": [
+                "CD",
+                "COD"
+            ],
+            "geonames": "203312"
+        },
+        "area": "2345410",
+        "currency": "CDF",
+        "phone": "243",
+        "continent": "AF",
+        "population": "70916439"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Cook Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "CK",
+                "COK"
+            ],
+            "geonames": "1899402"
+        },
+        "area": "240",
+        "currency": "NZD",
+        "phone": "682",
+        "continent": "OC",
+        "population": "21388"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Costa Rica"
+        },
+        "ids": {
+            "iso_3611": [
+                "CR",
+                "CRI"
+            ],
+            "geonames": "3624060"
+        },
+        "area": "51100",
+        "currency": "CRC",
+        "phone": "506",
+        "continent": "NA",
+        "population": "4516220"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Côte d'Ivoire"
+        },
+        "ids": {
+            "iso_3611": [
+                "CI",
+                "CIV"
+            ],
+            "geonames": "2287781"
+        },
+        "area": "322460",
+        "currency": "XOF",
+        "phone": "225",
+        "continent": "AF",
+        "population": "21058798"
+    },
+    {
+        "languages": [
+            "hr"
+        ],
+        "names": {
+            "long": "Croatia"
+        },
+        "ids": {
+            "iso_3611": [
+                "HR",
+                "HRV"
+            ],
+            "geonames": "3202326"
+        },
+        "area": "56542",
+        "currency": "HRK",
+        "phone": "385",
+        "continent": "EU",
+        "population": "4491000"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Cuba"
+        },
+        "ids": {
+            "iso_3611": [
+                "CU",
+                "CUB"
+            ],
+            "geonames": "3562981"
+        },
+        "area": "110860",
+        "currency": "CUP",
+        "phone": "53",
+        "continent": "NA",
+        "population": "11423000"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Curaçao"
+        },
+        "ids": {
+            "iso_3611": [
+                "CW",
+                "CUW"
+            ],
+            "geonames": "7626836"
+        },
+        "area": "444",
+        "currency": "ANG",
+        "phone": "599",
+        "continent": "NA",
+        "population": "141766"
+    },
+    {
+        "languages": [
+            "el"
+        ],
+        "names": {
+            "long": "Cyprus"
+        },
+        "ids": {
+            "iso_3611": [
+                "CY",
+                "CYP"
+            ],
+            "geonames": "146669"
+        },
+        "area": "9250",
+        "currency": "EUR",
+        "phone": "357",
+        "continent": "EU",
+        "population": "1102677"
+    },
+    {
+        "languages": [
+            "cs"
+        ],
+        "names": {
+            "long": "Czech Republic"
+        },
+        "ids": {
+            "iso_3611": [
+                "CZ",
+                "CZE"
+            ],
+            "geonames": "3077311"
+        },
+        "area": "78866",
+        "currency": "CZK",
+        "phone": "420",
+        "continent": "EU",
+        "population": "10476000"
+    },
+    {
+        "languages": [
+            "da"
+        ],
+        "names": {
+            "long": "Denmark"
+        },
+        "ids": {
+            "iso_3611": [
+                "DK",
+                "DNK"
+            ],
+            "geonames": "2623032"
+        },
+        "area": "43094",
+        "currency": "DKK",
+        "phone": "45",
+        "continent": "EU",
+        "population": "5484000"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Djibouti"
+        },
+        "ids": {
+            "iso_3611": [
+                "DJ",
+                "DJI"
+            ],
+            "geonames": "223816"
+        },
+        "area": "23000",
+        "currency": "DJF",
+        "phone": "253",
+        "continent": "AF",
+        "population": "740528"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Dominica"
+        },
+        "ids": {
+            "iso_3611": [
+                "DM",
+                "DMA"
+            ],
+            "geonames": "3575830"
+        },
+        "area": "754",
+        "currency": "XCD",
+        "phone": "1767",
+        "continent": "NA",
+        "population": "72813"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Dominican Republic"
+        },
+        "ids": {
+            "iso_3611": [
+                "DO",
+                "DOM"
+            ],
+            "geonames": "3508796"
+        },
+        "area": "48730",
+        "currency": "DOP",
+        "phone": "1809 and 1829",
+        "continent": "NA",
+        "population": "9823821"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Ecuador"
+        },
+        "ids": {
+            "iso_3611": [
+                "EC",
+                "ECU"
+            ],
+            "geonames": "3658394"
+        },
+        "area": "283560",
+        "currency": "USD",
+        "phone": "593",
+        "continent": "SA",
+        "population": "14790608"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Egypt"
+        },
+        "ids": {
+            "iso_3611": [
+                "EG",
+                "EGY"
+            ],
+            "geonames": "357994"
+        },
+        "area": "1001450",
+        "currency": "EGP",
+        "phone": "20",
+        "continent": "AF",
+        "population": "80471869"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "El Salvador"
+        },
+        "ids": {
+            "iso_3611": [
+                "SV",
+                "SLV"
+            ],
+            "geonames": "3585968"
+        },
+        "area": "21040",
+        "currency": "USD",
+        "phone": "503",
+        "continent": "NA",
+        "population": "6052064"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Equatorial Guinea"
+        },
+        "ids": {
+            "iso_3611": [
+                "GQ",
+                "GNQ"
+            ],
+            "geonames": "2309096"
+        },
+        "area": "28051",
+        "currency": "XAF",
+        "phone": "240",
+        "continent": "AF",
+        "population": "1014999"
+    },
+    {
+        "languages": [
+            "aa"
+        ],
+        "names": {
+            "long": "Eritrea"
+        },
+        "ids": {
+            "iso_3611": [
+                "ER",
+                "ERI"
+            ],
+            "geonames": "338010"
+        },
+        "area": "121320",
+        "currency": "ERN",
+        "phone": "291",
+        "continent": "AF",
+        "population": "5792984"
+    },
+    {
+        "languages": [
+            "et"
+        ],
+        "names": {
+            "long": "Estonia"
+        },
+        "ids": {
+            "iso_3611": [
+                "EE",
+                "EST"
+            ],
+            "geonames": "453733"
+        },
+        "area": "45226",
+        "currency": "EUR",
+        "phone": "372",
+        "continent": "EU",
+        "population": "1291170"
+    },
+    {
+        "languages": [
+            "am"
+        ],
+        "names": {
+            "long": "Ethiopia"
+        },
+        "ids": {
+            "iso_3611": [
+                "ET",
+                "ETH"
+            ],
+            "geonames": "337996"
+        },
+        "area": "1127127",
+        "currency": "ETB",
+        "phone": "251",
+        "continent": "AF",
+        "population": "88013491"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Falkland Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "FK",
+                "FLK"
+            ],
+            "geonames": "3474414"
+        },
+        "area": "12173",
+        "currency": "FKP",
+        "phone": "500",
+        "continent": "SA",
+        "population": "2638"
+    },
+    {
+        "languages": [
+            "fo"
+        ],
+        "names": {
+            "long": "Faroe Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "FO",
+                "FRO"
+            ],
+            "geonames": "2622320"
+        },
+        "area": "1399",
+        "currency": "DKK",
+        "phone": "298",
+        "continent": "EU",
+        "population": "48228"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Fiji"
+        },
+        "ids": {
+            "iso_3611": [
+                "FJ",
+                "FJI"
+            ],
+            "geonames": "2205218"
+        },
+        "area": "18270",
+        "currency": "FJD",
+        "phone": "679",
+        "continent": "OC",
+        "population": "875983"
+    },
+    {
+        "languages": [
+            "fi"
+        ],
+        "names": {
+            "long": "Finland"
+        },
+        "ids": {
+            "iso_3611": [
+                "FI",
+                "FIN"
+            ],
+            "geonames": "660013"
+        },
+        "area": "337030",
+        "currency": "EUR",
+        "phone": "358",
+        "continent": "EU",
+        "population": "5244000"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "France"
+        },
+        "ids": {
+            "iso_3611": [
+                "FR",
+                "FRA"
+            ],
+            "geonames": "3017382"
+        },
+        "area": "547030",
+        "currency": "EUR",
+        "phone": "33",
+        "continent": "EU",
+        "population": "64768389"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "French Guiana"
+        },
+        "ids": {
+            "iso_3611": [
+                "GF",
+                "GUF"
+            ],
+            "geonames": "3381670"
+        },
+        "area": "91000",
+        "currency": "EUR",
+        "phone": "594",
+        "continent": "SA",
+        "population": "195506"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "French Polynesia"
+        },
+        "ids": {
+            "iso_3611": [
+                "PF",
+                "PYF"
+            ],
+            "geonames": "4030656"
+        },
+        "area": "4167",
+        "currency": "XPF",
+        "phone": "689",
+        "continent": "OC",
+        "population": "270485"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "French Southern Territories"
+        },
+        "ids": {
+            "iso_3611": [
+                "TF",
+                "ATF"
+            ],
+            "geonames": "1546748"
+        },
+        "area": "7829",
+        "currency": "EUR",
+        "continent": "AN",
+        "population": "140"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Gabon"
+        },
+        "ids": {
+            "iso_3611": [
+                "GA",
+                "GAB"
+            ],
+            "geonames": "2400553"
+        },
+        "area": "267667",
+        "currency": "XAF",
+        "phone": "241",
+        "continent": "AF",
+        "population": "1545255"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Gambia"
+        },
+        "ids": {
+            "iso_3611": [
+                "GM",
+                "GMB"
+            ],
+            "geonames": "2413451"
+        },
+        "area": "11300",
+        "currency": "GMD",
+        "phone": "220",
+        "continent": "AF",
+        "population": "1593256"
+    },
+    {
+        "languages": [
+            "ka"
+        ],
+        "names": {
+            "long": "Georgia"
+        },
+        "ids": {
+            "iso_3611": [
+                "GE",
+                "GEO"
+            ],
+            "geonames": "614540"
+        },
+        "area": "69700",
+        "currency": "GEL",
+        "phone": "995",
+        "continent": "AS",
+        "population": "4630000"
+    },
+    {
+        "languages": [
+            "de"
+        ],
+        "names": {
+            "long": "Germany"
+        },
+        "ids": {
+            "iso_3611": [
+                "DE",
+                "DEU"
+            ],
+            "geonames": "2921044"
+        },
+        "area": "357021",
+        "currency": "EUR",
+        "phone": "49",
+        "continent": "EU",
+        "population": "81802257"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Ghana"
+        },
+        "ids": {
+            "iso_3611": [
+                "GH",
+                "GHA"
+            ],
+            "geonames": "2300660"
+        },
+        "area": "239460",
+        "currency": "GHS",
+        "phone": "233",
+        "continent": "AF",
+        "population": "24339838"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Gibraltar"
+        },
+        "ids": {
+            "iso_3611": [
+                "GI",
+                "GIB"
+            ],
+            "geonames": "2411586"
+        },
+        "area": "6.5",
+        "currency": "GIP",
+        "phone": "350",
+        "continent": "EU",
+        "population": "27884"
+    },
+    {
+        "languages": [
+            "el"
+        ],
+        "names": {
+            "long": "Greece"
+        },
+        "ids": {
+            "iso_3611": [
+                "GR",
+                "GRC"
+            ],
+            "geonames": "390903"
+        },
+        "area": "131940",
+        "currency": "EUR",
+        "phone": "30",
+        "continent": "EU",
+        "population": "11000000"
+    },
+    {
+        "languages": [
+            "kl"
+        ],
+        "names": {
+            "long": "Greenland"
+        },
+        "ids": {
+            "iso_3611": [
+                "GL",
+                "GRL"
+            ],
+            "geonames": "3425505"
+        },
+        "area": "2166086",
+        "currency": "DKK",
+        "phone": "299",
+        "continent": "NA",
+        "population": "56375"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Grenada"
+        },
+        "ids": {
+            "iso_3611": [
+                "GD",
+                "GRD"
+            ],
+            "geonames": "3580239"
+        },
+        "area": "344",
+        "currency": "XCD",
+        "phone": "1473",
+        "continent": "NA",
+        "population": "107818"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Guadeloupe"
+        },
+        "ids": {
+            "iso_3611": [
+                "GP",
+                "GLP"
+            ],
+            "geonames": "3579143"
+        },
+        "area": "1780",
+        "currency": "EUR",
+        "phone": "590",
+        "continent": "NA",
+        "population": "443000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Guam"
+        },
+        "ids": {
+            "iso_3611": [
+                "GU",
+                "GUM"
+            ],
+            "geonames": "4043988"
+        },
+        "area": "549",
+        "currency": "USD",
+        "phone": "1671",
+        "continent": "OC",
+        "population": "159358"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Guatemala"
+        },
+        "ids": {
+            "iso_3611": [
+                "GT",
+                "GTM"
+            ],
+            "geonames": "3595528"
+        },
+        "area": "108890",
+        "currency": "GTQ",
+        "phone": "502",
+        "continent": "NA",
+        "population": "13550440"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Guernsey"
+        },
+        "ids": {
+            "iso_3611": [
+                "GG",
+                "GGY"
+            ],
+            "geonames": "3042362"
+        },
+        "area": "78",
+        "currency": "GBP",
+        "phone": "441481",
+        "continent": "EU",
+        "population": "65228"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Guinea"
+        },
+        "ids": {
+            "iso_3611": [
+                "GN",
+                "GIN"
+            ],
+            "geonames": "2420477"
+        },
+        "area": "245857",
+        "currency": "GNF",
+        "phone": "224",
+        "continent": "AF",
+        "population": "10324025"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Guinea-Bissau"
+        },
+        "ids": {
+            "iso_3611": [
+                "GW",
+                "GNB"
+            ],
+            "geonames": "2372248"
+        },
+        "area": "36120",
+        "currency": "XOF",
+        "phone": "245",
+        "continent": "AF",
+        "population": "1565126"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Guyana"
+        },
+        "ids": {
+            "iso_3611": [
+                "GY",
+                "GUY"
+            ],
+            "geonames": "3378535"
+        },
+        "area": "214970",
+        "currency": "GYD",
+        "phone": "592",
+        "continent": "SA",
+        "population": "748486"
+    },
+    {
+        "languages": [
+            "ht"
+        ],
+        "names": {
+            "long": "Haiti"
+        },
+        "ids": {
+            "iso_3611": [
+                "HT",
+                "HTI"
+            ],
+            "geonames": "3723988"
+        },
+        "area": "27750",
+        "currency": "HTG",
+        "phone": "509",
+        "continent": "NA",
+        "population": "9648924"
+    },
+    {
+        "languages": [
+            ""
+        ],
+        "names": {
+            "long": "Heard Island and McDonald Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "HM",
+                "HMD"
+            ],
+            "geonames": "1547314"
+        },
+        "area": "412",
+        "currency": "AUD",
+        "phone": " ",
+        "continent": "AN"
+    },
+    {
+        "languages": [
+            "la"
+        ],
+        "names": {
+            "long": "Holy See"
+        },
+        "ids": {
+            "iso_3611": [
+                "VA",
+                "VAT"
+            ],
+            "geonames": "3164670"
+        },
+        "area": "0.44",
+        "currency": "EUR",
+        "phone": "379",
+        "continent": "EU",
+        "population": "921"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Honduras"
+        },
+        "ids": {
+            "iso_3611": [
+                "HN",
+                "HND"
+            ],
+            "geonames": "3608932"
+        },
+        "area": "112090",
+        "currency": "HNL",
+        "phone": "504",
+        "continent": "NA",
+        "population": "7989415"
+    },
+    {
+        "languages": [
+            "zh"
+        ],
+        "names": {
+            "long": "Hong Kong"
+        },
+        "ids": {
+            "iso_3611": [
+                "HK",
+                "HKG"
+            ],
+            "geonames": "1819730"
+        },
+        "area": "1092",
+        "currency": "HKD",
+        "phone": "852",
+        "continent": "AS",
+        "population": "6898686"
+    },
+    {
+        "languages": [
+            "hu"
+        ],
+        "names": {
+            "long": "Hungary"
+        },
+        "ids": {
+            "iso_3611": [
+                "HU",
+                "HUN"
+            ],
+            "geonames": "719819"
+        },
+        "area": "93030",
+        "currency": "HUF",
+        "phone": "36",
+        "continent": "EU",
+        "population": "9982000"
+    },
+    {
+        "languages": [
+            "is"
+        ],
+        "names": {
+            "long": "Iceland"
+        },
+        "ids": {
+            "iso_3611": [
+                "IS",
+                "ISL"
+            ],
+            "geonames": "2629691"
+        },
+        "area": "103000",
+        "currency": "ISK",
+        "phone": "354",
+        "continent": "EU",
+        "population": "308910"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "India"
+        },
+        "ids": {
+            "iso_3611": [
+                "IN",
+                "IND"
+            ],
+            "geonames": "1269750"
+        },
+        "area": "3287590",
+        "currency": "INR",
+        "phone": "91",
+        "continent": "AS",
+        "population": "1173108018"
+    },
+    {
+        "languages": [
+            "id"
+        ],
+        "names": {
+            "long": "Indonesia"
+        },
+        "ids": {
+            "iso_3611": [
+                "ID",
+                "IDN"
+            ],
+            "geonames": "1643084"
+        },
+        "area": "1919440",
+        "currency": "IDR",
+        "phone": "62",
+        "continent": "AS",
+        "population": "242968342"
+    },
+    {
+        "languages": [
+            "fa"
+        ],
+        "names": {
+            "long": "Islamic Republic of Iran"
+        },
+        "ids": {
+            "iso_3611": [
+                "IR",
+                "IRN"
+            ],
+            "geonames": "130758"
+        },
+        "area": "1648000",
+        "currency": "IRR",
+        "phone": "98",
+        "continent": "AS",
+        "population": "76923300"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Iraq"
+        },
+        "ids": {
+            "iso_3611": [
+                "IQ",
+                "IRQ"
+            ],
+            "geonames": "99237"
+        },
+        "area": "437072",
+        "currency": "IQD",
+        "phone": "964",
+        "continent": "AS",
+        "population": "29671605"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Ireland"
+        },
+        "ids": {
+            "iso_3611": [
+                "IE",
+                "IRL"
+            ],
+            "geonames": "2963597"
+        },
+        "area": "70280",
+        "currency": "EUR",
+        "phone": "353",
+        "continent": "EU",
+        "population": "4622917"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Isle of Man"
+        },
+        "ids": {
+            "iso_3611": [
+                "IM",
+                "IMN"
+            ],
+            "geonames": "3042225"
+        },
+        "area": "572",
+        "currency": "GBP",
+        "phone": "441624",
+        "continent": "EU",
+        "population": "75049"
+    },
+    {
+        "languages": [
+            "he"
+        ],
+        "names": {
+            "long": "Israel"
+        },
+        "ids": {
+            "iso_3611": [
+                "IL",
+                "ISR"
+            ],
+            "geonames": "294640"
+        },
+        "area": "20770",
+        "currency": "ILS",
+        "phone": "972",
+        "continent": "AS",
+        "population": "7353985"
+    },
+    {
+        "languages": [
+            "it"
+        ],
+        "names": {
+            "long": "Italy"
+        },
+        "ids": {
+            "iso_3611": [
+                "IT",
+                "ITA"
+            ],
+            "geonames": "3175395"
+        },
+        "area": "301230",
+        "currency": "EUR",
+        "phone": "39",
+        "continent": "EU",
+        "population": "60340328"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Jamaica"
+        },
+        "ids": {
+            "iso_3611": [
+                "JM",
+                "JAM"
+            ],
+            "geonames": "3489940"
+        },
+        "area": "10991",
+        "currency": "JMD",
+        "phone": "1876",
+        "continent": "NA",
+        "population": "2847232"
+    },
+    {
+        "languages": [
+            "ja"
+        ],
+        "names": {
+            "long": "Japan"
+        },
+        "ids": {
+            "iso_3611": [
+                "JP",
+                "JPN"
+            ],
+            "geonames": "1861060"
+        },
+        "area": "377835",
+        "currency": "JPY",
+        "phone": "81",
+        "continent": "AS",
+        "population": "127288000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Jersey"
+        },
+        "ids": {
+            "iso_3611": [
+                "JE",
+                "JEY"
+            ],
+            "geonames": "3042142"
+        },
+        "area": "116",
+        "currency": "GBP",
+        "phone": "441534",
+        "continent": "EU",
+        "population": "90812"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Jordan"
+        },
+        "ids": {
+            "iso_3611": [
+                "JO",
+                "JOR"
+            ],
+            "geonames": "248816"
+        },
+        "area": "92300",
+        "currency": "JOD",
+        "phone": "962",
+        "continent": "AS",
+        "population": "6407085"
+    },
+    {
+        "languages": [
+            "kk"
+        ],
+        "names": {
+            "long": "Kazakhstan"
+        },
+        "ids": {
+            "iso_3611": [
+                "KZ",
+                "KAZ"
+            ],
+            "geonames": "1522867"
+        },
+        "area": "2717300",
+        "currency": "KZT",
+        "phone": "7",
+        "continent": "AS",
+        "population": "15340000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Kenya"
+        },
+        "ids": {
+            "iso_3611": [
+                "KE",
+                "KEN"
+            ],
+            "geonames": "192950"
+        },
+        "area": "582650",
+        "currency": "KES",
+        "phone": "254",
+        "continent": "AF",
+        "population": "40046566"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Kiribati"
+        },
+        "ids": {
+            "iso_3611": [
+                "KI",
+                "KIR"
+            ],
+            "geonames": "4030945"
+        },
+        "area": "811",
+        "currency": "AUD",
+        "phone": "686",
+        "continent": "OC",
+        "population": "92533"
+    },
+    {
+        "languages": [
+            "ko"
+        ],
+        "names": {
+            "long": "Democratic People's Republic of Korea"
+        },
+        "ids": {
+            "iso_3611": [
+                "KP",
+                "PRK"
+            ],
+            "geonames": "1873107"
+        },
+        "area": "120540",
+        "currency": "KPW",
+        "phone": "850",
+        "continent": "AS",
+        "population": "22912177"
+    },
+    {
+        "languages": [
+            "ko"
+        ],
+        "names": {
+            "long": "Republic of Korea"
+        },
+        "ids": {
+            "iso_3611": [
+                "KR",
+                "KOR"
+            ],
+            "geonames": "1835841"
+        },
+        "area": "98480",
+        "currency": "KRW",
+        "phone": "82",
+        "continent": "AS",
+        "population": "48422644"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Kuwait"
+        },
+        "ids": {
+            "iso_3611": [
+                "KW",
+                "KWT"
+            ],
+            "geonames": "285570"
+        },
+        "area": "17820",
+        "currency": "KWD",
+        "phone": "965",
+        "continent": "AS",
+        "population": "2789132"
+    },
+    {
+        "languages": [
+            "ky"
+        ],
+        "names": {
+            "long": "Kyrgyzstan"
+        },
+        "ids": {
+            "iso_3611": [
+                "KG",
+                "KGZ"
+            ],
+            "geonames": "1527747"
+        },
+        "area": "198500",
+        "currency": "KGS",
+        "phone": "996",
+        "continent": "AS",
+        "population": "5776500"
+    },
+    {
+        "languages": [
+            "lo"
+        ],
+        "names": {
+            "long": "Lao People's Democratic Republic"
+        },
+        "ids": {
+            "iso_3611": [
+                "LA",
+                "LAO"
+            ],
+            "geonames": "1655842"
+        },
+        "area": "236800",
+        "currency": "LAK",
+        "phone": "856",
+        "continent": "AS",
+        "population": "6368162"
+    },
+    {
+        "languages": [
+            "lv"
+        ],
+        "names": {
+            "long": "Latvia"
+        },
+        "ids": {
+            "iso_3611": [
+                "LV",
+                "LVA"
+            ],
+            "geonames": "458258"
+        },
+        "area": "64589",
+        "currency": "EUR",
+        "phone": "371",
+        "continent": "EU",
+        "population": "2217969"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Lebanon"
+        },
+        "ids": {
+            "iso_3611": [
+                "LB",
+                "LBN"
+            ],
+            "geonames": "272103"
+        },
+        "area": "10400",
+        "currency": "LBP",
+        "phone": "961",
+        "continent": "AS",
+        "population": "4125247"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Lesotho"
+        },
+        "ids": {
+            "iso_3611": [
+                "LS",
+                "LSO"
+            ],
+            "geonames": "932692"
+        },
+        "area": "30355",
+        "currency": "LSL",
+        "phone": "266",
+        "continent": "AF",
+        "population": "1919552"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Liberia"
+        },
+        "ids": {
+            "iso_3611": [
+                "LR",
+                "LBR"
+            ],
+            "geonames": "2275384"
+        },
+        "area": "111370",
+        "currency": "LRD",
+        "phone": "231",
+        "continent": "AF",
+        "population": "3685076"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Libya"
+        },
+        "ids": {
+            "iso_3611": [
+                "LY",
+                "LBY"
+            ],
+            "geonames": "2215636"
+        },
+        "area": "1759540",
+        "currency": "LYD",
+        "phone": "218",
+        "continent": "AF",
+        "population": "6461454"
+    },
+    {
+        "languages": [
+            "de"
+        ],
+        "names": {
+            "long": "Liechtenstein"
+        },
+        "ids": {
+            "iso_3611": [
+                "LI",
+                "LIE"
+            ],
+            "geonames": "3042058"
+        },
+        "area": "160",
+        "currency": "CHF",
+        "phone": "423",
+        "continent": "EU",
+        "population": "35000"
+    },
+    {
+        "languages": [
+            "lt"
+        ],
+        "names": {
+            "long": "Lithuania"
+        },
+        "ids": {
+            "iso_3611": [
+                "LT",
+                "LTU"
+            ],
+            "geonames": "597427"
+        },
+        "area": "65200",
+        "currency": "EUR",
+        "phone": "370",
+        "continent": "EU",
+        "population": "2944459"
+    },
+    {
+        "languages": [
+            "lb"
+        ],
+        "names": {
+            "long": "Luxembourg"
+        },
+        "ids": {
+            "iso_3611": [
+                "LU",
+                "LUX"
+            ],
+            "geonames": "2960313"
+        },
+        "area": "2586",
+        "currency": "EUR",
+        "phone": "352",
+        "continent": "EU",
+        "population": "497538"
+    },
+    {
+        "languages": [
+            "zh"
+        ],
+        "names": {
+            "long": "Macao"
+        },
+        "ids": {
+            "iso_3611": [
+                "MO",
+                "MAC"
+            ],
+            "geonames": "1821275"
+        },
+        "area": "254",
+        "currency": "MOP",
+        "phone": "853",
+        "continent": "AS",
+        "population": "449198"
+    },
+    {
+        "languages": [
+            "mk"
+        ],
+        "names": {
+            "long": "Macedonia"
+        },
+        "ids": {
+            "iso_3611": [
+                "MK",
+                "MKD"
+            ],
+            "geonames": "718075"
+        },
+        "area": "25333",
+        "currency": "MKD",
+        "phone": "389",
+        "continent": "EU",
+        "population": "2062294"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Madagascar"
+        },
+        "ids": {
+            "iso_3611": [
+                "MG",
+                "MDG"
+            ],
+            "geonames": "1062947"
+        },
+        "area": "587040",
+        "currency": "MGA",
+        "phone": "261",
+        "continent": "AF",
+        "population": "21281844"
+    },
+    {
+        "languages": [
+            "ny"
+        ],
+        "names": {
+            "long": "Malawi"
+        },
+        "ids": {
+            "iso_3611": [
+                "MW",
+                "MWI"
+            ],
+            "geonames": "927384"
+        },
+        "area": "118480",
+        "currency": "MWK",
+        "phone": "265",
+        "continent": "AF",
+        "population": "15447500"
+    },
+    {
+        "languages": [
+            "ms"
+        ],
+        "names": {
+            "long": "Malaysia"
+        },
+        "ids": {
+            "iso_3611": [
+                "MY",
+                "MYS"
+            ],
+            "geonames": "1733045"
+        },
+        "area": "329750",
+        "currency": "MYR",
+        "phone": "60",
+        "continent": "AS",
+        "population": "28274729"
+    },
+    {
+        "languages": [
+            "dv"
+        ],
+        "names": {
+            "long": "Maldives"
+        },
+        "ids": {
+            "iso_3611": [
+                "MV",
+                "MDV"
+            ],
+            "geonames": "1282028"
+        },
+        "area": "300",
+        "currency": "MVR",
+        "phone": "960",
+        "continent": "AS",
+        "population": "395650"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Mali"
+        },
+        "ids": {
+            "iso_3611": [
+                "ML",
+                "MLI"
+            ],
+            "geonames": "2453866"
+        },
+        "area": "1240000",
+        "currency": "XOF",
+        "phone": "223",
+        "continent": "AF",
+        "population": "13796354"
+    },
+    {
+        "languages": [
+            "mt"
+        ],
+        "names": {
+            "long": "Malta"
+        },
+        "ids": {
+            "iso_3611": [
+                "MT",
+                "MLT"
+            ],
+            "geonames": "2562770"
+        },
+        "area": "316",
+        "currency": "EUR",
+        "phone": "356",
+        "continent": "EU",
+        "population": "403000"
+    },
+    {
+        "languages": [
+            "mh"
+        ],
+        "names": {
+            "long": "Marshall Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "MH",
+                "MHL"
+            ],
+            "geonames": "2080185"
+        },
+        "area": "181.3",
+        "currency": "USD",
+        "phone": "692",
+        "continent": "OC",
+        "population": "65859"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Martinique"
+        },
+        "ids": {
+            "iso_3611": [
+                "MQ",
+                "MTQ"
+            ],
+            "geonames": "3570311"
+        },
+        "area": "1100",
+        "currency": "EUR",
+        "phone": "596",
+        "continent": "NA",
+        "population": "432900"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Mauritania"
+        },
+        "ids": {
+            "iso_3611": [
+                "MR",
+                "MRT"
+            ],
+            "geonames": "2378080"
+        },
+        "area": "1030700",
+        "currency": "MRO",
+        "phone": "222",
+        "continent": "AF",
+        "population": "3205060"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Mauritius"
+        },
+        "ids": {
+            "iso_3611": [
+                "MU",
+                "MUS"
+            ],
+            "geonames": "934292"
+        },
+        "area": "2040",
+        "currency": "MUR",
+        "phone": "230",
+        "continent": "AF",
+        "population": "1294104"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Mayotte"
+        },
+        "ids": {
+            "iso_3611": [
+                "YT",
+                "MYT"
+            ],
+            "geonames": "1024031"
+        },
+        "area": "374",
+        "currency": "EUR",
+        "phone": "262",
+        "continent": "AF",
+        "population": "159042"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Mexico"
+        },
+        "ids": {
+            "iso_3611": [
+                "MX",
+                "MEX"
+            ],
+            "geonames": "3996063"
+        },
+        "area": "1972550",
+        "currency": "MXN",
+        "phone": "52",
+        "continent": "NA",
+        "population": "112468855"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Federated States of Micronesia"
+        },
+        "ids": {
+            "iso_3611": [
+                "FM",
+                "FSM"
+            ],
+            "geonames": "2081918"
+        },
+        "area": "702",
+        "currency": "USD",
+        "phone": "691",
+        "continent": "OC",
+        "population": "107708"
+    },
+    {
+        "languages": [
+            "ro"
+        ],
+        "names": {
+            "long": "Republic of Moldova"
+        },
+        "ids": {
+            "iso_3611": [
+                "MD",
+                "MDA"
+            ],
+            "geonames": "617790"
+        },
+        "area": "33843",
+        "currency": "MDL",
+        "phone": "373",
+        "continent": "EU",
+        "population": "4324000"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Monaco"
+        },
+        "ids": {
+            "iso_3611": [
+                "MC",
+                "MCO"
+            ],
+            "geonames": "2993457"
+        },
+        "area": "1.95",
+        "currency": "EUR",
+        "phone": "377",
+        "continent": "EU",
+        "population": "32965"
+    },
+    {
+        "languages": [
+            "mn"
+        ],
+        "names": {
+            "long": "Mongolia"
+        },
+        "ids": {
+            "iso_3611": [
+                "MN",
+                "MNG"
+            ],
+            "geonames": "2029969"
+        },
+        "area": "1565000",
+        "currency": "MNT",
+        "phone": "976",
+        "continent": "AS",
+        "population": "3086918"
+    },
+    {
+        "languages": [
+            "sr"
+        ],
+        "names": {
+            "long": "Montenegro"
+        },
+        "ids": {
+            "iso_3611": [
+                "ME",
+                "MNE"
+            ],
+            "geonames": "3194884"
+        },
+        "area": "14026",
+        "currency": "EUR",
+        "phone": "382",
+        "continent": "EU",
+        "population": "666730"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Montserrat"
+        },
+        "ids": {
+            "iso_3611": [
+                "MS",
+                "MSR"
+            ],
+            "geonames": "3578097"
+        },
+        "area": "102",
+        "currency": "XCD",
+        "phone": "1664",
+        "continent": "NA",
+        "population": "9341"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Morocco"
+        },
+        "ids": {
+            "iso_3611": [
+                "MA",
+                "MAR"
+            ],
+            "geonames": "2542007"
+        },
+        "area": "446550",
+        "currency": "MAD",
+        "phone": "212",
+        "continent": "AF",
+        "population": "31627428"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Mozambique"
+        },
+        "ids": {
+            "iso_3611": [
+                "MZ",
+                "MOZ"
+            ],
+            "geonames": "1036973"
+        },
+        "area": "801590",
+        "currency": "MZN",
+        "phone": "258",
+        "continent": "AF",
+        "population": "22061451"
+    },
+    {
+        "languages": [
+            "my"
+        ],
+        "names": {
+            "long": "Myanmar"
+        },
+        "ids": {
+            "iso_3611": [
+                "MM",
+                "MMR"
+            ],
+            "geonames": "1327865"
+        },
+        "area": "678500",
+        "currency": "MMK",
+        "phone": "95",
+        "continent": "AS",
+        "population": "53414374"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Namibia"
+        },
+        "ids": {
+            "iso_3611": [
+                "NA",
+                "NAM"
+            ],
+            "geonames": "3355338"
+        },
+        "area": "825418",
+        "currency": "NAD",
+        "phone": "264",
+        "continent": "AF",
+        "population": "2128471"
+    },
+    {
+        "languages": [
+            "na"
+        ],
+        "names": {
+            "long": "Nauru"
+        },
+        "ids": {
+            "iso_3611": [
+                "NR",
+                "NRU"
+            ],
+            "geonames": "2110425"
+        },
+        "area": "21",
+        "currency": "AUD",
+        "phone": "674",
+        "continent": "OC",
+        "population": "10065"
+    },
+    {
+        "languages": [
+            "ne"
+        ],
+        "names": {
+            "long": "Nepal"
+        },
+        "ids": {
+            "iso_3611": [
+                "NP",
+                "NPL"
+            ],
+            "geonames": "1282988"
+        },
+        "area": "140800",
+        "currency": "NPR",
+        "phone": "977",
+        "continent": "AS",
+        "population": "28951852"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Netherlands"
+        },
+        "ids": {
+            "iso_3611": [
+                "NL",
+                "NLD"
+            ],
+            "geonames": "2750405"
+        },
+        "area": "41526",
+        "currency": "EUR",
+        "phone": "31",
+        "continent": "EU",
+        "population": "16645000"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "New Caledonia"
+        },
+        "ids": {
+            "iso_3611": [
+                "NC",
+                "NCL"
+            ],
+            "geonames": "2139685"
+        },
+        "area": "19060",
+        "currency": "XPF",
+        "phone": "687",
+        "continent": "OC",
+        "population": "216494"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "New Zealand"
+        },
+        "ids": {
+            "iso_3611": [
+                "NZ",
+                "NZL"
+            ],
+            "geonames": "2186224"
+        },
+        "area": "268680",
+        "currency": "NZD",
+        "phone": "64",
+        "continent": "OC",
+        "population": "4252277"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Nicaragua"
+        },
+        "ids": {
+            "iso_3611": [
+                "NI",
+                "NIC"
+            ],
+            "geonames": "3617476"
+        },
+        "area": "129494",
+        "currency": "NIO",
+        "phone": "505",
+        "continent": "NA",
+        "population": "5995928"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Niger"
+        },
+        "ids": {
+            "iso_3611": [
+                "NE",
+                "NER"
+            ],
+            "geonames": "2440476"
+        },
+        "area": "1267000",
+        "currency": "XOF",
+        "phone": "227",
+        "continent": "AF",
+        "population": "15878271"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Nigeria"
+        },
+        "ids": {
+            "iso_3611": [
+                "NG",
+                "NGA"
+            ],
+            "geonames": "2328926"
+        },
+        "area": "923768",
+        "currency": "NGN",
+        "phone": "234",
+        "continent": "AF",
+        "population": "154000000"
+    },
+    {
+        "languages": [
+            "ni"
+        ],
+        "names": {
+            "long": "Niue"
+        },
+        "ids": {
+            "iso_3611": [
+                "NU",
+                "NIU"
+            ],
+            "geonames": "4036232"
+        },
+        "area": "260",
+        "currency": "NZD",
+        "phone": "683",
+        "continent": "OC",
+        "population": "2166"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Norfolk Island"
+        },
+        "ids": {
+            "iso_3611": [
+                "NF",
+                "NFK"
+            ],
+            "geonames": "2155115"
+        },
+        "area": "34.6",
+        "currency": "AUD",
+        "phone": "672",
+        "continent": "OC",
+        "population": "1828"
+    },
+    {
+        "languages": [
+            "fi"
+        ],
+        "names": {
+            "long": "Northern Mariana Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "MP",
+                "MNP"
+            ],
+            "geonames": "4041468"
+        },
+        "area": "477",
+        "currency": "USD",
+        "phone": "1670",
+        "continent": "OC",
+        "population": "53883"
+    },
+    {
+        "languages": [
+            "no"
+        ],
+        "names": {
+            "long": "Norway"
+        },
+        "ids": {
+            "iso_3611": [
+                "NO",
+                "NOR"
+            ],
+            "geonames": "3144096"
+        },
+        "area": "324220",
+        "currency": "NOK",
+        "phone": "47",
+        "continent": "EU",
+        "population": "5009150"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Oman"
+        },
+        "ids": {
+            "iso_3611": [
+                "OM",
+                "OMN"
+            ],
+            "geonames": "286963"
+        },
+        "area": "212460",
+        "currency": "OMR",
+        "phone": "968",
+        "continent": "AS",
+        "population": "2967717"
+    },
+    {
+        "languages": [
+            "ur"
+        ],
+        "names": {
+            "long": "Pakistan"
+        },
+        "ids": {
+            "iso_3611": [
+                "PK",
+                "PAK"
+            ],
+            "geonames": "1168579"
+        },
+        "area": "803940",
+        "currency": "PKR",
+        "phone": "92",
+        "continent": "AS",
+        "population": "184404791"
+    },
+    {
+        "languages": [
+            "pa"
+        ],
+        "names": {
+            "long": "Palau"
+        },
+        "ids": {
+            "iso_3611": [
+                "PW",
+                "PLW"
+            ],
+            "geonames": "1559582"
+        },
+        "area": "458",
+        "currency": "USD",
+        "phone": "680",
+        "continent": "OC",
+        "population": "19907"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "State of Palestine"
+        },
+        "ids": {
+            "iso_3611": [
+                "PS",
+                "PSE"
+            ],
+            "geonames": "6254930"
+        },
+        "area": "5970",
+        "currency": "ILS",
+        "phone": "970",
+        "continent": "AS",
+        "population": "3800000"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Panama"
+        },
+        "ids": {
+            "iso_3611": [
+                "PA",
+                "PAN"
+            ],
+            "geonames": "3703430"
+        },
+        "area": "78200",
+        "currency": "PAB",
+        "phone": "507",
+        "continent": "NA",
+        "population": "3410676"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Papua New Guinea"
+        },
+        "ids": {
+            "iso_3611": [
+                "PG",
+                "PNG"
+            ],
+            "geonames": "2088628"
+        },
+        "area": "462840",
+        "currency": "PGK",
+        "phone": "675",
+        "continent": "OC",
+        "population": "6064515"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Paraguay"
+        },
+        "ids": {
+            "iso_3611": [
+                "PY",
+                "PRY"
+            ],
+            "geonames": "3437598"
+        },
+        "area": "406750",
+        "currency": "PYG",
+        "phone": "595",
+        "continent": "SA",
+        "population": "6375830"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Peru"
+        },
+        "ids": {
+            "iso_3611": [
+                "PE",
+                "PER"
+            ],
+            "geonames": "3932488"
+        },
+        "area": "1285220",
+        "currency": "PEN",
+        "phone": "51",
+        "continent": "SA",
+        "population": "29907003"
+    },
+    {
+        "languages": [
+            "tl"
+        ],
+        "names": {
+            "long": "Philippines"
+        },
+        "ids": {
+            "iso_3611": [
+                "PH",
+                "PHL"
+            ],
+            "geonames": "1694008"
+        },
+        "area": "300000",
+        "currency": "PHP",
+        "phone": "63",
+        "continent": "AS",
+        "population": "99900177"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Pitcairn"
+        },
+        "ids": {
+            "iso_3611": [
+                "PN",
+                "PCN"
+            ],
+            "geonames": "4030699"
+        },
+        "area": "47",
+        "currency": "NZD",
+        "phone": "870",
+        "continent": "OC",
+        "population": "46"
+    },
+    {
+        "languages": [
+            "pl"
+        ],
+        "names": {
+            "long": "Poland"
+        },
+        "ids": {
+            "iso_3611": [
+                "PL",
+                "POL"
+            ],
+            "geonames": "798544"
+        },
+        "area": "312685",
+        "currency": "PLN",
+        "phone": "48",
+        "continent": "EU",
+        "population": "38500000"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Portugal"
+        },
+        "ids": {
+            "iso_3611": [
+                "PT",
+                "PRT"
+            ],
+            "geonames": "2264397"
+        },
+        "area": "92391",
+        "currency": "EUR",
+        "phone": "351",
+        "continent": "EU",
+        "population": "10676000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Puerto Rico"
+        },
+        "ids": {
+            "iso_3611": [
+                "PR",
+                "PRI"
+            ],
+            "geonames": "4566966"
+        },
+        "area": "9104",
+        "currency": "USD",
+        "phone": "1787 and 1939",
+        "continent": "NA",
+        "population": "3916632"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Qatar"
+        },
+        "ids": {
+            "iso_3611": [
+                "QA",
+                "QAT"
+            ],
+            "geonames": "289688"
+        },
+        "area": "11437",
+        "currency": "QAR",
+        "phone": "974",
+        "continent": "AS",
+        "population": "840926"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Réunion"
+        },
+        "ids": {
+            "iso_3611": [
+                "RE",
+                "REU"
+            ],
+            "geonames": "935317"
+        },
+        "area": "2517",
+        "currency": "EUR",
+        "phone": "262",
+        "continent": "AF",
+        "population": "776948"
+    },
+    {
+        "languages": [
+            "ro"
+        ],
+        "names": {
+            "long": "Romania"
+        },
+        "ids": {
+            "iso_3611": [
+                "RO",
+                "ROU"
+            ],
+            "geonames": "798549"
+        },
+        "area": "237500",
+        "currency": "RON",
+        "phone": "40",
+        "continent": "EU",
+        "population": "21959278"
+    },
+    {
+        "languages": [
+            "ru"
+        ],
+        "names": {
+            "long": "Russian Federation",
+            "short": "Russia"
+        },
+        "ids": {
+            "iso_3611": [
+                "RU",
+                "RUS"
+            ],
+            "geonames": "2017370"
+        },
+        "area": "17100000",
+        "currency": "RUB",
+        "phone": "7",
+        "continent": "EU",
+        "population": "140702000"
+    },
+    {
+        "languages": [
+            "rw"
+        ],
+        "names": {
+            "long": "Rwanda"
+        },
+        "ids": {
+            "iso_3611": [
+                "RW",
+                "RWA"
+            ],
+            "geonames": "49518"
+        },
+        "area": "26338",
+        "currency": "RWF",
+        "phone": "250",
+        "continent": "AF",
+        "population": "11055976"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Saint Barthélemy"
+        },
+        "ids": {
+            "iso_3611": [
+                "BL",
+                "BLM"
+            ],
+            "geonames": "3578476"
+        },
+        "area": "21",
+        "currency": "EUR",
+        "phone": "590",
+        "continent": "NA",
+        "population": "8450"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Saint Helena, Ascension and Tristan da Cunha"
+        },
+        "ids": {
+            "iso_3611": [
+                "SH",
+                "SHN"
+            ],
+            "geonames": "3370751"
+        },
+        "area": "410",
+        "currency": "SHP",
+        "phone": "290",
+        "continent": "AF",
+        "population": "7460"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Saint Kitts and Nevis"
+        },
+        "ids": {
+            "iso_3611": [
+                "KN",
+                "KNA"
+            ],
+            "geonames": "3575174"
+        },
+        "area": "261",
+        "currency": "XCD",
+        "phone": "1869",
+        "continent": "NA",
+        "population": "51134"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Saint Lucia"
+        },
+        "ids": {
+            "iso_3611": [
+                "LC",
+                "LCA"
+            ],
+            "geonames": "3576468"
+        },
+        "area": "616",
+        "currency": "XCD",
+        "phone": "1758",
+        "continent": "NA",
+        "population": "160922"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Saint Martin"
+        },
+        "ids": {
+            "iso_3611": [
+                "MF",
+                "MAF"
+            ],
+            "geonames": "3578421"
+        },
+        "area": "53",
+        "currency": "EUR",
+        "phone": "590",
+        "continent": "NA",
+        "population": "35925"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Saint Pierre and Miquelon"
+        },
+        "ids": {
+            "iso_3611": [
+                "PM",
+                "SPM"
+            ],
+            "geonames": "3424932"
+        },
+        "area": "242",
+        "currency": "EUR",
+        "phone": "508",
+        "continent": "NA",
+        "population": "7012"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Saint Vincent and the Grenadines"
+        },
+        "ids": {
+            "iso_3611": [
+                "VC",
+                "VCT"
+            ],
+            "geonames": "3577815"
+        },
+        "area": "389",
+        "currency": "XCD",
+        "phone": "1784",
+        "continent": "NA",
+        "population": "104217"
+    },
+    {
+        "languages": [
+            "sm"
+        ],
+        "names": {
+            "long": "Samoa"
+        },
+        "ids": {
+            "iso_3611": [
+                "WS",
+                "WSM"
+            ],
+            "geonames": "4034894"
+        },
+        "area": "2944",
+        "currency": "WST",
+        "phone": "685",
+        "continent": "OC",
+        "population": "192001"
+    },
+    {
+        "languages": [
+            "it"
+        ],
+        "names": {
+            "long": "San Marino"
+        },
+        "ids": {
+            "iso_3611": [
+                "SM",
+                "SMR"
+            ],
+            "geonames": "3168068"
+        },
+        "area": "61.2",
+        "currency": "EUR",
+        "phone": "378",
+        "continent": "EU",
+        "population": "31477"
+    },
+    {
+        "languages": [
+            "pt"
+        ],
+        "names": {
+            "long": "Sao Tome and Principe"
+        },
+        "ids": {
+            "iso_3611": [
+                "ST",
+                "STP"
+            ],
+            "geonames": "2410758"
+        },
+        "area": "1001",
+        "currency": "STD",
+        "phone": "239",
+        "continent": "AF",
+        "population": "175808"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Saudi Arabia"
+        },
+        "ids": {
+            "iso_3611": [
+                "SA",
+                "SAU"
+            ],
+            "geonames": "102358"
+        },
+        "area": "1960582",
+        "currency": "SAR",
+        "phone": "966",
+        "continent": "AS",
+        "population": "25731776"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Senegal"
+        },
+        "ids": {
+            "iso_3611": [
+                "SN",
+                "SEN"
+            ],
+            "geonames": "2245662"
+        },
+        "area": "196190",
+        "currency": "XOF",
+        "phone": "221",
+        "continent": "AF",
+        "population": "12323252"
+    },
+    {
+        "languages": [
+            "sr"
+        ],
+        "names": {
+            "long": "Serbia"
+        },
+        "ids": {
+            "iso_3611": [
+                "RS",
+                "SRB"
+            ],
+            "geonames": "6290252"
+        },
+        "area": "88361",
+        "currency": "RSD",
+        "phone": "381",
+        "continent": "EU",
+        "population": "7344847"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Seychelles"
+        },
+        "ids": {
+            "iso_3611": [
+                "SC",
+                "SYC"
+            ],
+            "geonames": "241170"
+        },
+        "area": "455",
+        "currency": "SCR",
+        "phone": "248",
+        "continent": "AF",
+        "population": "88340"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Sierra Leone"
+        },
+        "ids": {
+            "iso_3611": [
+                "SL",
+                "SLE"
+            ],
+            "geonames": "2403846"
+        },
+        "area": "71740",
+        "currency": "SLL",
+        "phone": "232",
+        "continent": "AF",
+        "population": "5245695"
+    },
+    {
+        "languages": [
+            "cm"
+        ],
+        "names": {
+            "long": "Singapore"
+        },
+        "ids": {
+            "iso_3611": [
+                "SG",
+                "SGP"
+            ],
+            "geonames": "1880251"
+        },
+        "area": "692.7",
+        "currency": "SGD",
+        "phone": "65",
+        "continent": "AS",
+        "population": "4701069"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Sint Maarten (Dutch part)"
+        },
+        "ids": {
+            "iso_3611": [
+                "SX",
+                "SXM"
+            ],
+            "geonames": "7609695"
+        },
+        "area": "21",
+        "currency": "ANG",
+        "phone": "599",
+        "continent": "NA",
+        "population": "37429"
+    },
+    {
+        "languages": [
+            "sk"
+        ],
+        "names": {
+            "long": "Slovakia"
+        },
+        "ids": {
+            "iso_3611": [
+                "SK",
+                "SVK"
+            ],
+            "geonames": "3057568"
+        },
+        "area": "48845",
+        "currency": "EUR",
+        "phone": "421",
+        "continent": "EU",
+        "population": "5455000"
+    },
+    {
+        "languages": [
+            "sl"
+        ],
+        "names": {
+            "long": "Slovenia"
+        },
+        "ids": {
+            "iso_3611": [
+                "SI",
+                "SVN"
+            ],
+            "geonames": "3190538"
+        },
+        "area": "20273",
+        "currency": "EUR",
+        "phone": "386",
+        "continent": "EU",
+        "population": "2007000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Solomon Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "SB",
+                "SLB"
+            ],
+            "geonames": "2103350"
+        },
+        "area": "28450",
+        "currency": "SBD",
+        "phone": "677",
+        "continent": "OC",
+        "population": "559198"
+    },
+    {
+        "languages": [
+            "so"
+        ],
+        "names": {
+            "long": "Somalia"
+        },
+        "ids": {
+            "iso_3611": [
+                "SO",
+                "SOM"
+            ],
+            "geonames": "51537"
+        },
+        "area": "637657",
+        "currency": "SOS",
+        "phone": "252",
+        "continent": "AF",
+        "population": "10112453"
+    },
+    {
+        "languages": [
+            "zu"
+        ],
+        "names": {
+            "long": "South Africa"
+        },
+        "ids": {
+            "iso_3611": [
+                "ZA",
+                "ZAF"
+            ],
+            "geonames": "953987"
+        },
+        "area": "1219912",
+        "currency": "ZAR",
+        "phone": "27",
+        "continent": "AF",
+        "population": "49000000"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "South Georgia and the South Sandwich Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "GS",
+                "SGS"
+            ],
+            "geonames": "3474415"
+        },
+        "area": "3903",
+        "currency": "GBP",
+        "continent": "AN",
+        "population": "30"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "South Sudan"
+        },
+        "ids": {
+            "iso_3611": [
+                "SS",
+                "SSD"
+            ],
+            "geonames": "7909807"
+        },
+        "area": "644329",
+        "currency": "SSP",
+        "phone": "211",
+        "continent": "AF",
+        "population": "8260490"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Spain"
+        },
+        "ids": {
+            "iso_3611": [
+                "ES",
+                "ESP"
+            ],
+            "geonames": "2510769"
+        },
+        "area": "504782",
+        "currency": "EUR",
+        "phone": "34",
+        "continent": "EU",
+        "population": "46505963"
+    },
+    {
+        "languages": [
+            "si"
+        ],
+        "names": {
+            "long": "Sri Lanka"
+        },
+        "ids": {
+            "iso_3611": [
+                "LK",
+                "LKA"
+            ],
+            "geonames": "1227603"
+        },
+        "area": "65610",
+        "currency": "LKR",
+        "phone": "94",
+        "continent": "AS",
+        "population": "21513990"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Sudan"
+        },
+        "ids": {
+            "iso_3611": [
+                "SD",
+                "SDN"
+            ],
+            "geonames": "366755"
+        },
+        "area": "1861484",
+        "currency": "SDG",
+        "phone": "249",
+        "continent": "AF",
+        "population": "35000000"
+    },
+    {
+        "languages": [
+            "nl"
+        ],
+        "names": {
+            "long": "Suriname"
+        },
+        "ids": {
+            "iso_3611": [
+                "SR",
+                "SUR"
+            ],
+            "geonames": "3382998"
+        },
+        "area": "163270",
+        "currency": "SRD",
+        "phone": "597",
+        "continent": "SA",
+        "population": "492829"
+    },
+    {
+        "languages": [
+            "no"
+        ],
+        "names": {
+            "long": "Svalbard and Jan Mayen"
+        },
+        "ids": {
+            "iso_3611": [
+                "SJ",
+                "SJM"
+            ],
+            "geonames": "607072"
+        },
+        "area": "62049",
+        "currency": "NOK",
+        "phone": "47",
+        "continent": "EU",
+        "population": "2550"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Swaziland"
+        },
+        "ids": {
+            "iso_3611": [
+                "SZ",
+                "SWZ"
+            ],
+            "geonames": "934841"
+        },
+        "area": "17363",
+        "currency": "SZL",
+        "phone": "268",
+        "continent": "AF",
+        "population": "1354051"
+    },
+    {
+        "languages": [
+            "sv"
+        ],
+        "names": {
+            "long": "Sweden"
+        },
+        "ids": {
+            "iso_3611": [
+                "SE",
+                "SWE"
+            ],
+            "geonames": "2661886"
+        },
+        "area": "449964",
+        "currency": "SEK",
+        "phone": "46",
+        "continent": "EU",
+        "population": "9828655"
+    },
+    {
+        "languages": [
+            "de"
+        ],
+        "names": {
+            "long": "Switzerland"
+        },
+        "ids": {
+            "iso_3611": [
+                "CH",
+                "CHE"
+            ],
+            "geonames": "2658434"
+        },
+        "area": "41290",
+        "currency": "CHF",
+        "phone": "41",
+        "continent": "EU",
+        "population": "7581000"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Syrian Arab Republic"
+        },
+        "ids": {
+            "iso_3611": [
+                "SY",
+                "SYR"
+            ],
+            "geonames": "163843"
+        },
+        "area": "185180",
+        "currency": "SYP",
+        "phone": "963",
+        "continent": "AS",
+        "population": "22198110"
+    },
+    {
+        "languages": [
+            "zh"
+        ],
+        "names": {
+            "long": "Taiwan"
+        },
+        "ids": {
+            "iso_3611": [
+                "TW",
+                "TWN"
+            ],
+            "geonames": "1668284"
+        },
+        "area": "35980",
+        "currency": "TWD",
+        "phone": "886",
+        "continent": "AS",
+        "population": "22894384"
+    },
+    {
+        "languages": [
+            "tg"
+        ],
+        "names": {
+            "long": "Tajikistan"
+        },
+        "ids": {
+            "iso_3611": [
+                "TJ",
+                "TJK"
+            ],
+            "geonames": "1220409"
+        },
+        "area": "143100",
+        "currency": "TJS",
+        "phone": "992",
+        "continent": "AS",
+        "population": "7487489"
+    },
+    {
+        "languages": [
+            "sw"
+        ],
+        "names": {
+            "long": "United Republic of Tanzania"
+        },
+        "ids": {
+            "iso_3611": [
+                "TZ",
+                "TZA"
+            ],
+            "geonames": "149590"
+        },
+        "area": "945087",
+        "currency": "TZS",
+        "phone": "255",
+        "continent": "AF",
+        "population": "41892895"
+    },
+    {
+        "languages": [
+            "th"
+        ],
+        "names": {
+            "long": "Thailand"
+        },
+        "ids": {
+            "iso_3611": [
+                "TH",
+                "THA"
+            ],
+            "geonames": "1605651"
+        },
+        "area": "514000",
+        "currency": "THB",
+        "phone": "66",
+        "continent": "AS",
+        "population": "67089500"
+    },
+    {
+        "languages": [
+            "te"
+        ],
+        "names": {
+            "long": "Timor-Leste"
+        },
+        "ids": {
+            "iso_3611": [
+                "TL",
+                "TLS"
+            ],
+            "geonames": "1966436"
+        },
+        "area": "15007",
+        "currency": "USD",
+        "phone": "670",
+        "continent": "OC",
+        "population": "1154625"
+    },
+    {
+        "languages": [
+            "fr"
+        ],
+        "names": {
+            "long": "Togo"
+        },
+        "ids": {
+            "iso_3611": [
+                "TG",
+                "TGO"
+            ],
+            "geonames": "2363686"
+        },
+        "area": "56785",
+        "currency": "XOF",
+        "phone": "228",
+        "continent": "AF",
+        "population": "6587239"
+    },
+    {
+        "languages": [
+            "tk"
+        ],
+        "names": {
+            "long": "Tokelau"
+        },
+        "ids": {
+            "iso_3611": [
+                "TK",
+                "TKL"
+            ],
+            "geonames": "4031074"
+        },
+        "area": "10",
+        "currency": "NZD",
+        "phone": "690",
+        "continent": "OC",
+        "population": "1466"
+    },
+    {
+        "languages": [
+            "to"
+        ],
+        "names": {
+            "long": "Tonga"
+        },
+        "ids": {
+            "iso_3611": [
+                "TO",
+                "TON"
+            ],
+            "geonames": "4032283"
+        },
+        "area": "748",
+        "currency": "TOP",
+        "phone": "676",
+        "continent": "OC",
+        "population": "122580"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Trinidad and Tobago"
+        },
+        "ids": {
+            "iso_3611": [
+                "TT",
+                "TTO"
+            ],
+            "geonames": "3573591"
+        },
+        "area": "5128",
+        "currency": "TTD",
+        "phone": "1868",
+        "continent": "NA",
+        "population": "1228691"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Tunisia"
+        },
+        "ids": {
+            "iso_3611": [
+                "TN",
+                "TUN"
+            ],
+            "geonames": "2464461"
+        },
+        "area": "163610",
+        "currency": "TND",
+        "phone": "216",
+        "continent": "AF",
+        "population": "10589025"
+    },
+    {
+        "languages": [
+            "tr"
+        ],
+        "names": {
+            "long": "Turkey"
+        },
+        "ids": {
+            "iso_3611": [
+                "TR",
+                "TUR"
+            ],
+            "geonames": "298795"
+        },
+        "area": "780580",
+        "currency": "TRY",
+        "phone": "90",
+        "continent": "AS",
+        "population": "77804122"
+    },
+    {
+        "languages": [
+            "tk"
+        ],
+        "names": {
+            "long": "Turkmenistan"
+        },
+        "ids": {
+            "iso_3611": [
+                "TM",
+                "TKM"
+            ],
+            "geonames": "1218197"
+        },
+        "area": "488100",
+        "currency": "TMT",
+        "phone": "993",
+        "continent": "AS",
+        "population": "4940916"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Turks and Caicos Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "TC",
+                "TCA"
+            ],
+            "geonames": "3576916"
+        },
+        "area": "430",
+        "currency": "USD",
+        "phone": "1649",
+        "continent": "NA",
+        "population": "20556"
+    },
+    {
+        "languages": [
+            "tv"
+        ],
+        "names": {
+            "long": "Tuvalu"
+        },
+        "ids": {
+            "iso_3611": [
+                "TV",
+                "TUV"
+            ],
+            "geonames": "2110297"
+        },
+        "area": "26",
+        "currency": "AUD",
+        "phone": "688",
+        "continent": "OC",
+        "population": "10472"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Uganda"
+        },
+        "ids": {
+            "iso_3611": [
+                "UG",
+                "UGA"
+            ],
+            "geonames": "226074"
+        },
+        "area": "236040",
+        "currency": "UGX",
+        "phone": "256",
+        "continent": "AF",
+        "population": "33398682"
+    },
+    {
+        "languages": [
+            "uk"
+        ],
+        "names": {
+            "long": "Ukraine"
+        },
+        "ids": {
+            "iso_3611": [
+                "UA",
+                "UKR"
+            ],
+            "geonames": "690791"
+        },
+        "area": "603700",
+        "currency": "UAH",
+        "phone": "380",
+        "continent": "EU",
+        "population": "45415596"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "United Arab Emirates"
+        },
+        "ids": {
+            "iso_3611": [
+                "AE",
+                "ARE"
+            ],
+            "geonames": "290557"
+        },
+        "area": "82880",
+        "currency": "AED",
+        "phone": "971",
+        "continent": "AS",
+        "population": "4975593"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "United Kingdom of Great Britain and Northern Ireland"
+        },
+        "ids": {
+            "iso_3611": [
+                "GB",
+                "GBR"
+            ],
+            "geonames": "2635167"
+        },
+        "area": "244820",
+        "currency": "GBP",
+        "phone": "44",
+        "continent": "EU",
+        "population": "62348447"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "United States of America"
+        },
+        "ids": {
+            "iso_3611": [
+                "US",
+                "USA"
+            ],
+            "geonames": "6252001"
+        },
+        "area": "9629091",
+        "currency": "USD",
+        "phone": "1",
+        "continent": "NA",
+        "population": "310232863"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "United States Minor Outlying Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "UM",
+                "UMI"
+            ],
+            "geonames": "5854968"
+        },
+        "currency": "USD",
+        "phone": "1",
+        "continent": "OC"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Uruguay"
+        },
+        "ids": {
+            "iso_3611": [
+                "UY",
+                "URY"
+            ],
+            "geonames": "3439705"
+        },
+        "area": "176220",
+        "currency": "UYU",
+        "phone": "598",
+        "continent": "SA",
+        "population": "3477000"
+    },
+    {
+        "languages": [
+            "uz"
+        ],
+        "names": {
+            "long": "Uzbekistan"
+        },
+        "ids": {
+            "iso_3611": [
+                "UZ",
+                "UZB"
+            ],
+            "geonames": "1512440"
+        },
+        "area": "447400",
+        "currency": "UZS",
+        "phone": "998",
+        "continent": "AS",
+        "population": "27865738"
+    },
+    {
+        "languages": [
+            "bi"
+        ],
+        "names": {
+            "long": "Vanuatu"
+        },
+        "ids": {
+            "iso_3611": [
+                "VU",
+                "VUT"
+            ],
+            "geonames": "2134431"
+        },
+        "area": "12200",
+        "currency": "VUV",
+        "phone": "678",
+        "continent": "OC",
+        "population": "221552"
+    },
+    {
+        "languages": [
+            "es"
+        ],
+        "names": {
+            "long": "Bolivarian Republic of Venezuela"
+        },
+        "ids": {
+            "iso_3611": [
+                "VE",
+                "VEN"
+            ],
+            "geonames": "3625428"
+        },
+        "area": "912050",
+        "currency": "VEF",
+        "phone": "58",
+        "continent": "SA",
+        "population": "27223228"
+    },
+    {
+        "languages": [
+            "vi"
+        ],
+        "names": {
+            "long": "Vietnam"
+        },
+        "ids": {
+            "iso_3611": [
+                "VN",
+                "VNM"
+            ],
+            "geonames": "1562822"
+        },
+        "area": "329560",
+        "currency": "VND",
+        "phone": "84",
+        "continent": "AS",
+        "population": "89571130"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "British Virgin Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "VG",
+                "VGB"
+            ],
+            "geonames": "3577718"
+        },
+        "area": "153",
+        "currency": "USD",
+        "phone": "1284",
+        "continent": "NA",
+        "population": "21730"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "U.S. Virgin Islands"
+        },
+        "ids": {
+            "iso_3611": [
+                "VI",
+                "VIR"
+            ],
+            "geonames": "4796775"
+        },
+        "area": "352",
+        "currency": "USD",
+        "phone": "1340",
+        "continent": "NA",
+        "population": "108708"
+    },
+    {
+        "languages": [
+            "wl"
+        ],
+        "names": {
+            "long": "Wallis and Futuna"
+        },
+        "ids": {
+            "iso_3611": [
+                "WF",
+                "WLF"
+            ],
+            "geonames": "4034749"
+        },
+        "area": "274",
+        "currency": "XPF",
+        "phone": "681",
+        "continent": "OC",
+        "population": "16025"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Western Sahara"
+        },
+        "ids": {
+            "iso_3611": [
+                "EH",
+                "ESH"
+            ],
+            "geonames": "2461445"
+        },
+        "area": "266000",
+        "currency": "MAD",
+        "phone": "212",
+        "continent": "AF",
+        "population": "273008"
+    },
+    {
+        "languages": [
+            "ar"
+        ],
+        "names": {
+            "long": "Yemen"
+        },
+        "ids": {
+            "iso_3611": [
+                "YE",
+                "YEM"
+            ],
+            "geonames": "69543"
+        },
+        "area": "527970",
+        "currency": "YER",
+        "phone": "967",
+        "continent": "AS",
+        "population": "23495361"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Zambia"
+        },
+        "ids": {
+            "iso_3611": [
+                "ZM",
+                "ZMB"
+            ],
+            "geonames": "895949"
+        },
+        "area": "752614",
+        "currency": "ZMW",
+        "phone": "260",
+        "continent": "AF",
+        "population": "13460305"
+    },
+    {
+        "languages": [
+            "en"
+        ],
+        "names": {
+            "long": "Zimbabwe"
+        },
+        "ids": {
+            "iso_3611": [
+                "ZW",
+                "ZWE"
+            ],
+            "geonames": "878675"
+        },
+        "area": "390580",
+        "currency": "ZWL",
+        "phone": "263",
+        "continent": "AF",
+        "population": "11651858"
     }
-},
-{
-    "iso_3611": [
-        "AX",
-        "ALA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Åland Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AL",
-        "ALB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Albania",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "DZ",
-        "DZA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Algeria",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AS",
-        "ASM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "American Samoa",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AD",
-        "AND"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Andorra",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AO",
-        "AGO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Angola",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AI",
-        "AIA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Anguilla",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AQ",
-        "ATA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Antarctica",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AG",
-        "ATG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Antigua and Barbuda",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AR",
-        "ARG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Argentina",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AM",
-        "ARM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Armenia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AW",
-        "ABW"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Aruba",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AU",
-        "AUS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Australia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AT",
-        "AUT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Austria",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AZ",
-        "AZE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Azerbaijan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BS",
-        "BHS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bahamas",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BH",
-        "BHR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bahrain",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BD",
-        "BGD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bangladesh",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BB",
-        "BRB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Barbados",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BY",
-        "BLR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Belarus",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BE",
-        "BEL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Belgium",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BZ",
-        "BLZ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Belize",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BJ",
-        "BEN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Benin",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BM",
-        "BMU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bermuda",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BT",
-        "BTN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bhutan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BO",
-        "BOL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Plurinational State of Bolivia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BQ",
-        "BES"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bonaire, Sint Eustatius and Saba",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BA",
-        "BIH"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bosnia and Herzegovina",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BW",
-        "BWA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Botswana",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BV",
-        "BVT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bouvet Island",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BR",
-        "BRA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Brazil",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IO",
-        "IOT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "British Indian Ocean Territory",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BN",
-        "BRN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Brunei Darussalam",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BG",
-        "BGR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bulgaria",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BF",
-        "BFA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Burkina Faso",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BI",
-        "BDI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Burundi",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CV",
-        "CPV"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cabo Verde",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KH",
-        "KHM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cambodia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CM",
-        "CMR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cameroon",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CA",
-        "CAN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Canada",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KY",
-        "CYM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cayman Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CF",
-        "CAF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Central African Republic",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TD",
-        "TCD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Chad",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CL",
-        "CHL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Chile",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CN",
-        "CHN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "China",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CX",
-        "CXR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Christmas Island",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CC",
-        "CCK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cocos (Keeling) Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CO",
-        "COL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Colombia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KM",
-        "COM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Comoros",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CG",
-        "COG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Congo Republic",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CD",
-        "COD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Democratic Republic of the Congo",
-        "short": "Congo"
-    }
-},
-{
-    "iso_3611": [
-        "CK",
-        "COK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cook Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CR",
-        "CRI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Costa Rica",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CI",
-        "CIV"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Côte d'Ivoire",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "HR",
-        "HRV"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Croatia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CU",
-        "CUB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cuba",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CW",
-        "CUW"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Curaçao",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CY",
-        "CYP"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Cyprus",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CZ",
-        "CZE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Czech Republic",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "DK",
-        "DNK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Denmark",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "DJ",
-        "DJI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Djibouti",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "DM",
-        "DMA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Dominica",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "DO",
-        "DOM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Dominican Republic",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "EC",
-        "ECU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Ecuador",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "EG",
-        "EGY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Egypt",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SV",
-        "SLV"
-    ],
-    "languages": [],
-    "names": {
-        "long": "El Salvador",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GQ",
-        "GNQ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Equatorial Guinea",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ER",
-        "ERI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Eritrea",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "EE",
-        "EST"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Estonia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ET",
-        "ETH"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Ethiopia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "FK",
-        "FLK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Falkland Islands",
-        "short": "Malvinas"
-    }
-},
-{
-    "iso_3611": [
-        "FO",
-        "FRO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Faroe Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "FJ",
-        "FJI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Fiji",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "FI",
-        "FIN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Finland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "FR",
-        "FRA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "France",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GF",
-        "GUF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "French Guiana",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PF",
-        "PYF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "French Polynesia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TF",
-        "ATF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "French Southern Territories",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GA",
-        "GAB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Gabon",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GM",
-        "GMB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Gambia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GE",
-        "GEO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Georgia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "DE",
-        "DEU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Germany",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GH",
-        "GHA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Ghana",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GI",
-        "GIB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Gibraltar",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GR",
-        "GRC"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Greece",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GL",
-        "GRL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Greenland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GD",
-        "GRD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Grenada",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GP",
-        "GLP"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guadeloupe",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GU",
-        "GUM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guam",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GT",
-        "GTM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guatemala",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GG",
-        "GGY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guernsey",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GN",
-        "GIN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guinea",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GW",
-        "GNB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guinea-Bissau",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GY",
-        "GUY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Guyana",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "HT",
-        "HTI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Haiti",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "HM",
-        "HMD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Heard Island and McDonald Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VA",
-        "VAT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Holy See",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "HN",
-        "HND"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Honduras",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "HK",
-        "HKG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Hong Kong",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "HU",
-        "HUN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Hungary",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IS",
-        "ISL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Iceland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IN",
-        "IND"
-    ],
-    "languages": [],
-    "names": {
-        "long": "India",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ID",
-        "IDN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Indonesia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IR",
-        "IRN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Islamic Republic of Iran",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IQ",
-        "IRQ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Iraq",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IE",
-        "IRL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Ireland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IM",
-        "IMN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Isle of Man",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IL",
-        "ISR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Israel",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "IT",
-        "ITA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Italy",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "JM",
-        "JAM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Jamaica",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "JP",
-        "JPN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Japan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "JE",
-        "JEY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Jersey",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "JO",
-        "JOR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Jordan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KZ",
-        "KAZ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Kazakhstan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KE",
-        "KEN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Kenya",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KI",
-        "KIR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Kiribati",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KP",
-        "PRK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Democratic People's Republic of Korea",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KR",
-        "KOR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Republic of Korea",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KW",
-        "KWT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Kuwait",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KG",
-        "KGZ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Kyrgyzstan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LA",
-        "LAO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Lao People's Democratic Republic",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LV",
-        "LVA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Latvia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LB",
-        "LBN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Lebanon",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LS",
-        "LSO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Lesotho",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LR",
-        "LBR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Liberia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LY",
-        "LBY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Libya",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LI",
-        "LIE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Liechtenstein",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LT",
-        "LTU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Lithuania",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LU",
-        "LUX"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Luxembourg",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MO",
-        "MAC"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Macao",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MK",
-        "MKD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Macedonia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MG",
-        "MDG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Madagascar",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MW",
-        "MWI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Malawi",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MY",
-        "MYS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Malaysia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MV",
-        "MDV"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Maldives",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ML",
-        "MLI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mali",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MT",
-        "MLT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Malta",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MH",
-        "MHL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Marshall Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MQ",
-        "MTQ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Martinique",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MR",
-        "MRT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mauritania",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MU",
-        "MUS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mauritius",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "YT",
-        "MYT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mayotte",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MX",
-        "MEX"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mexico",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "FM",
-        "FSM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Federated States of Micronesia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MD",
-        "MDA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Republic of Moldova",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MC",
-        "MCO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Monaco",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MN",
-        "MNG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mongolia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ME",
-        "MNE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Montenegro",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MS",
-        "MSR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Montserrat",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MA",
-        "MAR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Morocco",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MZ",
-        "MOZ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Mozambique",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MM",
-        "MMR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Myanmar",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NA",
-        "NAM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Namibia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NR",
-        "NRU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Nauru",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NP",
-        "NPL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Nepal",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NL",
-        "NLD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Netherlands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NC",
-        "NCL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "New Caledonia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NZ",
-        "NZL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "New Zealand",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NI",
-        "NIC"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Nicaragua",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NE",
-        "NER"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Niger",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NG",
-        "NGA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Nigeria",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NU",
-        "NIU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Niue",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NF",
-        "NFK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Norfolk Island",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MP",
-        "MNP"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Northern Mariana Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "NO",
-        "NOR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Norway",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "OM",
-        "OMN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Oman",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PK",
-        "PAK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Pakistan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PW",
-        "PLW"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Palau",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PS",
-        "PSE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "State of Palestine",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PA",
-        "PAN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Panama",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PG",
-        "PNG"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Papua New Guinea",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PY",
-        "PRY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Paraguay",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PE",
-        "PER"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Peru",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PH",
-        "PHL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Philippines",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PN",
-        "PCN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Pitcairn",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PL",
-        "POL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Poland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PT",
-        "PRT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Portugal",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PR",
-        "PRI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Puerto Rico",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "QA",
-        "QAT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Qatar",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "RE",
-        "REU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Réunion",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "RO",
-        "ROU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Romania",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "RU",
-        "RUS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Russian Federation",
-        "short": "Russia"
-    }
-},
-{
-    "iso_3611": [
-        "RW",
-        "RWA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Rwanda",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "BL",
-        "BLM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Barth\u00e9lemy",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SH",
-        "SHN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Helena, Ascension and Tristan da Cunha",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "KN",
-        "KNA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Kitts and Nevis",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LC",
-        "LCA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Lucia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "MF",
-        "MAF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Martin",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "PM",
-        "SPM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Pierre and Miquelon",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VC",
-        "VCT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saint Vincent and the Grenadines",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "WS",
-        "WSM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Samoa",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SM",
-        "SMR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "San Marino",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ST",
-        "STP"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Sao Tome and Principe",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SA",
-        "SAU"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Saudi Arabia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SN",
-        "SEN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Senegal",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "RS",
-        "SRB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Serbia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SC",
-        "SYC"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Seychelles",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SL",
-        "SLE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Sierra Leone",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SG",
-        "SGP"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Singapore",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SX",
-        "SXM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Sint Maarten (Dutch part)",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SK",
-        "SVK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Slovakia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SI",
-        "SVN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Slovenia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SB",
-        "SLB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Solomon Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SO",
-        "SOM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Somalia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ZA",
-        "ZAF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "South Africa",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GS",
-        "SGS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "South Georgia and the South Sandwich Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SS",
-        "SSD"
-    ],
-    "languages": [],
-    "names": {
-        "long": "South Sudan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ES",
-        "ESP"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Spain",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "LK",
-        "LKA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Sri Lanka",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SD",
-        "SDN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Sudan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SR",
-        "SUR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Suriname",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SJ",
-        "SJM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Svalbard and Jan Mayen",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SZ",
-        "SWZ"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Swaziland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SE",
-        "SWE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Sweden",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "CH",
-        "CHE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Switzerland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "SY",
-        "SYR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Syrian Arab Republic",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TW",
-        "TWN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Taiwan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TJ",
-        "TJK"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Tajikistan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TZ",
-        "TZA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "United Republic of Tanzania",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TH",
-        "THA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Thailand",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TL",
-        "TLS"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Timor-Leste",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TG",
-        "TGO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Togo",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TK",
-        "TKL"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Tokelau",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TO",
-        "TON"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Tonga",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TT",
-        "TTO"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Trinidad and Tobago",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TN",
-        "TUN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Tunisia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TR",
-        "TUR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Turkey",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TM",
-        "TKM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Turkmenistan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TC",
-        "TCA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Turks and Caicos Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "TV",
-        "TUV"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Tuvalu",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "UG",
-        "UGA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Uganda",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "UA",
-        "UKR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Ukraine",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "AE",
-        "ARE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "United Arab Emirates",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "GB",
-        "GBR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "United Kingdom of Great Britain and Northern Ireland",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "US",
-        "USA"
-    ],
-    "languages": [],
-    "names": {
-        "long": "United States of America",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "UM",
-        "UMI"
-    ],
-    "languages": [],
-    "names": {
-        "long": "United States Minor Outlying Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "UY",
-        "URY"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Uruguay",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "UZ",
-        "UZB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Uzbekistan",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VU",
-        "VUT"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Vanuatu",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VE",
-        "VEN"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Bolivarian Republic of Venezuela",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VN",
-        "VNM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Vietnam",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VG",
-        "VGB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "British Virgin Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "VI",
-        "VIR"
-    ],
-    "languages": [],
-    "names": {
-        "long": "U.S. Virgin Islands",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "WF",
-        "WLF"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Wallis and Futuna",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "EH",
-        "ESH"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Western Sahara",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "YE",
-        "YEM"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Yemen",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ZM",
-        "ZMB"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Zambia",
-        "short": ""
-    }
-},
-{
-    "iso_3611": [
-        "ZW",
-        "ZWE"
-    ],
-    "languages": [],
-    "names": {
-        "long": "Zimbabwe",
-        "short": ""
-    }
-}
 ]
