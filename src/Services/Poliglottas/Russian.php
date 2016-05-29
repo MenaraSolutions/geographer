@@ -32,8 +32,12 @@ class Russian extends Base implements PoliglottaInterface
 
         $this->loadDictionaries($subject);
         $meta = $this->fromCache($subject);
+        $result = $this->extract($meta, $subject->expectsLongNames(), $form);
 
-        $result = $this->{'inflict' . ucfirst($form)}($meta, $subject->expectsLongNames());
+        if (! $result) {
+            $template = $this->inflictDefault($meta, $subject->expectsLongNames());
+            $result = $this->{'inflict' . ucfirst($form)}($template);
+        }
 
         if ($form != 'default' && ! $prepositions) {
             $result = mb_substr($result, mb_strpos($result, ' ') + 1);
@@ -53,117 +57,107 @@ class Russian extends Base implements PoliglottaInterface
     }
 
     /**
-     * @param array $meta
-     * @param $long
+     * @param string $template
      * @return string
      */
-    protected function inflictIn(array $meta, $long)
+    protected function inflictIn($template)
     {
-        $form = $this->extract($meta, $long, 'in');
+        $template = 'в ' . $template;
 
-        if (! $form) {
-            $form = 'в ' . $this->inflictDefault($meta, $long);
+        switch (mb_substr($template, mb_strlen($template) - 1)) {
+            case 'й':
+                $template = mb_substr($template, 0, mb_strlen($template) - 1);
+                $template .= 'е';
 
-            switch (mb_substr($form, mb_strlen($form) - 1)) {
-                case 'й':
-                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
-                    $form .= 'е';
+                break;
 
-                    break;
+            case 'л':
+                $template .= 'е';
 
-                case 'л':
-                    $form .= 'е';
+                break;
 
-                    break;
+            case 'т':
+            case 'к':
+            case 'г':
+            case 'м':
+            case 'з':
+            case 'ш':
+            case 'р':
+            case 'с':
+            case 'д':
+            case 'н':
+                $template .= 'е';
 
-                case 'т':
-                case 'к':
-                case 'г':
-                case 'м':
-                case 'з':
-                case 'ш':
-                case 'р':
-                case 'с':
-                case 'д':
-                case 'н':
-                    $form .= 'е';
+                break;
 
-                    break;
+            case 'я':
+                $template = mb_substr($template, 0, mb_strlen($template) - 1);
+                $template .= 'и';
 
-                case 'я':
-                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
-                    $form .= 'и';
+                break;
 
-                    break;
+            case 'а':
+                $template = mb_substr($template, 0, mb_strlen($template) - 1);
+                $template .= 'е';
 
-                case 'а':
-                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
-                    $form .= 'е';
+                break;
 
-                    break;
-
-                default:
-            }
+            default:
         }
 
-        return $form;
+        return $template;
     }
 
     /**
-     * @param array $meta
-     * @param $long
+     * @param string $template
      * @return string
      */
-    protected function inflictFrom(array $meta, $long)
+    protected function inflictFrom($template)
     {
-        $form = $this->extract($meta, $long, 'from');
+        $template = 'из ' . $template;
 
-        if (! $form) {
-            $form = 'из ' . $this->inflictDefault($meta, $long);
+        switch (mb_substr($template, mb_strlen($template) - 1)) {
+            case 'й':
+                $template = mb_substr($template, 0, mb_strlen($template) - 1);
+                $template .= 'я';
 
-            switch (mb_substr($form, mb_strlen($form) - 1)) {
-                case 'й':
-                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
-                    $form .= 'я';
+                break;
 
-                    break;
+            case 'л':
+                $template .= 'а';
 
-                case 'л':
-                    $form .= 'а';
+                break;
 
-                    break;
+            case 'т':
+            case 'к':
+            case 'г':
+            case 'м':
+            case 'з':
+            case 'ш':
+            case 'р':
+            case 'с':
+            case 'д':
+            case 'н':
+                $template .= 'а';
 
-                case 'т':
-                case 'к':
-                case 'г':
-                case 'м':
-                case 'з':
-                case 'ш':
-                case 'р':
-                case 'с':
-                case 'д':
-                case 'н':
-                    $form .= 'а';
+                break;
 
-                    break;
+            case 'я':
+                $template = mb_substr($template, 0, mb_strlen($template) - 1);
+                $template .= 'и';
 
-                case 'я':
-                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
-                    $form .= 'и';
+                break;
 
-                    break;
+            case 'а':
+                $template = mb_substr($template, 0, mb_strlen($template) - 1);
+                $template .= 'ы';
 
-                case 'а':
-                    $form = mb_substr($form, 0, mb_strlen($form) - 1);
-                    $form .= 'ы';
+                break;
 
-                    break;
-
-                default:
-            }
+            default:
         }
 
-        return $form;
+        return $template;
     }
 
     /**
