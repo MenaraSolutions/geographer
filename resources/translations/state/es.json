@@ -1,0 +1,4748 @@
+[
+    {
+        "code": "3039162",
+        "long": {
+            "default": "Sant Julià de Lòria"
+        }
+    },
+    {
+        "code": "3039676",
+        "long": {
+            "default": "Ordino"
+        }
+    },
+    {
+        "code": "3040131",
+        "long": {
+            "default": "La Massana"
+        }
+    },
+    {
+        "code": "3040684",
+        "long": {
+            "default": "Encamp"
+        }
+    },
+    {
+        "code": "3041203",
+        "long": {
+            "default": "Canillo"
+        }
+    },
+    {
+        "code": "3041566",
+        "long": {
+            "default": "Andorra la Vella"
+        }
+    },
+    {
+        "code": "3338529",
+        "long": {
+            "default": "Escaldes-Engordany"
+        }
+    },
+    {
+        "code": "292224",
+        "long": {
+            "default": "Dubai"
+        }
+    },
+    {
+        "code": "292933",
+        "long": {
+            "default": "Ajman"
+        }
+    },
+    {
+        "code": "292969",
+        "long": {
+            "default": "Abu Dhabi"
+        }
+    },
+    {
+        "code": "1121143",
+        "long": {
+            "default": "Provincia de Zābul"
+        }
+    },
+    {
+        "code": "1131257",
+        "long": {
+            "default": "Provincia de Paktiyā"
+        }
+    },
+    {
+        "code": "1131461",
+        "long": {
+            "default": "Provincia de Urūzgān"
+        }
+    },
+    {
+        "code": "1135690",
+        "long": {
+            "default": "Provincia de Qundūz"
+        }
+    },
+    {
+        "code": "1138957",
+        "long": {
+            "default": "Kabul"
+        }
+    },
+    {
+        "code": "1140025",
+        "long": {
+            "default": "Provincia de Herāt"
+        }
+    },
+    {
+        "code": "1140043",
+        "long": {
+            "default": "Provincia de Helmand"
+        }
+    },
+    {
+        "code": "1142226",
+        "long": {
+            "default": "Provincia de Fāryāb"
+        }
+    },
+    {
+        "code": "1147288",
+        "long": {
+            "default": "Provincia de Balj"
+        }
+    },
+    {
+        "code": "1147707",
+        "long": {
+            "default": "Provincia de Bādgīs"
+        }
+    },
+    {
+        "code": "6957555",
+        "long": {
+            "default": "Provincia de Panjshīr"
+        }
+    },
+    {
+        "code": "3576023",
+        "long": {
+            "default": "St. John's"
+        }
+    },
+    {
+        "code": "3576037",
+        "long": {
+            "default": "Isla Redonda"
+        }
+    },
+    {
+        "code": "616051",
+        "long": {
+            "default": "Ereván"
+        }
+    },
+    {
+        "code": "875996",
+        "long": {
+            "default": "Provincia de Moxico"
+        }
+    },
+    {
+        "code": "2236355",
+        "long": {
+            "default": "Provincia de Zaire"
+        }
+    },
+    {
+        "code": "3348310",
+        "long": {
+            "default": "Provincia de Huambo"
+        }
+    },
+    {
+        "code": "3351660",
+        "long": {
+            "default": "Provincia de Benguela"
+        }
+    },
+    {
+        "code": "3430657",
+        "long": {
+            "default": "Provincia de Misiones"
+        }
+    },
+    {
+        "code": "3433896",
+        "long": {
+            "default": "Provincia de Formosa"
+        }
+    },
+    {
+        "code": "3433955",
+        "long": {
+            "default": "Ciudad Autónoma de Buenos Aires"
+        }
+    },
+    {
+        "code": "3434137",
+        "long": {
+            "default": "Provincia de Entre Ríos"
+        }
+    },
+    {
+        "code": "3435214",
+        "long": {
+            "default": "Provincia de Corrientes"
+        }
+    },
+    {
+        "code": "3435907",
+        "long": {
+            "default": "Provincia de Buenos Aires"
+        }
+    },
+    {
+        "code": "3833578",
+        "long": {
+            "default": "Provincia de Tucumán"
+        }
+    },
+    {
+        "code": "3834450",
+        "long": {
+            "default": "Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+        }
+    },
+    {
+        "code": "3835868",
+        "long": {
+            "default": "Provincia de Santiago del Estero"
+        }
+    },
+    {
+        "code": "3836276",
+        "long": {
+            "default": "Provincia de Santa Fe"
+        }
+    },
+    {
+        "code": "3836350",
+        "long": {
+            "default": "Provincia de Santa Cruz"
+        }
+    },
+    {
+        "code": "3837029",
+        "long": {
+            "default": "Provincia de San Luis"
+        }
+    },
+    {
+        "code": "3837152",
+        "long": {
+            "default": "Provincia de San Juan"
+        }
+    },
+    {
+        "code": "3838231",
+        "long": {
+            "default": "Provincia de Salta"
+        }
+    },
+    {
+        "code": "3838830",
+        "long": {
+            "default": "Provincia de Río Negro"
+        }
+    },
+    {
+        "code": "3843122",
+        "long": {
+            "default": "Provincia del Neuquén"
+        }
+    },
+    {
+        "code": "3844419",
+        "long": {
+            "default": "Provincia de Mendoza"
+        }
+    },
+    {
+        "code": "3848949",
+        "long": {
+            "default": "Provincia de La Rioja"
+        }
+    },
+    {
+        "code": "3849574",
+        "long": {
+            "default": "Provincia de La Pampa"
+        }
+    },
+    {
+        "code": "3853404",
+        "long": {
+            "default": "Provincia de Jujuy"
+        }
+    },
+    {
+        "code": "3860255",
+        "long": {
+            "default": "Provincia de Córdoba"
+        }
+    },
+    {
+        "code": "3861244",
+        "long": {
+            "default": "Provincia del Chubut"
+        }
+    },
+    {
+        "code": "3861887",
+        "long": {
+            "default": "Provincia del Chaco"
+        }
+    },
+    {
+        "code": "3862286",
+        "long": {
+            "default": "Provincia de Catamarca"
+        }
+    },
+    {
+        "code": "2761367",
+        "long": {
+            "default": "Viena"
+        }
+    },
+    {
+        "code": "2762300",
+        "long": {
+            "default": "Vorarlberg"
+        }
+    },
+    {
+        "code": "2764581",
+        "long": {
+            "default": "Estiria"
+        }
+    },
+    {
+        "code": "2769848",
+        "long": {
+            "default": "Alta Austria"
+        }
+    },
+    {
+        "code": "2770542",
+        "long": {
+            "default": "Baja Austria"
+        }
+    },
+    {
+        "code": "2774686",
+        "long": {
+            "default": "Carintia"
+        }
+    },
+    {
+        "code": "2781194",
+        "long": {
+            "default": "Burgenland"
+        }
+    },
+    {
+        "code": "2064513",
+        "long": {
+            "default": "Territorio del Norte"
+        }
+    },
+    {
+        "code": "2177478",
+        "long": {
+            "default": "Territorio de la Capital Australiana"
+        }
+    },
+    {
+        "code": "147435",
+        "long": {
+            "default": "República autónoma de Najicheván"
+        }
+    },
+    {
+        "code": "3229999",
+        "long": {
+            "default": "Federacion de Bosnia-Herzegovina"
+        }
+    },
+    {
+        "code": "3230000",
+        "long": {
+            "default": "República Serbia"
+        }
+    },
+    {
+        "code": "3294903",
+        "long": {
+            "default": "Brcko"
+        }
+    },
+    {
+        "code": "3373551",
+        "long": {
+            "default": "Parroquia de Saint Thomas"
+        }
+    },
+    {
+        "code": "3373553",
+        "long": {
+            "default": "Parroquia de Saint Philip"
+        }
+    },
+    {
+        "code": "3373554",
+        "long": {
+            "default": "Parroquia de Saint Peter"
+        }
+    },
+    {
+        "code": "3373557",
+        "long": {
+            "default": "Parroquia de Saint Michael"
+        }
+    },
+    {
+        "code": "3373565",
+        "long": {
+            "default": "Parroquia de Saint Lucy"
+        }
+    },
+    {
+        "code": "3373568",
+        "long": {
+            "default": "Parroquia de Saint Joseph"
+        }
+    },
+    {
+        "code": "3373569",
+        "long": {
+            "default": "Parroquia de Saint John"
+        }
+    },
+    {
+        "code": "3373570",
+        "long": {
+            "default": "Parroquia de Saint James"
+        }
+    },
+    {
+        "code": "3373572",
+        "long": {
+            "default": "Parroquia de Saint George"
+        }
+    },
+    {
+        "code": "3373988",
+        "long": {
+            "default": "Parroquia de Christ Church"
+        }
+    },
+    {
+        "code": "2800867",
+        "long": {
+            "default": "Bruselas"
+        }
+    },
+    {
+        "code": "3337387",
+        "long": {
+            "default": "Valonia"
+        }
+    },
+    {
+        "code": "3337388",
+        "long": {
+            "default": "Flandes"
+        }
+    },
+    {
+        "code": "6930709",
+        "long": {
+            "default": "Región Este"
+        }
+    },
+    {
+        "code": "727012",
+        "long": {
+            "default": "Provincia de Sofía"
+        }
+    },
+    {
+        "code": "864552",
+        "long": {
+            "default": "Provincia de Gabrovo"
+        }
+    },
+    {
+        "code": "290333",
+        "long": {
+            "default": "Muharraq"
+        }
+    },
+    {
+        "code": "7090974",
+        "long": {
+            "default": "Norte"
+        }
+    },
+    {
+        "code": "3903319",
+        "long": {
+            "default": "Departamento de Tarija"
+        }
+    },
+    {
+        "code": "3904907",
+        "long": {
+            "default": "Departamento de Santa Cruz"
+        }
+    },
+    {
+        "code": "3907580",
+        "long": {
+            "default": "Departamento de Potosí"
+        }
+    },
+    {
+        "code": "3908600",
+        "long": {
+            "default": "Departamento de Pando"
+        }
+    },
+    {
+        "code": "3909233",
+        "long": {
+            "default": "Departamento de Oruro"
+        }
+    },
+    {
+        "code": "3911924",
+        "long": {
+            "default": "Departamento de La Paz"
+        }
+    },
+    {
+        "code": "3919966",
+        "long": {
+            "default": "Departamento de Cochabamba"
+        }
+    },
+    {
+        "code": "3920177",
+        "long": {
+            "default": "Departamento de Chuquisaca"
+        }
+    },
+    {
+        "code": "3923172",
+        "long": {
+            "default": "Departamento del Beni"
+        }
+    },
+    {
+        "code": "7610359",
+        "long": {
+            "default": "San Eustaquio"
+        }
+    },
+    {
+        "code": "3390290",
+        "long": {
+            "default": "Estado de Río Grande del Norte"
+        }
+    },
+    {
+        "code": "3392213",
+        "long": {
+            "default": "Estado de Piauí"
+        }
+    },
+    {
+        "code": "3392268",
+        "long": {
+            "default": "Estado de Pernambuco"
+        }
+    },
+    {
+        "code": "3393098",
+        "long": {
+            "default": "Estado de Paraíba"
+        }
+    },
+    {
+        "code": "3393129",
+        "long": {
+            "default": "Estado de Pará"
+        }
+    },
+    {
+        "code": "3395443",
+        "long": {
+            "default": "Estado de Maranhão"
+        }
+    },
+    {
+        "code": "3402362",
+        "long": {
+            "default": "Estado de Ceará"
+        }
+    },
+    {
+        "code": "3407762",
+        "long": {
+            "default": "Estado de Amapá"
+        }
+    },
+    {
+        "code": "3408096",
+        "long": {
+            "default": "Estado de Alagoas"
+        }
+    },
+    {
+        "code": "3447799",
+        "long": {
+            "default": "Estado de Sergipe"
+        }
+    },
+    {
+        "code": "3448433",
+        "long": {
+            "default": "Estado de São Paulo"
+        }
+    },
+    {
+        "code": "3450387",
+        "long": {
+            "default": "Estado de Santa Catarina"
+        }
+    },
+    {
+        "code": "3451133",
+        "long": {
+            "default": "Estado de Río Grande del Sur"
+        }
+    },
+    {
+        "code": "3451189",
+        "long": {
+            "default": "Estado de Río de Janeiro"
+        }
+    },
+    {
+        "code": "3455077",
+        "long": {
+            "default": "Estado de Paraná"
+        }
+    },
+    {
+        "code": "3457153",
+        "long": {
+            "default": "Estado de Minas Gerais"
+        }
+    },
+    {
+        "code": "3457415",
+        "long": {
+            "default": "Mato Grosso del Sur"
+        }
+    },
+    {
+        "code": "3457419",
+        "long": {
+            "default": "Estado de Mato Grosso"
+        }
+    },
+    {
+        "code": "3462372",
+        "long": {
+            "default": "Estado de Goiás"
+        }
+    },
+    {
+        "code": "3463504",
+        "long": {
+            "default": "Distrito Federal"
+        }
+    },
+    {
+        "code": "3463930",
+        "long": {
+            "default": "Estado de Espírito Santo"
+        }
+    },
+    {
+        "code": "3471168",
+        "long": {
+            "default": "Bahía"
+        }
+    },
+    {
+        "code": "3474575",
+        "long": {
+            "default": "Estado de Tocantins"
+        }
+    },
+    {
+        "code": "3662560",
+        "long": {
+            "default": "Estado de Roraima"
+        }
+    },
+    {
+        "code": "3665361",
+        "long": {
+            "default": "Estado de Amazonas"
+        }
+    },
+    {
+        "code": "3665474",
+        "long": {
+            "default": "Estado de Acre"
+        }
+    },
+    {
+        "code": "3924825",
+        "long": {
+            "default": "Estado de Rondonia"
+        }
+    },
+    {
+        "code": "1337279",
+        "long": {
+            "default": "Distrito de Chukha"
+        }
+    },
+    {
+        "code": "1337280",
+        "long": {
+            "default": "Distrito de Dagana"
+        }
+    },
+    {
+        "code": "1337286",
+        "long": {
+            "default": "Distrito de Paro"
+        }
+    },
+    {
+        "code": "1337290",
+        "long": {
+            "default": "Distrito de Samdrup Jongkhar"
+        }
+    },
+    {
+        "code": "5909050",
+        "long": {
+            "default": "Columbia Británica"
+        }
+    },
+    {
+        "code": "6087430",
+        "long": {
+            "default": "Nuevo Brunswick"
+        }
+    },
+    {
+        "code": "6091530",
+        "long": {
+            "default": "Nueva Escocia"
+        }
+    },
+    {
+        "code": "6113358",
+        "long": {
+            "default": "Isla del Príncipe Eduardo"
+        }
+    },
+    {
+        "code": "6185811",
+        "long": {
+            "default": "Yukón"
+        }
+    },
+    {
+        "code": "6354959",
+        "long": {
+            "default": "New Foundland - Labrador"
+        }
+    },
+    {
+        "code": "2658370",
+        "long": {
+            "default": "Cantón del Tesino"
+        }
+    },
+    {
+        "code": "2659495",
+        "long": {
+            "default": "Cantón de Neuchâtel"
+        }
+    },
+    {
+        "code": "2660207",
+        "long": {
+            "default": "Cantón del Jura"
+        }
+    },
+    {
+        "code": "2660522",
+        "long": {
+            "default": "Cantón de los Grisones"
+        }
+    },
+    {
+        "code": "2660645",
+        "long": {
+            "default": "Cantón de Ginebra"
+        }
+    },
+    {
+        "code": "3868621",
+        "long": {
+            "default": "Región de Valparaíso"
+        }
+    },
+    {
+        "code": "3870116",
+        "long": {
+            "default": "Región de Tarapacá"
+        }
+    },
+    {
+        "code": "3873544",
+        "long": {
+            "default": "Región Metropolitana de Santiago de Chile"
+        }
+    },
+    {
+        "code": "3880306",
+        "long": {
+            "default": "Región del Maule"
+        }
+    },
+    {
+        "code": "3881974",
+        "long": {
+            "default": "Región de Los Lagos"
+        }
+    },
+    {
+        "code": "3883281",
+        "long": {
+            "default": "Región del Libertador General Bernardo O'Higgins"
+        }
+    },
+    {
+        "code": "3893623",
+        "long": {
+            "default": "Región de Coquimbo"
+        }
+    },
+    {
+        "code": "3898380",
+        "long": {
+            "default": "Región del Biobío"
+        }
+    },
+    {
+        "code": "3899191",
+        "long": {
+            "default": "Región de Atacama"
+        }
+    },
+    {
+        "code": "3899463",
+        "long": {
+            "default": "Región de la Araucanía"
+        }
+    },
+    {
+        "code": "3899537",
+        "long": {
+            "default": "Región de Antofagasta"
+        }
+    },
+    {
+        "code": "3900333",
+        "long": {
+            "default": "Región Aysén del General Carlos Ibáñez del Campo"
+        }
+    },
+    {
+        "code": "4036650",
+        "long": {
+            "default": "Región de Magallanes y de la Antártica Chilena"
+        }
+    },
+    {
+        "code": "6693562",
+        "long": {
+            "default": "Región de Arica y Parinacota"
+        }
+    },
+    {
+        "code": "6693563",
+        "long": {
+            "default": "Región de Los Ríos"
+        }
+    },
+    {
+        "code": "1806949",
+        "long": {
+            "default": "Hubei"
+        }
+    },
+    {
+        "code": "1811017",
+        "long": {
+            "default": "Fujian"
+        }
+    },
+    {
+        "code": "3671087",
+        "long": {
+            "default": "Departamento del Quindío"
+        }
+    },
+    {
+        "code": "3685413",
+        "long": {
+            "default": "Cundinamarca"
+        }
+    },
+    {
+        "code": "3688685",
+        "long": {
+            "default": "Bogotá D.C."
+        }
+    },
+    {
+        "code": "3689436",
+        "long": {
+            "default": "Atlántico"
+        }
+    },
+    {
+        "code": "3689982",
+        "long": {
+            "default": "Amazonas"
+        }
+    },
+    {
+        "code": "3564073",
+        "long": {
+            "default": "Provincia de La Habana"
+        }
+    },
+    {
+        "code": "3067695",
+        "long": {
+            "default": "Praga"
+        }
+    },
+    {
+        "code": "3339536",
+        "long": {
+            "default": "Región de Moravia Meridional"
+        }
+    },
+    {
+        "code": "3339537",
+        "long": {
+            "default": "Región de Bohemia Meridional"
+        }
+    },
+    {
+        "code": "3339576",
+        "long": {
+            "default": "Región de Bohemia Central"
+        }
+    },
+    {
+        "code": "2822542",
+        "long": {
+            "default": "Thüringen"
+        }
+    },
+    {
+        "code": "2838632",
+        "long": {
+            "default": "Schleswig-Holstein"
+        }
+    },
+    {
+        "code": "2842565",
+        "long": {
+            "default": "Sajonia-Anhalt"
+        }
+    },
+    {
+        "code": "2842566",
+        "long": {
+            "default": "Sachsen"
+        }
+    },
+    {
+        "code": "2842635",
+        "long": {
+            "default": "Sarre"
+        }
+    },
+    {
+        "code": "2847618",
+        "long": {
+            "default": "Rheinland-Pfalz"
+        }
+    },
+    {
+        "code": "2861876",
+        "long": {
+            "default": "Renania del Norte-Westfalia"
+        }
+    },
+    {
+        "code": "2862926",
+        "long": {
+            "default": "Baja Sajonia"
+        }
+    },
+    {
+        "code": "2872567",
+        "long": {
+            "default": "Mecklenburg-Vorpommern"
+        }
+    },
+    {
+        "code": "2905330",
+        "long": {
+            "default": "Hessen"
+        }
+    },
+    {
+        "code": "2911297",
+        "long": {
+            "default": "Hamburgo"
+        }
+    },
+    {
+        "code": "2944387",
+        "long": {
+            "default": "Bremen"
+        }
+    },
+    {
+        "code": "2945356",
+        "long": {
+            "default": "Brandenburgo"
+        }
+    },
+    {
+        "code": "2950157",
+        "long": {
+            "default": "Berlín"
+        }
+    },
+    {
+        "code": "2951839",
+        "long": {
+            "default": "Baviera"
+        }
+    },
+    {
+        "code": "2953481",
+        "long": {
+            "default": "Baden-Württemberg"
+        }
+    },
+    {
+        "code": "220781",
+        "long": {
+            "default": "Tadjoura"
+        }
+    },
+    {
+        "code": "6418539",
+        "long": {
+            "default": "Jutlandia Central"
+        }
+    },
+    {
+        "code": "6418541",
+        "long": {
+            "default": "Región de Selandia"
+        }
+    },
+    {
+        "code": "6418542",
+        "long": {
+            "default": "Dinamarca Meridional"
+        }
+    },
+    {
+        "code": "3493232",
+        "long": {
+            "default": "Distrito de Samana"
+        }
+    },
+    {
+        "code": "3496024",
+        "long": {
+            "default": "Distrito de Santo Domingo"
+        }
+    },
+    {
+        "code": "2507475",
+        "long": {
+            "default": "Argel"
+        }
+    },
+    {
+        "code": "3650445",
+        "long": {
+            "default": "Provincia de Tungurahua"
+        }
+    },
+    {
+        "code": "3653392",
+        "long": {
+            "default": "Provincia de Pastaza"
+        }
+    },
+    {
+        "code": "3657505",
+        "long": {
+            "default": "Guayas"
+        }
+    },
+    {
+        "code": "3657879",
+        "long": {
+            "default": "Archipiélago de Galápagos"
+        }
+    },
+    {
+        "code": "3659849",
+        "long": {
+            "default": "Provincia de Cañar"
+        }
+    },
+    {
+        "code": "7062138",
+        "long": {
+            "default": "Provincia de Santa Elena"
+        }
+    },
+    {
+        "code": "587448",
+        "long": {
+            "default": "Condado de Võru"
+        }
+    },
+    {
+        "code": "587590",
+        "long": {
+            "default": "Condado de Viljandi"
+        }
+    },
+    {
+        "code": "587875",
+        "long": {
+            "default": "Condado de Valga"
+        }
+    },
+    {
+        "code": "588334",
+        "long": {
+            "default": "Condado de Tartu"
+        }
+    },
+    {
+        "code": "588879",
+        "long": {
+            "default": "Condado de Saare"
+        }
+    },
+    {
+        "code": "589115",
+        "long": {
+            "default": "Condado de Rapla"
+        }
+    },
+    {
+        "code": "589373",
+        "long": {
+            "default": "Condado de Põlva"
+        }
+    },
+    {
+        "code": "589576",
+        "long": {
+            "default": "Condado de Pärnu"
+        }
+    },
+    {
+        "code": "590854",
+        "long": {
+            "default": "Condado de Lääne-Viru"
+        }
+    },
+    {
+        "code": "590856",
+        "long": {
+            "default": "Condado de Lääne"
+        }
+    },
+    {
+        "code": "591901",
+        "long": {
+            "default": "Condado de Jõgeva"
+        }
+    },
+    {
+        "code": "591961",
+        "long": {
+            "default": "Condado de Järva"
+        }
+    },
+    {
+        "code": "592075",
+        "long": {
+            "default": "Condado de Ida-Viru"
+        }
+    },
+    {
+        "code": "592133",
+        "long": {
+            "default": "Condado de Hiiu"
+        }
+    },
+    {
+        "code": "592170",
+        "long": {
+            "default": "Condado de Harju"
+        }
+    },
+    {
+        "code": "361468",
+        "long": {
+            "default": "Mar Rojo"
+        }
+    },
+    {
+        "code": "2513413",
+        "long": {
+            "default": "Región de Murcia"
+        }
+    },
+    {
+        "code": "2519582",
+        "long": {
+            "default": "Ciudad Autónoma de Ceuta"
+        }
+    },
+    {
+        "code": "2521383",
+        "long": {
+            "default": "Comunidad Autónoma de las Islas Baleares"
+        }
+    },
+    {
+        "code": "2593109",
+        "long": {
+            "default": "Comunidad Autónoma de Andalucía"
+        }
+    },
+    {
+        "code": "2593110",
+        "long": {
+            "default": "Comunidad Autónoma de Canarias"
+        }
+    },
+    {
+        "code": "2593111",
+        "long": {
+            "default": "Comunidad Autónoma de Castilla-La Mancha"
+        }
+    },
+    {
+        "code": "2593112",
+        "long": {
+            "default": "Comunidad Autónoma de Extremadura"
+        }
+    },
+    {
+        "code": "2593113",
+        "long": {
+            "default": "Comunidad Valenciana"
+        }
+    },
+    {
+        "code": "3114710",
+        "long": {
+            "default": "Principado de Asturias"
+        }
+    },
+    {
+        "code": "3115609",
+        "long": {
+            "default": "Comunidad Foral de Navarra"
+        }
+    },
+    {
+        "code": "3117732",
+        "long": {
+            "default": "Comunidad Autónoma de Madrid"
+        }
+    },
+    {
+        "code": "3336897",
+        "long": {
+            "default": "Comunidad Autónoma de La Rioja"
+        }
+    },
+    {
+        "code": "3336898",
+        "long": {
+            "default": "Comunidad Autónoma de Cantabria"
+        }
+    },
+    {
+        "code": "3336899",
+        "long": {
+            "default": "Comunidad Autónoma de Aragón"
+        }
+    },
+    {
+        "code": "3336900",
+        "long": {
+            "default": "Comunidad Autónoma de Castilla y León"
+        }
+    },
+    {
+        "code": "3336901",
+        "long": {
+            "default": "Comunidad Autónoma de Cataluña"
+        }
+    },
+    {
+        "code": "3336902",
+        "long": {
+            "default": "Comunidad Autónoma de Galicia"
+        }
+    },
+    {
+        "code": "3336903",
+        "long": {
+            "default": "Comunidad Autónoma del País Vasco"
+        }
+    },
+    {
+        "code": "6362988",
+        "long": {
+            "default": "Ciudad Autónoma de Melilla"
+        }
+    },
+    {
+        "code": "830603",
+        "long": {
+            "default": "Laponia"
+        }
+    },
+    {
+        "code": "830667",
+        "long": {
+            "default": "Ostrobotnia del Norte"
+        }
+    },
+    {
+        "code": "830676",
+        "long": {
+            "default": "Ostrobotnia"
+        }
+    },
+    {
+        "code": "830682",
+        "long": {
+            "default": "Ostrobotnia del Sur"
+        }
+    },
+    {
+        "code": "830708",
+        "long": {
+            "default": "Finlandia Propia"
+        }
+    },
+    {
+        "code": "2194371",
+        "long": {
+            "default": "División Oeste"
+        }
+    },
+    {
+        "code": "2199295",
+        "long": {
+            "default": "División Norte"
+        }
+    },
+    {
+        "code": "2205272",
+        "long": {
+            "default": "División Central"
+        }
+    },
+    {
+        "code": "4036647",
+        "long": {
+            "default": "División Este"
+        }
+    },
+    {
+        "code": "2985244",
+        "long": {
+            "default": "Provenza-Alpes-Costa Azul"
+        }
+    },
+    {
+        "code": "2988289",
+        "long": {
+            "default": "Países del Loira"
+        }
+    },
+    {
+        "code": "3012874",
+        "long": {
+            "default": "Isla de Francia"
+        }
+    },
+    {
+        "code": "3027939",
+        "long": {
+            "default": "Centro"
+        }
+    },
+    {
+        "code": "3030293",
+        "long": {
+            "default": "Bretaña"
+        }
+    },
+    {
+        "code": "2400682",
+        "long": {
+            "default": "Provincia de Estuaire"
+        }
+    },
+    {
+        "code": "2634895",
+        "long": {
+            "default": "Gales"
+        }
+    },
+    {
+        "code": "2638360",
+        "long": {
+            "default": "Escocia"
+        }
+    },
+    {
+        "code": "2641364",
+        "long": {
+            "default": "Irlanda del Norte"
+        }
+    },
+    {
+        "code": "6269131",
+        "long": {
+            "default": "Inglaterra"
+        }
+    },
+    {
+        "code": "865536",
+        "long": {
+            "default": "Región de Kvemo Kartli"
+        }
+    },
+    {
+        "code": "865537",
+        "long": {
+            "default": "Región de Kajetia"
+        }
+    },
+    {
+        "code": "865539",
+        "long": {
+            "default": "Región de Imericia"
+        }
+    },
+    {
+        "code": "865540",
+        "long": {
+            "default": "Región de Shida Kartli"
+        }
+    },
+    {
+        "code": "865541",
+        "long": {
+            "default": "Región de Mtsjeta-Mtianeti"
+        }
+    },
+    {
+        "code": "865544",
+        "long": {
+            "default": "Región de Samtsje-Yavajeti"
+        }
+    },
+    {
+        "code": "6643410",
+        "long": {
+            "default": "Abjasia"
+        }
+    },
+    {
+        "code": "6690605",
+        "long": {
+            "default": "Guayana Francesa"
+        }
+    },
+    {
+        "code": "2302547",
+        "long": {
+            "default": "Brong-Ahafo"
+        }
+    },
+    {
+        "code": "6690363",
+        "long": {
+            "default": "Guadalupe"
+        }
+    },
+    {
+        "code": "6697802",
+        "long": {
+            "default": "Creta"
+        }
+    },
+    {
+        "code": "3588668",
+        "long": {
+            "default": "Suchitepéquez"
+        }
+    },
+    {
+        "code": "2368955",
+        "long": {
+            "default": "Región de Tombali"
+        }
+    },
+    {
+        "code": "2370360",
+        "long": {
+            "default": "Región de Quinara"
+        }
+    },
+    {
+        "code": "2374689",
+        "long": {
+            "default": "Región de Bolama"
+        }
+    },
+    {
+        "code": "2374820",
+        "long": {
+            "default": "Región de Biombo"
+        }
+    },
+    {
+        "code": "3608814",
+        "long": {
+            "default": "Islas de la Bahía"
+        }
+    },
+    {
+        "code": "3337512",
+        "long": {
+            "default": "Brod-Posavina"
+        }
+    },
+    {
+        "code": "3337513",
+        "long": {
+            "default": "Dubrovnik - Neretva"
+        }
+    },
+    {
+        "code": "3337514",
+        "long": {
+            "default": "Istria"
+        }
+    },
+    {
+        "code": "3337519",
+        "long": {
+            "default": "Krapina-Zagorje"
+        }
+    },
+    {
+        "code": "3337522",
+        "long": {
+            "default": "Osijek-Baranja"
+        }
+    },
+    {
+        "code": "3337523",
+        "long": {
+            "default": "Pozega-Eslavonia"
+        }
+    },
+    {
+        "code": "3337524",
+        "long": {
+            "default": "Primorje - Gorski Kotar"
+        }
+    },
+    {
+        "code": "3337525",
+        "long": {
+            "default": "Sibenik-Knin"
+        }
+    },
+    {
+        "code": "3337526",
+        "long": {
+            "default": "Sisak-Moslavina"
+        }
+    },
+    {
+        "code": "3337527",
+        "long": {
+            "default": "Split-Dalmatia"
+        }
+    },
+    {
+        "code": "3337529",
+        "long": {
+            "default": "Vukovar-Srijem"
+        }
+    },
+    {
+        "code": "3042613",
+        "long": {
+            "default": "Zala"
+        }
+    },
+    {
+        "code": "3055744",
+        "long": {
+            "default": "Bács-Kiskun"
+        }
+    },
+    {
+        "code": "1213642",
+        "long": {
+            "default": "Sumatra Septentrional"
+        }
+    },
+    {
+        "code": "1626196",
+        "long": {
+            "default": "Sumatra Meridional"
+        }
+    },
+    {
+        "code": "1626229",
+        "long": {
+            "default": "Célebes Septentrional"
+        }
+    },
+    {
+        "code": "1626231",
+        "long": {
+            "default": "Célebes Central"
+        }
+    },
+    {
+        "code": "1642668",
+        "long": {
+            "default": "Java Oriental"
+        }
+    },
+    {
+        "code": "1642672",
+        "long": {
+            "default": "Java Occidental"
+        }
+    },
+    {
+        "code": "1923045",
+        "long": {
+            "default": "Bantén"
+        }
+    },
+    {
+        "code": "7521316",
+        "long": {
+            "default": "Úlster"
+        }
+    },
+    {
+        "code": "294800",
+        "long": {
+            "default": "Distrito de Haifa"
+        }
+    },
+    {
+        "code": "1252881",
+        "long": {
+            "default": "Bengala Occidental"
+        }
+    },
+    {
+        "code": "1258899",
+        "long": {
+            "default": "Rajastán"
+        }
+    },
+    {
+        "code": "1259223",
+        "long": {
+            "default": "Punyab"
+        }
+    },
+    {
+        "code": "1262963",
+        "long": {
+            "default": "Mizorán"
+        }
+    },
+    {
+        "code": "1263207",
+        "long": {
+            "default": "Megalaya"
+        }
+    },
+    {
+        "code": "1264418",
+        "long": {
+            "default": "Maharastra"
+        }
+    },
+    {
+        "code": "1271155",
+        "long": {
+            "default": "Damán y Diu"
+        }
+    },
+    {
+        "code": "1271157",
+        "long": {
+            "default": "Goa"
+        }
+    },
+    {
+        "code": "1273726",
+        "long": {
+            "default": "Dadra y Nagar Haveli"
+        }
+    },
+    {
+        "code": "1278647",
+        "long": {
+            "default": "Islas Andamán y Nicobar"
+        }
+    },
+    {
+        "code": "111452",
+        "long": {
+            "default": "Provincia de Zanyán"
+        }
+    },
+    {
+        "code": "116401",
+        "long": {
+            "default": "Provincia de Semnan"
+        }
+    },
+    {
+        "code": "124544",
+        "long": {
+            "default": "Mazandarán"
+        }
+    },
+    {
+        "code": "124763",
+        "long": {
+            "default": "Markazí"
+        }
+    },
+    {
+        "code": "125605",
+        "long": {
+            "default": "Lorestán"
+        }
+    },
+    {
+        "code": "127082",
+        "long": {
+            "default": "Khuzestán"
+        }
+    },
+    {
+        "code": "131222",
+        "long": {
+            "default": "Hormozgan"
+        }
+    },
+    {
+        "code": "134766",
+        "long": {
+            "default": "Fars"
+        }
+    },
+    {
+        "code": "139816",
+        "long": {
+            "default": "Bushehr"
+        }
+    },
+    {
+        "code": "3337403",
+        "long": {
+            "default": "Noroccidental"
+        }
+    },
+    {
+        "code": "3337404",
+        "long": {
+            "default": "Nororiental"
+        }
+    },
+    {
+        "code": "3337405",
+        "long": {
+            "default": "Oriental"
+        }
+    },
+    {
+        "code": "3337406",
+        "long": {
+            "default": "Meridional"
+        }
+    },
+    {
+        "code": "3426182",
+        "long": {
+            "default": "Región de la capital"
+        }
+    },
+    {
+        "code": "3426183",
+        "long": {
+            "default": "Suroccidental"
+        }
+    },
+    {
+        "code": "3426184",
+        "long": {
+            "default": "Occidental"
+        }
+    },
+    {
+        "code": "3426185",
+        "long": {
+            "default": "Fiordos occidentales"
+        }
+    },
+    {
+        "code": "2523119",
+        "long": {
+            "default": "Región de Sicilia"
+        }
+    },
+    {
+        "code": "2523228",
+        "long": {
+            "default": "Región de Cerdeña"
+        }
+    },
+    {
+        "code": "2525468",
+        "long": {
+            "default": "Región de Calabria"
+        }
+    },
+    {
+        "code": "3164604",
+        "long": {
+            "default": "Región de Véneto"
+        }
+    },
+    {
+        "code": "3164857",
+        "long": {
+            "default": "Región del Valle de Aosta"
+        }
+    },
+    {
+        "code": "3165048",
+        "long": {
+            "default": "Región de Umbría"
+        }
+    },
+    {
+        "code": "3165244",
+        "long": {
+            "default": "Región de Trentino-Alto Adigio"
+        }
+    },
+    {
+        "code": "3165361",
+        "long": {
+            "default": "Región de Toscana"
+        }
+    },
+    {
+        "code": "3169778",
+        "long": {
+            "default": "Región de Apulia"
+        }
+    },
+    {
+        "code": "3170831",
+        "long": {
+            "default": "Región de Piamonte"
+        }
+    },
+    {
+        "code": "3173222",
+        "long": {
+            "default": "Región de Molise"
+        }
+    },
+    {
+        "code": "3174004",
+        "long": {
+            "default": "Región de Las Marcas"
+        }
+    },
+    {
+        "code": "3174618",
+        "long": {
+            "default": "Región de Lombardía"
+        }
+    },
+    {
+        "code": "3174725",
+        "long": {
+            "default": "Región de Liguria"
+        }
+    },
+    {
+        "code": "3174976",
+        "long": {
+            "default": "Región de Lacio"
+        }
+    },
+    {
+        "code": "3176525",
+        "long": {
+            "default": "Región de Friuli-Venecia Julia"
+        }
+    },
+    {
+        "code": "3177401",
+        "long": {
+            "default": "Región de Emilia-Romaña"
+        }
+    },
+    {
+        "code": "3181042",
+        "long": {
+            "default": "Región de Campania"
+        }
+    },
+    {
+        "code": "3182306",
+        "long": {
+            "default": "Región de Basilicata"
+        }
+    },
+    {
+        "code": "3183560",
+        "long": {
+            "default": "Región de Los Abruzos"
+        }
+    },
+    {
+        "code": "3489853",
+        "long": {
+            "default": "Parroquia de Kingston"
+        }
+    },
+    {
+        "code": "248944",
+        "long": {
+            "default": "Gobernación de Irbid"
+        }
+    },
+    {
+        "code": "1848649",
+        "long": {
+            "default": "Prefectura de Yamanashi"
+        }
+    },
+    {
+        "code": "1848681",
+        "long": {
+            "default": "Prefectura de Yamaguchi"
+        }
+    },
+    {
+        "code": "1848938",
+        "long": {
+            "default": "Prefectura de Wakayama"
+        }
+    },
+    {
+        "code": "1849890",
+        "long": {
+            "default": "Prefectura de Tottori"
+        }
+    },
+    {
+        "code": "1850310",
+        "long": {
+            "default": "Prefectura de Tochigi"
+        }
+    },
+    {
+        "code": "1851715",
+        "long": {
+            "default": "Prefectura de Shizuoka"
+        }
+    },
+    {
+        "code": "1852442",
+        "long": {
+            "default": "Prefectura de Shimane"
+        }
+    },
+    {
+        "code": "1852553",
+        "long": {
+            "default": "Prefectura de Shiga"
+        }
+    },
+    {
+        "code": "1854345",
+        "long": {
+            "default": "Prefectura de Okinawa"
+        }
+    },
+    {
+        "code": "1854381",
+        "long": {
+            "default": "Prefectura de Okayama"
+        }
+    },
+    {
+        "code": "1855429",
+        "long": {
+            "default": "Prefectura de Niigata"
+        }
+    },
+    {
+        "code": "1856210",
+        "long": {
+            "default": "Prefectura de Nagano"
+        }
+    },
+    {
+        "code": "1856710",
+        "long": {
+            "default": "Prefectura de Miyazaki"
+        }
+    },
+    {
+        "code": "1858419",
+        "long": {
+            "default": "Prefectura de Kumamoto"
+        }
+    },
+    {
+        "code": "1860291",
+        "long": {
+            "default": "Prefectura de Kanagawa"
+        }
+    },
+    {
+        "code": "1860834",
+        "long": {
+            "default": "Prefectura de Kagawa"
+        }
+    },
+    {
+        "code": "1862047",
+        "long": {
+            "default": "Prefectura de Hyōgo"
+        }
+    },
+    {
+        "code": "1863501",
+        "long": {
+            "default": "Prefectura de Gunma"
+        }
+    },
+    {
+        "code": "1863640",
+        "long": {
+            "default": "Prefectura de Gifu"
+        }
+    },
+    {
+        "code": "1863958",
+        "long": {
+            "default": "Prefectura de Fukuoka"
+        }
+    },
+    {
+        "code": "1863983",
+        "long": {
+            "default": "Prefectura de Fukui"
+        }
+    },
+    {
+        "code": "2110554",
+        "long": {
+            "default": "Prefectura de Yamagata"
+        }
+    },
+    {
+        "code": "2111888",
+        "long": {
+            "default": "Prefectura de Miyagi"
+        }
+    },
+    {
+        "code": "2112518",
+        "long": {
+            "default": "Prefectura de Iwate"
+        }
+    },
+    {
+        "code": "2112669",
+        "long": {
+            "default": "Prefectura de Ibaraki"
+        }
+    },
+    {
+        "code": "2112922",
+        "long": {
+            "default": "Prefectura de Fukushima"
+        }
+    },
+    {
+        "code": "2113124",
+        "long": {
+            "default": "Prefectura de Akita"
+        }
+    },
+    {
+        "code": "2130656",
+        "long": {
+            "default": "Prefectura de Aomori"
+        }
+    },
+    {
+        "code": "1821301",
+        "long": {
+            "default": "Provincia de Pursat"
+        }
+    },
+    {
+        "code": "1821310",
+        "long": {
+            "default": "Provincia de Battambang"
+        }
+    },
+    {
+        "code": "1821992",
+        "long": {
+            "default": "Provincia de Svay Rieng"
+        }
+    },
+    {
+        "code": "1822449",
+        "long": {
+            "default": "Provincia de Ratanak Kirí"
+        }
+    },
+    {
+        "code": "1822676",
+        "long": {
+            "default": "Provincia de Preah Wijía"
+        }
+    },
+    {
+        "code": "1830937",
+        "long": {
+            "default": "Provincia de Kep"
+        }
+    },
+    {
+        "code": "1831037",
+        "long": {
+            "default": "Provincia de Koh Kong"
+        }
+    },
+    {
+        "code": "1831095",
+        "long": {
+            "default": "Provincia de Kandal"
+        }
+    },
+    {
+        "code": "1831111",
+        "long": {
+            "default": "Provincia de Kompot"
+        }
+    },
+    {
+        "code": "1831166",
+        "long": {
+            "default": "Provincia de Kompung Chinang"
+        }
+    },
+    {
+        "code": "1831172",
+        "long": {
+            "default": "Provincia de Kompung Cham"
+        }
+    },
+    {
+        "code": "1899262",
+        "long": {
+            "default": "Ciudad de Sihanoukville"
+        }
+    },
+    {
+        "code": "1899273",
+        "long": {
+            "default": "Provincia de Banteay Mean Chey"
+        }
+    },
+    {
+        "code": "921882",
+        "long": {
+            "default": "Gran Comora"
+        }
+    },
+    {
+        "code": "273607",
+        "long": {
+            "default": "Monte Libano"
+        }
+    },
+    {
+        "code": "279894",
+        "long": {
+            "default": "Líbano-Sur"
+        }
+    },
+    {
+        "code": "1232860",
+        "long": {
+            "default": "Provincia Noroeste"
+        }
+    },
+    {
+        "code": "1249296",
+        "long": {
+            "default": "Provincia Central"
+        }
+    },
+    {
+        "code": "7671049",
+        "long": {
+            "default": "Provincia Norte"
+        }
+    },
+    {
+        "code": "932011",
+        "long": {
+            "default": "Distrito de Thaba-Tseka"
+        }
+    },
+    {
+        "code": "932184",
+        "long": {
+            "default": "Distrito de Quthing"
+        }
+    },
+    {
+        "code": "932418",
+        "long": {
+            "default": "Distrito de Mokhotlong"
+        }
+    },
+    {
+        "code": "932506",
+        "long": {
+            "default": "Distrito de Maseru"
+        }
+    },
+    {
+        "code": "932700",
+        "long": {
+            "default": "Distrito de Leribe"
+        }
+    },
+    {
+        "code": "932888",
+        "long": {
+            "default": "Distrito de Butha-Buthe"
+        }
+    },
+    {
+        "code": "932932",
+        "long": {
+            "default": "Distrito de Berea"
+        }
+    },
+    {
+        "code": "454311",
+        "long": {
+            "default": "Ventspils"
+        }
+    },
+    {
+        "code": "459282",
+        "long": {
+            "default": "Municipio de Jēkabpils"
+        }
+    },
+    {
+        "code": "460410",
+        "long": {
+            "default": "Municipio de Daugavpils"
+        }
+    },
+    {
+        "code": "7628355",
+        "long": {
+            "default": "Municipio de Krustpils"
+        }
+    },
+    {
+        "code": "2210245",
+        "long": {
+            "default": "Tarabulus"
+        }
+    },
+    {
+        "code": "2542995",
+        "long": {
+            "default": "Marrakech"
+        }
+    },
+    {
+        "code": "2553603",
+        "long": {
+            "default": "Casablanca"
+        }
+    },
+    {
+        "code": "3319178",
+        "long": {
+            "default": "Comuna de Mónaco"
+        }
+    },
+    {
+        "code": "617181",
+        "long": {
+            "default": "Distrito de Ungheni"
+        }
+    },
+    {
+        "code": "617255",
+        "long": {
+            "default": "Distrito de Telenești"
+        }
+    },
+    {
+        "code": "617264",
+        "long": {
+            "default": "Distrito de Taraclia"
+        }
+    },
+    {
+        "code": "617301",
+        "long": {
+            "default": "Distrito de Strășeni"
+        }
+    },
+    {
+        "code": "617483",
+        "long": {
+            "default": "Distrito de Rîșcani"
+        }
+    },
+    {
+        "code": "617501",
+        "long": {
+            "default": "Distrito de Rezina"
+        }
+    },
+    {
+        "code": "617639",
+        "long": {
+            "default": "Distrito de Orhei"
+        }
+    },
+    {
+        "code": "617715",
+        "long": {
+            "default": "Distrito de Anenii Noi"
+        }
+    },
+    {
+        "code": "617754",
+        "long": {
+            "default": "Distrito de Nisporeni"
+        }
+    },
+    {
+        "code": "617903",
+        "long": {
+            "default": "Distrito de Leova"
+        }
+    },
+    {
+        "code": "617913",
+        "long": {
+            "default": "Distrito de Sîngerei"
+        }
+    },
+    {
+        "code": "617962",
+        "long": {
+            "default": "Distrito de Criuleni"
+        }
+    },
+    {
+        "code": "618142",
+        "long": {
+            "default": "Distrito de Cantemir"
+        }
+    },
+    {
+        "code": "618260",
+        "long": {
+            "default": "Distrito de Glodeni"
+        }
+    },
+    {
+        "code": "618511",
+        "long": {
+            "default": "Distrito de Briceni"
+        }
+    },
+    {
+        "code": "618565",
+        "long": {
+            "default": "Distrito de Basarabeasca"
+        }
+    },
+    {
+        "code": "858808",
+        "long": {
+            "default": "Distrito de Șoldănești"
+        }
+    },
+    {
+        "code": "784732",
+        "long": {
+            "default": "Municipio de Valandovo"
+        }
+    },
+    {
+        "code": "786339",
+        "long": {
+            "default": "Municipio de Resen"
+        }
+    },
+    {
+        "code": "862946",
+        "long": {
+            "default": "Municipio de Bosilovo"
+        }
+    },
+    {
+        "code": "862950",
+        "long": {
+            "default": "Municipalidad de Bogdanci"
+        }
+    },
+    {
+        "code": "862956",
+        "long": {
+            "default": "Municipio de Makedonska Kamenica"
+        }
+    },
+    {
+        "code": "862958",
+        "long": {
+            "default": "Municipio de Zrnovci"
+        }
+    },
+    {
+        "code": "862960",
+        "long": {
+            "default": "Municipio de Karbinci"
+        }
+    },
+    {
+        "code": "862973",
+        "long": {
+            "default": "Municipio de Rosoman"
+        }
+    },
+    {
+        "code": "862974",
+        "long": {
+            "default": "Municipio de Gradsko"
+        }
+    },
+    {
+        "code": "862975",
+        "long": {
+            "default": "Municipio de Lozovo"
+        }
+    },
+    {
+        "code": "862977",
+        "long": {
+            "default": "Municipalidad de Češinovo-Obleševo"
+        }
+    },
+    {
+        "code": "863835",
+        "long": {
+            "default": "Municipio de Brvenica"
+        }
+    },
+    {
+        "code": "863836",
+        "long": {
+            "default": "Municipalidad de Čair"
+        }
+    },
+    {
+        "code": "863838",
+        "long": {
+            "default": "Municipio de Čaška"
+        }
+    },
+    {
+        "code": "863849",
+        "long": {
+            "default": "Municipio de Dolneni"
+        }
+    },
+    {
+        "code": "863853",
+        "long": {
+            "default": "Municipio de Gazi Baba"
+        }
+    },
+    {
+        "code": "863856",
+        "long": {
+            "default": "Municipio de Ilinden"
+        }
+    },
+    {
+        "code": "863858",
+        "long": {
+            "default": "Municipio de Jegunovce"
+        }
+    },
+    {
+        "code": "863885",
+        "long": {
+            "default": "Municipalidad de Oslomej"
+        }
+    },
+    {
+        "code": "863887",
+        "long": {
+            "default": "Municipio de Plasnica"
+        }
+    },
+    {
+        "code": "863892",
+        "long": {
+            "default": "Municipio de Mavrovo y Rostuša"
+        }
+    },
+    {
+        "code": "863894",
+        "long": {
+            "default": "Municipio de Saraj"
+        }
+    },
+    {
+        "code": "863904",
+        "long": {
+            "default": "Municipio de Šuto Orizari"
+        }
+    },
+    {
+        "code": "863905",
+        "long": {
+            "default": "Municipio de Sveti Nikole"
+        }
+    },
+    {
+        "code": "863906",
+        "long": {
+            "default": "Municipio de Tearce"
+        }
+    },
+    {
+        "code": "863917",
+        "long": {
+            "default": "Municipalidad de Zajas"
+        }
+    },
+    {
+        "code": "7056266",
+        "long": {
+            "default": "Municipalidad de Aerodrom"
+        }
+    },
+    {
+        "code": "7056269",
+        "long": {
+            "default": "Municipio de Butel"
+        }
+    },
+    {
+        "code": "7056271",
+        "long": {
+            "default": "Municipio de Debarca"
+        }
+    },
+    {
+        "code": "2375989",
+        "long": {
+            "default": "Tiris Zemmur"
+        }
+    },
+    {
+        "code": "2380426",
+        "long": {
+            "default": "Dajlet Nuadibú"
+        }
+    },
+    {
+        "code": "1106583",
+        "long": {
+            "default": "Cargados Carajos"
+        }
+    },
+    {
+        "code": "3514211",
+        "long": {
+            "default": "Estado de Yucatán"
+        }
+    },
+    {
+        "code": "3514780",
+        "long": {
+            "default": "Estado de Veracruz-Llave"
+        }
+    },
+    {
+        "code": "3515359",
+        "long": {
+            "default": "Estado de Tlaxcala"
+        }
+    },
+    {
+        "code": "3516391",
+        "long": {
+            "default": "Estado de Tamaulipas"
+        }
+    },
+    {
+        "code": "3516458",
+        "long": {
+            "default": "Estado de Tabasco"
+        }
+    },
+    {
+        "code": "3520887",
+        "long": {
+            "default": "Estado de Quintana Roo"
+        }
+    },
+    {
+        "code": "3520914",
+        "long": {
+            "default": "Estado de Querétaro de Arteaga"
+        }
+    },
+    {
+        "code": "3521082",
+        "long": {
+            "default": "Estado de Puebla"
+        }
+    },
+    {
+        "code": "3522509",
+        "long": {
+            "default": "Estado de Oaxaca"
+        }
+    },
+    {
+        "code": "3522542",
+        "long": {
+            "default": "Estado de Nuevo León"
+        }
+    },
+    {
+        "code": "3522961",
+        "long": {
+            "default": "Estado de Morelos"
+        }
+    },
+    {
+        "code": "3523272",
+        "long": {
+            "default": "Estado de México"
+        }
+    },
+    {
+        "code": "3527115",
+        "long": {
+            "default": "Estado de Hidalgo"
+        }
+    },
+    {
+        "code": "3527213",
+        "long": {
+            "default": "Estado de Guerrero"
+        }
+    },
+    {
+        "code": "3527646",
+        "long": {
+            "default": "Ciudad de México"
+        }
+    },
+    {
+        "code": "3531011",
+        "long": {
+            "default": "Estado de Chiapas"
+        }
+    },
+    {
+        "code": "3531730",
+        "long": {
+            "default": "Estado de Campeche"
+        }
+    },
+    {
+        "code": "3979840",
+        "long": {
+            "default": "Estado de Zacatecas"
+        }
+    },
+    {
+        "code": "3982846",
+        "long": {
+            "default": "Estado de Sonora"
+        }
+    },
+    {
+        "code": "3983035",
+        "long": {
+            "default": "Estado de Sinaloa"
+        }
+    },
+    {
+        "code": "3985605",
+        "long": {
+            "default": "Estado de San Luis Potosí"
+        }
+    },
+    {
+        "code": "3995012",
+        "long": {
+            "default": "Estado de Nayarit"
+        }
+    },
+    {
+        "code": "3995955",
+        "long": {
+            "default": "Estado de Michoacán de Ocampo"
+        }
+    },
+    {
+        "code": "4004156",
+        "long": {
+            "default": "Estado de Jalisco"
+        }
+    },
+    {
+        "code": "4005267",
+        "long": {
+            "default": "Estado de Guanajuato"
+        }
+    },
+    {
+        "code": "4011741",
+        "long": {
+            "default": "Estado de Durango"
+        }
+    },
+    {
+        "code": "4013513",
+        "long": {
+            "default": "Estado de Colima"
+        }
+    },
+    {
+        "code": "4013674",
+        "long": {
+            "default": "Estado de Coahuila de Zaragoza"
+        }
+    },
+    {
+        "code": "4014336",
+        "long": {
+            "default": "Estado de Chihuahua"
+        }
+    },
+    {
+        "code": "4017698",
+        "long": {
+            "default": "Estado de Baja California Sur"
+        }
+    },
+    {
+        "code": "4017700",
+        "long": {
+            "default": "Estado de Baja California"
+        }
+    },
+    {
+        "code": "4019231",
+        "long": {
+            "default": "Estado de Aguascalientes"
+        }
+    },
+    {
+        "code": "1996552",
+        "long": {
+            "default": "Putrajaya"
+        }
+    },
+    {
+        "code": "1026010",
+        "long": {
+            "default": "Provincia de Tete"
+        }
+    },
+    {
+        "code": "1033354",
+        "long": {
+            "default": "Provincia de Nampula"
+        }
+    },
+    {
+        "code": "1040649",
+        "long": {
+            "default": "Provincia de Maputo"
+        }
+    },
+    {
+        "code": "2445702",
+        "long": {
+            "default": "Región de Diffa"
+        }
+    },
+    {
+        "code": "2448083",
+        "long": {
+            "default": "Región de Agadez"
+        }
+    },
+    {
+        "code": "2743698",
+        "long": {
+            "default": "Holanda Meridional"
+        }
+    },
+    {
+        "code": "2744011",
+        "long": {
+            "default": "Zelanda"
+        }
+    },
+    {
+        "code": "2749879",
+        "long": {
+            "default": "Holanda Septentrional"
+        }
+    },
+    {
+        "code": "2749990",
+        "long": {
+            "default": "Brabante Septentrional"
+        }
+    },
+    {
+        "code": "2751596",
+        "long": {
+            "default": "Limburgo"
+        }
+    },
+    {
+        "code": "2755249",
+        "long": {
+            "default": "Groninga"
+        }
+    },
+    {
+        "code": "2755634",
+        "long": {
+            "default": "Güeldres"
+        }
+    },
+    {
+        "code": "2755812",
+        "long": {
+            "default": "Frisia"
+        }
+    },
+    {
+        "code": "2756631",
+        "long": {
+            "default": "Drente"
+        }
+    },
+    {
+        "code": "3319179",
+        "long": {
+            "default": "Flevolanda"
+        }
+    },
+    {
+        "code": "2110418",
+        "long": {
+            "default": "Yaren"
+        }
+    },
+    {
+        "code": "2110420",
+        "long": {
+            "default": "Uaboe"
+        }
+    },
+    {
+        "code": "2110423",
+        "long": {
+            "default": "Nibok"
+        }
+    },
+    {
+        "code": "2110431",
+        "long": {
+            "default": "Meneng"
+        }
+    },
+    {
+        "code": "2110432",
+        "long": {
+            "default": "Ijuw"
+        }
+    },
+    {
+        "code": "2110435",
+        "long": {
+            "default": "Ewa"
+        }
+    },
+    {
+        "code": "2110437",
+        "long": {
+            "default": "Denigomodu"
+        }
+    },
+    {
+        "code": "2110440",
+        "long": {
+            "default": "Buada"
+        }
+    },
+    {
+        "code": "2110441",
+        "long": {
+            "default": "Boe"
+        }
+    },
+    {
+        "code": "2110442",
+        "long": {
+            "default": "Baiti"
+        }
+    },
+    {
+        "code": "2110445",
+        "long": {
+            "default": "Anibare"
+        }
+    },
+    {
+        "code": "2110448",
+        "long": {
+            "default": "Anetan"
+        }
+    },
+    {
+        "code": "2110449",
+        "long": {
+            "default": "Anabar"
+        }
+    },
+    {
+        "code": "2110451",
+        "long": {
+            "default": "Aiwo"
+        }
+    },
+    {
+        "code": "2179538",
+        "long": {
+            "default": "Wellington"
+        }
+    },
+    {
+        "code": "2192628",
+        "long": {
+            "default": "Región de Canterbury"
+        }
+    },
+    {
+        "code": "2193734",
+        "long": {
+            "default": "Auckland"
+        }
+    },
+    {
+        "code": "3701537",
+        "long": {
+            "default": "Circunscripción de San Blas"
+        }
+    },
+    {
+        "code": "3699674",
+        "long": {
+            "default": "Ancash"
+        }
+    },
+    {
+        "code": "2083546",
+        "long": {
+            "default": "Nueva Bretaña del Oeste"
+        }
+    },
+    {
+        "code": "2097853",
+        "long": {
+            "default": "Nueva Bretaña del Este"
+        }
+    },
+    {
+        "code": "7115989",
+        "long": {
+            "default": "Mindanao Musulmán"
+        }
+    },
+    {
+        "code": "7521295",
+        "long": {
+            "default": "Mindanao del Norte"
+        }
+    },
+    {
+        "code": "7521297",
+        "long": {
+            "default": "Valle del Cagayán"
+        }
+    },
+    {
+        "code": "7521300",
+        "long": {
+            "default": "La Cordillera"
+        }
+    },
+    {
+        "code": "7521304",
+        "long": {
+            "default": "Bisayas occidentales"
+        }
+    },
+    {
+        "code": "7521305",
+        "long": {
+            "default": "Luzón Central"
+        }
+    },
+    {
+        "code": "7521306",
+        "long": {
+            "default": "Bisayas centrales"
+        }
+    },
+    {
+        "code": "7521307",
+        "long": {
+            "default": "Bisayas orientales"
+        }
+    },
+    {
+        "code": "1179245",
+        "long": {
+            "default": "Áreas tribales"
+        }
+    },
+    {
+        "code": "1184196",
+        "long": {
+            "default": "Azad Cachemira"
+        }
+    },
+    {
+        "code": "858785",
+        "long": {
+            "default": "Lublin"
+        }
+    },
+    {
+        "code": "858786",
+        "long": {
+            "default": "Voivodato de Pequeña Polonia"
+        }
+    },
+    {
+        "code": "858787",
+        "long": {
+            "default": "Voivodato de Mazovia"
+        }
+    },
+    {
+        "code": "858788",
+        "long": {
+            "default": "Subcarpacia"
+        }
+    },
+    {
+        "code": "858789",
+        "long": {
+            "default": "Podlaquia"
+        }
+    },
+    {
+        "code": "858790",
+        "long": {
+            "default": "Voivodato de Santa Cruz"
+        }
+    },
+    {
+        "code": "858791",
+        "long": {
+            "default": "Varmia y Masuria"
+        }
+    },
+    {
+        "code": "3337492",
+        "long": {
+            "default": "Baja Silesia"
+        }
+    },
+    {
+        "code": "3337493",
+        "long": {
+            "default": "Łódź"
+        }
+    },
+    {
+        "code": "3337494",
+        "long": {
+            "default": "Voivodato de Lubusz"
+        }
+    },
+    {
+        "code": "3337495",
+        "long": {
+            "default": "Opole"
+        }
+    },
+    {
+        "code": "3337496",
+        "long": {
+            "default": "Pomerania"
+        }
+    },
+    {
+        "code": "3337497",
+        "long": {
+            "default": "Silesia"
+        }
+    },
+    {
+        "code": "3337498",
+        "long": {
+            "default": "Voivodato de Gran Polonia"
+        }
+    },
+    {
+        "code": "3337500",
+        "long": {
+            "default": "Voivodato de Cuyavia y Pomerania"
+        }
+    },
+    {
+        "code": "4563299",
+        "long": {
+            "default": "Cataño"
+        }
+    },
+    {
+        "code": "4568924",
+        "long": {
+            "default": "Vieques Municipio"
+        }
+    },
+    {
+        "code": "281132",
+        "long": {
+            "default": "Franja de Gaza"
+        }
+    },
+    {
+        "code": "2262961",
+        "long": {
+            "default": "Setúbal"
+        }
+    },
+    {
+        "code": "2263478",
+        "long": {
+            "default": "Santarém"
+        }
+    },
+    {
+        "code": "2264507",
+        "long": {
+            "default": "Portalegre"
+        }
+    },
+    {
+        "code": "2267056",
+        "long": {
+            "default": "Lisboa"
+        }
+    },
+    {
+        "code": "2267094",
+        "long": {
+            "default": "Leiria"
+        }
+    },
+    {
+        "code": "2268337",
+        "long": {
+            "default": "Faro"
+        }
+    },
+    {
+        "code": "2268404",
+        "long": {
+            "default": "Évora"
+        }
+    },
+    {
+        "code": "2269513",
+        "long": {
+            "default": "Castelo Branco"
+        }
+    },
+    {
+        "code": "2270984",
+        "long": {
+            "default": "Beja"
+        }
+    },
+    {
+        "code": "2593105",
+        "long": {
+            "default": "Madeira"
+        }
+    },
+    {
+        "code": "2732264",
+        "long": {
+            "default": "Viseu"
+        }
+    },
+    {
+        "code": "2732437",
+        "long": {
+            "default": "Vila Real"
+        }
+    },
+    {
+        "code": "2732772",
+        "long": {
+            "default": "Viana do Castelo"
+        }
+    },
+    {
+        "code": "2735941",
+        "long": {
+            "default": "Oporto"
+        }
+    },
+    {
+        "code": "2738782",
+        "long": {
+            "default": "Guarda"
+        }
+    },
+    {
+        "code": "2740636",
+        "long": {
+            "default": "Coimbra"
+        }
+    },
+    {
+        "code": "2742026",
+        "long": {
+            "default": "Distrito de Braganza"
+        }
+    },
+    {
+        "code": "2742031",
+        "long": {
+            "default": "Braga"
+        }
+    },
+    {
+        "code": "2742610",
+        "long": {
+            "default": "Aveiro"
+        }
+    },
+    {
+        "code": "3411865",
+        "long": {
+            "default": "Azores"
+        }
+    },
+    {
+        "code": "669737",
+        "long": {
+            "default": "Distrito de Prahova"
+        }
+    },
+    {
+        "code": "479119",
+        "long": {
+            "default": "Óblast de Uliánovsk"
+        }
+    },
+    {
+        "code": "479613",
+        "long": {
+            "default": "Udmurtia"
+        }
+    },
+    {
+        "code": "484048",
+        "long": {
+            "default": "Tartaristan"
+        }
+    },
+    {
+        "code": "511180",
+        "long": {
+            "default": "Krai de Perm"
+        }
+    },
+    {
+        "code": "519969",
+        "long": {
+            "default": "Osetia del Norte"
+        }
+    },
+    {
+        "code": "522652",
+        "long": {
+            "default": "Nenetsia"
+        }
+    },
+    {
+        "code": "524894",
+        "long": {
+            "default": "Moscú"
+        }
+    },
+    {
+        "code": "524925",
+        "long": {
+            "default": "Moscu Ciudad Federal"
+        }
+    },
+    {
+        "code": "525369",
+        "long": {
+            "default": "Mordovia"
+        }
+    },
+    {
+        "code": "529352",
+        "long": {
+            "default": "Mari-El"
+        }
+    },
+    {
+        "code": "536203",
+        "long": {
+            "default": "San Petersburgo"
+        }
+    },
+    {
+        "code": "542415",
+        "long": {
+            "default": "Krasnodarskiy"
+        }
+    },
+    {
+        "code": "552548",
+        "long": {
+            "default": "Carelia"
+        }
+    },
+    {
+        "code": "553972",
+        "long": {
+            "default": "Kalmukia"
+        }
+    },
+    {
+        "code": "554667",
+        "long": {
+            "default": "Kabardina-Balkaria"
+        }
+    },
+    {
+        "code": "556349",
+        "long": {
+            "default": "Ingusetia"
+        }
+    },
+    {
+        "code": "567293",
+        "long": {
+            "default": "Daguestán"
+        }
+    },
+    {
+        "code": "567395",
+        "long": {
+            "default": "Chuvasia"
+        }
+    },
+    {
+        "code": "569665",
+        "long": {
+            "default": "Chechenia"
+        }
+    },
+    {
+        "code": "584222",
+        "long": {
+            "default": "Adigueya"
+        }
+    },
+    {
+        "code": "1488747",
+        "long": {
+            "default": "Tiumen"
+        }
+    },
+    {
+        "code": "1490542",
+        "long": {
+            "default": "Sverdlovsk"
+        }
+    },
+    {
+        "code": "1502020",
+        "long": {
+            "default": "Krai de Krasnojarsk"
+        }
+    },
+    {
+        "code": "1503834",
+        "long": {
+            "default": "Jakasia"
+        }
+    },
+    {
+        "code": "2013162",
+        "long": {
+            "default": "Sajá Yakutia"
+        }
+    },
+    {
+        "code": "2017623",
+        "long": {
+            "default": "Krai De Primorsky"
+        }
+    },
+    {
+        "code": "2022888",
+        "long": {
+            "default": "Krai de Khabarovsk"
+        }
+    },
+    {
+        "code": "2026639",
+        "long": {
+            "default": "Óblast Autónomo Hebreo"
+        }
+    },
+    {
+        "code": "2027748",
+        "long": {
+            "default": "Amur"
+        }
+    },
+    {
+        "code": "2050915",
+        "long": {
+            "default": "Buriatia"
+        }
+    },
+    {
+        "code": "2121529",
+        "long": {
+            "default": "Sajalin"
+        }
+    },
+    {
+        "code": "2126099",
+        "long": {
+            "default": "Chukotka"
+        }
+    },
+    {
+        "code": "7779061",
+        "long": {
+            "default": "Zabaikalie"
+        }
+    },
+    {
+        "code": "604010",
+        "long": {
+            "default": "Norbotnia"
+        }
+    },
+    {
+        "code": "2686655",
+        "long": {
+            "default": "Provincia de Örebro"
+        }
+    },
+    {
+        "code": "2699767",
+        "long": {
+            "default": "Dalecarlia"
+        }
+    },
+    {
+        "code": "2712411",
+        "long": {
+            "default": "Provincia de Gävleborg"
+        }
+    },
+    {
+        "code": "3337386",
+        "long": {
+            "default": "Provincia de Västra Götaland"
+        }
+    },
+    {
+        "code": "3192672",
+        "long": {
+            "default": "Postoina"
+        }
+    },
+    {
+        "code": "3195505",
+        "long": {
+            "default": "Máribor"
+        }
+    },
+    {
+        "code": "3178807",
+        "long": {
+            "default": "Chiesanuova"
+        }
+    },
+    {
+        "code": "2243939",
+        "long": {
+            "default": "Región de Ziguinchor"
+        }
+    },
+    {
+        "code": "2244990",
+        "long": {
+            "default": "Región de Tambacounda"
+        }
+    },
+    {
+        "code": "2246451",
+        "long": {
+            "default": "Región de Saint-Louis"
+        }
+    },
+    {
+        "code": "2248753",
+        "long": {
+            "default": "Región de Matam"
+        }
+    },
+    {
+        "code": "2249221",
+        "long": {
+            "default": "Región de Louga"
+        }
+    },
+    {
+        "code": "2249781",
+        "long": {
+            "default": "Región de Kolda"
+        }
+    },
+    {
+        "code": "2250804",
+        "long": {
+            "default": "Región de Kaolack"
+        }
+    },
+    {
+        "code": "2252308",
+        "long": {
+            "default": "Región de Diourbel"
+        }
+    },
+    {
+        "code": "2253350",
+        "long": {
+            "default": "Región de Dakar"
+        }
+    },
+    {
+        "code": "2410764",
+        "long": {
+            "default": "Isla de Santo Tomé"
+        }
+    },
+    {
+        "code": "2410878",
+        "long": {
+            "default": "Isla de Príncipe"
+        }
+    },
+    {
+        "code": "167541",
+        "long": {
+            "default": "Gobernación de Damasco"
+        }
+    },
+    {
+        "code": "7603252",
+        "long": {
+            "default": "Región de Mandoul"
+        }
+    },
+    {
+        "code": "7603257",
+        "long": {
+            "default": "Región de Sila"
+        }
+    },
+    {
+        "code": "2364205",
+        "long": {
+            "default": "Sabana"
+        }
+    },
+    {
+        "code": "2364370",
+        "long": {
+            "default": "Altiplano"
+        }
+    },
+    {
+        "code": "2365173",
+        "long": {
+            "default": "Marítima"
+        }
+    },
+    {
+        "code": "2367237",
+        "long": {
+            "default": "Central"
+        }
+    },
+    {
+        "code": "1636309",
+        "long": {
+            "default": "Manufahi"
+        }
+    },
+    {
+        "code": "1638294",
+        "long": {
+            "default": "Lautem"
+        }
+    },
+    {
+        "code": "1639462",
+        "long": {
+            "default": "Cova-Lima"
+        }
+    },
+    {
+        "code": "1644865",
+        "long": {
+            "default": "Ermera"
+        }
+    },
+    {
+        "code": "1648513",
+        "long": {
+            "default": "Bobonaro"
+        }
+    },
+    {
+        "code": "162152",
+        "long": {
+            "default": "Provincia de Balkan"
+        }
+    },
+    {
+        "code": "162181",
+        "long": {
+            "default": "Provincia de Ahal"
+        }
+    },
+    {
+        "code": "1218666",
+        "long": {
+            "default": "Provincia de Mary"
+        }
+    },
+    {
+        "code": "1219651",
+        "long": {
+            "default": "Provincia de Lebap"
+        }
+    },
+    {
+        "code": "2464698",
+        "long": {
+            "default": "Gobernación de Tataouine"
+        }
+    },
+    {
+        "code": "6201192",
+        "long": {
+            "default": "Gobernación de Manouba"
+        }
+    },
+    {
+        "code": "7668021",
+        "long": {
+            "default": "'Eua"
+        }
+    },
+    {
+        "code": "7668055",
+        "long": {
+            "default": "Grupo Niuas"
+        }
+    },
+    {
+        "code": "296560",
+        "long": {
+            "default": "Provincia de Yozgat"
+        }
+    },
+    {
+        "code": "298113",
+        "long": {
+            "default": "Provincia de Van"
+        }
+    },
+    {
+        "code": "298298",
+        "long": {
+            "default": "Provincia de Uşak"
+        }
+    },
+    {
+        "code": "298332",
+        "long": {
+            "default": "Provincia de Sanliurfa"
+        }
+    },
+    {
+        "code": "298845",
+        "long": {
+            "default": "Provincia de Tunceli"
+        }
+    },
+    {
+        "code": "300617",
+        "long": {
+            "default": "Provincia de Sivas"
+        }
+    },
+    {
+        "code": "300821",
+        "long": {
+            "default": "Provincia de Siirt"
+        }
+    },
+    {
+        "code": "304041",
+        "long": {
+            "default": "Provincia de Muş"
+        }
+    },
+    {
+        "code": "304183",
+        "long": {
+            "default": "Provincia de Muğla"
+        }
+    },
+    {
+        "code": "304794",
+        "long": {
+            "default": "Provincia de Mardin"
+        }
+    },
+    {
+        "code": "304825",
+        "long": {
+            "default": "Provincia de Manisa"
+        }
+    },
+    {
+        "code": "304919",
+        "long": {
+            "default": "Provincia de Malatya"
+        }
+    },
+    {
+        "code": "305267",
+        "long": {
+            "default": "Provincia de Kütahya"
+        }
+    },
+    {
+        "code": "306569",
+        "long": {
+            "default": "Provincia de Konya"
+        }
+    },
+    {
+        "code": "307513",
+        "long": {
+            "default": "Provincia de Kırşehir"
+        }
+    },
+    {
+        "code": "308463",
+        "long": {
+            "default": "Provincia de Kayseri"
+        }
+    },
+    {
+        "code": "310858",
+        "long": {
+            "default": "Provincia de Kahramanmaraş"
+        }
+    },
+    {
+        "code": "311071",
+        "long": {
+            "default": "Provincia de Isparta"
+        }
+    },
+    {
+        "code": "311728",
+        "long": {
+            "default": "Provincia de Mersin"
+        }
+    },
+    {
+        "code": "312394",
+        "long": {
+            "default": "Provincia de Hatay"
+        }
+    },
+    {
+        "code": "312888",
+        "long": {
+            "default": "Provincia de Hakkâri"
+        }
+    },
+    {
+        "code": "314829",
+        "long": {
+            "default": "Provincia de Gaziantep"
+        }
+    },
+    {
+        "code": "315201",
+        "long": {
+            "default": "Provincia de Eskişehir"
+        }
+    },
+    {
+        "code": "315367",
+        "long": {
+            "default": "Provincia de Erzurum"
+        }
+    },
+    {
+        "code": "315372",
+        "long": {
+            "default": "Provincia de Erzincan"
+        }
+    },
+    {
+        "code": "317106",
+        "long": {
+            "default": "Provincia de Denizli"
+        }
+    },
+    {
+        "code": "320390",
+        "long": {
+            "default": "Provincia de Burdur"
+        }
+    },
+    {
+        "code": "321022",
+        "long": {
+            "default": "Provincia de Bitlis"
+        }
+    },
+    {
+        "code": "321079",
+        "long": {
+            "default": "Provincia de Bingöl"
+        }
+    },
+    {
+        "code": "321122",
+        "long": {
+            "default": "Provincia de Bilecik"
+        }
+    },
+    {
+        "code": "322164",
+        "long": {
+            "default": "Provincia de Balıkesir"
+        }
+    },
+    {
+        "code": "322819",
+        "long": {
+            "default": "Provincia de Aydin"
+        }
+    },
+    {
+        "code": "323776",
+        "long": {
+            "default": "Provincia de Antalya"
+        }
+    },
+    {
+        "code": "323784",
+        "long": {
+            "default": "Provincia de Ankara"
+        }
+    },
+    {
+        "code": "325163",
+        "long": {
+            "default": "Provincia de Agri"
+        }
+    },
+    {
+        "code": "325361",
+        "long": {
+            "default": "Provincia de Adana"
+        }
+    },
+    {
+        "code": "443183",
+        "long": {
+            "default": "Provincia de Osmaniye"
+        }
+    },
+    {
+        "code": "443184",
+        "long": {
+            "default": "Provincia de Iğdır"
+        }
+    },
+    {
+        "code": "443185",
+        "long": {
+            "default": "Provincia de Aksaray"
+        }
+    },
+    {
+        "code": "443186",
+        "long": {
+            "default": "Provincia de Batman"
+        }
+    },
+    {
+        "code": "443187",
+        "long": {
+            "default": "Provincia de Karaman"
+        }
+    },
+    {
+        "code": "443188",
+        "long": {
+            "default": "Provincia de Kırıkkale"
+        }
+    },
+    {
+        "code": "443189",
+        "long": {
+            "default": "Provincia de Şırnak"
+        }
+    },
+    {
+        "code": "443213",
+        "long": {
+            "default": "Provincia de Kilis"
+        }
+    },
+    {
+        "code": "738647",
+        "long": {
+            "default": "Provincia de Trebisonda"
+        }
+    },
+    {
+        "code": "738926",
+        "long": {
+            "default": "Provincia de Tekirdağ"
+        }
+    },
+    {
+        "code": "739598",
+        "long": {
+            "default": "Provincia de Sinop"
+        }
+    },
+    {
+        "code": "740263",
+        "long": {
+            "default": "Provincia de Samsun"
+        }
+    },
+    {
+        "code": "740352",
+        "long": {
+            "default": "Provincia de Sakarya"
+        }
+    },
+    {
+        "code": "741098",
+        "long": {
+            "default": "Provincia de Ordu"
+        }
+    },
+    {
+        "code": "742865",
+        "long": {
+            "default": "Provincia de Kocaeli"
+        }
+    },
+    {
+        "code": "743165",
+        "long": {
+            "default": "Provincia de Kırklareli"
+        }
+    },
+    {
+        "code": "743881",
+        "long": {
+            "default": "Provincia de Kastamonu"
+        }
+    },
+    {
+        "code": "745042",
+        "long": {
+            "default": "Provincia de Estambul"
+        }
+    },
+    {
+        "code": "746878",
+        "long": {
+            "default": "Provincia de Giresun"
+        }
+    },
+    {
+        "code": "747711",
+        "long": {
+            "default": "Provincia de Edirne"
+        }
+    },
+    {
+        "code": "748877",
+        "long": {
+            "default": "Provincia de Çorum"
+        }
+    },
+    {
+        "code": "749747",
+        "long": {
+            "default": "Provincia de Çankırı"
+        }
+    },
+    {
+        "code": "749778",
+        "long": {
+            "default": "Provincia de Çanakkale"
+        }
+    },
+    {
+        "code": "750510",
+        "long": {
+            "default": "Provincia de Bolu"
+        }
+    },
+    {
+        "code": "751816",
+        "long": {
+            "default": "Provincia de Artvin"
+        }
+    },
+    {
+        "code": "752014",
+        "long": {
+            "default": "Provincia de Amasya"
+        }
+    },
+    {
+        "code": "862467",
+        "long": {
+            "default": "Provincia de Bartın"
+        }
+    },
+    {
+        "code": "862469",
+        "long": {
+            "default": "Provincia de Yalova"
+        }
+    },
+    {
+        "code": "862470",
+        "long": {
+            "default": "Provincia de Ardahan"
+        }
+    },
+    {
+        "code": "7280290",
+        "long": {
+            "default": "Taipéi"
+        }
+    },
+    {
+        "code": "692196",
+        "long": {
+            "default": "Óblast de Sumy"
+        }
+    },
+    {
+        "code": "696634",
+        "long": {
+            "default": "Óblast de Poltava"
+        }
+    },
+    {
+        "code": "698738",
+        "long": {
+            "default": "Óblast de Odesa"
+        }
+    },
+    {
+        "code": "703446",
+        "long": {
+            "default": "Oblast de Kyiv"
+        }
+    },
+    {
+        "code": "706442",
+        "long": {
+            "default": "Óblast de Jersón"
+        }
+    },
+    {
+        "code": "4041685",
+        "long": {
+            "default": "Isla Wake"
+        }
+    },
+    {
+        "code": "4743755",
+        "long": {
+            "default": "Isla Navassa"
+        }
+    },
+    {
+        "code": "5854907",
+        "long": {
+            "default": "Isla Baker"
+        }
+    },
+    {
+        "code": "4099753",
+        "long": {
+            "default": "Arkansas"
+        }
+    },
+    {
+        "code": "4138106",
+        "long": {
+            "default": "Distrito de Columbia"
+        }
+    },
+    {
+        "code": "4142224",
+        "long": {
+            "default": "Delaware"
+        }
+    },
+    {
+        "code": "4155751",
+        "long": {
+            "default": "Florida"
+        }
+    },
+    {
+        "code": "4197000",
+        "long": {
+            "default": "Georgia"
+        }
+    },
+    {
+        "code": "4273857",
+        "long": {
+            "default": "Kansas"
+        }
+    },
+    {
+        "code": "4331987",
+        "long": {
+            "default": "Louisiana"
+        }
+    },
+    {
+        "code": "4361885",
+        "long": {
+            "default": "Maryland"
+        }
+    },
+    {
+        "code": "4398678",
+        "long": {
+            "default": "Missouri"
+        }
+    },
+    {
+        "code": "4436296",
+        "long": {
+            "default": "Mississippi"
+        }
+    },
+    {
+        "code": "4482348",
+        "long": {
+            "default": "Carolina del Norte"
+        }
+    },
+    {
+        "code": "4544379",
+        "long": {
+            "default": "Oklahoma"
+        }
+    },
+    {
+        "code": "4597040",
+        "long": {
+            "default": "Carolina del Sur"
+        }
+    },
+    {
+        "code": "4662168",
+        "long": {
+            "default": "Tennessee"
+        }
+    },
+    {
+        "code": "4736286",
+        "long": {
+            "default": "Texas"
+        }
+    },
+    {
+        "code": "4826850",
+        "long": {
+            "default": "Virginia Occidental"
+        }
+    },
+    {
+        "code": "4829764",
+        "long": {
+            "default": "Alabama"
+        }
+    },
+    {
+        "code": "4831725",
+        "long": {
+            "default": "Connecticut"
+        }
+    },
+    {
+        "code": "4862182",
+        "long": {
+            "default": "Iowa"
+        }
+    },
+    {
+        "code": "4896861",
+        "long": {
+            "default": "Illinois"
+        }
+    },
+    {
+        "code": "4921868",
+        "long": {
+            "default": "Indiana"
+        }
+    },
+    {
+        "code": "5001836",
+        "long": {
+            "default": "Michigan"
+        }
+    },
+    {
+        "code": "5037779",
+        "long": {
+            "default": "Minnesota"
+        }
+    },
+    {
+        "code": "5073708",
+        "long": {
+            "default": "Nebraska"
+        }
+    },
+    {
+        "code": "5090174",
+        "long": {
+            "default": "Nueva Hampshire"
+        }
+    },
+    {
+        "code": "5101760",
+        "long": {
+            "default": "Nueva Jersey"
+        }
+    },
+    {
+        "code": "5128638",
+        "long": {
+            "default": "Nueva York"
+        }
+    },
+    {
+        "code": "5165418",
+        "long": {
+            "default": "Ohio"
+        }
+    },
+    {
+        "code": "5224323",
+        "long": {
+            "default": "Rhode Island"
+        }
+    },
+    {
+        "code": "5242283",
+        "long": {
+            "default": "Vermont"
+        }
+    },
+    {
+        "code": "5279468",
+        "long": {
+            "default": "Wisconsin"
+        }
+    },
+    {
+        "code": "5332921",
+        "long": {
+            "default": "California"
+        }
+    },
+    {
+        "code": "5417618",
+        "long": {
+            "default": "Colorado"
+        }
+    },
+    {
+        "code": "5481136",
+        "long": {
+            "default": "Nuevo México"
+        }
+    },
+    {
+        "code": "5509151",
+        "long": {
+            "default": "Nevada"
+        }
+    },
+    {
+        "code": "5549030",
+        "long": {
+            "default": "Utah"
+        }
+    },
+    {
+        "code": "5551752",
+        "long": {
+            "default": "Arizona"
+        }
+    },
+    {
+        "code": "5596512",
+        "long": {
+            "default": "Idaho"
+        }
+    },
+    {
+        "code": "5667009",
+        "long": {
+            "default": "Montana"
+        }
+    },
+    {
+        "code": "5690763",
+        "long": {
+            "default": "Dakota del Norte"
+        }
+    },
+    {
+        "code": "5744337",
+        "long": {
+            "default": "Oregón"
+        }
+    },
+    {
+        "code": "5769223",
+        "long": {
+            "default": "Dakota del Sur"
+        }
+    },
+    {
+        "code": "5815135",
+        "long": {
+            "default": "Washington"
+        }
+    },
+    {
+        "code": "5843591",
+        "long": {
+            "default": "Wyoming"
+        }
+    },
+    {
+        "code": "5855797",
+        "long": {
+            "default": "Hawai"
+        }
+    },
+    {
+        "code": "5879092",
+        "long": {
+            "default": "Alaska"
+        }
+    },
+    {
+        "code": "6254927",
+        "long": {
+            "default": "Pensilvania"
+        }
+    },
+    {
+        "code": "3440054",
+        "long": {
+            "default": "Soriano"
+        }
+    },
+    {
+        "code": "3441890",
+        "long": {
+            "default": "Maldonado"
+        }
+    },
+    {
+        "code": "3442007",
+        "long": {
+            "default": "Lavalleja"
+        }
+    },
+    {
+        "code": "3442584",
+        "long": {
+            "default": "Florida"
+        }
+    },
+    {
+        "code": "3443025",
+        "long": {
+            "default": "Colonia"
+        }
+    },
+    {
+        "code": "3443173",
+        "long": {
+            "default": "Cerro Largo"
+        }
+    },
+    {
+        "code": "3443411",
+        "long": {
+            "default": "Canelones"
+        }
+    },
+    {
+        "code": "3443756",
+        "long": {
+            "default": "Artigas"
+        }
+    },
+    {
+        "code": "3625035",
+        "long": {
+            "default": "Zulia"
+        }
+    },
+    {
+        "code": "3625210",
+        "long": {
+            "default": "Yaracuy"
+        }
+    },
+    {
+        "code": "3625974",
+        "long": {
+            "default": "Estado Trujillo"
+        }
+    },
+    {
+        "code": "3626553",
+        "long": {
+            "default": "Táchira"
+        }
+    },
+    {
+        "code": "3626655",
+        "long": {
+            "default": "Estado Sucre"
+        }
+    },
+    {
+        "code": "3629941",
+        "long": {
+            "default": "Estado Portuguesa"
+        }
+    },
+    {
+        "code": "3631462",
+        "long": {
+            "default": "Nueva Esparta"
+        }
+    },
+    {
+        "code": "3632100",
+        "long": {
+            "default": "Estado Monagas"
+        }
+    },
+    {
+        "code": "3632191",
+        "long": {
+            "default": "Estado Miranda"
+        }
+    },
+    {
+        "code": "3632306",
+        "long": {
+            "default": "Estado Mérida"
+        }
+    },
+    {
+        "code": "3636539",
+        "long": {
+            "default": "Estado Lara"
+        }
+    },
+    {
+        "code": "3640017",
+        "long": {
+            "default": "Estado Guárico"
+        }
+    },
+    {
+        "code": "3640847",
+        "long": {
+            "default": "Distrito Federal"
+        }
+    },
+    {
+        "code": "3640873",
+        "long": {
+            "default": "Estado Falcón"
+        }
+    },
+    {
+        "code": "3644541",
+        "long": {
+            "default": "Delta Amacuro"
+        }
+    },
+    {
+        "code": "3645386",
+        "long": {
+            "default": "Estado Cojedes"
+        }
+    },
+    {
+        "code": "3646751",
+        "long": {
+            "default": "Estado Carabobo"
+        }
+    },
+    {
+        "code": "3648106",
+        "long": {
+            "default": "Estado Bolívar"
+        }
+    },
+    {
+        "code": "3648544",
+        "long": {
+            "default": "Estado Barinas"
+        }
+    },
+    {
+        "code": "3649110",
+        "long": {
+            "default": "Estado Aragua"
+        }
+    },
+    {
+        "code": "3649151",
+        "long": {
+            "default": "Estado Apure"
+        }
+    },
+    {
+        "code": "3649198",
+        "long": {
+            "default": "Estado Anzoátegui"
+        }
+    },
+    {
+        "code": "3649302",
+        "long": {
+            "default": "Amazonas"
+        }
+    },
+    {
+        "code": "3830309",
+        "long": {
+            "default": "Estado Vargas"
+        }
+    },
+    {
+        "code": "1580578",
+        "long": {
+            "default": "Ciudad Ho Chi Minh"
+        }
+    },
+    {
+        "code": "70935",
+        "long": {
+            "default": "Gobernación de Shabwah"
+        }
+    },
+    {
+        "code": "1085593",
+        "long": {
+            "default": "Provincia Oriental del Cabo"
+        }
+    },
+    {
+        "code": "1085597",
+        "long": {
+            "default": "Provincia de Limpopo"
+        }
+    }
+]
