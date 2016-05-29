@@ -23,7 +23,7 @@ class Country extends Divisible
      */
     public function getCode()
     {
-        return $this->meta->ids->iso_3611[0];
+        return $this->meta['ids']['iso_3611'][0];
     }
 
     /**
@@ -33,7 +33,7 @@ class Country extends Divisible
      */
     public function getCode3()
     {
-        return $this->meta->ids->iso_3611[1];
+        return $this->meta['ids']['iso_3611'][1];
     }
 
     /**
@@ -41,7 +41,7 @@ class Country extends Divisible
      */
     public function getGeonamesCode()
     {
-        return $this->meta->ids->geonames;
+        return $this->meta['ids']['geonames'];
     }
     
     /**

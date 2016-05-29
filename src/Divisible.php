@@ -17,7 +17,7 @@ abstract class Divisible implements IdentifiableInterface
     use HasConfig;
 
     /**
-     * @var \stdClass $meta
+     * @var array $meta
      */
     protected $meta;
     
@@ -43,11 +43,11 @@ abstract class Divisible implements IdentifiableInterface
 
     /**
      * Country constructor.
-     * @param \stdClass $meta
+     * @param array $meta
      * @param Divisible $parent
      * @param ConfigInterface $config
      */
-    public function __construct(\stdClass $meta = null, Divisible $parent = null, ConfigInterface $config = null)
+    public function __construct(array $meta = [], Divisible $parent = null, ConfigInterface $config = null)
     {
         $this->meta = $meta;
         //$this->parent = $parent;
@@ -100,7 +100,7 @@ abstract class Divisible implements IdentifiableInterface
         $collection = $collection ?: (new MemberCollection($this->config));
 
         if (file_exists($file)) {
-            foreach(json_decode(file_get_contents($file)) as $meta) {
+            foreach(json_decode(file_get_contents($file), true) as $meta) {
                 $collection->add(new $this->memberClass($meta, $this, $this->config));
             }
         }
@@ -156,7 +156,7 @@ abstract class Divisible implements IdentifiableInterface
     }
 
     /**
-     * @return \stdClass
+     * @return array
      */
     public function getMeta()
     {

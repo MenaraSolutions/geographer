@@ -87,10 +87,10 @@ abstract class Base
      */
     public function loadDictionaries(IdentifiableInterface $subject)
     {
-        $source = $this->getStoragePath(get_class($subject), $subject->getCode());
-
-        if (!file_exists($source)) throw new FileNotFoundException('File not found: ' . $source);
         if (isset($this->cache[$this->getPrefix(get_class($subject))][$this->code])) return;
+
+        $source = $this->getStoragePath(get_class($subject), $subject->getCode());
+        if (!file_exists($source)) throw new FileNotFoundException('File not found: ' . $source);
 
         foreach (json_decode(file_get_contents($source), true) as $one) {
             $this->cache[$this->getPrefix(get_class($subject))][$this->code][$one['code']] = $one;
@@ -103,6 +103,8 @@ abstract class Base
      */
     protected function fromCache(IdentifiableInterface $subject)
     {
+        $this->loadDictionaries($subject);
+        
         return $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()];
     }
 }

@@ -15,7 +15,7 @@ class State extends Divisible
      */
     public function getCode()
     {
-        return $this->meta->ids->geonames;
+        return $this->meta['ids']['geonames'];
     }
     
     /**

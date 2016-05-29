@@ -12,21 +12,21 @@ use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
 class English implements PoliglottaInterface
 {
     /**
-     * @param \stdClass $meta
+     * @param array $meta
      * @return string
      */
-    private function getLongName(\stdClass $meta)
+    private function getLongName(array $meta)
     {
-        return ! empty($meta->names->long) ? $meta->names->long : $meta->names->short;
+        return ! empty($meta['names']['long']) ? $meta['names']['long'] : $meta['names']['short'];
     }
 
     /**
-     * @param \stdClass $meta
+     * @param array $meta
      * @return string
      */
-    private function getShortName(\stdClass $meta)
+    private function getShortName(array $meta)
     {
-        return ! empty($meta->names->short) ? $meta->names->short : $meta->names->long;
+        return ! empty($meta['names']['short']) ? $meta['names']['short'] : $meta['names']['long'];
     }
 
     /**

@@ -30,7 +30,6 @@ class Russian extends Base implements PoliglottaInterface
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
         }
 
-        $this->loadDictionaries($subject);
         $meta = $this->fromCache($subject);
         $result = $this->extract($meta, $subject->expectsLongNames(), $form);
 
