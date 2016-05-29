@@ -31,6 +31,8 @@ class Russian extends Base implements PoliglottaInterface
         }
 
         $meta = $this->fromCache($subject);
+        if (! $meta) return false;
+        
         $result = $this->extract($meta, $subject->expectsLongNames(), $form);
 
         if (! $result) {

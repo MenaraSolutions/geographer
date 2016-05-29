@@ -117,7 +117,7 @@ Geographer::getCountries()->useShortNames()->toArray();
 | Language  |  Countries   |   States   |    Cities    |
 |-----------|--------------|------------|--------------|
 | English   | ✓            | ✓         | ✓            |
-| Russian   | ✓            | WIP       | WIP           |
+| Russian   | ✓            | ✓         | WIP          |
 | Spanish   | WIP          | WIP        | WIP          |            
 | Italian   | WIP          | WIP        | WIP          |
 | French    | WIP          | WIP        | WIP          |

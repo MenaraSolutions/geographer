@@ -73,7 +73,7 @@ abstract class Base
                 break;
 
             case State::class;
-                return $this->basePath . 'translations/' . $this->getPrefix($class) . $memberId . DIRECTORY_SEPARATOR . $this->code . '.json';
+                return $this->basePath . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
 
                 break;
 
@@ -104,7 +104,10 @@ abstract class Base
     protected function fromCache(IdentifiableInterface $subject)
     {
         $this->loadDictionaries($subject);
+
+        $meta = isset($this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()]) ?
+            $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()] : false;
         
-        return $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()];
+        return $meta;
     }
 }
