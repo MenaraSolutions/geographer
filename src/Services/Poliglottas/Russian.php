@@ -62,12 +62,9 @@ class Russian extends Base implements PoliglottaInterface
      */
     protected function inflictIn($template)
     {
-        $template = 'в ' . $template;
-
-        switch (mb_substr($template, mb_strlen($template) - 1)) {
+        switch ($this->getLastLetter($template)) {
             case 'й':
-                $template = mb_substr($template, 0, mb_strlen($template) - 1);
-                $template .= 'е';
+                $template = $this->removeLastLetter($template) . 'е';
 
                 break;
 
@@ -91,21 +88,19 @@ class Russian extends Base implements PoliglottaInterface
                 break;
 
             case 'я':
-                $template = mb_substr($template, 0, mb_strlen($template) - 1);
-                $template .= 'и';
+                $template = $this->removeLastLetter($template) . 'и';
 
                 break;
 
             case 'а':
-                $template = mb_substr($template, 0, mb_strlen($template) - 1);
-                $template .= 'е';
+                $template = $this->removeLastLetter($template) . 'е';
 
                 break;
 
             default:
         }
 
-        return $template;
+        return 'в ' . $template;
     }
 
     /**
@@ -114,12 +109,9 @@ class Russian extends Base implements PoliglottaInterface
      */
     protected function inflictFrom($template)
     {
-        $template = 'из ' . $template;
-
-        switch (mb_substr($template, mb_strlen($template) - 1)) {
+        switch ($this->getLastLetter($template)) {
             case 'й':
-                $template = mb_substr($template, 0, mb_strlen($template) - 1);
-                $template .= 'я';
+                $template = $this->removeLastLetter($template) . 'я';
 
                 break;
 
@@ -143,21 +135,37 @@ class Russian extends Base implements PoliglottaInterface
                 break;
 
             case 'я':
-                $template = mb_substr($template, 0, mb_strlen($template) - 1);
-                $template .= 'и';
+                $template = $this->removeLastLetter($template) . 'и';
 
                 break;
 
             case 'а':
-                $template = mb_substr($template, 0, mb_strlen($template) - 1);
-                $template .= 'ы';
+                $template = $this->removeLastLetter($template) . 'ы';
 
                 break;
 
             default:
         }
 
-        return $template;
+        return 'из ' . $template;
+    }
+
+    /**
+     * @param $string
+     * @return string
+     */
+    private function getLastLetter($string)
+    {
+        return mb_substr($string, mb_strlen($string) - 1);
+    }
+
+    /**
+     * @param $string
+     * @return string
+     */
+    private function removeLastLetter($string)
+    {
+        return mb_substr($string, 0, mb_strlen($string) - 1);
     }
 
     /**
