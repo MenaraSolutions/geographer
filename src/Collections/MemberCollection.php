@@ -54,6 +54,14 @@ class MemberCollection extends \ArrayObject
 
         return $array;
     }
+
+    /**
+     * @return mixed
+     */
+    public function first()
+    {
+        return $this->divisions[0];   
+    }
     
     /**
      * @param $division

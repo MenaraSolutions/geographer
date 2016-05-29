@@ -70,20 +70,47 @@ abstract class Divisible implements IdentifiableInterface
     }
 
     /**
+     * @param Divisible $member
      * @param array $params
-     * @return Divisible|bool
+     * @return bool
+     */
+    private function match(Divisible $member, array $params)
+    {
+        $memberArray = $member->toArray();
+        $match = true;
+
+        foreach ($params as $key => $value) {
+            if (!isset($memberArray[$key]) || strcasecmp($memberArray[$key], $value) != 0) $match = false;
+        }
+
+        return $match;
+    }
+
+    /**
+     * @param array $params
+     * @return MemberCollection
      */
     public function find(array $params = [])
     {
+        $members = new MemberCollection($this->config);
+
         foreach($this->getMembers() as $member) {
-            $memberArray = $member->toArray();
-            $match = true;
-
-            foreach ($params as $key => $value) {
-                if (!isset($memberArray[$key]) || strcasecmp($memberArray[$key], $value) != 0) $match = false;
+            if ($this->match($member, $params)) {
+                $members->add($member);
             }
+        }
 
-            if ($match) return $member;
+        return $members;
+    }
+
+    /**
+     * @param array $params
+     * @return Divisible|bool
+     */
+    public function findOne(array $params = [])
+    {
+        foreach($this->getMembers() as $member) {
+            if ($this->match($member, $params)) return $member;
         }
 
         return false;

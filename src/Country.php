@@ -43,7 +43,47 @@ class Country extends Divisible
     {
         return $this->meta['ids']['geonames'];
     }
-    
+
+    /**
+     * @return int
+     */
+    public function getArea()
+    {
+        return isset($this->meta['area']) ? $this->meta['area'] : 0;
+    }
+
+    /**
+     * @return string
+     */
+    public function getCurrencyCode()
+    {
+        return isset($this->meta['currency']) ? $this->meta['currency'] : false;
+    }
+
+    /**
+     * @return int|bool
+     */
+    public function getPhonePrefix()
+    {
+        return isset($this->meta['phone']) ? $this->meta['phone'] : false;
+    }
+
+    /**
+     * @return int
+     */
+    public function getPopulation()
+    {
+        return isset($this->meta['population']) ? $this->meta['population'] : 0;
+    }
+
+    /**
+     * @return string
+     */
+    public function getContinent()
+    {
+        return $this->meta['continent'];
+    }
+
     /**
      * @return array
      */
@@ -52,7 +92,13 @@ class Country extends Divisible
         return [
             'code' => $this->getCode(),
             'code_3' => $this->getCode3(),
-            'name' => $this->getName()
+            'name' => $this->getName(),
+            'geonames_id' => $this->getGeonamesCode(),
+            'area' => $this->getArea(),
+            'phone_prefix' => $this->getPhonePrefix(),
+            'currency_code' => $this->getCurrencyCode(),
+            'population' => $this->getPopulation(),
+            'continent' => $this->getContinent()
         ];
     }
 
@@ -61,7 +107,7 @@ class Country extends Divisible
      */
     public function getCapital()
     {
-        return $this->find([
+        return $this->findOne([
             'capital' => true
         ]);
     }

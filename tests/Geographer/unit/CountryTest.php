@@ -35,7 +35,7 @@ class CountryTest extends Test
     public function country_can_ask_for_a_short_name()
     {
         $earth = new Earth();
-        $russia = $earth->find(['code' => 'RU']);
+        $russia = $earth->findOne(['code' => 'RU']);
         $longName = $russia->getName();
         $russia->useShortNames();
         $this->assertNotEquals($longName, $russia->getName());
@@ -47,7 +47,7 @@ class CountryTest extends Test
     public function lower_case_find_also_works()
     {
         $earth = new Earth();
-        $russia = $earth->find(['code' => 'ru']);
+        $russia = $earth->findOne(['code' => 'ru']);
         $this->assertInstanceOf(Country::class, $russia);
     }
 
@@ -56,7 +56,7 @@ class CountryTest extends Test
      */
     public function country_can_ask_for_inflicted_russian_name_with_and_without_prep()
     {
-        $russia = (new Earth())->find(['code' => 'br'])->setLanguage('ru');
+        $russia = (new Earth())->findOne(['code' => 'br'])->setLanguage('ru');
         $defaultName = $russia->getName();
         $russia->inflict('from')->useShortNames()->includePrepositions();
         $this->assertNotEquals($defaultName, $russia->getName());

@@ -2,6 +2,7 @@
 
 namespace Tests;
 
+use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Earth;
@@ -43,7 +44,7 @@ class EarthTest extends Test
     public function can_get_translated_country_names()
     {
         $earth = new Earth();
-        $country = $earth->find(['code' => 'ru']);
+        $country = $earth->findOne(['code' => 'ru']);
         $original = $country->getLongName();
         $country->setLanguage('ru');
         $this->assertTrue(!empty($country->getLongName()));
@@ -56,8 +57,25 @@ class EarthTest extends Test
     public function can_find_a_country_by_code()
     {
         $earth = new Earth();
-        $russia = $earth->find(['code' => 'RU']);
+        $russia = $earth->findOne(['code' => 'RU']);
         $this->assertTrue($russia instanceof Country);
         $this->assertEquals('RU', $russia->getCode());
+    }
+
+    /**
+     * @test
+     */
+    public function can_get_country_lists_by_continents()
+    {
+        $earth = new Earth();
+
+        $continents = ['Europe', 'Oceania', 'NorthAmerica', 'SouthAmerica', 'Asia', 'Africa'];
+
+        foreach ($continents as $continent)
+        {
+            $continent = $earth->{'get' . $continent}();
+            $this->assertInstanceOf(MemberCollection::class, $continent);
+            $this->assertTrue(is_array($continent->toArray()));
+        }
     }
 }

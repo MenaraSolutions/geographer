@@ -50,7 +50,7 @@ $earth->getCountries()->useShortNames()->toArray();
 
 // Now please give me all states of Thailand
 $countries = $earth->getCountries();
-$thailand = $countries->find(['code' => 'TH']);
+$thailand = $countries->findOne(['code' => 'TH']);
 $thailand->getStates()->toArray();
 
 // Oh, but I want them in Russian
@@ -64,6 +64,31 @@ $capital = $thailand->getCapital();
 $capital->getGeonamesId();
 $capital->getLatitude();
 $capital->getLongitude();
+```
+
+## Earth API
+
+Earth object got the following convenience methods:
+```php
+$earth->getAfrica(); // Get a collection of African countries
+$earth->getEurope(); // Get a collection of European countries
+$earth->getNorthAmerica(); // You can guess
+$earth->getSouthAmerica(); 
+$earth->getAsia();
+$earth->getOceania();
+```
+
+## Country API
+
+Country objects got the following encapsulated data:
+```php
+$country->getCode(); // ISO 3611 2 character code
+$country->getCode3(); // ISO 3611 3 character code
+$country->getGeonamesCode(); // Geonames ID
+$country->getArea(); // Area in square kilometers
+$country->getCurrencyCode(); // National currency, eg. USD
+$country->getPhonePrefix(); // Phone code, eg. 7 for Russia
+$country->getPopulation(); // Population
 ```
 
 ## Usage in Laravel 5
