@@ -7,6 +7,7 @@ use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
 use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Services\Poliglottas\French;
+use MenaraSolutions\Geographer\Services\Poliglottas\Mandarin;
 use MenaraSolutions\Geographer\Services\Poliglottas\Russian;
 use MenaraSolutions\Geographer\Services\Poliglottas\English;
 use MenaraSolutions\Geographer\Services\Poliglottas\Spanish;
@@ -48,7 +49,8 @@ class TranslationAgency implements TranslationAgencyInterface
         'en' => English::class,
         'es' => Spanish::class,
         'it' => Italian::class,
-        'fr' => French::class
+        'fr' => French::class,
+        'zh' => Mandarin::class
     ];
 
     /**

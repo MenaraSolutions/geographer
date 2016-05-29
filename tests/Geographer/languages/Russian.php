@@ -1,7 +1,8 @@
 <?php
 
-namespace Tests;
+namespace Tests\Languages;
 
+use Tests\Test;
 use MenaraSolutions\Geographer\Earth;
 
 class Russian extends Test
