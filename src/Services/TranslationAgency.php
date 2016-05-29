@@ -6,8 +6,11 @@ use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
 use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
+use MenaraSolutions\Geographer\Services\Poliglottas\French;
 use MenaraSolutions\Geographer\Services\Poliglottas\Russian;
 use MenaraSolutions\Geographer\Services\Poliglottas\English;
+use MenaraSolutions\Geographer\Services\Poliglottas\Spanish;
+use MenaraSolutions\Geographer\Services\Poliglottas\Italian;
 
 /**
  * Class TranslationAgency
@@ -42,7 +45,10 @@ class TranslationAgency implements TranslationAgencyInterface
      */
     protected $languages = [
         'ru' => Russian::class,
-        'en' => English::class
+        'en' => English::class,
+        'es' => Spanish::class,
+        'it' => Italian::class,
+        'fr' => French::class
     ];
 
     /**

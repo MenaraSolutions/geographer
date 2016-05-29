@@ -21,7 +21,7 @@ interface IdentifiableInterface
     public function expectsLongNames();
 
     /**
-     * @return \stdClass
+     * @return array
      */
     public function getMeta();
 }
