@@ -118,9 +118,9 @@ Geographer::getCountries()->useShortNames()->toArray();
 |-----------|--------------|------------|--------------|
 | English   | ✓            | ✓         | ✓            |
 | Russian   | ✓            | ✓         | WIP          |
-| Spanish   | WIP          | WIP        | WIP          |            
-| Italian   | WIP          | WIP        | WIP          |
-| French    | WIP          | WIP        | WIP          |
+| Spanish   | ✓            | ✓         | WIP          |            
+| Italian   | ✓            | ✓         | WIP          |
+| French    | ✓            | ✓         | WIP          |
 | Bahasa Indonesia | WIP   | WIP        | WIP          |
 
 ## Todo
