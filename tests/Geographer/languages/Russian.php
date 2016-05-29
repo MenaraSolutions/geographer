@@ -9,26 +9,35 @@ class Russian extends Test
     protected $forms = ['', 'to', 'from'];
 
     /**
+     * @var string
+     */
+    protected $languageCode = 'ru';
+
+    /**
+     * @var int
+     */
+    protected $threshold = 50;
+
+    /**
      * @test
      */
-    public function all_countries_have_russian_names()
+    public function all_countries_have_translated_names()
     {
         $earth = new Earth();
         $countries = $earth->getCountries();
 
         foreach($countries as $country) {
-            $this->assertNotEquals($country->setLanguage('ru')->getName(), $country->setLanguage('en')->getName());
+            $this->assertNotEquals($country->setLanguage($this->languageCode)->getName(), $country->setLanguage('en')->getName());
         }
     }
 
     /**
      * @test
      */
-    public function many_states_have_russian_names()
+    public function many_states_have_translated_names()
     {
         $earth = new Earth();
         $countries = $earth->getCountries();
-        $threshold = 50; // 50% is ok for now
         $stateCount = 0;
         $translatedCount = 0;
 
@@ -37,12 +46,12 @@ class Russian extends Test
             $stateCount =+ count($states);
 
             foreach($states as $state) {
-                if ($state->setLanguage('ru')->getName() != $state->setLanguage('en')->getName()) {
+                if ($state->setLanguage($this->languageCode)->getName() != $state->setLanguage('en')->getName()) {
                     $translatedCount++;
                 }
             }
         }
 
-        $this->assertTrue(($translatedCount / $stateCount) * 100 > $threshold);
+        $this->assertTrue(($translatedCount / $stateCount) * 100 > $this->threshold);
     }
 }
