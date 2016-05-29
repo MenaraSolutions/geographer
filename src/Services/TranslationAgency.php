@@ -18,7 +18,7 @@ class TranslationAgency implements TranslationAgencyInterface
     /**
      * @var string
      */
-    protected $base_path;
+    protected $basePath;
 
     /**
      * @var string
@@ -52,11 +52,11 @@ class TranslationAgency implements TranslationAgencyInterface
     
     /**
      * TranslationRepository constructor.
-     * @param string $base_path
+     * @param string $basePath
      */
-    public function __construct($base_path)
+    public function __construct($basePath)
     {
-        $this->base_path = $base_path;
+        $this->basePath = $basePath;
     }
 
     /**
@@ -112,7 +112,7 @@ class TranslationAgency implements TranslationAgencyInterface
     public function getTranslator($language)
     {
         if (! isset($this->translators[$language])) {
-            $this->translators[$language] = new $this->languages[$language]($this->base_path);
+            $this->translators[$language] = new $this->languages[$language]($this->basePath);
         }
 
         return $this->translators[$language];

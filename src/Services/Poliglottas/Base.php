@@ -18,7 +18,7 @@ abstract class Base
     /**
      * @var string
      */
-    protected $base_path;
+    protected $basePath;
 
     /**
      * @var string
@@ -44,7 +44,7 @@ abstract class Base
      */
     public function __construct($basePath)
     {
-        $this->base_path = $basePath;
+        $this->basePath = $basePath;
     }
 
     /**
@@ -61,19 +61,19 @@ abstract class Base
 
     /**
      * @param string $class
-     * @param string|int $id
+     * @param string|int $memberId
      * @return string|bool
      */
-    public function getStoragePath($class, $id)
+    public function getStoragePath($class, $memberId)
     {
         switch ($class) {
             case Country::class:
-                return $this->base_path . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
+                return $this->basePath . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
 
                 break;
 
             case State::class;
-                return $this->base_path . 'translations/' . $this->getPrefix($class) . $id . DIRECTORY_SEPARATOR . $this->code . '.json';
+                return $this->basePath . 'translations/' . $this->getPrefix($class) . $memberId . DIRECTORY_SEPARATOR . $this->code . '.json';
 
                 break;
 

@@ -76,11 +76,7 @@ class DefaultConfig implements ConfigInterface
      */
     public function getTranslator()
     {
-        if ($this->prepositions) {
-            $this->translator->includePrepositions();
-        } else {
-            $this->translator->excludePrepositions();
-        }
+        $this->prepositions ? $this->translator->includePrepositions() : $this->translator->excludePrepositions();
 
         return $this->translator;
     }
