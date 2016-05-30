@@ -1,0 +1,911 @@
+{
+    "753142": {
+        "geoid": "753142",
+        "name": "Żoliborz",
+        "lat": 52.26896,
+        "lng": 20.98644,
+        "country": "PL",
+        "state": "78",
+        "population": 50934
+    },
+    "753866": {
+        "geoid": "753866",
+        "name": "Zamość",
+        "lat": 50.72314,
+        "lng": 23.25196,
+        "country": "PL",
+        "state": "75",
+        "population": 66034
+    },
+    "755330": {
+        "geoid": "755330",
+        "name": "Wola",
+        "lat": 52.2401,
+        "lng": 20.98869,
+        "country": "PL",
+        "state": "78",
+        "population": 143996
+    },
+    "756092": {
+        "geoid": "756092",
+        "name": "Wawer",
+        "lat": 52.19656,
+        "lng": 21.17752,
+        "country": "PL",
+        "state": "78",
+        "population": 62656
+    },
+    "756135": {
+        "geoid": "756135",
+        "name": "Warsaw",
+        "lat": 52.22977,
+        "lng": 21.01178,
+        "country": "PL",
+        "state": "78",
+        "population": 1702139
+    },
+    "756867": {
+        "geoid": "756867",
+        "name": "Tomaszów Mazowiecki",
+        "lat": 51.53131,
+        "lng": 20.00855,
+        "country": "PL",
+        "state": "74",
+        "population": 67197
+    },
+    "757026": {
+        "geoid": "757026",
+        "name": "Tarnów",
+        "lat": 50.01381,
+        "lng": 20.98698,
+        "country": "PL",
+        "state": "77",
+        "population": 117799
+    },
+    "757033": {
+        "geoid": "757033",
+        "name": "Tarnobrzeg",
+        "lat": 50.57304,
+        "lng": 21.67937,
+        "country": "PL",
+        "state": "80",
+        "population": 50459
+    },
+    "757065": {
+        "geoid": "757065",
+        "name": "Targówek",
+        "lat": 52.29185,
+        "lng": 21.04845,
+        "country": "PL",
+        "state": "78",
+        "population": 124316
+    },
+    "757718": {
+        "geoid": "757718",
+        "name": "Suwałki",
+        "lat": 54.11175,
+        "lng": 22.93087,
+        "country": "PL",
+        "state": "81",
+        "population": 69222
+    },
+    "758390": {
+        "geoid": "758390",
+        "name": "Starachowice",
+        "lat": 51.0374,
+        "lng": 21.07126,
+        "country": "PL",
+        "state": "84",
+        "population": 53739
+    },
+    "758445": {
+        "geoid": "758445",
+        "name": "Stalowa Wola",
+        "lat": 50.58286,
+        "lng": 22.05334,
+        "country": "PL",
+        "state": "80",
+        "population": 66495
+    },
+    "758470": {
+        "geoid": "758470",
+        "name": "Śródmieście",
+        "lat": 52.22904,
+        "lng": 21.01644,
+        "country": "PL",
+        "state": "78",
+        "population": 134306
+    },
+    "759412": {
+        "geoid": "759412",
+        "name": "Siedlce",
+        "lat": 52.16772,
+        "lng": 22.29006,
+        "country": "PL",
+        "state": "78",
+        "population": 77185
+    },
+    "759734": {
+        "geoid": "759734",
+        "name": "Rzeszów",
+        "lat": 50.04132,
+        "lng": 21.99901,
+        "country": "PL",
+        "state": "80",
+        "population": 158382
+    },
+    "760778": {
+        "geoid": "760778",
+        "name": "Radom",
+        "lat": 51.40253,
+        "lng": 21.14714,
+        "country": "PL",
+        "state": "78",
+        "population": 226794
+    },
+    "761168": {
+        "geoid": "761168",
+        "name": "Przemyśl",
+        "lat": 49.78498,
+        "lng": 22.76728,
+        "country": "PL",
+        "state": "80",
+        "population": 67013
+    },
+    "761228": {
+        "geoid": "761228",
+        "name": "Pruszków",
+        "lat": 52.17072,
+        "lng": 20.81214,
+        "country": "PL",
+        "state": "78",
+        "population": 55371
+    },
+    "762863": {
+        "geoid": "762863",
+        "name": "Ostrowiec Świętokrzyski",
+        "lat": 50.92936,
+        "lng": 21.38525,
+        "country": "PL",
+        "state": "84",
+        "population": 73989
+    },
+    "762909": {
+        "geoid": "762909",
+        "name": "Ostrołęka",
+        "lat": 53.08621,
+        "lng": 21.57566,
+        "country": "PL",
+        "state": "78",
+        "population": 53740
+    },
+    "763166": {
+        "geoid": "763166",
+        "name": "Olsztyn",
+        "lat": 53.77995,
+        "lng": 20.49416,
+        "country": "PL",
+        "state": "85",
+        "population": 171803
+    },
+    "763442": {
+        "geoid": "763442",
+        "name": "Ochota",
+        "lat": 52.22096,
+        "lng": 20.98526,
+        "country": "PL",
+        "state": "78",
+        "population": 93192
+    },
+    "763534": {
+        "geoid": "763534",
+        "name": "Nowy Sącz",
+        "lat": 49.62177,
+        "lng": 20.69705,
+        "country": "PL",
+        "state": "77",
+        "population": 84376
+    },
+    "764484": {
+        "geoid": "764484",
+        "name": "Mokotów",
+        "lat": 52.1934,
+        "lng": 21.03487,
+        "country": "PL",
+        "state": "78",
+        "population": 212670
+    },
+    "764849": {
+        "geoid": "764849",
+        "name": "Mielec",
+        "lat": 50.28709,
+        "lng": 21.4239,
+        "country": "PL",
+        "state": "80",
+        "population": 60993
+    },
+    "765876": {
+        "geoid": "765876",
+        "name": "Lublin",
+        "lat": 51.25,
+        "lng": 22.56667,
+        "country": "PL",
+        "state": "75",
+        "population": 360044
+    },
+    "766027": {
+        "geoid": "766027",
+        "name": "Łomża",
+        "lat": 53.17806,
+        "lng": 22.05935,
+        "country": "PL",
+        "state": "81",
+        "population": 63723
+    },
+    "766555": {
+        "geoid": "766555",
+        "name": "Legionowo",
+        "lat": 52.40149,
+        "lng": 20.92664,
+        "country": "PL",
+        "state": "78",
+        "population": 50786
+    },
+    "769250": {
+        "geoid": "769250",
+        "name": "Kielce",
+        "lat": 50.87033,
+        "lng": 20.62752,
+        "country": "PL",
+        "state": "84",
+        "population": 208598
+    },
+    "772621": {
+        "geoid": "772621",
+        "name": "Ełk",
+        "lat": 53.82824,
+        "lng": 22.36469,
+        "country": "PL",
+        "state": "85",
+        "population": 55769
+    },
+    "774558": {
+        "geoid": "774558",
+        "name": "Chełm",
+        "lat": 51.14312,
+        "lng": 23.4716,
+        "country": "PL",
+        "state": "75",
+        "population": 68043
+    },
+    "776029": {
+        "geoid": "776029",
+        "name": "Bielany",
+        "lat": 52.29242,
+        "lng": 20.93531,
+        "country": "PL",
+        "state": "78",
+        "population": 134854
+    },
+    "776069": {
+        "geoid": "776069",
+        "name": "Białystok",
+        "lat": 53.13333,
+        "lng": 23.16433,
+        "country": "PL",
+        "state": "81",
+        "population": 291855
+    },
+    "776103": {
+        "geoid": "776103",
+        "name": "Białołeka",
+        "lat": 52.32127,
+        "lng": 20.97204,
+        "country": "PL",
+        "state": "78",
+        "population": 89324
+    },
+    "776175": {
+        "geoid": "776175",
+        "name": "Biała Podlaska",
+        "lat": 52.03238,
+        "lng": 23.11652,
+        "country": "PL",
+        "state": "75",
+        "population": 57541
+    },
+    "776251": {
+        "geoid": "776251",
+        "name": "Bemowo",
+        "lat": 52.2546,
+        "lng": 20.90844,
+        "country": "PL",
+        "state": "78",
+        "population": 102393
+    },
+    "3080004": {
+        "geoid": "3080004",
+        "name": "Żory",
+        "lat": 50.04523,
+        "lng": 18.70062,
+        "country": "PL",
+        "state": "83",
+        "population": 63174
+    },
+    "3080165": {
+        "geoid": "3080165",
+        "name": "Zielona Góra",
+        "lat": 51.93548,
+        "lng": 15.50643,
+        "country": "PL",
+        "state": "76",
+        "population": 118433
+    },
+    "3080251": {
+        "geoid": "3080251",
+        "name": "Zgierz",
+        "lat": 51.85561,
+        "lng": 19.40623,
+        "country": "PL",
+        "state": "74",
+        "population": 58036
+    },
+    "3080526": {
+        "geoid": "3080526",
+        "name": "Zawiercie",
+        "lat": 50.48766,
+        "lng": 19.41679,
+        "country": "PL",
+        "state": "83",
+        "population": 53159
+    },
+    "3080985": {
+        "geoid": "3080985",
+        "name": "Zabrze",
+        "lat": 50.32492,
+        "lng": 18.78576,
+        "country": "PL",
+        "state": "83",
+        "population": 192177
+    },
+    "3081368": {
+        "geoid": "3081368",
+        "name": "Wrocław",
+        "lat": 51.1,
+        "lng": 17.03333,
+        "country": "PL",
+        "state": "72",
+        "population": 634893
+    },
+    "3081741": {
+        "geoid": "3081741",
+        "name": "Włocławek",
+        "lat": 52.64817,
+        "lng": 19.0678,
+        "country": "PL",
+        "state": "73",
+        "population": 120339
+    },
+    "3082707": {
+        "geoid": "3082707",
+        "name": "Wałbrzych",
+        "lat": 50.77141,
+        "lng": 16.28432,
+        "country": "PL",
+        "state": "72",
+        "population": 127431
+    },
+    "3082914": {
+        "geoid": "3082914",
+        "name": "Tychy",
+        "lat": 50.13717,
+        "lng": 18.96641,
+        "country": "PL",
+        "state": "83",
+        "population": 130000
+    },
+    "3083271": {
+        "geoid": "3083271",
+        "name": "Toruń",
+        "lat": 53.01375,
+        "lng": 18.59814,
+        "country": "PL",
+        "state": "73",
+        "population": 208717
+    },
+    "3083426": {
+        "geoid": "3083426",
+        "name": "Tczew",
+        "lat": 54.09242,
+        "lng": 18.77787,
+        "country": "PL",
+        "state": "82",
+        "population": 60133
+    },
+    "3083440": {
+        "geoid": "3083440",
+        "name": "Tarnowskie Góry",
+        "lat": 50.44548,
+        "lng": 18.86147,
+        "country": "PL",
+        "state": "83",
+        "population": 60938
+    },
+    "3083829": {
+        "geoid": "3083829",
+        "name": "Szczecin",
+        "lat": 53.42894,
+        "lng": 14.55302,
+        "country": "PL",
+        "state": "87",
+        "population": 407811
+    },
+    "3083988": {
+        "geoid": "3083988",
+        "name": "Świętochłowice",
+        "lat": 50.29636,
+        "lng": 18.91726,
+        "country": "PL",
+        "state": "83",
+        "population": 55600
+    },
+    "3084093": {
+        "geoid": "3084093",
+        "name": "Świdnica",
+        "lat": 50.84378,
+        "lng": 16.48859,
+        "country": "PL",
+        "state": "72",
+        "population": 60351
+    },
+    "3084840": {
+        "geoid": "3084840",
+        "name": "Stargard Szczeciński",
+        "lat": 53.33672,
+        "lng": 15.0499,
+        "country": "PL",
+        "state": "87",
+        "population": 71224
+    },
+    "3085128": {
+        "geoid": "3085128",
+        "name": "Sosnowiec",
+        "lat": 50.28682,
+        "lng": 19.10385,
+        "country": "PL",
+        "state": "83",
+        "population": 227295
+    },
+    "3085450": {
+        "geoid": "3085450",
+        "name": "Słupsk",
+        "lat": 54.46405,
+        "lng": 17.02872,
+        "country": "PL",
+        "state": "82",
+        "population": 98608
+    },
+    "3086024": {
+        "geoid": "3086024",
+        "name": "Siemianowice Śląskie",
+        "lat": 50.32738,
+        "lng": 19.02901,
+        "country": "PL",
+        "state": "83",
+        "population": 73121
+    },
+    "3086586": {
+        "geoid": "3086586",
+        "name": "Rybnik",
+        "lat": 50.09713,
+        "lng": 18.54179,
+        "country": "PL",
+        "state": "83",
+        "population": 142510
+    },
+    "3086800": {
+        "geoid": "3086800",
+        "name": "Ruda Śląska",
+        "lat": 50.2584,
+        "lng": 18.85632,
+        "country": "PL",
+        "state": "83",
+        "population": 146189
+    },
+    "3087584": {
+        "geoid": "3087584",
+        "name": "Racibórz",
+        "lat": 50.09195,
+        "lng": 18.21928,
+        "country": "PL",
+        "state": "83",
+        "population": 58464
+    },
+    "3088171": {
+        "geoid": "3088171",
+        "name": "Poznań",
+        "lat": 52.40692,
+        "lng": 16.92993,
+        "country": "PL",
+        "state": "86",
+        "population": 570352
+    },
+    "3088825": {
+        "geoid": "3088825",
+        "name": "Płock",
+        "lat": 52.54682,
+        "lng": 19.70638,
+        "country": "PL",
+        "state": "78",
+        "population": 127474
+    },
+    "3088972": {
+        "geoid": "3088972",
+        "name": "Piotrków Trybunalski",
+        "lat": 51.40547,
+        "lng": 19.70321,
+        "country": "PL",
+        "state": "74",
+        "population": 80128
+    },
+    "3089033": {
+        "geoid": "3089033",
+        "name": "Piła",
+        "lat": 53.15145,
+        "lng": 16.73782,
+        "country": "PL",
+        "state": "86",
+        "population": 75532
+    },
+    "3089125": {
+        "geoid": "3089125",
+        "name": "Piekary Śląskie",
+        "lat": 50.38017,
+        "lng": 18.92653,
+        "country": "PL",
+        "state": "83",
+        "population": 59757
+    },
+    "3089578": {
+        "geoid": "3089578",
+        "name": "Pabianice",
+        "lat": 51.66446,
+        "lng": 19.35473,
+        "country": "PL",
+        "state": "74",
+        "population": 70542
+    },
+    "3089684": {
+        "geoid": "3089684",
+        "name": "Ostrów Wielkopolski",
+        "lat": 51.65501,
+        "lng": 17.80686,
+        "country": "PL",
+        "state": "86",
+        "population": 72898
+    },
+    "3090048": {
+        "geoid": "3090048",
+        "name": "Opole",
+        "lat": 50.67211,
+        "lng": 17.92533,
+        "country": "PL",
+        "state": "79",
+        "population": 127676
+    },
+    "3091232": {
+        "geoid": "3091232",
+        "name": "Mysłowice",
+        "lat": 50.20745,
+        "lng": 19.16668,
+        "country": "PL",
+        "state": "83",
+        "population": 75281
+    },
+    "3092931": {
+        "geoid": "3092931",
+        "name": "Lubin",
+        "lat": 51.40089,
+        "lng": 16.20149,
+        "country": "PL",
+        "state": "72",
+        "population": 77532
+    },
+    "3093133": {
+        "geoid": "3093133",
+        "name": "Łódź",
+        "lat": 51.75,
+        "lng": 19.46667,
+        "country": "PL",
+        "state": "74",
+        "population": 768755
+    },
+    "3093524": {
+        "geoid": "3093524",
+        "name": "Leszno",
+        "lat": 51.84034,
+        "lng": 16.57494,
+        "country": "PL",
+        "state": "86",
+        "population": 63565
+    },
+    "3093692": {
+        "geoid": "3093692",
+        "name": "Legnica",
+        "lat": 51.21006,
+        "lng": 16.1619,
+        "country": "PL",
+        "state": "72",
+        "population": 106033
+    },
+    "3094802": {
+        "geoid": "3094802",
+        "name": "Kraków",
+        "lat": 50.06143,
+        "lng": 19.93658,
+        "country": "PL",
+        "state": "77",
+        "population": 755050
+    },
+    "3095049": {
+        "geoid": "3095049",
+        "name": "Koszalin",
+        "lat": 54.19438,
+        "lng": 16.17222,
+        "country": "PL",
+        "state": "87",
+        "population": 107450
+    },
+    "3095321": {
+        "geoid": "3095321",
+        "name": "Konin",
+        "lat": 52.22338,
+        "lng": 18.25121,
+        "country": "PL",
+        "state": "86",
+        "population": 81258
+    },
+    "3096372": {
+        "geoid": "3096372",
+        "name": "Kędzierzyn-Koźle",
+        "lat": 50.34984,
+        "lng": 18.22606,
+        "country": "PL",
+        "state": "79",
+        "population": 65636
+    },
+    "3096472": {
+        "geoid": "3096472",
+        "name": "Katowice",
+        "lat": 50.25841,
+        "lng": 19.02754,
+        "country": "PL",
+        "state": "83",
+        "population": 317316
+    },
+    "3096880": {
+        "geoid": "3096880",
+        "name": "Kalisz",
+        "lat": 51.76109,
+        "lng": 18.09102,
+        "country": "PL",
+        "state": "86",
+        "population": 108759
+    },
+    "3097257": {
+        "geoid": "3097257",
+        "name": "Jelenia Góra",
+        "lat": 50.89973,
+        "lng": 15.72899,
+        "country": "PL",
+        "state": "72",
+        "population": 87310
+    },
+    "3097333": {
+        "geoid": "3097333",
+        "name": "Jaworzno",
+        "lat": 50.20528,
+        "lng": 19.27498,
+        "country": "PL",
+        "state": "83",
+        "population": 96541
+    },
+    "3097391": {
+        "geoid": "3097391",
+        "name": "Jastrzębie Zdrój",
+        "lat": 49.95542,
+        "lng": 18.57479,
+        "country": "PL",
+        "state": "83",
+        "population": 95813
+    },
+    "3097872": {
+        "geoid": "3097872",
+        "name": "Inowrocław",
+        "lat": 52.79886,
+        "lng": 18.26387,
+        "country": "PL",
+        "state": "73",
+        "population": 77597
+    },
+    "3098218": {
+        "geoid": "3098218",
+        "name": "Grudziądz",
+        "lat": 53.48411,
+        "lng": 18.75366,
+        "country": "PL",
+        "state": "73",
+        "population": 99486
+    },
+    "3098722": {
+        "geoid": "3098722",
+        "name": "Gorzów Wielkopolski",
+        "lat": 52.73679,
+        "lng": 15.22878,
+        "country": "PL",
+        "state": "76",
+        "population": 124430
+    },
+    "3099112": {
+        "geoid": "3099112",
+        "name": "Gniezno",
+        "lat": 52.53481,
+        "lng": 17.58259,
+        "country": "PL",
+        "state": "86",
+        "population": 70269
+    },
+    "3099213": {
+        "geoid": "3099213",
+        "name": "Głogów",
+        "lat": 51.66361,
+        "lng": 16.0845,
+        "country": "PL",
+        "state": "72",
+        "population": 68530
+    },
+    "3099230": {
+        "geoid": "3099230",
+        "name": "Gliwice",
+        "lat": 50.29761,
+        "lng": 18.67658,
+        "country": "PL",
+        "state": "83",
+        "population": 198835
+    },
+    "3099424": {
+        "geoid": "3099424",
+        "name": "Gdynia",
+        "lat": 54.51889,
+        "lng": 18.53188,
+        "country": "PL",
+        "state": "82",
+        "population": 253730
+    },
+    "3099434": {
+        "geoid": "3099434",
+        "name": "Gdańsk",
+        "lat": 54.35205,
+        "lng": 18.64637,
+        "country": "PL",
+        "state": "82",
+        "population": 461865
+    },
+    "3099654": {
+        "geoid": "3099654",
+        "name": "Fordon",
+        "lat": 53.14821,
+        "lng": 18.17036,
+        "country": "PL",
+        "state": "73",
+        "population": 70000
+    },
+    "3099759": {
+        "geoid": "3099759",
+        "name": "Elbląg",
+        "lat": 54.1522,
+        "lng": 19.40884,
+        "country": "PL",
+        "state": "85",
+        "population": 127558
+    },
+    "3100796": {
+        "geoid": "3100796",
+        "name": "Dąbrowa Górnicza",
+        "lat": 50.31818,
+        "lng": 19.2374,
+        "country": "PL",
+        "state": "83",
+        "population": 130601
+    },
+    "3100946": {
+        "geoid": "3100946",
+        "name": "Częstochowa",
+        "lat": 50.79646,
+        "lng": 19.12409,
+        "country": "PL",
+        "state": "83",
+        "population": 248125
+    },
+    "3101619": {
+        "geoid": "3101619",
+        "name": "Chorzów",
+        "lat": 50.30582,
+        "lng": 18.9742,
+        "country": "PL",
+        "state": "83",
+        "population": 113430
+    },
+    "3101950": {
+        "geoid": "3101950",
+        "name": "Bytom",
+        "lat": 50.34802,
+        "lng": 18.93282,
+        "country": "PL",
+        "state": "83",
+        "population": 189186
+    },
+    "3102014": {
+        "geoid": "3102014",
+        "name": "Bydgoszcz",
+        "lat": 53.1235,
+        "lng": 18.00762,
+        "country": "PL",
+        "state": "73",
+        "population": 366452
+    },
+    "3103402": {
+        "geoid": "3103402",
+        "name": "Bielsko-Biala",
+        "lat": 49.82245,
+        "lng": 19.04686,
+        "country": "PL",
+        "state": "83",
+        "population": 176515
+    },
+    "3103709": {
+        "geoid": "3103709",
+        "name": "Bełchatów",
+        "lat": 51.36883,
+        "lng": 19.35671,
+        "country": "PL",
+        "state": "74",
+        "population": 62896
+    },
+    "3103719": {
+        "geoid": "3103719",
+        "name": "Będzin",
+        "lat": 50.32607,
+        "lng": 19.12565,
+        "country": "PL",
+        "state": "83",
+        "population": 58236
+    },
+    "6545326": {
+        "geoid": "6545326",
+        "name": "Ursynów",
+        "lat": 52.15051,
+        "lng": 21.05041,
+        "country": "PL",
+        "state": "78",
+        "population": 147676
+    },
+    "6545347": {
+        "geoid": "6545347",
+        "name": "Praga Północ",
+        "lat": 52.25443,
+        "lng": 21.03472,
+        "country": "PL",
+        "state": "78",
+        "population": 93192
+    },
+    "6545348": {
+        "geoid": "6545348",
+        "name": "Praga Południe",
+        "lat": 52.24424,
+        "lng": 21.08545,
+        "country": "PL",
+        "state": "78",
+        "population": 187845
+    }
+}

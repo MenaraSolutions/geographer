@@ -1,0 +1,542 @@
+{
+    "2743477": {
+        "geoid": "2743477",
+        "name": "Zwolle",
+        "lat": 52.5125,
+        "lng": 6.09444,
+        "country": "NL",
+        "state": "15",
+        "population": 111805
+    },
+    "2743856": {
+        "geoid": "2743856",
+        "name": "Zoetermeer",
+        "lat": 52.0575,
+        "lng": 4.49306,
+        "country": "NL",
+        "state": "11",
+        "population": 115845
+    },
+    "2743977": {
+        "geoid": "2743977",
+        "name": "Zeist",
+        "lat": 52.09,
+        "lng": 5.23333,
+        "country": "NL",
+        "state": "09",
+        "population": 60949
+    },
+    "2744114": {
+        "geoid": "2744114",
+        "name": "Zaanstad",
+        "lat": 52.45313,
+        "lng": 4.81356,
+        "country": "NL",
+        "state": "07",
+        "population": 140085
+    },
+    "2744118": {
+        "geoid": "2744118",
+        "name": "Zaandam",
+        "lat": 52.43854,
+        "lng": 4.82643,
+        "country": "NL",
+        "state": "07",
+        "population": 71708
+    },
+    "2745467": {
+        "geoid": "2745467",
+        "name": "Vlaardingen",
+        "lat": 51.9125,
+        "lng": 4.34167,
+        "country": "NL",
+        "state": "11",
+        "population": 73798
+    },
+    "2745641": {
+        "geoid": "2745641",
+        "name": "Venlo",
+        "lat": 51.37,
+        "lng": 6.16806,
+        "country": "NL",
+        "state": "05",
+        "population": 92403
+    },
+    "2745673": {
+        "geoid": "2745673",
+        "name": "Velsen-Zuid",
+        "lat": 52.46,
+        "lng": 4.65,
+        "country": "NL",
+        "state": "07",
+        "population": 67758
+    },
+    "2745774": {
+        "geoid": "2745774",
+        "name": "Veenendaal",
+        "lat": 52.02863,
+        "lng": 5.55891,
+        "country": "NL",
+        "state": "09",
+        "population": 61271
+    },
+    "2745912": {
+        "geoid": "2745912",
+        "name": "Utrecht",
+        "lat": 52.09083,
+        "lng": 5.12222,
+        "country": "NL",
+        "state": "09",
+        "population": 290529
+    },
+    "2746301": {
+        "geoid": "2746301",
+        "name": "Tilburg",
+        "lat": 51.55551,
+        "lng": 5.0913,
+        "country": "NL",
+        "state": "06",
+        "population": 199613
+    },
+    "2746932": {
+        "geoid": "2746932",
+        "name": "Spijkenisse",
+        "lat": 51.845,
+        "lng": 4.32917,
+        "country": "NL",
+        "state": "11",
+        "population": 74988
+    },
+    "2747351": {
+        "geoid": "2747351",
+        "name": "'s-Hertogenbosch",
+        "lat": 51.69917,
+        "lng": 5.30417,
+        "country": "NL",
+        "state": "06",
+        "population": 134520
+    },
+    "2747373": {
+        "geoid": "2747373",
+        "name": "The Hague",
+        "lat": 52.07667,
+        "lng": 4.29861,
+        "country": "NL",
+        "state": "11",
+        "population": 474292
+    },
+    "2747596": {
+        "geoid": "2747596",
+        "name": "Schiedam",
+        "lat": 51.91917,
+        "lng": 4.38889,
+        "country": "NL",
+        "state": "11",
+        "population": 75438
+    },
+    "2747891": {
+        "geoid": "2747891",
+        "name": "Rotterdam",
+        "lat": 51.9225,
+        "lng": 4.47917,
+        "country": "NL",
+        "state": "11",
+        "population": 598199
+    },
+    "2747930": {
+        "geoid": "2747930",
+        "name": "Roosendaal",
+        "lat": 51.53083,
+        "lng": 4.46528,
+        "country": "NL",
+        "state": "06",
+        "population": 77725
+    },
+    "2748413": {
+        "geoid": "2748413",
+        "name": "Purmerend",
+        "lat": 52.505,
+        "lng": 4.95972,
+        "country": "NL",
+        "state": "07",
+        "population": 76745
+    },
+    "2749234": {
+        "geoid": "2749234",
+        "name": "Oss",
+        "lat": 51.765,
+        "lng": 5.51806,
+        "country": "NL",
+        "state": "06",
+        "population": 76430
+    },
+    "2749450": {
+        "geoid": "2749450",
+        "name": "Oosterhout",
+        "lat": 51.645,
+        "lng": 4.85972,
+        "country": "NL",
+        "state": "06",
+        "population": 53107
+    },
+    "2750053": {
+        "geoid": "2750053",
+        "name": "Nijmegen",
+        "lat": 51.8425,
+        "lng": 5.85278,
+        "country": "NL",
+        "state": "03",
+        "population": 158732
+    },
+    "2750325": {
+        "geoid": "2750325",
+        "name": "Nieuwegein",
+        "lat": 52.02917,
+        "lng": 5.08056,
+        "country": "NL",
+        "state": "09",
+        "population": 61489
+    },
+    "2751283": {
+        "geoid": "2751283",
+        "name": "Maastricht",
+        "lat": 50.84833,
+        "lng": 5.68889,
+        "country": "NL",
+        "state": "05",
+        "population": 122378
+    },
+    "2751738": {
+        "geoid": "2751738",
+        "name": "Lelystad",
+        "lat": 52.50833,
+        "lng": 5.475,
+        "country": "NL",
+        "state": "16",
+        "population": 70741
+    },
+    "2751773": {
+        "geoid": "2751773",
+        "name": "Leiden",
+        "lat": 52.15833,
+        "lng": 4.49306,
+        "country": "NL",
+        "state": "11",
+        "population": 119713
+    },
+    "2751792": {
+        "geoid": "2751792",
+        "name": "Leeuwarden",
+        "lat": 53.20139,
+        "lng": 5.80859,
+        "country": "NL",
+        "state": "02",
+        "population": 91424
+    },
+    "2753638": {
+        "geoid": "2753638",
+        "name": "Hoorn",
+        "lat": 52.6425,
+        "lng": 5.05972,
+        "country": "NL",
+        "state": "07",
+        "population": 68852
+    },
+    "2753801": {
+        "geoid": "2753801",
+        "name": "Hoofddorp",
+        "lat": 52.3025,
+        "lng": 4.68889,
+        "country": "NL",
+        "state": "07",
+        "population": 132734
+    },
+    "2754064": {
+        "geoid": "2754064",
+        "name": "Hilversum",
+        "lat": 52.22333,
+        "lng": 5.17639,
+        "country": "NL",
+        "state": "07",
+        "population": 83640
+    },
+    "2754394": {
+        "geoid": "2754394",
+        "name": "Hengelo",
+        "lat": 52.26583,
+        "lng": 6.79306,
+        "country": "NL",
+        "state": "15",
+        "population": 80809
+    },
+    "2754447": {
+        "geoid": "2754447",
+        "name": "Helmond",
+        "lat": 51.48167,
+        "lng": 5.66111,
+        "country": "NL",
+        "state": "06",
+        "population": 74740
+    },
+    "2754652": {
+        "geoid": "2754652",
+        "name": "Heerlen",
+        "lat": 50.88365,
+        "lng": 5.98154,
+        "country": "NL",
+        "state": "05",
+        "population": 93084
+    },
+    "2754861": {
+        "geoid": "2754861",
+        "name": "Hardenberg",
+        "lat": 52.57583,
+        "lng": 6.61944,
+        "country": "NL",
+        "state": "15",
+        "population": 57909
+    },
+    "2755003": {
+        "geoid": "2755003",
+        "name": "Haarlem",
+        "lat": 52.38084,
+        "lng": 4.63683,
+        "country": "NL",
+        "state": "07",
+        "population": 147590
+    },
+    "2755251": {
+        "geoid": "2755251",
+        "name": "Groningen",
+        "lat": 53.21917,
+        "lng": 6.56667,
+        "country": "NL",
+        "state": "04",
+        "population": 181194
+    },
+    "2755420": {
+        "geoid": "2755420",
+        "name": "Gouda",
+        "lat": 52.01667,
+        "lng": 4.70833,
+        "country": "NL",
+        "state": "11",
+        "population": 71952
+    },
+    "2756071": {
+        "geoid": "2756071",
+        "name": "Enschede",
+        "lat": 52.21833,
+        "lng": 6.89583,
+        "country": "NL",
+        "state": "15",
+        "population": 153655
+    },
+    "2756136": {
+        "geoid": "2756136",
+        "name": "Emmen",
+        "lat": 52.77917,
+        "lng": 6.90694,
+        "country": "NL",
+        "state": "01",
+        "population": 57010
+    },
+    "2756253": {
+        "geoid": "2756253",
+        "name": "Eindhoven",
+        "lat": 51.44083,
+        "lng": 5.47778,
+        "country": "NL",
+        "state": "06",
+        "population": 209620
+    },
+    "2756429": {
+        "geoid": "2756429",
+        "name": "Ede",
+        "lat": 52.03333,
+        "lng": 5.65833,
+        "country": "NL",
+        "state": "03",
+        "population": 67670
+    },
+    "2756669": {
+        "geoid": "2756669",
+        "name": "Dordrecht",
+        "lat": 51.81,
+        "lng": 4.67361,
+        "country": "NL",
+        "state": "11",
+        "population": 119260
+    },
+    "2756987": {
+        "geoid": "2756987",
+        "name": "Deventer",
+        "lat": 52.255,
+        "lng": 6.16389,
+        "country": "NL",
+        "state": "15",
+        "population": 97331
+    },
+    "2757220": {
+        "geoid": "2757220",
+        "name": "Den Helder",
+        "lat": 52.95988,
+        "lng": 4.75933,
+        "country": "NL",
+        "state": "07",
+        "population": 59569
+    },
+    "2757345": {
+        "geoid": "2757345",
+        "name": "Delft",
+        "lat": 52.00667,
+        "lng": 4.35556,
+        "country": "NL",
+        "state": "11",
+        "population": 95060
+    },
+    "2757347": {
+        "geoid": "2757347",
+        "name": "Delfshaven",
+        "lat": 51.90488,
+        "lng": 4.45315,
+        "country": "NL",
+        "state": "11",
+        "population": 70290
+    },
+    "2758012": {
+        "geoid": "2758012",
+        "name": "Capelle aan den IJssel",
+        "lat": 51.92917,
+        "lng": 4.57778,
+        "country": "NL",
+        "state": "11",
+        "population": 65255
+    },
+    "2758401": {
+        "geoid": "2758401",
+        "name": "Breda",
+        "lat": 51.58656,
+        "lng": 4.77596,
+        "country": "NL",
+        "state": "06",
+        "population": 167673
+    },
+    "2758602": {
+        "geoid": "2758602",
+        "name": "Born",
+        "lat": 51.03167,
+        "lng": 5.80972,
+        "country": "NL",
+        "state": "05",
+        "population": 97169
+    },
+    "2759145": {
+        "geoid": "2759145",
+        "name": "Bergen op Zoom",
+        "lat": 51.495,
+        "lng": 4.29167,
+        "country": "NL",
+        "state": "06",
+        "population": 66256
+    },
+    "2759633": {
+        "geoid": "2759633",
+        "name": "Assen",
+        "lat": 52.99667,
+        "lng": 6.5625,
+        "country": "NL",
+        "state": "01",
+        "population": 62237
+    },
+    "2759661": {
+        "geoid": "2759661",
+        "name": "Arnhem",
+        "lat": 51.98,
+        "lng": 5.91111,
+        "country": "NL",
+        "state": "03",
+        "population": 141674
+    },
+    "2759706": {
+        "geoid": "2759706",
+        "name": "Apeldoorn",
+        "lat": 52.21,
+        "lng": 5.96944,
+        "country": "NL",
+        "state": "03",
+        "population": 136670
+    },
+    "2759794": {
+        "geoid": "2759794",
+        "name": "Amsterdam",
+        "lat": 52.37403,
+        "lng": 4.88969,
+        "country": "NL",
+        "state": "07",
+        "population": 741636
+    },
+    "2759798": {
+        "geoid": "2759798",
+        "name": "Amstelveen",
+        "lat": 52.30083,
+        "lng": 4.86389,
+        "country": "NL",
+        "state": "07",
+        "population": 79639
+    },
+    "2759821": {
+        "geoid": "2759821",
+        "name": "Amersfoort",
+        "lat": 52.155,
+        "lng": 5.3875,
+        "country": "NL",
+        "state": "09",
+        "population": 139914
+    },
+    "2759875": {
+        "geoid": "2759875",
+        "name": "Alphen aan den Rijn",
+        "lat": 52.12917,
+        "lng": 4.65546,
+        "country": "NL",
+        "state": "11",
+        "population": 70251
+    },
+    "2759879": {
+        "geoid": "2759879",
+        "name": "Almere Stad",
+        "lat": 52.37025,
+        "lng": 5.21413,
+        "country": "NL",
+        "state": "16",
+        "population": 176432
+    },
+    "2759887": {
+        "geoid": "2759887",
+        "name": "Almelo",
+        "lat": 52.35667,
+        "lng": 6.6625,
+        "country": "NL",
+        "state": "15",
+        "population": 72725
+    },
+    "2759899": {
+        "geoid": "2759899",
+        "name": "Alkmaar",
+        "lat": 52.63167,
+        "lng": 4.74861,
+        "country": "NL",
+        "state": "07",
+        "population": 94853
+    },
+    "6544881": {
+        "geoid": "6544881",
+        "name": "Amsterdam-Zuidoost",
+        "lat": 52.3075,
+        "lng": 4.97222,
+        "country": "NL",
+        "state": "07",
+        "population": 84811
+    }
+}

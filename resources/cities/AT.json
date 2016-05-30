@@ -1,0 +1,74 @@
+{
+    "2761369": {
+        "geoid": "2761369",
+        "name": "Vienna",
+        "lat": 48.20849,
+        "lng": 16.37208,
+        "country": "AT",
+        "state": "09",
+        "population": 1691468
+    },
+    "2761524": {
+        "geoid": "2761524",
+        "name": "Wels",
+        "lat": 48.16667,
+        "lng": 14.03333,
+        "country": "AT",
+        "state": "04",
+        "population": 57946
+    },
+    "2762372": {
+        "geoid": "2762372",
+        "name": "Villach",
+        "lat": 46.61028,
+        "lng": 13.85583,
+        "country": "AT",
+        "state": "02",
+        "population": 58882
+    },
+    "2766824": {
+        "geoid": "2766824",
+        "name": "Salzburg",
+        "lat": 47.79941,
+        "lng": 13.04399,
+        "country": "AT",
+        "state": "05",
+        "population": 150269
+    },
+    "2772400": {
+        "geoid": "2772400",
+        "name": "Linz",
+        "lat": 48.30639,
+        "lng": 14.28611,
+        "country": "AT",
+        "state": "04",
+        "population": 181162
+    },
+    "2774326": {
+        "geoid": "2774326",
+        "name": "Klagenfurt am Wörthersee",
+        "lat": 46.62472,
+        "lng": 14.30528,
+        "country": "AT",
+        "state": "02",
+        "population": 90610
+    },
+    "2775220": {
+        "geoid": "2775220",
+        "name": "Innsbruck",
+        "lat": 47.26266,
+        "lng": 11.39454,
+        "country": "AT",
+        "state": "07",
+        "population": 112467
+    },
+    "2778067": {
+        "geoid": "2778067",
+        "name": "Graz",
+        "lat": 47.06667,
+        "lng": 15.45,
+        "country": "AT",
+        "state": "06",
+        "population": 222326
+    }
+}

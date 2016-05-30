@@ -1,0 +1,38 @@
+{
+    "2255414": {
+        "geoid": "2255414",
+        "name": "Pointe-Noire",
+        "lat": -4.77609,
+        "lng": 11.86352,
+        "country": "CG",
+        "state": "7280295",
+        "population": 659084
+    },
+    "2258261": {
+        "geoid": "2258261",
+        "name": "Dolisie",
+        "lat": -4.19834,
+        "lng": 12.66664,
+        "country": "CG",
+        "state": "07",
+        "population": 103894
+    },
+    "2259383": {
+        "geoid": "2259383",
+        "name": "Kayes",
+        "lat": -4.20493,
+        "lng": 13.28608,
+        "country": "CG",
+        "state": "01",
+        "population": 58737
+    },
+    "2260535": {
+        "geoid": "2260535",
+        "name": "Brazzaville",
+        "lat": -4.26613,
+        "lng": 15.28318,
+        "country": "CG",
+        "state": "12",
+        "population": 1284609
+    }
+}

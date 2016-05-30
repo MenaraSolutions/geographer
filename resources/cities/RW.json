@@ -1,0 +1,65 @@
+{
+    "201521": {
+        "geoid": "201521",
+        "name": "Musanze",
+        "lat": -1.49984,
+        "lng": 29.63497,
+        "country": "RW",
+        "state": "13",
+        "population": 86685
+    },
+    "202061": {
+        "geoid": "202061",
+        "name": "Kigali",
+        "lat": -1.94995,
+        "lng": 30.05885,
+        "country": "RW",
+        "state": "12",
+        "population": 745261
+    },
+    "202217": {
+        "geoid": "202217",
+        "name": "Gitarama",
+        "lat": -2.07444,
+        "lng": 29.75667,
+        "country": "RW",
+        "state": "15",
+        "population": 87613
+    },
+    "202326": {
+        "geoid": "202326",
+        "name": "Cyangugu",
+        "lat": -2.4846,
+        "lng": 28.9075,
+        "country": "RW",
+        "state": "14",
+        "population": 63883
+    },
+    "202905": {
+        "geoid": "202905",
+        "name": "Gisenyi",
+        "lat": -1.70278,
+        "lng": 29.25639,
+        "country": "RW",
+        "state": "14",
+        "population": 83623
+    },
+    "203104": {
+        "geoid": "203104",
+        "name": "Byumba",
+        "lat": -1.5763,
+        "lng": 30.0675,
+        "country": "RW",
+        "state": "13",
+        "population": 70593
+    },
+    "203112": {
+        "geoid": "203112",
+        "name": "Butare",
+        "lat": -2.59667,
+        "lng": 29.73944,
+        "country": "RW",
+        "state": "15",
+        "population": 89600
+    }
+}

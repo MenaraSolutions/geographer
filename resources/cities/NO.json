@@ -1,0 +1,101 @@
+{
+    "3133880": {
+        "geoid": "3133880",
+        "name": "Trondheim",
+        "lat": 63.43049,
+        "lng": 10.39506,
+        "country": "NO",
+        "state": "16",
+        "population": 147139
+    },
+    "3133895": {
+        "geoid": "3133895",
+        "name": "Tromsø",
+        "lat": 69.6489,
+        "lng": 18.95508,
+        "country": "NO",
+        "state": "18",
+        "population": 52436
+    },
+    "3137115": {
+        "geoid": "3137115",
+        "name": "Stavanger",
+        "lat": 58.97005,
+        "lng": 5.73332,
+        "country": "NO",
+        "state": "14",
+        "population": 121610
+    },
+    "3139075": {
+        "geoid": "3139075",
+        "name": "Skien",
+        "lat": 59.20962,
+        "lng": 9.60897,
+        "country": "NO",
+        "state": "17",
+        "population": 50595
+    },
+    "3140084": {
+        "geoid": "3140084",
+        "name": "Sarpsborg",
+        "lat": 59.28391,
+        "lng": 11.10962,
+        "country": "NO",
+        "state": "13",
+        "population": 52159
+    },
+    "3140321": {
+        "geoid": "3140321",
+        "name": "Sandnes",
+        "lat": 58.85244,
+        "lng": 5.73521,
+        "country": "NO",
+        "state": "14",
+        "population": 63032
+    },
+    "3143244": {
+        "geoid": "3143244",
+        "name": "Oslo",
+        "lat": 59.91273,
+        "lng": 10.74609,
+        "country": "NO",
+        "state": "12",
+        "population": 580000
+    },
+    "3149318": {
+        "geoid": "3149318",
+        "name": "Kristiansand",
+        "lat": 58.14671,
+        "lng": 7.9956,
+        "country": "NO",
+        "state": "19",
+        "population": 63814
+    },
+    "3156529": {
+        "geoid": "3156529",
+        "name": "Fredrikstad",
+        "lat": 59.2181,
+        "lng": 10.9298,
+        "country": "NO",
+        "state": "13",
+        "population": 72760
+    },
+    "3159016": {
+        "geoid": "3159016",
+        "name": "Drammen",
+        "lat": 59.74389,
+        "lng": 10.20449,
+        "country": "NO",
+        "state": "04",
+        "population": 90722
+    },
+    "3161732": {
+        "geoid": "3161732",
+        "name": "Bergen",
+        "lat": 60.39299,
+        "lng": 5.32415,
+        "country": "NO",
+        "state": "07",
+        "population": 213585
+    }
+}

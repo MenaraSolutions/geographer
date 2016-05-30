@@ -1,0 +1,7103 @@
+{
+    "1279715": {
+        "geoid": "1279715",
+        "name": "Rikaze",
+        "lat": 29.25,
+        "lng": 88.88333,
+        "country": "CN",
+        "state": "14",
+        "population": 80000
+    },
+    "1279945": {
+        "geoid": "1279945",
+        "name": "Jiuquan",
+        "lat": 39.74318,
+        "lng": 98.51736,
+        "country": "CN",
+        "state": "15",
+        "population": 72732
+    },
+    "1280037": {
+        "geoid": "1280037",
+        "name": "Shache",
+        "lat": 38.41667,
+        "lng": 77.24056,
+        "country": "CN",
+        "state": "13",
+        "population": 82509
+    },
+    "1280281": {
+        "geoid": "1280281",
+        "name": "Qamdo",
+        "lat": 31.1304,
+        "lng": 97.17982,
+        "country": "CN",
+        "state": "14",
+        "population": 86280
+    },
+    "1280737": {
+        "geoid": "1280737",
+        "name": "Lhasa",
+        "lat": 29.65,
+        "lng": 91.1,
+        "country": "CN",
+        "state": "14",
+        "population": 118721
+    },
+    "1280757": {
+        "geoid": "1280757",
+        "name": "Laojunmiao",
+        "lat": 39.83333,
+        "lng": 97.73333,
+        "country": "CN",
+        "state": "15",
+        "population": 84769
+    },
+    "1280849": {
+        "geoid": "1280849",
+        "name": "Kashgar",
+        "lat": 39.47066,
+        "lng": 75.98951,
+        "country": "CN",
+        "state": "13",
+        "population": 274717
+    },
+    "1280957": {
+        "geoid": "1280957",
+        "name": "Jiayuguan",
+        "lat": 39.81121,
+        "lng": 98.28618,
+        "country": "CN",
+        "state": "15",
+        "population": 122396
+    },
+    "1281019": {
+        "geoid": "1281019",
+        "name": "Hotan",
+        "lat": 37.1075,
+        "lng": 79.93548,
+        "country": "CN",
+        "state": "13",
+        "population": 114000
+    },
+    "1281368": {
+        "geoid": "1281368",
+        "name": "Dêqên",
+        "lat": 29.96178,
+        "lng": 90.71875,
+        "country": "CN",
+        "state": "14",
+        "population": 62400
+    },
+    "1529102": {
+        "geoid": "1529102",
+        "name": "Ürümqi",
+        "lat": 43.80096,
+        "lng": 87.60046,
+        "country": "CN",
+        "state": "13",
+        "population": 3029372
+    },
+    "1529114": {
+        "geoid": "1529114",
+        "name": "Turpan",
+        "lat": 42.94769,
+        "lng": 89.17886,
+        "country": "CN",
+        "state": "13",
+        "population": 254900
+    },
+    "1529195": {
+        "geoid": "1529195",
+        "name": "Shihezi",
+        "lat": 44.3023,
+        "lng": 86.03694,
+        "country": "CN",
+        "state": "13",
+        "population": 572772
+    },
+    "1529363": {
+        "geoid": "1529363",
+        "name": "Kuqa",
+        "lat": 41.72778,
+        "lng": 82.93639,
+        "country": "CN",
+        "state": "13",
+        "population": 68105
+    },
+    "1529376": {
+        "geoid": "1529376",
+        "name": "Korla",
+        "lat": 41.76055,
+        "lng": 86.15231,
+        "country": "CN",
+        "state": "13",
+        "population": 179465
+    },
+    "1529484": {
+        "geoid": "1529484",
+        "name": "Hami",
+        "lat": 42.83393,
+        "lng": 93.50601,
+        "country": "CN",
+        "state": "13",
+        "population": 137072
+    },
+    "1529569": {
+        "geoid": "1529569",
+        "name": "Changji",
+        "lat": 44.00782,
+        "lng": 87.30461,
+        "country": "CN",
+        "state": "13",
+        "population": 198776
+    },
+    "1529626": {
+        "geoid": "1529626",
+        "name": "Baijiantan",
+        "lat": 45.68928,
+        "lng": 85.12441,
+        "country": "CN",
+        "state": "13",
+        "population": 93697
+    },
+    "1529641": {
+        "geoid": "1529641",
+        "name": "Aral",
+        "lat": 40.54184,
+        "lng": 81.26566,
+        "country": "CN",
+        "state": "13",
+        "population": 260000
+    },
+    "1529651": {
+        "geoid": "1529651",
+        "name": "Altay",
+        "lat": 47.84864,
+        "lng": 88.13361,
+        "country": "CN",
+        "state": "13",
+        "population": 139341
+    },
+    "1529660": {
+        "geoid": "1529660",
+        "name": "Aksu",
+        "lat": 41.18418,
+        "lng": 80.27921,
+        "country": "CN",
+        "state": "13",
+        "population": 340020
+    },
+    "1783621": {
+        "geoid": "1783621",
+        "name": "Zunyi",
+        "lat": 27.68667,
+        "lng": 106.90722,
+        "country": "CN",
+        "state": "18",
+        "population": 466292
+    },
+    "1783633": {
+        "geoid": "1783633",
+        "name": "Zoucheng",
+        "lat": 35.40056,
+        "lng": 116.96556,
+        "country": "CN",
+        "state": "25",
+        "population": 190537
+    },
+    "1783683": {
+        "geoid": "1783683",
+        "name": "Yanjiang",
+        "lat": 30.12108,
+        "lng": 104.64811,
+        "country": "CN",
+        "state": "32",
+        "population": 87400
+    },
+    "1783745": {
+        "geoid": "1783745",
+        "name": "Zigong",
+        "lat": 29.34162,
+        "lng": 104.77689,
+        "country": "CN",
+        "state": "32",
+        "population": 689961
+    },
+    "1783763": {
+        "geoid": "1783763",
+        "name": "Zhuzhou",
+        "lat": 27.83333,
+        "lng": 113.15,
+        "country": "CN",
+        "state": "11",
+        "population": 709358
+    },
+    "1783873": {
+        "geoid": "1783873",
+        "name": "Zhumadian",
+        "lat": 32.97944,
+        "lng": 114.02944,
+        "country": "CN",
+        "state": "09",
+        "population": 720000
+    },
+    "1783920": {
+        "geoid": "1783920",
+        "name": "Zhujiajiao",
+        "lat": 31.10757,
+        "lng": 121.05696,
+        "country": "CN",
+        "state": "23",
+        "population": 60000
+    },
+    "1783934": {
+        "geoid": "1783934",
+        "name": "Shangqiu",
+        "lat": 34.45,
+        "lng": 115.65,
+        "country": "CN",
+        "state": "09",
+        "population": 181218
+    },
+    "1783940": {
+        "geoid": "1783940",
+        "name": "Zhuji",
+        "lat": 29.71877,
+        "lng": 120.24233,
+        "country": "CN",
+        "state": "02",
+        "population": 110721
+    },
+    "1783988": {
+        "geoid": "1783988",
+        "name": "Mizhou",
+        "lat": 35.99472,
+        "lng": 119.3975,
+        "country": "CN",
+        "state": "25",
+        "population": 109968
+    },
+    "1784055": {
+        "geoid": "1784055",
+        "name": "Zhuanghe",
+        "lat": 39.70083,
+        "lng": 122.99111,
+        "country": "CN",
+        "state": "19",
+        "population": 80384
+    },
+    "1784130": {
+        "geoid": "1784130",
+        "name": "Zhoukou",
+        "lat": 33.63333,
+        "lng": 114.63333,
+        "country": "CN",
+        "state": "09",
+        "population": 377061
+    },
+    "1784178": {
+        "geoid": "1784178",
+        "name": "Zhoucun",
+        "lat": 36.81667,
+        "lng": 117.81667,
+        "country": "CN",
+        "state": "25",
+        "population": 122402
+    },
+    "1784185": {
+        "geoid": "1784185",
+        "name": "Yuxi",
+        "lat": 24.355,
+        "lng": 102.54222,
+        "country": "CN",
+        "state": "29",
+        "population": 103829
+    },
+    "1784253": {
+        "geoid": "1784253",
+        "name": "Zhongxing",
+        "lat": 33.70389,
+        "lng": 118.67917,
+        "country": "CN",
+        "state": "04",
+        "population": 57338
+    },
+    "1784310": {
+        "geoid": "1784310",
+        "name": "Zhongshu",
+        "lat": 24.51667,
+        "lng": 103.76667,
+        "country": "CN",
+        "state": "29",
+        "population": 91750
+    },
+    "1784553": {
+        "geoid": "1784553",
+        "name": "Zhicheng",
+        "lat": 31.0054,
+        "lng": 119.90488,
+        "country": "CN",
+        "state": "02",
+        "population": 63753
+    },
+    "1784554": {
+        "geoid": "1784554",
+        "name": "Zhicheng",
+        "lat": 30.29556,
+        "lng": 111.50472,
+        "country": "CN",
+        "state": "12",
+        "population": 159383
+    },
+    "1784580": {
+        "geoid": "1784580",
+        "name": "Zhenzhou",
+        "lat": 32.28034,
+        "lng": 119.16999,
+        "country": "CN",
+        "state": "04",
+        "population": 176006
+    },
+    "1784642": {
+        "geoid": "1784642",
+        "name": "Zhenjiang",
+        "lat": 32.21086,
+        "lng": 119.45508,
+        "country": "CN",
+        "state": "04",
+        "population": 632552
+    },
+    "1784647": {
+        "geoid": "1784647",
+        "name": "Zhaobaoshan",
+        "lat": 29.9695,
+        "lng": 121.68753,
+        "country": "CN",
+        "state": "02",
+        "population": 61979
+    },
+    "1784658": {
+        "geoid": "1784658",
+        "name": "Zhengzhou",
+        "lat": 34.75778,
+        "lng": 113.64861,
+        "country": "CN",
+        "state": "09",
+        "population": 4253913
+    },
+    "1784820": {
+        "geoid": "1784820",
+        "name": "Xinghua",
+        "lat": 32.93917,
+        "lng": 119.83417,
+        "country": "CN",
+        "state": "04",
+        "population": 105918
+    },
+    "1784841": {
+        "geoid": "1784841",
+        "name": "Zhaotong",
+        "lat": 27.31667,
+        "lng": 103.71667,
+        "country": "CN",
+        "state": "29",
+        "population": 109400
+    },
+    "1784853": {
+        "geoid": "1784853",
+        "name": "Zhaoqing",
+        "lat": 23.05116,
+        "lng": 112.45972,
+        "country": "CN",
+        "state": "30",
+        "population": 361969
+    },
+    "1784929": {
+        "geoid": "1784929",
+        "name": "Zhaogezhuang",
+        "lat": 39.76538,
+        "lng": 118.41191,
+        "country": "CN",
+        "state": "10",
+        "population": 86555
+    },
+    "1784953": {
+        "geoid": "1784953",
+        "name": "Luofeng",
+        "lat": 37.36497,
+        "lng": 120.40997,
+        "country": "CN",
+        "state": "25",
+        "population": 100774
+    },
+    "1784990": {
+        "geoid": "1784990",
+        "name": "Zhanjiang",
+        "lat": 21.28145,
+        "lng": 110.34271,
+        "country": "CN",
+        "state": "30",
+        "population": 637790
+    },
+    "1785018": {
+        "geoid": "1785018",
+        "name": "Zhangzhou",
+        "lat": 24.51333,
+        "lng": 117.65556,
+        "country": "CN",
+        "state": "07",
+        "population": 589831
+    },
+    "1785036": {
+        "geoid": "1785036",
+        "name": "Zhangye",
+        "lat": 38.93417,
+        "lng": 100.45167,
+        "country": "CN",
+        "state": "15",
+        "population": 96228
+    },
+    "1785286": {
+        "geoid": "1785286",
+        "name": "Zibo",
+        "lat": 36.79056,
+        "lng": 118.06333,
+        "country": "CN",
+        "state": "25",
+        "population": 3129228
+    },
+    "1785294": {
+        "geoid": "1785294",
+        "name": "Anyang",
+        "lat": 36.096,
+        "lng": 114.38278,
+        "country": "CN",
+        "state": "09",
+        "population": 781129
+    },
+    "1785453": {
+        "geoid": "1785453",
+        "name": "Zaozhuang",
+        "lat": 34.86472,
+        "lng": 117.55417,
+        "country": "CN",
+        "state": "25",
+        "population": 183665
+    },
+    "1785462": {
+        "geoid": "1785462",
+        "name": "Zaoyang",
+        "lat": 32.12722,
+        "lng": 112.75417,
+        "country": "CN",
+        "state": "12",
+        "population": 184509
+    },
+    "1785545": {
+        "geoid": "1785545",
+        "name": "Yuyao",
+        "lat": 30.05,
+        "lng": 121.14944,
+        "country": "CN",
+        "state": "02",
+        "population": 114177
+    },
+    "1785566": {
+        "geoid": "1785566",
+        "name": "Yingchuan",
+        "lat": 34.16278,
+        "lng": 113.46389,
+        "country": "CN",
+        "state": "09",
+        "population": 87961
+    },
+    "1785572": {
+        "geoid": "1785572",
+        "name": "Yuxia",
+        "lat": 34.06153,
+        "lng": 108.62905,
+        "country": "CN",
+        "state": "26",
+        "population": 60206
+    },
+    "1785623": {
+        "geoid": "1785623",
+        "name": "Kunshan",
+        "lat": 31.37762,
+        "lng": 120.95431,
+        "country": "CN",
+        "state": "04",
+        "population": 107986
+    },
+    "1785655": {
+        "geoid": "1785655",
+        "name": "Yunyang",
+        "lat": 33.44743,
+        "lng": 112.71422,
+        "country": "CN",
+        "state": "09",
+        "population": 73922
+    },
+    "1785698": {
+        "geoid": "1785698",
+        "name": "Yunmeng Chengguanzhen",
+        "lat": 31.06251,
+        "lng": 113.76545,
+        "country": "CN",
+        "state": "12",
+        "population": 64390
+    },
+    "1785710": {
+        "geoid": "1785710",
+        "name": "Jinghong",
+        "lat": 21.99102,
+        "lng": 100.73409,
+        "country": "CN",
+        "state": "29",
+        "population": 62105
+    },
+    "1785716": {
+        "geoid": "1785716",
+        "name": "Pizhou",
+        "lat": 34.31139,
+        "lng": 117.95028,
+        "country": "CN",
+        "state": "04",
+        "population": 82641
+    },
+    "1785725": {
+        "geoid": "1785725",
+        "name": "Yunfu",
+        "lat": 22.92833,
+        "lng": 112.03954,
+        "country": "CN",
+        "state": "30",
+        "population": 2612800
+    },
+    "1785738": {
+        "geoid": "1785738",
+        "name": "Yuncheng",
+        "lat": 35.02306,
+        "lng": 110.99278,
+        "country": "CN",
+        "state": "24",
+        "population": 201950
+    },
+    "1785777": {
+        "geoid": "1785777",
+        "name": "Yulin",
+        "lat": 38.29056,
+        "lng": 109.74944,
+        "country": "CN",
+        "state": "26",
+        "population": 90870
+    },
+    "1785781": {
+        "geoid": "1785781",
+        "name": "Yulin",
+        "lat": 22.63333,
+        "lng": 110.15,
+        "country": "CN",
+        "state": "16",
+        "population": 148485
+    },
+    "1785964": {
+        "geoid": "1785964",
+        "name": "Yudong",
+        "lat": 29.385,
+        "lng": 106.51944,
+        "country": "CN",
+        "state": "33",
+        "population": 81408
+    },
+    "1785974": {
+        "geoid": "1785974",
+        "name": "Yuci",
+        "lat": 37.68028,
+        "lng": 112.73194,
+        "country": "CN",
+        "state": "24",
+        "population": 235929
+    },
+    "1785980": {
+        "geoid": "1785980",
+        "name": "Yucheng",
+        "lat": 34.92889,
+        "lng": 116.46528,
+        "country": "CN",
+        "state": "25",
+        "population": 62365
+    },
+    "1786060": {
+        "geoid": "1786060",
+        "name": "Yuanping",
+        "lat": 38.71528,
+        "lng": 112.7575,
+        "country": "CN",
+        "state": "24",
+        "population": 82883
+    },
+    "1786067": {
+        "geoid": "1786067",
+        "name": "Qianjiang",
+        "lat": 30.421,
+        "lng": 112.8919,
+        "country": "CN",
+        "state": "12",
+        "population": 179079
+    },
+    "1786112": {
+        "geoid": "1786112",
+        "name": "Heyuan",
+        "lat": 23.73333,
+        "lng": 114.68333,
+        "country": "CN",
+        "state": "30",
+        "population": 93718
+    },
+    "1786357": {
+        "geoid": "1786357",
+        "name": "Yongfeng",
+        "lat": 27.42829,
+        "lng": 112.18338,
+        "country": "CN",
+        "state": "11",
+        "population": 70783
+    },
+    "1786378": {
+        "geoid": "1786378",
+        "name": "Yongchuan",
+        "lat": 29.35376,
+        "lng": 105.89392,
+        "country": "CN",
+        "state": "33",
+        "population": 94465
+    },
+    "1786455": {
+        "geoid": "1786455",
+        "name": "Yishui",
+        "lat": 35.78472,
+        "lng": 118.62806,
+        "country": "CN",
+        "state": "25",
+        "population": 94115
+    },
+    "1786546": {
+        "geoid": "1786546",
+        "name": "Zhongxiang",
+        "lat": 31.16611,
+        "lng": 112.58306,
+        "country": "CN",
+        "state": "12",
+        "population": 108883
+    },
+    "1786587": {
+        "geoid": "1786587",
+        "name": "Yingshang Chengguanzhen",
+        "lat": 32.62945,
+        "lng": 116.27013,
+        "country": "CN",
+        "state": "01",
+        "population": 61771
+    },
+    "1786640": {
+        "geoid": "1786640",
+        "name": "Chengzhong",
+        "lat": 30.94454,
+        "lng": 113.55284,
+        "country": "CN",
+        "state": "12",
+        "population": 265886
+    },
+    "1786657": {
+        "geoid": "1786657",
+        "name": "Yinchuan",
+        "lat": 38.46806,
+        "lng": 106.27306,
+        "country": "CN",
+        "state": "21",
+        "population": 475101
+    },
+    "1786676": {
+        "geoid": "1786676",
+        "name": "Yima",
+        "lat": 34.73806,
+        "lng": 111.88389,
+        "country": "CN",
+        "state": "09",
+        "population": 82509
+    },
+    "1786720": {
+        "geoid": "1786720",
+        "name": "Yigou",
+        "lat": 35.81139,
+        "lng": 114.31667,
+        "country": "CN",
+        "state": "09",
+        "population": 59073
+    },
+    "1786731": {
+        "geoid": "1786731",
+        "name": "Qingzhou",
+        "lat": 36.69667,
+        "lng": 118.47972,
+        "country": "CN",
+        "state": "25",
+        "population": 117056
+    },
+    "1786746": {
+        "geoid": "1786746",
+        "name": "Yichun",
+        "lat": 27.83333,
+        "lng": 114.4,
+        "country": "CN",
+        "state": "03",
+        "population": 152169
+    },
+    "1786759": {
+        "geoid": "1786759",
+        "name": "Yicheng",
+        "lat": 31.70472,
+        "lng": 112.25611,
+        "country": "CN",
+        "state": "12",
+        "population": 61027
+    },
+    "1786760": {
+        "geoid": "1786760",
+        "name": "Yicheng",
+        "lat": 31.36059,
+        "lng": 119.82016,
+        "country": "CN",
+        "state": "04",
+        "population": 95530
+    },
+    "1786764": {
+        "geoid": "1786764",
+        "name": "Yichang",
+        "lat": 30.71444,
+        "lng": 111.28472,
+        "country": "CN",
+        "state": "12",
+        "population": 476725
+    },
+    "1786770": {
+        "geoid": "1786770",
+        "name": "Yibin",
+        "lat": 28.76667,
+        "lng": 104.62383,
+        "country": "CN",
+        "state": "32",
+        "population": 242111
+    },
+    "1786855": {
+        "geoid": "1786855",
+        "name": "Yatou",
+        "lat": 37.1566,
+        "lng": 122.43762,
+        "country": "CN",
+        "state": "25",
+        "population": 91517
+    },
+    "1786867": {
+        "geoid": "1786867",
+        "name": "Yashan",
+        "lat": 22.1975,
+        "lng": 109.94194,
+        "country": "CN",
+        "state": "16",
+        "population": 56629
+    },
+    "1787031": {
+        "geoid": "1787031",
+        "name": "Yanzhou",
+        "lat": 35.55278,
+        "lng": 116.82861,
+        "country": "CN",
+        "state": "25",
+        "population": 77276
+    },
+    "1787093": {
+        "geoid": "1787093",
+        "name": "Yantai",
+        "lat": 37.47649,
+        "lng": 121.44081,
+        "country": "CN",
+        "state": "25",
+        "population": 719332
+    },
+    "1787144": {
+        "geoid": "1787144",
+        "name": "Yanliang",
+        "lat": 34.65918,
+        "lng": 109.22921,
+        "country": "CN",
+        "state": "26",
+        "population": 60891
+    },
+    "1787227": {
+        "geoid": "1787227",
+        "name": "Yangzhou",
+        "lat": 32.39722,
+        "lng": 119.43583,
+        "country": "CN",
+        "state": "04",
+        "population": 539715
+    },
+    "1787323": {
+        "geoid": "1787323",
+        "name": "Yangshuo",
+        "lat": 24.78081,
+        "lng": 110.48967,
+        "country": "CN",
+        "state": "16",
+        "population": 300000
+    },
+    "1787331": {
+        "geoid": "1787331",
+        "name": "Zhangjiagang",
+        "lat": 31.865,
+        "lng": 120.53889,
+        "country": "CN",
+        "state": "04",
+        "population": 66039
+    },
+    "1787351": {
+        "geoid": "1787351",
+        "name": "Yangquan",
+        "lat": 37.8575,
+        "lng": 113.56333,
+        "country": "CN",
+        "state": "24",
+        "population": 413394
+    },
+    "1787437": {
+        "geoid": "1787437",
+        "name": "Yangliuqing",
+        "lat": 39.1375,
+        "lng": 116.99972,
+        "country": "CN",
+        "state": "28",
+        "population": 76387
+    },
+    "1787601": {
+        "geoid": "1787601",
+        "name": "Yanggu",
+        "lat": 36.11056,
+        "lng": 115.77528,
+        "country": "CN",
+        "state": "25",
+        "population": 74725
+    },
+    "1787646": {
+        "geoid": "1787646",
+        "name": "Yangcun",
+        "lat": 39.36389,
+        "lng": 117.06028,
+        "country": "CN",
+        "state": "28",
+        "population": 63756
+    },
+    "1787746": {
+        "geoid": "1787746",
+        "name": "Yancheng",
+        "lat": 33.3575,
+        "lng": 120.1573,
+        "country": "CN",
+        "state": "04",
+        "population": 628441
+    },
+    "1787824": {
+        "geoid": "1787824",
+        "name": "Tongshan",
+        "lat": 34.18045,
+        "lng": 117.15707,
+        "country": "CN",
+        "state": "04",
+        "population": 1199193
+    },
+    "1787837": {
+        "geoid": "1787837",
+        "name": "Xucheng",
+        "lat": 20.32917,
+        "lng": 110.16712,
+        "country": "CN",
+        "state": "30",
+        "population": 83267
+    },
+    "1787858": {
+        "geoid": "1787858",
+        "name": "Shangrao",
+        "lat": 28.45322,
+        "lng": 117.9686,
+        "country": "CN",
+        "state": "03",
+        "population": 318769
+    },
+    "1787901": {
+        "geoid": "1787901",
+        "name": "Xunchang",
+        "lat": 28.45433,
+        "lng": 104.71498,
+        "country": "CN",
+        "state": "32",
+        "population": 64580
+    },
+    "1788046": {
+        "geoid": "1788046",
+        "name": "Jiangguanchi",
+        "lat": 34.12821,
+        "lng": 113.80681,
+        "country": "CN",
+        "state": "09",
+        "population": 449258
+    },
+    "1788081": {
+        "geoid": "1788081",
+        "name": "Xuanzhou",
+        "lat": 30.9525,
+        "lng": 118.75528,
+        "country": "CN",
+        "state": "01",
+        "population": 127758
+    },
+    "1788206": {
+        "geoid": "1788206",
+        "name": "Xixiang",
+        "lat": 35.16278,
+        "lng": 112.865,
+        "country": "CN",
+        "state": "09",
+        "population": 60745
+    },
+    "1788245": {
+        "geoid": "1788245",
+        "name": "Xiuying",
+        "lat": 20.00073,
+        "lng": 110.29359,
+        "country": "CN",
+        "state": "31",
+        "population": 290000
+    },
+    "1788268": {
+        "geoid": "1788268",
+        "name": "Xiulin",
+        "lat": 29.71667,
+        "lng": 112.4,
+        "country": "CN",
+        "state": "12",
+        "population": 122411
+    },
+    "1788402": {
+        "geoid": "1788402",
+        "name": "Xiongzhou",
+        "lat": 25.11667,
+        "lng": 114.3,
+        "country": "CN",
+        "state": "30",
+        "population": 79050
+    },
+    "1788406": {
+        "geoid": "1788406",
+        "name": "Guixi",
+        "lat": 28.28857,
+        "lng": 117.21329,
+        "country": "CN",
+        "state": "03",
+        "population": 73732
+    },
+    "1788450": {
+        "geoid": "1788450",
+        "name": "Xinzhou",
+        "lat": 38.40917,
+        "lng": 112.73333,
+        "country": "CN",
+        "state": "24",
+        "population": 154003
+    },
+    "1788452": {
+        "geoid": "1788452",
+        "name": "Xinzhou",
+        "lat": 30.86667,
+        "lng": 114.8,
+        "country": "CN",
+        "state": "12",
+        "population": 78767
+    },
+    "1788462": {
+        "geoid": "1788462",
+        "name": "Xinzhi",
+        "lat": 36.49889,
+        "lng": 111.70472,
+        "country": "CN",
+        "state": "24",
+        "population": 72303
+    },
+    "1788508": {
+        "geoid": "1788508",
+        "name": "Xinyu",
+        "lat": 27.80429,
+        "lng": 114.93335,
+        "country": "CN",
+        "state": "03",
+        "population": 97480
+    },
+    "1788522": {
+        "geoid": "1788522",
+        "name": "Hancheng",
+        "lat": 32.51861,
+        "lng": 112.35222,
+        "country": "CN",
+        "state": "09",
+        "population": 61633
+    },
+    "1788534": {
+        "geoid": "1788534",
+        "name": "Xinyang",
+        "lat": 32.12278,
+        "lng": 114.06556,
+        "country": "CN",
+        "state": "09",
+        "population": 1590668
+    },
+    "1788572": {
+        "geoid": "1788572",
+        "name": "Nangandao",
+        "lat": 35.19033,
+        "lng": 113.80151,
+        "country": "CN",
+        "state": "09",
+        "population": 743601
+    },
+    "1788618": {
+        "geoid": "1788618",
+        "name": "Xintai",
+        "lat": 35.90056,
+        "lng": 117.75194,
+        "country": "CN",
+        "state": "25",
+        "population": 222459
+    },
+    "1788638": {
+        "geoid": "1788638",
+        "name": "Xinshi",
+        "lat": 31.04704,
+        "lng": 113.14098,
+        "country": "CN",
+        "state": "12",
+        "population": 98422
+    },
+    "1788694": {
+        "geoid": "1788694",
+        "name": "Xinpu",
+        "lat": 34.59972,
+        "lng": 119.15944,
+        "country": "CN",
+        "state": "04",
+        "population": 392444
+    },
+    "1788816": {
+        "geoid": "1788816",
+        "name": "Xinji",
+        "lat": 37.90278,
+        "lng": 115.20361,
+        "country": "CN",
+        "state": "10",
+        "population": 145911
+    },
+    "1788852": {
+        "geoid": "1788852",
+        "name": "Xining",
+        "lat": 36.62554,
+        "lng": 101.75739,
+        "country": "CN",
+        "state": "06",
+        "population": 767531
+    },
+    "1788869": {
+        "geoid": "1788869",
+        "name": "Shangmei",
+        "lat": 27.74278,
+        "lng": 111.29556,
+        "country": "CN",
+        "state": "11",
+        "population": 75233
+    },
+    "1788927": {
+        "geoid": "1788927",
+        "name": "Xingtai",
+        "lat": 37.06306,
+        "lng": 114.49417,
+        "country": "CN",
+        "state": "10",
+        "population": 611739
+    },
+    "1789065": {
+        "geoid": "1789065",
+        "name": "Ankang",
+        "lat": 32.68,
+        "lng": 109.01722,
+        "country": "CN",
+        "state": "26",
+        "population": 132654
+    },
+    "1789118": {
+        "geoid": "1789118",
+        "name": "Xindian",
+        "lat": 36.7975,
+        "lng": 118.29444,
+        "country": "CN",
+        "state": "25",
+        "population": 82555
+    },
+    "1789137": {
+        "geoid": "1789137",
+        "name": "Xindi",
+        "lat": 29.81667,
+        "lng": 113.46667,
+        "country": "CN",
+        "state": "12",
+        "population": 175761
+    },
+    "1789176": {
+        "geoid": "1789176",
+        "name": "Feicheng",
+        "lat": 36.24861,
+        "lng": 116.76583,
+        "country": "CN",
+        "state": "25",
+        "population": 77606
+    },
+    "1789273": {
+        "geoid": "1789273",
+        "name": "Sanshui",
+        "lat": 23.15486,
+        "lng": 112.89161,
+        "country": "CN",
+        "state": "30",
+        "population": 153714
+    },
+    "1789289": {
+        "geoid": "1789289",
+        "name": "Ximei",
+        "lat": 24.98773,
+        "lng": 118.3858,
+        "country": "CN",
+        "state": "07",
+        "population": 94326
+    },
+    "1789427": {
+        "geoid": "1789427",
+        "name": "Wacheng",
+        "lat": 33.78333,
+        "lng": 114.51667,
+        "country": "CN",
+        "state": "09",
+        "population": 66848
+    },
+    "1789462": {
+        "geoid": "1789462",
+        "name": "Xihe",
+        "lat": 31.68635,
+        "lng": 113.46585,
+        "country": "CN",
+        "state": "12",
+        "population": 90422
+    },
+    "1789647": {
+        "geoid": "1789647",
+        "name": "Xichang",
+        "lat": 27.89642,
+        "lng": 102.26341,
+        "country": "CN",
+        "state": "32",
+        "population": 126787
+    },
+    "1789693": {
+        "geoid": "1789693",
+        "name": "Xiazhuang",
+        "lat": 34.91611,
+        "lng": 118.63889,
+        "country": "CN",
+        "state": "25",
+        "population": 63285
+    },
+    "1789703": {
+        "geoid": "1789703",
+        "name": "Xiazhen",
+        "lat": 34.80222,
+        "lng": 117.11167,
+        "country": "CN",
+        "state": "25",
+        "population": 125667
+    },
+    "1789799": {
+        "geoid": "1789799",
+        "name": "Xiashi",
+        "lat": 30.53629,
+        "lng": 120.68638,
+        "country": "CN",
+        "state": "02",
+        "population": 70171
+    },
+    "1789897": {
+        "geoid": "1789897",
+        "name": "Zijinglu",
+        "lat": 34.76,
+        "lng": 112.97139,
+        "country": "CN",
+        "state": "09",
+        "population": 56033
+    },
+    "1789945": {
+        "geoid": "1789945",
+        "name": "Xiaoweizhai",
+        "lat": 26.19028,
+        "lng": 107.5125,
+        "country": "CN",
+        "state": "18",
+        "population": 58913
+    },
+    "1789998": {
+        "geoid": "1789998",
+        "name": "Xiaoshan",
+        "lat": 30.16746,
+        "lng": 120.25883,
+        "country": "CN",
+        "state": "02",
+        "population": 95234
+    },
+    "1790100": {
+        "geoid": "1790100",
+        "name": "Xiaolingwei",
+        "lat": 32.03244,
+        "lng": 118.854,
+        "country": "CN",
+        "state": "04",
+        "population": 66031
+    },
+    "1790254": {
+        "geoid": "1790254",
+        "name": "Xiaogan",
+        "lat": 30.92689,
+        "lng": 113.92221,
+        "country": "CN",
+        "state": "12",
+        "population": 160437
+    },
+    "1790353": {
+        "geoid": "1790353",
+        "name": "Xianyang",
+        "lat": 34.33778,
+        "lng": 108.70261,
+        "country": "CN",
+        "state": "26",
+        "population": 1034081
+    },
+    "1790371": {
+        "geoid": "1790371",
+        "name": "Xiantao",
+        "lat": 30.3708,
+        "lng": 113.44294,
+        "country": "CN",
+        "state": "12",
+        "population": 239406
+    },
+    "1790379": {
+        "geoid": "1790379",
+        "name": "Xianshuigu",
+        "lat": 38.985,
+        "lng": 117.38278,
+        "country": "CN",
+        "state": "28",
+        "population": 74028
+    },
+    "1790392": {
+        "geoid": "1790392",
+        "name": "Xiannü",
+        "lat": 32.42806,
+        "lng": 119.56048,
+        "country": "CN",
+        "state": "04",
+        "population": 83936
+    },
+    "1790396": {
+        "geoid": "1790396",
+        "name": "Xianning",
+        "lat": 29.88333,
+        "lng": 114.21667,
+        "country": "CN",
+        "state": "12",
+        "population": 179494
+    },
+    "1790413": {
+        "geoid": "1790413",
+        "name": "Xianju",
+        "lat": 28.8547,
+        "lng": 120.73168,
+        "country": "CN",
+        "state": "02",
+        "population": 61532
+    },
+    "1790437": {
+        "geoid": "1790437",
+        "name": "Zhuhai",
+        "lat": 22.27694,
+        "lng": 113.56778,
+        "country": "CN",
+        "state": "30",
+        "population": 501199
+    },
+    "1790451": {
+        "geoid": "1790451",
+        "name": "Wenxing",
+        "lat": 28.68208,
+        "lng": 112.87864,
+        "country": "CN",
+        "state": "11",
+        "population": 57117
+    },
+    "1790471": {
+        "geoid": "1790471",
+        "name": "Xiangxiang",
+        "lat": 27.73333,
+        "lng": 112.53333,
+        "country": "CN",
+        "state": "11",
+        "population": 87592
+    },
+    "1790492": {
+        "geoid": "1790492",
+        "name": "Xiangtan",
+        "lat": 27.85,
+        "lng": 112.9,
+        "country": "CN",
+        "state": "11",
+        "population": 674189
+    },
+    "1790587": {
+        "geoid": "1790587",
+        "name": "Xiangyang",
+        "lat": 32.0422,
+        "lng": 112.14479,
+        "country": "CN",
+        "state": "12",
+        "population": 462956
+    },
+    "1790601": {
+        "geoid": "1790601",
+        "name": "Xiangcheng Chengguanzhen",
+        "lat": 33.84703,
+        "lng": 113.4778,
+        "country": "CN",
+        "state": "09",
+        "population": 65833
+    },
+    "1790630": {
+        "geoid": "1790630",
+        "name": "Xi’an",
+        "lat": 34.25833,
+        "lng": 108.92861,
+        "country": "CN",
+        "state": "26",
+        "population": 6501190
+    },
+    "1790645": {
+        "geoid": "1790645",
+        "name": "Xiamen",
+        "lat": 24.47979,
+        "lng": 118.08187,
+        "country": "CN",
+        "state": "07",
+        "population": 3531347
+    },
+    "1790840": {
+        "geoid": "1790840",
+        "name": "Wuzhou",
+        "lat": 23.48333,
+        "lng": 111.31667,
+        "country": "CN",
+        "state": "16",
+        "population": 265846
+    },
+    "1790885": {
+        "geoid": "1790885",
+        "name": "Wuyang",
+        "lat": 31.9925,
+        "lng": 116.24722,
+        "country": "CN",
+        "state": "01",
+        "population": 79070
+    },
+    "1790894": {
+        "geoid": "1790894",
+        "name": "Wuxue",
+        "lat": 29.85058,
+        "lng": 115.5525,
+        "country": "CN",
+        "state": "12",
+        "population": 220661
+    },
+    "1790923": {
+        "geoid": "1790923",
+        "name": "Wuxi",
+        "lat": 31.56887,
+        "lng": 120.28857,
+        "country": "CN",
+        "state": "04",
+        "population": 3543719
+    },
+    "1791056": {
+        "geoid": "1791056",
+        "name": "Dongyang",
+        "lat": 29.26778,
+        "lng": 120.22528,
+        "country": "CN",
+        "state": "02",
+        "population": 130387
+    },
+    "1791121": {
+        "geoid": "1791121",
+        "name": "Changde",
+        "lat": 29.04638,
+        "lng": 111.6783,
+        "country": "CN",
+        "state": "11",
+        "population": 517780
+    },
+    "1791236": {
+        "geoid": "1791236",
+        "name": "Wuhu",
+        "lat": 31.33728,
+        "lng": 118.37351,
+        "country": "CN",
+        "state": "01",
+        "population": 507524
+    },
+    "1791247": {
+        "geoid": "1791247",
+        "name": "Wuhan",
+        "lat": 30.58333,
+        "lng": 114.26667,
+        "country": "CN",
+        "state": "12",
+        "population": 9785388
+    },
+    "1791249": {
+        "geoid": "1791249",
+        "name": "Wuhai",
+        "lat": 39.68442,
+        "lng": 106.81583,
+        "country": "CN",
+        "state": "20",
+        "population": 218427
+    },
+    "1791325": {
+        "geoid": "1791325",
+        "name": "Wuda",
+        "lat": 39.49944,
+        "lng": 106.71167,
+        "country": "CN",
+        "state": "20",
+        "population": 129922
+    },
+    "1791347": {
+        "geoid": "1791347",
+        "name": "Wucheng",
+        "lat": 29.60077,
+        "lng": 118.17495,
+        "country": "CN",
+        "state": "01",
+        "population": 60212
+    },
+    "1791388": {
+        "geoid": "1791388",
+        "name": "Wenzhou",
+        "lat": 27.99942,
+        "lng": 120.66682,
+        "country": "CN",
+        "state": "02",
+        "population": 865672
+    },
+    "1791428": {
+        "geoid": "1791428",
+        "name": "Wenshang",
+        "lat": 35.7275,
+        "lng": 116.49611,
+        "country": "CN",
+        "state": "25",
+        "population": 59455
+    },
+    "1791464": {
+        "geoid": "1791464",
+        "name": "Wenling",
+        "lat": 28.37161,
+        "lng": 121.36974,
+        "country": "CN",
+        "state": "02",
+        "population": 67433
+    },
+    "1791536": {
+        "geoid": "1791536",
+        "name": "Tianfu",
+        "lat": 37.19723,
+        "lng": 122.05228,
+        "country": "CN",
+        "state": "25",
+        "population": 115370
+    },
+    "1791636": {
+        "geoid": "1791636",
+        "name": "Weinan",
+        "lat": 34.50355,
+        "lng": 109.50891,
+        "country": "CN",
+        "state": "26",
+        "population": 172321
+    },
+    "1791673": {
+        "geoid": "1791673",
+        "name": "Weihai",
+        "lat": 37.50914,
+        "lng": 122.11356,
+        "country": "CN",
+        "state": "25",
+        "population": 152595
+    },
+    "1791681": {
+        "geoid": "1791681",
+        "name": "Weifang",
+        "lat": 36.71,
+        "lng": 119.10194,
+        "country": "CN",
+        "state": "25",
+        "population": 394732
+    },
+    "1791748": {
+        "geoid": "1791748",
+        "name": "Wanxian",
+        "lat": 30.81544,
+        "lng": 108.37089,
+        "country": "CN",
+        "state": "33",
+        "population": 188980
+    },
+    "1791779": {
+        "geoid": "1791779",
+        "name": "Wanning",
+        "lat": 18.79931,
+        "lng": 110.3841,
+        "country": "CN",
+        "state": "31",
+        "population": 64954
+    },
+    "1792087": {
+        "geoid": "1792087",
+        "name": "Yinzhu",
+        "lat": 35.87861,
+        "lng": 119.97528,
+        "country": "CN",
+        "state": "25",
+        "population": 75656
+    },
+    "1792260": {
+        "geoid": "1792260",
+        "name": "Wafangdian",
+        "lat": 39.61833,
+        "lng": 122.00806,
+        "country": "CN",
+        "state": "19",
+        "population": 250591
+    },
+    "1792359": {
+        "geoid": "1792359",
+        "name": "Huangshan",
+        "lat": 29.71139,
+        "lng": 118.3125,
+        "country": "CN",
+        "state": "01",
+        "population": 77000
+    },
+    "1792516": {
+        "geoid": "1792516",
+        "name": "Loushanguan",
+        "lat": 28.1368,
+        "lng": 106.822,
+        "country": "CN",
+        "state": "18",
+        "population": 80344
+    },
+    "1792520": {
+        "geoid": "1792520",
+        "name": "Tongzhou",
+        "lat": 39.90395,
+        "lng": 116.66183,
+        "country": "CN",
+        "state": "22",
+        "population": 163326
+    },
+    "1792585": {
+        "geoid": "1792585",
+        "name": "Fuding",
+        "lat": 27.32734,
+        "lng": 120.21399,
+        "country": "CN",
+        "state": "07",
+        "population": 63250
+    },
+    "1792592": {
+        "geoid": "1792592",
+        "name": "Tongren",
+        "lat": 27.71722,
+        "lng": 109.18528,
+        "country": "CN",
+        "state": "18",
+        "population": 90593
+    },
+    "1792621": {
+        "geoid": "1792621",
+        "name": "Wusong",
+        "lat": 30.95,
+        "lng": 117.78333,
+        "country": "CN",
+        "state": "01",
+        "population": 312588
+    },
+    "1792692": {
+        "geoid": "1792692",
+        "name": "Tongchuan",
+        "lat": 31.09407,
+        "lng": 105.08731,
+        "country": "CN",
+        "state": "32",
+        "population": 58346
+    },
+    "1792892": {
+        "geoid": "1792892",
+        "name": "Tianshui",
+        "lat": 34.57952,
+        "lng": 105.74238,
+        "country": "CN",
+        "state": "15",
+        "population": 3500000
+    },
+    "1792916": {
+        "geoid": "1792916",
+        "name": "Tianpeng",
+        "lat": 30.98664,
+        "lng": 103.93933,
+        "country": "CN",
+        "state": "32",
+        "population": 60797
+    },
+    "1792947": {
+        "geoid": "1792947",
+        "name": "Tianjin",
+        "lat": 39.14222,
+        "lng": 117.17667,
+        "country": "CN",
+        "state": "28",
+        "population": 11090314
+    },
+    "1793036": {
+        "geoid": "1793036",
+        "name": "Tengzhou",
+        "lat": 35.07706,
+        "lng": 117.15176,
+        "country": "CN",
+        "state": "25",
+        "population": 105456
+    },
+    "1793089": {
+        "geoid": "1793089",
+        "name": "Taozhuang",
+        "lat": 34.85,
+        "lng": 117.33333,
+        "country": "CN",
+        "state": "25",
+        "population": 60137
+    },
+    "1793230": {
+        "geoid": "1793230",
+        "name": "Tantou",
+        "lat": 26.03033,
+        "lng": 119.59739,
+        "country": "CN",
+        "state": "07",
+        "population": 69050
+    },
+    "1793286": {
+        "geoid": "1793286",
+        "name": "Tangzhai",
+        "lat": 34.43278,
+        "lng": 116.59111,
+        "country": "CN",
+        "state": "01",
+        "population": 67936
+    },
+    "1793346": {
+        "geoid": "1793346",
+        "name": "Tangshan",
+        "lat": 39.63333,
+        "lng": 118.18333,
+        "country": "CN",
+        "state": "10",
+        "population": 3372102
+    },
+    "1793364": {
+        "geoid": "1793364",
+        "name": "Tangping",
+        "lat": 22.03177,
+        "lng": 111.93537,
+        "country": "CN",
+        "state": "30",
+        "population": 81729
+    },
+    "1793385": {
+        "geoid": "1793385",
+        "name": "Tangjiazhuang",
+        "lat": 39.74326,
+        "lng": 118.45099,
+        "country": "CN",
+        "state": "10",
+        "population": 79489
+    },
+    "1793419": {
+        "geoid": "1793419",
+        "name": "Binhe",
+        "lat": 32.68833,
+        "lng": 112.8275,
+        "country": "CN",
+        "state": "09",
+        "population": 68514
+    },
+    "1793424": {
+        "geoid": "1793424",
+        "name": "Tanggu",
+        "lat": 39.02111,
+        "lng": 117.64694,
+        "country": "CN",
+        "state": "28",
+        "population": 535298
+    },
+    "1793505": {
+        "geoid": "1793505",
+        "name": "Taizhou",
+        "lat": 32.49069,
+        "lng": 119.90812,
+        "country": "CN",
+        "state": "04",
+        "population": 612356
+    },
+    "1793511": {
+        "geoid": "1793511",
+        "name": "Taiyuan",
+        "lat": 37.86944,
+        "lng": 112.56028,
+        "country": "CN",
+        "state": "24",
+        "population": 3426519
+    },
+    "1793533": {
+        "geoid": "1793533",
+        "name": "Taixing",
+        "lat": 32.16667,
+        "lng": 120.01361,
+        "country": "CN",
+        "state": "04",
+        "population": 79655
+    },
+    "1793700": {
+        "geoid": "1793700",
+        "name": "Taishan",
+        "lat": 22.25135,
+        "lng": 112.7799,
+        "country": "CN",
+        "state": "30",
+        "population": 145440
+    },
+    "1793724": {
+        "geoid": "1793724",
+        "name": "Tai’an",
+        "lat": 36.18528,
+        "lng": 117.12,
+        "country": "CN",
+        "state": "25",
+        "population": 5499000
+    },
+    "1793743": {
+        "geoid": "1793743",
+        "name": "Suzhou",
+        "lat": 33.63611,
+        "lng": 116.97889,
+        "country": "CN",
+        "state": "01",
+        "population": 205130
+    },
+    "1793774": {
+        "geoid": "1793774",
+        "name": "Suozhen",
+        "lat": 36.95389,
+        "lng": 118.10472,
+        "country": "CN",
+        "state": "25",
+        "population": 58766
+    },
+    "1793879": {
+        "geoid": "1793879",
+        "name": "Suizhou",
+        "lat": 31.71111,
+        "lng": 113.36306,
+        "country": "CN",
+        "state": "12",
+        "population": 323945
+    },
+    "1793889": {
+        "geoid": "1793889",
+        "name": "Suixi",
+        "lat": 33.89067,
+        "lng": 116.77473,
+        "country": "CN",
+        "state": "01",
+        "population": 74172
+    },
+    "1793899": {
+        "geoid": "1793899",
+        "name": "Suicheng",
+        "lat": 33.8963,
+        "lng": 117.93307,
+        "country": "CN",
+        "state": "04",
+        "population": 61430
+    },
+    "1793900": {
+        "geoid": "1793900",
+        "name": "Suining",
+        "lat": 30.50802,
+        "lng": 105.57332,
+        "country": "CN",
+        "state": "32",
+        "population": 124924
+    },
+    "1794035": {
+        "geoid": "1794035",
+        "name": "Songjiang",
+        "lat": 31.03595,
+        "lng": 121.2146,
+        "country": "CN",
+        "state": "23",
+        "population": 130218
+    },
+    "1794140": {
+        "geoid": "1794140",
+        "name": "Sishui",
+        "lat": 35.64889,
+        "lng": 117.27583,
+        "country": "CN",
+        "state": "25",
+        "population": 90175
+    },
+    "1794479": {
+        "geoid": "1794479",
+        "name": "Laixi",
+        "lat": 36.85917,
+        "lng": 120.52694,
+        "country": "CN",
+        "state": "25",
+        "population": 75849
+    },
+    "1794794": {
+        "geoid": "1794794",
+        "name": "Shouguang",
+        "lat": 36.88,
+        "lng": 118.7375,
+        "country": "CN",
+        "state": "25",
+        "population": 79212
+    },
+    "1794806": {
+        "geoid": "1794806",
+        "name": "Shizuishan",
+        "lat": 39.23333,
+        "lng": 106.76944,
+        "country": "CN",
+        "state": "21",
+        "population": 136570
+    },
+    "1794825": {
+        "geoid": "1794825",
+        "name": "Shizilu",
+        "lat": 35.17111,
+        "lng": 118.82889,
+        "country": "CN",
+        "state": "25",
+        "population": 86749
+    },
+    "1794903": {
+        "geoid": "1794903",
+        "name": "Shiyan",
+        "lat": 32.6475,
+        "lng": 110.77806,
+        "country": "CN",
+        "state": "12",
+        "population": 3460000
+    },
+    "1794904": {
+        "geoid": "1794904",
+        "name": "Shiyan",
+        "lat": 32.56667,
+        "lng": 110.78333,
+        "country": "CN",
+        "state": "12",
+        "population": 408055
+    },
+    "1794947": {
+        "geoid": "1794947",
+        "name": "Shiwan",
+        "lat": 23.00107,
+        "lng": 113.077,
+        "country": "CN",
+        "state": "30",
+        "population": 82031
+    },
+    "1794971": {
+        "geoid": "1794971",
+        "name": "Shitanjing",
+        "lat": 39.23417,
+        "lng": 106.34389,
+        "country": "CN",
+        "state": "21",
+        "population": 78765
+    },
+    "1795055": {
+        "geoid": "1795055",
+        "name": "Shiqiao",
+        "lat": 22.9464,
+        "lng": 113.35769,
+        "country": "CN",
+        "state": "30",
+        "population": 135308
+    },
+    "1795060": {
+        "geoid": "1795060",
+        "name": "Shiqi",
+        "lat": 22.51682,
+        "lng": 113.38521,
+        "country": "CN",
+        "state": "30",
+        "population": 342306
+    },
+    "1795166": {
+        "geoid": "1795166",
+        "name": "Shima",
+        "lat": 24.44647,
+        "lng": 117.81216,
+        "country": "CN",
+        "state": "07",
+        "population": 68375
+    },
+    "1795184": {
+        "geoid": "1795184",
+        "name": "Shilong",
+        "lat": 23.11444,
+        "lng": 113.84722,
+        "country": "CN",
+        "state": "30",
+        "population": 109733
+    },
+    "1795196": {
+        "geoid": "1795196",
+        "name": "Tongchuan",
+        "lat": 35.08056,
+        "lng": 109.08972,
+        "country": "CN",
+        "state": "26",
+        "population": 223603
+    },
+    "1795270": {
+        "geoid": "1795270",
+        "name": "Shijiazhuang",
+        "lat": 38.04139,
+        "lng": 114.47861,
+        "country": "CN",
+        "state": "10",
+        "population": 2834942
+    },
+    "1795565": {
+        "geoid": "1795565",
+        "name": "Shenzhen",
+        "lat": 22.54554,
+        "lng": 114.0683,
+        "country": "CN",
+        "state": "30",
+        "population": 10358381
+    },
+    "1795579": {
+        "geoid": "1795579",
+        "name": "Yanta",
+        "lat": 36.24111,
+        "lng": 115.66722,
+        "country": "CN",
+        "state": "25",
+        "population": 79196
+    },
+    "1795632": {
+        "geoid": "1795632",
+        "name": "Shenjiamen",
+        "lat": 29.95763,
+        "lng": 122.29802,
+        "country": "CN",
+        "state": "02",
+        "population": 95433
+    },
+    "1795816": {
+        "geoid": "1795816",
+        "name": "Shashi",
+        "lat": 30.30722,
+        "lng": 112.24472,
+        "country": "CN",
+        "state": "12",
+        "population": 498780
+    },
+    "1795842": {
+        "geoid": "1795842",
+        "name": "Shaping",
+        "lat": 22.77019,
+        "lng": 112.95776,
+        "country": "CN",
+        "state": "30",
+        "population": 107589
+    },
+    "1795855": {
+        "geoid": "1795855",
+        "name": "Shaoxing",
+        "lat": 30.00237,
+        "lng": 120.57864,
+        "country": "CN",
+        "state": "02",
+        "population": 421283
+    },
+    "1795857": {
+        "geoid": "1795857",
+        "name": "Shaowu",
+        "lat": 27.34089,
+        "lng": 117.4831,
+        "country": "CN",
+        "state": "07",
+        "population": 112585
+    },
+    "1795874": {
+        "geoid": "1795874",
+        "name": "Shaoguan",
+        "lat": 24.8,
+        "lng": 113.58333,
+        "country": "CN",
+        "state": "30",
+        "population": 628749
+    },
+    "1795919": {
+        "geoid": "1795919",
+        "name": "Shancheng",
+        "lat": 34.79528,
+        "lng": 116.08167,
+        "country": "CN",
+        "state": "25",
+        "population": 74459
+    },
+    "1795928": {
+        "geoid": "1795928",
+        "name": "Shanwei",
+        "lat": 22.78199,
+        "lng": 115.3475,
+        "country": "CN",
+        "state": "30",
+        "population": 165699
+    },
+    "1795940": {
+        "geoid": "1795940",
+        "name": "Shantou",
+        "lat": 23.36814,
+        "lng": 116.71479,
+        "country": "CN",
+        "state": "30",
+        "population": 5329024
+    },
+    "1795941": {
+        "geoid": "1795941",
+        "name": "Shanting",
+        "lat": 35.07528,
+        "lng": 117.45778,
+        "country": "CN",
+        "state": "25",
+        "population": 80843
+    },
+    "1796236": {
+        "geoid": "1796236",
+        "name": "Shanghai",
+        "lat": 31.22222,
+        "lng": 121.45806,
+        "country": "CN",
+        "state": "23",
+        "population": 22315474
+    },
+    "1796421": {
+        "geoid": "1796421",
+        "name": "Shahecheng",
+        "lat": 36.93833,
+        "lng": 114.50583,
+        "country": "CN",
+        "state": "10",
+        "population": 125132
+    },
+    "1796556": {
+        "geoid": "1796556",
+        "name": "Sanya",
+        "lat": 18.24306,
+        "lng": 109.505,
+        "country": "CN",
+        "state": "31",
+        "population": 144753
+    },
+    "1796663": {
+        "geoid": "1796663",
+        "name": "Sanming",
+        "lat": 26.24861,
+        "lng": 117.61861,
+        "country": "CN",
+        "state": "07",
+        "population": 209444
+    },
+    "1797038": {
+        "geoid": "1797038",
+        "name": "Runing",
+        "lat": 33.00111,
+        "lng": 114.35417,
+        "country": "CN",
+        "state": "09",
+        "population": 60202
+    },
+    "1797120": {
+        "geoid": "1797120",
+        "name": "Fuqing",
+        "lat": 25.725,
+        "lng": 119.37944,
+        "country": "CN",
+        "state": "07",
+        "population": 67397
+    },
+    "1797121": {
+        "geoid": "1797121",
+        "name": "Jieyang",
+        "lat": 23.5418,
+        "lng": 116.36581,
+        "country": "CN",
+        "state": "30",
+        "population": 1001985
+    },
+    "1797132": {
+        "geoid": "1797132",
+        "name": "Rizhao",
+        "lat": 35.4275,
+        "lng": 119.45528,
+        "country": "CN",
+        "state": "25",
+        "population": 246387
+    },
+    "1797181": {
+        "geoid": "1797181",
+        "name": "Renqiu",
+        "lat": 38.69889,
+        "lng": 116.09361,
+        "country": "CN",
+        "state": "10",
+        "population": 98569
+    },
+    "1797264": {
+        "geoid": "1797264",
+        "name": "Quzhou",
+        "lat": 28.95944,
+        "lng": 118.86861,
+        "country": "CN",
+        "state": "02",
+        "population": 82216
+    },
+    "1797318": {
+        "geoid": "1797318",
+        "name": "Qujing",
+        "lat": 25.48333,
+        "lng": 103.78333,
+        "country": "CN",
+        "state": "29",
+        "population": 146015
+    },
+    "1797333": {
+        "geoid": "1797333",
+        "name": "Qufu",
+        "lat": 35.59667,
+        "lng": 116.99111,
+        "country": "CN",
+        "state": "25",
+        "population": 85144
+    },
+    "1797353": {
+        "geoid": "1797353",
+        "name": "Quanzhou",
+        "lat": 24.91389,
+        "lng": 118.58583,
+        "country": "CN",
+        "state": "07",
+        "population": 184143
+    },
+    "1797417": {
+        "geoid": "1797417",
+        "name": "Wuxi",
+        "lat": 26.5844,
+        "lng": 111.859,
+        "country": "CN",
+        "state": "11",
+        "population": 66442
+    },
+    "1797438": {
+        "geoid": "1797438",
+        "name": "Zhuangyuan",
+        "lat": 37.30553,
+        "lng": 120.82747,
+        "country": "CN",
+        "state": "25",
+        "population": 79106
+    },
+    "1797535": {
+        "geoid": "1797535",
+        "name": "Qiongshan",
+        "lat": 20.00583,
+        "lng": 110.35417,
+        "country": "CN",
+        "state": "31",
+        "population": 87657
+    },
+    "1797543": {
+        "geoid": "1797543",
+        "name": "Qionghu",
+        "lat": 28.84061,
+        "lng": 112.37399,
+        "country": "CN",
+        "state": "11",
+        "population": 66145
+    },
+    "1797551": {
+        "geoid": "1797551",
+        "name": "Qinzhou",
+        "lat": 21.97296,
+        "lng": 108.62612,
+        "country": "CN",
+        "state": "16",
+        "population": 100996
+    },
+    "1797575": {
+        "geoid": "1797575",
+        "name": "Qinnan",
+        "lat": 33.25306,
+        "lng": 119.91333,
+        "country": "CN",
+        "state": "04",
+        "population": 55975
+    },
+    "1797595": {
+        "geoid": "1797595",
+        "name": "Qinhuangdao",
+        "lat": 39.93167,
+        "lng": 119.58833,
+        "country": "CN",
+        "state": "10",
+        "population": 759718
+    },
+    "1797658": {
+        "geoid": "1797658",
+        "name": "Jinjiang",
+        "lat": 24.81978,
+        "lng": 118.57415,
+        "country": "CN",
+        "state": "07",
+        "population": 89623
+    },
+    "1797793": {
+        "geoid": "1797793",
+        "name": "Qingquan",
+        "lat": 30.45113,
+        "lng": 115.25593,
+        "country": "CN",
+        "state": "12",
+        "population": 76154
+    },
+    "1797873": {
+        "geoid": "1797873",
+        "name": "Huai'an",
+        "lat": 33.58861,
+        "lng": 119.01917,
+        "country": "CN",
+        "state": "04",
+        "population": 555230
+    },
+    "1797929": {
+        "geoid": "1797929",
+        "name": "Qingdao",
+        "lat": 36.06605,
+        "lng": 120.36939,
+        "country": "CN",
+        "state": "25",
+        "population": 3718835
+    },
+    "1797945": {
+        "geoid": "1797945",
+        "name": "Qingyuan",
+        "lat": 23.7,
+        "lng": 113.03333,
+        "country": "CN",
+        "state": "30",
+        "population": 151287
+    },
+    "1798082": {
+        "geoid": "1798082",
+        "name": "Hongqiao",
+        "lat": 26.76837,
+        "lng": 112.10814,
+        "country": "CN",
+        "state": "11",
+        "population": 58287
+    },
+    "1798422": {
+        "geoid": "1798422",
+        "name": "Puyang Chengguanzhen",
+        "lat": 35.70506,
+        "lng": 115.01409,
+        "country": "CN",
+        "state": "09",
+        "population": 666322
+    },
+    "1798425": {
+        "geoid": "1798425",
+        "name": "Puyang",
+        "lat": 29.45679,
+        "lng": 119.88872,
+        "country": "CN",
+        "state": "02",
+        "population": 3590000
+    },
+    "1798449": {
+        "geoid": "1798449",
+        "name": "Putian",
+        "lat": 25.43944,
+        "lng": 119.01028,
+        "country": "CN",
+        "state": "07",
+        "population": 376558
+    },
+    "1798473": {
+        "geoid": "1798473",
+        "name": "Puqi",
+        "lat": 29.71667,
+        "lng": 113.88333,
+        "country": "CN",
+        "state": "12",
+        "population": 132891
+    },
+    "1798480": {
+        "geoid": "1798480",
+        "name": "Pumiao",
+        "lat": 22.75867,
+        "lng": 108.48111,
+        "country": "CN",
+        "state": "16",
+        "population": 61690
+    },
+    "1798490": {
+        "geoid": "1798490",
+        "name": "Pulandian",
+        "lat": 39.39528,
+        "lng": 121.96694,
+        "country": "CN",
+        "state": "19",
+        "population": 104277
+    },
+    "1798548": {
+        "geoid": "1798548",
+        "name": "Poyang",
+        "lat": 28.99242,
+        "lng": 116.66754,
+        "country": "CN",
+        "state": "03",
+        "population": 70787
+    },
+    "1798632": {
+        "geoid": "1798632",
+        "name": "Pingyin",
+        "lat": 36.28306,
+        "lng": 116.44528,
+        "country": "CN",
+        "state": "25",
+        "population": 62050
+    },
+    "1798634": {
+        "geoid": "1798634",
+        "name": "Pingyi",
+        "lat": 35.50056,
+        "lng": 117.63083,
+        "country": "CN",
+        "state": "25",
+        "population": 78254
+    },
+    "1798654": {
+        "geoid": "1798654",
+        "name": "Pingxiang",
+        "lat": 27.61672,
+        "lng": 113.85353,
+        "country": "CN",
+        "state": "03",
+        "population": 372123
+    },
+    "1798713": {
+        "geoid": "1798713",
+        "name": "Pingshan",
+        "lat": 22.99376,
+        "lng": 114.71311,
+        "country": "CN",
+        "state": "30",
+        "population": 113631
+    },
+    "1798733": {
+        "geoid": "1798733",
+        "name": "Pingnan",
+        "lat": 23.54218,
+        "lng": 110.38946,
+        "country": "CN",
+        "state": "16",
+        "population": 62483
+    },
+    "1798760": {
+        "geoid": "1798760",
+        "name": "Pingliang",
+        "lat": 35.53917,
+        "lng": 106.68611,
+        "country": "CN",
+        "state": "15",
+        "population": 108156
+    },
+    "1798821": {
+        "geoid": "1798821",
+        "name": "Pingdu",
+        "lat": 36.78444,
+        "lng": 119.94639,
+        "country": "CN",
+        "state": "25",
+        "population": 91077
+    },
+    "1798827": {
+        "geoid": "1798827",
+        "name": "Pingdingshan",
+        "lat": 33.73847,
+        "lng": 113.30119,
+        "country": "CN",
+        "state": "09",
+        "population": 889675
+    },
+    "1798946": {
+        "geoid": "1798946",
+        "name": "Pengcheng",
+        "lat": 36.43111,
+        "lng": 114.17,
+        "country": "CN",
+        "state": "10",
+        "population": 68442
+    },
+    "1798998": {
+        "geoid": "1798998",
+        "name": "Dadukou",
+        "lat": 26.5479,
+        "lng": 101.70539,
+        "country": "CN",
+        "state": "32",
+        "population": 461513
+    },
+    "1799348": {
+        "geoid": "1799348",
+        "name": "Ningyang",
+        "lat": 35.76417,
+        "lng": 116.79139,
+        "country": "CN",
+        "state": "25",
+        "population": 82994
+    },
+    "1799352": {
+        "geoid": "1799352",
+        "name": "Yutan",
+        "lat": 28.25831,
+        "lng": 112.56048,
+        "country": "CN",
+        "state": "11",
+        "population": 55312
+    },
+    "1799383": {
+        "geoid": "1799383",
+        "name": "Ninghai",
+        "lat": 37.38422,
+        "lng": 121.60859,
+        "country": "CN",
+        "state": "25",
+        "population": 56937
+    },
+    "1799384": {
+        "geoid": "1799384",
+        "name": "Ninghai",
+        "lat": 29.28917,
+        "lng": 121.42472,
+        "country": "CN",
+        "state": "02",
+        "population": 68330
+    },
+    "1799397": {
+        "geoid": "1799397",
+        "name": "Ningbo",
+        "lat": 29.87819,
+        "lng": 121.54945,
+        "country": "CN",
+        "state": "02",
+        "population": 3491597
+    },
+    "1799491": {
+        "geoid": "1799491",
+        "name": "Neijiang",
+        "lat": 29.58354,
+        "lng": 105.06216,
+        "country": "CN",
+        "state": "32",
+        "population": 546854
+    },
+    "1799552": {
+        "geoid": "1799552",
+        "name": "Nanzhou",
+        "lat": 29.35955,
+        "lng": 112.40243,
+        "country": "CN",
+        "state": "11",
+        "population": 54449
+    },
+    "1799574": {
+        "geoid": "1799574",
+        "name": "Nanzhang Chengguanzhen",
+        "lat": 31.78394,
+        "lng": 111.82752,
+        "country": "CN",
+        "state": "12",
+        "population": 83604
+    },
+    "1799629": {
+        "geoid": "1799629",
+        "name": "Nanyang",
+        "lat": 32.99472,
+        "lng": 112.53278,
+        "country": "CN",
+        "state": "09",
+        "population": 251532
+    },
+    "1799722": {
+        "geoid": "1799722",
+        "name": "Nantong",
+        "lat": 32.03028,
+        "lng": 120.87472,
+        "country": "CN",
+        "state": "04",
+        "population": 666251
+    },
+    "1799832": {
+        "geoid": "1799832",
+        "name": "Pucheng",
+        "lat": 27.92333,
+        "lng": 118.53333,
+        "country": "CN",
+        "state": "07",
+        "population": 59832
+    },
+    "1799846": {
+        "geoid": "1799846",
+        "name": "Nanping",
+        "lat": 26.645,
+        "lng": 118.17361,
+        "country": "CN",
+        "state": "07",
+        "population": 171674
+    },
+    "1799869": {
+        "geoid": "1799869",
+        "name": "Nanning",
+        "lat": 22.81667,
+        "lng": 108.31667,
+        "country": "CN",
+        "state": "16",
+        "population": 803788
+    },
+    "1799897": {
+        "geoid": "1799897",
+        "name": "Nanma",
+        "lat": 36.18478,
+        "lng": 118.15486,
+        "country": "CN",
+        "state": "25",
+        "population": 74406
+    },
+    "1799908": {
+        "geoid": "1799908",
+        "name": "Nanlong",
+        "lat": 31.35333,
+        "lng": 106.06309,
+        "country": "CN",
+        "state": "32",
+        "population": 63405
+    },
+    "1799962": {
+        "geoid": "1799962",
+        "name": "Nanjing",
+        "lat": 32.06167,
+        "lng": 118.77778,
+        "country": "CN",
+        "state": "04",
+        "population": 7165292
+    },
+    "1800065": {
+        "geoid": "1800065",
+        "name": "Nangong",
+        "lat": 37.35806,
+        "lng": 115.37444,
+        "country": "CN",
+        "state": "10",
+        "population": 82386
+    },
+    "1800088": {
+        "geoid": "1800088",
+        "name": "Nanfeng",
+        "lat": 23.72695,
+        "lng": 111.79723,
+        "country": "CN",
+        "state": "30",
+        "population": 86129
+    },
+    "1800101": {
+        "geoid": "1800101",
+        "name": "Nandu",
+        "lat": 22.8525,
+        "lng": 110.82333,
+        "country": "CN",
+        "state": "16",
+        "population": 61881
+    },
+    "1800107": {
+        "geoid": "1800107",
+        "name": "Nanding",
+        "lat": 36.74833,
+        "lng": 118.05583,
+        "country": "CN",
+        "state": "25",
+        "population": 85495
+    },
+    "1800146": {
+        "geoid": "1800146",
+        "name": "Nanchong",
+        "lat": 30.79508,
+        "lng": 106.08473,
+        "country": "CN",
+        "state": "32",
+        "population": 7150000
+    },
+    "1800163": {
+        "geoid": "1800163",
+        "name": "Nanchang",
+        "lat": 28.68396,
+        "lng": 115.85306,
+        "country": "CN",
+        "state": "03",
+        "population": 2357839
+    },
+    "1800430": {
+        "geoid": "1800430",
+        "name": "Miyang",
+        "lat": 24.40417,
+        "lng": 103.44278,
+        "country": "CN",
+        "state": "29",
+        "population": 72485
+    },
+    "1800498": {
+        "geoid": "1800498",
+        "name": "Mingshui",
+        "lat": 36.71667,
+        "lng": 117.5,
+        "country": "CN",
+        "state": "25",
+        "population": 114858
+    },
+    "1800519": {
+        "geoid": "1800519",
+        "name": "Mingguang",
+        "lat": 32.78017,
+        "lng": 117.96378,
+        "country": "CN",
+        "state": "01",
+        "population": 68351
+    },
+    "1800521": {
+        "geoid": "1800521",
+        "name": "Minggang",
+        "lat": 32.45861,
+        "lng": 114.04861,
+        "country": "CN",
+        "state": "09",
+        "population": 67945
+    },
+    "1800627": {
+        "geoid": "1800627",
+        "name": "Mianyang",
+        "lat": 31.46784,
+        "lng": 104.68168,
+        "country": "CN",
+        "state": "32",
+        "population": 264136
+    },
+    "1800657": {
+        "geoid": "1800657",
+        "name": "Mentougou",
+        "lat": 39.93819,
+        "lng": 116.09307,
+        "country": "CN",
+        "state": "22",
+        "population": 197772
+    },
+    "1800675": {
+        "geoid": "1800675",
+        "name": "Mengyin",
+        "lat": 35.70694,
+        "lng": 117.92639,
+        "country": "CN",
+        "state": "25",
+        "population": 65889
+    },
+    "1800764": {
+        "geoid": "1800764",
+        "name": "Mengcheng Chengguanzhen",
+        "lat": 33.26611,
+        "lng": 116.56605,
+        "country": "CN",
+        "state": "01",
+        "population": 69916
+    },
+    "1800779": {
+        "geoid": "1800779",
+        "name": "Meizhou",
+        "lat": 24.29769,
+        "lng": 116.10724,
+        "country": "CN",
+        "state": "30",
+        "population": 144212
+    },
+    "1800829": {
+        "geoid": "1800829",
+        "name": "Wuchuan",
+        "lat": 21.45713,
+        "lng": 110.76591,
+        "country": "CN",
+        "state": "30",
+        "population": 104168
+    },
+    "1801401": {
+        "geoid": "1801401",
+        "name": "Majie",
+        "lat": 25.0319,
+        "lng": 102.638,
+        "country": "CN",
+        "state": "29",
+        "population": 131696
+    },
+    "1801455": {
+        "geoid": "1801455",
+        "name": "Zhijiang",
+        "lat": 30.42139,
+        "lng": 111.75333,
+        "country": "CN",
+        "state": "12",
+        "population": 60169
+    },
+    "1801582": {
+        "geoid": "1801582",
+        "name": "Macheng",
+        "lat": 31.18013,
+        "lng": 115.02213,
+        "country": "CN",
+        "state": "12",
+        "population": 126366
+    },
+    "1801615": {
+        "geoid": "1801615",
+        "name": "Maba",
+        "lat": 24.68413,
+        "lng": 113.59839,
+        "country": "CN",
+        "state": "30",
+        "population": 113609
+    },
+    "1801722": {
+        "geoid": "1801722",
+        "name": "Lüshun",
+        "lat": 38.8,
+        "lng": 121.26667,
+        "country": "CN",
+        "state": "19",
+        "population": 82345
+    },
+    "1801757": {
+        "geoid": "1801757",
+        "name": "Luqiao",
+        "lat": 28.58023,
+        "lng": 121.37491,
+        "country": "CN",
+        "state": "02",
+        "population": 427890
+    },
+    "1801792": {
+        "geoid": "1801792",
+        "name": "Luoyang",
+        "lat": 34.68361,
+        "lng": 112.45361,
+        "country": "CN",
+        "state": "09",
+        "population": 1390581
+    },
+    "1801797": {
+        "geoid": "1801797",
+        "name": "Luoyang",
+        "lat": 24.95938,
+        "lng": 118.683,
+        "country": "CN",
+        "state": "07",
+        "population": 66188
+    },
+    "1801799": {
+        "geoid": "1801799",
+        "name": "Luoyang",
+        "lat": 23.16244,
+        "lng": 114.27342,
+        "country": "CN",
+        "state": "30",
+        "population": 123144
+    },
+    "1801850": {
+        "geoid": "1801850",
+        "name": "Luorong",
+        "lat": 24.40583,
+        "lng": 109.60861,
+        "country": "CN",
+        "state": "16",
+        "population": 67593
+    },
+    "1801934": {
+        "geoid": "1801934",
+        "name": "Luohe",
+        "lat": 33.56394,
+        "lng": 114.04272,
+        "country": "CN",
+        "state": "09",
+        "population": 417356
+    },
+    "1801983": {
+        "geoid": "1801983",
+        "name": "Luocheng",
+        "lat": 29.38481,
+        "lng": 104.02862,
+        "country": "CN",
+        "state": "32",
+        "population": 73581
+    },
+    "1802068": {
+        "geoid": "1802068",
+        "name": "Lucheng",
+        "lat": 31.23357,
+        "lng": 117.28057,
+        "country": "CN",
+        "state": "01",
+        "population": 89119
+    },
+    "1802171": {
+        "geoid": "1802171",
+        "name": "Kangding",
+        "lat": 30.05127,
+        "lng": 101.96033,
+        "country": "CN",
+        "state": "32",
+        "population": 100000
+    },
+    "1802177": {
+        "geoid": "1802177",
+        "name": "Lubu",
+        "lat": 23.17233,
+        "lng": 112.28298,
+        "country": "CN",
+        "state": "30",
+        "population": 95820
+    },
+    "1802204": {
+        "geoid": "1802204",
+        "name": "Luancheng",
+        "lat": 37.87917,
+        "lng": 114.65167,
+        "country": "CN",
+        "state": "10",
+        "population": 597130
+    },
+    "1802238": {
+        "geoid": "1802238",
+        "name": "Loudi",
+        "lat": 27.73444,
+        "lng": 111.99444,
+        "country": "CN",
+        "state": "11",
+        "population": 150684
+    },
+    "1802476": {
+        "geoid": "1802476",
+        "name": "Longquan",
+        "lat": 24.67193,
+        "lng": 102.1613,
+        "country": "CN",
+        "state": "29",
+        "population": 91534
+    },
+    "1802550": {
+        "geoid": "1802550",
+        "name": "Longgang",
+        "lat": 37.65181,
+        "lng": 120.33063,
+        "country": "CN",
+        "state": "25",
+        "population": 60444
+    },
+    "1802788": {
+        "geoid": "1802788",
+        "name": "Licheng",
+        "lat": 31.42813,
+        "lng": 119.48353,
+        "country": "CN",
+        "state": "04",
+        "population": 72276
+    },
+    "1802875": {
+        "geoid": "1802875",
+        "name": "Guankou",
+        "lat": 28.15861,
+        "lng": 113.62709,
+        "country": "CN",
+        "state": "11",
+        "population": 1380000
+    },
+    "1802940": {
+        "geoid": "1802940",
+        "name": "Puning",
+        "lat": 23.31072,
+        "lng": 116.16869,
+        "country": "CN",
+        "state": "30",
+        "population": 118023
+    },
+    "1803245": {
+        "geoid": "1803245",
+        "name": "Lishui",
+        "lat": 28.46042,
+        "lng": 119.91029,
+        "country": "CN",
+        "state": "02",
+        "population": 98946
+    },
+    "1803266": {
+        "geoid": "1803266",
+        "name": "Lintong",
+        "lat": 34.37803,
+        "lng": 109.20892,
+        "country": "CN",
+        "state": "26",
+        "population": 75882
+    },
+    "1803318": {
+        "geoid": "1803318",
+        "name": "Linyi",
+        "lat": 35.06306,
+        "lng": 118.34278,
+        "country": "CN",
+        "state": "25",
+        "population": 270669
+    },
+    "1803331": {
+        "geoid": "1803331",
+        "name": "Linxia Chengguanzhen",
+        "lat": 35.60028,
+        "lng": 103.20639,
+        "country": "CN",
+        "state": "15",
+        "population": 202402
+    },
+    "1803334": {
+        "geoid": "1803334",
+        "name": "Linxi",
+        "lat": 39.71183,
+        "lng": 118.44954,
+        "country": "CN",
+        "state": "10",
+        "population": 100316
+    },
+    "1803352": {
+        "geoid": "1803352",
+        "name": "Linshui",
+        "lat": 36.42472,
+        "lng": 114.20472,
+        "country": "CN",
+        "state": "10",
+        "population": 109955
+    },
+    "1803364": {
+        "geoid": "1803364",
+        "name": "Linqu",
+        "lat": 36.51556,
+        "lng": 118.53972,
+        "country": "CN",
+        "state": "25",
+        "population": 77472
+    },
+    "1803365": {
+        "geoid": "1803365",
+        "name": "Linqiong",
+        "lat": 30.41587,
+        "lng": 103.46089,
+        "country": "CN",
+        "state": "32",
+        "population": 55587
+    },
+    "1803367": {
+        "geoid": "1803367",
+        "name": "Qingnian",
+        "lat": 36.84032,
+        "lng": 115.71183,
+        "country": "CN",
+        "state": "25",
+        "population": 110046
+    },
+    "1803374": {
+        "geoid": "1803374",
+        "name": "Linping",
+        "lat": 30.4225,
+        "lng": 120.29722,
+        "country": "CN",
+        "state": "02",
+        "population": 78180
+    },
+    "1803422": {
+        "geoid": "1803422",
+        "name": "Linhai",
+        "lat": 28.84815,
+        "lng": 121.12807,
+        "country": "CN",
+        "state": "02",
+        "population": 152937
+    },
+    "1803551": {
+        "geoid": "1803551",
+        "name": "Lingcheng",
+        "lat": 22.70722,
+        "lng": 110.34917,
+        "country": "CN",
+        "state": "16",
+        "population": 54848
+    },
+    "1803560": {
+        "geoid": "1803560",
+        "name": "Lincheng",
+        "lat": 19.90778,
+        "lng": 109.68583,
+        "country": "CN",
+        "state": "31",
+        "population": 64874
+    },
+    "1803567": {
+        "geoid": "1803567",
+        "name": "Linfen",
+        "lat": 36.08889,
+        "lng": 111.51889,
+        "country": "CN",
+        "state": "24",
+        "population": 232566
+    },
+    "1803616": {
+        "geoid": "1803616",
+        "name": "Xishan",
+        "lat": 27.66667,
+        "lng": 113.5,
+        "country": "CN",
+        "state": "11",
+        "population": 98162
+    },
+    "1803782": {
+        "geoid": "1803782",
+        "name": "Lichuan",
+        "lat": 30.3,
+        "lng": 108.85,
+        "country": "CN",
+        "state": "12",
+        "population": 72653
+    },
+    "1803791": {
+        "geoid": "1803791",
+        "name": "Licheng",
+        "lat": 23.29549,
+        "lng": 113.82465,
+        "country": "CN",
+        "state": "30",
+        "population": 172775
+    },
+    "1803834": {
+        "geoid": "1803834",
+        "name": "Liaocheng",
+        "lat": 36.45596,
+        "lng": 115.97766,
+        "country": "CN",
+        "state": "25",
+        "population": 226930
+    },
+    "1803841": {
+        "geoid": "1803841",
+        "name": "Lianzhou",
+        "lat": 24.78186,
+        "lng": 112.3712,
+        "country": "CN",
+        "state": "30",
+        "population": 92827
+    },
+    "1803842": {
+        "geoid": "1803842",
+        "name": "Lianzhou",
+        "lat": 21.66621,
+        "lng": 109.20116,
+        "country": "CN",
+        "state": "16",
+        "population": 71423
+    },
+    "1803886": {
+        "geoid": "1803886",
+        "name": "Lianran",
+        "lat": 24.92271,
+        "lng": 102.48496,
+        "country": "CN",
+        "state": "29",
+        "population": 106795
+    },
+    "1803936": {
+        "geoid": "1803936",
+        "name": "Wuwei",
+        "lat": 37.92672,
+        "lng": 102.63202,
+        "country": "CN",
+        "state": "15",
+        "population": 493092
+    },
+    "1803948": {
+        "geoid": "1803948",
+        "name": "Liangxiang",
+        "lat": 39.73598,
+        "lng": 116.13295,
+        "country": "CN",
+        "state": "22",
+        "population": 76744
+    },
+    "1804120": {
+        "geoid": "1804120",
+        "name": "Lianjiang",
+        "lat": 21.64673,
+        "lng": 110.28172,
+        "country": "CN",
+        "state": "30",
+        "population": 100341
+    },
+    "1804153": {
+        "geoid": "1804153",
+        "name": "Leshan",
+        "lat": 29.56227,
+        "lng": 103.76386,
+        "country": "CN",
+        "state": "32",
+        "population": 154477
+    },
+    "1804162": {
+        "geoid": "1804162",
+        "name": "Lengshuitan",
+        "lat": 26.4111,
+        "lng": 111.59559,
+        "country": "CN",
+        "state": "11",
+        "population": 88935
+    },
+    "1804169": {
+        "geoid": "1804169",
+        "name": "Lengshuijiang",
+        "lat": 27.68806,
+        "lng": 111.42944,
+        "country": "CN",
+        "state": "11",
+        "population": 115399
+    },
+    "1804208": {
+        "geoid": "1804208",
+        "name": "Leiyang",
+        "lat": 26.40238,
+        "lng": 112.85908,
+        "country": "CN",
+        "state": "11",
+        "population": 129116
+    },
+    "1804252": {
+        "geoid": "1804252",
+        "name": "Lecheng",
+        "lat": 25.128,
+        "lng": 113.35041,
+        "country": "CN",
+        "state": "30",
+        "population": 124268
+    },
+    "1804386": {
+        "geoid": "1804386",
+        "name": "Laohekou",
+        "lat": 32.38583,
+        "lng": 111.66778,
+        "country": "CN",
+        "state": "12",
+        "population": 253112
+    },
+    "1804430": {
+        "geoid": "1804430",
+        "name": "Lanzhou",
+        "lat": 36.05701,
+        "lng": 103.83987,
+        "country": "CN",
+        "state": "15",
+        "population": 2628426
+    },
+    "1804442": {
+        "geoid": "1804442",
+        "name": "Lanxi",
+        "lat": 29.21588,
+        "lng": 119.47156,
+        "country": "CN",
+        "state": "02",
+        "population": 73706
+    },
+    "1804451": {
+        "geoid": "1804451",
+        "name": "Lianyuan",
+        "lat": 27.68833,
+        "lng": 111.66417,
+        "country": "CN",
+        "state": "11",
+        "population": 66501
+    },
+    "1804540": {
+        "geoid": "1804540",
+        "name": "Langfang",
+        "lat": 39.50972,
+        "lng": 116.69472,
+        "country": "CN",
+        "state": "10",
+        "population": 720119
+    },
+    "1804578": {
+        "geoid": "1804578",
+        "name": "Weichanglu",
+        "lat": 37.18073,
+        "lng": 119.94217,
+        "country": "CN",
+        "state": "25",
+        "population": 90070
+    },
+    "1804586": {
+        "geoid": "1804586",
+        "name": "Laiyang",
+        "lat": 36.97583,
+        "lng": 120.71361,
+        "country": "CN",
+        "state": "25",
+        "population": 169594
+    },
+    "1804591": {
+        "geoid": "1804591",
+        "name": "Laiwu",
+        "lat": 36.19278,
+        "lng": 117.65694,
+        "country": "CN",
+        "state": "25",
+        "population": 124108
+    },
+    "1804609": {
+        "geoid": "1804609",
+        "name": "Laibin",
+        "lat": 23.7,
+        "lng": 109.26667,
+        "country": "CN",
+        "state": "16",
+        "population": 59835
+    },
+    "1804645": {
+        "geoid": "1804645",
+        "name": "Kunyang",
+        "lat": 27.66583,
+        "lng": 120.56583,
+        "country": "CN",
+        "state": "02",
+        "population": 65009
+    },
+    "1804651": {
+        "geoid": "1804651",
+        "name": "Kunming",
+        "lat": 25.03889,
+        "lng": 102.71833,
+        "country": "CN",
+        "state": "29",
+        "population": 3855346
+    },
+    "1804850": {
+        "geoid": "1804850",
+        "name": "Kaiyuan",
+        "lat": 23.69767,
+        "lng": 103.30372,
+        "country": "CN",
+        "state": "29",
+        "population": 198423
+    },
+    "1804874": {
+        "geoid": "1804874",
+        "name": "Kaihua",
+        "lat": 23.3695,
+        "lng": 104.27721,
+        "country": "CN",
+        "state": "29",
+        "population": 64404
+    },
+    "1804879": {
+        "geoid": "1804879",
+        "name": "Kaifeng",
+        "lat": 34.7986,
+        "lng": 114.30742,
+        "country": "CN",
+        "state": "09",
+        "population": 900000
+    },
+    "1804892": {
+        "geoid": "1804892",
+        "name": "Juye",
+        "lat": 35.39472,
+        "lng": 116.08833,
+        "country": "CN",
+        "state": "25",
+        "population": 58107
+    },
+    "1804979": {
+        "geoid": "1804979",
+        "name": "Juegang",
+        "lat": 32.31737,
+        "lng": 121.18552,
+        "country": "CN",
+        "state": "04",
+        "population": 73317
+    },
+    "1805179": {
+        "geoid": "1805179",
+        "name": "Jiujiang",
+        "lat": 29.70475,
+        "lng": 116.00206,
+        "country": "CN",
+        "state": "03",
+        "population": 258807
+    },
+    "1805267": {
+        "geoid": "1805267",
+        "name": "Jishui",
+        "lat": 33.73333,
+        "lng": 115.4,
+        "country": "CN",
+        "state": "09",
+        "population": 77540
+    },
+    "1805270": {
+        "geoid": "1805270",
+        "name": "Qianzhou",
+        "lat": 28.31925,
+        "lng": 109.73346,
+        "country": "CN",
+        "state": "11",
+        "population": 102332
+    },
+    "1805298": {
+        "geoid": "1805298",
+        "name": "Jinzhou",
+        "lat": 39.1,
+        "lng": 121.71667,
+        "country": "CN",
+        "state": "19",
+        "population": 215386
+    },
+    "1805334": {
+        "geoid": "1805334",
+        "name": "Jinxiang",
+        "lat": 27.43265,
+        "lng": 120.60625,
+        "country": "CN",
+        "state": "02",
+        "population": 84231
+    },
+    "1805379": {
+        "geoid": "1805379",
+        "name": "Jinshi",
+        "lat": 29.60487,
+        "lng": 111.87012,
+        "country": "CN",
+        "state": "11",
+        "population": 82906
+    },
+    "1805408": {
+        "geoid": "1805408",
+        "name": "Jinsha",
+        "lat": 32.08982,
+        "lng": 121.07355,
+        "country": "CN",
+        "state": "04",
+        "population": 95647
+    },
+    "1805505": {
+        "geoid": "1805505",
+        "name": "Jinjiang",
+        "lat": 19.72878,
+        "lng": 110.00851,
+        "country": "CN",
+        "state": "31",
+        "population": 68720
+    },
+    "1805515": {
+        "geoid": "1805515",
+        "name": "Jinji",
+        "lat": 23.22806,
+        "lng": 110.82611,
+        "country": "CN",
+        "state": "16",
+        "population": 56816
+    },
+    "1805518": {
+        "geoid": "1805518",
+        "name": "Jining",
+        "lat": 35.405,
+        "lng": 116.58139,
+        "country": "CN",
+        "state": "25",
+        "population": 450327
+    },
+    "1805528": {
+        "geoid": "1805528",
+        "name": "Jinhua",
+        "lat": 29.10678,
+        "lng": 119.64421,
+        "country": "CN",
+        "state": "02",
+        "population": 142206
+    },
+    "1805540": {
+        "geoid": "1805540",
+        "name": "Jingzhou",
+        "lat": 30.35028,
+        "lng": 112.19028,
+        "country": "CN",
+        "state": "12",
+        "population": 177878
+    },
+    "1805563": {
+        "geoid": "1805563",
+        "name": "Tianchang",
+        "lat": 37.99806,
+        "lng": 114.01556,
+        "country": "CN",
+        "state": "10",
+        "population": 61292
+    },
+    "1805611": {
+        "geoid": "1805611",
+        "name": "Jingmen",
+        "lat": 31.03361,
+        "lng": 112.20472,
+        "country": "CN",
+        "state": "12",
+        "population": 167750
+    },
+    "1805618": {
+        "geoid": "1805618",
+        "name": "Jingling",
+        "lat": 30.65,
+        "lng": 113.1,
+        "country": "CN",
+        "state": "12",
+        "population": 224871
+    },
+    "1805680": {
+        "geoid": "1805680",
+        "name": "Jingdezhen",
+        "lat": 29.2947,
+        "lng": 117.20789,
+        "country": "CN",
+        "state": "03",
+        "population": 310565
+    },
+    "1805733": {
+        "geoid": "1805733",
+        "name": "Jinchang",
+        "lat": 38.50062,
+        "lng": 102.19379,
+        "country": "CN",
+        "state": "15",
+        "population": 144363
+    },
+    "1805741": {
+        "geoid": "1805741",
+        "name": "Jincheng",
+        "lat": 35.50222,
+        "lng": 112.83278,
+        "country": "CN",
+        "state": "24",
+        "population": 332650
+    },
+    "1805753": {
+        "geoid": "1805753",
+        "name": "Jinan",
+        "lat": 36.66833,
+        "lng": 116.99722,
+        "country": "CN",
+        "state": "25",
+        "population": 4335989
+    },
+    "1805757": {
+        "geoid": "1805757",
+        "name": "Jimo",
+        "lat": 36.38972,
+        "lng": 120.46222,
+        "country": "CN",
+        "state": "25",
+        "population": 70733
+    },
+    "1805798": {
+        "geoid": "1805798",
+        "name": "Jijiang",
+        "lat": 29.28993,
+        "lng": 106.25001,
+        "country": "CN",
+        "state": "33",
+        "population": 61161
+    },
+    "1805833": {
+        "geoid": "1805833",
+        "name": "Jiexiu",
+        "lat": 37.02444,
+        "lng": 111.9125,
+        "country": "CN",
+        "state": "24",
+        "population": 77178
+    },
+    "1805844": {
+        "geoid": "1805844",
+        "name": "Jieshou",
+        "lat": 33.26338,
+        "lng": 115.36108,
+        "country": "CN",
+        "state": "01",
+        "population": 141993
+    },
+    "1805857": {
+        "geoid": "1805857",
+        "name": "Jieshi",
+        "lat": 22.81027,
+        "lng": 115.83058,
+        "country": "CN",
+        "state": "30",
+        "population": 137444
+    },
+    "1805884": {
+        "geoid": "1805884",
+        "name": "Jiehu",
+        "lat": 35.54278,
+        "lng": 118.455,
+        "country": "CN",
+        "state": "25",
+        "population": 69245
+    },
+    "1805935": {
+        "geoid": "1805935",
+        "name": "Jiazi",
+        "lat": 22.87932,
+        "lng": 116.07318,
+        "country": "CN",
+        "state": "30",
+        "population": 130298
+    },
+    "1805953": {
+        "geoid": "1805953",
+        "name": "Jiaxing",
+        "lat": 30.7522,
+        "lng": 120.75,
+        "country": "CN",
+        "state": "02",
+        "population": 466101
+    },
+    "1805987": {
+        "geoid": "1805987",
+        "name": "Jiaozuo",
+        "lat": 35.23972,
+        "lng": 113.23306,
+        "country": "CN",
+        "state": "09",
+        "population": 517540
+    },
+    "1806096": {
+        "geoid": "1806096",
+        "name": "Jiaozhou",
+        "lat": 36.28389,
+        "lng": 120.00333,
+        "country": "CN",
+        "state": "25",
+        "population": 165026
+    },
+    "1806097": {
+        "geoid": "1806097",
+        "name": "Ningde",
+        "lat": 26.66167,
+        "lng": 119.52278,
+        "country": "CN",
+        "state": "07",
+        "population": 65170
+    },
+    "1806167": {
+        "geoid": "1806167",
+        "name": "Jian’ou",
+        "lat": 27.04694,
+        "lng": 118.32528,
+        "country": "CN",
+        "state": "07",
+        "population": 59187
+    },
+    "1806218": {
+        "geoid": "1806218",
+        "name": "Jiangyan",
+        "lat": 32.50611,
+        "lng": 120.14278,
+        "country": "CN",
+        "state": "04",
+        "population": 70375
+    },
+    "1806248": {
+        "geoid": "1806248",
+        "name": "Jianguang",
+        "lat": 28.19377,
+        "lng": 115.7836,
+        "country": "CN",
+        "state": "03",
+        "population": 61469
+    },
+    "1806299": {
+        "geoid": "1806299",
+        "name": "Jiangmen",
+        "lat": 22.58333,
+        "lng": 113.08333,
+        "country": "CN",
+        "state": "30",
+        "population": 532419
+    },
+    "1806327": {
+        "geoid": "1806327",
+        "name": "Jiangkou",
+        "lat": 25.48694,
+        "lng": 119.19834,
+        "country": "CN",
+        "state": "07",
+        "population": 59902
+    },
+    "1806408": {
+        "geoid": "1806408",
+        "name": "Yangjiang",
+        "lat": 21.85563,
+        "lng": 111.96272,
+        "country": "CN",
+        "state": "30",
+        "population": 399735
+    },
+    "1806445": {
+        "geoid": "1806445",
+        "name": "Ji’an",
+        "lat": 27.11716,
+        "lng": 114.97927,
+        "country": "CN",
+        "state": "03",
+        "population": 245000
+    },
+    "1806466": {
+        "geoid": "1806466",
+        "name": "Guangyuan",
+        "lat": 32.44201,
+        "lng": 105.823,
+        "country": "CN",
+        "state": "32",
+        "population": 213365
+    },
+    "1806535": {
+        "geoid": "1806535",
+        "name": "Huzhou",
+        "lat": 30.8703,
+        "lng": 120.0933,
+        "country": "CN",
+        "state": "02",
+        "population": 158320
+    },
+    "1806591": {
+        "geoid": "1806591",
+        "name": "Hutang",
+        "lat": 31.53429,
+        "lng": 119.49,
+        "country": "CN",
+        "state": "04",
+        "population": 56370
+    },
+    "1806651": {
+        "geoid": "1806651",
+        "name": "Huoqiu Chengguanzhen",
+        "lat": 32.35473,
+        "lng": 116.2939,
+        "country": "CN",
+        "state": "01",
+        "population": 61904
+    },
+    "1806696": {
+        "geoid": "1806696",
+        "name": "Humen",
+        "lat": 22.81899,
+        "lng": 113.67306,
+        "country": "CN",
+        "state": "30",
+        "population": 191891
+    },
+    "1806776": {
+        "geoid": "1806776",
+        "name": "Huizhou",
+        "lat": 23.11147,
+        "lng": 114.41523,
+        "country": "CN",
+        "state": "30",
+        "population": 289201
+    },
+    "1806840": {
+        "geoid": "1806840",
+        "name": "Huilong",
+        "lat": 31.81111,
+        "lng": 121.655,
+        "country": "CN",
+        "state": "04",
+        "population": 74818
+    },
+    "1806881": {
+        "geoid": "1806881",
+        "name": "Huicheng",
+        "lat": 23.03845,
+        "lng": 116.28988,
+        "country": "CN",
+        "state": "30",
+        "population": 125919
+    },
+    "1806882": {
+        "geoid": "1806882",
+        "name": "Xinhui",
+        "lat": 22.456,
+        "lng": 113.0482,
+        "country": "CN",
+        "state": "30",
+        "population": 195129
+    },
+    "1806960": {
+        "geoid": "1806960",
+        "name": "Huazhou",
+        "lat": 21.63333,
+        "lng": 110.58333,
+        "country": "CN",
+        "state": "30",
+        "population": 91701
+    },
+    "1807112": {
+        "geoid": "1807112",
+        "name": "Huangzhou",
+        "lat": 30.45,
+        "lng": 114.8,
+        "country": "CN",
+        "state": "12",
+        "population": 122563
+    },
+    "1807143": {
+        "geoid": "1807143",
+        "name": "Huangyan",
+        "lat": 28.6501,
+        "lng": 121.26591,
+        "country": "CN",
+        "state": "02",
+        "population": 150448
+    },
+    "1807234": {
+        "geoid": "1807234",
+        "name": "Huangshi",
+        "lat": 30.24706,
+        "lng": 115.04814,
+        "country": "CN",
+        "state": "12",
+        "population": 688090
+    },
+    "1807301": {
+        "geoid": "1807301",
+        "name": "Dasha",
+        "lat": 23.11037,
+        "lng": 113.4418,
+        "country": "CN",
+        "state": "30",
+        "population": 116307
+    },
+    "1807308": {
+        "geoid": "1807308",
+        "name": "Huangpi",
+        "lat": 30.88453,
+        "lng": 114.37789,
+        "country": "CN",
+        "state": "12",
+        "population": 57554
+    },
+    "1807339": {
+        "geoid": "1807339",
+        "name": "Huangmei",
+        "lat": 30.19235,
+        "lng": 116.02496,
+        "country": "CN",
+        "state": "12",
+        "population": 77633
+    },
+    "1807508": {
+        "geoid": "1807508",
+        "name": "Huanggang",
+        "lat": 23.67704,
+        "lng": 116.99961,
+        "country": "CN",
+        "state": "30",
+        "population": 225956
+    },
+    "1807544": {
+        "geoid": "1807544",
+        "name": "Daxing",
+        "lat": 39.74025,
+        "lng": 116.32693,
+        "country": "CN",
+        "state": "22",
+        "population": 104904
+    },
+    "1807553": {
+        "geoid": "1807553",
+        "name": "Dingcheng",
+        "lat": 32.12722,
+        "lng": 115.03944,
+        "country": "CN",
+        "state": "09",
+        "population": 72663
+    },
+    "1807645": {
+        "geoid": "1807645",
+        "name": "Huaiyuan Chengguanzhen",
+        "lat": 32.95893,
+        "lng": 117.16566,
+        "country": "CN",
+        "state": "01",
+        "population": 65530
+    },
+    "1807681": {
+        "geoid": "1807681",
+        "name": "Huainan",
+        "lat": 32.62639,
+        "lng": 116.99694,
+        "country": "CN",
+        "state": "01",
+        "population": 1027655
+    },
+    "1807687": {
+        "geoid": "1807687",
+        "name": "Huaicheng",
+        "lat": 23.91952,
+        "lng": 112.17629,
+        "country": "CN",
+        "state": "30",
+        "population": 89294
+    },
+    "1807689": {
+        "geoid": "1807689",
+        "name": "Huaihua",
+        "lat": 27.54944,
+        "lng": 109.95917,
+        "country": "CN",
+        "state": "11",
+        "population": 127322
+    },
+    "1807695": {
+        "geoid": "1807695",
+        "name": "Huaidian",
+        "lat": 33.43333,
+        "lng": 115.03333,
+        "country": "CN",
+        "state": "09",
+        "population": 89978
+    },
+    "1807700": {
+        "geoid": "1807700",
+        "name": "Huaibei",
+        "lat": 33.97444,
+        "lng": 116.79167,
+        "country": "CN",
+        "state": "01",
+        "population": 903039
+    },
+    "1808106": {
+        "geoid": "1808106",
+        "name": "Hongjiang",
+        "lat": 27.11,
+        "lng": 109.99556,
+        "country": "CN",
+        "state": "11",
+        "population": 59199
+    },
+    "1808198": {
+        "geoid": "1808198",
+        "name": "Heze",
+        "lat": 35.23929,
+        "lng": 115.47358,
+        "country": "CN",
+        "state": "25",
+        "population": 254602
+    },
+    "1808212": {
+        "geoid": "1808212",
+        "name": "Hechuan",
+        "lat": 29.99228,
+        "lng": 106.26461,
+        "country": "CN",
+        "state": "33",
+        "population": 97575
+    },
+    "1808316": {
+        "geoid": "1808316",
+        "name": "Yiyang",
+        "lat": 28.58917,
+        "lng": 112.32833,
+        "country": "CN",
+        "state": "11",
+        "population": 202608
+    },
+    "1808336": {
+        "geoid": "1808336",
+        "name": "Hepo",
+        "lat": 23.43077,
+        "lng": 115.82991,
+        "country": "CN",
+        "state": "30",
+        "population": 131238
+    },
+    "1808370": {
+        "geoid": "1808370",
+        "name": "Hengyang",
+        "lat": 26.88946,
+        "lng": 112.61888,
+        "country": "CN",
+        "state": "11",
+        "population": 759602
+    },
+    "1808392": {
+        "geoid": "1808392",
+        "name": "Hengshui",
+        "lat": 37.73222,
+        "lng": 115.70111,
+        "country": "CN",
+        "state": "10",
+        "population": 456356
+    },
+    "1808722": {
+        "geoid": "1808722",
+        "name": "Hefei",
+        "lat": 31.86389,
+        "lng": 117.28083,
+        "country": "CN",
+        "state": "01",
+        "population": 3310268
+    },
+    "1808744": {
+        "geoid": "1808744",
+        "name": "Hede",
+        "lat": 33.7722,
+        "lng": 120.26176,
+        "country": "CN",
+        "state": "04",
+        "population": 89107
+    },
+    "1808747": {
+        "geoid": "1808747",
+        "name": "Hecun",
+        "lat": 36.53333,
+        "lng": 114.11111,
+        "country": "CN",
+        "state": "10",
+        "population": 83009
+    },
+    "1808770": {
+        "geoid": "1808770",
+        "name": "Hebi",
+        "lat": 35.89917,
+        "lng": 114.1925,
+        "country": "CN",
+        "state": "09",
+        "population": 244662
+    },
+    "1808857": {
+        "geoid": "1808857",
+        "name": "Hanzhong",
+        "lat": 33.07278,
+        "lng": 107.03028,
+        "country": "CN",
+        "state": "26",
+        "population": 145986
+    },
+    "1808872": {
+        "geoid": "1808872",
+        "name": "Chengyang",
+        "lat": 27.08917,
+        "lng": 119.64528,
+        "country": "CN",
+        "state": "07",
+        "population": 71053
+    },
+    "1808879": {
+        "geoid": "1808879",
+        "name": "Hanting",
+        "lat": 36.77083,
+        "lng": 119.21083,
+        "country": "CN",
+        "state": "25",
+        "population": 90637
+    },
+    "1808926": {
+        "geoid": "1808926",
+        "name": "Hangzhou",
+        "lat": 30.29365,
+        "lng": 120.16142,
+        "country": "CN",
+        "state": "02",
+        "population": 6241971
+    },
+    "1808931": {
+        "geoid": "1808931",
+        "name": "Hangu",
+        "lat": 39.24889,
+        "lng": 117.78917,
+        "country": "CN",
+        "state": "28",
+        "population": 208369
+    },
+    "1808963": {
+        "geoid": "1808963",
+        "name": "Handan",
+        "lat": 36.60056,
+        "lng": 114.46778,
+        "country": "CN",
+        "state": "10",
+        "population": 1358318
+    },
+    "1808977": {
+        "geoid": "1808977",
+        "name": "Hanchuan",
+        "lat": 30.65,
+        "lng": 113.76667,
+        "country": "CN",
+        "state": "12",
+        "population": 87737
+    },
+    "1808981": {
+        "geoid": "1808981",
+        "name": "Hancheng",
+        "lat": 35.46028,
+        "lng": 110.42917,
+        "country": "CN",
+        "state": "26",
+        "population": 58049
+    },
+    "1809003": {
+        "geoid": "1809003",
+        "name": "Haizhou",
+        "lat": 34.58167,
+        "lng": 119.12889,
+        "country": "CN",
+        "state": "04",
+        "population": 59098
+    },
+    "1809061": {
+        "geoid": "1809061",
+        "name": "Jiaojiang",
+        "lat": 28.68028,
+        "lng": 121.44278,
+        "country": "CN",
+        "state": "02",
+        "population": 470804
+    },
+    "1809062": {
+        "geoid": "1809062",
+        "name": "Haimen",
+        "lat": 23.19346,
+        "lng": 116.61219,
+        "country": "CN",
+        "state": "30",
+        "population": 125427
+    },
+    "1809077": {
+        "geoid": "1809077",
+        "name": "Haikou",
+        "lat": 24.77985,
+        "lng": 102.57548,
+        "country": "CN",
+        "state": "29",
+        "population": 112644
+    },
+    "1809078": {
+        "geoid": "1809078",
+        "name": "Haikou",
+        "lat": 20.04583,
+        "lng": 110.34167,
+        "country": "CN",
+        "state": "31",
+        "population": 615835
+    },
+    "1809263": {
+        "geoid": "1809263",
+        "name": "Guozhen",
+        "lat": 34.36591,
+        "lng": 107.35904,
+        "country": "CN",
+        "state": "26",
+        "population": 85415
+    },
+    "1809412": {
+        "geoid": "1809412",
+        "name": "Guli",
+        "lat": 28.88162,
+        "lng": 120.03308,
+        "country": "CN",
+        "state": "02",
+        "population": 536000
+    },
+    "1809461": {
+        "geoid": "1809461",
+        "name": "Guiyang",
+        "lat": 26.58333,
+        "lng": 106.71667,
+        "country": "CN",
+        "state": "18",
+        "population": 1171633
+    },
+    "1809483": {
+        "geoid": "1809483",
+        "name": "Guiren",
+        "lat": 33.66972,
+        "lng": 118.18889,
+        "country": "CN",
+        "state": "04",
+        "population": 57446
+    },
+    "1809486": {
+        "geoid": "1809486",
+        "name": "Guiping",
+        "lat": 23.39336,
+        "lng": 110.07437,
+        "country": "CN",
+        "state": "16",
+        "population": 71066
+    },
+    "1809498": {
+        "geoid": "1809498",
+        "name": "Guilin",
+        "lat": 25.28194,
+        "lng": 110.28639,
+        "country": "CN",
+        "state": "16",
+        "population": 649352
+    },
+    "1809532": {
+        "geoid": "1809532",
+        "name": "Guigang",
+        "lat": 23.09639,
+        "lng": 109.60917,
+        "country": "CN",
+        "state": "16",
+        "population": 76430
+    },
+    "1809610": {
+        "geoid": "1809610",
+        "name": "Gucheng Chengguanzhen",
+        "lat": 32.26604,
+        "lng": 111.63476,
+        "country": "CN",
+        "state": "12",
+        "population": 74038
+    },
+    "1809858": {
+        "geoid": "1809858",
+        "name": "Guangzhou",
+        "lat": 23.11667,
+        "lng": 113.25,
+        "country": "CN",
+        "state": "30",
+        "population": 11071424
+    },
+    "1809879": {
+        "geoid": "1809879",
+        "name": "Guangshui",
+        "lat": 31.6199,
+        "lng": 113.9978,
+        "country": "CN",
+        "state": "12",
+        "population": 154771
+    },
+    "1810240": {
+        "geoid": "1810240",
+        "name": "Gejiu",
+        "lat": 23.36085,
+        "lng": 103.15372,
+        "country": "CN",
+        "state": "29",
+        "population": 136135
+    },
+    "1810295": {
+        "geoid": "1810295",
+        "name": "Gaozhou",
+        "lat": 21.93924,
+        "lng": 110.84607,
+        "country": "CN",
+        "state": "30",
+        "population": 166069
+    },
+    "1810309": {
+        "geoid": "1810309",
+        "name": "Gaoyou",
+        "lat": 32.78933,
+        "lng": 119.44182,
+        "country": "CN",
+        "state": "04",
+        "population": 90911
+    },
+    "1810437": {
+        "geoid": "1810437",
+        "name": "Gaoping",
+        "lat": 30.77576,
+        "lng": 106.10294,
+        "country": "CN",
+        "state": "32",
+        "population": 204368
+    },
+    "1810458": {
+        "geoid": "1810458",
+        "name": "Gaomi",
+        "lat": 36.38333,
+        "lng": 119.75278,
+        "country": "CN",
+        "state": "25",
+        "population": 150793
+    },
+    "1810553": {
+        "geoid": "1810553",
+        "name": "Gaogou",
+        "lat": 34.0175,
+        "lng": 119.18861,
+        "country": "CN",
+        "state": "04",
+        "population": 56214
+    },
+    "1810821": {
+        "geoid": "1810821",
+        "name": "Fuzhou",
+        "lat": 26.06139,
+        "lng": 119.30611,
+        "country": "CN",
+        "state": "07",
+        "population": 1179720
+    },
+    "1810845": {
+        "geoid": "1810845",
+        "name": "Fuyang",
+        "lat": 32.9,
+        "lng": 115.81667,
+        "country": "CN",
+        "state": "01",
+        "population": 170023
+    },
+    "1810846": {
+        "geoid": "1810846",
+        "name": "Fuyang",
+        "lat": 30.05333,
+        "lng": 119.95194,
+        "country": "CN",
+        "state": "02",
+        "population": 70183
+    },
+    "1810920": {
+        "geoid": "1810920",
+        "name": "Qingyang",
+        "lat": 37.49583,
+        "lng": 121.25806,
+        "country": "CN",
+        "state": "25",
+        "population": 65622
+    },
+    "1810979": {
+        "geoid": "1810979",
+        "name": "Fuling",
+        "lat": 29.706,
+        "lng": 107.39575,
+        "country": "CN",
+        "state": "33",
+        "population": 166507
+    },
+    "1811103": {
+        "geoid": "1811103",
+        "name": "Foshan",
+        "lat": 23.02677,
+        "lng": 113.13148,
+        "country": "CN",
+        "state": "30",
+        "population": 3600000
+    },
+    "1811114": {
+        "geoid": "1811114",
+        "name": "Fenyi",
+        "lat": 27.81117,
+        "lng": 114.66805,
+        "country": "CN",
+        "state": "03",
+        "population": 58478
+    },
+    "1811200": {
+        "geoid": "1811200",
+        "name": "Fengxian",
+        "lat": 34.70388,
+        "lng": 116.58717,
+        "country": "CN",
+        "state": "04",
+        "population": 57153
+    },
+    "1811260": {
+        "geoid": "1811260",
+        "name": "Fengrun",
+        "lat": 39.83333,
+        "lng": 118.11667,
+        "country": "CN",
+        "state": "10",
+        "population": 65150
+    },
+    "1811305": {
+        "geoid": "1811305",
+        "name": "Fengkou",
+        "lat": 30.08268,
+        "lng": 113.33346,
+        "country": "CN",
+        "state": "12",
+        "population": 67139
+    },
+    "1811440": {
+        "geoid": "1811440",
+        "name": "Feicheng",
+        "lat": 35.26056,
+        "lng": 117.9675,
+        "country": "CN",
+        "state": "25",
+        "population": 80929
+    },
+    "1811542": {
+        "geoid": "1811542",
+        "name": "Fangshan",
+        "lat": 39.68699,
+        "lng": 115.99658,
+        "country": "CN",
+        "state": "22",
+        "population": 97026
+    },
+    "1811619": {
+        "geoid": "1811619",
+        "name": "Ezhou",
+        "lat": 30.4,
+        "lng": 114.83333,
+        "country": "CN",
+        "state": "12",
+        "population": 193652
+    },
+    "1811720": {
+        "geoid": "1811720",
+        "name": "Enshi",
+        "lat": 30.3,
+        "lng": 109.48333,
+        "country": "CN",
+        "state": "12",
+        "population": 95227
+    },
+    "1811729": {
+        "geoid": "1811729",
+        "name": "Encheng",
+        "lat": 22.18659,
+        "lng": 112.30424,
+        "country": "CN",
+        "state": "30",
+        "population": 110921
+    },
+    "1811764": {
+        "geoid": "1811764",
+        "name": "Duyun",
+        "lat": 26.26667,
+        "lng": 107.51667,
+        "country": "CN",
+        "state": "18",
+        "population": 91136
+    },
+    "1811829": {
+        "geoid": "1811829",
+        "name": "Duobao",
+        "lat": 30.67,
+        "lng": 112.68952,
+        "country": "CN",
+        "state": "12",
+        "population": 90257
+    },
+    "1811929": {
+        "geoid": "1811929",
+        "name": "Ducheng",
+        "lat": 23.24212,
+        "lng": 111.5284,
+        "country": "CN",
+        "state": "30",
+        "population": 95525
+    },
+    "1812057": {
+        "geoid": "1812057",
+        "name": "Xinyi",
+        "lat": 22.37303,
+        "lng": 110.94746,
+        "country": "CN",
+        "state": "30",
+        "population": 98259
+    },
+    "1812101": {
+        "geoid": "1812101",
+        "name": "Shengli",
+        "lat": 37.46271,
+        "lng": 118.49165,
+        "country": "CN",
+        "state": "25",
+        "population": 306450
+    },
+    "1812228": {
+        "geoid": "1812228",
+        "name": "Dongtai",
+        "lat": 32.85231,
+        "lng": 120.30947,
+        "country": "CN",
+        "state": "04",
+        "population": 110988
+    },
+    "1812256": {
+        "geoid": "1812256",
+        "name": "Dongsheng",
+        "lat": 39.81609,
+        "lng": 109.97763,
+        "country": "CN",
+        "state": "20",
+        "population": 99809
+    },
+    "1812427": {
+        "geoid": "1812427",
+        "name": "Dongkan",
+        "lat": 33.99972,
+        "lng": 119.83083,
+        "country": "CN",
+        "state": "04",
+        "population": 72789
+    },
+    "1812521": {
+        "geoid": "1812521",
+        "name": "Donghai",
+        "lat": 22.94593,
+        "lng": 115.64204,
+        "country": "CN",
+        "state": "30",
+        "population": 188602
+    },
+    "1812545": {
+        "geoid": "1812545",
+        "name": "Dongguan",
+        "lat": 23.01797,
+        "lng": 113.74866,
+        "country": "CN",
+        "state": "30",
+        "population": 8000000
+    },
+    "1812597": {
+        "geoid": "1812597",
+        "name": "Dongdu",
+        "lat": 35.85,
+        "lng": 117.7,
+        "country": "CN",
+        "state": "25",
+        "population": 72957
+    },
+    "1812621": {
+        "geoid": "1812621",
+        "name": "Dongcun",
+        "lat": 36.77667,
+        "lng": 121.15972,
+        "country": "CN",
+        "state": "25",
+        "population": 92282
+    },
+    "1812728": {
+        "geoid": "1812728",
+        "name": "Dingzhou",
+        "lat": 38.51306,
+        "lng": 114.99556,
+        "country": "CN",
+        "state": "10",
+        "population": 152934
+    },
+    "1812754": {
+        "geoid": "1812754",
+        "name": "Dingtao",
+        "lat": 35.07436,
+        "lng": 115.56582,
+        "country": "CN",
+        "state": "25",
+        "population": 58206
+    },
+    "1812955": {
+        "geoid": "1812955",
+        "name": "Dezhou",
+        "lat": 37.45127,
+        "lng": 116.31046,
+        "country": "CN",
+        "state": "25",
+        "population": 379555
+    },
+    "1812961": {
+        "geoid": "1812961",
+        "name": "Deyang",
+        "lat": 31.13019,
+        "lng": 104.38198,
+        "country": "CN",
+        "state": "32",
+        "population": 152194
+    },
+    "1812981": {
+        "geoid": "1812981",
+        "name": "Deqing",
+        "lat": 30.54485,
+        "lng": 119.9599,
+        "country": "CN",
+        "state": "02",
+        "population": 87576
+    },
+    "1812988": {
+        "geoid": "1812988",
+        "name": "Dengzhou",
+        "lat": 37.80822,
+        "lng": 120.75908,
+        "country": "CN",
+        "state": "25",
+        "population": 85279
+    },
+    "1812990": {
+        "geoid": "1812990",
+        "name": "Huazhou",
+        "lat": 32.68222,
+        "lng": 112.08194,
+        "country": "CN",
+        "state": "09",
+        "population": 59338
+    },
+    "1813016": {
+        "geoid": "1813016",
+        "name": "Songyang",
+        "lat": 34.45528,
+        "lng": 113.02806,
+        "country": "CN",
+        "state": "09",
+        "population": 62375
+    },
+    "1813088": {
+        "geoid": "1813088",
+        "name": "Dazhong",
+        "lat": 33.19973,
+        "lng": 120.4578,
+        "country": "CN",
+        "state": "04",
+        "population": 84323
+    },
+    "1813171": {
+        "geoid": "1813171",
+        "name": "Zhangjiajie",
+        "lat": 29.12944,
+        "lng": 110.47833,
+        "country": "CN",
+        "state": "11",
+        "population": 86083
+    },
+    "1813206": {
+        "geoid": "1813206",
+        "name": "Daye",
+        "lat": 30.08333,
+        "lng": 114.95,
+        "country": "CN",
+        "state": "12",
+        "population": 61847
+    },
+    "1813253": {
+        "geoid": "1813253",
+        "name": "Lijiang",
+        "lat": 26.86879,
+        "lng": 100.22072,
+        "country": "CN",
+        "state": "29",
+        "population": 1137600
+    },
+    "1813325": {
+        "geoid": "1813325",
+        "name": "Dazhou",
+        "lat": 31.21592,
+        "lng": 107.50092,
+        "country": "CN",
+        "state": "32",
+        "population": 130749
+    },
+    "1813344": {
+        "geoid": "1813344",
+        "name": "Dawukou",
+        "lat": 39.04194,
+        "lng": 106.39583,
+        "country": "CN",
+        "state": "21",
+        "population": 131880
+    },
+    "1813451": {
+        "geoid": "1813451",
+        "name": "Datong",
+        "lat": 32.62082,
+        "lng": 117.06319,
+        "country": "CN",
+        "state": "01",
+        "population": 61085
+    },
+    "1813658": {
+        "geoid": "1813658",
+        "name": "Fenghua",
+        "lat": 29.65628,
+        "lng": 121.4064,
+        "country": "CN",
+        "state": "02",
+        "population": 76653
+    },
+    "1813775": {
+        "geoid": "1813775",
+        "name": "Daokou",
+        "lat": 35.56389,
+        "lng": 114.50583,
+        "country": "CN",
+        "state": "09",
+        "population": 56637
+    },
+    "1813812": {
+        "geoid": "1813812",
+        "name": "Danshui",
+        "lat": 22.7984,
+        "lng": 114.46716,
+        "country": "CN",
+        "state": "30",
+        "population": 126701
+    },
+    "1813828": {
+        "geoid": "1813828",
+        "name": "Danjiangkou",
+        "lat": 32.54278,
+        "lng": 111.50861,
+        "country": "CN",
+        "state": "12",
+        "population": 92008
+    },
+    "1813851": {
+        "geoid": "1813851",
+        "name": "Gushu",
+        "lat": 31.56055,
+        "lng": 118.48147,
+        "country": "CN",
+        "state": "01",
+        "population": 60335
+    },
+    "1813892": {
+        "geoid": "1813892",
+        "name": "Xincheng",
+        "lat": 33.63333,
+        "lng": 115.18333,
+        "country": "CN",
+        "state": "09",
+        "population": 65411
+    },
+    "1814082": {
+        "geoid": "1814082",
+        "name": "Daliang",
+        "lat": 22.84067,
+        "lng": 113.2503,
+        "country": "CN",
+        "state": "30",
+        "population": 210411
+    },
+    "1814087": {
+        "geoid": "1814087",
+        "name": "Dalian",
+        "lat": 38.91222,
+        "lng": 121.60222,
+        "country": "CN",
+        "state": "19",
+        "population": 4087733
+    },
+    "1814093": {
+        "geoid": "1814093",
+        "name": "Dali",
+        "lat": 25.58474,
+        "lng": 100.21229,
+        "country": "CN",
+        "state": "29",
+        "population": 134040
+    },
+    "1814757": {
+        "geoid": "1814757",
+        "name": "Chuzhou",
+        "lat": 32.32194,
+        "lng": 118.29778,
+        "country": "CN",
+        "state": "01",
+        "population": 280582
+    },
+    "1814786": {
+        "geoid": "1814786",
+        "name": "Yangchun",
+        "lat": 22.16667,
+        "lng": 111.78333,
+        "country": "CN",
+        "state": "30",
+        "population": 153547
+    },
+    "1814870": {
+        "geoid": "1814870",
+        "name": "Yiwu",
+        "lat": 29.31506,
+        "lng": 120.07676,
+        "country": "CN",
+        "state": "02",
+        "population": 89629
+    },
+    "1814906": {
+        "geoid": "1814906",
+        "name": "Chongqing",
+        "lat": 29.56278,
+        "lng": 106.55278,
+        "country": "CN",
+        "state": "33",
+        "population": 7457600
+    },
+    "1814919": {
+        "geoid": "1814919",
+        "name": "Chonglong",
+        "lat": 29.78062,
+        "lng": 104.85224,
+        "country": "CN",
+        "state": "32",
+        "population": 58441
+    },
+    "1814934": {
+        "geoid": "1814934",
+        "name": "Chizhou",
+        "lat": 30.66134,
+        "lng": 117.47783,
+        "country": "CN",
+        "state": "01",
+        "population": 148375
+    },
+    "1815059": {
+        "geoid": "1815059",
+        "name": "Chenzhou",
+        "lat": 25.8,
+        "lng": 113.03333,
+        "country": "CN",
+        "state": "11",
+        "population": 179038
+    },
+    "1815184": {
+        "geoid": "1815184",
+        "name": "Chengyang",
+        "lat": 35.57944,
+        "lng": 118.83278,
+        "country": "CN",
+        "state": "25",
+        "population": 66588
+    },
+    "1815251": {
+        "geoid": "1815251",
+        "name": "Jiangyin",
+        "lat": 31.91102,
+        "lng": 120.26302,
+        "country": "CN",
+        "state": "04",
+        "population": 107918
+    },
+    "1815286": {
+        "geoid": "1815286",
+        "name": "Chengdu",
+        "lat": 30.66667,
+        "lng": 104.06667,
+        "country": "CN",
+        "state": "32",
+        "population": 7415590
+    },
+    "1815302": {
+        "geoid": "1815302",
+        "name": "Chenghua",
+        "lat": 23.46132,
+        "lng": 116.77007,
+        "country": "CN",
+        "state": "30",
+        "population": 152453
+    },
+    "1815395": {
+        "geoid": "1815395",
+        "name": "Chaozhou",
+        "lat": 23.65396,
+        "lng": 116.62262,
+        "country": "CN",
+        "state": "30",
+        "population": 424787
+    },
+    "1815427": {
+        "geoid": "1815427",
+        "name": "Chaohu",
+        "lat": 31.6,
+        "lng": 117.86667,
+        "country": "CN",
+        "state": "01",
+        "population": 138463
+    },
+    "1815456": {
+        "geoid": "1815456",
+        "name": "Changzhou",
+        "lat": 31.77359,
+        "lng": 119.95401,
+        "country": "CN",
+        "state": "04",
+        "population": 949018
+    },
+    "1815463": {
+        "geoid": "1815463",
+        "name": "Changzhi",
+        "lat": 35.20889,
+        "lng": 111.73861,
+        "country": "CN",
+        "state": "24",
+        "population": 699514
+    },
+    "1815577": {
+        "geoid": "1815577",
+        "name": "Changsha",
+        "lat": 28.19874,
+        "lng": 112.97087,
+        "country": "CN",
+        "state": "11",
+        "population": 3093980
+    },
+    "1815585": {
+        "geoid": "1815585",
+        "name": "Changqing",
+        "lat": 36.5575,
+        "lng": 116.72722,
+        "country": "CN",
+        "state": "25",
+        "population": 82598
+    },
+    "1815656": {
+        "geoid": "1815656",
+        "name": "Changli",
+        "lat": 39.70417,
+        "lng": 119.15056,
+        "country": "CN",
+        "state": "10",
+        "population": 64476
+    },
+    "1815667": {
+        "geoid": "1815667",
+        "name": "Changleng",
+        "lat": 28.7,
+        "lng": 115.81667,
+        "country": "CN",
+        "state": "03",
+        "population": 56429
+    },
+    "1816026": {
+        "geoid": "1816026",
+        "name": "Caohe",
+        "lat": 30.2297,
+        "lng": 115.43346,
+        "country": "CN",
+        "state": "12",
+        "population": 67370
+    },
+    "1816028": {
+        "geoid": "1816028",
+        "name": "Weining",
+        "lat": 26.85,
+        "lng": 104.23333,
+        "country": "CN",
+        "state": "18",
+        "population": 56744
+    },
+    "1816080": {
+        "geoid": "1816080",
+        "name": "Cangzhou",
+        "lat": 38.31667,
+        "lng": 116.86667,
+        "country": "CN",
+        "state": "10",
+        "population": 527681
+    },
+    "1816176": {
+        "geoid": "1816176",
+        "name": "Caidian",
+        "lat": 30.58333,
+        "lng": 114.03333,
+        "country": "CN",
+        "state": "12",
+        "population": 71891
+    },
+    "1816221": {
+        "geoid": "1816221",
+        "name": "Buhe",
+        "lat": 30.28757,
+        "lng": 112.22979,
+        "country": "CN",
+        "state": "12",
+        "population": 106347
+    },
+    "1816234": {
+        "geoid": "1816234",
+        "name": "Bozhou",
+        "lat": 33.87722,
+        "lng": 115.77028,
+        "country": "CN",
+        "state": "01",
+        "population": 174140
+    },
+    "1816256": {
+        "geoid": "1816256",
+        "name": "Botou",
+        "lat": 38.06667,
+        "lng": 116.5666,
+        "country": "CN",
+        "state": "10",
+        "population": 63045
+    },
+    "1816265": {
+        "geoid": "1816265",
+        "name": "Boshan",
+        "lat": 36.48333,
+        "lng": 117.83333,
+        "country": "CN",
+        "state": "25",
+        "population": 153596
+    },
+    "1816269": {
+        "geoid": "1816269",
+        "name": "Baise City",
+        "lat": 23.89972,
+        "lng": 106.61333,
+        "country": "CN",
+        "state": "16",
+        "population": 90603
+    },
+    "1816336": {
+        "geoid": "1816336",
+        "name": "Binzhou",
+        "lat": 37.36667,
+        "lng": 118.01667,
+        "country": "CN",
+        "state": "25",
+        "population": 115893
+    },
+    "1816338": {
+        "geoid": "1816338",
+        "name": "Luxu",
+        "lat": 23.22378,
+        "lng": 108.80217,
+        "country": "CN",
+        "state": "16",
+        "population": 70013
+    },
+    "1816373": {
+        "geoid": "1816373",
+        "name": "Bijie",
+        "lat": 27.30193,
+        "lng": 105.28627,
+        "country": "CN",
+        "state": "18",
+        "population": 77645
+    },
+    "1816406": {
+        "geoid": "1816406",
+        "name": "Bianzhuang",
+        "lat": 34.84861,
+        "lng": 118.04472,
+        "country": "CN",
+        "state": "25",
+        "population": 65381
+    },
+    "1816440": {
+        "geoid": "1816440",
+        "name": "Bengbu",
+        "lat": 32.94083,
+        "lng": 117.36083,
+        "country": "CN",
+        "state": "01",
+        "population": 576648
+    },
+    "1816670": {
+        "geoid": "1816670",
+        "name": "Beijing",
+        "lat": 39.9075,
+        "lng": 116.39723,
+        "country": "CN",
+        "state": "22",
+        "population": 11716620
+    },
+    "1816705": {
+        "geoid": "1816705",
+        "name": "Beihai",
+        "lat": 21.48333,
+        "lng": 109.1,
+        "country": "CN",
+        "state": "16",
+        "population": 289568
+    },
+    "1816751": {
+        "geoid": "1816751",
+        "name": "Beidao",
+        "lat": 34.56861,
+        "lng": 105.89333,
+        "country": "CN",
+        "state": "15",
+        "population": 74767
+    },
+    "1816753": {
+        "geoid": "1816753",
+        "name": "Beidaihehaibin",
+        "lat": 39.82222,
+        "lng": 119.51806,
+        "country": "CN",
+        "state": "10",
+        "population": 66000
+    },
+    "1816790": {
+        "geoid": "1816790",
+        "name": "Beibei",
+        "lat": 29.82739,
+        "lng": 106.43645,
+        "country": "CN",
+        "state": "33",
+        "population": 112019
+    },
+    "1816890": {
+        "geoid": "1816890",
+        "name": "Baoying",
+        "lat": 33.22917,
+        "lng": 119.30917,
+        "country": "CN",
+        "state": "04",
+        "population": 80292
+    },
+    "1816924": {
+        "geoid": "1816924",
+        "name": "Langzhong",
+        "lat": 31.55037,
+        "lng": 105.99381,
+        "country": "CN",
+        "state": "32",
+        "population": 60542
+    },
+    "1816971": {
+        "geoid": "1816971",
+        "name": "Baoding",
+        "lat": 38.85111,
+        "lng": 115.49028,
+        "country": "CN",
+        "state": "10",
+        "population": 995652
+    },
+    "1817240": {
+        "geoid": "1817240",
+        "name": "Baiyin",
+        "lat": 36.54696,
+        "lng": 104.17023,
+        "country": "CN",
+        "state": "15",
+        "population": 188533
+    },
+    "1817701": {
+        "geoid": "1817701",
+        "name": "Baihe",
+        "lat": 22.1343,
+        "lng": 107.232,
+        "country": "CN",
+        "state": "16",
+        "population": 63629
+    },
+    "1817720": {
+        "geoid": "1817720",
+        "name": "Shangyu",
+        "lat": 30.01556,
+        "lng": 120.87111,
+        "country": "CN",
+        "state": "02",
+        "population": 770000
+    },
+    "1817858": {
+        "geoid": "1817858",
+        "name": "Babu",
+        "lat": 24.41667,
+        "lng": 111.51667,
+        "country": "CN",
+        "state": "16",
+        "population": 65603
+    },
+    "1817952": {
+        "geoid": "1817952",
+        "name": "Anxiang",
+        "lat": 29.4,
+        "lng": 112.15,
+        "country": "CN",
+        "state": "11",
+        "population": 57769
+    },
+    "1817968": {
+        "geoid": "1817968",
+        "name": "Anshun",
+        "lat": 26.25,
+        "lng": 105.93333,
+        "country": "CN",
+        "state": "18",
+        "population": 351936
+    },
+    "1817990": {
+        "geoid": "1817990",
+        "name": "Anqiu",
+        "lat": 36.43417,
+        "lng": 119.1925,
+        "country": "CN",
+        "state": "25",
+        "population": 105665
+    },
+    "1817993": {
+        "geoid": "1817993",
+        "name": "Anqing",
+        "lat": 30.51365,
+        "lng": 117.04723,
+        "country": "CN",
+        "state": "01",
+        "population": 358661
+    },
+    "1818004": {
+        "geoid": "1818004",
+        "name": "Mabai",
+        "lat": 23.01279,
+        "lng": 104.45081,
+        "country": "CN",
+        "state": "29",
+        "population": 63569
+    },
+    "1818016": {
+        "geoid": "1818016",
+        "name": "Anlu",
+        "lat": 31.2575,
+        "lng": 113.67833,
+        "country": "CN",
+        "state": "12",
+        "population": 71198
+    },
+    "1818051": {
+        "geoid": "1818051",
+        "name": "Anjiang",
+        "lat": 27.31944,
+        "lng": 110.10306,
+        "country": "CN",
+        "state": "11",
+        "population": 55421
+    },
+    "1818116": {
+        "geoid": "1818116",
+        "name": "Anbu",
+        "lat": 23.44895,
+        "lng": 116.68092,
+        "country": "CN",
+        "state": "30",
+        "population": 162964
+    },
+    "1885823": {
+        "geoid": "1885823",
+        "name": "Jiangyou",
+        "lat": 31.76667,
+        "lng": 104.71667,
+        "country": "CN",
+        "state": "32",
+        "population": 127225
+    },
+    "1886760": {
+        "geoid": "1886760",
+        "name": "Suzhou",
+        "lat": 31.30408,
+        "lng": 120.59538,
+        "country": "CN",
+        "state": "04",
+        "population": 5345961
+    },
+    "1886762": {
+        "geoid": "1886762",
+        "name": "Zhoushan",
+        "lat": 29.98869,
+        "lng": 122.20488,
+        "country": "CN",
+        "state": "02",
+        "population": 84380
+    },
+    "1898359": {
+        "geoid": "1898359",
+        "name": "Mudu",
+        "lat": 31.25597,
+        "lng": 120.51857,
+        "country": "CN",
+        "state": "04",
+        "population": 61902
+    },
+    "1898494": {
+        "geoid": "1898494",
+        "name": "Songling",
+        "lat": 31.1933,
+        "lng": 120.71758,
+        "country": "CN",
+        "state": "04",
+        "population": 77566
+    },
+    "1915223": {
+        "geoid": "1915223",
+        "name": "Zhongshan",
+        "lat": 21.31992,
+        "lng": 110.5723,
+        "country": "CN",
+        "state": "30",
+        "population": 3121275
+    },
+    "1919014": {
+        "geoid": "1919014",
+        "name": "Lianghu",
+        "lat": 29.99152,
+        "lng": 120.89845,
+        "country": "CN",
+        "state": "02",
+        "population": 155000
+    },
+    "1920772": {
+        "geoid": "1920772",
+        "name": "Zhoucheng",
+        "lat": 35.91222,
+        "lng": 116.31167,
+        "country": "CN",
+        "state": "25",
+        "population": 72070
+    },
+    "1921372": {
+        "geoid": "1921372",
+        "name": "Dalianwan",
+        "lat": 39.02861,
+        "lng": 121.695,
+        "country": "CN",
+        "state": "19",
+        "population": 55841
+    },
+    "1927639": {
+        "geoid": "1927639",
+        "name": "Yueyang",
+        "lat": 29.37455,
+        "lng": 113.09481,
+        "country": "CN",
+        "state": "11",
+        "population": 1200000
+    },
+    "2033128": {
+        "geoid": "2033128",
+        "name": "Zhenlai",
+        "lat": 45.84955,
+        "lng": 123.2973,
+        "country": "CN",
+        "state": "05",
+        "population": 67760
+    },
+    "2033135": {
+        "geoid": "2033135",
+        "name": "Zhengjiatun",
+        "lat": 43.50639,
+        "lng": 123.50639,
+        "country": "CN",
+        "state": "05",
+        "population": 93666
+    },
+    "2033147": {
+        "geoid": "2033147",
+        "name": "Zhaozhou",
+        "lat": 45.68333,
+        "lng": 125.31667,
+        "country": "CN",
+        "state": "08",
+        "population": 62373
+    },
+    "2033149": {
+        "geoid": "2033149",
+        "name": "Zhaoyuan",
+        "lat": 45.5,
+        "lng": 125.13333,
+        "country": "CN",
+        "state": "08",
+        "population": 59370
+    },
+    "2033168": {
+        "geoid": "2033168",
+        "name": "Zhaodong",
+        "lat": 46.06771,
+        "lng": 125.98263,
+        "country": "CN",
+        "state": "08",
+        "population": 154406
+    },
+    "2033196": {
+        "geoid": "2033196",
+        "name": "Zhangjiakou",
+        "lat": 40.81,
+        "lng": 114.87944,
+        "country": "CN",
+        "state": "10",
+        "population": 692602
+    },
+    "2033225": {
+        "geoid": "2033225",
+        "name": "Zalantun",
+        "lat": 48,
+        "lng": 122.71667,
+        "country": "CN",
+        "state": "20",
+        "population": 132224
+    },
+    "2033242": {
+        "geoid": "2033242",
+        "name": "Yushu",
+        "lat": 44.8,
+        "lng": 126.53333,
+        "country": "CN",
+        "state": "05",
+        "population": 124736
+    },
+    "2033301": {
+        "geoid": "2033301",
+        "name": "Youhao",
+        "lat": 47.85306,
+        "lng": 128.83565,
+        "country": "CN",
+        "state": "08",
+        "population": 78402
+    },
+    "2033370": {
+        "geoid": "2033370",
+        "name": "Yingkou",
+        "lat": 40.66482,
+        "lng": 122.22833,
+        "country": "CN",
+        "state": "19",
+        "population": 591159
+    },
+    "2033403": {
+        "geoid": "2033403",
+        "name": "Yilan",
+        "lat": 46.31618,
+        "lng": 129.55455,
+        "country": "CN",
+        "state": "08",
+        "population": 71180
+    },
+    "2033413": {
+        "geoid": "2033413",
+        "name": "Yichun",
+        "lat": 47.72143,
+        "lng": 128.87529,
+        "country": "CN",
+        "state": "08",
+        "population": 155762
+    },
+    "2033423": {
+        "geoid": "2033423",
+        "name": "Yebaishou",
+        "lat": 41.3975,
+        "lng": 119.64083,
+        "country": "CN",
+        "state": "19",
+        "population": 65536
+    },
+    "2033449": {
+        "geoid": "2033449",
+        "name": "Yantongshan",
+        "lat": 43.29194,
+        "lng": 126.00944,
+        "country": "CN",
+        "state": "05",
+        "population": 57515
+    },
+    "2033467": {
+        "geoid": "2033467",
+        "name": "Yanji",
+        "lat": 42.9075,
+        "lng": 129.50778,
+        "country": "CN",
+        "state": "05",
+        "population": 326957
+    },
+    "2033536": {
+        "geoid": "2033536",
+        "name": "Yakeshi",
+        "lat": 49.28333,
+        "lng": 120.73333,
+        "country": "CN",
+        "state": "20",
+        "population": 116284
+    },
+    "2033574": {
+        "geoid": "2033574",
+        "name": "Zhangjiakou Shi Xuanhua Qu",
+        "lat": 40.61028,
+        "lng": 115.04472,
+        "country": "CN",
+        "state": "10",
+        "population": 373422
+    },
+    "2033602": {
+        "geoid": "2033602",
+        "name": "Xiuyan",
+        "lat": 40.29278,
+        "lng": 123.27444,
+        "country": "CN",
+        "state": "19",
+        "population": 71614
+    },
+    "2033667": {
+        "geoid": "2033667",
+        "name": "Xinqing",
+        "lat": 48.28701,
+        "lng": 129.52337,
+        "country": "CN",
+        "state": "08",
+        "population": 55415
+    },
+    "2033675": {
+        "geoid": "2033675",
+        "name": "Xinmin",
+        "lat": 41.99083,
+        "lng": 122.82528,
+        "country": "CN",
+        "state": "19",
+        "population": 74139
+    },
+    "2033739": {
+        "geoid": "2033739",
+        "name": "Xinglongshan",
+        "lat": 43.95611,
+        "lng": 125.46611,
+        "country": "CN",
+        "state": "05",
+        "population": 58432
+    },
+    "2033766": {
+        "geoid": "2033766",
+        "name": "Xingcheng",
+        "lat": 40.61667,
+        "lng": 120.71667,
+        "country": "CN",
+        "state": "19",
+        "population": 98968
+    },
+    "2033824": {
+        "geoid": "2033824",
+        "name": "Xilin Hot",
+        "lat": 43.96667,
+        "lng": 116.03333,
+        "country": "CN",
+        "state": "20",
+        "population": 120965
+    },
+    "2033866": {
+        "geoid": "2033866",
+        "name": "Xifeng",
+        "lat": 42.73722,
+        "lng": 124.72222,
+        "country": "CN",
+        "state": "19",
+        "population": 61087
+    },
+    "2033934": {
+        "geoid": "2033934",
+        "name": "Xiaoshi",
+        "lat": 41.29711,
+        "lng": 124.12092,
+        "country": "CN",
+        "state": "19",
+        "population": 68994
+    },
+    "2034141": {
+        "geoid": "2034141",
+        "name": "Wuchang",
+        "lat": 44.91428,
+        "lng": 127.15001,
+        "country": "CN",
+        "state": "08",
+        "population": 94786
+    },
+    "2034221": {
+        "geoid": "2034221",
+        "name": "Wangqing",
+        "lat": 43.32179,
+        "lng": 129.76342,
+        "country": "CN",
+        "state": "05",
+        "population": 88732
+    },
+    "2034226": {
+        "geoid": "2034226",
+        "name": "Hepingjie",
+        "lat": 42.05972,
+        "lng": 126.91583,
+        "country": "CN",
+        "state": "05",
+        "population": 65298
+    },
+    "2034228": {
+        "geoid": "2034228",
+        "name": "Wangkui",
+        "lat": 46.83283,
+        "lng": 126.47768,
+        "country": "CN",
+        "state": "08",
+        "population": 69915
+    },
+    "2034312": {
+        "geoid": "2034312",
+        "name": "Ulanhot",
+        "lat": 46.08333,
+        "lng": 122.08333,
+        "country": "CN",
+        "state": "20",
+        "population": 165846
+    },
+    "2034340": {
+        "geoid": "2034340",
+        "name": "Tumen",
+        "lat": 42.96611,
+        "lng": 129.8425,
+        "country": "CN",
+        "state": "05",
+        "population": 78719
+    },
+    "2034400": {
+        "geoid": "2034400",
+        "name": "Tongliao",
+        "lat": 43.6125,
+        "lng": 122.26528,
+        "country": "CN",
+        "state": "20",
+        "population": 261110
+    },
+    "2034439": {
+        "geoid": "2034439",
+        "name": "Tieling",
+        "lat": 42.29306,
+        "lng": 123.84139,
+        "country": "CN",
+        "state": "19",
+        "population": 333907
+    },
+    "2034440": {
+        "geoid": "2034440",
+        "name": "Tieli",
+        "lat": 46.98043,
+        "lng": 128.04497,
+        "country": "CN",
+        "state": "08",
+        "population": 109636
+    },
+    "2034497": {
+        "geoid": "2034497",
+        "name": "Guangming",
+        "lat": 45.33333,
+        "lng": 122.78333,
+        "country": "CN",
+        "state": "05",
+        "population": 112819
+    },
+    "2034599": {
+        "geoid": "2034599",
+        "name": "Tailai",
+        "lat": 46.38909,
+        "lng": 123.41371,
+        "country": "CN",
+        "state": "08",
+        "population": 66623
+    },
+    "2034600": {
+        "geoid": "2034600",
+        "name": "Taikang",
+        "lat": 46.86135,
+        "lng": 124.442,
+        "country": "CN",
+        "state": "08",
+        "population": 55316
+    },
+    "2034615": {
+        "geoid": "2034615",
+        "name": "Tahe",
+        "lat": 52.33333,
+        "lng": 124.73333,
+        "country": "CN",
+        "state": "08",
+        "population": 60874
+    },
+    "2034638": {
+        "geoid": "2034638",
+        "name": "Sujiatun",
+        "lat": 41.65917,
+        "lng": 123.33917,
+        "country": "CN",
+        "state": "19",
+        "population": 148113
+    },
+    "2034651": {
+        "geoid": "2034651",
+        "name": "Suileng",
+        "lat": 47.24805,
+        "lng": 127.09535,
+        "country": "CN",
+        "state": "08",
+        "population": 57124
+    },
+    "2034655": {
+        "geoid": "2034655",
+        "name": "Suihua",
+        "lat": 46.63954,
+        "lng": 126.99508,
+        "country": "CN",
+        "state": "08",
+        "population": 252245
+    },
+    "2034691": {
+        "geoid": "2034691",
+        "name": "Songjianghe",
+        "lat": 42.1859,
+        "lng": 127.47895,
+        "country": "CN",
+        "state": "05",
+        "population": 67672
+    },
+    "2034714": {
+        "geoid": "2034714",
+        "name": "Siping",
+        "lat": 43.16143,
+        "lng": 124.37785,
+        "country": "CN",
+        "state": "05",
+        "population": 555609
+    },
+    "2034754": {
+        "geoid": "2034754",
+        "name": "Shunyi",
+        "lat": 40.12175,
+        "lng": 116.64783,
+        "country": "CN",
+        "state": "22",
+        "population": 117623
+    },
+    "2034761": {
+        "geoid": "2034761",
+        "name": "Shulan",
+        "lat": 44.41667,
+        "lng": 126.95,
+        "country": "CN",
+        "state": "05",
+        "population": 77420
+    },
+    "2034786": {
+        "geoid": "2034786",
+        "name": "Shuangyashan",
+        "lat": 46.63611,
+        "lng": 131.15389,
+        "country": "CN",
+        "state": "08",
+        "population": 600000
+    },
+    "2034791": {
+        "geoid": "2034791",
+        "name": "Shuangyang",
+        "lat": 43.52417,
+        "lng": 125.67361,
+        "country": "CN",
+        "state": "05",
+        "population": 62137
+    },
+    "2034834": {
+        "geoid": "2034834",
+        "name": "Shuangcheng",
+        "lat": 45.35,
+        "lng": 126.28333,
+        "country": "CN",
+        "state": "08",
+        "population": 130710
+    },
+    "2034918": {
+        "geoid": "2034918",
+        "name": "Shiguai",
+        "lat": 40.70583,
+        "lng": 110.28556,
+        "country": "CN",
+        "state": "20",
+        "population": 70357
+    },
+    "2034937": {
+        "geoid": "2034937",
+        "name": "Shenyang",
+        "lat": 41.79222,
+        "lng": 123.43278,
+        "country": "CN",
+        "state": "19",
+        "population": 6255921
+    },
+    "2034995": {
+        "geoid": "2034995",
+        "name": "Shanhetun",
+        "lat": 44.7,
+        "lng": 127.2,
+        "country": "CN",
+        "state": "08",
+        "population": 57550
+    },
+    "2034996": {
+        "geoid": "2034996",
+        "name": "Shanhaiguan",
+        "lat": 40.0025,
+        "lng": 119.74889,
+        "country": "CN",
+        "state": "10",
+        "population": 140000
+    },
+    "2035002": {
+        "geoid": "2035002",
+        "name": "Shangzhi",
+        "lat": 45.21406,
+        "lng": 127.97426,
+        "country": "CN",
+        "state": "08",
+        "population": 82419
+    },
+    "2035182": {
+        "geoid": "2035182",
+        "name": "Sanchazi",
+        "lat": 42.08167,
+        "lng": 126.60028,
+        "country": "CN",
+        "state": "05",
+        "population": 66576
+    },
+    "2035196": {
+        "geoid": "2035196",
+        "name": "Salaqi",
+        "lat": 40.54139,
+        "lng": 110.51083,
+        "country": "CN",
+        "state": "20",
+        "population": 64704
+    },
+    "2035225": {
+        "geoid": "2035225",
+        "name": "Fendou",
+        "lat": 46.64142,
+        "lng": 124.86283,
+        "country": "CN",
+        "state": "08",
+        "population": 226298
+    },
+    "2035261": {
+        "geoid": "2035261",
+        "name": "Taihe",
+        "lat": 45.76195,
+        "lng": 130.85131,
+        "country": "CN",
+        "state": "08",
+        "population": 345033
+    },
+    "2035265": {
+        "geoid": "2035265",
+        "name": "Qiqihar",
+        "lat": 47.34088,
+        "lng": 123.96045,
+        "country": "CN",
+        "state": "08",
+        "population": 882364
+    },
+    "2035325": {
+        "geoid": "2035325",
+        "name": "Qinggang",
+        "lat": 46.68469,
+        "lng": 126.10595,
+        "country": "CN",
+        "state": "08",
+        "population": 64182
+    },
+    "2035399": {
+        "geoid": "2035399",
+        "name": "Qianguo",
+        "lat": 45.11711,
+        "lng": 124.85676,
+        "country": "CN",
+        "state": "05",
+        "population": 113611
+    },
+    "2035453": {
+        "geoid": "2035453",
+        "name": "Pingzhuang",
+        "lat": 42.03722,
+        "lng": 119.28889,
+        "country": "CN",
+        "state": "20",
+        "population": 67273
+    },
+    "2035511": {
+        "geoid": "2035511",
+        "name": "Panshi",
+        "lat": 42.94222,
+        "lng": 126.05611,
+        "country": "CN",
+        "state": "05",
+        "population": 80200
+    },
+    "2035513": {
+        "geoid": "2035513",
+        "name": "Panshan",
+        "lat": 41.18806,
+        "lng": 122.04944,
+        "country": "CN",
+        "state": "19",
+        "population": 625040
+    },
+    "2035593": {
+        "geoid": "2035593",
+        "name": "Nianzishan",
+        "lat": 47.51667,
+        "lng": 122.88333,
+        "country": "CN",
+        "state": "08",
+        "population": 62131
+    },
+    "2035601": {
+        "geoid": "2035601",
+        "name": "Nenjiang",
+        "lat": 49.17414,
+        "lng": 125.21774,
+        "country": "CN",
+        "state": "08",
+        "population": 87236
+    },
+    "2035610": {
+        "geoid": "2035610",
+        "name": "Nehe",
+        "lat": 48.48333,
+        "lng": 124.83333,
+        "country": "CN",
+        "state": "08",
+        "population": 108253
+    },
+    "2035635": {
+        "geoid": "2035635",
+        "name": "Nantai",
+        "lat": 40.9241,
+        "lng": 122.80437,
+        "country": "CN",
+        "state": "19",
+        "population": 56478
+    },
+    "2035644": {
+        "geoid": "2035644",
+        "name": "Nanpiao",
+        "lat": 41.09822,
+        "lng": 120.74792,
+        "country": "CN",
+        "state": "19",
+        "population": 157044
+    },
+    "2035669": {
+        "geoid": "2035669",
+        "name": "Lianhe",
+        "lat": 47.13333,
+        "lng": 129.27426,
+        "country": "CN",
+        "state": "08",
+        "population": 121367
+    },
+    "2035707": {
+        "geoid": "2035707",
+        "name": "Mujiayingzi",
+        "lat": 42.11667,
+        "lng": 118.78333,
+        "country": "CN",
+        "state": "20",
+        "population": 60627
+    },
+    "2035715": {
+        "geoid": "2035715",
+        "name": "Mudanjiang",
+        "lat": 44.58333,
+        "lng": 129.6,
+        "country": "CN",
+        "state": "08",
+        "population": 665915
+    },
+    "2035746": {
+        "geoid": "2035746",
+        "name": "Mishan",
+        "lat": 45.55,
+        "lng": 131.88333,
+        "country": "CN",
+        "state": "08",
+        "population": 87257
+    },
+    "2035754": {
+        "geoid": "2035754",
+        "name": "Mingyue",
+        "lat": 43.10694,
+        "lng": 128.92167,
+        "country": "CN",
+        "state": "05",
+        "population": 58872
+    },
+    "2035758": {
+        "geoid": "2035758",
+        "name": "Mingshui",
+        "lat": 47.1815,
+        "lng": 125.90027,
+        "country": "CN",
+        "state": "08",
+        "population": 59369
+    },
+    "2035801": {
+        "geoid": "2035801",
+        "name": "Meihekou",
+        "lat": 42.52722,
+        "lng": 125.67528,
+        "country": "CN",
+        "state": "05",
+        "population": 99419
+    },
+    "2035836": {
+        "geoid": "2035836",
+        "name": "Manzhouli",
+        "lat": 49.6,
+        "lng": 117.43333,
+        "country": "CN",
+        "state": "20",
+        "population": 54808
+    },
+    "2035966": {
+        "geoid": "2035966",
+        "name": "Longjing",
+        "lat": 42.77139,
+        "lng": 129.42333,
+        "country": "CN",
+        "state": "05",
+        "population": 117185
+    },
+    "2035970": {
+        "geoid": "2035970",
+        "name": "Longjiang",
+        "lat": 47.33072,
+        "lng": 123.17816,
+        "country": "CN",
+        "state": "08",
+        "population": 106384
+    },
+    "2035980": {
+        "geoid": "2035980",
+        "name": "Longfeng",
+        "lat": 46.53168,
+        "lng": 125.1038,
+        "country": "CN",
+        "state": "08",
+        "population": 152074
+    },
+    "2036033": {
+        "geoid": "2036033",
+        "name": "Liuhe",
+        "lat": 42.24007,
+        "lng": 125.71717,
+        "country": "CN",
+        "state": "05",
+        "population": 66975
+    },
+    "2036055": {
+        "geoid": "2036055",
+        "name": "Lishu",
+        "lat": 43.30472,
+        "lng": 124.32778,
+        "country": "CN",
+        "state": "05",
+        "population": 61584
+    },
+    "2036066": {
+        "geoid": "2036066",
+        "name": "Linkou",
+        "lat": 45.28606,
+        "lng": 130.26151,
+        "country": "CN",
+        "state": "08",
+        "population": 77754
+    },
+    "2036069": {
+        "geoid": "2036069",
+        "name": "Linjiang",
+        "lat": 41.80694,
+        "lng": 126.90778,
+        "country": "CN",
+        "state": "05",
+        "population": 69149
+    },
+    "2036075": {
+        "geoid": "2036075",
+        "name": "Lingyuan",
+        "lat": 41.24,
+        "lng": 119.40111,
+        "country": "CN",
+        "state": "19",
+        "population": 91418
+    },
+    "2036081": {
+        "geoid": "2036081",
+        "name": "Lingdong",
+        "lat": 46.56694,
+        "lng": 131.14528,
+        "country": "CN",
+        "state": "08",
+        "population": 83636
+    },
+    "2036106": {
+        "geoid": "2036106",
+        "name": "Liaozhong",
+        "lat": 41.50611,
+        "lng": 122.72417,
+        "country": "CN",
+        "state": "19",
+        "population": 54691
+    },
+    "2036109": {
+        "geoid": "2036109",
+        "name": "Liaoyuan",
+        "lat": 42.90361,
+        "lng": 125.13583,
+        "country": "CN",
+        "state": "05",
+        "population": 465249
+    },
+    "2036113": {
+        "geoid": "2036113",
+        "name": "Liaoyang",
+        "lat": 41.27194,
+        "lng": 123.17306,
+        "country": "CN",
+        "state": "19",
+        "population": 687890
+    },
+    "2036226": {
+        "geoid": "2036226",
+        "name": "Lanxi",
+        "lat": 46.25785,
+        "lng": 126.28269,
+        "country": "CN",
+        "state": "08",
+        "population": 72528
+    },
+    "2036237": {
+        "geoid": "2036237",
+        "name": "Langxiang",
+        "lat": 46.94985,
+        "lng": 128.86849,
+        "country": "CN",
+        "state": "08",
+        "population": 57318
+    },
+    "2036241": {
+        "geoid": "2036241",
+        "name": "Langtou",
+        "lat": 40.02611,
+        "lng": 124.32861,
+        "country": "CN",
+        "state": "19",
+        "population": 59046
+    },
+    "2036283": {
+        "geoid": "2036283",
+        "name": "Kuandian",
+        "lat": 40.72861,
+        "lng": 124.78472,
+        "country": "CN",
+        "state": "19",
+        "population": 70867
+    },
+    "2036337": {
+        "geoid": "2036337",
+        "name": "Kaiyuan",
+        "lat": 42.53306,
+        "lng": 124.04028,
+        "country": "CN",
+        "state": "19",
+        "population": 112462
+    },
+    "2036338": {
+        "geoid": "2036338",
+        "name": "Kaitong",
+        "lat": 44.81351,
+        "lng": 123.15,
+        "country": "CN",
+        "state": "05",
+        "population": 62537
+    },
+    "2036389": {
+        "geoid": "2036389",
+        "name": "Jixi",
+        "lat": 45.30109,
+        "lng": 130.95718,
+        "country": "CN",
+        "state": "08",
+        "population": 403759
+    },
+    "2036401": {
+        "geoid": "2036401",
+        "name": "Jiutai",
+        "lat": 44.1525,
+        "lng": 125.83278,
+        "country": "CN",
+        "state": "05",
+        "population": 175115
+    },
+    "2036403": {
+        "geoid": "2036403",
+        "name": "Jiupu",
+        "lat": 41.06667,
+        "lng": 122.95,
+        "country": "CN",
+        "state": "19",
+        "population": 123843
+    },
+    "2036418": {
+        "geoid": "2036418",
+        "name": "Jishu",
+        "lat": 44.31667,
+        "lng": 126.8,
+        "country": "CN",
+        "state": "05",
+        "population": 103988
+    },
+    "2036427": {
+        "geoid": "2036427",
+        "name": "Jinzhou",
+        "lat": 41.10778,
+        "lng": 121.14167,
+        "country": "CN",
+        "state": "19",
+        "population": 604269
+    },
+    "2036434": {
+        "geoid": "2036434",
+        "name": "Lianshan",
+        "lat": 40.76432,
+        "lng": 120.85327,
+        "country": "CN",
+        "state": "19",
+        "population": 313247
+    },
+    "2036458": {
+        "geoid": "2036458",
+        "name": "Jining",
+        "lat": 41.0275,
+        "lng": 113.10583,
+        "country": "CN",
+        "state": "20",
+        "population": 258757
+    },
+    "2036502": {
+        "geoid": "2036502",
+        "name": "Jilin",
+        "lat": 43.85083,
+        "lng": 126.56028,
+        "country": "CN",
+        "state": "05",
+        "population": 1881977
+    },
+    "2036519": {
+        "geoid": "2036519",
+        "name": "Jidong",
+        "lat": 45.21667,
+        "lng": 131.08333,
+        "country": "CN",
+        "state": "08",
+        "population": 58520
+    },
+    "2036536": {
+        "geoid": "2036536",
+        "name": "Minzhu",
+        "lat": 43.72145,
+        "lng": 127.33401,
+        "country": "CN",
+        "state": "05",
+        "population": 123018
+    },
+    "2036581": {
+        "geoid": "2036581",
+        "name": "Jiamusi",
+        "lat": 46.79927,
+        "lng": 130.31633,
+        "country": "CN",
+        "state": "08",
+        "population": 549549
+    },
+    "2036595": {
+        "geoid": "2036595",
+        "name": "Jalai Nur",
+        "lat": 49.45,
+        "lng": 117.7,
+        "country": "CN",
+        "state": "20",
+        "population": 107828
+    },
+    "2036597": {
+        "geoid": "2036597",
+        "name": "Jagdaqi",
+        "lat": 50.41667,
+        "lng": 124.11667,
+        "country": "CN",
+        "state": "20",
+        "population": 135760
+    },
+    "2036619": {
+        "geoid": "2036619",
+        "name": "Hushitai",
+        "lat": 41.93222,
+        "lng": 123.51139,
+        "country": "CN",
+        "state": "19",
+        "population": 61979
+    },
+    "2036653": {
+        "geoid": "2036653",
+        "name": "Hunchun",
+        "lat": 42.8675,
+        "lng": 130.35806,
+        "country": "CN",
+        "state": "05",
+        "population": 77028
+    },
+    "2036670": {
+        "geoid": "2036670",
+        "name": "Hulan Ergi",
+        "lat": 47.20417,
+        "lng": 123.63333,
+        "country": "CN",
+        "state": "08",
+        "population": 265344
+    },
+    "2036671": {
+        "geoid": "2036671",
+        "name": "Hulan",
+        "lat": 45.98333,
+        "lng": 126.6,
+        "country": "CN",
+        "state": "08",
+        "population": 109104
+    },
+    "2036685": {
+        "geoid": "2036685",
+        "name": "Huinan",
+        "lat": 42.6225,
+        "lng": 126.26139,
+        "country": "CN",
+        "state": "05",
+        "population": 66315
+    },
+    "2036713": {
+        "geoid": "2036713",
+        "name": "Huanren",
+        "lat": 41.26472,
+        "lng": 125.36667,
+        "country": "CN",
+        "state": "19",
+        "population": 66147
+    },
+    "2036734": {
+        "geoid": "2036734",
+        "name": "Huangnihe",
+        "lat": 43.55833,
+        "lng": 128.02389,
+        "country": "CN",
+        "state": "05",
+        "population": 54959
+    },
+    "2036753": {
+        "geoid": "2036753",
+        "name": "Huanan",
+        "lat": 46.2207,
+        "lng": 130.525,
+        "country": "CN",
+        "state": "08",
+        "population": 66087
+    },
+    "2036776": {
+        "geoid": "2036776",
+        "name": "Huadian",
+        "lat": 42.96333,
+        "lng": 126.74778,
+        "country": "CN",
+        "state": "05",
+        "population": 139047
+    },
+    "2036876": {
+        "geoid": "2036876",
+        "name": "Honggang",
+        "lat": 46.40124,
+        "lng": 124.88322,
+        "country": "CN",
+        "state": "08",
+        "population": 147977
+    },
+    "2036892": {
+        "geoid": "2036892",
+        "name": "Hohhot",
+        "lat": 40.81056,
+        "lng": 111.65222,
+        "country": "CN",
+        "state": "20",
+        "population": 774477
+    },
+    "2036920": {
+        "geoid": "2036920",
+        "name": "Fendou",
+        "lat": 45.21235,
+        "lng": 130.90254,
+        "country": "CN",
+        "state": "08",
+        "population": 164844
+    },
+    "2036933": {
+        "geoid": "2036933",
+        "name": "Helong",
+        "lat": 42.53974,
+        "lng": 128.99722,
+        "country": "CN",
+        "state": "05",
+        "population": 85756
+    },
+    "2036959": {
+        "geoid": "2036959",
+        "name": "Heishan",
+        "lat": 41.68917,
+        "lng": 122.11278,
+        "country": "CN",
+        "state": "19",
+        "population": 68603
+    },
+    "2036973": {
+        "geoid": "2036973",
+        "name": "Heihe",
+        "lat": 50.24413,
+        "lng": 127.49016,
+        "country": "CN",
+        "state": "08",
+        "population": 109427
+    },
+    "2036986": {
+        "geoid": "2036986",
+        "name": "Hegang",
+        "lat": 47.35118,
+        "lng": 130.30012,
+        "country": "CN",
+        "state": "08",
+        "population": 743307
+    },
+    "2037013": {
+        "geoid": "2037013",
+        "name": "Harbin",
+        "lat": 45.75,
+        "lng": 126.65,
+        "country": "CN",
+        "state": "08",
+        "population": 5878939
+    },
+    "2037069": {
+        "geoid": "2037069",
+        "name": "Hailun",
+        "lat": 47.4565,
+        "lng": 126.95368,
+        "country": "CN",
+        "state": "08",
+        "population": 109881
+    },
+    "2037075": {
+        "geoid": "2037075",
+        "name": "Hailin",
+        "lat": 44.57149,
+        "lng": 129.38539,
+        "country": "CN",
+        "state": "08",
+        "population": 85578
+    },
+    "2037078": {
+        "geoid": "2037078",
+        "name": "Hailar",
+        "lat": 49.2,
+        "lng": 119.7,
+        "country": "CN",
+        "state": "20",
+        "population": 211066
+    },
+    "2037086": {
+        "geoid": "2037086",
+        "name": "Haicheng",
+        "lat": 40.85158,
+        "lng": 122.74754,
+        "country": "CN",
+        "state": "19",
+        "population": 191651
+    },
+    "2037222": {
+        "geoid": "2037222",
+        "name": "Gongzhuling",
+        "lat": 43.50075,
+        "lng": 124.81979,
+        "country": "CN",
+        "state": "05",
+        "population": 140909
+    },
+    "2037240": {
+        "geoid": "2037240",
+        "name": "Gongchangling",
+        "lat": 41.11667,
+        "lng": 123.45,
+        "country": "CN",
+        "state": "19",
+        "population": 70761
+    },
+    "2037252": {
+        "geoid": "2037252",
+        "name": "Genhe",
+        "lat": 50.78333,
+        "lng": 121.51667,
+        "country": "CN",
+        "state": "20",
+        "population": 73631
+    },
+    "2037311": {
+        "geoid": "2037311",
+        "name": "Gannan",
+        "lat": 47.91472,
+        "lng": 123.50306,
+        "country": "CN",
+        "state": "08",
+        "population": 59239
+    },
+    "2037334": {
+        "geoid": "2037334",
+        "name": "Fuyu",
+        "lat": 47.79756,
+        "lng": 124.45731,
+        "country": "CN",
+        "state": "08",
+        "population": 75147
+    },
+    "2037335": {
+        "geoid": "2037335",
+        "name": "Fuyu",
+        "lat": 45.18333,
+        "lng": 124.81667,
+        "country": "CN",
+        "state": "05",
+        "population": 138704
+    },
+    "2037345": {
+        "geoid": "2037345",
+        "name": "Fuxin",
+        "lat": 42.05889,
+        "lng": 121.745,
+        "country": "CN",
+        "state": "19",
+        "population": 57356
+    },
+    "2037346": {
+        "geoid": "2037346",
+        "name": "Fuxin",
+        "lat": 42.01556,
+        "lng": 121.65889,
+        "country": "CN",
+        "state": "19",
+        "population": 689050
+    },
+    "2037355": {
+        "geoid": "2037355",
+        "name": "Fushun",
+        "lat": 41.85583,
+        "lng": 123.92333,
+        "country": "CN",
+        "state": "19",
+        "population": 1400646
+    },
+    "2037370": {
+        "geoid": "2037370",
+        "name": "Fuli",
+        "lat": 46.72167,
+        "lng": 131.13944,
+        "country": "CN",
+        "state": "08",
+        "population": 59160
+    },
+    "2037375": {
+        "geoid": "2037375",
+        "name": "Fujin",
+        "lat": 47.26,
+        "lng": 132.03222,
+        "country": "CN",
+        "state": "08",
+        "population": 89442
+    },
+    "2037391": {
+        "geoid": "2037391",
+        "name": "Beichengqu",
+        "lat": 40.43944,
+        "lng": 113.15361,
+        "country": "CN",
+        "state": "20",
+        "population": 72444
+    },
+    "2037411": {
+        "geoid": "2037411",
+        "name": "Fengcheng",
+        "lat": 40.45361,
+        "lng": 124.07167,
+        "country": "CN",
+        "state": "19",
+        "population": 120514
+    },
+    "2037494": {
+        "geoid": "2037494",
+        "name": "Erdaojiang",
+        "lat": 41.77639,
+        "lng": 126.03194,
+        "country": "CN",
+        "state": "05",
+        "population": 60831
+    },
+    "2037534": {
+        "geoid": "2037534",
+        "name": "Dunhua",
+        "lat": 43.3725,
+        "lng": 128.2425,
+        "country": "CN",
+        "state": "05",
+        "population": 148844
+    },
+    "2037611": {
+        "geoid": "2037611",
+        "name": "Dongning",
+        "lat": 44.06219,
+        "lng": 131.12075,
+        "country": "CN",
+        "state": "08",
+        "population": 61440
+    },
+    "2037620": {
+        "geoid": "2037620",
+        "name": "Dongling",
+        "lat": 41.81444,
+        "lng": 123.57583,
+        "country": "CN",
+        "state": "19",
+        "population": 171454
+    },
+    "2037658": {
+        "geoid": "2037658",
+        "name": "Dongfeng",
+        "lat": 42.64031,
+        "lng": 125.51176,
+        "country": "CN",
+        "state": "05",
+        "population": 67820
+    },
+    "2037685": {
+        "geoid": "2037685",
+        "name": "Dongxing",
+        "lat": 45.36088,
+        "lng": 130.78679,
+        "country": "CN",
+        "state": "08",
+        "population": 109561
+    },
+    "2037712": {
+        "geoid": "2037712",
+        "name": "Dehui",
+        "lat": 44.53333,
+        "lng": 125.7,
+        "country": "CN",
+        "state": "05",
+        "population": 108818
+    },
+    "2037799": {
+        "geoid": "2037799",
+        "name": "Datong",
+        "lat": 40.09361,
+        "lng": 113.29139,
+        "country": "CN",
+        "state": "24",
+        "population": 1052678
+    },
+    "2037820": {
+        "geoid": "2037820",
+        "name": "Dashitou",
+        "lat": 43.30667,
+        "lng": 128.51139,
+        "country": "CN",
+        "state": "05",
+        "population": 65683
+    },
+    "2037823": {
+        "geoid": "2037823",
+        "name": "Dashiqiao",
+        "lat": 40.63732,
+        "lng": 122.50251,
+        "country": "CN",
+        "state": "19",
+        "population": 80223
+    },
+    "2037860": {
+        "geoid": "2037860",
+        "name": "Daqing",
+        "lat": 46.58333,
+        "lng": 125,
+        "country": "CN",
+        "state": "08",
+        "population": 203488
+    },
+    "2037886": {
+        "geoid": "2037886",
+        "name": "Dandong",
+        "lat": 40.12917,
+        "lng": 124.39472,
+        "country": "CN",
+        "state": "19",
+        "population": 631973
+    },
+    "2037913": {
+        "geoid": "2037913",
+        "name": "Linghai",
+        "lat": 41.16528,
+        "lng": 121.36667,
+        "country": "CN",
+        "state": "19",
+        "population": 56176
+    },
+    "2037930": {
+        "geoid": "2037930",
+        "name": "Dalai",
+        "lat": 45.5,
+        "lng": 124.3,
+        "country": "CN",
+        "state": "05",
+        "population": 93297
+    },
+    "2038067": {
+        "geoid": "2038067",
+        "name": "Chifeng",
+        "lat": 42.26833,
+        "lng": 118.96361,
+        "country": "CN",
+        "state": "20",
+        "population": 346654
+    },
+    "2038080": {
+        "geoid": "2038080",
+        "name": "Chengzihe",
+        "lat": 45.33333,
+        "lng": 131.06667,
+        "country": "CN",
+        "state": "08",
+        "population": 98188
+    },
+    "2038087": {
+        "geoid": "2038087",
+        "name": "Chengde",
+        "lat": 40.9725,
+        "lng": 117.93611,
+        "country": "CN",
+        "state": "10",
+        "population": 449325
+    },
+    "2038118": {
+        "geoid": "2038118",
+        "name": "Chaoyang",
+        "lat": 42.66223,
+        "lng": 126.0263,
+        "country": "CN",
+        "state": "05",
+        "population": 75347
+    },
+    "2038120": {
+        "geoid": "2038120",
+        "name": "Chaoyang",
+        "lat": 41.57028,
+        "lng": 120.45861,
+        "country": "CN",
+        "state": "19",
+        "population": 410005
+    },
+    "2038139": {
+        "geoid": "2038139",
+        "name": "Changtu",
+        "lat": 42.77884,
+        "lng": 124.09545,
+        "country": "CN",
+        "state": "19",
+        "population": 71284
+    },
+    "2038154": {
+        "geoid": "2038154",
+        "name": "Changping",
+        "lat": 40.21612,
+        "lng": 116.23471,
+        "country": "CN",
+        "state": "22",
+        "population": 93174
+    },
+    "2038158": {
+        "geoid": "2038158",
+        "name": "Changling",
+        "lat": 44.26532,
+        "lng": 124.00045,
+        "country": "CN",
+        "state": "05",
+        "population": 55841
+    },
+    "2038180": {
+        "geoid": "2038180",
+        "name": "Changchun",
+        "lat": 43.88,
+        "lng": 125.32278,
+        "country": "CN",
+        "state": "05",
+        "population": 4193073
+    },
+    "2038198": {
+        "geoid": "2038198",
+        "name": "Chaihe",
+        "lat": 44.7598,
+        "lng": 129.67826,
+        "country": "CN",
+        "state": "08",
+        "population": 67963
+    },
+    "2038274": {
+        "geoid": "2038274",
+        "name": "Boli",
+        "lat": 45.75279,
+        "lng": 130.57211,
+        "country": "CN",
+        "state": "08",
+        "population": 95260
+    },
+    "2038283": {
+        "geoid": "2038283",
+        "name": "Binzhou",
+        "lat": 45.75281,
+        "lng": 127.47986,
+        "country": "CN",
+        "state": "08",
+        "population": 62017
+    },
+    "2038300": {
+        "geoid": "2038300",
+        "name": "Benxi",
+        "lat": 41.28861,
+        "lng": 123.765,
+        "country": "CN",
+        "state": "19",
+        "population": 987717
+    },
+    "2038342": {
+        "geoid": "2038342",
+        "name": "Beipiao",
+        "lat": 41.79194,
+        "lng": 120.77917,
+        "country": "CN",
+        "state": "19",
+        "population": 154999
+    },
+    "2038365": {
+        "geoid": "2038365",
+        "name": "Bei’an",
+        "lat": 48.26667,
+        "lng": 126.6,
+        "country": "CN",
+        "state": "08",
+        "population": 436444
+    },
+    "2038421": {
+        "geoid": "2038421",
+        "name": "Bayan",
+        "lat": 46.07556,
+        "lng": 127.3984,
+        "country": "CN",
+        "state": "08",
+        "population": 55186
+    },
+    "2038432": {
+        "geoid": "2038432",
+        "name": "Baotou",
+        "lat": 40.65222,
+        "lng": 109.82222,
+        "country": "CN",
+        "state": "20",
+        "population": 1301768
+    },
+    "2038438": {
+        "geoid": "2038438",
+        "name": "Baoshan",
+        "lat": 46.55861,
+        "lng": 131.42444,
+        "country": "CN",
+        "state": "08",
+        "population": 123791
+    },
+    "2038446": {
+        "geoid": "2038446",
+        "name": "Baoqing",
+        "lat": 46.33167,
+        "lng": 132.21111,
+        "country": "CN",
+        "state": "08",
+        "population": 62991
+    },
+    "2038482": {
+        "geoid": "2038482",
+        "name": "Bamiantong",
+        "lat": 44.91738,
+        "lng": 130.52,
+        "country": "CN",
+        "state": "08",
+        "population": 66170
+    },
+    "2038529": {
+        "geoid": "2038529",
+        "name": "Baishishan",
+        "lat": 43.58333,
+        "lng": 127.56667,
+        "country": "CN",
+        "state": "05",
+        "population": 56992
+    },
+    "2038541": {
+        "geoid": "2038541",
+        "name": "Baiquan",
+        "lat": 47.60605,
+        "lng": 126.08481,
+        "country": "CN",
+        "state": "08",
+        "population": 70472
+    },
+    "2038569": {
+        "geoid": "2038569",
+        "name": "Baicheng",
+        "lat": 45.60746,
+        "lng": 122.82076,
+        "country": "CN",
+        "state": "05",
+        "population": 316970
+    },
+    "2038584": {
+        "geoid": "2038584",
+        "name": "Baishan",
+        "lat": 41.93853,
+        "lng": 126.41965,
+        "country": "CN",
+        "state": "05",
+        "population": 183880
+    },
+    "2038632": {
+        "geoid": "2038632",
+        "name": "Anshan",
+        "lat": 41.12361,
+        "lng": 122.99,
+        "country": "CN",
+        "state": "19",
+        "population": 1199275
+    },
+    "2038650": {
+        "geoid": "2038650",
+        "name": "Anda",
+        "lat": 46.40202,
+        "lng": 125.31454,
+        "country": "CN",
+        "state": "08",
+        "population": 181271
+    },
+    "2038665": {
+        "geoid": "2038665",
+        "name": "Oroqen Zizhiqi",
+        "lat": 50.56667,
+        "lng": 123.71667,
+        "country": "CN",
+        "state": "20",
+        "population": 61582
+    },
+    "2038679": {
+        "geoid": "2038679",
+        "name": "Acheng",
+        "lat": 45.54545,
+        "lng": 126.97703,
+        "country": "CN",
+        "state": "08",
+        "population": 144665
+    },
+    "2047837": {
+        "geoid": "2047837",
+        "name": "Songling",
+        "lat": 40.29303,
+        "lng": 118.26908,
+        "country": "CN",
+        "state": "10",
+        "population": 52277
+    },
+    "6825277": {
+        "geoid": "6825277",
+        "name": "Shilin",
+        "lat": 24.81878,
+        "lng": 103.33237,
+        "country": "CN",
+        "state": "29",
+        "population": 55000
+    },
+    "7283386": {
+        "geoid": "7283386",
+        "name": "Changshu City",
+        "lat": 31.64615,
+        "lng": 120.74221,
+        "country": "CN",
+        "state": "04",
+        "population": 1047700
+    },
+    "7290013": {
+        "geoid": "7290013",
+        "name": "Shixing",
+        "lat": 24.94824,
+        "lng": 114.06572,
+        "country": "CN",
+        "state": "30",
+        "population": 72996
+    },
+    "7303248": {
+        "geoid": "7303248",
+        "name": "Jiashan",
+        "lat": 30.84918,
+        "lng": 120.92583,
+        "country": "CN",
+        "state": "02",
+        "population": 137112
+    },
+    "7304020": {
+        "geoid": "7304020",
+        "name": "Fenghuang",
+        "lat": 27.93557,
+        "lng": 109.59961,
+        "country": "CN",
+        "state": "11",
+        "population": 370000
+    },
+    "7602670": {
+        "geoid": "7602670",
+        "name": "Zhu Cheng City",
+        "lat": 35.99502,
+        "lng": 119.40259,
+        "country": "CN",
+        "state": "25",
+        "population": 1000000
+    },
+    "7910932": {
+        "geoid": "7910932",
+        "name": "Shangri-La",
+        "lat": 27.82511,
+        "lng": 99.70779,
+        "country": "CN",
+        "state": "29",
+        "population": 130000
+    },
+    "8347664": {
+        "geoid": "8347664",
+        "name": "Ordos",
+        "lat": 39.6086,
+        "lng": 109.78157,
+        "country": "CN",
+        "state": "20",
+        "population": 1940653
+    },
+    "8505006": {
+        "geoid": "8505006",
+        "name": "Wenshan City",
+        "lat": 23.36306,
+        "lng": 104.25047,
+        "country": "CN",
+        "state": "29",
+        "population": 450000
+    },
+    "8533133": {
+        "geoid": "8533133",
+        "name": "Liupanshui",
+        "lat": 26.59444,
+        "lng": 104.83333,
+        "country": "CN",
+        "state": "18",
+        "population": 251900
+    }
+}

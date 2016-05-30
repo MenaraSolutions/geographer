@@ -1,0 +1,65 @@
+{
+    "3600949": {
+        "geoid": "3600949",
+        "name": "Tegucigalpa",
+        "lat": 14.0818,
+        "lng": -87.20681,
+        "country": "HN",
+        "state": "08",
+        "population": 850848
+    },
+    "3601782": {
+        "geoid": "3601782",
+        "name": "San Pedro Sula",
+        "lat": 15.50417,
+        "lng": -88.025,
+        "country": "HN",
+        "state": "06",
+        "population": 489466
+    },
+    "3608248": {
+        "geoid": "3608248",
+        "name": "La Ceiba",
+        "lat": 15.75971,
+        "lng": -86.78221,
+        "country": "HN",
+        "state": "01",
+        "population": 130218
+    },
+    "3610613": {
+        "geoid": "3610613",
+        "name": "El Progreso",
+        "lat": 15.4,
+        "lng": -87.8,
+        "country": "HN",
+        "state": "18",
+        "population": 100810
+    },
+    "3613321": {
+        "geoid": "3613321",
+        "name": "Comayagua",
+        "lat": 14.45139,
+        "lng": -87.6375,
+        "country": "HN",
+        "state": "04",
+        "population": 58784
+    },
+    "3613528": {
+        "geoid": "3613528",
+        "name": "Ciudad Choluteca",
+        "lat": 13.30028,
+        "lng": -87.19083,
+        "country": "HN",
+        "state": "02",
+        "population": 75872
+    },
+    "3613533": {
+        "geoid": "3613533",
+        "name": "Choloma",
+        "lat": 15.61444,
+        "lng": -87.95302,
+        "country": "HN",
+        "state": "06",
+        "population": 139100
+    }
+}

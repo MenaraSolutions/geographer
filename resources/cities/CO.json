@@ -1,0 +1,749 @@
+{
+    "3665542": {
+        "geoid": "3665542",
+        "name": "Zipaquirá",
+        "lat": 5.02208,
+        "lng": -74.00481,
+        "country": "CO",
+        "state": "33",
+        "population": 91235
+    },
+    "3665657": {
+        "geoid": "3665657",
+        "name": "Yumbo",
+        "lat": 3.58234,
+        "lng": -76.49146,
+        "country": "CO",
+        "state": "29",
+        "population": 71436
+    },
+    "3665688": {
+        "geoid": "3665688",
+        "name": "Yopal",
+        "lat": 5.33775,
+        "lng": -72.39586,
+        "country": "CO",
+        "state": "32",
+        "population": 61029
+    },
+    "3665900": {
+        "geoid": "3665900",
+        "name": "Villavicencio",
+        "lat": 4.142,
+        "lng": -73.62664,
+        "country": "CO",
+        "state": "19",
+        "population": 321717
+    },
+    "3665913": {
+        "geoid": "3665913",
+        "name": "Villa del Rosario",
+        "lat": 7.83389,
+        "lng": -72.47417,
+        "country": "CO",
+        "state": "21",
+        "population": 64951
+    },
+    "3666304": {
+        "geoid": "3666304",
+        "name": "Valledupar",
+        "lat": 10.46314,
+        "lng": -73.25322,
+        "country": "CO",
+        "state": "10",
+        "population": 308237
+    },
+    "3666570": {
+        "geoid": "3666570",
+        "name": "Turbo",
+        "lat": 8.09263,
+        "lng": -76.72822,
+        "country": "CO",
+        "state": "02",
+        "population": 50508
+    },
+    "3666577": {
+        "geoid": "3666577",
+        "name": "Turbaco",
+        "lat": 10.32944,
+        "lng": -75.41137,
+        "country": "CO",
+        "state": "35",
+        "population": 56171
+    },
+    "3666608": {
+        "geoid": "3666608",
+        "name": "Tunja",
+        "lat": 5.53528,
+        "lng": -73.36778,
+        "country": "CO",
+        "state": "36",
+        "population": 117479
+    },
+    "3666640": {
+        "geoid": "3666640",
+        "name": "Tumaco",
+        "lat": 1.79861,
+        "lng": -78.81556,
+        "country": "CO",
+        "state": "20",
+        "population": 86713
+    },
+    "3666645": {
+        "geoid": "3666645",
+        "name": "Tuluá",
+        "lat": 4.08466,
+        "lng": -76.19536,
+        "country": "CO",
+        "state": "29",
+        "population": 165501
+    },
+    "3667849": {
+        "geoid": "3667849",
+        "name": "Soledad",
+        "lat": 10.91843,
+        "lng": -74.76459,
+        "country": "CO",
+        "state": "04",
+        "population": 342556
+    },
+    "3667873": {
+        "geoid": "3667873",
+        "name": "Sogamoso",
+        "lat": 5.71434,
+        "lng": -72.93391,
+        "country": "CO",
+        "state": "36",
+        "population": 126551
+    },
+    "3667905": {
+        "geoid": "3667905",
+        "name": "Soacha",
+        "lat": 4.57937,
+        "lng": -74.21682,
+        "country": "CO",
+        "state": "33",
+        "population": 313945
+    },
+    "3667983": {
+        "geoid": "3667983",
+        "name": "Sincelejo",
+        "lat": 9.30472,
+        "lng": -75.39778,
+        "country": "CO",
+        "state": "27",
+        "population": 261187
+    },
+    "3668454": {
+        "geoid": "3668454",
+        "name": "Santa Rosa de Cabal",
+        "lat": 4.86806,
+        "lng": -75.62139,
+        "country": "CO",
+        "state": "24",
+        "population": 57928
+    },
+    "3668605": {
+        "geoid": "3668605",
+        "name": "Santa Marta",
+        "lat": 11.24079,
+        "lng": -74.19904,
+        "country": "CO",
+        "state": "38",
+        "population": 431781
+    },
+    "3670218": {
+        "geoid": "3670218",
+        "name": "San Andrés",
+        "lat": 12.58472,
+        "lng": -81.70056,
+        "country": "CO",
+        "state": "25",
+        "population": 58257
+    },
+    "3670419": {
+        "geoid": "3670419",
+        "name": "Sahagún",
+        "lat": 8.94617,
+        "lng": -75.44275,
+        "country": "CO",
+        "state": "12",
+        "population": 59188
+    },
+    "3670502": {
+        "geoid": "3670502",
+        "name": "Sabanalarga",
+        "lat": 10.62962,
+        "lng": -74.92063,
+        "country": "CO",
+        "state": "04",
+        "population": 68535
+    },
+    "3670730": {
+        "geoid": "3670730",
+        "name": "Rionegro",
+        "lat": 6.15515,
+        "lng": -75.37371,
+        "country": "CO",
+        "state": "02",
+        "population": 62291
+    },
+    "3670745": {
+        "geoid": "3670745",
+        "name": "Ríohacha",
+        "lat": 11.54444,
+        "lng": -72.90722,
+        "country": "CO",
+        "state": "17",
+        "population": 92431
+    },
+    "3671116": {
+        "geoid": "3671116",
+        "name": "Quibdó",
+        "lat": 5.69188,
+        "lng": -76.65835,
+        "country": "CO",
+        "state": "11",
+        "population": 75104
+    },
+    "3671315": {
+        "geoid": "3671315",
+        "name": "Puerto Tejada",
+        "lat": 3.23114,
+        "lng": -76.41668,
+        "country": "CO",
+        "state": "09",
+        "population": 53674
+    },
+    "3671916": {
+        "geoid": "3671916",
+        "name": "Popayán",
+        "lat": 2.43823,
+        "lng": -76.61316,
+        "country": "CO",
+        "state": "09",
+        "population": 258653
+    },
+    "3672110": {
+        "geoid": "3672110",
+        "name": "Pitalito",
+        "lat": 1.85371,
+        "lng": -76.05071,
+        "country": "CO",
+        "state": "16",
+        "population": 53685
+    },
+    "3672328": {
+        "geoid": "3672328",
+        "name": "Piedecuesta",
+        "lat": 6.98789,
+        "lng": -73.04953,
+        "country": "CO",
+        "state": "26",
+        "population": 86387
+    },
+    "3672486": {
+        "geoid": "3672486",
+        "name": "Pereira",
+        "lat": 4.81333,
+        "lng": -75.69611,
+        "country": "CO",
+        "state": "24",
+        "population": 440118
+    },
+    "3672778": {
+        "geoid": "3672778",
+        "name": "Pasto",
+        "lat": 1.21361,
+        "lng": -77.28111,
+        "country": "CO",
+        "state": "20",
+        "population": 382236
+    },
+    "3673045": {
+        "geoid": "3673045",
+        "name": "Pamplona",
+        "lat": 7.37565,
+        "lng": -72.64795,
+        "country": "CO",
+        "state": "21",
+        "population": 53587
+    },
+    "3673164": {
+        "geoid": "3673164",
+        "name": "Palmira",
+        "lat": 3.53944,
+        "lng": -76.30361,
+        "country": "CO",
+        "state": "29",
+        "population": 247986
+    },
+    "3673662": {
+        "geoid": "3673662",
+        "name": "Ocaña",
+        "lat": 8.23773,
+        "lng": -73.35604,
+        "country": "CO",
+        "state": "21",
+        "population": 83511
+    },
+    "3673899": {
+        "geoid": "3673899",
+        "name": "Neiva",
+        "lat": 2.9273,
+        "lng": -75.28189,
+        "country": "CO",
+        "state": "16",
+        "population": 352855
+    },
+    "3674453": {
+        "geoid": "3674453",
+        "name": "Montería",
+        "lat": 8.74798,
+        "lng": -75.88143,
+        "country": "CO",
+        "state": "12",
+        "population": 272420
+    },
+    "3674470": {
+        "geoid": "3674470",
+        "name": "Montelíbano",
+        "lat": 7.97917,
+        "lng": -75.4202,
+        "country": "CO",
+        "state": "12",
+        "population": 85000
+    },
+    "3674962": {
+        "geoid": "3674962",
+        "name": "Medellín",
+        "lat": 6.25184,
+        "lng": -75.56359,
+        "country": "CO",
+        "state": "02",
+        "population": 1999979
+    },
+    "3675443": {
+        "geoid": "3675443",
+        "name": "Manizales",
+        "lat": 5.06889,
+        "lng": -75.51738,
+        "country": "CO",
+        "state": "37",
+        "population": 357814
+    },
+    "3675595": {
+        "geoid": "3675595",
+        "name": "Malambo",
+        "lat": 10.85953,
+        "lng": -74.77386,
+        "country": "CO",
+        "state": "04",
+        "population": 101534
+    },
+    "3675657": {
+        "geoid": "3675657",
+        "name": "Maicao",
+        "lat": 11.38321,
+        "lng": -72.24321,
+        "country": "CO",
+        "state": "17",
+        "population": 130348
+    },
+    "3675692": {
+        "geoid": "3675692",
+        "name": "Magangué",
+        "lat": 9.24202,
+        "lng": -74.75467,
+        "country": "CO",
+        "state": "35",
+        "population": 100313
+    },
+    "3675707": {
+        "geoid": "3675707",
+        "name": "Madrid",
+        "lat": 4.73245,
+        "lng": -74.26419,
+        "country": "CO",
+        "state": "33",
+        "population": 50437
+    },
+    "3675975": {
+        "geoid": "3675975",
+        "name": "Los Patios",
+        "lat": 7.83793,
+        "lng": -72.5037,
+        "country": "CO",
+        "state": "21",
+        "population": 58661
+    },
+    "3679277": {
+        "geoid": "3679277",
+        "name": "La Dorada",
+        "lat": 5.44783,
+        "lng": -74.66311,
+        "country": "CO",
+        "state": "37",
+        "population": 81950
+    },
+    "3680450": {
+        "geoid": "3680450",
+        "name": "Itagüí",
+        "lat": 6.18461,
+        "lng": -75.59913,
+        "country": "CO",
+        "state": "02",
+        "population": 281853
+    },
+    "3680539": {
+        "geoid": "3680539",
+        "name": "Ipiales",
+        "lat": 0.83018,
+        "lng": -77.64959,
+        "country": "CO",
+        "state": "20",
+        "population": 77729
+    },
+    "3680656": {
+        "geoid": "3680656",
+        "name": "Ibagué",
+        "lat": 4.43889,
+        "lng": -75.23222,
+        "country": "CO",
+        "state": "28",
+        "population": 421685
+    },
+    "3682018": {
+        "geoid": "3682018",
+        "name": "Girón",
+        "lat": 7.0682,
+        "lng": -73.16981,
+        "country": "CO",
+        "state": "26",
+        "population": 108466
+    },
+    "3682028": {
+        "geoid": "3682028",
+        "name": "Girardot City",
+        "lat": 4.30079,
+        "lng": -74.80754,
+        "country": "CO",
+        "state": "33",
+        "population": 130289
+    },
+    "3682274": {
+        "geoid": "3682274",
+        "name": "Fusagasuga",
+        "lat": 4.33646,
+        "lng": -74.36378,
+        "country": "CO",
+        "state": "33",
+        "population": 88820
+    },
+    "3682281": {
+        "geoid": "3682281",
+        "name": "Funza",
+        "lat": 4.71638,
+        "lng": -74.21195,
+        "country": "CO",
+        "state": "33",
+        "population": 54421
+    },
+    "3682292": {
+        "geoid": "3682292",
+        "name": "Fundación",
+        "lat": 10.52066,
+        "lng": -74.18504,
+        "country": "CO",
+        "state": "38",
+        "population": 59175
+    },
+    "3682385": {
+        "geoid": "3682385",
+        "name": "Floridablanca",
+        "lat": 7.06222,
+        "lng": -73.08644,
+        "country": "CO",
+        "state": "26",
+        "population": 252267
+    },
+    "3682426": {
+        "geoid": "3682426",
+        "name": "Florencia",
+        "lat": 1.61438,
+        "lng": -75.60623,
+        "country": "CO",
+        "state": "08",
+        "population": 130337
+    },
+    "3682516": {
+        "geoid": "3682516",
+        "name": "Facatativá",
+        "lat": 4.81367,
+        "lng": -74.35453,
+        "country": "CO",
+        "state": "33",
+        "population": 94611
+    },
+    "3682573": {
+        "geoid": "3682573",
+        "name": "Espinal",
+        "lat": 4.14924,
+        "lng": -74.88429,
+        "country": "CO",
+        "state": "28",
+        "population": 56213
+    },
+    "3682631": {
+        "geoid": "3682631",
+        "name": "Envigado",
+        "lat": 6.17591,
+        "lng": -75.59174,
+        "country": "CO",
+        "state": "02",
+        "population": 163007
+    },
+    "3684917": {
+        "geoid": "3684917",
+        "name": "El Banco",
+        "lat": 9.00114,
+        "lng": -73.97581,
+        "country": "CO",
+        "state": "38",
+        "population": 54522
+    },
+    "3685084": {
+        "geoid": "3685084",
+        "name": "Duitama",
+        "lat": 5.8245,
+        "lng": -73.03408,
+        "country": "CO",
+        "state": "36",
+        "population": 92040
+    },
+    "3685095": {
+        "geoid": "3685095",
+        "name": "Dos Quebradas",
+        "lat": 4.83916,
+        "lng": -75.66727,
+        "country": "CO",
+        "state": "24",
+        "population": 179583
+    },
+    "3685533": {
+        "geoid": "3685533",
+        "name": "Cúcuta",
+        "lat": 7.89391,
+        "lng": -72.50782,
+        "country": "CO",
+        "state": "21",
+        "population": 721398
+    },
+    "3686279": {
+        "geoid": "3686279",
+        "name": "Ciénaga",
+        "lat": 11.00703,
+        "lng": -74.24765,
+        "country": "CO",
+        "state": "38",
+        "population": 88311
+    },
+    "3686561": {
+        "geoid": "3686561",
+        "name": "Chinchiná",
+        "lat": 4.9825,
+        "lng": -75.60361,
+        "country": "CO",
+        "state": "37",
+        "population": 68512
+    },
+    "3686675": {
+        "geoid": "3686675",
+        "name": "Chía",
+        "lat": 4.85876,
+        "lng": -74.05866,
+        "country": "CO",
+        "state": "33",
+        "population": 64569
+    },
+    "3686922": {
+        "geoid": "3686922",
+        "name": "Cereté",
+        "lat": 8.88479,
+        "lng": -75.79052,
+        "country": "CO",
+        "state": "12",
+        "population": 55513
+    },
+    "3687025": {
+        "geoid": "3687025",
+        "name": "Caucasia",
+        "lat": 7.98654,
+        "lng": -75.19349,
+        "country": "CO",
+        "state": "02",
+        "population": 58034
+    },
+    "3687230": {
+        "geoid": "3687230",
+        "name": "Cartago",
+        "lat": 4.74639,
+        "lng": -75.91167,
+        "country": "CO",
+        "state": "29",
+        "population": 134827
+    },
+    "3687238": {
+        "geoid": "3687238",
+        "name": "Cartagena",
+        "lat": 10.39972,
+        "lng": -75.51444,
+        "country": "CO",
+        "state": "35",
+        "population": 952024
+    },
+    "3687925": {
+        "geoid": "3687925",
+        "name": "Cali",
+        "lat": 3.43722,
+        "lng": -76.5225,
+        "country": "CO",
+        "state": "29",
+        "population": 2392877
+    },
+    "3687952": {
+        "geoid": "3687952",
+        "name": "Caldas",
+        "lat": 6.09106,
+        "lng": -75.63569,
+        "country": "CO",
+        "state": "02",
+        "population": 65565
+    },
+    "3687964": {
+        "geoid": "3687964",
+        "name": "Calarcá",
+        "lat": 4.52949,
+        "lng": -75.64091,
+        "country": "CO",
+        "state": "23",
+        "population": 62170
+    },
+    "3688256": {
+        "geoid": "3688256",
+        "name": "Buga",
+        "lat": 3.90089,
+        "lng": -76.29783,
+        "country": "CO",
+        "state": "29",
+        "population": 118004
+    },
+    "3688451": {
+        "geoid": "3688451",
+        "name": "Buenaventura",
+        "lat": 3.8801,
+        "lng": -77.03116,
+        "country": "CO",
+        "state": "29",
+        "population": 240387
+    },
+    "3688465": {
+        "geoid": "3688465",
+        "name": "Bucaramanga",
+        "lat": 7.12539,
+        "lng": -73.1198,
+        "country": "CO",
+        "state": "26",
+        "population": 571820
+    },
+    "3688689": {
+        "geoid": "3688689",
+        "name": "Bogotá",
+        "lat": 4.60971,
+        "lng": -74.08175,
+        "country": "CO",
+        "state": "34",
+        "population": 7674366
+    },
+    "3688928": {
+        "geoid": "3688928",
+        "name": "Bello",
+        "lat": 6.33732,
+        "lng": -75.55795,
+        "country": "CO",
+        "state": "02",
+        "population": 392939
+    },
+    "3689147": {
+        "geoid": "3689147",
+        "name": "Barranquilla",
+        "lat": 10.96854,
+        "lng": -74.78132,
+        "country": "CO",
+        "state": "04",
+        "population": 1380425
+    },
+    "3689169": {
+        "geoid": "3689169",
+        "name": "Barrancabermeja",
+        "lat": 7.06528,
+        "lng": -73.85472,
+        "country": "CO",
+        "state": "26",
+        "population": 191403
+    },
+    "3689560": {
+        "geoid": "3689560",
+        "name": "Armenia",
+        "lat": 4.53389,
+        "lng": -75.68111,
+        "country": "CO",
+        "state": "23",
+        "population": 315328
+    },
+    "3689570": {
+        "geoid": "3689570",
+        "name": "Arjona",
+        "lat": 10.25444,
+        "lng": -75.34389,
+        "country": "CO",
+        "state": "35",
+        "population": 50405
+    },
+    "3689718": {
+        "geoid": "3689718",
+        "name": "Arauca",
+        "lat": 7.08471,
+        "lng": -70.75908,
+        "country": "CO",
+        "state": "03",
+        "population": 69264
+    },
+    "3689798": {
+        "geoid": "3689798",
+        "name": "Apartadó",
+        "lat": 7.88299,
+        "lng": -76.62587,
+        "country": "CO",
+        "state": "02",
+        "population": 86438
+    },
+    "3690465": {
+        "geoid": "3690465",
+        "name": "Aguachica",
+        "lat": 8.30844,
+        "lng": -73.6166,
+        "country": "CO",
+        "state": "10",
+        "population": 73360
+    },
+    "3792383": {
+        "geoid": "3792383",
+        "name": "Agustín Codazzi",
+        "lat": 10.03672,
+        "lng": -73.23558,
+        "country": "CO",
+        "state": "10",
+        "population": 51478
+    }
+}

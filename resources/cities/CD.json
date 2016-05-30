@@ -1,0 +1,335 @@
+{
+    "204405": {
+        "geoid": "204405",
+        "name": "Uvira",
+        "lat": -3.39534,
+        "lng": 29.13779,
+        "country": "CD",
+        "state": "12",
+        "population": 170391
+    },
+    "204953": {
+        "geoid": "204953",
+        "name": "Tshikapa",
+        "lat": -6.41621,
+        "lng": 20.79995,
+        "country": "CD",
+        "state": "03",
+        "population": 267462
+    },
+    "207570": {
+        "geoid": "207570",
+        "name": "Mwene-Ditu",
+        "lat": -7.00906,
+        "lng": 23.45278,
+        "country": "CD",
+        "state": "04",
+        "population": 189177
+    },
+    "207596": {
+        "geoid": "207596",
+        "name": "Mweka",
+        "lat": -4.85187,
+        "lng": 21.5595,
+        "country": "CD",
+        "state": "03",
+        "population": 50675
+    },
+    "209228": {
+        "geoid": "209228",
+        "name": "Mbuji-Mayi",
+        "lat": -6.13603,
+        "lng": 23.58979,
+        "country": "CD",
+        "state": "04",
+        "population": 874761
+    },
+    "211647": {
+        "geoid": "211647",
+        "name": "Lodja",
+        "lat": -3.52105,
+        "lng": 23.6005,
+        "country": "CD",
+        "state": "04",
+        "population": 68244
+    },
+    "211734": {
+        "geoid": "211734",
+        "name": "Lisala",
+        "lat": 2.15127,
+        "lng": 21.51672,
+        "country": "CD",
+        "state": "02",
+        "population": 70087
+    },
+    "212730": {
+        "geoid": "212730",
+        "name": "Kisangani",
+        "lat": 0.51528,
+        "lng": 25.19099,
+        "country": "CD",
+        "state": "09",
+        "population": 539158
+    },
+    "212902": {
+        "geoid": "212902",
+        "name": "Kindu",
+        "lat": -2.94373,
+        "lng": 25.92237,
+        "country": "CD",
+        "state": "10",
+        "population": 135698
+    },
+    "213940": {
+        "geoid": "213940",
+        "name": "Kasongo",
+        "lat": -4.42741,
+        "lng": 26.66656,
+        "country": "CD",
+        "state": "10",
+        "population": 55118
+    },
+    "214481": {
+        "geoid": "214481",
+        "name": "Kananga",
+        "lat": -5.89624,
+        "lng": 22.41659,
+        "country": "CD",
+        "state": "03",
+        "population": 463546
+    },
+    "214614": {
+        "geoid": "214614",
+        "name": "Kamina",
+        "lat": -8.73508,
+        "lng": 24.99798,
+        "country": "CD",
+        "state": "05",
+        "population": 73557
+    },
+    "214974": {
+        "geoid": "214974",
+        "name": "Kalemie",
+        "lat": -5.94749,
+        "lng": 29.19471,
+        "country": "CD",
+        "state": "05",
+        "population": 146974
+    },
+    "215527": {
+        "geoid": "215527",
+        "name": "Kabinda",
+        "lat": -6.13791,
+        "lng": 24.48179,
+        "country": "CD",
+        "state": "04",
+        "population": 59004
+    },
+    "215771": {
+        "geoid": "215771",
+        "name": "Isiro",
+        "lat": 2.77391,
+        "lng": 27.61603,
+        "country": "CD",
+        "state": "09",
+        "population": 127076
+    },
+    "215976": {
+        "geoid": "215976",
+        "name": "Ilebo",
+        "lat": -4.33111,
+        "lng": 20.58638,
+        "country": "CD",
+        "state": "03",
+        "population": 107093
+    },
+    "216281": {
+        "geoid": "216281",
+        "name": "Goma",
+        "lat": -1.67409,
+        "lng": 29.22845,
+        "country": "CD",
+        "state": "11",
+        "population": 144124
+    },
+    "216404": {
+        "geoid": "216404",
+        "name": "Gbadolite",
+        "lat": 4.279,
+        "lng": 21.00284,
+        "country": "CD",
+        "state": "02",
+        "population": 50493
+    },
+    "216449": {
+        "geoid": "216449",
+        "name": "Gandajika",
+        "lat": -6.74504,
+        "lng": 23.95328,
+        "country": "CD",
+        "state": "04",
+        "population": 154425
+    },
+    "217562": {
+        "geoid": "217562",
+        "name": "Butembo",
+        "lat": 0.14164,
+        "lng": 29.29117,
+        "country": "CD",
+        "state": "11",
+        "population": 154621
+    },
+    "217570": {
+        "geoid": "217570",
+        "name": "Buta",
+        "lat": 2.78582,
+        "lng": 24.72997,
+        "country": "CD",
+        "state": "09",
+        "population": 50130
+    },
+    "217695": {
+        "geoid": "217695",
+        "name": "Bunia",
+        "lat": 1.55941,
+        "lng": 30.25224,
+        "country": "CD",
+        "state": "09",
+        "population": 96764
+    },
+    "217745": {
+        "geoid": "217745",
+        "name": "Bumba",
+        "lat": 2.18771,
+        "lng": 22.46827,
+        "country": "CD",
+        "state": "02",
+        "population": 95520
+    },
+    "217831": {
+        "geoid": "217831",
+        "name": "Bukavu",
+        "lat": -2.49077,
+        "lng": 28.84281,
+        "country": "CD",
+        "state": "12",
+        "population": 225389
+    },
+    "219057": {
+        "geoid": "219057",
+        "name": "Beni",
+        "lat": 0.49113,
+        "lng": 29.47306,
+        "country": "CD",
+        "state": "11",
+        "population": 89648
+    },
+    "922704": {
+        "geoid": "922704",
+        "name": "Lubumbashi",
+        "lat": -11.66089,
+        "lng": 27.47938,
+        "country": "CD",
+        "state": "05",
+        "population": 1373770
+    },
+    "922741": {
+        "geoid": "922741",
+        "name": "Likasi",
+        "lat": -10.98303,
+        "lng": 26.7384,
+        "country": "CD",
+        "state": "05",
+        "population": 422414
+    },
+    "922773": {
+        "geoid": "922773",
+        "name": "Kolwezi",
+        "lat": -10.71484,
+        "lng": 25.46674,
+        "country": "CD",
+        "state": "05",
+        "population": 418000
+    },
+    "922806": {
+        "geoid": "922806",
+        "name": "Kipushi",
+        "lat": -11.76097,
+        "lng": 27.25135,
+        "country": "CD",
+        "state": "05",
+        "population": 62332
+    },
+    "2312888": {
+        "geoid": "2312888",
+        "name": "Mbanza-Ngungu",
+        "lat": -5.25837,
+        "lng": 14.85838,
+        "country": "CD",
+        "state": "08",
+        "population": 86356
+    },
+    "2312895": {
+        "geoid": "2312895",
+        "name": "Mbandaka",
+        "lat": 0.04865,
+        "lng": 18.26034,
+        "country": "CD",
+        "state": "02",
+        "population": 184185
+    },
+    "2313002": {
+        "geoid": "2313002",
+        "name": "Matadi",
+        "lat": -5.79949,
+        "lng": 13.44068,
+        "country": "CD",
+        "state": "08",
+        "population": 180109
+    },
+    "2314302": {
+        "geoid": "2314302",
+        "name": "Kinshasa",
+        "lat": -4.32758,
+        "lng": 15.31357,
+        "country": "CD",
+        "state": "06",
+        "population": 7785965
+    },
+    "2314705": {
+        "geoid": "2314705",
+        "name": "Kikwit",
+        "lat": -5.04098,
+        "lng": 18.81619,
+        "country": "CD",
+        "state": "01",
+        "population": 186991
+    },
+    "2315728": {
+        "geoid": "2315728",
+        "name": "Gemena",
+        "lat": 3.25651,
+        "lng": 19.77234,
+        "country": "CD",
+        "state": "02",
+        "population": 117639
+    },
+    "2317397": {
+        "geoid": "2317397",
+        "name": "Bandundu",
+        "lat": -3.31687,
+        "lng": 17.38063,
+        "country": "CD",
+        "state": "01",
+        "population": 118211
+    },
+    "2593460": {
+        "geoid": "2593460",
+        "name": "Masina",
+        "lat": -4.38361,
+        "lng": 15.39139,
+        "country": "CD",
+        "state": "06",
+        "population": 485167
+    }
+}

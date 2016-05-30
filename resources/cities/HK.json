@@ -1,0 +1,38 @@
+{
+    "1818209": {
+        "geoid": "1818209",
+        "name": "Tsuen Wan",
+        "lat": 22.37066,
+        "lng": 114.10479,
+        "country": "HK",
+        "state": "NTW",
+        "population": 288728
+    },
+    "1818223": {
+        "geoid": "1818223",
+        "name": "Yuen Long Kau Hui",
+        "lat": 22.45,
+        "lng": 114.03333,
+        "country": "HK",
+        "state": "NYL",
+        "population": 141900
+    },
+    "1819609": {
+        "geoid": "1819609",
+        "name": "Kowloon",
+        "lat": 22.31667,
+        "lng": 114.18333,
+        "country": "HK",
+        "state": "KKC",
+        "population": 2019533
+    },
+    "1819729": {
+        "geoid": "1819729",
+        "name": "Hong Kong",
+        "lat": 22.28552,
+        "lng": 114.15769,
+        "country": "HK",
+        "state": "HCW",
+        "population": 7012738
+    }
+}

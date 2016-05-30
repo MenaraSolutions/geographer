@@ -1,0 +1,29 @@
+{
+    "3621849": {
+        "geoid": "3621849",
+        "name": "San José",
+        "lat": 9.93333,
+        "lng": -84.08333,
+        "country": "CR",
+        "state": "08",
+        "population": 335007
+    },
+    "3621911": {
+        "geoid": "3621911",
+        "name": "San Francisco",
+        "lat": 9.99299,
+        "lng": -84.12934,
+        "country": "CR",
+        "state": "04",
+        "population": 55923
+    },
+    "3622247": {
+        "geoid": "3622247",
+        "name": "Limón",
+        "lat": 9.99074,
+        "lng": -83.03596,
+        "country": "CR",
+        "state": "06",
+        "population": 63081
+    }
+}

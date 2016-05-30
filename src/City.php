@@ -23,7 +23,7 @@ class City extends Divisible
      */
     protected function getStoragePath()
     {
-        // TODO: Implement getStoragePath() method.
+        return $this->config->getStoragePath() . 'states' . DIRECTORY_SEPARATOR . $this->getCode() . '.json';
     }
 
     /**

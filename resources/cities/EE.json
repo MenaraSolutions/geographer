@@ -1,0 +1,29 @@
+{
+    "588335": {
+        "geoid": "588335",
+        "name": "Tartu",
+        "lat": 58.38062,
+        "lng": 26.72509,
+        "country": "EE",
+        "state": "18",
+        "population": 101092
+    },
+    "588409": {
+        "geoid": "588409",
+        "name": "Tallinn",
+        "lat": 59.43696,
+        "lng": 24.75353,
+        "country": "EE",
+        "state": "01",
+        "population": 394024
+    },
+    "590031": {
+        "geoid": "590031",
+        "name": "Narva",
+        "lat": 59.37722,
+        "lng": 28.19028,
+        "country": "EE",
+        "state": "03",
+        "population": 66980
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "179330": {
+        "geoid": "179330",
+        "name": "Thika",
+        "lat": -1.03326,
+        "lng": 37.06933,
+        "country": "KE",
+        "state": "05",
+        "population": 200000
+    },
+    "182701": {
+        "geoid": "182701",
+        "name": "Nyeri",
+        "lat": -0.42013,
+        "lng": 36.94759,
+        "country": "KE",
+        "state": "44",
+        "population": 51084
+    },
+    "184622": {
+        "geoid": "184622",
+        "name": "Nakuru",
+        "lat": -0.28333,
+        "lng": 36.06667,
+        "country": "KE",
+        "state": "39",
+        "population": 259903
+    },
+    "184745": {
+        "geoid": "184745",
+        "name": "Nairobi",
+        "lat": -1.28333,
+        "lng": 36.81667,
+        "country": "KE",
+        "state": "05",
+        "population": 2750547
+    },
+    "186301": {
+        "geoid": "186301",
+        "name": "Mombasa",
+        "lat": -4.05466,
+        "lng": 39.66359,
+        "country": "KE",
+        "state": "37",
+        "population": 799668
+    },
+    "187110": {
+        "geoid": "187110",
+        "name": "Mbale",
+        "lat": -3.4,
+        "lng": 38.38333,
+        "country": "KE",
+        "state": "53",
+        "population": 60000
+    },
+    "187968": {
+        "geoid": "187968",
+        "name": "Malindi",
+        "lat": -3.21799,
+        "lng": 40.11692,
+        "country": "KE",
+        "state": "23",
+        "population": 118265
+    },
+    "191220": {
+        "geoid": "191220",
+        "name": "Kitale",
+        "lat": 1.01572,
+        "lng": 35.00622,
+        "country": "KE",
+        "state": "50",
+        "population": 75123
+    },
+    "191245": {
+        "geoid": "191245",
+        "name": "Kisumu",
+        "lat": -0.10221,
+        "lng": 34.76171,
+        "country": "KE",
+        "state": "26",
+        "population": 216479
+    },
+    "194160": {
+        "geoid": "194160",
+        "name": "Kapenguria",
+        "lat": 1.23333,
+        "lng": 35.11667,
+        "country": "KE",
+        "state": "55",
+        "population": 56000
+    },
+    "195272": {
+        "geoid": "195272",
+        "name": "Kakamega",
+        "lat": 0.28422,
+        "lng": 34.75229,
+        "country": "KE",
+        "state": "20",
+        "population": 63426
+    },
+    "197745": {
+        "geoid": "197745",
+        "name": "Garissa",
+        "lat": -0.45275,
+        "lng": 39.64601,
+        "country": "KE",
+        "state": "16",
+        "population": 67861
+    },
+    "198629": {
+        "geoid": "198629",
+        "name": "Eldoret",
+        "lat": 0.52036,
+        "lng": 35.26993,
+        "country": "KE",
+        "state": "52",
+        "population": 218446
+    },
+    "199989": {
+        "geoid": "199989",
+        "name": "Busia",
+        "lat": 0.46005,
+        "lng": 34.11169,
+        "country": "KE",
+        "state": "13",
+        "population": 51981
+    },
+    "200067": {
+        "geoid": "200067",
+        "name": "Bungoma",
+        "lat": 0.5635,
+        "lng": 34.56055,
+        "country": "KE",
+        "state": "12",
+        "population": 55962
+    }
+}

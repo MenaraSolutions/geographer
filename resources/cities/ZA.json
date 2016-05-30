@@ -1,0 +1,803 @@
+{
+    "936374": {
+        "geoid": "936374",
+        "name": "Roodepoort",
+        "lat": -26.1625,
+        "lng": 27.8725,
+        "country": "ZA",
+        "state": "06",
+        "population": 225000
+    },
+    "939270": {
+        "geoid": "939270",
+        "name": "Witbank",
+        "lat": -25.87133,
+        "lng": 29.23323,
+        "country": "ZA",
+        "state": "07",
+        "population": 262491
+    },
+    "940316": {
+        "geoid": "940316",
+        "name": "Westonaria",
+        "lat": -26.31905,
+        "lng": 27.6486,
+        "country": "ZA",
+        "state": "06",
+        "population": 156831
+    },
+    "940909": {
+        "geoid": "940909",
+        "name": "Welkom",
+        "lat": -27.97742,
+        "lng": 26.73506,
+        "country": "ZA",
+        "state": "03",
+        "population": 431944
+    },
+    "941966": {
+        "geoid": "941966",
+        "name": "Warmbaths",
+        "lat": -24.88333,
+        "lng": 28.28333,
+        "country": "ZA",
+        "state": "09",
+        "population": 90210
+    },
+    "942470": {
+        "geoid": "942470",
+        "name": "Vryheid",
+        "lat": -27.76952,
+        "lng": 30.79165,
+        "country": "ZA",
+        "state": "02",
+        "population": 150012
+    },
+    "943882": {
+        "geoid": "943882",
+        "name": "Virginia",
+        "lat": -28.10391,
+        "lng": 26.86593,
+        "country": "ZA",
+        "state": "03",
+        "population": 122502
+    },
+    "943960": {
+        "geoid": "943960",
+        "name": "Viljoenskroon",
+        "lat": -27.20841,
+        "lng": 26.94855,
+        "country": "ZA",
+        "state": "03",
+        "population": 54955
+    },
+    "944385": {
+        "geoid": "944385",
+        "name": "Vereeniging",
+        "lat": -26.67313,
+        "lng": 27.92615,
+        "country": "ZA",
+        "state": "06",
+        "population": 474681
+    },
+    "944986": {
+        "geoid": "944986",
+        "name": "Vanderbijlpark",
+        "lat": -26.71171,
+        "lng": 27.83795,
+        "country": "ZA",
+        "state": "06",
+        "population": 246754
+    },
+    "945945": {
+        "geoid": "945945",
+        "name": "Upington",
+        "lat": -28.44776,
+        "lng": 21.25612,
+        "country": "ZA",
+        "state": "08",
+        "population": 71373
+    },
+    "946058": {
+        "geoid": "946058",
+        "name": "Mthatha",
+        "lat": -31.58893,
+        "lng": 28.78443,
+        "country": "ZA",
+        "state": "05",
+        "population": 78663
+    },
+    "946877": {
+        "geoid": "946877",
+        "name": "Uitenhage",
+        "lat": -33.75757,
+        "lng": 25.3971,
+        "country": "ZA",
+        "state": "05",
+        "population": 228912
+    },
+    "949880": {
+        "geoid": "949880",
+        "name": "Tembisa",
+        "lat": -25.99636,
+        "lng": 28.2268,
+        "country": "ZA",
+        "state": "06",
+        "population": 511655
+    },
+    "952192": {
+        "geoid": "952192",
+        "name": "Stilfontein",
+        "lat": -26.84493,
+        "lng": 26.76829,
+        "country": "ZA",
+        "state": "10",
+        "population": 93110
+    },
+    "952734": {
+        "geoid": "952734",
+        "name": "Stanger",
+        "lat": -29.32816,
+        "lng": 31.28954,
+        "country": "ZA",
+        "state": "02",
+        "population": 59899
+    },
+    "952747": {
+        "geoid": "952747",
+        "name": "Standerton",
+        "lat": -26.93366,
+        "lng": 29.24152,
+        "country": "ZA",
+        "state": "07",
+        "population": 74021
+    },
+    "952865": {
+        "geoid": "952865",
+        "name": "Springs",
+        "lat": -26.25,
+        "lng": 28.4,
+        "country": "ZA",
+        "state": "06",
+        "population": 186394
+    },
+    "953781": {
+        "geoid": "953781",
+        "name": "Soweto",
+        "lat": -26.26781,
+        "lng": 27.85849,
+        "country": "ZA",
+        "state": "06",
+        "population": 1695047
+    },
+    "956907": {
+        "geoid": "956907",
+        "name": "Schweizer-Reneke",
+        "lat": -27.18871,
+        "lng": 25.32931,
+        "country": "ZA",
+        "state": "10",
+        "population": 70214
+    },
+    "957487": {
+        "geoid": "957487",
+        "name": "Sasolburg",
+        "lat": -26.81358,
+        "lng": 27.81695,
+        "country": "ZA",
+        "state": "03",
+        "population": 77016
+    },
+    "958724": {
+        "geoid": "958724",
+        "name": "Rustenburg",
+        "lat": -25.66756,
+        "lng": 27.24208,
+        "country": "ZA",
+        "state": "10",
+        "population": 124064
+    },
+    "962367": {
+        "geoid": "962367",
+        "name": "Richards Bay",
+        "lat": -28.78301,
+        "lng": 32.03768,
+        "country": "ZA",
+        "state": "02",
+        "population": 252968
+    },
+    "963230": {
+        "geoid": "963230",
+        "name": "Randfontein",
+        "lat": -26.1844,
+        "lng": 27.70203,
+        "country": "ZA",
+        "state": "06",
+        "population": 133654
+    },
+    "963516": {
+        "geoid": "963516",
+        "name": "Queenstown",
+        "lat": -31.89756,
+        "lng": 26.87533,
+        "country": "ZA",
+        "state": "05",
+        "population": 105309
+    },
+    "964137": {
+        "geoid": "964137",
+        "name": "Pretoria",
+        "lat": -25.74486,
+        "lng": 28.18783,
+        "country": "ZA",
+        "state": "06",
+        "population": 1619438
+    },
+    "964315": {
+        "geoid": "964315",
+        "name": "Mokopane",
+        "lat": -24.19436,
+        "lng": 29.00974,
+        "country": "ZA",
+        "state": "09",
+        "population": 101090
+    },
+    "964349": {
+        "geoid": "964349",
+        "name": "Potchefstroom",
+        "lat": -26.71667,
+        "lng": 27.1,
+        "country": "ZA",
+        "state": "10",
+        "population": 123669
+    },
+    "964406": {
+        "geoid": "964406",
+        "name": "Port Shepstone",
+        "lat": -30.74137,
+        "lng": 30.45499,
+        "country": "ZA",
+        "state": "02",
+        "population": 52793
+    },
+    "964420": {
+        "geoid": "964420",
+        "name": "Port Elizabeth",
+        "lat": -33.91799,
+        "lng": 25.57007,
+        "country": "ZA",
+        "state": "05",
+        "population": 967677
+    },
+    "965241": {
+        "geoid": "965241",
+        "name": "Piet Retief",
+        "lat": -27.00706,
+        "lng": 30.81323,
+        "country": "ZA",
+        "state": "07",
+        "population": 84349
+    },
+    "965289": {
+        "geoid": "965289",
+        "name": "Polokwane",
+        "lat": -23.90449,
+        "lng": 29.46885,
+        "country": "ZA",
+        "state": "09",
+        "population": 123749
+    },
+    "965301": {
+        "geoid": "965301",
+        "name": "Pietermaritzburg",
+        "lat": -29.61679,
+        "lng": 30.39278,
+        "country": "ZA",
+        "state": "02",
+        "population": 750845
+    },
+    "965401": {
+        "geoid": "965401",
+        "name": "Phuthaditjhaba",
+        "lat": -28.52423,
+        "lng": 28.81582,
+        "country": "ZA",
+        "state": "03",
+        "population": 84258
+    },
+    "965528": {
+        "geoid": "965528",
+        "name": "Phalaborwa",
+        "lat": -23.94299,
+        "lng": 31.14107,
+        "country": "ZA",
+        "state": "09",
+        "population": 109468
+    },
+    "966166": {
+        "geoid": "966166",
+        "name": "Parys",
+        "lat": -26.9033,
+        "lng": 27.45727,
+        "country": "ZA",
+        "state": "03",
+        "population": 71319
+    },
+    "967106": {
+        "geoid": "967106",
+        "name": "Oudtshoorn",
+        "lat": -33.60047,
+        "lng": 22.19955,
+        "country": "ZA",
+        "state": "11",
+        "population": 61507
+    },
+    "967476": {
+        "geoid": "967476",
+        "name": "Orkney",
+        "lat": -26.98023,
+        "lng": 26.67272,
+        "country": "ZA",
+        "state": "10",
+        "population": 145801
+    },
+    "970566": {
+        "geoid": "970566",
+        "name": "Nigel",
+        "lat": -26.43138,
+        "lng": 28.47713,
+        "country": "ZA",
+        "state": "06",
+        "population": 140644
+    },
+    "971421": {
+        "geoid": "971421",
+        "name": "Newcastle",
+        "lat": -27.75796,
+        "lng": 29.9318,
+        "country": "ZA",
+        "state": "02",
+        "population": 404838
+    },
+    "971534": {
+        "geoid": "971534",
+        "name": "Nelspruit",
+        "lat": -25.47448,
+        "lng": 30.97033,
+        "country": "ZA",
+        "state": "07",
+        "population": 110159
+    },
+    "973111": {
+        "geoid": "973111",
+        "name": "Mpumalanga",
+        "lat": -29.81292,
+        "lng": 30.63646,
+        "country": "ZA",
+        "state": "02",
+        "population": 140121
+    },
+    "973709": {
+        "geoid": "973709",
+        "name": "Mossel Bay",
+        "lat": -34.18307,
+        "lng": 22.14605,
+        "country": "ZA",
+        "state": "11",
+        "population": 59031
+    },
+    "975436": {
+        "geoid": "975436",
+        "name": "Mmabatho",
+        "lat": -25.85,
+        "lng": 25.63333,
+        "country": "ZA",
+        "state": "10",
+        "population": 76754
+    },
+    "976361": {
+        "geoid": "976361",
+        "name": "Middelburg",
+        "lat": -25.77507,
+        "lng": 29.46482,
+        "country": "ZA",
+        "state": "07",
+        "population": 154706
+    },
+    "980921": {
+        "geoid": "980921",
+        "name": "Mabopane",
+        "lat": -25.49768,
+        "lng": 28.10065,
+        "country": "ZA",
+        "state": "06",
+        "population": 97417
+    },
+    "981827": {
+        "geoid": "981827",
+        "name": "Louis Trichardt",
+        "lat": -23.04385,
+        "lng": 29.90319,
+        "country": "ZA",
+        "state": "09",
+        "population": 86854
+    },
+    "982899": {
+        "geoid": "982899",
+        "name": "Lichtenburg",
+        "lat": -26.152,
+        "lng": 26.15968,
+        "country": "ZA",
+        "state": "10",
+        "population": 65863
+    },
+    "986083": {
+        "geoid": "986083",
+        "name": "Kutloanong",
+        "lat": -27.83333,
+        "lng": 26.75,
+        "country": "ZA",
+        "state": "03",
+        "population": 95008
+    },
+    "986822": {
+        "geoid": "986822",
+        "name": "Krugersdorp",
+        "lat": -26.08577,
+        "lng": 27.77515,
+        "country": "ZA",
+        "state": "06",
+        "population": 378821
+    },
+    "986846": {
+        "geoid": "986846",
+        "name": "Kroonstad",
+        "lat": -27.65036,
+        "lng": 27.23488,
+        "country": "ZA",
+        "state": "03",
+        "population": 103992
+    },
+    "988698": {
+        "geoid": "988698",
+        "name": "Knysna",
+        "lat": -34.03627,
+        "lng": 23.04713,
+        "country": "ZA",
+        "state": "11",
+        "population": 68659
+    },
+    "989921": {
+        "geoid": "989921",
+        "name": "Klerksdorp",
+        "lat": -26.85213,
+        "lng": 26.66672,
+        "country": "ZA",
+        "state": "10",
+        "population": 178921
+    },
+    "990930": {
+        "geoid": "990930",
+        "name": "Kimberley",
+        "lat": -28.73226,
+        "lng": 24.76232,
+        "country": "ZA",
+        "state": "08",
+        "population": 142089
+    },
+    "993800": {
+        "geoid": "993800",
+        "name": "Johannesburg",
+        "lat": -26.20227,
+        "lng": 28.04363,
+        "country": "ZA",
+        "state": "06",
+        "population": 2026469
+    },
+    "997140": {
+        "geoid": "997140",
+        "name": "Heilbron",
+        "lat": -27.28115,
+        "lng": 27.9709,
+        "country": "ZA",
+        "state": "03",
+        "population": 55196
+    },
+    "997151": {
+        "geoid": "997151",
+        "name": "Heidelberg",
+        "lat": -26.50476,
+        "lng": 28.35921,
+        "country": "ZA",
+        "state": "06",
+        "population": 64199
+    },
+    "1000501": {
+        "geoid": "1000501",
+        "name": "Grahamstown",
+        "lat": -33.30422,
+        "lng": 26.53276,
+        "country": "ZA",
+        "state": "05",
+        "population": 91548
+    },
+    "1000543": {
+        "geoid": "1000543",
+        "name": "Graaff-Reinet",
+        "lat": -32.25215,
+        "lng": 24.53075,
+        "country": "ZA",
+        "state": "05",
+        "population": 62896
+    },
+    "1002851": {
+        "geoid": "1002851",
+        "name": "Ga-Rankuwa",
+        "lat": -25.61692,
+        "lng": 27.99471,
+        "country": "ZA",
+        "state": "10",
+        "population": 68767
+    },
+    "1003953": {
+        "geoid": "1003953",
+        "name": "Fort Beaufort",
+        "lat": -32.77477,
+        "lng": 26.63376,
+        "country": "ZA",
+        "state": "05",
+        "population": 58419
+    },
+    "1004109": {
+        "geoid": "1004109",
+        "name": "Fochville",
+        "lat": -26.48862,
+        "lng": 27.49387,
+        "country": "ZA",
+        "state": "10",
+        "population": 62416
+    },
+    "1005646": {
+        "geoid": "1005646",
+        "name": "eMbalenhle",
+        "lat": -26.53333,
+        "lng": 29.06667,
+        "country": "ZA",
+        "state": "07",
+        "population": 141741
+    },
+    "1006984": {
+        "geoid": "1006984",
+        "name": "East London",
+        "lat": -33.01529,
+        "lng": 27.91162,
+        "country": "ZA",
+        "state": "05",
+        "population": 478676
+    },
+    "1007311": {
+        "geoid": "1007311",
+        "name": "Durban",
+        "lat": -29.8579,
+        "lng": 31.0292,
+        "country": "ZA",
+        "state": "02",
+        "population": 3120282
+    },
+    "1007400": {
+        "geoid": "1007400",
+        "name": "Dundee",
+        "lat": -28.16678,
+        "lng": 30.23371,
+        "country": "ZA",
+        "state": "02",
+        "population": 84413
+    },
+    "1011031": {
+        "geoid": "1011031",
+        "name": "Delmas",
+        "lat": -26.1466,
+        "lng": 28.68322,
+        "country": "ZA",
+        "state": "07",
+        "population": 92046
+    },
+    "1014073": {
+        "geoid": "1014073",
+        "name": "Carletonville",
+        "lat": -26.36094,
+        "lng": 27.39767,
+        "country": "ZA",
+        "state": "06",
+        "population": 182304
+    },
+    "1015621": {
+        "geoid": "1015621",
+        "name": "Brits",
+        "lat": -25.63473,
+        "lng": 27.78022,
+        "country": "ZA",
+        "state": "10",
+        "population": 122497
+    },
+    "1016181": {
+        "geoid": "1016181",
+        "name": "Brakpan",
+        "lat": -26.23656,
+        "lng": 28.36938,
+        "country": "ZA",
+        "state": "06",
+        "population": 305692
+    },
+    "1016670": {
+        "geoid": "1016670",
+        "name": "Botshabelo",
+        "lat": -29.27016,
+        "lng": 26.7052,
+        "country": "ZA",
+        "state": "03",
+        "population": 309714
+    },
+    "1016698": {
+        "geoid": "1016698",
+        "name": "Bothaville",
+        "lat": -27.3887,
+        "lng": 26.61701,
+        "country": "ZA",
+        "state": "03",
+        "population": 71934
+    },
+    "1017780": {
+        "geoid": "1017780",
+        "name": "Boksburg",
+        "lat": -26.21197,
+        "lng": 28.25958,
+        "country": "ZA",
+        "state": "06",
+        "population": 445168
+    },
+    "1018725": {
+        "geoid": "1018725",
+        "name": "Bloemfontein",
+        "lat": -29.12107,
+        "lng": 26.214,
+        "country": "ZA",
+        "state": "03",
+        "population": 463064
+    },
+    "1019330": {
+        "geoid": "1019330",
+        "name": "Bhisho",
+        "lat": -32.84721,
+        "lng": 27.44218,
+        "country": "ZA",
+        "state": "05",
+        "population": 137287
+    },
+    "1019704": {
+        "geoid": "1019704",
+        "name": "Bethlehem",
+        "lat": -28.23078,
+        "lng": 28.30707,
+        "country": "ZA",
+        "state": "03",
+        "population": 83654
+    },
+    "1019760": {
+        "geoid": "1019760",
+        "name": "Bethal",
+        "lat": -26.45794,
+        "lng": 29.46553,
+        "country": "ZA",
+        "state": "07",
+        "population": 101919
+    },
+    "1020098": {
+        "geoid": "1020098",
+        "name": "Benoni",
+        "lat": -26.18848,
+        "lng": 28.32078,
+        "country": "ZA",
+        "state": "06",
+        "population": 605344
+    },
+    "1021086": {
+        "geoid": "1021086",
+        "name": "Barberton",
+        "lat": -25.78842,
+        "lng": 31.05319,
+        "country": "ZA",
+        "state": "07",
+        "population": 67927
+    },
+    "1105776": {
+        "geoid": "1105776",
+        "name": "Midrand",
+        "lat": -25.98953,
+        "lng": 28.12843,
+        "country": "ZA",
+        "state": "06",
+        "population": 173009
+    },
+    "1105777": {
+        "geoid": "1105777",
+        "name": "Centurion",
+        "lat": -25.85891,
+        "lng": 28.18577,
+        "country": "ZA",
+        "state": "06",
+        "population": 233386
+    },
+    "3359041": {
+        "geoid": "3359041",
+        "name": "Worcester",
+        "lat": -33.64651,
+        "lng": 19.44852,
+        "country": "ZA",
+        "state": "11",
+        "population": 127597
+    },
+    "3361025": {
+        "geoid": "3361025",
+        "name": "Stellenbosch",
+        "lat": -33.93462,
+        "lng": 18.86676,
+        "country": "ZA",
+        "state": "11",
+        "population": 94263
+    },
+    "3361934": {
+        "geoid": "3361934",
+        "name": "Saldanha",
+        "lat": -33.01167,
+        "lng": 17.9442,
+        "country": "ZA",
+        "state": "11",
+        "population": 68284
+    },
+    "3363094": {
+        "geoid": "3363094",
+        "name": "Paarl",
+        "lat": -33.73378,
+        "lng": 18.97523,
+        "country": "ZA",
+        "state": "11",
+        "population": 190000
+    },
+    "3365083": {
+        "geoid": "3365083",
+        "name": "Kraaifontein",
+        "lat": -33.84808,
+        "lng": 18.71723,
+        "country": "ZA",
+        "state": "11",
+        "population": 57911
+    },
+    "3369157": {
+        "geoid": "3369157",
+        "name": "Cape Town",
+        "lat": -33.92584,
+        "lng": 18.42322,
+        "country": "ZA",
+        "state": "11",
+        "population": 3433441
+    },
+    "3370352": {
+        "geoid": "3370352",
+        "name": "Atlantis",
+        "lat": -33.56668,
+        "lng": 18.48335,
+        "country": "ZA",
+        "state": "11",
+        "population": 60266
+    },
+    "8764562": {
+        "geoid": "8764562",
+        "name": "Diepsloot",
+        "lat": -25.93312,
+        "lng": 28.01213,
+        "country": "ZA",
+        "state": "06",
+        "population": 350000
+    }
+}

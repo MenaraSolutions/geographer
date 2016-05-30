@@ -1,0 +1,29 @@
+{
+    "146268": {
+        "geoid": "146268",
+        "name": "Nicosia",
+        "lat": 35.17531,
+        "lng": 33.3642,
+        "country": "CY",
+        "state": "04",
+        "population": 200452
+    },
+    "146384": {
+        "geoid": "146384",
+        "name": "Limassol",
+        "lat": 34.68406,
+        "lng": 33.03794,
+        "country": "CY",
+        "state": "05",
+        "population": 154000
+    },
+    "146400": {
+        "geoid": "146400",
+        "name": "Larnaca",
+        "lat": 34.92291,
+        "lng": 33.6233,
+        "country": "CY",
+        "state": "03",
+        "population": 72000
+    }
+}

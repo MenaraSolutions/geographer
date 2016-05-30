@@ -1,0 +1,38 @@
+{
+    "935214": {
+        "geoid": "935214",
+        "name": "Saint-Pierre",
+        "lat": -21.3393,
+        "lng": 55.47811,
+        "country": "RE",
+        "state": "RE",
+        "population": 76655
+    },
+    "935221": {
+        "geoid": "935221",
+        "name": "Saint-Paul",
+        "lat": -21.00963,
+        "lng": 55.27071,
+        "country": "RE",
+        "state": "RE",
+        "population": 99307
+    },
+    "935264": {
+        "geoid": "935264",
+        "name": "Saint-Denis",
+        "lat": -20.88231,
+        "lng": 55.4504,
+        "country": "RE",
+        "state": "RE",
+        "population": 137195
+    },
+    "935582": {
+        "geoid": "935582",
+        "name": "Le Tampon",
+        "lat": -21.28309,
+        "lng": 55.51802,
+        "country": "RE",
+        "state": "RE",
+        "population": 69986
+    }
+}

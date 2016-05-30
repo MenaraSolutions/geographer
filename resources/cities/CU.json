@@ -1,0 +1,443 @@
+{
+    "3534915": {
+        "geoid": "3534915",
+        "name": "Trinidad",
+        "lat": 21.80224,
+        "lng": -79.98467,
+        "country": "CU",
+        "state": "14",
+        "population": 60206
+    },
+    "3536729": {
+        "geoid": "3536729",
+        "name": "Santiago de Cuba",
+        "lat": 20.02083,
+        "lng": -75.82667,
+        "country": "CU",
+        "state": "15",
+        "population": 555865
+    },
+    "3537906": {
+        "geoid": "3537906",
+        "name": "Santa Clara",
+        "lat": 22.40694,
+        "lng": -79.96472,
+        "country": "CU",
+        "state": "16",
+        "population": 250512
+    },
+    "3538803": {
+        "geoid": "3538803",
+        "name": "San Miguel del Padrón",
+        "lat": 23.06639,
+        "lng": -82.29472,
+        "country": "CU",
+        "state": "02",
+        "population": 159273
+    },
+    "3539093": {
+        "geoid": "3539093",
+        "name": "San Luis",
+        "lat": 20.18809,
+        "lng": -75.85031,
+        "country": "CU",
+        "state": "15",
+        "population": 67293
+    },
+    "3539560": {
+        "geoid": "3539560",
+        "name": "San José de las Lajas",
+        "lat": 22.96139,
+        "lng": -82.15111,
+        "country": "CU",
+        "state": "MA",
+        "population": 54847
+    },
+    "3540667": {
+        "geoid": "3540667",
+        "name": "Sancti Spíritus",
+        "lat": 21.92972,
+        "lng": -79.4425,
+        "country": "CU",
+        "state": "14",
+        "population": 127069
+    },
+    "3540680": {
+        "geoid": "3540680",
+        "name": "San Cristobal",
+        "lat": 22.71658,
+        "lng": -83.05647,
+        "country": "CU",
+        "state": "AR",
+        "population": 59579
+    },
+    "3541440": {
+        "geoid": "3541440",
+        "name": "Sagua la Grande",
+        "lat": 22.80667,
+        "lng": -80.07556,
+        "country": "CU",
+        "state": "16",
+        "population": 62073
+    },
+    "3543299": {
+        "geoid": "3543299",
+        "name": "Puerto Padre",
+        "lat": 21.19517,
+        "lng": -76.60358,
+        "country": "CU",
+        "state": "13",
+        "population": 76838
+    },
+    "3543961": {
+        "geoid": "3543961",
+        "name": "Placetas",
+        "lat": 22.31184,
+        "lng": -79.6544,
+        "country": "CU",
+        "state": "16",
+        "population": 55408
+    },
+    "3544091": {
+        "geoid": "3544091",
+        "name": "Pinar del Río",
+        "lat": 22.41667,
+        "lng": -83.69667,
+        "country": "CU",
+        "state": "01",
+        "population": 186990
+    },
+    "3545064": {
+        "geoid": "3545064",
+        "name": "Palma Soriano",
+        "lat": 20.2113,
+        "lng": -75.99362,
+        "country": "CU",
+        "state": "15",
+        "population": 102826
+    },
+    "3545841": {
+        "geoid": "3545841",
+        "name": "Nuevitas",
+        "lat": 21.54585,
+        "lng": -77.26504,
+        "country": "CU",
+        "state": "05",
+        "population": 54022
+    },
+    "3546434": {
+        "geoid": "3546434",
+        "name": "Morón",
+        "lat": 22.10774,
+        "lng": -78.62667,
+        "country": "CU",
+        "state": "07",
+        "population": 66060
+    },
+    "3546791": {
+        "geoid": "3546791",
+        "name": "Moa",
+        "lat": 20.65776,
+        "lng": -74.95075,
+        "country": "CU",
+        "state": "12",
+        "population": 92852
+    },
+    "3547398": {
+        "geoid": "3547398",
+        "name": "Matanzas",
+        "lat": 23.04111,
+        "lng": -81.5775,
+        "country": "CU",
+        "state": "03",
+        "population": 146733
+    },
+    "3547867": {
+        "geoid": "3547867",
+        "name": "Manzanillo",
+        "lat": 20.34173,
+        "lng": -77.12126,
+        "country": "CU",
+        "state": "09",
+        "population": 128188
+    },
+    "3550598": {
+        "geoid": "3550598",
+        "name": "Las Tunas",
+        "lat": 20.96167,
+        "lng": -76.95111,
+        "country": "CU",
+        "state": "13",
+        "population": 203684
+    },
+    "3553478": {
+        "geoid": "3553478",
+        "name": "Havana",
+        "lat": 23.13302,
+        "lng": -82.38304,
+        "country": "CU",
+        "state": "02",
+        "population": 2163824
+    },
+    "3556268": {
+        "geoid": "3556268",
+        "name": "Jesús Menéndez",
+        "lat": 21.16139,
+        "lng": -76.47919,
+        "country": "CU",
+        "state": "13",
+        "population": 51002
+    },
+    "3556437": {
+        "geoid": "3556437",
+        "name": "Jagüey Grande",
+        "lat": 22.52694,
+        "lng": -81.12861,
+        "country": "CU",
+        "state": "03",
+        "population": 54363
+    },
+    "3556969": {
+        "geoid": "3556969",
+        "name": "Holguín",
+        "lat": 20.88722,
+        "lng": -76.26306,
+        "country": "CU",
+        "state": "12",
+        "population": 319102
+    },
+    "3557347": {
+        "geoid": "3557347",
+        "name": "Güira de Melena",
+        "lat": 22.79613,
+        "lng": -82.50667,
+        "country": "CU",
+        "state": "AR",
+        "population": 69879
+    },
+    "3557378": {
+        "geoid": "3557378",
+        "name": "Güines",
+        "lat": 22.83727,
+        "lng": -82.02641,
+        "country": "CU",
+        "state": "MA",
+        "population": 68935
+    },
+    "3557689": {
+        "geoid": "3557689",
+        "name": "Guantánamo",
+        "lat": 20.14444,
+        "lng": -75.20917,
+        "country": "CU",
+        "state": "10",
+        "population": 272801
+    },
+    "3557846": {
+        "geoid": "3557846",
+        "name": "Guanabacoa",
+        "lat": 23.1236,
+        "lng": -82.30082,
+        "country": "CU",
+        "state": "02",
+        "population": 112964
+    },
+    "3558771": {
+        "geoid": "3558771",
+        "name": "Florida",
+        "lat": 21.52536,
+        "lng": -78.22579,
+        "country": "CU",
+        "state": "05",
+        "population": 63007
+    },
+    "3563317": {
+        "geoid": "3563317",
+        "name": "Corralillo",
+        "lat": 22.98212,
+        "lng": -80.58556,
+        "country": "CU",
+        "state": "16",
+        "population": 51881
+    },
+    "3563504": {
+        "geoid": "3563504",
+        "name": "Contramaestre",
+        "lat": 20.29879,
+        "lng": -76.24511,
+        "country": "CU",
+        "state": "15",
+        "population": 70438
+    },
+    "3563559": {
+        "geoid": "3563559",
+        "name": "Consolación del Sur",
+        "lat": 22.50419,
+        "lng": -83.51442,
+        "country": "CU",
+        "state": "01",
+        "population": 69857
+    },
+    "3563843": {
+        "geoid": "3563843",
+        "name": "Colón",
+        "lat": 22.72064,
+        "lng": -80.90492,
+        "country": "CU",
+        "state": "03",
+        "population": 63882
+    },
+    "3564124": {
+        "geoid": "3564124",
+        "name": "Cienfuegos",
+        "lat": 22.14957,
+        "lng": -80.44662,
+        "country": "CU",
+        "state": "08",
+        "population": 186644
+    },
+    "3564178": {
+        "geoid": "3564178",
+        "name": "Ciego de Ávila",
+        "lat": 21.84,
+        "lng": -78.76194,
+        "country": "CU",
+        "state": "07",
+        "population": 142027
+    },
+    "3564436": {
+        "geoid": "3564436",
+        "name": "Cerro",
+        "lat": 23.10861,
+        "lng": -82.37778,
+        "country": "CU",
+        "state": "02",
+        "population": 132351
+    },
+    "3565432": {
+        "geoid": "3565432",
+        "name": "Cárdenas",
+        "lat": 23.03661,
+        "lng": -81.20596,
+        "country": "CU",
+        "state": "03",
+        "population": 98515
+    },
+    "3566067": {
+        "geoid": "3566067",
+        "name": "Camagüey",
+        "lat": 21.38083,
+        "lng": -77.91694,
+        "country": "CU",
+        "state": "05",
+        "population": 347562
+    },
+    "3567597": {
+        "geoid": "3567597",
+        "name": "Bayamo",
+        "lat": 20.37417,
+        "lng": -76.64361,
+        "country": "CU",
+        "state": "09",
+        "population": 192632
+    },
+    "3567669": {
+        "geoid": "3567669",
+        "name": "Bartolomé Masó",
+        "lat": 20.16635,
+        "lng": -76.94291,
+        "country": "CU",
+        "state": "09",
+        "population": 53024
+    },
+    "3567869": {
+        "geoid": "3567869",
+        "name": "Banes",
+        "lat": 20.96116,
+        "lng": -75.722,
+        "country": "CU",
+        "state": "12",
+        "population": 53104
+    },
+    "3568312": {
+        "geoid": "3568312",
+        "name": "Artemisa",
+        "lat": 22.81667,
+        "lng": -82.75944,
+        "country": "CU",
+        "state": "AR",
+        "population": 68073
+    },
+    "3568342": {
+        "geoid": "3568342",
+        "name": "Arroyo Naranjo",
+        "lat": 23.03677,
+        "lng": -82.36937,
+        "country": "CU",
+        "state": "02",
+        "population": 210053
+    },
+    "3569370": {
+        "geoid": "3569370",
+        "name": "Alamar",
+        "lat": 23.15794,
+        "lng": -82.27837,
+        "country": "CU",
+        "state": "02",
+        "population": 100000
+    },
+    "3746181": {
+        "geoid": "3746181",
+        "name": "Habana del Este",
+        "lat": 23.15917,
+        "lng": -82.33056,
+        "country": "CU",
+        "state": "02",
+        "population": 178041
+    },
+    "3746183": {
+        "geoid": "3746183",
+        "name": "Centro Habana",
+        "lat": 23.13833,
+        "lng": -82.36417,
+        "country": "CU",
+        "state": "02",
+        "population": 158151
+    },
+    "3746184": {
+        "geoid": "3746184",
+        "name": "La Habana Vieja",
+        "lat": 23.13028,
+        "lng": -82.35306,
+        "country": "CU",
+        "state": "02",
+        "population": 95383
+    },
+    "6956646": {
+        "geoid": "6956646",
+        "name": "Arroyo Naranjo",
+        "lat": 23.0144,
+        "lng": -82.3031,
+        "country": "CU",
+        "state": "02",
+        "population": 210053
+    },
+    "6956647": {
+        "geoid": "6956647",
+        "name": "Boyeros",
+        "lat": 23.0072,
+        "lng": -82.4017,
+        "country": "CU",
+        "state": "02",
+        "population": 188593
+    },
+    "6956648": {
+        "geoid": "6956648",
+        "name": "Diez de Octubre",
+        "lat": 23.0881,
+        "lng": -82.3597,
+        "country": "CU",
+        "state": "02",
+        "population": 227293
+    }
+}

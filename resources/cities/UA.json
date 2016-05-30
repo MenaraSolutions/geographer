@@ -1,0 +1,884 @@
+{
+    "616743": {
+        "geoid": "616743",
+        "name": "Druzhkivka",
+        "lat": 48.63013,
+        "lng": 37.55259,
+        "country": "UA",
+        "state": "05",
+        "population": 62315
+    },
+    "686967": {
+        "geoid": "686967",
+        "name": "Zhytomyr",
+        "lat": 50.26487,
+        "lng": 28.67669,
+        "country": "UA",
+        "state": "27",
+        "population": 282192
+    },
+    "687196": {
+        "geoid": "687196",
+        "name": "Zhovti Vody",
+        "lat": 48.34493,
+        "lng": 33.50374,
+        "country": "UA",
+        "state": "04",
+        "population": 51559
+    },
+    "687700": {
+        "geoid": "687700",
+        "name": "Zaporizhzhya",
+        "lat": 47.82289,
+        "lng": 35.19031,
+        "country": "UA",
+        "state": "26",
+        "population": 796217
+    },
+    "688105": {
+        "geoid": "688105",
+        "name": "Yevpatoriya",
+        "lat": 45.20091,
+        "lng": 33.36655,
+        "country": "UA",
+        "state": "11",
+        "population": 105223
+    },
+    "688148": {
+        "geoid": "688148",
+        "name": "Yenakiyeve",
+        "lat": 48.23331,
+        "lng": 38.21137,
+        "country": "UA",
+        "state": "05",
+        "population": 104101
+    },
+    "688533": {
+        "geoid": "688533",
+        "name": "Yalta",
+        "lat": 44.50218,
+        "lng": 34.16624,
+        "country": "UA",
+        "state": "11",
+        "population": 79509
+    },
+    "689558": {
+        "geoid": "689558",
+        "name": "Vinnytsya",
+        "lat": 49.23278,
+        "lng": 28.48097,
+        "country": "UA",
+        "state": "23",
+        "population": 352115
+    },
+    "690548": {
+        "geoid": "690548",
+        "name": "Uzhhorod",
+        "lat": 48.61667,
+        "lng": 22.3,
+        "country": "UA",
+        "state": "25",
+        "population": 117878
+    },
+    "690688": {
+        "geoid": "690688",
+        "name": "Uman’",
+        "lat": 48.74838,
+        "lng": 30.22184,
+        "country": "UA",
+        "state": "01",
+        "population": 87658
+    },
+    "691374": {
+        "geoid": "691374",
+        "name": "Torez",
+        "lat": 48.03876,
+        "lng": 38.59685,
+        "country": "UA",
+        "state": "05",
+        "population": 68037
+    },
+    "691650": {
+        "geoid": "691650",
+        "name": "Ternopil’",
+        "lat": 49.55589,
+        "lng": 25.60556,
+        "country": "UA",
+        "state": "22",
+        "population": 235676
+    },
+    "691999": {
+        "geoid": "691999",
+        "name": "Syevyerodonets’k",
+        "lat": 48.94832,
+        "lng": 38.49166,
+        "country": "UA",
+        "state": "14",
+        "population": 130000
+    },
+    "692105": {
+        "geoid": "692105",
+        "name": "Sverdlovs’k",
+        "lat": 48.08964,
+        "lng": 39.65243,
+        "country": "UA",
+        "state": "14",
+        "population": 68000
+    },
+    "692194": {
+        "geoid": "692194",
+        "name": "Sumy",
+        "lat": 50.9216,
+        "lng": 34.80029,
+        "country": "UA",
+        "state": "21",
+        "population": 294456
+    },
+    "692372": {
+        "geoid": "692372",
+        "name": "Stryi",
+        "lat": 49.26223,
+        "lng": 23.85609,
+        "country": "UA",
+        "state": "15",
+        "population": 61404
+    },
+    "692975": {
+        "geoid": "692975",
+        "name": "Stakhanov",
+        "lat": 48.56818,
+        "lng": 38.64352,
+        "country": "UA",
+        "state": "14",
+        "population": 84425
+    },
+    "693381": {
+        "geoid": "693381",
+        "name": "Snizhne",
+        "lat": 48.02612,
+        "lng": 38.77225,
+        "country": "UA",
+        "state": "05",
+        "population": 55587
+    },
+    "693457": {
+        "geoid": "693457",
+        "name": "Smila",
+        "lat": 49.22242,
+        "lng": 31.88714,
+        "country": "UA",
+        "state": "01",
+        "population": 67530
+    },
+    "693468": {
+        "geoid": "693468",
+        "name": "Sloviansk",
+        "lat": 48.86667,
+        "lng": 37.61667,
+        "country": "UA",
+        "state": "05",
+        "population": 124800
+    },
+    "693805": {
+        "geoid": "693805",
+        "name": "Simferopol",
+        "lat": 44.95719,
+        "lng": 34.11079,
+        "country": "UA",
+        "state": "11",
+        "population": 358108
+    },
+    "693942": {
+        "geoid": "693942",
+        "name": "Shostka",
+        "lat": 51.86296,
+        "lng": 33.4698,
+        "country": "UA",
+        "state": "21",
+        "population": 85432
+    },
+    "694382": {
+        "geoid": "694382",
+        "name": "Shakhtars’k",
+        "lat": 48.05657,
+        "lng": 38.43826,
+        "country": "UA",
+        "state": "05",
+        "population": 71700
+    },
+    "694423": {
+        "geoid": "694423",
+        "name": "Sevastopol",
+        "lat": 44.58883,
+        "lng": 33.5224,
+        "country": "UA",
+        "state": "20",
+        "population": 379200
+    },
+    "695274": {
+        "geoid": "695274",
+        "name": "Rubizhne",
+        "lat": 49.01229,
+        "lng": 38.37967,
+        "country": "UA",
+        "state": "14",
+        "population": 62993
+    },
+    "695379": {
+        "geoid": "695379",
+        "name": "Roven’ky",
+        "lat": 48.08331,
+        "lng": 39.37764,
+        "country": "UA",
+        "state": "14",
+        "population": 53600
+    },
+    "695594": {
+        "geoid": "695594",
+        "name": "Rivne",
+        "lat": 50.62308,
+        "lng": 26.22743,
+        "country": "UA",
+        "state": "19",
+        "population": 255106
+    },
+    "696108": {
+        "geoid": "696108",
+        "name": "Pryluky",
+        "lat": 50.59323,
+        "lng": 32.38761,
+        "country": "UA",
+        "state": "02",
+        "population": 62823
+    },
+    "696643": {
+        "geoid": "696643",
+        "name": "Poltava",
+        "lat": 49.59373,
+        "lng": 34.54073,
+        "country": "UA",
+        "state": "18",
+        "population": 317847
+    },
+    "697593": {
+        "geoid": "697593",
+        "name": "Pervomays’k",
+        "lat": 48.04433,
+        "lng": 30.85073,
+        "country": "UA",
+        "state": "16",
+        "population": 70746
+    },
+    "697889": {
+        "geoid": "697889",
+        "name": "Pavlohrad",
+        "lat": 48.53426,
+        "lng": 35.87098,
+        "country": "UA",
+        "state": "04",
+        "population": 115932
+    },
+    "698625": {
+        "geoid": "698625",
+        "name": "Oleksandriya",
+        "lat": 48.66961,
+        "lng": 33.11593,
+        "country": "UA",
+        "state": "10",
+        "population": 103000
+    },
+    "698740": {
+        "geoid": "698740",
+        "name": "Odessa",
+        "lat": 46.47747,
+        "lng": 30.73262,
+        "country": "UA",
+        "state": "17",
+        "population": 1001558
+    },
+    "699035": {
+        "geoid": "699035",
+        "name": "Novovolyns’k",
+        "lat": 50.72576,
+        "lng": 24.16265,
+        "country": "UA",
+        "state": "24",
+        "population": 57800
+    },
+    "699445": {
+        "geoid": "699445",
+        "name": "Novomoskovs’k",
+        "lat": 48.63799,
+        "lng": 35.24548,
+        "country": "UA",
+        "state": "04",
+        "population": 73100
+    },
+    "699553": {
+        "geoid": "699553",
+        "name": "Novohrad-Volyns’kyy",
+        "lat": 50.59412,
+        "lng": 27.6165,
+        "country": "UA",
+        "state": "27",
+        "population": 55925
+    },
+    "699839": {
+        "geoid": "699839",
+        "name": "Nova Kakhovka",
+        "lat": 46.75451,
+        "lng": 33.34864,
+        "country": "UA",
+        "state": "08",
+        "population": 50672
+    },
+    "699942": {
+        "geoid": "699942",
+        "name": "Nizhyn",
+        "lat": 51.04801,
+        "lng": 31.88688,
+        "country": "UA",
+        "state": "02",
+        "population": 75499
+    },
+    "700019": {
+        "geoid": "700019",
+        "name": "Nyzhn’ohirs’kyy",
+        "lat": 45.44789,
+        "lng": 34.73839,
+        "country": "UA",
+        "state": "11",
+        "population": 72534
+    },
+    "700051": {
+        "geoid": "700051",
+        "name": "Nikopol’",
+        "lat": 47.57119,
+        "lng": 34.39637,
+        "country": "UA",
+        "state": "04",
+        "population": 130500
+    },
+    "700569": {
+        "geoid": "700569",
+        "name": "Mykolayiv",
+        "lat": 46.96591,
+        "lng": 31.9974,
+        "country": "UA",
+        "state": "16",
+        "population": 510840
+    },
+    "700646": {
+        "geoid": "700646",
+        "name": "Mukacheve",
+        "lat": 48.43919,
+        "lng": 22.71779,
+        "country": "UA",
+        "state": "25",
+        "population": 81633
+    },
+    "701404": {
+        "geoid": "701404",
+        "name": "Melitopol’",
+        "lat": 46.84891,
+        "lng": 35.36533,
+        "country": "UA",
+        "state": "26",
+        "population": 158000
+    },
+    "701822": {
+        "geoid": "701822",
+        "name": "Mariupol",
+        "lat": 47.09514,
+        "lng": 37.54131,
+        "country": "UA",
+        "state": "05",
+        "population": 481626
+    },
+    "701855": {
+        "geoid": "701855",
+        "name": "Marhanets’",
+        "lat": 47.63543,
+        "lng": 34.62769,
+        "country": "UA",
+        "state": "04",
+        "population": 50443
+    },
+    "702320": {
+        "geoid": "702320",
+        "name": "Makiyivka",
+        "lat": 48.04782,
+        "lng": 37.92576,
+        "country": "UA",
+        "state": "05",
+        "population": 376610
+    },
+    "702550": {
+        "geoid": "702550",
+        "name": "Lviv",
+        "lat": 49.83826,
+        "lng": 24.02324,
+        "country": "UA",
+        "state": "15",
+        "population": 717803
+    },
+    "702569": {
+        "geoid": "702569",
+        "name": "Luts’k",
+        "lat": 50.75932,
+        "lng": 25.34244,
+        "country": "UA",
+        "state": "24",
+        "population": 213661
+    },
+    "702658": {
+        "geoid": "702658",
+        "name": "Luhansk",
+        "lat": 48.56705,
+        "lng": 39.31706,
+        "country": "UA",
+        "state": "14",
+        "population": 452000
+    },
+    "702723": {
+        "geoid": "702723",
+        "name": "Lubny",
+        "lat": 50.01625,
+        "lng": 32.99694,
+        "country": "UA",
+        "state": "18",
+        "population": 52600
+    },
+    "702760": {
+        "geoid": "702760",
+        "name": "Lozova",
+        "lat": 48.88937,
+        "lng": 36.31755,
+        "country": "UA",
+        "state": "07",
+        "population": 62311
+    },
+    "702972": {
+        "geoid": "702972",
+        "name": "Lysychans’k",
+        "lat": 48.90485,
+        "lng": 38.44207,
+        "country": "UA",
+        "state": "14",
+        "population": 111600
+    },
+    "703448": {
+        "geoid": "703448",
+        "name": "Kiev",
+        "lat": 50.45466,
+        "lng": 30.5238,
+        "country": "UA",
+        "state": "12",
+        "population": 2797553
+    },
+    "703845": {
+        "geoid": "703845",
+        "name": "Kryvyi Rih",
+        "lat": 47.90966,
+        "lng": 33.38044,
+        "country": "UA",
+        "state": "04",
+        "population": 652380
+    },
+    "704147": {
+        "geoid": "704147",
+        "name": "Kremenchuk",
+        "lat": 49.06802,
+        "lng": 33.42041,
+        "country": "UA",
+        "state": "18",
+        "population": 227494
+    },
+    "704202": {
+        "geoid": "704202",
+        "name": "Krasnyy Luch",
+        "lat": 48.13954,
+        "lng": 38.93715,
+        "country": "UA",
+        "state": "14",
+        "population": 90005
+    },
+    "704422": {
+        "geoid": "704422",
+        "name": "Krasnoarmiys’k",
+        "lat": 48.28198,
+        "lng": 37.17585,
+        "country": "UA",
+        "state": "05",
+        "population": 68263
+    },
+    "704508": {
+        "geoid": "704508",
+        "name": "Kramators’k",
+        "lat": 48.72305,
+        "lng": 37.55629,
+        "country": "UA",
+        "state": "05",
+        "population": 173700
+    },
+    "704617": {
+        "geoid": "704617",
+        "name": "Kovel’",
+        "lat": 51.21526,
+        "lng": 24.70867,
+        "country": "UA",
+        "state": "24",
+        "population": 66400
+    },
+    "704901": {
+        "geoid": "704901",
+        "name": "Korosten’",
+        "lat": 50.95937,
+        "lng": 28.63855,
+        "country": "UA",
+        "state": "27",
+        "population": 65000
+    },
+    "705104": {
+        "geoid": "705104",
+        "name": "Kostyantynivka",
+        "lat": 48.5277,
+        "lng": 37.7069,
+        "country": "UA",
+        "state": "05",
+        "population": 91259
+    },
+    "705135": {
+        "geoid": "705135",
+        "name": "Konotop",
+        "lat": 51.24032,
+        "lng": 33.20263,
+        "country": "UA",
+        "state": "21",
+        "population": 91798
+    },
+    "705392": {
+        "geoid": "705392",
+        "name": "Kolomyya",
+        "lat": 48.53115,
+        "lng": 25.03649,
+        "country": "UA",
+        "state": "06",
+        "population": 61781
+    },
+    "705812": {
+        "geoid": "705812",
+        "name": "Kirovohrad",
+        "lat": 48.5132,
+        "lng": 32.2597,
+        "country": "UA",
+        "state": "10",
+        "population": 249454
+    },
+    "706369": {
+        "geoid": "706369",
+        "name": "Khmel’nyts’kyy",
+        "lat": 49.42161,
+        "lng": 26.99653,
+        "country": "UA",
+        "state": "09",
+        "population": 398346
+    },
+    "706448": {
+        "geoid": "706448",
+        "name": "Kherson",
+        "lat": 46.65581,
+        "lng": 32.6178,
+        "country": "UA",
+        "state": "08",
+        "population": 320477
+    },
+    "706466": {
+        "geoid": "706466",
+        "name": "Khartsyz’k",
+        "lat": 48.04243,
+        "lng": 38.14728,
+        "country": "UA",
+        "state": "05",
+        "population": 64000
+    },
+    "706483": {
+        "geoid": "706483",
+        "name": "Kharkiv",
+        "lat": 49.98081,
+        "lng": 36.25272,
+        "country": "UA",
+        "state": "07",
+        "population": 1430885
+    },
+    "706524": {
+        "geoid": "706524",
+        "name": "Kerch",
+        "lat": 45.3607,
+        "lng": 36.4706,
+        "country": "UA",
+        "state": "11",
+        "population": 152195
+    },
+    "706950": {
+        "geoid": "706950",
+        "name": "Kamieniec Podolski",
+        "lat": 48.6845,
+        "lng": 26.58559,
+        "country": "UA",
+        "state": "09",
+        "population": 100000
+    },
+    "707099": {
+        "geoid": "707099",
+        "name": "Kalush",
+        "lat": 49.01187,
+        "lng": 24.37308,
+        "country": "UA",
+        "state": "06",
+        "population": 67698
+    },
+    "707292": {
+        "geoid": "707292",
+        "name": "Izyum",
+        "lat": 49.20875,
+        "lng": 37.24849,
+        "country": "UA",
+        "state": "07",
+        "population": 53778
+    },
+    "707308": {
+        "geoid": "707308",
+        "name": "Izmayil",
+        "lat": 45.34929,
+        "lng": 28.84079,
+        "country": "UA",
+        "state": "17",
+        "population": 82485
+    },
+    "707471": {
+        "geoid": "707471",
+        "name": "Ivano-Frankivs’k",
+        "lat": 48.9215,
+        "lng": 24.70972,
+        "country": "UA",
+        "state": "06",
+        "population": 204200
+    },
+    "707688": {
+        "geoid": "707688",
+        "name": "Illichivs’k",
+        "lat": 46.30495,
+        "lng": 30.65478,
+        "country": "UA",
+        "state": "17",
+        "population": 54102
+    },
+    "707753": {
+        "geoid": "707753",
+        "name": "Horlivka",
+        "lat": 48.33576,
+        "lng": 38.05325,
+        "country": "UA",
+        "state": "05",
+        "population": 278550
+    },
+    "709161": {
+        "geoid": "709161",
+        "name": "Feodosiya",
+        "lat": 45.03677,
+        "lng": 35.37789,
+        "country": "UA",
+        "state": "11",
+        "population": 72052
+    },
+    "709248": {
+        "geoid": "709248",
+        "name": "Fastiv",
+        "lat": 50.0767,
+        "lng": 29.9177,
+        "country": "UA",
+        "state": "13",
+        "population": 51143
+    },
+    "709276": {
+        "geoid": "709276",
+        "name": "Energodar",
+        "lat": 47.49865,
+        "lng": 34.6574,
+        "country": "UA",
+        "state": "26",
+        "population": 55800
+    },
+    "709611": {
+        "geoid": "709611",
+        "name": "Drohobych",
+        "lat": 49.34991,
+        "lng": 23.50561,
+        "country": "UA",
+        "state": "15",
+        "population": 79406
+    },
+    "709717": {
+        "geoid": "709717",
+        "name": "Donetsk",
+        "lat": 48.023,
+        "lng": 37.80224,
+        "country": "UA",
+        "state": "05",
+        "population": 1024700
+    },
+    "709930": {
+        "geoid": "709930",
+        "name": "Dnipropetrovsk",
+        "lat": 48.45,
+        "lng": 34.98333,
+        "country": "UA",
+        "state": "04",
+        "population": 1032822
+    },
+    "709932": {
+        "geoid": "709932",
+        "name": "Dniprodzerzhyns’k",
+        "lat": 48.51134,
+        "lng": 34.6021,
+        "country": "UA",
+        "state": "04",
+        "population": 248575
+    },
+    "710554": {
+        "geoid": "710554",
+        "name": "Chervonohrad",
+        "lat": 50.39105,
+        "lng": 24.23514,
+        "country": "UA",
+        "state": "15",
+        "population": 83000
+    },
+    "710719": {
+        "geoid": "710719",
+        "name": "Chernivtsi",
+        "lat": 48.29149,
+        "lng": 25.94034,
+        "country": "UA",
+        "state": "03",
+        "population": 236250
+    },
+    "710735": {
+        "geoid": "710735",
+        "name": "Chernihiv",
+        "lat": 51.50551,
+        "lng": 31.28487,
+        "country": "UA",
+        "state": "02",
+        "population": 307684
+    },
+    "710791": {
+        "geoid": "710791",
+        "name": "Cherkasy",
+        "lat": 49.42854,
+        "lng": 32.06207,
+        "country": "UA",
+        "state": "01",
+        "population": 297568
+    },
+    "711369": {
+        "geoid": "711369",
+        "name": "Bryanka",
+        "lat": 48.511,
+        "lng": 38.67222,
+        "country": "UA",
+        "state": "14",
+        "population": 51921
+    },
+    "711390": {
+        "geoid": "711390",
+        "name": "Brovary",
+        "lat": 50.51809,
+        "lng": 30.80671,
+        "country": "UA",
+        "state": "13",
+        "population": 88506
+    },
+    "711660": {
+        "geoid": "711660",
+        "name": "Boryspil’",
+        "lat": 50.35269,
+        "lng": 30.95501,
+        "country": "UA",
+        "state": "13",
+        "population": 55000
+    },
+    "712160": {
+        "geoid": "712160",
+        "name": "Bilhorod-Dnistrovs’kyy",
+        "lat": 46.1952,
+        "lng": 30.34938,
+        "country": "UA",
+        "state": "17",
+        "population": 50201
+    },
+    "712165": {
+        "geoid": "712165",
+        "name": "Bila Tserkva",
+        "lat": 49.80939,
+        "lng": 30.11209,
+        "country": "UA",
+        "state": "13",
+        "population": 199163
+    },
+    "712441": {
+        "geoid": "712441",
+        "name": "Berdychiv",
+        "lat": 49.89928,
+        "lng": 28.60235,
+        "country": "UA",
+        "state": "27",
+        "population": 86250
+    },
+    "712451": {
+        "geoid": "712451",
+        "name": "Berdyans’k",
+        "lat": 46.76644,
+        "lng": 36.79872,
+        "country": "UA",
+        "state": "26",
+        "population": 118284
+    },
+    "713174": {
+        "geoid": "713174",
+        "name": "Artemivs’k",
+        "lat": 48.59559,
+        "lng": 37.99987,
+        "country": "UA",
+        "state": "05",
+        "population": 80500
+    },
+    "713259": {
+        "geoid": "713259",
+        "name": "Antratsyt",
+        "lat": 48.11503,
+        "lng": 39.09128,
+        "country": "UA",
+        "state": "14",
+        "population": 61600
+    },
+    "713716": {
+        "geoid": "713716",
+        "name": "Alchevs’k",
+        "lat": 48.46893,
+        "lng": 38.81669,
+        "country": "UA",
+        "state": "14",
+        "population": 116000
+    },
+    "6559559": {
+        "geoid": "6559559",
+        "name": "Komsomolsk",
+        "lat": 49.01018,
+        "lng": 33.63567,
+        "country": "UA",
+        "state": "18",
+        "population": 51740
+    }
+}

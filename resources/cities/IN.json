@@ -1,0 +1,7877 @@
+{
+    "1252758": {
+        "geoid": "1252758",
+        "name": "Yelahanka",
+        "lat": 13.10073,
+        "lng": 77.59632,
+        "country": "IN",
+        "state": "19",
+        "population": 116447
+    },
+    "1252770": {
+        "geoid": "1252770",
+        "name": "Yavatmāl",
+        "lat": 20.39324,
+        "lng": 78.13201,
+        "country": "IN",
+        "state": "16",
+        "population": 128175
+    },
+    "1252797": {
+        "geoid": "1252797",
+        "name": "Yamunānagar",
+        "lat": 30.12796,
+        "lng": 77.28371,
+        "country": "IN",
+        "state": "10",
+        "population": 208931
+    },
+    "1252822": {
+        "geoid": "1252822",
+        "name": "Yādgīr",
+        "lat": 16.77007,
+        "lng": 77.13755,
+        "country": "IN",
+        "state": "19",
+        "population": 65376
+    },
+    "1252840": {
+        "geoid": "1252840",
+        "name": "Wokha",
+        "lat": 26.09717,
+        "lng": 94.25817,
+        "country": "IN",
+        "state": "20",
+        "population": 54010
+    },
+    "1252908": {
+        "geoid": "1252908",
+        "name": "Wāshīm",
+        "lat": 20.11128,
+        "lng": 77.133,
+        "country": "IN",
+        "state": "16",
+        "population": 68622
+    },
+    "1252942": {
+        "geoid": "1252942",
+        "name": "Wardha",
+        "lat": 20.73933,
+        "lng": 78.59784,
+        "country": "IN",
+        "state": "16",
+        "population": 113759
+    },
+    "1252948": {
+        "geoid": "1252948",
+        "name": "Warangal",
+        "lat": 18,
+        "lng": 79.58333,
+        "country": "IN",
+        "state": "40",
+        "population": 557802
+    },
+    "1252956": {
+        "geoid": "1252956",
+        "name": "Wanparti",
+        "lat": 16.36738,
+        "lng": 78.06889,
+        "country": "IN",
+        "state": "40",
+        "population": 55182
+    },
+    "1252960": {
+        "geoid": "1252960",
+        "name": "Wani",
+        "lat": 20.05507,
+        "lng": 78.95313,
+        "country": "IN",
+        "state": "16",
+        "population": 57288
+    },
+    "1253079": {
+        "geoid": "1253079",
+        "name": "Vrindāvan",
+        "lat": 27.58105,
+        "lng": 77.69662,
+        "country": "IN",
+        "state": "36",
+        "population": 60195
+    },
+    "1253080": {
+        "geoid": "1253080",
+        "name": "Vriddhāchalam",
+        "lat": 11.51528,
+        "lng": 79.32186,
+        "country": "IN",
+        "state": "25",
+        "population": 61498
+    },
+    "1253084": {
+        "geoid": "1253084",
+        "name": "Vizianagaram",
+        "lat": 18.11692,
+        "lng": 83.41148,
+        "country": "IN",
+        "state": "02",
+        "population": 179358
+    },
+    "1253095": {
+        "geoid": "1253095",
+        "name": "Visnagar",
+        "lat": 23.69855,
+        "lng": 72.5521,
+        "country": "IN",
+        "state": "09",
+        "population": 68619
+    },
+    "1253102": {
+        "geoid": "1253102",
+        "name": "Visakhapatnam",
+        "lat": 17.68009,
+        "lng": 83.20161,
+        "country": "IN",
+        "state": "02",
+        "population": 1063178
+    },
+    "1253113": {
+        "geoid": "1253113",
+        "name": "Virudunagar",
+        "lat": 9.58509,
+        "lng": 77.95787,
+        "country": "IN",
+        "state": "25",
+        "population": 73273
+    },
+    "1253133": {
+        "geoid": "1253133",
+        "name": "Virār",
+        "lat": 19.45591,
+        "lng": 72.81136,
+        "country": "IN",
+        "state": "16",
+        "population": 150357
+    },
+    "1253150": {
+        "geoid": "1253150",
+        "name": "Vinukonda",
+        "lat": 16.0531,
+        "lng": 79.73964,
+        "country": "IN",
+        "state": "02",
+        "population": 61326
+    },
+    "1253166": {
+        "geoid": "1253166",
+        "name": "Villupuram",
+        "lat": 11.93975,
+        "lng": 79.49244,
+        "country": "IN",
+        "state": "25",
+        "population": 97380
+    },
+    "1253184": {
+        "geoid": "1253184",
+        "name": "Vijayawada",
+        "lat": 16.50745,
+        "lng": 80.6466,
+        "country": "IN",
+        "state": "02",
+        "population": 874587
+    },
+    "1253200": {
+        "geoid": "1253200",
+        "name": "Vidisha",
+        "lat": 23.52604,
+        "lng": 77.81092,
+        "country": "IN",
+        "state": "35",
+        "population": 140045
+    },
+    "1253237": {
+        "geoid": "1253237",
+        "name": "Verāval",
+        "lat": 20.9077,
+        "lng": 70.36786,
+        "country": "IN",
+        "state": "09",
+        "population": 163326
+    },
+    "1253286": {
+        "geoid": "1253286",
+        "name": "Vellore",
+        "lat": 12.9184,
+        "lng": 79.13255,
+        "country": "IN",
+        "state": "25",
+        "population": 177081
+    },
+    "1253315": {
+        "geoid": "1253315",
+        "name": "Vejalpur",
+        "lat": 22.69021,
+        "lng": 73.56299,
+        "country": "IN",
+        "state": "09",
+        "population": 121610
+    },
+    "1253367": {
+        "geoid": "1253367",
+        "name": "Vāsco Da Gāma",
+        "lat": 15.39585,
+        "lng": 73.81568,
+        "country": "IN",
+        "state": "33",
+        "population": 100485
+    },
+    "1253405": {
+        "geoid": "1253405",
+        "name": "Varanasi",
+        "lat": 25.31668,
+        "lng": 83.01041,
+        "country": "IN",
+        "state": "36",
+        "population": 1164404
+    },
+    "1253437": {
+        "geoid": "1253437",
+        "name": "Vaniyambadi",
+        "lat": 12.68162,
+        "lng": 78.62014,
+        "country": "IN",
+        "state": "25",
+        "population": 90288
+    },
+    "1253468": {
+        "geoid": "1253468",
+        "name": "Valsād",
+        "lat": 20.61728,
+        "lng": 72.92843,
+        "country": "IN",
+        "state": "09",
+        "population": 72929
+    },
+    "1253472": {
+        "geoid": "1253472",
+        "name": "Valparai",
+        "lat": 10.32691,
+        "lng": 76.95116,
+        "country": "IN",
+        "state": "25",
+        "population": 90353
+    },
+    "1253573": {
+        "geoid": "1253573",
+        "name": "Vadodara",
+        "lat": 22.29941,
+        "lng": 73.20812,
+        "country": "IN",
+        "state": "09",
+        "population": 1409476
+    },
+    "1253736": {
+        "geoid": "1253736",
+        "name": "Upleta",
+        "lat": 21.74015,
+        "lng": 70.28256,
+        "country": "IN",
+        "state": "09",
+        "population": 56354
+    },
+    "1253744": {
+        "geoid": "1253744",
+        "name": "Uppal Kalan",
+        "lat": 17.40577,
+        "lng": 78.55911,
+        "country": "IN",
+        "state": "40",
+        "population": 118259
+    },
+    "1253747": {
+        "geoid": "1253747",
+        "name": "Unnāo",
+        "lat": 26.54706,
+        "lng": 80.48781,
+        "country": "IN",
+        "state": "36",
+        "population": 161671
+    },
+    "1253750": {
+        "geoid": "1253750",
+        "name": "Unjha",
+        "lat": 23.80366,
+        "lng": 72.39101,
+        "country": "IN",
+        "state": "09",
+        "population": 54620
+    },
+    "1253783": {
+        "geoid": "1253783",
+        "name": "Una",
+        "lat": 20.82318,
+        "lng": 71.03795,
+        "country": "IN",
+        "state": "09",
+        "population": 56545
+    },
+    "1253807": {
+        "geoid": "1253807",
+        "name": "Umred",
+        "lat": 20.85396,
+        "lng": 79.32466,
+        "country": "IN",
+        "state": "16",
+        "population": 51794
+    },
+    "1253888": {
+        "geoid": "1253888",
+        "name": "Ullal",
+        "lat": 12.8108,
+        "lng": 74.8629,
+        "country": "IN",
+        "state": "19",
+        "population": 59116
+    },
+    "1253894": {
+        "geoid": "1253894",
+        "name": "Ulhasnagar",
+        "lat": 19.21667,
+        "lng": 73.15,
+        "country": "IN",
+        "state": "16",
+        "population": 516584
+    },
+    "1253914": {
+        "geoid": "1253914",
+        "name": "Ujjain",
+        "lat": 23.18239,
+        "lng": 75.77643,
+        "country": "IN",
+        "state": "35",
+        "population": 457346
+    },
+    "1253918": {
+        "geoid": "1253918",
+        "name": "Ujhāni",
+        "lat": 28.00311,
+        "lng": 79.00821,
+        "country": "IN",
+        "state": "36",
+        "population": 56309
+    },
+    "1253944": {
+        "geoid": "1253944",
+        "name": "Udumalaippettai",
+        "lat": 10.58806,
+        "lng": 77.24779,
+        "country": "IN",
+        "state": "25",
+        "population": 58571
+    },
+    "1253952": {
+        "geoid": "1253952",
+        "name": "Udipi",
+        "lat": 13.33467,
+        "lng": 74.74617,
+        "country": "IN",
+        "state": "19",
+        "population": 129113
+    },
+    "1253956": {
+        "geoid": "1253956",
+        "name": "Udhampur",
+        "lat": 32.92431,
+        "lng": 75.13573,
+        "country": "IN",
+        "state": "12",
+        "population": 80447
+    },
+    "1253958": {
+        "geoid": "1253958",
+        "name": "Udgīr",
+        "lat": 18.39258,
+        "lng": 77.11756,
+        "country": "IN",
+        "state": "16",
+        "population": 101064
+    },
+    "1253986": {
+        "geoid": "1253986",
+        "name": "Udaipur",
+        "lat": 24.57117,
+        "lng": 73.69183,
+        "country": "IN",
+        "state": "24",
+        "population": 422784
+    },
+    "1253993": {
+        "geoid": "1253993",
+        "name": "Ooty",
+        "lat": 11.4134,
+        "lng": 76.69521,
+        "country": "IN",
+        "state": "25",
+        "population": 98238
+    },
+    "1254046": {
+        "geoid": "1254046",
+        "name": "Tura",
+        "lat": 25.51421,
+        "lng": 90.20239,
+        "country": "IN",
+        "state": "18",
+        "population": 63645
+    },
+    "1254054": {
+        "geoid": "1254054",
+        "name": "Tuni",
+        "lat": 17.35905,
+        "lng": 82.54607,
+        "country": "IN",
+        "state": "02",
+        "population": 52658
+    },
+    "1254069": {
+        "geoid": "1254069",
+        "name": "Tūndla",
+        "lat": 27.2146,
+        "lng": 78.23683,
+        "country": "IN",
+        "state": "36",
+        "population": 50939
+    },
+    "1254089": {
+        "geoid": "1254089",
+        "name": "Tumkūr",
+        "lat": 13.34136,
+        "lng": 77.1022,
+        "country": "IN",
+        "state": "19",
+        "population": 307359
+    },
+    "1254163": {
+        "geoid": "1254163",
+        "name": "Thiruvananthapuram",
+        "lat": 8.4855,
+        "lng": 76.94924,
+        "country": "IN",
+        "state": "13",
+        "population": 784153
+    },
+    "1254187": {
+        "geoid": "1254187",
+        "name": "Trichūr",
+        "lat": 10.51667,
+        "lng": 76.21667,
+        "country": "IN",
+        "state": "13",
+        "population": 325110
+    },
+    "1254241": {
+        "geoid": "1254241",
+        "name": "Tonk",
+        "lat": 26.16638,
+        "lng": 75.78824,
+        "country": "IN",
+        "state": "24",
+        "population": 151331
+    },
+    "1254274": {
+        "geoid": "1254274",
+        "name": "Tohāna",
+        "lat": 29.71332,
+        "lng": 75.90441,
+        "country": "IN",
+        "state": "10",
+        "population": 59749
+    },
+    "1254309": {
+        "geoid": "1254309",
+        "name": "Titāgarh",
+        "lat": 22.74252,
+        "lng": 88.37326,
+        "country": "IN",
+        "state": "28",
+        "population": 127751
+    },
+    "1254320": {
+        "geoid": "1254320",
+        "name": "Tiruvottiyūr",
+        "lat": 13.15823,
+        "lng": 80.30181,
+        "country": "IN",
+        "state": "25",
+        "population": 248059
+    },
+    "1254327": {
+        "geoid": "1254327",
+        "name": "Tiruvannāmalai",
+        "lat": 12.22662,
+        "lng": 79.07461,
+        "country": "IN",
+        "state": "25",
+        "population": 138243
+    },
+    "1254335": {
+        "geoid": "1254335",
+        "name": "Tiruvalla",
+        "lat": 9.3816,
+        "lng": 76.57489,
+        "country": "IN",
+        "state": "13",
+        "population": 57223
+    },
+    "1254343": {
+        "geoid": "1254343",
+        "name": "Tiruttangal",
+        "lat": 9.48333,
+        "lng": 77.83333,
+        "country": "IN",
+        "state": "25",
+        "population": 54499
+    },
+    "1254346": {
+        "geoid": "1254346",
+        "name": "Tirur",
+        "lat": 10.91368,
+        "lng": 75.92118,
+        "country": "IN",
+        "state": "13",
+        "population": 54934
+    },
+    "1254348": {
+        "geoid": "1254348",
+        "name": "Tiruppur",
+        "lat": 11.11541,
+        "lng": 77.35456,
+        "country": "IN",
+        "state": "25",
+        "population": 397521
+    },
+    "1254360": {
+        "geoid": "1254360",
+        "name": "Tirupati",
+        "lat": 13.63551,
+        "lng": 79.41989,
+        "country": "IN",
+        "state": "02",
+        "population": 250821
+    },
+    "1254361": {
+        "geoid": "1254361",
+        "name": "Tirunelveli",
+        "lat": 8.72518,
+        "lng": 77.68452,
+        "country": "IN",
+        "state": "25",
+        "population": 435844
+    },
+    "1254385": {
+        "geoid": "1254385",
+        "name": "Tiruchengode",
+        "lat": 11.38016,
+        "lng": 77.89444,
+        "country": "IN",
+        "state": "25",
+        "population": 87123
+    },
+    "1254388": {
+        "geoid": "1254388",
+        "name": "Tiruchirappalli",
+        "lat": 10.8155,
+        "lng": 78.69651,
+        "country": "IN",
+        "state": "25",
+        "population": 775484
+    },
+    "1254420": {
+        "geoid": "1254420",
+        "name": "Tiptūr",
+        "lat": 13.2563,
+        "lng": 76.47768,
+        "country": "IN",
+        "state": "19",
+        "population": 60957
+    },
+    "1254432": {
+        "geoid": "1254432",
+        "name": "Tinsukia",
+        "lat": 27.48905,
+        "lng": 95.35992,
+        "country": "IN",
+        "state": "03",
+        "population": 89373
+    },
+    "1254444": {
+        "geoid": "1254444",
+        "name": "Tindivanam",
+        "lat": 12.234,
+        "lng": 79.65551,
+        "country": "IN",
+        "state": "25",
+        "population": 69839
+    },
+    "1254481": {
+        "geoid": "1254481",
+        "name": "Tilhar",
+        "lat": 27.96282,
+        "lng": 79.73827,
+        "country": "IN",
+        "state": "36",
+        "population": 57043
+    },
+    "1254534": {
+        "geoid": "1254534",
+        "name": "Tīkamgarh",
+        "lat": 24.74327,
+        "lng": 78.83061,
+        "country": "IN",
+        "state": "35",
+        "population": 74724
+    },
+    "1254589": {
+        "geoid": "1254589",
+        "name": "Thiruvarur",
+        "lat": 10.77269,
+        "lng": 79.6368,
+        "country": "IN",
+        "state": "25",
+        "population": 58777
+    },
+    "1254649": {
+        "geoid": "1254649",
+        "name": "Thanjāvūr",
+        "lat": 10.78523,
+        "lng": 79.13909,
+        "country": "IN",
+        "state": "25",
+        "population": 219571
+    },
+    "1254657": {
+        "geoid": "1254657",
+        "name": "Thānesar",
+        "lat": 29.97323,
+        "lng": 76.83214,
+        "country": "IN",
+        "state": "10",
+        "population": 138279
+    },
+    "1254661": {
+        "geoid": "1254661",
+        "name": "Thāne",
+        "lat": 19.19704,
+        "lng": 72.96355,
+        "country": "IN",
+        "state": "16",
+        "population": 1261517
+    },
+    "1254710": {
+        "geoid": "1254710",
+        "name": "Tezpur",
+        "lat": 26.63333,
+        "lng": 92.8,
+        "country": "IN",
+        "state": "03",
+        "population": 58851
+    },
+    "1254744": {
+        "geoid": "1254744",
+        "name": "Thenkasi",
+        "lat": 8.96003,
+        "lng": 77.31525,
+        "country": "IN",
+        "state": "25",
+        "population": 65496
+    },
+    "1254745": {
+        "geoid": "1254745",
+        "name": "Teni",
+        "lat": 10.01531,
+        "lng": 77.482,
+        "country": "IN",
+        "state": "25",
+        "population": 1034724
+    },
+    "1254780": {
+        "geoid": "1254780",
+        "name": "Tellicherry",
+        "lat": 11.74811,
+        "lng": 75.4929,
+        "country": "IN",
+        "state": "13",
+        "population": 97201
+    },
+    "1254868": {
+        "geoid": "1254868",
+        "name": "Tarn Tāran",
+        "lat": 31.45191,
+        "lng": 74.92777,
+        "country": "IN",
+        "state": "23",
+        "population": 58585
+    },
+    "1254953": {
+        "geoid": "1254953",
+        "name": "Tanuku",
+        "lat": 16.75438,
+        "lng": 81.68143,
+        "country": "IN",
+        "state": "02",
+        "population": 68290
+    },
+    "1255004": {
+        "geoid": "1255004",
+        "name": "Tāndūr",
+        "lat": 17.24849,
+        "lng": 77.57698,
+        "country": "IN",
+        "state": "40",
+        "population": 63239
+    },
+    "1255024": {
+        "geoid": "1255024",
+        "name": "Tāndā",
+        "lat": 26.54953,
+        "lng": 82.65841,
+        "country": "IN",
+        "state": "36",
+        "population": 88073
+    },
+    "1255121": {
+        "geoid": "1255121",
+        "name": "Talipparamba",
+        "lat": 12.04161,
+        "lng": 75.35927,
+        "country": "IN",
+        "state": "13",
+        "population": 69878
+    },
+    "1255254": {
+        "geoid": "1255254",
+        "name": "Tādpatri",
+        "lat": 14.90813,
+        "lng": 78.01108,
+        "country": "IN",
+        "state": "02",
+        "population": 93044
+    },
+    "1255264": {
+        "geoid": "1255264",
+        "name": "Tādepallegūdem",
+        "lat": 16.81467,
+        "lng": 81.52717,
+        "country": "IN",
+        "state": "02",
+        "population": 108167
+    },
+    "1255344": {
+        "geoid": "1255344",
+        "name": "Suriāpet",
+        "lat": 17.14054,
+        "lng": 79.62045,
+        "country": "IN",
+        "state": "40",
+        "population": 111729
+    },
+    "1255349": {
+        "geoid": "1255349",
+        "name": "Surendranagar",
+        "lat": 22.72706,
+        "lng": 71.64856,
+        "country": "IN",
+        "state": "09",
+        "population": 179628
+    },
+    "1255361": {
+        "geoid": "1255361",
+        "name": "Sūratgarh",
+        "lat": 29.3215,
+        "lng": 73.89979,
+        "country": "IN",
+        "state": "24",
+        "population": 63153
+    },
+    "1255364": {
+        "geoid": "1255364",
+        "name": "Sūrat",
+        "lat": 21.19594,
+        "lng": 72.83023,
+        "country": "IN",
+        "state": "09",
+        "population": 2894504
+    },
+    "1255396": {
+        "geoid": "1255396",
+        "name": "Supaul",
+        "lat": 26.11503,
+        "lng": 86.59527,
+        "country": "IN",
+        "state": "34",
+        "population": 60020
+    },
+    "1255449": {
+        "geoid": "1255449",
+        "name": "Sunām",
+        "lat": 30.12883,
+        "lng": 75.79943,
+        "country": "IN",
+        "state": "23",
+        "population": 53647
+    },
+    "1255491": {
+        "geoid": "1255491",
+        "name": "Sultānpur",
+        "lat": 26.25788,
+        "lng": 82.07269,
+        "country": "IN",
+        "state": "36",
+        "population": 110368
+    },
+    "1255560": {
+        "geoid": "1255560",
+        "name": "Sūjāngarh",
+        "lat": 27.7,
+        "lng": 74.46667,
+        "country": "IN",
+        "state": "24",
+        "population": 183808
+    },
+    "1255616": {
+        "geoid": "1255616",
+        "name": "Srivilliputhur",
+        "lat": 9.51272,
+        "lng": 77.63369,
+        "country": "IN",
+        "state": "25",
+        "population": 74370
+    },
+    "1255634": {
+        "geoid": "1255634",
+        "name": "Srinagar",
+        "lat": 34.08565,
+        "lng": 74.80555,
+        "country": "IN",
+        "state": "12",
+        "population": 975857
+    },
+    "1255647": {
+        "geoid": "1255647",
+        "name": "Chicacole",
+        "lat": 18.2989,
+        "lng": 83.89751,
+        "country": "IN",
+        "state": "02",
+        "population": 118299
+    },
+    "1255714": {
+        "geoid": "1255714",
+        "name": "Sopur",
+        "lat": 34.28671,
+        "lng": 74.47228,
+        "country": "IN",
+        "state": "12",
+        "population": 63035
+    },
+    "1255744": {
+        "geoid": "1255744",
+        "name": "Sonīpat",
+        "lat": 28.99478,
+        "lng": 77.01937,
+        "country": "IN",
+        "state": "10",
+        "population": 250521
+    },
+    "1255927": {
+        "geoid": "1255927",
+        "name": "Siwān",
+        "lat": 26.22096,
+        "lng": 84.35609,
+        "country": "IN",
+        "state": "34",
+        "population": 119181
+    },
+    "1255947": {
+        "geoid": "1255947",
+        "name": "Sivakasi",
+        "lat": 9.44999,
+        "lng": 77.79797,
+        "country": "IN",
+        "state": "25",
+        "population": 74282
+    },
+    "1255955": {
+        "geoid": "1255955",
+        "name": "Siuri",
+        "lat": 23.90806,
+        "lng": 87.52773,
+        "country": "IN",
+        "state": "28",
+        "population": 64659
+    },
+    "1255969": {
+        "geoid": "1255969",
+        "name": "Sītāpur",
+        "lat": 27.56192,
+        "lng": 80.68265,
+        "country": "IN",
+        "state": "36",
+        "population": 164435
+    },
+    "1255983": {
+        "geoid": "1255983",
+        "name": "Sītāmarhi",
+        "lat": 26.59357,
+        "lng": 85.4906,
+        "country": "IN",
+        "state": "34",
+        "population": 57095
+    },
+    "1256039": {
+        "geoid": "1256039",
+        "name": "Sirsilla",
+        "lat": 18.38865,
+        "lng": 78.81048,
+        "country": "IN",
+        "state": "40",
+        "population": 71499
+    },
+    "1256047": {
+        "geoid": "1256047",
+        "name": "Sirsi",
+        "lat": 14.62072,
+        "lng": 74.83554,
+        "country": "IN",
+        "state": "19",
+        "population": 61607
+    },
+    "1256052": {
+        "geoid": "1256052",
+        "name": "Sirsa",
+        "lat": 29.53489,
+        "lng": 75.02898,
+        "country": "IN",
+        "state": "10",
+        "population": 181639
+    },
+    "1256087": {
+        "geoid": "1256087",
+        "name": "Sirhind",
+        "lat": 30.64321,
+        "lng": 76.38421,
+        "country": "IN",
+        "state": "23",
+        "population": 60847
+    },
+    "1256104": {
+        "geoid": "1256104",
+        "name": "Sīra",
+        "lat": 13.74155,
+        "lng": 76.9043,
+        "country": "IN",
+        "state": "19",
+        "population": 57928
+    },
+    "1256207": {
+        "geoid": "1256207",
+        "name": "Sindhnūr",
+        "lat": 15.76983,
+        "lng": 76.75581,
+        "country": "IN",
+        "state": "19",
+        "population": 68793
+    },
+    "1256237": {
+        "geoid": "1256237",
+        "name": "Shimla",
+        "lat": 31.10442,
+        "lng": 77.16662,
+        "country": "IN",
+        "state": "11",
+        "population": 173503
+    },
+    "1256269": {
+        "geoid": "1256269",
+        "name": "Sillod",
+        "lat": 20.30303,
+        "lng": 75.65284,
+        "country": "IN",
+        "state": "16",
+        "population": 51042
+    },
+    "1256287": {
+        "geoid": "1256287",
+        "name": "Silchar",
+        "lat": 24.82733,
+        "lng": 92.79787,
+        "country": "IN",
+        "state": "03",
+        "population": 152393
+    },
+    "1256320": {
+        "geoid": "1256320",
+        "name": "Sīkar",
+        "lat": 27.61206,
+        "lng": 75.13996,
+        "country": "IN",
+        "state": "24",
+        "population": 199932
+    },
+    "1256329": {
+        "geoid": "1256329",
+        "name": "Sikandarābād",
+        "lat": 28.45226,
+        "lng": 77.70004,
+        "country": "IN",
+        "state": "36",
+        "population": 73379
+    },
+    "1256343": {
+        "geoid": "1256343",
+        "name": "Sihor",
+        "lat": 21.71134,
+        "lng": 71.96179,
+        "country": "IN",
+        "state": "09",
+        "population": 52603
+    },
+    "1256369": {
+        "geoid": "1256369",
+        "name": "Sidhi",
+        "lat": 24.4038,
+        "lng": 81.87954,
+        "country": "IN",
+        "state": "35",
+        "population": 54242
+    },
+    "1256377": {
+        "geoid": "1256377",
+        "name": "Siddipet",
+        "lat": 18.10483,
+        "lng": 78.84858,
+        "country": "IN",
+        "state": "40",
+        "population": 64562
+    },
+    "1256382": {
+        "geoid": "1256382",
+        "name": "Siddhapur",
+        "lat": 23.91783,
+        "lng": 72.37212,
+        "country": "IN",
+        "state": "09",
+        "population": 54313
+    },
+    "1256388": {
+        "geoid": "1256388",
+        "name": "Sibsāgar",
+        "lat": 26.98427,
+        "lng": 94.63784,
+        "country": "IN",
+        "state": "03",
+        "population": 62104
+    },
+    "1256409": {
+        "geoid": "1256409",
+        "name": "Shyamnagar",
+        "lat": 22.83333,
+        "lng": 88.36667,
+        "country": "IN",
+        "state": "28",
+        "population": 441956
+    },
+    "1256422": {
+        "geoid": "1256422",
+        "name": "Shrīrāmpur",
+        "lat": 22.75278,
+        "lng": 88.34222,
+        "country": "IN",
+        "state": "28",
+        "population": 226317
+    },
+    "1256436": {
+        "geoid": "1256436",
+        "name": "Solāpur",
+        "lat": 17.67152,
+        "lng": 75.91044,
+        "country": "IN",
+        "state": "16",
+        "population": 997281
+    },
+    "1256451": {
+        "geoid": "1256451",
+        "name": "Shivpuri",
+        "lat": 25.42378,
+        "lng": 77.66223,
+        "country": "IN",
+        "state": "35",
+        "population": 164215
+    },
+    "1256475": {
+        "geoid": "1256475",
+        "name": "Shirpur",
+        "lat": 21.34821,
+        "lng": 74.88035,
+        "country": "IN",
+        "state": "16",
+        "population": 69540
+    },
+    "1256515": {
+        "geoid": "1256515",
+        "name": "Shimoga",
+        "lat": 13.93157,
+        "lng": 75.56791,
+        "country": "IN",
+        "state": "19",
+        "population": 319550
+    },
+    "1256523": {
+        "geoid": "1256523",
+        "name": "Shillong",
+        "lat": 25.56892,
+        "lng": 91.88313,
+        "country": "IN",
+        "state": "18",
+        "population": 132842
+    },
+    "1256525": {
+        "geoid": "1256525",
+        "name": "Shiliguri",
+        "lat": 26.71004,
+        "lng": 88.42851,
+        "country": "IN",
+        "state": "28",
+        "population": 515574
+    },
+    "1256529": {
+        "geoid": "1256529",
+        "name": "Shikohābād",
+        "lat": 27.108,
+        "lng": 78.58661,
+        "country": "IN",
+        "state": "36",
+        "population": 99678
+    },
+    "1256569": {
+        "geoid": "1256569",
+        "name": "Sherkot",
+        "lat": 29.32704,
+        "lng": 78.57429,
+        "country": "IN",
+        "state": "36",
+        "population": 57361
+    },
+    "1256593": {
+        "geoid": "1256593",
+        "name": "Sheopur",
+        "lat": 25.66472,
+        "lng": 76.69616,
+        "country": "IN",
+        "state": "35",
+        "population": 62416
+    },
+    "1256620": {
+        "geoid": "1256620",
+        "name": "Shegaon",
+        "lat": 20.7932,
+        "lng": 76.69921,
+        "country": "IN",
+        "state": "16",
+        "population": 56449
+    },
+    "1256639": {
+        "geoid": "1256639",
+        "name": "Shāntipur",
+        "lat": 23.24723,
+        "lng": 88.43302,
+        "country": "IN",
+        "state": "28",
+        "population": 149983
+    },
+    "1256671": {
+        "geoid": "1256671",
+        "name": "Shāmli",
+        "lat": 29.4497,
+        "lng": 77.30959,
+        "country": "IN",
+        "state": "36",
+        "population": 97966
+    },
+    "1256693": {
+        "geoid": "1256693",
+        "name": "Shājāpur",
+        "lat": 23.42637,
+        "lng": 76.27775,
+        "country": "IN",
+        "state": "35",
+        "population": 53346
+    },
+    "1256728": {
+        "geoid": "1256728",
+        "name": "Shāhjānpur",
+        "lat": 27.88165,
+        "lng": 79.90918,
+        "country": "IN",
+        "state": "36",
+        "population": 320434
+    },
+    "1256739": {
+        "geoid": "1256739",
+        "name": "Shahdol",
+        "lat": 23.29356,
+        "lng": 81.3619,
+        "country": "IN",
+        "state": "35",
+        "population": 89289
+    },
+    "1256750": {
+        "geoid": "1256750",
+        "name": "Shāhāda",
+        "lat": 21.54538,
+        "lng": 74.47106,
+        "country": "IN",
+        "state": "16",
+        "population": 58402
+    },
+    "1256755": {
+        "geoid": "1256755",
+        "name": "Shāhābād",
+        "lat": 27.6431,
+        "lng": 79.9402,
+        "country": "IN",
+        "state": "36",
+        "population": 73606
+    },
+    "1256759": {
+        "geoid": "1256759",
+        "name": "Shāhābād",
+        "lat": 17.1307,
+        "lng": 76.94361,
+        "country": "IN",
+        "state": "19",
+        "population": 52952
+    },
+    "1256826": {
+        "geoid": "1256826",
+        "name": "Seoni",
+        "lat": 22.08503,
+        "lng": 79.55037,
+        "country": "IN",
+        "state": "35",
+        "population": 101379
+    },
+    "1256854": {
+        "geoid": "1256854",
+        "name": "Sendhwa",
+        "lat": 21.68562,
+        "lng": 75.09622,
+        "country": "IN",
+        "state": "35",
+        "population": 54530
+    },
+    "1256913": {
+        "geoid": "1256913",
+        "name": "Sehore",
+        "lat": 23.2,
+        "lng": 77.08333,
+        "country": "IN",
+        "state": "35",
+        "population": 99284
+    },
+    "1256922": {
+        "geoid": "1256922",
+        "name": "Secunderabad",
+        "lat": 17.50427,
+        "lng": 78.54263,
+        "country": "IN",
+        "state": "40",
+        "population": 204182
+    },
+    "1256949": {
+        "geoid": "1256949",
+        "name": "Sawāi Mādhopur",
+        "lat": 26.02301,
+        "lng": 76.34408,
+        "country": "IN",
+        "state": "24",
+        "population": 108612
+    },
+    "1257001": {
+        "geoid": "1257001",
+        "name": "Sattenapalle",
+        "lat": 16.39381,
+        "lng": 80.15221,
+        "country": "IN",
+        "state": "02",
+        "population": 53603
+    },
+    "1257022": {
+        "geoid": "1257022",
+        "name": "Satna",
+        "lat": 24.57726,
+        "lng": 80.82719,
+        "country": "IN",
+        "state": "35",
+        "population": 257778
+    },
+    "1257055": {
+        "geoid": "1257055",
+        "name": "Sātāra",
+        "lat": 17.68589,
+        "lng": 73.99333,
+        "country": "IN",
+        "state": "16",
+        "population": 112793
+    },
+    "1257198": {
+        "geoid": "1257198",
+        "name": "Sardārshahr",
+        "lat": 28.44062,
+        "lng": 74.491,
+        "country": "IN",
+        "state": "24",
+        "population": 86672
+    },
+    "1257402": {
+        "geoid": "1257402",
+        "name": "Sangrūr",
+        "lat": 30.24506,
+        "lng": 75.84488,
+        "country": "IN",
+        "state": "23",
+        "population": 88615
+    },
+    "1257416": {
+        "geoid": "1257416",
+        "name": "Sāngli",
+        "lat": 16.85438,
+        "lng": 74.56417,
+        "country": "IN",
+        "state": "16",
+        "population": 601214
+    },
+    "1257431": {
+        "geoid": "1257431",
+        "name": "Sangāreddi",
+        "lat": 17.62477,
+        "lng": 78.08669,
+        "country": "IN",
+        "state": "40",
+        "population": 59199
+    },
+    "1257436": {
+        "geoid": "1257436",
+        "name": "Sangamner",
+        "lat": 19.56784,
+        "lng": 74.21154,
+        "country": "IN",
+        "state": "16",
+        "population": 67309
+    },
+    "1257459": {
+        "geoid": "1257459",
+        "name": "Sandīla",
+        "lat": 27.06989,
+        "lng": 80.51497,
+        "country": "IN",
+        "state": "36",
+        "population": 53182
+    },
+    "1257540": {
+        "geoid": "1257540",
+        "name": "Sambhal",
+        "lat": 28.58498,
+        "lng": 78.56959,
+        "country": "IN",
+        "state": "36",
+        "population": 196109
+    },
+    "1257542": {
+        "geoid": "1257542",
+        "name": "Sambalpur",
+        "lat": 21.46527,
+        "lng": 83.97573,
+        "country": "IN",
+        "state": "21",
+        "population": 162887
+    },
+    "1257551": {
+        "geoid": "1257551",
+        "name": "Samāstipur",
+        "lat": 25.86222,
+        "lng": 85.77953,
+        "country": "IN",
+        "state": "34",
+        "population": 57575
+    },
+    "1257565": {
+        "geoid": "1257565",
+        "name": "Sāmalkot",
+        "lat": 17.05675,
+        "lng": 82.17639,
+        "country": "IN",
+        "state": "02",
+        "population": 55097
+    },
+    "1257587": {
+        "geoid": "1257587",
+        "name": "Sālūr",
+        "lat": 18.51716,
+        "lng": 83.20548,
+        "country": "IN",
+        "state": "02",
+        "population": 50206
+    },
+    "1257629": {
+        "geoid": "1257629",
+        "name": "Salem",
+        "lat": 11.65117,
+        "lng": 78.15867,
+        "country": "IN",
+        "state": "25",
+        "population": 778396
+    },
+    "1257794": {
+        "geoid": "1257794",
+        "name": "Sāhibganj",
+        "lat": 25.24425,
+        "lng": 87.63481,
+        "country": "IN",
+        "state": "38",
+        "population": 95890
+    },
+    "1257800": {
+        "geoid": "1257800",
+        "name": "Sahaswān",
+        "lat": 28.07227,
+        "lng": 78.75082,
+        "country": "IN",
+        "state": "36",
+        "population": 60953
+    },
+    "1257804": {
+        "geoid": "1257804",
+        "name": "Saharsa",
+        "lat": 25.87498,
+        "lng": 86.59611,
+        "country": "IN",
+        "state": "34",
+        "population": 145764
+    },
+    "1257806": {
+        "geoid": "1257806",
+        "name": "Sahāranpur",
+        "lat": 29.9679,
+        "lng": 77.54522,
+        "country": "IN",
+        "state": "36",
+        "population": 484873
+    },
+    "1257845": {
+        "geoid": "1257845",
+        "name": "Saugor",
+        "lat": 23.83877,
+        "lng": 78.73874,
+        "country": "IN",
+        "state": "35",
+        "population": 247333
+    },
+    "1257851": {
+        "geoid": "1257851",
+        "name": "Sāgar",
+        "lat": 14.16498,
+        "lng": 75.02901,
+        "country": "IN",
+        "state": "19",
+        "population": 53150
+    },
+    "1257951": {
+        "geoid": "1257951",
+        "name": "Ropar",
+        "lat": 30.96896,
+        "lng": 76.52695,
+        "country": "IN",
+        "state": "23",
+        "population": 52313
+    },
+    "1258044": {
+        "geoid": "1258044",
+        "name": "Roorkee",
+        "lat": 29.86632,
+        "lng": 77.89118,
+        "country": "IN",
+        "state": "39",
+        "population": 103894
+    },
+    "1258076": {
+        "geoid": "1258076",
+        "name": "Rohtak",
+        "lat": 28.89447,
+        "lng": 76.58917,
+        "country": "IN",
+        "state": "10",
+        "population": 317245
+    },
+    "1258099": {
+        "geoid": "1258099",
+        "name": "Roha",
+        "lat": 18.43687,
+        "lng": 73.11964,
+        "country": "IN",
+        "state": "16",
+        "population": 90000
+    },
+    "1258109": {
+        "geoid": "1258109",
+        "name": "Robertsonpet",
+        "lat": 12.95629,
+        "lng": 78.27543,
+        "country": "IN",
+        "state": "19",
+        "population": 135218
+    },
+    "1258126": {
+        "geoid": "1258126",
+        "name": "Rishra",
+        "lat": 22.72394,
+        "lng": 88.34563,
+        "country": "IN",
+        "state": "28",
+        "population": 117014
+    },
+    "1258128": {
+        "geoid": "1258128",
+        "name": "Rishīkesh",
+        "lat": 30.10778,
+        "lng": 78.29255,
+        "country": "IN",
+        "state": "39",
+        "population": 66390
+    },
+    "1258178": {
+        "geoid": "1258178",
+        "name": "Rewāri",
+        "lat": 28.199,
+        "lng": 76.6183,
+        "country": "IN",
+        "state": "10",
+        "population": 112079
+    },
+    "1258182": {
+        "geoid": "1258182",
+        "name": "Rewa",
+        "lat": 24.53256,
+        "lng": 81.29234,
+        "country": "IN",
+        "state": "35",
+        "population": 208461
+    },
+    "1258207": {
+        "geoid": "1258207",
+        "name": "Renukūt",
+        "lat": 24.21641,
+        "lng": 83.0358,
+        "country": "IN",
+        "state": "36",
+        "population": 62413
+    },
+    "1258290": {
+        "geoid": "1258290",
+        "name": "Rāyadrug",
+        "lat": 14.69971,
+        "lng": 76.85241,
+        "country": "IN",
+        "state": "02",
+        "population": 59968
+    },
+    "1258291": {
+        "geoid": "1258291",
+        "name": "Rāyachoti",
+        "lat": 14.0568,
+        "lng": 78.75127,
+        "country": "IN",
+        "state": "02",
+        "population": 81433
+    },
+    "1258338": {
+        "geoid": "1258338",
+        "name": "Ratnagiri",
+        "lat": 16.99154,
+        "lng": 73.31022,
+        "country": "IN",
+        "state": "16",
+        "population": 75986
+    },
+    "1258342": {
+        "geoid": "1258342",
+        "name": "Ratlām",
+        "lat": 23.33033,
+        "lng": 75.04032,
+        "country": "IN",
+        "state": "35",
+        "population": 236843
+    },
+    "1258352": {
+        "geoid": "1258352",
+        "name": "Rāth",
+        "lat": 25.59474,
+        "lng": 79.5666,
+        "country": "IN",
+        "state": "36",
+        "population": 61728
+    },
+    "1258366": {
+        "geoid": "1258366",
+        "name": "Ratangarh",
+        "lat": 28.08137,
+        "lng": 74.61854,
+        "country": "IN",
+        "state": "24",
+        "population": 66625
+    },
+    "1258470": {
+        "geoid": "1258470",
+        "name": "Rānīganj",
+        "lat": 23.6164,
+        "lng": 87.13061,
+        "country": "IN",
+        "state": "28",
+        "population": 131261
+    },
+    "1258474": {
+        "geoid": "1258474",
+        "name": "Rānībennur",
+        "lat": 14.62239,
+        "lng": 75.62951,
+        "country": "IN",
+        "state": "19",
+        "population": 99105
+    },
+    "1258526": {
+        "geoid": "1258526",
+        "name": "Ranchi",
+        "lat": 23.34316,
+        "lng": 85.3094,
+        "country": "IN",
+        "state": "38",
+        "population": 846454
+    },
+    "1258546": {
+        "geoid": "1258546",
+        "name": "Rānāghāt",
+        "lat": 23.17623,
+        "lng": 88.56667,
+        "country": "IN",
+        "state": "28",
+        "population": 70984
+    },
+    "1258581": {
+        "geoid": "1258581",
+        "name": "Rampur Hat",
+        "lat": 24.17737,
+        "lng": 87.78275,
+        "country": "IN",
+        "state": "28",
+        "population": 53468
+    },
+    "1258599": {
+        "geoid": "1258599",
+        "name": "Rāmpur",
+        "lat": 28.81014,
+        "lng": 79.02699,
+        "country": "IN",
+        "state": "36",
+        "population": 296418
+    },
+    "1258637": {
+        "geoid": "1258637",
+        "name": "Rāmnagar",
+        "lat": 29.3925,
+        "lng": 79.1283,
+        "country": "IN",
+        "state": "39",
+        "population": 51244
+    },
+    "1258662": {
+        "geoid": "1258662",
+        "name": "Rāmgundam",
+        "lat": 18.80084,
+        "lng": 79.45206,
+        "country": "IN",
+        "state": "40",
+        "population": 452261
+    },
+    "1258686": {
+        "geoid": "1258686",
+        "name": "Rāmgarh",
+        "lat": 23.63018,
+        "lng": 85.51926,
+        "country": "IN",
+        "state": "38",
+        "population": 83833
+    },
+    "1258740": {
+        "geoid": "1258740",
+        "name": "Ramanathapuram",
+        "lat": 9.37158,
+        "lng": 78.83077,
+        "country": "IN",
+        "state": "25",
+        "population": 65314
+    },
+    "1258744": {
+        "geoid": "1258744",
+        "name": "Rāmanagaram",
+        "lat": 12.72031,
+        "lng": 77.28176,
+        "country": "IN",
+        "state": "19",
+        "population": 93528
+    },
+    "1258797": {
+        "geoid": "1258797",
+        "name": "Rājsamand",
+        "lat": 25.07145,
+        "lng": 73.8798,
+        "country": "IN",
+        "state": "24",
+        "population": 63414
+    },
+    "1258803": {
+        "geoid": "1258803",
+        "name": "Rājpura",
+        "lat": 30.47856,
+        "lng": 76.59284,
+        "country": "IN",
+        "state": "23",
+        "population": 86820
+    },
+    "1258831": {
+        "geoid": "1258831",
+        "name": "Rāj-Nāndgaon",
+        "lat": 21.09687,
+        "lng": 81.0289,
+        "country": "IN",
+        "state": "37",
+        "population": 150755
+    },
+    "1258847": {
+        "geoid": "1258847",
+        "name": "Rājkot",
+        "lat": 22.29161,
+        "lng": 70.79322,
+        "country": "IN",
+        "state": "09",
+        "population": 1177362
+    },
+    "1258916": {
+        "geoid": "1258916",
+        "name": "Rajapalaiyam",
+        "lat": 9.45296,
+        "lng": 77.55335,
+        "country": "IN",
+        "state": "25",
+        "population": 124168
+    },
+    "1258932": {
+        "geoid": "1258932",
+        "name": "Rājahmundry",
+        "lat": 17.00517,
+        "lng": 81.77784,
+        "country": "IN",
+        "state": "02",
+        "population": 304804
+    },
+    "1258980": {
+        "geoid": "1258980",
+        "name": "Raipur",
+        "lat": 21.23333,
+        "lng": 81.63333,
+        "country": "IN",
+        "state": "37",
+        "population": 679995
+    },
+    "1259005": {
+        "geoid": "1259005",
+        "name": "Raigarh",
+        "lat": 21.89764,
+        "lng": 83.3966,
+        "country": "IN",
+        "state": "37",
+        "population": 121278
+    },
+    "1259009": {
+        "geoid": "1259009",
+        "name": "Rāiganj",
+        "lat": 25.61281,
+        "lng": 88.12449,
+        "country": "IN",
+        "state": "28",
+        "population": 170252
+    },
+    "1259012": {
+        "geoid": "1259012",
+        "name": "Rāichūr",
+        "lat": 16.20546,
+        "lng": 77.35567,
+        "country": "IN",
+        "state": "19",
+        "population": 225962
+    },
+    "1259056": {
+        "geoid": "1259056",
+        "name": "Rāghogarh",
+        "lat": 24.44318,
+        "lng": 77.19768,
+        "country": "IN",
+        "state": "35",
+        "population": 63873
+    },
+    "1259064": {
+        "geoid": "1259064",
+        "name": "Raebareli",
+        "lat": 26.2309,
+        "lng": 81.23315,
+        "country": "IN",
+        "state": "36",
+        "population": 186433
+    },
+    "1259083": {
+        "geoid": "1259083",
+        "name": "Rabkavi",
+        "lat": 16.47567,
+        "lng": 75.1106,
+        "country": "IN",
+        "state": "19",
+        "population": 73835
+    },
+    "1259091": {
+        "geoid": "1259091",
+        "name": "Kollam",
+        "lat": 8.88113,
+        "lng": 76.58469,
+        "country": "IN",
+        "state": "13",
+        "population": 394163
+    },
+    "1259124": {
+        "geoid": "1259124",
+        "name": "Puttūr",
+        "lat": 12.75975,
+        "lng": 75.20169,
+        "country": "IN",
+        "state": "19",
+        "population": 53331
+    },
+    "1259154": {
+        "geoid": "1259154",
+        "name": "Pusad",
+        "lat": 19.91274,
+        "lng": 77.57838,
+        "country": "IN",
+        "state": "16",
+        "population": 71588
+    },
+    "1259163": {
+        "geoid": "1259163",
+        "name": "Puruliya",
+        "lat": 23.33062,
+        "lng": 86.36303,
+        "country": "IN",
+        "state": "28",
+        "population": 122533
+    },
+    "1259166": {
+        "geoid": "1259166",
+        "name": "Purnia",
+        "lat": 25.77895,
+        "lng": 87.47422,
+        "country": "IN",
+        "state": "34",
+        "population": 198453
+    },
+    "1259184": {
+        "geoid": "1259184",
+        "name": "Puri",
+        "lat": 19.79825,
+        "lng": 85.82494,
+        "country": "IN",
+        "state": "21",
+        "population": 170841
+    },
+    "1259229": {
+        "geoid": "1259229",
+        "name": "Pune",
+        "lat": 18.51957,
+        "lng": 73.85535,
+        "country": "IN",
+        "state": "16",
+        "population": 2935744
+    },
+    "1259239": {
+        "geoid": "1259239",
+        "name": "Punāsa",
+        "lat": 22.23507,
+        "lng": 76.39335,
+        "country": "IN",
+        "state": "35",
+        "population": 350000
+    },
+    "1259263": {
+        "geoid": "1259263",
+        "name": "Puliyangudi",
+        "lat": 9.17489,
+        "lng": 77.39799,
+        "country": "IN",
+        "state": "25",
+        "population": 62494
+    },
+    "1259297": {
+        "geoid": "1259297",
+        "name": "Pudukkottai",
+        "lat": 10.38128,
+        "lng": 78.82141,
+        "country": "IN",
+        "state": "25",
+        "population": 112118
+    },
+    "1259312": {
+        "geoid": "1259312",
+        "name": "Proddatūr",
+        "lat": 14.7502,
+        "lng": 78.54813,
+        "country": "IN",
+        "state": "02",
+        "population": 177797
+    },
+    "1259385": {
+        "geoid": "1259385",
+        "name": "Port Blair",
+        "lat": 11.66667,
+        "lng": 92.75,
+        "country": "IN",
+        "state": "01",
+        "population": 112050
+    },
+    "1259395": {
+        "geoid": "1259395",
+        "name": "Porbandar",
+        "lat": 21.64219,
+        "lng": 69.60929,
+        "country": "IN",
+        "state": "09",
+        "population": 138872
+    },
+    "1259408": {
+        "geoid": "1259408",
+        "name": "Ponnūru",
+        "lat": 16.06547,
+        "lng": 80.55203,
+        "country": "IN",
+        "state": "02",
+        "population": 57170
+    },
+    "1259411": {
+        "geoid": "1259411",
+        "name": "Ponnāni",
+        "lat": 10.76695,
+        "lng": 75.92523,
+        "country": "IN",
+        "state": "13",
+        "population": 105512
+    },
+    "1259425": {
+        "geoid": "1259425",
+        "name": "Puducherry",
+        "lat": 11.93381,
+        "lng": 79.82979,
+        "country": "IN",
+        "state": "22",
+        "population": 227411
+    },
+    "1259440": {
+        "geoid": "1259440",
+        "name": "Pollachi",
+        "lat": 10.65825,
+        "lng": 77.0085,
+        "country": "IN",
+        "state": "25",
+        "population": 88214
+    },
+    "1259508": {
+        "geoid": "1259508",
+        "name": "Pithāpuram",
+        "lat": 17.1168,
+        "lng": 82.25284,
+        "country": "IN",
+        "state": "02",
+        "population": 52709
+    },
+    "1259652": {
+        "geoid": "1259652",
+        "name": "Pimpri",
+        "lat": 18.62292,
+        "lng": 73.80696,
+        "country": "IN",
+        "state": "16",
+        "population": 1284606
+    },
+    "1259680": {
+        "geoid": "1259680",
+        "name": "Pilkhua",
+        "lat": 28.71271,
+        "lng": 77.656,
+        "country": "IN",
+        "state": "36",
+        "population": 74212
+    },
+    "1259686": {
+        "geoid": "1259686",
+        "name": "Pīlibhīt",
+        "lat": 28.63124,
+        "lng": 79.80436,
+        "country": "IN",
+        "state": "36",
+        "population": 131008
+    },
+    "1259811": {
+        "geoid": "1259811",
+        "name": "Phaltan",
+        "lat": 17.99113,
+        "lng": 74.43177,
+        "country": "IN",
+        "state": "16",
+        "population": 53202
+    },
+    "1259827": {
+        "geoid": "1259827",
+        "name": "Phagwāra",
+        "lat": 31.22452,
+        "lng": 75.77387,
+        "country": "IN",
+        "state": "23",
+        "population": 100146
+    },
+    "1259841": {
+        "geoid": "1259841",
+        "name": "Petlād",
+        "lat": 22.47681,
+        "lng": 72.79995,
+        "country": "IN",
+        "state": "09",
+        "population": 51819
+    },
+    "1259994": {
+        "geoid": "1259994",
+        "name": "Payyannūr",
+        "lat": 12.0935,
+        "lng": 75.20249,
+        "country": "IN",
+        "state": "13",
+        "population": 70069
+    },
+    "1260040": {
+        "geoid": "1260040",
+        "name": "Pattukkottai",
+        "lat": 10.42358,
+        "lng": 79.31949,
+        "country": "IN",
+        "state": "25",
+        "population": 67982
+    },
+    "1260086": {
+        "geoid": "1260086",
+        "name": "Patna",
+        "lat": 25.59408,
+        "lng": 85.13563,
+        "country": "IN",
+        "state": "34",
+        "population": 1599920
+    },
+    "1260107": {
+        "geoid": "1260107",
+        "name": "Patiāla",
+        "lat": 30.33625,
+        "lng": 76.3922,
+        "country": "IN",
+        "state": "23",
+        "population": 329224
+    },
+    "1260137": {
+        "geoid": "1260137",
+        "name": "Pathānkot",
+        "lat": 32.27484,
+        "lng": 75.65287,
+        "country": "IN",
+        "state": "23",
+        "population": 174306
+    },
+    "1260173": {
+        "geoid": "1260173",
+        "name": "Pātan",
+        "lat": 23.8507,
+        "lng": 72.12963,
+        "country": "IN",
+        "state": "09",
+        "population": 117863
+    },
+    "1260222": {
+        "geoid": "1260222",
+        "name": "Pārvatipuram",
+        "lat": 18.78392,
+        "lng": 83.42569,
+        "country": "IN",
+        "state": "02",
+        "population": 52085
+    },
+    "1260290": {
+        "geoid": "1260290",
+        "name": "Parli Vaijnāth",
+        "lat": 18.85057,
+        "lng": 76.53163,
+        "country": "IN",
+        "state": "16",
+        "population": 94863
+    },
+    "1260341": {
+        "geoid": "1260341",
+        "name": "Parbhani",
+        "lat": 19.26855,
+        "lng": 76.77081,
+        "country": "IN",
+        "state": "16",
+        "population": 289629
+    },
+    "1260387": {
+        "geoid": "1260387",
+        "name": "Paramagudi",
+        "lat": 9.54633,
+        "lng": 78.5907,
+        "country": "IN",
+        "state": "25",
+        "population": 85695
+    },
+    "1260393": {
+        "geoid": "1260393",
+        "name": "Parādīp Garh",
+        "lat": 20.31641,
+        "lng": 86.6085,
+        "country": "IN",
+        "state": "21",
+        "population": 85868
+    },
+    "1260434": {
+        "geoid": "1260434",
+        "name": "Panvel",
+        "lat": 18.98878,
+        "lng": 73.11013,
+        "country": "IN",
+        "state": "16",
+        "population": 128046
+    },
+    "1260448": {
+        "geoid": "1260448",
+        "name": "Panruti",
+        "lat": 11.77662,
+        "lng": 79.55269,
+        "country": "IN",
+        "state": "25",
+        "population": 56586
+    },
+    "1260476": {
+        "geoid": "1260476",
+        "name": "Pānīpat",
+        "lat": 29.38747,
+        "lng": 76.96825,
+        "country": "IN",
+        "state": "10",
+        "population": 292808
+    },
+    "1260482": {
+        "geoid": "1260482",
+        "name": "Pānihāti",
+        "lat": 22.69089,
+        "lng": 88.37404,
+        "country": "IN",
+        "state": "28",
+        "population": 378705
+    },
+    "1260546": {
+        "geoid": "1260546",
+        "name": "Pandharpur",
+        "lat": 17.67924,
+        "lng": 75.33098,
+        "country": "IN",
+        "state": "16",
+        "population": 95665
+    },
+    "1260607": {
+        "geoid": "1260607",
+        "name": "Panaji",
+        "lat": 15.49574,
+        "lng": 73.82624,
+        "country": "IN",
+        "state": "33",
+        "population": 65586
+    },
+    "1260637": {
+        "geoid": "1260637",
+        "name": "Palwal",
+        "lat": 28.14469,
+        "lng": 77.32546,
+        "country": "IN",
+        "state": "10",
+        "population": 121965
+    },
+    "1260667": {
+        "geoid": "1260667",
+        "name": "Pāloncha",
+        "lat": 17.60184,
+        "lng": 80.70509,
+        "country": "IN",
+        "state": "40",
+        "population": 75224
+    },
+    "1260671": {
+        "geoid": "1260671",
+        "name": "Palani",
+        "lat": 10.45034,
+        "lng": 77.5209,
+        "country": "IN",
+        "state": "25",
+        "population": 66085
+    },
+    "1260692": {
+        "geoid": "1260692",
+        "name": "Pallāvaram",
+        "lat": 12.96796,
+        "lng": 80.15025,
+        "country": "IN",
+        "state": "25",
+        "population": 157145
+    },
+    "1260707": {
+        "geoid": "1260707",
+        "name": "Pālitāna",
+        "lat": 21.52519,
+        "lng": 71.82309,
+        "country": "IN",
+        "state": "09",
+        "population": 55913
+    },
+    "1260716": {
+        "geoid": "1260716",
+        "name": "Pāli",
+        "lat": 25.77276,
+        "lng": 73.32335,
+        "country": "IN",
+        "state": "24",
+        "population": 210103
+    },
+    "1260728": {
+        "geoid": "1260728",
+        "name": "Palakkad",
+        "lat": 10.7744,
+        "lng": 76.65625,
+        "country": "IN",
+        "state": "13",
+        "population": 132728
+    },
+    "1260730": {
+        "geoid": "1260730",
+        "name": "Pālghar",
+        "lat": 19.69693,
+        "lng": 72.76543,
+        "country": "IN",
+        "state": "16",
+        "population": 72335
+    },
+    "1260771": {
+        "geoid": "1260771",
+        "name": "Palāsa",
+        "lat": 18.77257,
+        "lng": 84.41012,
+        "country": "IN",
+        "state": "02",
+        "population": 65833
+    },
+    "1260777": {
+        "geoid": "1260777",
+        "name": "Pālanpur",
+        "lat": 24.17128,
+        "lng": 72.43827,
+        "country": "IN",
+        "state": "09",
+        "population": 123294
+    },
+    "1260792": {
+        "geoid": "1260792",
+        "name": "Pālakollu",
+        "lat": 16.5167,
+        "lng": 81.73,
+        "country": "IN",
+        "state": "02",
+        "population": 57341
+    },
+    "1261008": {
+        "geoid": "1261008",
+        "name": "Ottappālam",
+        "lat": 10.77094,
+        "lng": 76.37844,
+        "country": "IN",
+        "state": "13",
+        "population": 50913
+    },
+    "1261012": {
+        "geoid": "1261012",
+        "name": "Osmanabad",
+        "lat": 18.18158,
+        "lng": 76.03889,
+        "country": "IN",
+        "state": "16",
+        "population": 85521
+    },
+    "1261039": {
+        "geoid": "1261039",
+        "name": "Orai",
+        "lat": 25.99023,
+        "lng": 79.45334,
+        "country": "IN",
+        "state": "36",
+        "population": 158265
+    },
+    "1261045": {
+        "geoid": "1261045",
+        "name": "Ongole",
+        "lat": 15.50357,
+        "lng": 80.04454,
+        "country": "IN",
+        "state": "02",
+        "population": 172872
+    },
+    "1261086": {
+        "geoid": "1261086",
+        "name": "Obra",
+        "lat": 24.41863,
+        "lng": 82.98797,
+        "country": "IN",
+        "state": "36",
+        "population": 56110
+    },
+    "1261110": {
+        "geoid": "1261110",
+        "name": "Nūzvīd",
+        "lat": 16.78854,
+        "lng": 80.84593,
+        "country": "IN",
+        "state": "02",
+        "population": 53391
+    },
+    "1261162": {
+        "geoid": "1261162",
+        "name": "Nowrangapur",
+        "lat": 19.23114,
+        "lng": 82.54826,
+        "country": "IN",
+        "state": "21",
+        "population": 1220946
+    },
+    "1261181": {
+        "geoid": "1261181",
+        "name": "North Lakhimpur",
+        "lat": 27.23517,
+        "lng": 94.10357,
+        "country": "IN",
+        "state": "03",
+        "population": 59841
+    },
+    "1261227": {
+        "geoid": "1261227",
+        "name": "Nokha",
+        "lat": 27.56155,
+        "lng": 73.47141,
+        "country": "IN",
+        "state": "24",
+        "population": 55911
+    },
+    "1261258": {
+        "geoid": "1261258",
+        "name": "Nizāmābād",
+        "lat": 18.67154,
+        "lng": 78.0988,
+        "country": "IN",
+        "state": "40",
+        "population": 305438
+    },
+    "1261288": {
+        "geoid": "1261288",
+        "name": "Nirmal",
+        "lat": 19.09685,
+        "lng": 78.34407,
+        "country": "IN",
+        "state": "40",
+        "population": 80982
+    },
+    "1261309": {
+        "geoid": "1261309",
+        "name": "Nipāni",
+        "lat": 16.399,
+        "lng": 74.38285,
+        "country": "IN",
+        "state": "16",
+        "population": 60351
+    },
+    "1261369": {
+        "geoid": "1261369",
+        "name": "Nīmbāhera",
+        "lat": 24.62166,
+        "lng": 74.67999,
+        "country": "IN",
+        "state": "24",
+        "population": 58085
+    },
+    "1261470": {
+        "geoid": "1261470",
+        "name": "Neyyāttinkara",
+        "lat": 8.39854,
+        "lng": 77.08586,
+        "country": "IN",
+        "state": "13",
+        "population": 88104
+    },
+    "1261481": {
+        "geoid": "1261481",
+        "name": "New Delhi",
+        "lat": 28.63576,
+        "lng": 77.22445,
+        "country": "IN",
+        "state": "07",
+        "population": 317797
+    },
+    "1261529": {
+        "geoid": "1261529",
+        "name": "Nellore",
+        "lat": 14.45363,
+        "lng": 79.98674,
+        "country": "IN",
+        "state": "02",
+        "population": 404158
+    },
+    "1261553": {
+        "geoid": "1261553",
+        "name": "Nedumangād",
+        "lat": 8.60267,
+        "lng": 77.00139,
+        "country": "IN",
+        "state": "13",
+        "population": 58278
+    },
+    "1261613": {
+        "geoid": "1261613",
+        "name": "Nawalgarh",
+        "lat": 27.85161,
+        "lng": 75.27384,
+        "country": "IN",
+        "state": "24",
+        "population": 58346
+    },
+    "1261631": {
+        "geoid": "1261631",
+        "name": "Nawāda",
+        "lat": 24.8867,
+        "lng": 85.54364,
+        "country": "IN",
+        "state": "34",
+        "population": 96730
+    },
+    "1261641": {
+        "geoid": "1261641",
+        "name": "Nawābganj",
+        "lat": 26.93129,
+        "lng": 81.19841,
+        "country": "IN",
+        "state": "36",
+        "population": 79246
+    },
+    "1261669": {
+        "geoid": "1261669",
+        "name": "Navadwīp",
+        "lat": 23.4067,
+        "lng": 88.36861,
+        "country": "IN",
+        "state": "28",
+        "population": 111123
+    },
+    "1261727": {
+        "geoid": "1261727",
+        "name": "Nasīrābād",
+        "lat": 26.30473,
+        "lng": 74.73364,
+        "country": "IN",
+        "state": "24",
+        "population": 51747
+    },
+    "1261731": {
+        "geoid": "1261731",
+        "name": "Nashik",
+        "lat": 19.99727,
+        "lng": 73.79096,
+        "country": "IN",
+        "state": "16",
+        "population": 1289497
+    },
+    "1261739": {
+        "geoid": "1261739",
+        "name": "Narwāna",
+        "lat": 29.59903,
+        "lng": 76.11927,
+        "country": "IN",
+        "state": "10",
+        "population": 55850
+    },
+    "1261772": {
+        "geoid": "1261772",
+        "name": "Nārnaul",
+        "lat": 28.04444,
+        "lng": 76.10833,
+        "country": "IN",
+        "state": "10",
+        "population": 66049
+    },
+    "1261848": {
+        "geoid": "1261848",
+        "name": "Narasaraopet",
+        "lat": 16.23488,
+        "lng": 80.04927,
+        "country": "IN",
+        "state": "02",
+        "population": 97194
+    },
+    "1261852": {
+        "geoid": "1261852",
+        "name": "Narasapur",
+        "lat": 16.43425,
+        "lng": 81.69845,
+        "country": "IN",
+        "state": "02",
+        "population": 59306
+    },
+    "1261910": {
+        "geoid": "1261910",
+        "name": "Nanjangūd",
+        "lat": 12.11764,
+        "lng": 76.68397,
+        "country": "IN",
+        "state": "19",
+        "population": 50243
+    },
+    "1261913": {
+        "geoid": "1261913",
+        "name": "Nāngloi Jāt",
+        "lat": 28.67957,
+        "lng": 77.06799,
+        "country": "IN",
+        "state": "07",
+        "population": 194363
+    },
+    "1261927": {
+        "geoid": "1261927",
+        "name": "Nandyāl",
+        "lat": 15.48879,
+        "lng": 78.48648,
+        "country": "IN",
+        "state": "02",
+        "population": 165337
+    },
+    "1261931": {
+        "geoid": "1261931",
+        "name": "Nandurbar",
+        "lat": 21.36671,
+        "lng": 74.24051,
+        "country": "IN",
+        "state": "16",
+        "population": 100703
+    },
+    "1261977": {
+        "geoid": "1261977",
+        "name": "Nanded",
+        "lat": 19.16023,
+        "lng": 77.31497,
+        "country": "IN",
+        "state": "16",
+        "population": 550564
+    },
+    "1262039": {
+        "geoid": "1262039",
+        "name": "Nāmakkal",
+        "lat": 11.22126,
+        "lng": 78.16524,
+        "country": "IN",
+        "state": "25",
+        "population": 55997
+    },
+    "1262067": {
+        "geoid": "1262067",
+        "name": "Nalgonda",
+        "lat": 17.05439,
+        "lng": 79.26707,
+        "country": "IN",
+        "state": "40",
+        "population": 121826
+    },
+    "1262092": {
+        "geoid": "1262092",
+        "name": "Naksalbāri",
+        "lat": 26.6827,
+        "lng": 88.22001,
+        "country": "IN",
+        "state": "28",
+        "population": 57283
+    },
+    "1262109": {
+        "geoid": "1262109",
+        "name": "Najībābād",
+        "lat": 29.61194,
+        "lng": 78.34274,
+        "country": "IN",
+        "state": "36",
+        "population": 84006
+    },
+    "1262131": {
+        "geoid": "1262131",
+        "name": "Naihāti",
+        "lat": 22.89396,
+        "lng": 88.41521,
+        "country": "IN",
+        "state": "28",
+        "population": 253221
+    },
+    "1262180": {
+        "geoid": "1262180",
+        "name": "Nagpur",
+        "lat": 21.14631,
+        "lng": 79.08491,
+        "country": "IN",
+        "state": "16",
+        "population": 2228018
+    },
+    "1262200": {
+        "geoid": "1262200",
+        "name": "Nagīna",
+        "lat": 29.44433,
+        "lng": 78.43646,
+        "country": "IN",
+        "state": "36",
+        "population": 76593
+    },
+    "1262204": {
+        "geoid": "1262204",
+        "name": "Nāgercoil",
+        "lat": 8.17731,
+        "lng": 77.43437,
+        "country": "IN",
+        "state": "25",
+        "population": 213858
+    },
+    "1262209": {
+        "geoid": "1262209",
+        "name": "Nagda",
+        "lat": 23.45834,
+        "lng": 75.41759,
+        "country": "IN",
+        "state": "35",
+        "population": 103501
+    },
+    "1262216": {
+        "geoid": "1262216",
+        "name": "Nāgaur",
+        "lat": 27.20201,
+        "lng": 73.73394,
+        "country": "IN",
+        "state": "24",
+        "population": 96847
+    },
+    "1262260": {
+        "geoid": "1262260",
+        "name": "Nāgappattinam",
+        "lat": 10.76393,
+        "lng": 79.84454,
+        "country": "IN",
+        "state": "25",
+        "population": 94238
+    },
+    "1262292": {
+        "geoid": "1262292",
+        "name": "Nadiād",
+        "lat": 22.69385,
+        "lng": 72.86157,
+        "country": "IN",
+        "state": "09",
+        "population": 202067
+    },
+    "1262319": {
+        "geoid": "1262319",
+        "name": "Nābha",
+        "lat": 30.37577,
+        "lng": 76.15292,
+        "country": "IN",
+        "state": "23",
+        "population": 64640
+    },
+    "1262321": {
+        "geoid": "1262321",
+        "name": "Mysore",
+        "lat": 12.29791,
+        "lng": 76.63925,
+        "country": "IN",
+        "state": "19",
+        "population": 868313
+    },
+    "1262330": {
+        "geoid": "1262330",
+        "name": "Muzaffarpur",
+        "lat": 26.12259,
+        "lng": 85.39055,
+        "country": "IN",
+        "state": "34",
+        "population": 333200
+    },
+    "1262332": {
+        "geoid": "1262332",
+        "name": "Muzaffarnagar",
+        "lat": 29.47091,
+        "lng": 77.70332,
+        "country": "IN",
+        "state": "36",
+        "population": 349706
+    },
+    "1262395": {
+        "geoid": "1262395",
+        "name": "Murwāra",
+        "lat": 23.83776,
+        "lng": 80.39405,
+        "country": "IN",
+        "state": "35",
+        "population": 195856
+    },
+    "1262453": {
+        "geoid": "1262453",
+        "name": "Murādnagar",
+        "lat": 28.78069,
+        "lng": 77.49865,
+        "country": "IN",
+        "state": "36",
+        "population": 89482
+    },
+    "1262463": {
+        "geoid": "1262463",
+        "name": "Munnar",
+        "lat": 10.08873,
+        "lng": 77.06269,
+        "country": "IN",
+        "state": "13",
+        "population": 68000
+    },
+    "1262482": {
+        "geoid": "1262482",
+        "name": "Monghyr",
+        "lat": 25.37459,
+        "lng": 86.47455,
+        "country": "IN",
+        "state": "34",
+        "population": 203163
+    },
+    "1262578": {
+        "geoid": "1262578",
+        "name": "Muktsar",
+        "lat": 30.47426,
+        "lng": 74.5166,
+        "country": "IN",
+        "state": "23",
+        "population": 89833
+    },
+    "1262634": {
+        "geoid": "1262634",
+        "name": "Mughal Sarāi",
+        "lat": 25.28307,
+        "lng": 83.11968,
+        "country": "IN",
+        "state": "36",
+        "population": 98043
+    },
+    "1262678": {
+        "geoid": "1262678",
+        "name": "Mubārakpur",
+        "lat": 26.08866,
+        "lng": 83.29088,
+        "country": "IN",
+        "state": "36",
+        "population": 53263
+    },
+    "1262710": {
+        "geoid": "1262710",
+        "name": "Mothīhāri",
+        "lat": 26.64862,
+        "lng": 84.91656,
+        "country": "IN",
+        "state": "34",
+        "population": 112144
+    },
+    "1262771": {
+        "geoid": "1262771",
+        "name": "Morena",
+        "lat": 26.49892,
+        "lng": 77.99534,
+        "country": "IN",
+        "state": "35",
+        "population": 152004
+    },
+    "1262775": {
+        "geoid": "1262775",
+        "name": "Morbi",
+        "lat": 22.81731,
+        "lng": 70.8377,
+        "country": "IN",
+        "state": "09",
+        "population": 118022
+    },
+    "1262801": {
+        "geoid": "1262801",
+        "name": "Morādābād",
+        "lat": 28.83893,
+        "lng": 78.77684,
+        "country": "IN",
+        "state": "36",
+        "population": 721139
+    },
+    "1262852": {
+        "geoid": "1262852",
+        "name": "Mokameh",
+        "lat": 25.39662,
+        "lng": 85.9219,
+        "country": "IN",
+        "state": "34",
+        "population": 55203
+    },
+    "1262951": {
+        "geoid": "1262951",
+        "name": "Moga",
+        "lat": 30.81383,
+        "lng": 75.16878,
+        "country": "IN",
+        "state": "23",
+        "population": 130549
+    },
+    "1262958": {
+        "geoid": "1262958",
+        "name": "Modāsa",
+        "lat": 23.46253,
+        "lng": 73.29857,
+        "country": "IN",
+        "state": "09",
+        "population": 58970
+    },
+    "1262995": {
+        "geoid": "1262995",
+        "name": "Mirzāpur",
+        "lat": 25.1449,
+        "lng": 82.56534,
+        "country": "IN",
+        "state": "36",
+        "population": 220029
+    },
+    "1263012": {
+        "geoid": "1263012",
+        "name": "Miriālgūda",
+        "lat": 16.8722,
+        "lng": 79.56247,
+        "country": "IN",
+        "state": "40",
+        "population": 101234
+    },
+    "1263101": {
+        "geoid": "1263101",
+        "name": "Mettur",
+        "lat": 11.78796,
+        "lng": 77.8008,
+        "country": "IN",
+        "state": "25",
+        "population": 56743
+    },
+    "1263103": {
+        "geoid": "1263103",
+        "name": "Mettupalayam",
+        "lat": 11.29971,
+        "lng": 76.93485,
+        "country": "IN",
+        "state": "25",
+        "population": 66944
+    },
+    "1263214": {
+        "geoid": "1263214",
+        "name": "Meerut",
+        "lat": 28.98002,
+        "lng": 77.70636,
+        "country": "IN",
+        "state": "36",
+        "population": 1223184
+    },
+    "1263220": {
+        "geoid": "1263220",
+        "name": "Medinīpur",
+        "lat": 22.42114,
+        "lng": 87.32257,
+        "country": "IN",
+        "state": "28",
+        "population": 153349
+    },
+    "1263247": {
+        "geoid": "1263247",
+        "name": "Mayiladuthurai",
+        "lat": 11.10354,
+        "lng": 79.655,
+        "country": "IN",
+        "state": "25",
+        "population": 86660
+    },
+    "1263275": {
+        "geoid": "1263275",
+        "name": "Mawāna",
+        "lat": 29.10288,
+        "lng": 77.92199,
+        "country": "IN",
+        "state": "36",
+        "population": 76973
+    },
+    "1263311": {
+        "geoid": "1263311",
+        "name": "Mau",
+        "lat": 25.94167,
+        "lng": 83.56111,
+        "country": "IN",
+        "state": "36",
+        "population": 246050
+    },
+    "1263364": {
+        "geoid": "1263364",
+        "name": "Mathura",
+        "lat": 27.5035,
+        "lng": 77.67215,
+        "country": "IN",
+        "state": "36",
+        "population": 330511
+    },
+    "1263427": {
+        "geoid": "1263427",
+        "name": "Masaurhi Buzurg",
+        "lat": 25.35417,
+        "lng": 85.03195,
+        "country": "IN",
+        "state": "34",
+        "population": 53440
+    },
+    "1263494": {
+        "geoid": "1263494",
+        "name": "Marmagao",
+        "lat": 15.40927,
+        "lng": 73.78869,
+        "country": "IN",
+        "state": "33",
+        "population": 102345
+    },
+    "1263504": {
+        "geoid": "1263504",
+        "name": "Mārkāpur",
+        "lat": 15.74041,
+        "lng": 79.27057,
+        "country": "IN",
+        "state": "02",
+        "population": 63982
+    },
+    "1263622": {
+        "geoid": "1263622",
+        "name": "Mānsa",
+        "lat": 29.98844,
+        "lng": 75.40167,
+        "country": "IN",
+        "state": "23",
+        "population": 80018
+    },
+    "1263659": {
+        "geoid": "1263659",
+        "name": "Mannargudi",
+        "lat": 10.66626,
+        "lng": 79.45064,
+        "country": "IN",
+        "state": "25",
+        "population": 63148
+    },
+    "1263661": {
+        "geoid": "1263661",
+        "name": "Mannārakkāt",
+        "lat": 10.9914,
+        "lng": 76.4596,
+        "country": "IN",
+        "state": "13",
+        "population": 50921
+    },
+    "1263664": {
+        "geoid": "1263664",
+        "name": "Manmād",
+        "lat": 20.25334,
+        "lng": 74.43755,
+        "country": "IN",
+        "state": "16",
+        "population": 76722
+    },
+    "1263694": {
+        "geoid": "1263694",
+        "name": "Manjeri",
+        "lat": 11.1172,
+        "lng": 76.11987,
+        "country": "IN",
+        "state": "13",
+        "population": 89201
+    },
+    "1263752": {
+        "geoid": "1263752",
+        "name": "Māngrol",
+        "lat": 21.12268,
+        "lng": 70.11484,
+        "country": "IN",
+        "state": "09",
+        "population": 58989
+    },
+    "1263780": {
+        "geoid": "1263780",
+        "name": "Mangalore",
+        "lat": 12.91723,
+        "lng": 74.85603,
+        "country": "IN",
+        "state": "19",
+        "population": 417387
+    },
+    "1263797": {
+        "geoid": "1263797",
+        "name": "Mangalagiri",
+        "lat": 16.43083,
+        "lng": 80.56815,
+        "country": "IN",
+        "state": "02",
+        "population": 59391
+    },
+    "1263814": {
+        "geoid": "1263814",
+        "name": "Mandya",
+        "lat": 12.5223,
+        "lng": 76.89746,
+        "country": "IN",
+        "state": "19",
+        "population": 134845
+    },
+    "1263833": {
+        "geoid": "1263833",
+        "name": "Māndu",
+        "lat": 22.36667,
+        "lng": 75.38333,
+        "country": "IN",
+        "state": "35",
+        "population": 300000
+    },
+    "1263834": {
+        "geoid": "1263834",
+        "name": "Mandsaur",
+        "lat": 24.07184,
+        "lng": 75.06986,
+        "country": "IN",
+        "state": "35",
+        "population": 124988
+    },
+    "1263936": {
+        "geoid": "1263936",
+        "name": "Mancherāl",
+        "lat": 18.87074,
+        "lng": 79.42863,
+        "country": "IN",
+        "state": "40",
+        "population": 77998
+    },
+    "1264071": {
+        "geoid": "1264071",
+        "name": "Malkāpur",
+        "lat": 20.88555,
+        "lng": 76.19932,
+        "country": "IN",
+        "state": "16",
+        "population": 64812
+    },
+    "1264111": {
+        "geoid": "1264111",
+        "name": "Māler Kotla",
+        "lat": 30.5309,
+        "lng": 75.87949,
+        "country": "IN",
+        "state": "23",
+        "population": 113840
+    },
+    "1264115": {
+        "geoid": "1264115",
+        "name": "Mālegaon",
+        "lat": 20.54966,
+        "lng": 74.53462,
+        "country": "IN",
+        "state": "16",
+        "population": 435362
+    },
+    "1264138": {
+        "geoid": "1264138",
+        "name": "Malaut",
+        "lat": 30.21121,
+        "lng": 74.4818,
+        "country": "IN",
+        "state": "23",
+        "population": 76616
+    },
+    "1264154": {
+        "geoid": "1264154",
+        "name": "Malappuram",
+        "lat": 11.04019,
+        "lng": 76.08237,
+        "country": "IN",
+        "state": "13",
+        "population": 61743
+    },
+    "1264206": {
+        "geoid": "1264206",
+        "name": "Makrāna",
+        "lat": 27.04361,
+        "lng": 74.72445,
+        "country": "IN",
+        "state": "24",
+        "population": 93904
+    },
+    "1264292": {
+        "geoid": "1264292",
+        "name": "Mainpuri",
+        "lat": 27.22857,
+        "lng": 79.02882,
+        "country": "IN",
+        "state": "36",
+        "population": 94619
+    },
+    "1264359": {
+        "geoid": "1264359",
+        "name": "Mahobā",
+        "lat": 25.2905,
+        "lng": 79.87533,
+        "country": "IN",
+        "state": "36",
+        "population": 89170
+    },
+    "1264407": {
+        "geoid": "1264407",
+        "name": "Mahbūbnagar",
+        "lat": 16.74385,
+        "lng": 77.98597,
+        "country": "IN",
+        "state": "40",
+        "population": 136135
+    },
+    "1264414": {
+        "geoid": "1264414",
+        "name": "Mahāsamund",
+        "lat": 21.10743,
+        "lng": 82.0948,
+        "country": "IN",
+        "state": "37",
+        "population": 50441
+    },
+    "1264521": {
+        "geoid": "1264521",
+        "name": "Madurai",
+        "lat": 9.91735,
+        "lng": 78.11962,
+        "country": "IN",
+        "state": "25",
+        "population": 909908
+    },
+    "1264527": {
+        "geoid": "1264527",
+        "name": "Chennai",
+        "lat": 13.08784,
+        "lng": 80.27847,
+        "country": "IN",
+        "state": "25",
+        "population": 4328063
+    },
+    "1264543": {
+        "geoid": "1264543",
+        "name": "Madhyamgram",
+        "lat": 22.68944,
+        "lng": 88.44594,
+        "country": "IN",
+        "state": "28",
+        "population": 161126
+    },
+    "1264551": {
+        "geoid": "1264551",
+        "name": "Madhupur",
+        "lat": 24.27419,
+        "lng": 86.63929,
+        "country": "IN",
+        "state": "38",
+        "population": 50671
+    },
+    "1264555": {
+        "geoid": "1264555",
+        "name": "Madhubani",
+        "lat": 26.35367,
+        "lng": 86.07169,
+        "country": "IN",
+        "state": "34",
+        "population": 71582
+    },
+    "1264570": {
+        "geoid": "1264570",
+        "name": "Madhipura",
+        "lat": 25.92127,
+        "lng": 86.79271,
+        "country": "IN",
+        "state": "34",
+        "population": 50570
+    },
+    "1264588": {
+        "geoid": "1264588",
+        "name": "Madgaon",
+        "lat": 15.27501,
+        "lng": 73.95786,
+        "country": "IN",
+        "state": "33",
+        "population": 86818
+    },
+    "1264621": {
+        "geoid": "1264621",
+        "name": "Madanapalle",
+        "lat": 13.5503,
+        "lng": 78.50288,
+        "country": "IN",
+        "state": "02",
+        "population": 108593
+    },
+    "1264637": {
+        "geoid": "1264637",
+        "name": "Machilīpatnam",
+        "lat": 16.18747,
+        "lng": 81.13888,
+        "country": "IN",
+        "state": "02",
+        "population": 192827
+    },
+    "1264647": {
+        "geoid": "1264647",
+        "name": "Mācherla",
+        "lat": 16.47635,
+        "lng": 79.43533,
+        "country": "IN",
+        "state": "02",
+        "population": 51039
+    },
+    "1264688": {
+        "geoid": "1264688",
+        "name": "Lunglei",
+        "lat": 22.89247,
+        "lng": 92.74218,
+        "country": "IN",
+        "state": "31",
+        "population": 52728
+    },
+    "1264728": {
+        "geoid": "1264728",
+        "name": "Ludhiāna",
+        "lat": 30.91204,
+        "lng": 75.85379,
+        "country": "IN",
+        "state": "23",
+        "population": 1545368
+    },
+    "1264733": {
+        "geoid": "1264733",
+        "name": "Lucknow",
+        "lat": 26.83928,
+        "lng": 80.92313,
+        "country": "IN",
+        "state": "36",
+        "population": 2472011
+    },
+    "1264735": {
+        "geoid": "1264735",
+        "name": "Luckeesarai",
+        "lat": 25.1765,
+        "lng": 86.0947,
+        "country": "IN",
+        "state": "34",
+        "population": 89500
+    },
+    "1264773": {
+        "geoid": "1264773",
+        "name": "Loni",
+        "lat": 28.75143,
+        "lng": 77.29023,
+        "country": "IN",
+        "state": "36",
+        "population": 164810
+    },
+    "1264793": {
+        "geoid": "1264793",
+        "name": "Lonavla",
+        "lat": 18.75275,
+        "lng": 73.40575,
+        "country": "IN",
+        "state": "16",
+        "population": 58562
+    },
+    "1264839": {
+        "geoid": "1264839",
+        "name": "Lohārdaga",
+        "lat": 23.43313,
+        "lng": 84.67982,
+        "country": "IN",
+        "state": "38",
+        "population": 53032
+    },
+    "1265014": {
+        "geoid": "1265014",
+        "name": "Latur",
+        "lat": 18.39721,
+        "lng": 76.56784,
+        "country": "IN",
+        "state": "16",
+        "population": 348967
+    },
+    "1265157": {
+        "geoid": "1265157",
+        "name": "Lalitpur",
+        "lat": 24.69007,
+        "lng": 78.41915,
+        "country": "IN",
+        "state": "36",
+        "population": 126475
+    },
+    "1265242": {
+        "geoid": "1265242",
+        "name": "Lakhīmpur",
+        "lat": 27.94822,
+        "lng": 80.77935,
+        "country": "IN",
+        "state": "36",
+        "population": 140223
+    },
+    "1265310": {
+        "geoid": "1265310",
+        "name": "Lāharpur",
+        "lat": 27.70827,
+        "lng": 80.90256,
+        "country": "IN",
+        "state": "36",
+        "population": 55911
+    },
+    "1265331": {
+        "geoid": "1265331",
+        "name": "Lādnūn",
+        "lat": 27.65312,
+        "lng": 74.39993,
+        "country": "IN",
+        "state": "24",
+        "population": 60490
+    },
+    "1265579": {
+        "geoid": "1265579",
+        "name": "Kunnamkulam",
+        "lat": 10.6484,
+        "lng": 76.07063,
+        "country": "IN",
+        "state": "13",
+        "population": 63903
+    },
+    "1265605": {
+        "geoid": "1265605",
+        "name": "Kundla",
+        "lat": 21.34222,
+        "lng": 71.30633,
+        "country": "IN",
+        "state": "09",
+        "population": 76809
+    },
+    "1265683": {
+        "geoid": "1265683",
+        "name": "Kumbakonam",
+        "lat": 10.96209,
+        "lng": 79.39124,
+        "country": "IN",
+        "state": "25",
+        "population": 139264
+    },
+    "1265711": {
+        "geoid": "1265711",
+        "name": "Kulti",
+        "lat": 23.73166,
+        "lng": 86.84372,
+        "country": "IN",
+        "state": "28",
+        "population": 305405
+    },
+    "1265767": {
+        "geoid": "1265767",
+        "name": "Kūkatpalli",
+        "lat": 17.48486,
+        "lng": 78.41376,
+        "country": "IN",
+        "state": "40",
+        "population": 341709
+    },
+    "1265828": {
+        "geoid": "1265828",
+        "name": "Kuchāman",
+        "lat": 27.14745,
+        "lng": 74.85655,
+        "country": "IN",
+        "state": "24",
+        "population": 56725
+    },
+    "1265859": {
+        "geoid": "1265859",
+        "name": "Krishnanagar",
+        "lat": 23.40576,
+        "lng": 88.49073,
+        "country": "IN",
+        "state": "28",
+        "population": 145926
+    },
+    "1265863": {
+        "geoid": "1265863",
+        "name": "Krishnagiri",
+        "lat": 12.51921,
+        "lng": 78.21382,
+        "country": "IN",
+        "state": "25",
+        "population": 66419
+    },
+    "1265873": {
+        "geoid": "1265873",
+        "name": "Kozhikode",
+        "lat": 11.24802,
+        "lng": 75.7804,
+        "country": "IN",
+        "state": "13",
+        "population": 439922
+    },
+    "1265891": {
+        "geoid": "1265891",
+        "name": "Kovilpatti",
+        "lat": 9.17167,
+        "lng": 77.86989,
+        "country": "IN",
+        "state": "25",
+        "population": 90296
+    },
+    "1265911": {
+        "geoid": "1265911",
+        "name": "Kottayam",
+        "lat": 9.58692,
+        "lng": 76.52132,
+        "country": "IN",
+        "state": "13",
+        "population": 59437
+    },
+    "1265938": {
+        "geoid": "1265938",
+        "name": "Kottagūdem",
+        "lat": 17.55106,
+        "lng": 80.61779,
+        "country": "IN",
+        "state": "40",
+        "population": 79247
+    },
+    "1266049": {
+        "geoid": "1266049",
+        "name": "Kota",
+        "lat": 25.18254,
+        "lng": 75.83907,
+        "country": "IN",
+        "state": "24",
+        "population": 763088
+    },
+    "1266073": {
+        "geoid": "1266073",
+        "name": "Kosi",
+        "lat": 27.79449,
+        "lng": 77.4368,
+        "country": "IN",
+        "state": "36",
+        "population": 52492
+    },
+    "1266122": {
+        "geoid": "1266122",
+        "name": "Korba",
+        "lat": 22.3458,
+        "lng": 82.69633,
+        "country": "IN",
+        "state": "37",
+        "population": 419146
+    },
+    "1266124": {
+        "geoid": "1266124",
+        "name": "Koratla",
+        "lat": 18.82154,
+        "lng": 78.71186,
+        "country": "IN",
+        "state": "40",
+        "population": 60231
+    },
+    "1266154": {
+        "geoid": "1266154",
+        "name": "Koppal",
+        "lat": 15.34522,
+        "lng": 76.15478,
+        "country": "IN",
+        "state": "19",
+        "population": 60868
+    },
+    "1266162": {
+        "geoid": "1266162",
+        "name": "Kopargaon",
+        "lat": 19.88239,
+        "lng": 74.47605,
+        "country": "IN",
+        "state": "16",
+        "population": 65116
+    },
+    "1266179": {
+        "geoid": "1266179",
+        "name": "Konnagar",
+        "lat": 22.70508,
+        "lng": 88.34446,
+        "country": "IN",
+        "state": "28",
+        "population": 76082
+    },
+    "1266217": {
+        "geoid": "1266217",
+        "name": "Konch",
+        "lat": 25.99451,
+        "lng": 79.15127,
+        "country": "IN",
+        "state": "36",
+        "population": 52773
+    },
+    "1266267": {
+        "geoid": "1266267",
+        "name": "Kollegāl",
+        "lat": 12.1569,
+        "lng": 77.10693,
+        "country": "IN",
+        "state": "19",
+        "population": 56497
+    },
+    "1266285": {
+        "geoid": "1266285",
+        "name": "Kolhāpur",
+        "lat": 16.69563,
+        "lng": 74.23167,
+        "country": "IN",
+        "state": "16",
+        "population": 516142
+    },
+    "1266305": {
+        "geoid": "1266305",
+        "name": "Kolār",
+        "lat": 13.13671,
+        "lng": 78.12917,
+        "country": "IN",
+        "state": "19",
+        "population": 126441
+    },
+    "1266366": {
+        "geoid": "1266366",
+        "name": "Kohima",
+        "lat": 25.67467,
+        "lng": 94.11099,
+        "country": "IN",
+        "state": "20",
+        "population": 92113
+    },
+    "1266416": {
+        "geoid": "1266416",
+        "name": "Kodār",
+        "lat": 16.9985,
+        "lng": 79.9656,
+        "country": "IN",
+        "state": "40",
+        "population": 59170
+    },
+    "1266436": {
+        "geoid": "1266436",
+        "name": "Koch Bihār",
+        "lat": 26.32539,
+        "lng": 89.44508,
+        "country": "IN",
+        "state": "28",
+        "population": 78737
+    },
+    "1266486": {
+        "geoid": "1266486",
+        "name": "Kishangarh",
+        "lat": 26.5741,
+        "lng": 74.86685,
+        "country": "IN",
+        "state": "24",
+        "population": 131749
+    },
+    "1266489": {
+        "geoid": "1266489",
+        "name": "Kishanganj",
+        "lat": 26.10224,
+        "lng": 87.95534,
+        "country": "IN",
+        "state": "34",
+        "population": 94807
+    },
+    "1266509": {
+        "geoid": "1266509",
+        "name": "Kīratpur",
+        "lat": 29.50671,
+        "lng": 78.20613,
+        "country": "IN",
+        "state": "36",
+        "population": 60223
+    },
+    "1266607": {
+        "geoid": "1266607",
+        "name": "Khurja",
+        "lat": 28.25382,
+        "lng": 77.85535,
+        "country": "IN",
+        "state": "36",
+        "population": 105909
+    },
+    "1266666": {
+        "geoid": "1266666",
+        "name": "Khopoli",
+        "lat": 18.78562,
+        "lng": 73.34589,
+        "country": "IN",
+        "state": "16",
+        "population": 64460
+    },
+    "1266849": {
+        "geoid": "1266849",
+        "name": "Khatauli",
+        "lat": 29.27844,
+        "lng": 77.73302,
+        "country": "IN",
+        "state": "36",
+        "population": 64731
+    },
+    "1266928": {
+        "geoid": "1266928",
+        "name": "Khargone",
+        "lat": 21.82292,
+        "lng": 75.61394,
+        "country": "IN",
+        "state": "35",
+        "population": 94985
+    },
+    "1266945": {
+        "geoid": "1266945",
+        "name": "Khardah",
+        "lat": 22.71861,
+        "lng": 88.37806,
+        "country": "IN",
+        "state": "28",
+        "population": 128346
+    },
+    "1266976": {
+        "geoid": "1266976",
+        "name": "Kharagpur",
+        "lat": 22.33971,
+        "lng": 87.32501,
+        "country": "IN",
+        "state": "28",
+        "population": 219665
+    },
+    "1267016": {
+        "geoid": "1267016",
+        "name": "Khanna",
+        "lat": 30.70547,
+        "lng": 76.22196,
+        "country": "IN",
+        "state": "23",
+        "population": 117137
+    },
+    "1267031": {
+        "geoid": "1267031",
+        "name": "Khandwa",
+        "lat": 21.82427,
+        "lng": 76.35086,
+        "country": "IN",
+        "state": "35",
+        "population": 182841
+    },
+    "1267076": {
+        "geoid": "1267076",
+        "name": "Khammam",
+        "lat": 17.24767,
+        "lng": 80.14368,
+        "country": "IN",
+        "state": "40",
+        "population": 170503
+    },
+    "1267084": {
+        "geoid": "1267084",
+        "name": "Khāmgaon",
+        "lat": 20.70738,
+        "lng": 76.56827,
+        "country": "IN",
+        "state": "16",
+        "population": 94604
+    },
+    "1267090": {
+        "geoid": "1267090",
+        "name": "Khambhāt",
+        "lat": 22.31744,
+        "lng": 72.61916,
+        "country": "IN",
+        "state": "09",
+        "population": 81328
+    },
+    "1267187": {
+        "geoid": "1267187",
+        "name": "Khagaul",
+        "lat": 25.57898,
+        "lng": 85.04564,
+        "country": "IN",
+        "state": "34",
+        "population": 51577
+    },
+    "1267195": {
+        "geoid": "1267195",
+        "name": "Khadki",
+        "lat": 18.5635,
+        "lng": 73.85205,
+        "country": "IN",
+        "state": "16",
+        "population": 75654
+    },
+    "1267227": {
+        "geoid": "1267227",
+        "name": "Keshod",
+        "lat": 21.30328,
+        "lng": 70.24861,
+        "country": "IN",
+        "state": "09",
+        "population": 68518
+    },
+    "1267360": {
+        "geoid": "1267360",
+        "name": "Kāyankulam",
+        "lat": 9.17243,
+        "lng": 76.50017,
+        "country": "IN",
+        "state": "13",
+        "population": 64183
+    },
+    "1267394": {
+        "geoid": "1267394",
+        "name": "Kāvali",
+        "lat": 14.9163,
+        "lng": 79.99449,
+        "country": "IN",
+        "state": "02",
+        "population": 83352
+    },
+    "1267439": {
+        "geoid": "1267439",
+        "name": "Kātrās",
+        "lat": 23.79752,
+        "lng": 86.29834,
+        "country": "IN",
+        "state": "38",
+        "population": 57349
+    },
+    "1267457": {
+        "geoid": "1267457",
+        "name": "Kātoya",
+        "lat": 23.64558,
+        "lng": 88.13258,
+        "country": "IN",
+        "state": "28",
+        "population": 78408
+    },
+    "1267480": {
+        "geoid": "1267480",
+        "name": "Katihar",
+        "lat": 25.53852,
+        "lng": 87.57044,
+        "country": "IN",
+        "state": "34",
+        "population": 192555
+    },
+    "1267579": {
+        "geoid": "1267579",
+        "name": "Kashipur",
+        "lat": 29.21399,
+        "lng": 78.95693,
+        "country": "IN",
+        "state": "39",
+        "population": 103138
+    },
+    "1267588": {
+        "geoid": "1267588",
+        "name": "Kāsganj",
+        "lat": 27.80882,
+        "lng": 78.64579,
+        "country": "IN",
+        "state": "36",
+        "population": 99462
+    },
+    "1267616": {
+        "geoid": "1267616",
+        "name": "Kāsaragod",
+        "lat": 12.49838,
+        "lng": 74.98959,
+        "country": "IN",
+        "state": "13",
+        "population": 53309
+    },
+    "1267635": {
+        "geoid": "1267635",
+        "name": "Karwar",
+        "lat": 14.81361,
+        "lng": 74.12972,
+        "country": "IN",
+        "state": "19",
+        "population": 64457
+    },
+    "1267648": {
+        "geoid": "1267648",
+        "name": "Karur",
+        "lat": 10.95771,
+        "lng": 78.08095,
+        "country": "IN",
+        "state": "25",
+        "population": 76915
+    },
+    "1267696": {
+        "geoid": "1267696",
+        "name": "Karol Bāgh",
+        "lat": 28.65136,
+        "lng": 77.19072,
+        "country": "IN",
+        "state": "07",
+        "population": 505241
+    },
+    "1267708": {
+        "geoid": "1267708",
+        "name": "Karnāl",
+        "lat": 29.69197,
+        "lng": 76.98448,
+        "country": "IN",
+        "state": "10",
+        "population": 225049
+    },
+    "1267755": {
+        "geoid": "1267755",
+        "name": "Karīmnagar",
+        "lat": 18.43915,
+        "lng": 79.12856,
+        "country": "IN",
+        "state": "40",
+        "population": 228745
+    },
+    "1267758": {
+        "geoid": "1267758",
+        "name": "Karīmganj",
+        "lat": 24.86919,
+        "lng": 92.35543,
+        "country": "IN",
+        "state": "03",
+        "population": 55290
+    },
+    "1267819": {
+        "geoid": "1267819",
+        "name": "Karauli",
+        "lat": 26.49831,
+        "lng": 77.02755,
+        "country": "IN",
+        "state": "24",
+        "population": 73717
+    },
+    "1267853": {
+        "geoid": "1267853",
+        "name": "Kāranja",
+        "lat": 20.48273,
+        "lng": 77.48857,
+        "country": "IN",
+        "state": "16",
+        "population": 64734
+    },
+    "1267885": {
+        "geoid": "1267885",
+        "name": "Kāraikkudi",
+        "lat": 10.0661,
+        "lng": 78.76787,
+        "country": "IN",
+        "state": "25",
+        "population": 91908
+    },
+    "1267887": {
+        "geoid": "1267887",
+        "name": "Kāraikāl",
+        "lat": 10.91667,
+        "lng": 79.83333,
+        "country": "IN",
+        "state": "22",
+        "population": 79653
+    },
+    "1267904": {
+        "geoid": "1267904",
+        "name": "Karād",
+        "lat": 17.28937,
+        "lng": 74.18183,
+        "country": "IN",
+        "state": "16",
+        "population": 55663
+    },
+    "1267911": {
+        "geoid": "1267911",
+        "name": "Kapūrthala",
+        "lat": 31.38011,
+        "lng": 75.38105,
+        "country": "IN",
+        "state": "23",
+        "population": 92667
+    },
+    "1267995": {
+        "geoid": "1267995",
+        "name": "Kanpur",
+        "lat": 26.46523,
+        "lng": 80.34975,
+        "country": "IN",
+        "state": "36",
+        "population": 2823249
+    },
+    "1268011": {
+        "geoid": "1268011",
+        "name": "Kannauj",
+        "lat": 27.05524,
+        "lng": 79.9188,
+        "country": "IN",
+        "state": "36",
+        "population": 76714
+    },
+    "1268015": {
+        "geoid": "1268015",
+        "name": "Kānnangād",
+        "lat": 12.30814,
+        "lng": 75.10632,
+        "country": "IN",
+        "state": "13",
+        "population": 68450
+    },
+    "1268111": {
+        "geoid": "1268111",
+        "name": "Kandukūr",
+        "lat": 15.21542,
+        "lng": 79.9039,
+        "country": "IN",
+        "state": "02",
+        "population": 53662
+    },
+    "1268135": {
+        "geoid": "1268135",
+        "name": "Kāndi",
+        "lat": 23.95946,
+        "lng": 88.04018,
+        "country": "IN",
+        "state": "28",
+        "population": 54848
+    },
+    "1268159": {
+        "geoid": "1268159",
+        "name": "Kānchipuram",
+        "lat": 12.83515,
+        "lng": 79.70006,
+        "country": "IN",
+        "state": "25",
+        "population": 155029
+    },
+    "1268189": {
+        "geoid": "1268189",
+        "name": "Kanakapura",
+        "lat": 12.54614,
+        "lng": 77.42099,
+        "country": "IN",
+        "state": "19",
+        "population": 50752
+    },
+    "1268205": {
+        "geoid": "1268205",
+        "name": "Kāmthi",
+        "lat": 21.21615,
+        "lng": 79.1973,
+        "country": "IN",
+        "state": "16",
+        "population": 86213
+    },
+    "1268246": {
+        "geoid": "1268246",
+        "name": "Cumbum",
+        "lat": 9.73647,
+        "lng": 77.2847,
+        "country": "IN",
+        "state": "25",
+        "population": 60828
+    },
+    "1268257": {
+        "geoid": "1268257",
+        "name": "Kāmārhāti",
+        "lat": 22.67111,
+        "lng": 88.37472,
+        "country": "IN",
+        "state": "28",
+        "population": 332965
+    },
+    "1268259": {
+        "geoid": "1268259",
+        "name": "Kāmāreddi",
+        "lat": 18.32001,
+        "lng": 78.34177,
+        "country": "IN",
+        "state": "40",
+        "population": 71042
+    },
+    "1268293": {
+        "geoid": "1268293",
+        "name": "Kalyani",
+        "lat": 22.98333,
+        "lng": 88.48333,
+        "country": "IN",
+        "state": "28",
+        "population": 93184
+    },
+    "1268295": {
+        "geoid": "1268295",
+        "name": "Kalyān",
+        "lat": 19.2437,
+        "lng": 73.13554,
+        "country": "IN",
+        "state": "16",
+        "population": 1262255
+    },
+    "1268341": {
+        "geoid": "1268341",
+        "name": "Kālna",
+        "lat": 23.21944,
+        "lng": 88.36295,
+        "country": "IN",
+        "state": "28",
+        "population": 53964
+    },
+    "1268383": {
+        "geoid": "1268383",
+        "name": "Kāliyāganj",
+        "lat": 25.63442,
+        "lng": 88.32665,
+        "country": "IN",
+        "state": "28",
+        "population": 51748
+    },
+    "1268561": {
+        "geoid": "1268561",
+        "name": "Kākināda",
+        "lat": 16.96036,
+        "lng": 82.23809,
+        "country": "IN",
+        "state": "02",
+        "population": 292923
+    },
+    "1268593": {
+        "geoid": "1268593",
+        "name": "Kaithal",
+        "lat": 29.80153,
+        "lng": 76.39959,
+        "country": "IN",
+        "state": "10",
+        "population": 140604
+    },
+    "1268601": {
+        "geoid": "1268601",
+        "name": "Kairāna",
+        "lat": 29.39541,
+        "lng": 77.2054,
+        "country": "IN",
+        "state": "36",
+        "population": 80432
+    },
+    "1268673": {
+        "geoid": "1268673",
+        "name": "Kadiri",
+        "lat": 14.11252,
+        "lng": 78.16027,
+        "country": "IN",
+        "state": "02",
+        "population": 81498
+    },
+    "1268680": {
+        "geoid": "1268680",
+        "name": "Kadi",
+        "lat": 23.29908,
+        "lng": 72.33362,
+        "country": "IN",
+        "state": "09",
+        "population": 58066
+    },
+    "1268707": {
+        "geoid": "1268707",
+        "name": "Kadayanallur",
+        "lat": 9.07277,
+        "lng": 77.34152,
+        "country": "IN",
+        "state": "25",
+        "population": 77772
+    },
+    "1268715": {
+        "geoid": "1268715",
+        "name": "Kānchrāpāra",
+        "lat": 22.95998,
+        "lng": 88.42849,
+        "country": "IN",
+        "state": "28",
+        "population": 136954
+    },
+    "1268773": {
+        "geoid": "1268773",
+        "name": "Jūnāgadh",
+        "lat": 21.51966,
+        "lng": 70.45981,
+        "country": "IN",
+        "state": "09",
+        "population": 184447
+    },
+    "1268775": {
+        "geoid": "1268775",
+        "name": "Jumri Tilaiyā",
+        "lat": 24.4349,
+        "lng": 85.52951,
+        "country": "IN",
+        "state": "38",
+        "population": 76341
+    },
+    "1268782": {
+        "geoid": "1268782",
+        "name": "Jalandhar",
+        "lat": 31.32556,
+        "lng": 75.57917,
+        "country": "IN",
+        "state": "23",
+        "population": 785178
+    },
+    "1268820": {
+        "geoid": "1268820",
+        "name": "Jorhāt",
+        "lat": 26.75751,
+        "lng": 94.20306,
+        "country": "IN",
+        "state": "03",
+        "population": 69033
+    },
+    "1268865": {
+        "geoid": "1268865",
+        "name": "Jodhpur",
+        "lat": 26.26841,
+        "lng": 73.00594,
+        "country": "IN",
+        "state": "24",
+        "population": 921476
+    },
+    "1268907": {
+        "geoid": "1268907",
+        "name": "Jīnd",
+        "lat": 29.31577,
+        "lng": 76.31502,
+        "country": "IN",
+        "state": "10",
+        "population": 161260
+    },
+    "1268936": {
+        "geoid": "1268936",
+        "name": "Jhunjhunūn",
+        "lat": 28.12559,
+        "lng": 75.39797,
+        "country": "IN",
+        "state": "24",
+        "population": 113193
+    },
+    "1268977": {
+        "geoid": "1268977",
+        "name": "Jhārsuguda",
+        "lat": 21.86159,
+        "lng": 84.01788,
+        "country": "IN",
+        "state": "21",
+        "population": 79492
+    },
+    "1268988": {
+        "geoid": "1268988",
+        "name": "Jharia",
+        "lat": 23.74079,
+        "lng": 86.41456,
+        "country": "IN",
+        "state": "38",
+        "population": 86938
+    },
+    "1268990": {
+        "geoid": "1268990",
+        "name": "Jhārgrām",
+        "lat": 22.45384,
+        "lng": 86.99497,
+        "country": "IN",
+        "state": "28",
+        "population": 57796
+    },
+    "1269006": {
+        "geoid": "1269006",
+        "name": "Jhānsi",
+        "lat": 25.45887,
+        "lng": 78.57994,
+        "country": "IN",
+        "state": "36",
+        "population": 412927
+    },
+    "1269027": {
+        "geoid": "1269027",
+        "name": "Jhālāwār",
+        "lat": 24.59633,
+        "lng": 76.16499,
+        "country": "IN",
+        "state": "24",
+        "population": 51884
+    },
+    "1269065": {
+        "geoid": "1269065",
+        "name": "Jetpur",
+        "lat": 21.75482,
+        "lng": 70.62347,
+        "country": "IN",
+        "state": "09",
+        "population": 118068
+    },
+    "1269092": {
+        "geoid": "1269092",
+        "name": "Jeypore",
+        "lat": 18.8563,
+        "lng": 82.5716,
+        "country": "IN",
+        "state": "21",
+        "population": 80837
+    },
+    "1269135": {
+        "geoid": "1269135",
+        "name": "Jaunpur",
+        "lat": 25.75356,
+        "lng": 82.68689,
+        "country": "IN",
+        "state": "36",
+        "population": 169572
+    },
+    "1269154": {
+        "geoid": "1269154",
+        "name": "Jatani",
+        "lat": 20.15975,
+        "lng": 85.70742,
+        "country": "IN",
+        "state": "21",
+        "population": 56003
+    },
+    "1269217": {
+        "geoid": "1269217",
+        "name": "Jaorā",
+        "lat": 23.63783,
+        "lng": 75.12711,
+        "country": "IN",
+        "state": "35",
+        "population": 67203
+    },
+    "1269247": {
+        "geoid": "1269247",
+        "name": "Jangipur",
+        "lat": 24.47001,
+        "lng": 88.07659,
+        "country": "IN",
+        "state": "28",
+        "population": 82548
+    },
+    "1269280": {
+        "geoid": "1269280",
+        "name": "Jāmuria",
+        "lat": 23.70468,
+        "lng": 87.07872,
+        "country": "IN",
+        "state": "28",
+        "population": 160242
+    },
+    "1269291": {
+        "geoid": "1269291",
+        "name": "Jamūī",
+        "lat": 24.92606,
+        "lng": 86.22531,
+        "country": "IN",
+        "state": "34",
+        "population": 78181
+    },
+    "1269300": {
+        "geoid": "1269300",
+        "name": "Jamshedpur",
+        "lat": 22.80278,
+        "lng": 86.18545,
+        "country": "IN",
+        "state": "38",
+        "population": 616338
+    },
+    "1269317": {
+        "geoid": "1269317",
+        "name": "Jāmnagar",
+        "lat": 22.47292,
+        "lng": 70.06673,
+        "country": "IN",
+        "state": "09",
+        "population": 492056
+    },
+    "1269321": {
+        "geoid": "1269321",
+        "name": "Jammu",
+        "lat": 32.73569,
+        "lng": 74.86911,
+        "country": "IN",
+        "state": "12",
+        "population": 465567
+    },
+    "1269328": {
+        "geoid": "1269328",
+        "name": "Jamkhandi",
+        "lat": 16.50461,
+        "lng": 75.29146,
+        "country": "IN",
+        "state": "19",
+        "population": 61690
+    },
+    "1269374": {
+        "geoid": "1269374",
+        "name": "Jamālpur",
+        "lat": 25.31258,
+        "lng": 86.48888,
+        "country": "IN",
+        "state": "34",
+        "population": 100780
+    },
+    "1269388": {
+        "geoid": "1269388",
+        "name": "Jalpāiguri",
+        "lat": 26.51667,
+        "lng": 88.73333,
+        "country": "IN",
+        "state": "28",
+        "population": 107832
+    },
+    "1269395": {
+        "geoid": "1269395",
+        "name": "Jālna",
+        "lat": 19.84102,
+        "lng": 75.88636,
+        "country": "IN",
+        "state": "16",
+        "population": 262034
+    },
+    "1269407": {
+        "geoid": "1269407",
+        "name": "Jalgaon",
+        "lat": 21.00292,
+        "lng": 75.56602,
+        "country": "IN",
+        "state": "16",
+        "population": 429298
+    },
+    "1269422": {
+        "geoid": "1269422",
+        "name": "Jālaun",
+        "lat": 26.1451,
+        "lng": 79.3366,
+        "country": "IN",
+        "state": "36",
+        "population": 55299
+    },
+    "1269507": {
+        "geoid": "1269507",
+        "name": "Jaisalmer",
+        "lat": 26.91763,
+        "lng": 70.90387,
+        "country": "IN",
+        "state": "24",
+        "population": 67604
+    },
+    "1269515": {
+        "geoid": "1269515",
+        "name": "Jaipur",
+        "lat": 26.91962,
+        "lng": 75.78781,
+        "country": "IN",
+        "state": "24",
+        "population": 2711758
+    },
+    "1269551": {
+        "geoid": "1269551",
+        "name": "Jahāngīrābād",
+        "lat": 28.40549,
+        "lng": 78.10588,
+        "country": "IN",
+        "state": "36",
+        "population": 57363
+    },
+    "1269557": {
+        "geoid": "1269557",
+        "name": "Jahānābād",
+        "lat": 25.21368,
+        "lng": 84.9871,
+        "country": "IN",
+        "state": "34",
+        "population": 96387
+    },
+    "1269562": {
+        "geoid": "1269562",
+        "name": "Jagtiāl",
+        "lat": 18.79473,
+        "lng": 78.91661,
+        "country": "IN",
+        "state": "40",
+        "population": 99035
+    },
+    "1269564": {
+        "geoid": "1269564",
+        "name": "Jagraon",
+        "lat": 30.78783,
+        "lng": 75.47391,
+        "country": "IN",
+        "state": "23",
+        "population": 65305
+    },
+    "1269578": {
+        "geoid": "1269578",
+        "name": "Jagdalpur",
+        "lat": 19.08136,
+        "lng": 82.02131,
+        "country": "IN",
+        "state": "37",
+        "population": 76465
+    },
+    "1269605": {
+        "geoid": "1269605",
+        "name": "Jagādhri",
+        "lat": 30.16719,
+        "lng": 77.30367,
+        "country": "IN",
+        "state": "10",
+        "population": 101300
+    },
+    "1269633": {
+        "geoid": "1269633",
+        "name": "Jabalpur",
+        "lat": 23.16697,
+        "lng": 79.95006,
+        "country": "IN",
+        "state": "35",
+        "population": 1030168
+    },
+    "1269653": {
+        "geoid": "1269653",
+        "name": "Itārsi",
+        "lat": 22.61477,
+        "lng": 77.76222,
+        "country": "IN",
+        "state": "35",
+        "population": 100574
+    },
+    "1269665": {
+        "geoid": "1269665",
+        "name": "Islāmpur",
+        "lat": 26.26541,
+        "lng": 88.18982,
+        "country": "IN",
+        "state": "28",
+        "population": 55691
+    },
+    "1269723": {
+        "geoid": "1269723",
+        "name": "Ingrāj Bāzār",
+        "lat": 25.00447,
+        "lng": 88.14573,
+        "country": "IN",
+        "state": "28",
+        "population": 170039
+    },
+    "1269743": {
+        "geoid": "1269743",
+        "name": "Indore",
+        "lat": 22.71792,
+        "lng": 75.8333,
+        "country": "IN",
+        "state": "35",
+        "population": 1837041
+    },
+    "1269771": {
+        "geoid": "1269771",
+        "name": "Imphal",
+        "lat": 24.80805,
+        "lng": 93.9442,
+        "country": "IN",
+        "state": "17",
+        "population": 223523
+    },
+    "1269784": {
+        "geoid": "1269784",
+        "name": "Ilkal",
+        "lat": 15.95923,
+        "lng": 76.11351,
+        "country": "IN",
+        "state": "19",
+        "population": 56937
+    },
+    "1269819": {
+        "geoid": "1269819",
+        "name": "Idappadi",
+        "lat": 11.58624,
+        "lng": 77.83891,
+        "country": "IN",
+        "state": "25",
+        "population": 51642
+    },
+    "1269834": {
+        "geoid": "1269834",
+        "name": "Ichalkaranji",
+        "lat": 16.69117,
+        "lng": 74.46054,
+        "country": "IN",
+        "state": "16",
+        "population": 274383
+    },
+    "1269843": {
+        "geoid": "1269843",
+        "name": "Hyderabad",
+        "lat": 17.38405,
+        "lng": 78.45636,
+        "country": "IN",
+        "state": "40",
+        "population": 3597816
+    },
+    "1269910": {
+        "geoid": "1269910",
+        "name": "Hugli",
+        "lat": 22.90877,
+        "lng": 88.39674,
+        "country": "IN",
+        "state": "28",
+        "population": 177005
+    },
+    "1269920": {
+        "geoid": "1269920",
+        "name": "Hubli",
+        "lat": 15.34776,
+        "lng": 75.13378,
+        "country": "IN",
+        "state": "19",
+        "population": 840214
+    },
+    "1269934": {
+        "geoid": "1269934",
+        "name": "Hosūr",
+        "lat": 12.73647,
+        "lng": 77.83264,
+        "country": "IN",
+        "state": "25",
+        "population": 103724
+    },
+    "1269935": {
+        "geoid": "1269935",
+        "name": "Hospet",
+        "lat": 15.26954,
+        "lng": 76.3871,
+        "country": "IN",
+        "state": "19",
+        "population": 197846
+    },
+    "1269939": {
+        "geoid": "1269939",
+        "name": "Hoshangābād",
+        "lat": 22.74747,
+        "lng": 77.72736,
+        "country": "IN",
+        "state": "35",
+        "population": 109358
+    },
+    "1270022": {
+        "geoid": "1270022",
+        "name": "Hisar",
+        "lat": 29.15394,
+        "lng": 75.72294,
+        "country": "IN",
+        "state": "10",
+        "population": 296436
+    },
+    "1270032": {
+        "geoid": "1270032",
+        "name": "Hiriyūr",
+        "lat": 13.94455,
+        "lng": 76.61723,
+        "country": "IN",
+        "state": "19",
+        "population": 53519
+    },
+    "1270072": {
+        "geoid": "1270072",
+        "name": "Hingoli",
+        "lat": 19.71464,
+        "lng": 77.14238,
+        "country": "IN",
+        "state": "16",
+        "population": 75878
+    },
+    "1270077": {
+        "geoid": "1270077",
+        "name": "Hinganghāt",
+        "lat": 20.54875,
+        "lng": 78.83978,
+        "country": "IN",
+        "state": "16",
+        "population": 97568
+    },
+    "1270079": {
+        "geoid": "1270079",
+        "name": "Hindupur",
+        "lat": 13.82807,
+        "lng": 77.49143,
+        "country": "IN",
+        "state": "02",
+        "population": 133298
+    },
+    "1270090": {
+        "geoid": "1270090",
+        "name": "Hindaun",
+        "lat": 26.73411,
+        "lng": 77.03519,
+        "country": "IN",
+        "state": "24",
+        "population": 95593
+    },
+    "1270099": {
+        "geoid": "1270099",
+        "name": "Himatnagar",
+        "lat": 23.59893,
+        "lng": 72.96602,
+        "country": "IN",
+        "state": "09",
+        "population": 60634
+    },
+    "1270164": {
+        "geoid": "1270164",
+        "name": "Hazārībāg",
+        "lat": 23.99507,
+        "lng": 85.36109,
+        "country": "IN",
+        "state": "38",
+        "population": 140063
+    },
+    "1270171": {
+        "geoid": "1270171",
+        "name": "Hāveri",
+        "lat": 14.79354,
+        "lng": 75.40448,
+        "country": "IN",
+        "state": "19",
+        "population": 60155
+    },
+    "1270216": {
+        "geoid": "1270216",
+        "name": "Hāthras",
+        "lat": 27.59551,
+        "lng": 78.05201,
+        "country": "IN",
+        "state": "36",
+        "population": 126882
+    },
+    "1270239": {
+        "geoid": "1270239",
+        "name": "Hassan",
+        "lat": 13.00715,
+        "lng": 76.0962,
+        "country": "IN",
+        "state": "19",
+        "population": 128531
+    },
+    "1270251": {
+        "geoid": "1270251",
+        "name": "Hasanpur",
+        "lat": 28.72249,
+        "lng": 78.28436,
+        "country": "IN",
+        "state": "36",
+        "population": 57481
+    },
+    "1270349": {
+        "geoid": "1270349",
+        "name": "Harihar",
+        "lat": 14.51288,
+        "lng": 75.80716,
+        "country": "IN",
+        "state": "19",
+        "population": 78034
+    },
+    "1270351": {
+        "geoid": "1270351",
+        "name": "Haridwar",
+        "lat": 29.94791,
+        "lng": 78.16025,
+        "country": "IN",
+        "state": "39",
+        "population": 186079
+    },
+    "1270370": {
+        "geoid": "1270370",
+        "name": "Hardoī",
+        "lat": 27.39491,
+        "lng": 80.13165,
+        "country": "IN",
+        "state": "36",
+        "population": 122635
+    },
+    "1270375": {
+        "geoid": "1270375",
+        "name": "Harda Khās",
+        "lat": 22.34414,
+        "lng": 77.09536,
+        "country": "IN",
+        "state": "35",
+        "population": 67387
+    },
+    "1270393": {
+        "geoid": "1270393",
+        "name": "Hāpur",
+        "lat": 28.72985,
+        "lng": 77.78068,
+        "country": "IN",
+        "state": "36",
+        "population": 242920
+    },
+    "1270396": {
+        "geoid": "1270396",
+        "name": "Hāora",
+        "lat": 22.57688,
+        "lng": 88.31857,
+        "country": "IN",
+        "state": "28",
+        "population": 1027672
+    },
+    "1270407": {
+        "geoid": "1270407",
+        "name": "Hanumāngarh",
+        "lat": 29.58182,
+        "lng": 74.32938,
+        "country": "IN",
+        "state": "24",
+        "population": 155687
+    },
+    "1270417": {
+        "geoid": "1270417",
+        "name": "Hānsi",
+        "lat": 29.10239,
+        "lng": 75.96253,
+        "country": "IN",
+        "state": "10",
+        "population": 82407
+    },
+    "1270484": {
+        "geoid": "1270484",
+        "name": "Hālīsahar",
+        "lat": 22.93218,
+        "lng": 88.41859,
+        "country": "IN",
+        "state": "28",
+        "population": 128172
+    },
+    "1270498": {
+        "geoid": "1270498",
+        "name": "Haldwani",
+        "lat": 29.22254,
+        "lng": 79.5286,
+        "country": "IN",
+        "state": "39",
+        "population": 139497
+    },
+    "1270525": {
+        "geoid": "1270525",
+        "name": "Hājīpur",
+        "lat": 25.68544,
+        "lng": 85.20981,
+        "country": "IN",
+        "state": "34",
+        "population": 133606
+    },
+    "1270568": {
+        "geoid": "1270568",
+        "name": "Hābra",
+        "lat": 22.84202,
+        "lng": 88.65606,
+        "country": "IN",
+        "state": "28",
+        "population": 139297
+    },
+    "1270583": {
+        "geoid": "1270583",
+        "name": "Gwalior",
+        "lat": 26.22983,
+        "lng": 78.17337,
+        "country": "IN",
+        "state": "35",
+        "population": 882458
+    },
+    "1270642": {
+        "geoid": "1270642",
+        "name": "Gurgaon",
+        "lat": 28.4601,
+        "lng": 77.02635,
+        "country": "IN",
+        "state": "10",
+        "population": 197340
+    },
+    "1270668": {
+        "geoid": "1270668",
+        "name": "Guntur",
+        "lat": 16.29974,
+        "lng": 80.45729,
+        "country": "IN",
+        "state": "02",
+        "population": 530577
+    },
+    "1270670": {
+        "geoid": "1270670",
+        "name": "Guntakal Junction",
+        "lat": 15.17112,
+        "lng": 77.36244,
+        "country": "IN",
+        "state": "02",
+        "population": 120964
+    },
+    "1270711": {
+        "geoid": "1270711",
+        "name": "Guna",
+        "lat": 24.64691,
+        "lng": 77.3113,
+        "country": "IN",
+        "state": "35",
+        "population": 153689
+    },
+    "1270752": {
+        "geoid": "1270752",
+        "name": "Gulbarga",
+        "lat": 17.33583,
+        "lng": 76.83757,
+        "country": "IN",
+        "state": "19",
+        "population": 483615
+    },
+    "1270791": {
+        "geoid": "1270791",
+        "name": "Gūdūr",
+        "lat": 14.14903,
+        "lng": 79.8514,
+        "country": "IN",
+        "state": "02",
+        "population": 74851
+    },
+    "1270800": {
+        "geoid": "1270800",
+        "name": "Gudiyatham",
+        "lat": 12.94601,
+        "lng": 78.87377,
+        "country": "IN",
+        "state": "25",
+        "population": 93973
+    },
+    "1270801": {
+        "geoid": "1270801",
+        "name": "Gudivāda",
+        "lat": 16.43547,
+        "lng": 80.99555,
+        "country": "IN",
+        "state": "02",
+        "population": 116161
+    },
+    "1270845": {
+        "geoid": "1270845",
+        "name": "Goyerkāta",
+        "lat": 26.69984,
+        "lng": 89.02565,
+        "country": "IN",
+        "state": "28",
+        "population": 66358
+    },
+    "1270896": {
+        "geoid": "1270896",
+        "name": "Gosāba",
+        "lat": 22.16547,
+        "lng": 88.8007,
+        "country": "IN",
+        "state": "28",
+        "population": 222764
+    },
+    "1270926": {
+        "geoid": "1270926",
+        "name": "Gorakhpur",
+        "lat": 29.44768,
+        "lng": 75.67206,
+        "country": "IN",
+        "state": "10",
+        "population": 1324570
+    },
+    "1270927": {
+        "geoid": "1270927",
+        "name": "Gorakhpur",
+        "lat": 26.76628,
+        "lng": 83.36889,
+        "country": "IN",
+        "state": "36",
+        "population": 674246
+    },
+    "1270947": {
+        "geoid": "1270947",
+        "name": "Gobichettipalayam",
+        "lat": 11.45496,
+        "lng": 77.4422,
+        "country": "IN",
+        "state": "25",
+        "population": 57527
+    },
+    "1270965": {
+        "geoid": "1270965",
+        "name": "Gopālganj",
+        "lat": 26.46734,
+        "lng": 84.44041,
+        "country": "IN",
+        "state": "34",
+        "population": 63725
+    },
+    "1270990": {
+        "geoid": "1270990",
+        "name": "Gondiā",
+        "lat": 21.46026,
+        "lng": 80.19205,
+        "country": "IN",
+        "state": "16",
+        "population": 124897
+    },
+    "1270994": {
+        "geoid": "1270994",
+        "name": "Gondal",
+        "lat": 21.96074,
+        "lng": 70.80255,
+        "country": "IN",
+        "state": "09",
+        "population": 101801
+    },
+    "1270996": {
+        "geoid": "1270996",
+        "name": "Gondā City",
+        "lat": 27.13181,
+        "lng": 81.95332,
+        "country": "IN",
+        "state": "36",
+        "population": 133583
+    },
+    "1271049": {
+        "geoid": "1271049",
+        "name": "Gola Gokarannāth",
+        "lat": 28.07837,
+        "lng": 80.47054,
+        "country": "IN",
+        "state": "36",
+        "population": 58986
+    },
+    "1271067": {
+        "geoid": "1271067",
+        "name": "Gokak",
+        "lat": 16.16901,
+        "lng": 74.82393,
+        "country": "IN",
+        "state": "19",
+        "population": 73478
+    },
+    "1271079": {
+        "geoid": "1271079",
+        "name": "Gohāna",
+        "lat": 29.13777,
+        "lng": 76.70247,
+        "country": "IN",
+        "state": "10",
+        "population": 56093
+    },
+    "1271083": {
+        "geoid": "1271083",
+        "name": "Gohadi",
+        "lat": 26.43278,
+        "lng": 78.44205,
+        "country": "IN",
+        "state": "35",
+        "population": 51635
+    },
+    "1271107": {
+        "geoid": "1271107",
+        "name": "Godhra",
+        "lat": 22.77547,
+        "lng": 73.61488,
+        "country": "IN",
+        "state": "09",
+        "population": 131913
+    },
+    "1271151": {
+        "geoid": "1271151",
+        "name": "Goālpāra",
+        "lat": 26.17668,
+        "lng": 90.62634,
+        "country": "IN",
+        "state": "03",
+        "population": 50759
+    },
+    "1271175": {
+        "geoid": "1271175",
+        "name": "Girīdīh",
+        "lat": 24.18561,
+        "lng": 86.30772,
+        "country": "IN",
+        "state": "38",
+        "population": 60000
+    },
+    "1271306": {
+        "geoid": "1271306",
+        "name": "Ghazīpur",
+        "lat": 25.58333,
+        "lng": 83.58526,
+        "country": "IN",
+        "state": "36",
+        "population": 103095
+    },
+    "1271308": {
+        "geoid": "1271308",
+        "name": "Ghāziābād",
+        "lat": 28.66535,
+        "lng": 77.43915,
+        "country": "IN",
+        "state": "36",
+        "population": 1199191
+    },
+    "1271346": {
+        "geoid": "1271346",
+        "name": "Ghātāl",
+        "lat": 22.66244,
+        "lng": 87.73399,
+        "country": "IN",
+        "state": "28",
+        "population": 54658
+    },
+    "1271439": {
+        "geoid": "1271439",
+        "name": "Gaya",
+        "lat": 24.79686,
+        "lng": 85.00385,
+        "country": "IN",
+        "state": "34",
+        "population": 423692
+    },
+    "1271476": {
+        "geoid": "1271476",
+        "name": "Guwahati",
+        "lat": 26.1844,
+        "lng": 91.7458,
+        "country": "IN",
+        "state": "03",
+        "population": 899094
+    },
+    "1271644": {
+        "geoid": "1271644",
+        "name": "Gangoh",
+        "lat": 29.78004,
+        "lng": 77.26346,
+        "country": "IN",
+        "state": "36",
+        "population": 59519
+    },
+    "1271662": {
+        "geoid": "1271662",
+        "name": "Gangāwati",
+        "lat": 15.4313,
+        "lng": 76.52933,
+        "country": "IN",
+        "state": "19",
+        "population": 106250
+    },
+    "1271670": {
+        "geoid": "1271670",
+        "name": "Gangārāmpur",
+        "lat": 25.40138,
+        "lng": 88.52978,
+        "country": "IN",
+        "state": "28",
+        "population": 65316
+    },
+    "1271675": {
+        "geoid": "1271675",
+        "name": "Gangāpur",
+        "lat": 26.47249,
+        "lng": 76.71744,
+        "country": "IN",
+        "state": "24",
+        "population": 120115
+    },
+    "1271685": {
+        "geoid": "1271685",
+        "name": "Gangānagar",
+        "lat": 29.92009,
+        "lng": 73.87496,
+        "country": "IN",
+        "state": "24",
+        "population": 231838
+    },
+    "1271715": {
+        "geoid": "1271715",
+        "name": "Ghandinagar",
+        "lat": 23.21667,
+        "lng": 72.68333,
+        "country": "IN",
+        "state": "09",
+        "population": 195985
+    },
+    "1271717": {
+        "geoid": "1271717",
+        "name": "Gāndhīdhām",
+        "lat": 23.08333,
+        "lng": 70.13333,
+        "country": "IN",
+        "state": "09",
+        "population": 166388
+    },
+    "1271780": {
+        "geoid": "1271780",
+        "name": "Gajraula",
+        "lat": 28.8457,
+        "lng": 78.2396,
+        "country": "IN",
+        "state": "36",
+        "population": 50380
+    },
+    "1271819": {
+        "geoid": "1271819",
+        "name": "Gadwāl",
+        "lat": 16.23504,
+        "lng": 77.79556,
+        "country": "IN",
+        "state": "40",
+        "population": 55952
+    },
+    "1271850": {
+        "geoid": "1271850",
+        "name": "Gadag",
+        "lat": 15.42977,
+        "lng": 75.62971,
+        "country": "IN",
+        "state": "19",
+        "population": 162569
+    },
+    "1271883": {
+        "geoid": "1271883",
+        "name": "Ferozepore",
+        "lat": 30.92574,
+        "lng": 74.61311,
+        "country": "IN",
+        "state": "23",
+        "population": 102130
+    },
+    "1271885": {
+        "geoid": "1271885",
+        "name": "Fīrozābād",
+        "lat": 27.15092,
+        "lng": 78.39781,
+        "country": "IN",
+        "state": "36",
+        "population": 306409
+    },
+    "1271891": {
+        "geoid": "1271891",
+        "name": "Fāzilka",
+        "lat": 30.40207,
+        "lng": 74.02836,
+        "country": "IN",
+        "state": "23",
+        "population": 70887
+    },
+    "1271910": {
+        "geoid": "1271910",
+        "name": "Fatehpur",
+        "lat": 27.99486,
+        "lng": 74.95628,
+        "country": "IN",
+        "state": "24",
+        "population": 83170
+    },
+    "1271912": {
+        "geoid": "1271912",
+        "name": "Fatehpur",
+        "lat": 25.92774,
+        "lng": 80.81266,
+        "country": "IN",
+        "state": "36",
+        "population": 166480
+    },
+    "1271934": {
+        "geoid": "1271934",
+        "name": "Fatehābād",
+        "lat": 29.51525,
+        "lng": 75.45554,
+        "country": "IN",
+        "state": "10",
+        "population": 66013
+    },
+    "1271942": {
+        "geoid": "1271942",
+        "name": "Farrukhābād",
+        "lat": 27.39134,
+        "lng": 79.5793,
+        "country": "IN",
+        "state": "36",
+        "population": 241152
+    },
+    "1271947": {
+        "geoid": "1271947",
+        "name": "Farīdpur",
+        "lat": 28.20997,
+        "lng": 79.54149,
+        "country": "IN",
+        "state": "36",
+        "population": 71783
+    },
+    "1271949": {
+        "geoid": "1271949",
+        "name": "Farīdkot",
+        "lat": 30.67399,
+        "lng": 74.75579,
+        "country": "IN",
+        "state": "23",
+        "population": 77450
+    },
+    "1271951": {
+        "geoid": "1271951",
+        "name": "Farīdābād",
+        "lat": 28.41124,
+        "lng": 77.31316,
+        "country": "IN",
+        "state": "10",
+        "population": 1220229
+    },
+    "1271976": {
+        "geoid": "1271976",
+        "name": "Fyzābād",
+        "lat": 26.77549,
+        "lng": 82.15018,
+        "country": "IN",
+        "state": "36",
+        "population": 153047
+    },
+    "1271987": {
+        "geoid": "1271987",
+        "name": "Etāwah",
+        "lat": 26.77615,
+        "lng": 79.02133,
+        "country": "IN",
+        "state": "36",
+        "population": 257448
+    },
+    "1272013": {
+        "geoid": "1272013",
+        "name": "Erode",
+        "lat": 11.3428,
+        "lng": 77.72741,
+        "country": "IN",
+        "state": "25",
+        "population": 147270
+    },
+    "1272045": {
+        "geoid": "1272045",
+        "name": "Emmiganūr",
+        "lat": 15.77203,
+        "lng": 77.48345,
+        "country": "IN",
+        "state": "02",
+        "population": 80933
+    },
+    "1272051": {
+        "geoid": "1272051",
+        "name": "Ellore",
+        "lat": 16.71311,
+        "lng": 81.10437,
+        "country": "IN",
+        "state": "02",
+        "population": 183387
+    },
+    "1272175": {
+        "geoid": "1272175",
+        "name": "Durgapur",
+        "lat": 23.51583,
+        "lng": 87.30801,
+        "country": "IN",
+        "state": "28",
+        "population": 518872
+    },
+    "1272181": {
+        "geoid": "1272181",
+        "name": "Durg",
+        "lat": 21.19147,
+        "lng": 81.27619,
+        "country": "IN",
+        "state": "37",
+        "population": 255283
+    },
+    "1272225": {
+        "geoid": "1272225",
+        "name": "Dumraon",
+        "lat": 25.55265,
+        "lng": 84.15149,
+        "country": "IN",
+        "state": "34",
+        "population": 50524
+    },
+    "1272243": {
+        "geoid": "1272243",
+        "name": "Dam Dam",
+        "lat": 22.63341,
+        "lng": 88.42286,
+        "country": "IN",
+        "state": "28",
+        "population": 122719
+    },
+    "1272423": {
+        "geoid": "1272423",
+        "name": "Dombivli",
+        "lat": 19.21667,
+        "lng": 73.08333,
+        "country": "IN",
+        "state": "16",
+        "population": 1193000
+    },
+    "1272473": {
+        "geoid": "1272473",
+        "name": "Dod Ballāpur",
+        "lat": 13.29452,
+        "lng": 77.53777,
+        "country": "IN",
+        "state": "19",
+        "population": 78676
+    },
+    "1272513": {
+        "geoid": "1272513",
+        "name": "Dīsa",
+        "lat": 24.25612,
+        "lng": 72.17928,
+        "country": "IN",
+        "state": "09",
+        "population": 92224
+    },
+    "1272525": {
+        "geoid": "1272525",
+        "name": "Diphu",
+        "lat": 25.84341,
+        "lng": 93.43116,
+        "country": "IN",
+        "state": "03",
+        "population": 57097
+    },
+    "1272543": {
+        "geoid": "1272543",
+        "name": "Dindigul",
+        "lat": 10.36896,
+        "lng": 77.98036,
+        "country": "IN",
+        "state": "25",
+        "population": 200797
+    },
+    "1272552": {
+        "geoid": "1272552",
+        "name": "Dimāpur",
+        "lat": 25.91174,
+        "lng": 93.7217,
+        "country": "IN",
+        "state": "20",
+        "population": 135860
+    },
+    "1272606": {
+        "geoid": "1272606",
+        "name": "Dīglūr",
+        "lat": 18.54829,
+        "lng": 77.57695,
+        "country": "IN",
+        "state": "16",
+        "population": 52596
+    },
+    "1272648": {
+        "geoid": "1272648",
+        "name": "Dibrugarh",
+        "lat": 27.47989,
+        "lng": 94.90837,
+        "country": "IN",
+        "state": "03",
+        "population": 122155
+    },
+    "1272670": {
+        "geoid": "1272670",
+        "name": "Dhūri",
+        "lat": 30.36846,
+        "lng": 75.86791,
+        "country": "IN",
+        "state": "23",
+        "population": 54302
+    },
+    "1272689": {
+        "geoid": "1272689",
+        "name": "Dhuliān",
+        "lat": 24.68127,
+        "lng": 87.9535,
+        "country": "IN",
+        "state": "28",
+        "population": 77070
+    },
+    "1272691": {
+        "geoid": "1272691",
+        "name": "Dhūlia",
+        "lat": 20.9013,
+        "lng": 74.77737,
+        "country": "IN",
+        "state": "16",
+        "population": 366980
+    },
+    "1272694": {
+        "geoid": "1272694",
+        "name": "Dhuburi",
+        "lat": 26.01856,
+        "lng": 89.98564,
+        "country": "IN",
+        "state": "03",
+        "population": 62525
+    },
+    "1272701": {
+        "geoid": "1272701",
+        "name": "Dhrāngadhra",
+        "lat": 22.99167,
+        "lng": 71.46793,
+        "country": "IN",
+        "state": "09",
+        "population": 75578
+    },
+    "1272720": {
+        "geoid": "1272720",
+        "name": "Dhorāji",
+        "lat": 21.73359,
+        "lng": 70.45004,
+        "country": "IN",
+        "state": "09",
+        "population": 81445
+    },
+    "1272733": {
+        "geoid": "1272733",
+        "name": "Dholka",
+        "lat": 22.72732,
+        "lng": 72.44128,
+        "country": "IN",
+        "state": "09",
+        "population": 54977
+    },
+    "1272780": {
+        "geoid": "1272780",
+        "name": "Dhenkānāl",
+        "lat": 20.65744,
+        "lng": 85.59693,
+        "country": "IN",
+        "state": "21",
+        "population": 62230
+    },
+    "1272805": {
+        "geoid": "1272805",
+        "name": "Dhaulpur",
+        "lat": 26.69286,
+        "lng": 77.87968,
+        "country": "IN",
+        "state": "24",
+        "population": 102462
+    },
+    "1272842": {
+        "geoid": "1272842",
+        "name": "Dharmavaram",
+        "lat": 14.41435,
+        "lng": 77.72035,
+        "country": "IN",
+        "state": "02",
+        "population": 114050
+    },
+    "1272847": {
+        "geoid": "1272847",
+        "name": "Dharmapuri",
+        "lat": 12.1277,
+        "lng": 78.15794,
+        "country": "IN",
+        "state": "25",
+        "population": 66017
+    },
+    "1272873": {
+        "geoid": "1272873",
+        "name": "Dharapuram",
+        "lat": 10.73828,
+        "lng": 77.53223,
+        "country": "IN",
+        "state": "25",
+        "population": 72291
+    },
+    "1272892": {
+        "geoid": "1272892",
+        "name": "Dhār",
+        "lat": 22.59373,
+        "lng": 75.29774,
+        "country": "IN",
+        "state": "35",
+        "population": 82438
+    },
+    "1272979": {
+        "geoid": "1272979",
+        "name": "Dhanbād",
+        "lat": 23.80199,
+        "lng": 86.44324,
+        "country": "IN",
+        "state": "38",
+        "population": 219636
+    },
+    "1272997": {
+        "geoid": "1272997",
+        "name": "Dhamtari",
+        "lat": 20.70718,
+        "lng": 81.54874,
+        "country": "IN",
+        "state": "37",
+        "population": 87151
+    },
+    "1273066": {
+        "geoid": "1273066",
+        "name": "Dewas",
+        "lat": 22.96585,
+        "lng": 76.05526,
+        "country": "IN",
+        "state": "35",
+        "population": 261218
+    },
+    "1273193": {
+        "geoid": "1273193",
+        "name": "Deoria",
+        "lat": 26.50167,
+        "lng": 83.77936,
+        "country": "IN",
+        "state": "36",
+        "population": 129570
+    },
+    "1273232": {
+        "geoid": "1273232",
+        "name": "Deolāli",
+        "lat": 19.94404,
+        "lng": 73.83441,
+        "country": "IN",
+        "state": "16",
+        "population": 52958
+    },
+    "1273265": {
+        "geoid": "1273265",
+        "name": "Deoband",
+        "lat": 29.69505,
+        "lng": 77.67964,
+        "country": "IN",
+        "state": "36",
+        "population": 88171
+    },
+    "1273294": {
+        "geoid": "1273294",
+        "name": "Delhi",
+        "lat": 28.65195,
+        "lng": 77.23149,
+        "country": "IN",
+        "state": "07",
+        "population": 10927986
+    },
+    "1273309": {
+        "geoid": "1273309",
+        "name": "Dehri",
+        "lat": 24.90247,
+        "lng": 84.18217,
+        "country": "IN",
+        "state": "34",
+        "population": 129938
+    },
+    "1273313": {
+        "geoid": "1273313",
+        "name": "Dehra Dūn",
+        "lat": 30.32443,
+        "lng": 78.03392,
+        "country": "IN",
+        "state": "39",
+        "population": 522081
+    },
+    "1273369": {
+        "geoid": "1273369",
+        "name": "Dausa",
+        "lat": 26.89,
+        "lng": 76.33584,
+        "country": "IN",
+        "state": "24",
+        "population": 73034
+    },
+    "1273403": {
+        "geoid": "1273403",
+        "name": "Datia",
+        "lat": 25.67312,
+        "lng": 78.45908,
+        "country": "IN",
+        "state": "35",
+        "population": 90628
+    },
+    "1273467": {
+        "geoid": "1273467",
+        "name": "Dārjiling",
+        "lat": 27.03333,
+        "lng": 88.26667,
+        "country": "IN",
+        "state": "28",
+        "population": 123797
+    },
+    "1273491": {
+        "geoid": "1273491",
+        "name": "Darbhanga",
+        "lat": 26.15216,
+        "lng": 85.89707,
+        "country": "IN",
+        "state": "34",
+        "population": 287150
+    },
+    "1273574": {
+        "geoid": "1273574",
+        "name": "Dandeli",
+        "lat": 15.26667,
+        "lng": 74.61667,
+        "country": "IN",
+        "state": "19",
+        "population": 52295
+    },
+    "1273581": {
+        "geoid": "1273581",
+        "name": "Dinapore",
+        "lat": 25.63705,
+        "lng": 85.04794,
+        "country": "IN",
+        "state": "34",
+        "population": 152940
+    },
+    "1273587": {
+        "geoid": "1273587",
+        "name": "Damoh",
+        "lat": 23.83312,
+        "lng": 79.4419,
+        "country": "IN",
+        "state": "35",
+        "population": 118776
+    },
+    "1273626": {
+        "geoid": "1273626",
+        "name": "Daltonganj",
+        "lat": 24.03971,
+        "lng": 84.0658,
+        "country": "IN",
+        "state": "38",
+        "population": 77704
+    },
+    "1273687": {
+        "geoid": "1273687",
+        "name": "Dohad",
+        "lat": 22.83283,
+        "lng": 74.25986,
+        "country": "IN",
+        "state": "09",
+        "population": 83966
+    },
+    "1273724": {
+        "geoid": "1273724",
+        "name": "Dādri",
+        "lat": 28.55257,
+        "lng": 77.55403,
+        "country": "IN",
+        "state": "36",
+        "population": 70609
+    },
+    "1273745": {
+        "geoid": "1273745",
+        "name": "Dabwāli",
+        "lat": 29.94906,
+        "lng": 74.73832,
+        "country": "IN",
+        "state": "10",
+        "population": 62113
+    },
+    "1273751": {
+        "geoid": "1273751",
+        "name": "Dabra",
+        "lat": 25.88572,
+        "lng": 78.33221,
+        "country": "IN",
+        "state": "35",
+        "population": 60836
+    },
+    "1273766": {
+        "geoid": "1273766",
+        "name": "Dabhoi",
+        "lat": 22.18333,
+        "lng": 73.43333,
+        "country": "IN",
+        "state": "09",
+        "population": 56253
+    },
+    "1273780": {
+        "geoid": "1273780",
+        "name": "Cuttack",
+        "lat": 20.46497,
+        "lng": 85.87927,
+        "country": "IN",
+        "state": "21",
+        "population": 580000
+    },
+    "1273800": {
+        "geoid": "1273800",
+        "name": "Cuddapah",
+        "lat": 14.4775,
+        "lng": 78.82353,
+        "country": "IN",
+        "state": "02",
+        "population": 127010
+    },
+    "1273802": {
+        "geoid": "1273802",
+        "name": "Cuddalore",
+        "lat": 11.74629,
+        "lng": 79.76436,
+        "country": "IN",
+        "state": "25",
+        "population": 158569
+    },
+    "1273865": {
+        "geoid": "1273865",
+        "name": "Coimbatore",
+        "lat": 11.00555,
+        "lng": 76.96612,
+        "country": "IN",
+        "state": "25",
+        "population": 959823
+    },
+    "1273874": {
+        "geoid": "1273874",
+        "name": "Cochin",
+        "lat": 9.93988,
+        "lng": 76.26022,
+        "country": "IN",
+        "state": "13",
+        "population": 604696
+    },
+    "1273892": {
+        "geoid": "1273892",
+        "name": "Chūru",
+        "lat": 28.30415,
+        "lng": 74.96718,
+        "country": "IN",
+        "state": "24",
+        "population": 103533
+    },
+    "1273992": {
+        "geoid": "1273992",
+        "name": "Chopda",
+        "lat": 21.24578,
+        "lng": 75.29946,
+        "country": "IN",
+        "state": "16",
+        "population": 65598
+    },
+    "1274040": {
+        "geoid": "1274040",
+        "name": "Chittaurgarh",
+        "lat": 24.88963,
+        "lng": 74.62403,
+        "country": "IN",
+        "state": "24",
+        "population": 106710
+    },
+    "1274056": {
+        "geoid": "1274056",
+        "name": "Chitradurga",
+        "lat": 14.22262,
+        "lng": 76.40038,
+        "country": "IN",
+        "state": "19",
+        "population": 138587
+    },
+    "1274106": {
+        "geoid": "1274106",
+        "name": "Chīrāla",
+        "lat": 15.82385,
+        "lng": 80.35219,
+        "country": "IN",
+        "state": "02",
+        "population": 87001
+    },
+    "1274119": {
+        "geoid": "1274119",
+        "name": "Chiplūn",
+        "lat": 17.53339,
+        "lng": 73.50935,
+        "country": "IN",
+        "state": "16",
+        "population": 51437
+    },
+    "1274129": {
+        "geoid": "1274129",
+        "name": "Chintāmani",
+        "lat": 13.40181,
+        "lng": 78.05448,
+        "country": "IN",
+        "state": "19",
+        "population": 71798
+    },
+    "1274213": {
+        "geoid": "1274213",
+        "name": "Chilakalūrupet",
+        "lat": 16.08987,
+        "lng": 80.16705,
+        "country": "IN",
+        "state": "02",
+        "population": 94011
+    },
+    "1274220": {
+        "geoid": "1274220",
+        "name": "Chikmagalūr",
+        "lat": 13.32231,
+        "lng": 75.774,
+        "country": "IN",
+        "state": "19",
+        "population": 121484
+    },
+    "1274237": {
+        "geoid": "1274237",
+        "name": "Chikhli",
+        "lat": 20.35046,
+        "lng": 76.25774,
+        "country": "IN",
+        "state": "16",
+        "population": 52841
+    },
+    "1274243": {
+        "geoid": "1274243",
+        "name": "Chik Ballāpur",
+        "lat": 13.43512,
+        "lng": 77.72787,
+        "country": "IN",
+        "state": "19",
+        "population": 57831
+    },
+    "1274256": {
+        "geoid": "1274256",
+        "name": "Chidambaram",
+        "lat": 11.39907,
+        "lng": 79.69113,
+        "country": "IN",
+        "state": "25",
+        "population": 58650
+    },
+    "1274304": {
+        "geoid": "1274304",
+        "name": "Chhindwāra",
+        "lat": 22.05697,
+        "lng": 78.93958,
+        "country": "IN",
+        "state": "35",
+        "population": 134847
+    },
+    "1274315": {
+        "geoid": "1274315",
+        "name": "Chhibrāmau",
+        "lat": 27.14872,
+        "lng": 79.50078,
+        "country": "IN",
+        "state": "36",
+        "population": 57071
+    },
+    "1274337": {
+        "geoid": "1274337",
+        "name": "Chhatarpur",
+        "lat": 24.9177,
+        "lng": 79.58871,
+        "country": "IN",
+        "state": "35",
+        "population": 111594
+    },
+    "1274353": {
+        "geoid": "1274353",
+        "name": "Chāpra",
+        "lat": 25.78031,
+        "lng": 84.74709,
+        "country": "IN",
+        "state": "34",
+        "population": 201597
+    },
+    "1274430": {
+        "geoid": "1274430",
+        "name": "Chengalpattu",
+        "lat": 12.69274,
+        "lng": 79.9773,
+        "country": "IN",
+        "state": "25",
+        "population": 65689
+    },
+    "1274553": {
+        "geoid": "1274553",
+        "name": "Chās",
+        "lat": 23.63556,
+        "lng": 86.16712,
+        "country": "IN",
+        "state": "38",
+        "population": 112141
+    },
+    "1274571": {
+        "geoid": "1274571",
+        "name": "Charkhi Dādri",
+        "lat": 28.59166,
+        "lng": 76.27161,
+        "country": "IN",
+        "state": "10",
+        "population": 50558
+    },
+    "1274641": {
+        "geoid": "1274641",
+        "name": "Channapatna",
+        "lat": 12.65481,
+        "lng": 77.20495,
+        "country": "IN",
+        "state": "19",
+        "population": 66647
+    },
+    "1274664": {
+        "geoid": "1274664",
+        "name": "Changanācheri",
+        "lat": 9.44203,
+        "lng": 76.53604,
+        "country": "IN",
+        "state": "13",
+        "population": 51430
+    },
+    "1274693": {
+        "geoid": "1274693",
+        "name": "Chānda",
+        "lat": 19.95076,
+        "lng": 79.29523,
+        "country": "IN",
+        "state": "16",
+        "population": 328351
+    },
+    "1274714": {
+        "geoid": "1274714",
+        "name": "Chāndpur",
+        "lat": 29.13489,
+        "lng": 78.27187,
+        "country": "IN",
+        "state": "36",
+        "population": 73555
+    },
+    "1274746": {
+        "geoid": "1274746",
+        "name": "Chandigarh",
+        "lat": 30.73629,
+        "lng": 76.7884,
+        "country": "IN",
+        "state": "05",
+        "population": 960787
+    },
+    "1274767": {
+        "geoid": "1274767",
+        "name": "Chanduasi",
+        "lat": 28.45178,
+        "lng": 78.78277,
+        "country": "IN",
+        "state": "36",
+        "population": 112635
+    },
+    "1274784": {
+        "geoid": "1274784",
+        "name": "Chandannagar",
+        "lat": 22.86225,
+        "lng": 88.36796,
+        "country": "IN",
+        "state": "28",
+        "population": 180623
+    },
+    "1274821": {
+        "geoid": "1274821",
+        "name": "Chamrajnagar",
+        "lat": 11.92312,
+        "lng": 76.93949,
+        "country": "IN",
+        "state": "19",
+        "population": 67992
+    },
+    "1274862": {
+        "geoid": "1274862",
+        "name": "Challakere",
+        "lat": 14.318,
+        "lng": 76.65165,
+        "country": "IN",
+        "state": "19",
+        "population": 53506
+    },
+    "1274868": {
+        "geoid": "1274868",
+        "name": "Chālisgaon",
+        "lat": 20.45781,
+        "lng": 75.01596,
+        "country": "IN",
+        "state": "16",
+        "population": 96381
+    },
+    "1274928": {
+        "geoid": "1274928",
+        "name": "Chāībāsa",
+        "lat": 22.54825,
+        "lng": 85.80458,
+        "country": "IN",
+        "state": "38",
+        "population": 66252
+    },
+    "1274987": {
+        "geoid": "1274987",
+        "name": "Cannanore",
+        "lat": 11.86752,
+        "lng": 75.35763,
+        "country": "IN",
+        "state": "13",
+        "population": 62836
+    },
+    "1275004": {
+        "geoid": "1275004",
+        "name": "Kolkata",
+        "lat": 22.56263,
+        "lng": 88.36304,
+        "country": "IN",
+        "state": "28",
+        "population": 4631392
+    },
+    "1275019": {
+        "geoid": "1275019",
+        "name": "Buxar",
+        "lat": 25.57548,
+        "lng": 83.98043,
+        "country": "IN",
+        "state": "34",
+        "population": 96120
+    },
+    "1275068": {
+        "geoid": "1275068",
+        "name": "Burhānpur",
+        "lat": 21.30868,
+        "lng": 76.23026,
+        "country": "IN",
+        "state": "35",
+        "population": 202695
+    },
+    "1275103": {
+        "geoid": "1275103",
+        "name": "Būndi",
+        "lat": 25.43855,
+        "lng": 75.63735,
+        "country": "IN",
+        "state": "24",
+        "population": 98569
+    },
+    "1275117": {
+        "geoid": "1275117",
+        "name": "Buldāna",
+        "lat": 20.52933,
+        "lng": 76.18457,
+        "country": "IN",
+        "state": "16",
+        "population": 66991
+    },
+    "1275120": {
+        "geoid": "1275120",
+        "name": "Bulandshahr",
+        "lat": 28.40392,
+        "lng": 77.85773,
+        "country": "IN",
+        "state": "36",
+        "population": 198612
+    },
+    "1275163": {
+        "geoid": "1275163",
+        "name": "Budaun",
+        "lat": 28.03811,
+        "lng": 79.12668,
+        "country": "IN",
+        "state": "36",
+        "population": 161555
+    },
+    "1275194": {
+        "geoid": "1275194",
+        "name": "Brājarājnagar",
+        "lat": 21.81667,
+        "lng": 83.91667,
+        "country": "IN",
+        "state": "21",
+        "population": 79421
+    },
+    "1275198": {
+        "geoid": "1275198",
+        "name": "Brahmapur",
+        "lat": 19.31151,
+        "lng": 84.7929,
+        "country": "IN",
+        "state": "21",
+        "population": 324726
+    },
+    "1275218": {
+        "geoid": "1275218",
+        "name": "Botād",
+        "lat": 22.16917,
+        "lng": 71.66671,
+        "country": "IN",
+        "state": "09",
+        "population": 117053
+    },
+    "1275230": {
+        "geoid": "1275230",
+        "name": "Borsad",
+        "lat": 22.40788,
+        "lng": 72.89817,
+        "country": "IN",
+        "state": "09",
+        "population": 60271
+    },
+    "1275248": {
+        "geoid": "1275248",
+        "name": "Borivli",
+        "lat": 19.23496,
+        "lng": 72.85976,
+        "country": "IN",
+        "state": "16",
+        "population": 609617
+    },
+    "1275321": {
+        "geoid": "1275321",
+        "name": "Bongaigaon",
+        "lat": 26.47703,
+        "lng": 90.55815,
+        "country": "IN",
+        "state": "03",
+        "population": 64902
+    },
+    "1275339": {
+        "geoid": "1275339",
+        "name": "Mumbai",
+        "lat": 19.07283,
+        "lng": 72.88261,
+        "country": "IN",
+        "state": "16",
+        "population": 12691836
+    },
+    "1275346": {
+        "geoid": "1275346",
+        "name": "Bolpur",
+        "lat": 23.66278,
+        "lng": 87.69695,
+        "country": "IN",
+        "state": "28",
+        "population": 70998
+    },
+    "1275362": {
+        "geoid": "1275362",
+        "name": "Bokāro",
+        "lat": 23.78732,
+        "lng": 85.95622,
+        "country": "IN",
+        "state": "38",
+        "population": 418533
+    },
+    "1275388": {
+        "geoid": "1275388",
+        "name": "Bodināyakkanūr",
+        "lat": 10.01171,
+        "lng": 77.34976,
+        "country": "IN",
+        "state": "25",
+        "population": 75680
+    },
+    "1275391": {
+        "geoid": "1275391",
+        "name": "Bodhan",
+        "lat": 18.66208,
+        "lng": 77.88581,
+        "country": "IN",
+        "state": "40",
+        "population": 73938
+    },
+    "1275406": {
+        "geoid": "1275406",
+        "name": "Bobbili",
+        "lat": 18.57366,
+        "lng": 83.35925,
+        "country": "IN",
+        "state": "02",
+        "population": 52843
+    },
+    "1275435": {
+        "geoid": "1275435",
+        "name": "Biswān",
+        "lat": 27.49581,
+        "lng": 80.99618,
+        "country": "IN",
+        "state": "36",
+        "population": 52516
+    },
+    "1275462": {
+        "geoid": "1275462",
+        "name": "Bishnupur",
+        "lat": 23.0738,
+        "lng": 87.31991,
+        "country": "IN",
+        "state": "28",
+        "population": 64041
+    },
+    "1275481": {
+        "geoid": "1275481",
+        "name": "Bīsalpur",
+        "lat": 28.29253,
+        "lng": 79.80472,
+        "country": "IN",
+        "state": "36",
+        "population": 68355
+    },
+    "1275582": {
+        "geoid": "1275582",
+        "name": "Etāwa",
+        "lat": 24.18351,
+        "lng": 78.20289,
+        "country": "IN",
+        "state": "35",
+        "population": 55185
+    },
+    "1275610": {
+        "geoid": "1275610",
+        "name": "Bilimora",
+        "lat": 20.76957,
+        "lng": 72.96134,
+        "country": "IN",
+        "state": "09",
+        "population": 510879
+    },
+    "1275637": {
+        "geoid": "1275637",
+        "name": "Bilāspur",
+        "lat": 22.08005,
+        "lng": 82.15543,
+        "country": "IN",
+        "state": "37",
+        "population": 282705
+    },
+    "1275665": {
+        "geoid": "1275665",
+        "name": "Bīkaner",
+        "lat": 28.01762,
+        "lng": 73.31495,
+        "country": "IN",
+        "state": "24",
+        "population": 576015
+    },
+    "1275679": {
+        "geoid": "1275679",
+        "name": "Bijnor",
+        "lat": 29.373,
+        "lng": 78.13636,
+        "country": "IN",
+        "state": "36",
+        "population": 84593
+    },
+    "1275701": {
+        "geoid": "1275701",
+        "name": "Bijapur",
+        "lat": 16.82442,
+        "lng": 75.71537,
+        "country": "IN",
+        "state": "19",
+        "population": 271064
+    },
+    "1275716": {
+        "geoid": "1275716",
+        "name": "Bihār",
+        "lat": 25.20084,
+        "lng": 85.52389,
+        "country": "IN",
+        "state": "34",
+        "population": 244230
+    },
+    "1275738": {
+        "geoid": "1275738",
+        "name": "Bīdar",
+        "lat": 17.91331,
+        "lng": 77.53011,
+        "country": "IN",
+        "state": "19",
+        "population": 204071
+    },
+    "1275778": {
+        "geoid": "1275778",
+        "name": "Bhusāval",
+        "lat": 21.04365,
+        "lng": 75.78506,
+        "country": "IN",
+        "state": "16",
+        "population": 183001
+    },
+    "1275812": {
+        "geoid": "1275812",
+        "name": "Bhuj",
+        "lat": 23.25397,
+        "lng": 69.66928,
+        "country": "IN",
+        "state": "09",
+        "population": 133459
+    },
+    "1275817": {
+        "geoid": "1275817",
+        "name": "Bhubaneshwar",
+        "lat": 20.27241,
+        "lng": 85.83385,
+        "country": "IN",
+        "state": "21",
+        "population": 762243
+    },
+    "1275841": {
+        "geoid": "1275841",
+        "name": "Bhopal",
+        "lat": 23.25469,
+        "lng": 77.40289,
+        "country": "IN",
+        "state": "35",
+        "population": 1599914
+    },
+    "1275848": {
+        "geoid": "1275848",
+        "name": "Bhongīr",
+        "lat": 17.51544,
+        "lng": 78.88563,
+        "country": "IN",
+        "state": "40",
+        "population": 50094
+    },
+    "1275899": {
+        "geoid": "1275899",
+        "name": "Bhiwāni",
+        "lat": 28.79304,
+        "lng": 76.13968,
+        "country": "IN",
+        "state": "10",
+        "population": 190855
+    },
+    "1275901": {
+        "geoid": "1275901",
+        "name": "Bhiwandi",
+        "lat": 19.30023,
+        "lng": 73.05881,
+        "country": "IN",
+        "state": "16",
+        "population": 707035
+    },
+    "1275926": {
+        "geoid": "1275926",
+        "name": "Bhind",
+        "lat": 26.56671,
+        "lng": 78.78728,
+        "country": "IN",
+        "state": "35",
+        "population": 174035
+    },
+    "1275947": {
+        "geoid": "1275947",
+        "name": "Bhīmavaram",
+        "lat": 16.54078,
+        "lng": 81.52322,
+        "country": "IN",
+        "state": "02",
+        "population": 142967
+    },
+    "1275960": {
+        "geoid": "1275960",
+        "name": "Bhīlwāra",
+        "lat": 25.34707,
+        "lng": 74.64081,
+        "country": "IN",
+        "state": "24",
+        "population": 326431
+    },
+    "1275971": {
+        "geoid": "1275971",
+        "name": "Bhilai",
+        "lat": 21.20919,
+        "lng": 81.4285,
+        "country": "IN",
+        "state": "37",
+        "population": 625138
+    },
+    "1276014": {
+        "geoid": "1276014",
+        "name": "Bhayandar",
+        "lat": 19.30157,
+        "lng": 72.85107,
+        "country": "IN",
+        "state": "16",
+        "population": 520301
+    },
+    "1276023": {
+        "geoid": "1276023",
+        "name": "Bhawānipatna",
+        "lat": 19.90717,
+        "lng": 83.16697,
+        "country": "IN",
+        "state": "21",
+        "population": 64468
+    },
+    "1276032": {
+        "geoid": "1276032",
+        "name": "Bhāvnagar",
+        "lat": 21.77445,
+        "lng": 72.1525,
+        "country": "IN",
+        "state": "09",
+        "population": 554978
+    },
+    "1276058": {
+        "geoid": "1276058",
+        "name": "Bhātpāra",
+        "lat": 22.86643,
+        "lng": 88.40113,
+        "country": "IN",
+        "state": "28",
+        "population": 483129
+    },
+    "1276070": {
+        "geoid": "1276070",
+        "name": "Bhatinda",
+        "lat": 30.20747,
+        "lng": 74.93893,
+        "country": "IN",
+        "state": "23",
+        "population": 242800
+    },
+    "1276084": {
+        "geoid": "1276084",
+        "name": "Bhātāpāra",
+        "lat": 21.735,
+        "lng": 81.94711,
+        "country": "IN",
+        "state": "37",
+        "population": 51751
+    },
+    "1276100": {
+        "geoid": "1276100",
+        "name": "Bharūch",
+        "lat": 21.69482,
+        "lng": 72.9805,
+        "country": "IN",
+        "state": "09",
+        "population": 153528
+    },
+    "1276128": {
+        "geoid": "1276128",
+        "name": "Bharatpur",
+        "lat": 27.21731,
+        "lng": 77.49009,
+        "country": "IN",
+        "state": "24",
+        "population": 229384
+    },
+    "1276191": {
+        "geoid": "1276191",
+        "name": "Bhandāra",
+        "lat": 21.16817,
+        "lng": 79.64885,
+        "country": "IN",
+        "state": "16",
+        "population": 90183
+    },
+    "1276300": {
+        "geoid": "1276300",
+        "name": "Bhāgalpur",
+        "lat": 25.24446,
+        "lng": 86.97183,
+        "country": "IN",
+        "state": "34",
+        "population": 361548
+    },
+    "1276320": {
+        "geoid": "1276320",
+        "name": "Bhadreswar",
+        "lat": 22.82449,
+        "lng": 88.33841,
+        "country": "IN",
+        "state": "28",
+        "population": 121662
+    },
+    "1276321": {
+        "geoid": "1276321",
+        "name": "Bhadrāvati",
+        "lat": 13.84846,
+        "lng": 75.70502,
+        "country": "IN",
+        "state": "19",
+        "population": 163903
+    },
+    "1276325": {
+        "geoid": "1276325",
+        "name": "Bhadrakh",
+        "lat": 21.05447,
+        "lng": 86.5156,
+        "country": "IN",
+        "state": "21",
+        "population": 98648
+    },
+    "1276335": {
+        "geoid": "1276335",
+        "name": "Bhadohi",
+        "lat": 25.39526,
+        "lng": 82.5703,
+        "country": "IN",
+        "state": "36",
+        "population": 78568
+    },
+    "1276378": {
+        "geoid": "1276378",
+        "name": "Beypore",
+        "lat": 11.17151,
+        "lng": 75.80611,
+        "country": "IN",
+        "state": "13",
+        "population": 70751
+    },
+    "1276389": {
+        "geoid": "1276389",
+        "name": "Betūl",
+        "lat": 21.90056,
+        "lng": 77.90229,
+        "country": "IN",
+        "state": "35",
+        "population": 91953
+    },
+    "1276393": {
+        "geoid": "1276393",
+        "name": "Bettiah",
+        "lat": 26.80229,
+        "lng": 84.50311,
+        "country": "IN",
+        "state": "34",
+        "population": 127008
+    },
+    "1276509": {
+        "geoid": "1276509",
+        "name": "Bellary",
+        "lat": 15.14205,
+        "lng": 76.92398,
+        "country": "IN",
+        "state": "19",
+        "population": 336681
+    },
+    "1276533": {
+        "geoid": "1276533",
+        "name": "Belgaum",
+        "lat": 15.85212,
+        "lng": 74.50447,
+        "country": "IN",
+        "state": "19",
+        "population": 428720
+    },
+    "1276574": {
+        "geoid": "1276574",
+        "name": "Bela",
+        "lat": 25.92058,
+        "lng": 81.99629,
+        "country": "IN",
+        "state": "36",
+        "population": 73992
+    },
+    "1276609": {
+        "geoid": "1276609",
+        "name": "Begusarai",
+        "lat": 25.41853,
+        "lng": 86.13389,
+        "country": "IN",
+        "state": "34",
+        "population": 103060
+    },
+    "1276634": {
+        "geoid": "1276634",
+        "name": "Beāwar",
+        "lat": 26.10119,
+        "lng": 74.32028,
+        "country": "IN",
+        "state": "24",
+        "population": 130777
+    },
+    "1276720": {
+        "geoid": "1276720",
+        "name": "Batāla",
+        "lat": 31.80921,
+        "lng": 75.20294,
+        "country": "IN",
+        "state": "23",
+        "population": 145468
+    },
+    "1276736": {
+        "geoid": "1276736",
+        "name": "Bastī",
+        "lat": 26.78817,
+        "lng": 82.71617,
+        "country": "IN",
+        "state": "36",
+        "population": 115115
+    },
+    "1276752": {
+        "geoid": "1276752",
+        "name": "Bāsoda",
+        "lat": 23.85153,
+        "lng": 77.93652,
+        "country": "IN",
+        "state": "35",
+        "population": 69278
+    },
+    "1276757": {
+        "geoid": "1276757",
+        "name": "Basmat",
+        "lat": 19.32872,
+        "lng": 77.15746,
+        "country": "IN",
+        "state": "16",
+        "population": 63972
+    },
+    "1276783": {
+        "geoid": "1276783",
+        "name": "Basavakalyān",
+        "lat": 17.87445,
+        "lng": 76.94972,
+        "country": "IN",
+        "state": "19",
+        "population": 65805
+    },
+    "1276829": {
+        "geoid": "1276829",
+        "name": "Bāruni",
+        "lat": 25.47509,
+        "lng": 85.96813,
+        "country": "IN",
+        "state": "34",
+        "population": 84888
+    },
+    "1276856": {
+        "geoid": "1276856",
+        "name": "Bārsi",
+        "lat": 18.23454,
+        "lng": 75.69275,
+        "country": "IN",
+        "state": "16",
+        "population": 110983
+    },
+    "1276895": {
+        "geoid": "1276895",
+        "name": "Barnāla",
+        "lat": 30.37451,
+        "lng": 75.5487,
+        "country": "IN",
+        "state": "23",
+        "population": 105016
+    },
+    "1276901": {
+        "geoid": "1276901",
+        "name": "Bārmer",
+        "lat": 25.74572,
+        "lng": 71.39211,
+        "country": "IN",
+        "state": "24",
+        "population": 89487
+    },
+    "1276948": {
+        "geoid": "1276948",
+        "name": "Bāri",
+        "lat": 26.64661,
+        "lng": 77.61634,
+        "country": "IN",
+        "state": "24",
+        "population": 56136
+    },
+    "1276988": {
+        "geoid": "1276988",
+        "name": "Bargarh",
+        "lat": 21.33348,
+        "lng": 83.61905,
+        "country": "IN",
+        "state": "21",
+        "population": 68670
+    },
+    "1277013": {
+        "geoid": "1277013",
+        "name": "Bareilly",
+        "lat": 28.34702,
+        "lng": 79.42193,
+        "country": "IN",
+        "state": "36",
+        "population": 745435
+    },
+    "1277022": {
+        "geoid": "1277022",
+        "name": "Bārdoli",
+        "lat": 21.12297,
+        "lng": 73.11151,
+        "country": "IN",
+        "state": "09",
+        "population": 57810
+    },
+    "1277029": {
+        "geoid": "1277029",
+        "name": "Barddhamān",
+        "lat": 23.25572,
+        "lng": 87.85691,
+        "country": "IN",
+        "state": "28",
+        "population": 301725
+    },
+    "1277044": {
+        "geoid": "1277044",
+        "name": "Baraut",
+        "lat": 29.10199,
+        "lng": 77.26334,
+        "country": "IN",
+        "state": "36",
+        "population": 93544
+    },
+    "1277065": {
+        "geoid": "1277065",
+        "name": "Bārāsat",
+        "lat": 22.72154,
+        "lng": 88.48198,
+        "country": "IN",
+        "state": "28",
+        "population": 298127
+    },
+    "1277066": {
+        "geoid": "1277066",
+        "name": "Bārāsat",
+        "lat": 22.22516,
+        "lng": 88.45086,
+        "country": "IN",
+        "state": "28",
+        "population": 237783
+    },
+    "1277082": {
+        "geoid": "1277082",
+        "name": "Baranagar",
+        "lat": 22.64132,
+        "lng": 88.37727,
+        "country": "IN",
+        "state": "28",
+        "population": 260072
+    },
+    "1277084": {
+        "geoid": "1277084",
+        "name": "Bārān",
+        "lat": 25.1,
+        "lng": 76.51667,
+        "country": "IN",
+        "state": "24",
+        "population": 87478
+    },
+    "1277085": {
+        "geoid": "1277085",
+        "name": "Bāramūla",
+        "lat": 34.209,
+        "lng": 74.34285,
+        "country": "IN",
+        "state": "12",
+        "population": 77276
+    },
+    "1277091": {
+        "geoid": "1277091",
+        "name": "Bārāmati",
+        "lat": 18.15174,
+        "lng": 74.57767,
+        "country": "IN",
+        "state": "16",
+        "population": 53919
+    },
+    "1277100": {
+        "geoid": "1277100",
+        "name": "Bārākpur",
+        "lat": 22.76602,
+        "lng": 88.36336,
+        "country": "IN",
+        "state": "28",
+        "population": 148174
+    },
+    "1277183": {
+        "geoid": "1277183",
+        "name": "Bāpatla",
+        "lat": 15.90422,
+        "lng": 80.46743,
+        "country": "IN",
+        "state": "02",
+        "population": 70117
+    },
+    "1277214": {
+        "geoid": "1277214",
+        "name": "Bānswāra",
+        "lat": 23.54109,
+        "lng": 74.4425,
+        "country": "IN",
+        "state": "24",
+        "population": 93648
+    },
+    "1277240": {
+        "geoid": "1277240",
+        "name": "Bānsbāria",
+        "lat": 22.95387,
+        "lng": 88.40098,
+        "country": "IN",
+        "state": "28",
+        "population": 108474
+    },
+    "1277264": {
+        "geoid": "1277264",
+        "name": "Bānkura",
+        "lat": 23.23241,
+        "lng": 87.0716,
+        "country": "IN",
+        "state": "28",
+        "population": 133966
+    },
+    "1277322": {
+        "geoid": "1277322",
+        "name": "Bangaon",
+        "lat": 25.86728,
+        "lng": 86.51152,
+        "country": "IN",
+        "state": "34",
+        "population": 60000
+    },
+    "1277324": {
+        "geoid": "1277324",
+        "name": "Bangaon",
+        "lat": 23.04553,
+        "lng": 88.83084,
+        "country": "IN",
+        "state": "28",
+        "population": 111693
+    },
+    "1277333": {
+        "geoid": "1277333",
+        "name": "Bengaluru",
+        "lat": 12.97194,
+        "lng": 77.59369,
+        "country": "IN",
+        "state": "19",
+        "population": 5104047
+    },
+    "1277397": {
+        "geoid": "1277397",
+        "name": "Bānda",
+        "lat": 25.47758,
+        "lng": 80.33491,
+        "country": "IN",
+        "state": "36",
+        "population": 152218
+    },
+    "1277508": {
+        "geoid": "1277508",
+        "name": "Bālurghāt",
+        "lat": 25.22099,
+        "lng": 88.77732,
+        "country": "IN",
+        "state": "28",
+        "population": 141404
+    },
+    "1277525": {
+        "geoid": "1277525",
+        "name": "Balrāmpur",
+        "lat": 27.42949,
+        "lng": 82.18545,
+        "country": "IN",
+        "state": "36",
+        "population": 77396
+    },
+    "1277527": {
+        "geoid": "1277527",
+        "name": "Bālotra",
+        "lat": 25.83242,
+        "lng": 72.24,
+        "country": "IN",
+        "state": "24",
+        "population": 68120
+    },
+    "1277539": {
+        "geoid": "1277539",
+        "name": "Bāli",
+        "lat": 22.64859,
+        "lng": 88.34115,
+        "country": "IN",
+        "state": "28",
+        "population": 296973
+    },
+    "1277557": {
+        "geoid": "1277557",
+        "name": "Ballālpur",
+        "lat": 19.84696,
+        "lng": 79.34578,
+        "country": "IN",
+        "state": "16",
+        "population": 92146
+    },
+    "1277599": {
+        "geoid": "1277599",
+        "name": "Balasore",
+        "lat": 21.49266,
+        "lng": 86.93348,
+        "country": "IN",
+        "state": "21",
+        "population": 114321
+    },
+    "1277643": {
+        "geoid": "1277643",
+        "name": "Balāngīr",
+        "lat": 20.70419,
+        "lng": 83.49029,
+        "country": "IN",
+        "state": "21",
+        "population": 91241
+    },
+    "1277661": {
+        "geoid": "1277661",
+        "name": "Bālāghāt",
+        "lat": 21.8156,
+        "lng": 80.18845,
+        "country": "IN",
+        "state": "35",
+        "population": 80360
+    },
+    "1277723": {
+        "geoid": "1277723",
+        "name": "Baj Baj",
+        "lat": 22.47514,
+        "lng": 88.17767,
+        "country": "IN",
+        "state": "28",
+        "population": 76159
+    },
+    "1277780": {
+        "geoid": "1277780",
+        "name": "Baidyabāti",
+        "lat": 22.78498,
+        "lng": 88.32586,
+        "country": "IN",
+        "state": "28",
+        "population": 115504
+    },
+    "1277799": {
+        "geoid": "1277799",
+        "name": "Bahraigh",
+        "lat": 27.57429,
+        "lng": 81.59474,
+        "country": "IN",
+        "state": "36",
+        "population": 182218
+    },
+    "1277814": {
+        "geoid": "1277814",
+        "name": "Baheri",
+        "lat": 28.77416,
+        "lng": 79.4974,
+        "country": "IN",
+        "state": "36",
+        "population": 63953
+    },
+    "1277820": {
+        "geoid": "1277820",
+        "name": "Baharampur",
+        "lat": 24.10473,
+        "lng": 88.25155,
+        "country": "IN",
+        "state": "28",
+        "population": 180547
+    },
+    "1277835": {
+        "geoid": "1277835",
+        "name": "Bahādurgarh",
+        "lat": 28.69287,
+        "lng": 76.93555,
+        "country": "IN",
+        "state": "10",
+        "population": 153613
+    },
+    "1277936": {
+        "geoid": "1277936",
+        "name": "Bagalkot",
+        "lat": 16.18673,
+        "lng": 75.69614,
+        "country": "IN",
+        "state": "19",
+        "population": 97269
+    },
+    "1277939": {
+        "geoid": "1277939",
+        "name": "Bagaha",
+        "lat": 27.09918,
+        "lng": 84.09003,
+        "country": "IN",
+        "state": "34",
+        "population": 103855
+    },
+    "1277940": {
+        "geoid": "1277940",
+        "name": "Bagaha",
+        "lat": 24.52898,
+        "lng": 85.06019,
+        "country": "IN",
+        "state": "34",
+        "population": 91383
+    },
+    "1277976": {
+        "geoid": "1277976",
+        "name": "Badlapur",
+        "lat": 19.15516,
+        "lng": 73.26553,
+        "country": "IN",
+        "state": "16",
+        "population": 104636
+    },
+    "1278023": {
+        "geoid": "1278023",
+        "name": "Badagara",
+        "lat": 11.59776,
+        "lng": 75.58142,
+        "country": "IN",
+        "state": "13",
+        "population": 76493
+    },
+    "1278026": {
+        "geoid": "1278026",
+        "name": "Bada Barabīl",
+        "lat": 22.11186,
+        "lng": 85.38684,
+        "country": "IN",
+        "state": "21",
+        "population": 56870
+    },
+    "1278083": {
+        "geoid": "1278083",
+        "name": "Azamgarh",
+        "lat": 26.06832,
+        "lng": 83.18358,
+        "country": "IN",
+        "state": "36",
+        "population": 116644
+    },
+    "1278094": {
+        "geoid": "1278094",
+        "name": "Ajodhya",
+        "lat": 26.79909,
+        "lng": 82.2047,
+        "country": "IN",
+        "state": "36",
+        "population": 53293
+    },
+    "1278130": {
+        "geoid": "1278130",
+        "name": "Āvadi",
+        "lat": 13.1147,
+        "lng": 80.10981,
+        "country": "IN",
+        "state": "25",
+        "population": 250044
+    },
+    "1278148": {
+        "geoid": "1278148",
+        "name": "Aurangābād",
+        "lat": 24.75204,
+        "lng": 84.3742,
+        "country": "IN",
+        "state": "34",
+        "population": 95929
+    },
+    "1278149": {
+        "geoid": "1278149",
+        "name": "Aurangabad",
+        "lat": 19.87757,
+        "lng": 75.34226,
+        "country": "IN",
+        "state": "16",
+        "population": 1016441
+    },
+    "1278152": {
+        "geoid": "1278152",
+        "name": "Auraiya",
+        "lat": 26.46517,
+        "lng": 79.50918,
+        "country": "IN",
+        "state": "36",
+        "population": 70508
+    },
+    "1278173": {
+        "geoid": "1278173",
+        "name": "Attur",
+        "lat": 11.59414,
+        "lng": 78.60143,
+        "country": "IN",
+        "state": "25",
+        "population": 58702
+    },
+    "1278178": {
+        "geoid": "1278178",
+        "name": "Attili",
+        "lat": 16.7,
+        "lng": 81.6,
+        "country": "IN",
+        "state": "02",
+        "population": 68196
+    },
+    "1278297": {
+        "geoid": "1278297",
+        "name": "Ashoknagar",
+        "lat": 24.57578,
+        "lng": 77.73123,
+        "country": "IN",
+        "state": "35",
+        "population": 64722
+    },
+    "1278314": {
+        "geoid": "1278314",
+        "name": "Āsansol",
+        "lat": 23.68333,
+        "lng": 86.98333,
+        "country": "IN",
+        "state": "28",
+        "population": 504271
+    },
+    "1278340": {
+        "geoid": "1278340",
+        "name": "Aruppukkottai",
+        "lat": 9.50842,
+        "lng": 78.09449,
+        "country": "IN",
+        "state": "25",
+        "population": 85369
+    },
+    "1278432": {
+        "geoid": "1278432",
+        "name": "Arcot",
+        "lat": 12.90569,
+        "lng": 79.31897,
+        "country": "IN",
+        "state": "25",
+        "population": 51943
+    },
+    "1278446": {
+        "geoid": "1278446",
+        "name": "Arāria",
+        "lat": 26.14934,
+        "lng": 87.51323,
+        "country": "IN",
+        "state": "34",
+        "population": 67474
+    },
+    "1278454": {
+        "geoid": "1278454",
+        "name": "Ārani",
+        "lat": 12.66987,
+        "lng": 79.28555,
+        "country": "IN",
+        "state": "25",
+        "population": 62858
+    },
+    "1278466": {
+        "geoid": "1278466",
+        "name": "Arāmbāgh",
+        "lat": 22.88333,
+        "lng": 87.78333,
+        "country": "IN",
+        "state": "28",
+        "population": 60639
+    },
+    "1278471": {
+        "geoid": "1278471",
+        "name": "Arakkonam",
+        "lat": 13.08449,
+        "lng": 79.67053,
+        "country": "IN",
+        "state": "25",
+        "population": 79080
+    },
+    "1278483": {
+        "geoid": "1278483",
+        "name": "Arrah",
+        "lat": 25.55629,
+        "lng": 84.66335,
+        "country": "IN",
+        "state": "34",
+        "population": 223676
+    },
+    "1278498": {
+        "geoid": "1278498",
+        "name": "Aonla",
+        "lat": 28.27402,
+        "lng": 79.16521,
+        "country": "IN",
+        "state": "36",
+        "population": 50011
+    },
+    "1278553": {
+        "geoid": "1278553",
+        "name": "Ankleshwar",
+        "lat": 21.63236,
+        "lng": 72.99001,
+        "country": "IN",
+        "state": "09",
+        "population": 74742
+    },
+    "1278573": {
+        "geoid": "1278573",
+        "name": "Anjār",
+        "lat": 23.11316,
+        "lng": 70.02671,
+        "country": "IN",
+        "state": "09",
+        "population": 66888
+    },
+    "1278580": {
+        "geoid": "1278580",
+        "name": "Anjangaon",
+        "lat": 21.16516,
+        "lng": 77.3091,
+        "country": "IN",
+        "state": "16",
+        "population": 54999
+    },
+    "1278667": {
+        "geoid": "1278667",
+        "name": "Anantnag",
+        "lat": 33.73068,
+        "lng": 75.15418,
+        "country": "IN",
+        "state": "12",
+        "population": 79821
+    },
+    "1278672": {
+        "geoid": "1278672",
+        "name": "Anantapur",
+        "lat": 14.67784,
+        "lng": 77.60813,
+        "country": "IN",
+        "state": "02",
+        "population": 240442
+    },
+    "1278685": {
+        "geoid": "1278685",
+        "name": "Ānand",
+        "lat": 22.55251,
+        "lng": 72.9552,
+        "country": "IN",
+        "state": "09",
+        "population": 138009
+    },
+    "1278688": {
+        "geoid": "1278688",
+        "name": "Anakāpalle",
+        "lat": 17.69134,
+        "lng": 83.00395,
+        "country": "IN",
+        "state": "02",
+        "population": 84357
+    },
+    "1278708": {
+        "geoid": "1278708",
+        "name": "Amroha",
+        "lat": 28.90314,
+        "lng": 78.46984,
+        "country": "IN",
+        "state": "36",
+        "population": 176253
+    },
+    "1278710": {
+        "geoid": "1278710",
+        "name": "Amritsar",
+        "lat": 31.62234,
+        "lng": 74.87534,
+        "country": "IN",
+        "state": "23",
+        "population": 1092450
+    },
+    "1278715": {
+        "geoid": "1278715",
+        "name": "Amreli",
+        "lat": 21.59983,
+        "lng": 71.21169,
+        "country": "IN",
+        "state": "09",
+        "population": 99742
+    },
+    "1278718": {
+        "geoid": "1278718",
+        "name": "Amrāvati",
+        "lat": 20.93333,
+        "lng": 77.75,
+        "country": "IN",
+        "state": "16",
+        "population": 603837
+    },
+    "1278815": {
+        "geoid": "1278815",
+        "name": "Ambur",
+        "lat": 12.79163,
+        "lng": 78.71644,
+        "country": "IN",
+        "state": "25",
+        "population": 109873
+    },
+    "1278827": {
+        "geoid": "1278827",
+        "name": "Ambikāpur",
+        "lat": 23.11892,
+        "lng": 83.19537,
+        "country": "IN",
+        "state": "37",
+        "population": 72821
+    },
+    "1278840": {
+        "geoid": "1278840",
+        "name": "Ambattūr",
+        "lat": 13.09818,
+        "lng": 80.16152,
+        "country": "IN",
+        "state": "25",
+        "population": 341049
+    },
+    "1278860": {
+        "geoid": "1278860",
+        "name": "Ambāla",
+        "lat": 30.36099,
+        "lng": 76.79782,
+        "country": "IN",
+        "state": "10",
+        "population": 146787
+    },
+    "1278862": {
+        "geoid": "1278862",
+        "name": "Ambājogāi",
+        "lat": 18.73312,
+        "lng": 76.38616,
+        "country": "IN",
+        "state": "16",
+        "population": 74114
+    },
+    "1278903": {
+        "geoid": "1278903",
+        "name": "Amarnāth",
+        "lat": 19.2,
+        "lng": 73.16667,
+        "country": "IN",
+        "state": "16",
+        "population": 217780
+    },
+    "1278931": {
+        "geoid": "1278931",
+        "name": "Amalner",
+        "lat": 21.03983,
+        "lng": 75.05887,
+        "country": "IN",
+        "state": "16",
+        "population": 97369
+    },
+    "1278935": {
+        "geoid": "1278935",
+        "name": "Amalāpuram",
+        "lat": 16.57868,
+        "lng": 82.00609,
+        "country": "IN",
+        "state": "02",
+        "population": 52690
+    },
+    "1278946": {
+        "geoid": "1278946",
+        "name": "Alwar",
+        "lat": 27.56246,
+        "lng": 76.625,
+        "country": "IN",
+        "state": "24",
+        "population": 283228
+    },
+    "1278985": {
+        "geoid": "1278985",
+        "name": "Alleppey",
+        "lat": 9.49004,
+        "lng": 76.3264,
+        "country": "IN",
+        "state": "13",
+        "population": 176783
+    },
+    "1278994": {
+        "geoid": "1278994",
+        "name": "Allahābād",
+        "lat": 25.44478,
+        "lng": 81.84322,
+        "country": "IN",
+        "state": "36",
+        "population": 1073438
+    },
+    "1279017": {
+        "geoid": "1279017",
+        "name": "Alīgarh",
+        "lat": 27.88145,
+        "lng": 78.07464,
+        "country": "IN",
+        "state": "36",
+        "population": 753207
+    },
+    "1279064": {
+        "geoid": "1279064",
+        "name": "Alandur",
+        "lat": 13.0025,
+        "lng": 80.20611,
+        "country": "IN",
+        "state": "25",
+        "population": 153775
+    },
+    "1279094": {
+        "geoid": "1279094",
+        "name": "Akot",
+        "lat": 21.0963,
+        "lng": 77.0588,
+        "country": "IN",
+        "state": "16",
+        "population": 86917
+    },
+    "1279105": {
+        "geoid": "1279105",
+        "name": "Akola",
+        "lat": 20.70957,
+        "lng": 76.9981,
+        "country": "IN",
+        "state": "16",
+        "population": 428857
+    },
+    "1279159": {
+        "geoid": "1279159",
+        "name": "Ajmer",
+        "lat": 26.4521,
+        "lng": 74.63867,
+        "country": "IN",
+        "state": "24",
+        "population": 517911
+    },
+    "1279186": {
+        "geoid": "1279186",
+        "name": "Aizawl",
+        "lat": 23.72894,
+        "lng": 92.71791,
+        "country": "IN",
+        "state": "31",
+        "population": 265331
+    },
+    "1279228": {
+        "geoid": "1279228",
+        "name": "Ahmadnagar",
+        "lat": 19.09457,
+        "lng": 74.73843,
+        "country": "IN",
+        "state": "16",
+        "population": 367140
+    },
+    "1279233": {
+        "geoid": "1279233",
+        "name": "Ahmedabad",
+        "lat": 23.02579,
+        "lng": 72.58727,
+        "country": "IN",
+        "state": "09",
+        "population": 3719710
+    },
+    "1279259": {
+        "geoid": "1279259",
+        "name": "Āgra",
+        "lat": 27.18333,
+        "lng": 78.01667,
+        "country": "IN",
+        "state": "36",
+        "population": 1430055
+    },
+    "1279290": {
+        "geoid": "1279290",
+        "name": "Agartala",
+        "lat": 23.83605,
+        "lng": 91.27939,
+        "country": "IN",
+        "state": "26",
+        "population": 203264
+    },
+    "1279335": {
+        "geoid": "1279335",
+        "name": "Ādoni",
+        "lat": 15.62788,
+        "lng": 77.27495,
+        "country": "IN",
+        "state": "02",
+        "population": 163631
+    },
+    "1279344": {
+        "geoid": "1279344",
+        "name": "Ādilābād",
+        "lat": 19.67203,
+        "lng": 78.5359,
+        "country": "IN",
+        "state": "40",
+        "population": 118526
+    },
+    "1279390": {
+        "geoid": "1279390",
+        "name": "Achalpur",
+        "lat": 21.25665,
+        "lng": 77.51006,
+        "country": "IN",
+        "state": "16",
+        "population": 111278
+    },
+    "1279394": {
+        "geoid": "1279394",
+        "name": "Ābu Road",
+        "lat": 24.48012,
+        "lng": 72.78186,
+        "country": "IN",
+        "state": "24",
+        "population": 50262
+    },
+    "1279403": {
+        "geoid": "1279403",
+        "name": "Abohar",
+        "lat": 30.14453,
+        "lng": 74.19552,
+        "country": "IN",
+        "state": "23",
+        "population": 130603
+    },
+    "1344069": {
+        "geoid": "1344069",
+        "name": "Contai",
+        "lat": 21.77985,
+        "lng": 87.74892,
+        "country": "IN",
+        "state": "28",
+        "population": 88702
+    },
+    "1344377": {
+        "geoid": "1344377",
+        "name": "Haldia",
+        "lat": 22.06046,
+        "lng": 88.10975,
+        "country": "IN",
+        "state": "28",
+        "population": 170695
+    },
+    "1348747": {
+        "geoid": "1348747",
+        "name": "Bankra",
+        "lat": 22.60291,
+        "lng": 88.27751,
+        "country": "IN",
+        "state": "28",
+        "population": 56273
+    },
+    "1348818": {
+        "geoid": "1348818",
+        "name": "Nangi",
+        "lat": 22.50833,
+        "lng": 88.21528,
+        "country": "IN",
+        "state": "28",
+        "population": 440894
+    },
+    "1430991": {
+        "geoid": "1430991",
+        "name": "Soyībug",
+        "lat": 34.07677,
+        "lng": 74.7057,
+        "country": "IN",
+        "state": "12",
+        "population": 104000
+    },
+    "6619347": {
+        "geoid": "6619347",
+        "name": "Navi Mumbai",
+        "lat": 19.03681,
+        "lng": 73.01582,
+        "country": "IN",
+        "state": "16",
+        "population": 2600000
+    },
+    "6943660": {
+        "geoid": "6943660",
+        "name": "Shivaji Nagar",
+        "lat": 18.53017,
+        "lng": 73.85263,
+        "country": "IN",
+        "state": "16",
+        "population": 1000000
+    },
+    "6954929": {
+        "geoid": "6954929",
+        "name": "Greater Noida",
+        "lat": 28.49615,
+        "lng": 77.53601,
+        "country": "IN",
+        "state": "36",
+        "population": 293908
+    },
+    "6992326": {
+        "geoid": "6992326",
+        "name": "Mohali",
+        "lat": 30.67995,
+        "lng": 76.72211,
+        "country": "IN",
+        "state": "23",
+        "population": 123484
+    },
+    "7279595": {
+        "geoid": "7279595",
+        "name": "Pithampur",
+        "lat": 22.60197,
+        "lng": 75.69649,
+        "country": "IN",
+        "state": "35",
+        "population": 68051
+    },
+    "7279597": {
+        "geoid": "7279597",
+        "name": "Barbil",
+        "lat": 21.65685,
+        "lng": 85.64349,
+        "country": "IN",
+        "state": "21",
+        "population": 52586
+    },
+    "7279599": {
+        "geoid": "7279599",
+        "name": "Airoli",
+        "lat": 19.15096,
+        "lng": 72.99625,
+        "country": "IN",
+        "state": "16",
+        "population": 100000
+    },
+    "7279734": {
+        "geoid": "7279734",
+        "name": "Kotkapura",
+        "lat": 30.5819,
+        "lng": 74.83298,
+        "country": "IN",
+        "state": "23",
+        "population": 80741
+    },
+    "7279741": {
+        "geoid": "7279741",
+        "name": "Vapi",
+        "lat": 20.37175,
+        "lng": 72.90493,
+        "country": "IN",
+        "state": "09",
+        "population": 71395
+    },
+    "7279746": {
+        "geoid": "7279746",
+        "name": "Noida",
+        "lat": 28.58,
+        "lng": 77.33,
+        "country": "IN",
+        "state": "36",
+        "population": 293908
+    },
+    "7279754": {
+        "geoid": "7279754",
+        "name": "Singrauli",
+        "lat": 24.19973,
+        "lng": 82.67535,
+        "country": "IN",
+        "state": "35",
+        "population": 185580
+    },
+    "7284820": {
+        "geoid": "7284820",
+        "name": "Jaigaon",
+        "lat": 26.84766,
+        "lng": 89.37558,
+        "country": "IN",
+        "state": "28",
+        "population": 158664
+    },
+    "7302806": {
+        "geoid": "7302806",
+        "name": "Bellampalli",
+        "lat": 19.05577,
+        "lng": 79.493,
+        "country": "IN",
+        "state": "40",
+        "population": 66660
+    },
+    "7302810": {
+        "geoid": "7302810",
+        "name": "Gaddi Annaram",
+        "lat": 17.36687,
+        "lng": 78.5242,
+        "country": "IN",
+        "state": "40",
+        "population": 53622
+    },
+    "7302826": {
+        "geoid": "7302826",
+        "name": "Lal Bahadur Nagar",
+        "lat": 17.34769,
+        "lng": 78.55757,
+        "country": "IN",
+        "state": "40",
+        "population": 261987
+    },
+    "7302828": {
+        "geoid": "7302828",
+        "name": "Malkajgiri",
+        "lat": 17.44781,
+        "lng": 78.52633,
+        "country": "IN",
+        "state": "40",
+        "population": 150000
+    },
+    "7302829": {
+        "geoid": "7302829",
+        "name": "Mandamarri",
+        "lat": 18.96506,
+        "lng": 79.47475,
+        "country": "IN",
+        "state": "40",
+        "population": 66176
+    },
+    "7302830": {
+        "geoid": "7302830",
+        "name": "Chinnachowk",
+        "lat": 14.47516,
+        "lng": 78.8354,
+        "country": "IN",
+        "state": "02",
+        "population": 64053
+    },
+    "7302833": {
+        "geoid": "7302833",
+        "name": "Gajuwaka",
+        "lat": 17.7,
+        "lng": 83.21667,
+        "country": "IN",
+        "state": "02",
+        "population": 258944
+    },
+    "7302844": {
+        "geoid": "7302844",
+        "name": "Ponnur",
+        "lat": 16.07114,
+        "lng": 80.54944,
+        "country": "IN",
+        "state": "02",
+        "population": 56504
+    },
+    "7302845": {
+        "geoid": "7302845",
+        "name": "Quthbullapur",
+        "lat": 17.50107,
+        "lng": 78.45818,
+        "country": "IN",
+        "state": "40",
+        "population": 225816
+    },
+    "7302847": {
+        "geoid": "7302847",
+        "name": "Palwancha",
+        "lat": 17.58152,
+        "lng": 80.67651,
+        "country": "IN",
+        "state": "40",
+        "population": 68561
+    },
+    "7302856": {
+        "geoid": "7302856",
+        "name": "Serilingampalle",
+        "lat": 17.49313,
+        "lng": 78.30196,
+        "country": "IN",
+        "state": "40",
+        "population": 150525
+    },
+    "7302861": {
+        "geoid": "7302861",
+        "name": "Ashoknagar Kalyangarh",
+        "lat": 22.86416,
+        "lng": 88.63701,
+        "country": "IN",
+        "state": "28",
+        "population": 111475
+    },
+    "8347656": {
+        "geoid": "8347656",
+        "name": "Ramagundam",
+        "lat": 18.755,
+        "lng": 79.474,
+        "country": "IN",
+        "state": "40",
+        "population": 235000
+    },
+    "9781227": {
+        "geoid": "9781227",
+        "name": "Kultali",
+        "lat": 21.9,
+        "lng": 88.4,
+        "country": "IN",
+        "state": "28",
+        "population": 187942
+    },
+    "10630431": {
+        "geoid": "10630431",
+        "name": "Kalamassery",
+        "lat": 10.0614,
+        "lng": 76.32631,
+        "country": "IN",
+        "state": "13",
+        "population": 63176
+    }
+}

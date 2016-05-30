@@ -1,0 +1,1523 @@
+{
+    "296173": {
+        "geoid": "296173",
+        "name": "Yüksekova",
+        "lat": 37.57362,
+        "lng": 44.28716,
+        "country": "TR",
+        "state": "70",
+        "population": 71729
+    },
+    "296562": {
+        "geoid": "296562",
+        "name": "Yozgat",
+        "lat": 39.82,
+        "lng": 34.80444,
+        "country": "TR",
+        "state": "66",
+        "population": 87881
+    },
+    "298033": {
+        "geoid": "298033",
+        "name": "Viranşehir",
+        "lat": 37.22349,
+        "lng": 39.75519,
+        "country": "TR",
+        "state": "63",
+        "population": 154163
+    },
+    "298117": {
+        "geoid": "298117",
+        "name": "Van",
+        "lat": 38.49457,
+        "lng": 43.38323,
+        "country": "TR",
+        "state": "65",
+        "population": 371713
+    },
+    "298299": {
+        "geoid": "298299",
+        "name": "Uşak",
+        "lat": 38.67351,
+        "lng": 29.4058,
+        "country": "TR",
+        "state": "64",
+        "population": 152862
+    },
+    "298333": {
+        "geoid": "298333",
+        "name": "Şanlıurfa",
+        "lat": 37.16708,
+        "lng": 38.79392,
+        "country": "TR",
+        "state": "63",
+        "population": 449549
+    },
+    "298806": {
+        "geoid": "298806",
+        "name": "Turgutlu",
+        "lat": 38.49533,
+        "lng": 27.6997,
+        "country": "TR",
+        "state": "45",
+        "population": 103292
+    },
+    "298935": {
+        "geoid": "298935",
+        "name": "Torbalı",
+        "lat": 38.1519,
+        "lng": 27.36223,
+        "country": "TR",
+        "state": "35",
+        "population": 50303
+    },
+    "299545": {
+        "geoid": "299545",
+        "name": "Tavşanlı",
+        "lat": 39.54237,
+        "lng": 29.49866,
+        "country": "TR",
+        "state": "43",
+        "population": 52182
+    },
+    "299582": {
+        "geoid": "299582",
+        "name": "Tatvan",
+        "lat": 38.49221,
+        "lng": 42.28269,
+        "country": "TR",
+        "state": "13",
+        "population": 73222
+    },
+    "299817": {
+        "geoid": "299817",
+        "name": "Tarsus",
+        "lat": 36.91766,
+        "lng": 34.89277,
+        "country": "TR",
+        "state": "32",
+        "population": 256482
+    },
+    "300352": {
+        "geoid": "300352",
+        "name": "Sorgun",
+        "lat": 39.81012,
+        "lng": 35.18596,
+        "country": "TR",
+        "state": "66",
+        "population": 62862
+    },
+    "300371": {
+        "geoid": "300371",
+        "name": "Soma",
+        "lat": 39.18554,
+        "lng": 27.60945,
+        "country": "TR",
+        "state": "45",
+        "population": 65934
+    },
+    "300399": {
+        "geoid": "300399",
+        "name": "Söke",
+        "lat": 37.7482,
+        "lng": 27.40614,
+        "country": "TR",
+        "state": "09",
+        "population": 68230
+    },
+    "300614": {
+        "geoid": "300614",
+        "name": "Siverek",
+        "lat": 37.75503,
+        "lng": 39.31667,
+        "country": "TR",
+        "state": "63",
+        "population": 175341
+    },
+    "300619": {
+        "geoid": "300619",
+        "name": "Sivas",
+        "lat": 39.74833,
+        "lng": 37.01611,
+        "country": "TR",
+        "state": "58",
+        "population": 264022
+    },
+    "300640": {
+        "geoid": "300640",
+        "name": "Şırnak",
+        "lat": 37.51393,
+        "lng": 42.45432,
+        "country": "TR",
+        "state": "80",
+        "population": 52743
+    },
+    "300796": {
+        "geoid": "300796",
+        "name": "Silvan",
+        "lat": 38.13708,
+        "lng": 41.00817,
+        "country": "TR",
+        "state": "21",
+        "population": 65956
+    },
+    "300797": {
+        "geoid": "300797",
+        "name": "Silopi",
+        "lat": 37.24379,
+        "lng": 42.46345,
+        "country": "TR",
+        "state": "80",
+        "population": 74798
+    },
+    "300808": {
+        "geoid": "300808",
+        "name": "Silifke",
+        "lat": 36.37778,
+        "lng": 33.93444,
+        "country": "TR",
+        "state": "32",
+        "population": 75315
+    },
+    "300822": {
+        "geoid": "300822",
+        "name": "Siirt",
+        "lat": 37.9293,
+        "lng": 41.94134,
+        "country": "TR",
+        "state": "74",
+        "population": 114034
+    },
+    "301010": {
+        "geoid": "301010",
+        "name": "Seydişehir",
+        "lat": 37.41926,
+        "lng": 31.84527,
+        "country": "TR",
+        "state": "71",
+        "population": 51089
+    },
+    "302043": {
+        "geoid": "302043",
+        "name": "Salihli",
+        "lat": 38.48258,
+        "lng": 28.14774,
+        "country": "TR",
+        "state": "45",
+        "population": 88906
+    },
+    "302355": {
+        "geoid": "302355",
+        "name": "Reyhanlı",
+        "lat": 36.26791,
+        "lng": 36.56747,
+        "country": "TR",
+        "state": "31",
+        "population": 56995
+    },
+    "302525": {
+        "geoid": "302525",
+        "name": "Polatlı",
+        "lat": 39.57715,
+        "lng": 32.14132,
+        "country": "TR",
+        "state": "68",
+        "population": 93262
+    },
+    "302819": {
+        "geoid": "302819",
+        "name": "Patnos",
+        "lat": 39.22493,
+        "lng": 42.85693,
+        "country": "TR",
+        "state": "04",
+        "population": 87451
+    },
+    "303195": {
+        "geoid": "303195",
+        "name": "Osmaniye",
+        "lat": 37.07417,
+        "lng": 36.24778,
+        "country": "TR",
+        "state": "91",
+        "population": 202837
+    },
+    "303700": {
+        "geoid": "303700",
+        "name": "Ödemiş",
+        "lat": 38.2278,
+        "lng": 27.96955,
+        "country": "TR",
+        "state": "35",
+        "population": 67153
+    },
+    "303750": {
+        "geoid": "303750",
+        "name": "Nusaybin",
+        "lat": 37.07028,
+        "lng": 41.21465,
+        "country": "TR",
+        "state": "72",
+        "population": 88977
+    },
+    "303798": {
+        "geoid": "303798",
+        "name": "Nizip",
+        "lat": 37.00972,
+        "lng": 37.79417,
+        "country": "TR",
+        "state": "83",
+        "population": 82308
+    },
+    "303827": {
+        "geoid": "303827",
+        "name": "Niğde",
+        "lat": 37.96583,
+        "lng": 34.67935,
+        "country": "TR",
+        "state": "73",
+        "population": 91039
+    },
+    "303831": {
+        "geoid": "303831",
+        "name": "Nevşehir",
+        "lat": 38.625,
+        "lng": 34.71222,
+        "country": "TR",
+        "state": "50",
+        "population": 75527
+    },
+    "303873": {
+        "geoid": "303873",
+        "name": "Nazilli",
+        "lat": 37.91631,
+        "lng": 28.32225,
+        "country": "TR",
+        "state": "09",
+        "population": 119370
+    },
+    "304081": {
+        "geoid": "304081",
+        "name": "Muş",
+        "lat": 38.73163,
+        "lng": 41.48482,
+        "country": "TR",
+        "state": "49",
+        "population": 82536
+    },
+    "304382": {
+        "geoid": "304382",
+        "name": "Midyat",
+        "lat": 37.41908,
+        "lng": 41.33909,
+        "country": "TR",
+        "state": "72",
+        "population": 76268
+    },
+    "304531": {
+        "geoid": "304531",
+        "name": "Mercin",
+        "lat": 36.79526,
+        "lng": 34.61792,
+        "country": "TR",
+        "state": "32",
+        "population": 537842
+    },
+    "304612": {
+        "geoid": "304612",
+        "name": "Menemen",
+        "lat": 38.60754,
+        "lng": 27.06938,
+        "country": "TR",
+        "state": "35",
+        "population": 53489
+    },
+    "304797": {
+        "geoid": "304797",
+        "name": "Mardin",
+        "lat": 37.31309,
+        "lng": 40.74357,
+        "country": "TR",
+        "state": "72",
+        "population": 71373
+    },
+    "304827": {
+        "geoid": "304827",
+        "name": "Manisa",
+        "lat": 38.61202,
+        "lng": 27.42647,
+        "country": "TR",
+        "state": "45",
+        "population": 243971
+    },
+    "304854": {
+        "geoid": "304854",
+        "name": "Manavgat",
+        "lat": 36.78667,
+        "lng": 31.44306,
+        "country": "TR",
+        "state": "07",
+        "population": 99254
+    },
+    "304922": {
+        "geoid": "304922",
+        "name": "Malatya",
+        "lat": 38.35018,
+        "lng": 38.31667,
+        "country": "TR",
+        "state": "44",
+        "population": 441805
+    },
+    "305268": {
+        "geoid": "305268",
+        "name": "Kütahya",
+        "lat": 39.42417,
+        "lng": 29.98333,
+        "country": "TR",
+        "state": "43",
+        "population": 185008
+    },
+    "305359": {
+        "geoid": "305359",
+        "name": "Kuşadası",
+        "lat": 37.85562,
+        "lng": 27.2566,
+        "country": "TR",
+        "state": "09",
+        "population": 63177
+    },
+    "306112": {
+        "geoid": "306112",
+        "name": "Kozan",
+        "lat": 37.45517,
+        "lng": 35.81573,
+        "country": "TR",
+        "state": "81",
+        "population": 88115
+    },
+    "306571": {
+        "geoid": "306571",
+        "name": "Konya",
+        "lat": 37.87135,
+        "lng": 32.48464,
+        "country": "TR",
+        "state": "71",
+        "population": 875530
+    },
+    "307084": {
+        "geoid": "307084",
+        "name": "Kızıltepe",
+        "lat": 37.18836,
+        "lng": 40.57723,
+        "country": "TR",
+        "state": "72",
+        "population": 150174
+    },
+    "307515": {
+        "geoid": "307515",
+        "name": "Kırşehir",
+        "lat": 39.14583,
+        "lng": 34.16389,
+        "country": "TR",
+        "state": "40",
+        "population": 94336
+    },
+    "307654": {
+        "geoid": "307654",
+        "name": "Kırıkkale",
+        "lat": 39.84528,
+        "lng": 33.50639,
+        "country": "TR",
+        "state": "79",
+        "population": 211138
+    },
+    "307657": {
+        "geoid": "307657",
+        "name": "Kırıkhan",
+        "lat": 36.49939,
+        "lng": 36.35755,
+        "country": "TR",
+        "state": "31",
+        "population": 60916
+    },
+    "307864": {
+        "geoid": "307864",
+        "name": "Kilis",
+        "lat": 36.71611,
+        "lng": 37.115,
+        "country": "TR",
+        "state": "90",
+        "population": 82301
+    },
+    "308464": {
+        "geoid": "308464",
+        "name": "Kayseri",
+        "lat": 38.73222,
+        "lng": 35.48528,
+        "country": "TR",
+        "state": "38",
+        "population": 592840
+    },
+    "309527": {
+        "geoid": "309527",
+        "name": "Karaman",
+        "lat": 37.18111,
+        "lng": 33.215,
+        "country": "TR",
+        "state": "78",
+        "population": 120399
+    },
+    "309647": {
+        "geoid": "309647",
+        "name": "Ağrı",
+        "lat": 39.71944,
+        "lng": 43.05139,
+        "country": "TR",
+        "state": "04",
+        "population": 92022
+    },
+    "310855": {
+        "geoid": "310855",
+        "name": "Kâhta",
+        "lat": 37.78552,
+        "lng": 38.6237,
+        "country": "TR",
+        "state": "02",
+        "population": 73105
+    },
+    "310859": {
+        "geoid": "310859",
+        "name": "Kahramanmaraş",
+        "lat": 37.5847,
+        "lng": 36.92641,
+        "country": "TR",
+        "state": "46",
+        "population": 376045
+    },
+    "310892": {
+        "geoid": "310892",
+        "name": "Kadirli",
+        "lat": 37.37389,
+        "lng": 36.09611,
+        "country": "TR",
+        "state": "81",
+        "population": 70248
+    },
+    "311046": {
+        "geoid": "311046",
+        "name": "İzmir",
+        "lat": 38.41273,
+        "lng": 27.13838,
+        "country": "TR",
+        "state": "35",
+        "population": 2500603
+    },
+    "311073": {
+        "geoid": "311073",
+        "name": "Isparta",
+        "lat": 37.76444,
+        "lng": 30.55222,
+        "country": "TR",
+        "state": "33",
+        "population": 172334
+    },
+    "311111": {
+        "geoid": "311111",
+        "name": "İskenderun",
+        "lat": 36.58718,
+        "lng": 36.17347,
+        "country": "TR",
+        "state": "31",
+        "population": 159965
+    },
+    "311665": {
+        "geoid": "311665",
+        "name": "Iğdır",
+        "lat": 39.92371,
+        "lng": 44.045,
+        "country": "TR",
+        "state": "88",
+        "population": 75721
+    },
+    "314830": {
+        "geoid": "314830",
+        "name": "Gaziantep",
+        "lat": 37.05944,
+        "lng": 37.3825,
+        "country": "TR",
+        "state": "83",
+        "population": 1065975
+    },
+    "314967": {
+        "geoid": "314967",
+        "name": "Fethiye",
+        "lat": 36.64038,
+        "lng": 29.12758,
+        "country": "TR",
+        "state": "48",
+        "population": 60437
+    },
+    "315202": {
+        "geoid": "315202",
+        "name": "Eskişehir",
+        "lat": 39.77667,
+        "lng": 30.52056,
+        "country": "TR",
+        "state": "26",
+        "population": 514869
+    },
+    "315368": {
+        "geoid": "315368",
+        "name": "Erzurum",
+        "lat": 39.90861,
+        "lng": 41.27694,
+        "country": "TR",
+        "state": "25",
+        "population": 420691
+    },
+    "315373": {
+        "geoid": "315373",
+        "name": "Erzincan",
+        "lat": 39.73919,
+        "lng": 39.49015,
+        "country": "TR",
+        "state": "24",
+        "population": 114027
+    },
+    "315468": {
+        "geoid": "315468",
+        "name": "Ergani",
+        "lat": 38.26899,
+        "lng": 39.75446,
+        "country": "TR",
+        "state": "21",
+        "population": 52684
+    },
+    "315498": {
+        "geoid": "315498",
+        "name": "Ereğli",
+        "lat": 37.51333,
+        "lng": 34.04672,
+        "country": "TR",
+        "state": "71",
+        "population": 92117
+    },
+    "315530": {
+        "geoid": "315530",
+        "name": "Erciş",
+        "lat": 39.02587,
+        "lng": 43.35964,
+        "country": "TR",
+        "state": "65",
+        "population": 91915
+    },
+    "315795": {
+        "geoid": "315795",
+        "name": "Elbistan",
+        "lat": 38.20591,
+        "lng": 37.1983,
+        "country": "TR",
+        "state": "46",
+        "population": 80456
+    },
+    "315808": {
+        "geoid": "315808",
+        "name": "Elazığ",
+        "lat": 38.67431,
+        "lng": 39.22321,
+        "country": "TR",
+        "state": "23",
+        "population": 298004
+    },
+    "316284": {
+        "geoid": "316284",
+        "name": "Dörtyol",
+        "lat": 36.86158,
+        "lng": 36.22885,
+        "country": "TR",
+        "state": "31",
+        "population": 56513
+    },
+    "316411": {
+        "geoid": "316411",
+        "name": "Doğubayazıt",
+        "lat": 39.54694,
+        "lng": 44.08417,
+        "country": "TR",
+        "state": "04",
+        "population": 70171
+    },
+    "316541": {
+        "geoid": "316541",
+        "name": "Diyarbakır",
+        "lat": 37.91363,
+        "lng": 40.21721,
+        "country": "TR",
+        "state": "21",
+        "population": 644763
+    },
+    "317109": {
+        "geoid": "317109",
+        "name": "Denizli",
+        "lat": 37.77417,
+        "lng": 29.0875,
+        "country": "TR",
+        "state": "20",
+        "population": 313238
+    },
+    "318137": {
+        "geoid": "318137",
+        "name": "Hakkari",
+        "lat": 37.57444,
+        "lng": 43.74083,
+        "country": "TR",
+        "state": "70",
+        "population": 77699
+    },
+    "318253": {
+        "geoid": "318253",
+        "name": "Cizre",
+        "lat": 37.33024,
+        "lng": 42.18484,
+        "country": "TR",
+        "state": "80",
+        "population": 80992
+    },
+    "318675": {
+        "geoid": "318675",
+        "name": "Ceyhan",
+        "lat": 37.02472,
+        "lng": 35.8175,
+        "country": "TR",
+        "state": "81",
+        "population": 96303
+    },
+    "320392": {
+        "geoid": "320392",
+        "name": "Burdur",
+        "lat": 37.72028,
+        "lng": 30.29083,
+        "country": "TR",
+        "state": "15",
+        "population": 66158
+    },
+    "320557": {
+        "geoid": "320557",
+        "name": "Bozüyük",
+        "lat": 39.90778,
+        "lng": 30.03667,
+        "country": "TR",
+        "state": "11",
+        "population": 55365
+    },
+    "320879": {
+        "geoid": "320879",
+        "name": "Bolvadin",
+        "lat": 38.71111,
+        "lng": 31.04861,
+        "country": "TR",
+        "state": "03",
+        "population": 55870
+    },
+    "321031": {
+        "geoid": "321031",
+        "name": "Bismil",
+        "lat": 37.84514,
+        "lng": 40.65931,
+        "country": "TR",
+        "state": "21",
+        "population": 74493
+    },
+    "321082": {
+        "geoid": "321082",
+        "name": "Bingöl",
+        "lat": 38.88472,
+        "lng": 40.49389,
+        "country": "TR",
+        "state": "12",
+        "population": 80568
+    },
+    "321426": {
+        "geoid": "321426",
+        "name": "Bergama",
+        "lat": 39.12074,
+        "lng": 27.18052,
+        "country": "TR",
+        "state": "35",
+        "population": 57200
+    },
+    "321580": {
+        "geoid": "321580",
+        "name": "Belek",
+        "lat": 36.86278,
+        "lng": 31.05556,
+        "country": "TR",
+        "state": "07",
+        "population": 73260
+    },
+    "321836": {
+        "geoid": "321836",
+        "name": "Batman",
+        "lat": 37.88738,
+        "lng": 41.13221,
+        "country": "TR",
+        "state": "76",
+        "population": 381990
+    },
+    "322165": {
+        "geoid": "322165",
+        "name": "Balıkesir",
+        "lat": 39.64917,
+        "lng": 27.88611,
+        "country": "TR",
+        "state": "10",
+        "population": 238151
+    },
+    "322830": {
+        "geoid": "322830",
+        "name": "Aydın",
+        "lat": 37.84501,
+        "lng": 27.83963,
+        "country": "TR",
+        "state": "09",
+        "population": 163022
+    },
+    "323777": {
+        "geoid": "323777",
+        "name": "Antalya",
+        "lat": 36.90812,
+        "lng": 30.69556,
+        "country": "TR",
+        "state": "07",
+        "population": 758188
+    },
+    "323779": {
+        "geoid": "323779",
+        "name": "Antakya",
+        "lat": 36.20655,
+        "lng": 36.15722,
+        "country": "TR",
+        "state": "31",
+        "population": 210000
+    },
+    "323786": {
+        "geoid": "323786",
+        "name": "Ankara",
+        "lat": 39.91987,
+        "lng": 32.85427,
+        "country": "TR",
+        "state": "68",
+        "population": 3517182
+    },
+    "323828": {
+        "geoid": "323828",
+        "name": "Anamur",
+        "lat": 36.07508,
+        "lng": 32.83691,
+        "country": "TR",
+        "state": "32",
+        "population": 57128
+    },
+    "324190": {
+        "geoid": "324190",
+        "name": "Alanya",
+        "lat": 36.54375,
+        "lng": 31.99982,
+        "country": "TR",
+        "state": "07",
+        "population": 112969
+    },
+    "324490": {
+        "geoid": "324490",
+        "name": "Akşehir",
+        "lat": 38.3575,
+        "lng": 31.41639,
+        "country": "TR",
+        "state": "71",
+        "population": 64446
+    },
+    "324496": {
+        "geoid": "324496",
+        "name": "Aksaray",
+        "lat": 38.37255,
+        "lng": 34.02537,
+        "country": "TR",
+        "state": "75",
+        "population": 152201
+    },
+    "324698": {
+        "geoid": "324698",
+        "name": "Akhisar",
+        "lat": 38.91852,
+        "lng": 27.84006,
+        "country": "TR",
+        "state": "45",
+        "population": 84659
+    },
+    "325103": {
+        "geoid": "325103",
+        "name": "Ahlat",
+        "lat": 38.7489,
+        "lng": 42.48007,
+        "country": "TR",
+        "state": "13",
+        "population": 64695
+    },
+    "325303": {
+        "geoid": "325303",
+        "name": "Afyonkarahisar",
+        "lat": 38.75667,
+        "lng": 30.54333,
+        "country": "TR",
+        "state": "03",
+        "population": 146136
+    },
+    "325330": {
+        "geoid": "325330",
+        "name": "Adıyaman",
+        "lat": 37.76441,
+        "lng": 38.27629,
+        "country": "TR",
+        "state": "02",
+        "population": 223744
+    },
+    "325336": {
+        "geoid": "325336",
+        "name": "Adilcevaz",
+        "lat": 38.79911,
+        "lng": 42.73159,
+        "country": "TR",
+        "state": "13",
+        "population": 52781
+    },
+    "325363": {
+        "geoid": "325363",
+        "name": "Adana",
+        "lat": 37.00167,
+        "lng": 35.32889,
+        "country": "TR",
+        "state": "81",
+        "population": 1248988
+    },
+    "442301": {
+        "geoid": "442301",
+        "name": "Batikent",
+        "lat": 39.96833,
+        "lng": 32.73083,
+        "country": "TR",
+        "state": "68",
+        "population": 300000
+    },
+    "737022": {
+        "geoid": "737022",
+        "name": "Zonguldak",
+        "lat": 41.45139,
+        "lng": 31.79305,
+        "country": "TR",
+        "state": "85",
+        "population": 100229
+    },
+    "737054": {
+        "geoid": "737054",
+        "name": "Zile",
+        "lat": 40.30306,
+        "lng": 35.88639,
+        "country": "TR",
+        "state": "60",
+        "population": 55680
+    },
+    "737071": {
+        "geoid": "737071",
+        "name": "Zeytinburnu",
+        "lat": 40.99441,
+        "lng": 28.90417,
+        "country": "TR",
+        "state": "34",
+        "population": 288743
+    },
+    "737961": {
+        "geoid": "737961",
+        "name": "Körfez",
+        "lat": 40.76704,
+        "lng": 29.78275,
+        "country": "TR",
+        "state": "41",
+        "population": 90580
+    },
+    "738025": {
+        "geoid": "738025",
+        "name": "Yalova",
+        "lat": 40.65501,
+        "lng": 29.27693,
+        "country": "TR",
+        "state": "92",
+        "population": 71289
+    },
+    "738329": {
+        "geoid": "738329",
+        "name": "Üsküdar",
+        "lat": 41.02252,
+        "lng": 29.02369,
+        "country": "TR",
+        "state": "34",
+        "population": 582666
+    },
+    "738349": {
+        "geoid": "738349",
+        "name": "Ünye",
+        "lat": 41.13139,
+        "lng": 37.2825,
+        "country": "TR",
+        "state": "52",
+        "population": 77585
+    },
+    "738377": {
+        "geoid": "738377",
+        "name": "Umraniye",
+        "lat": 41.01643,
+        "lng": 29.12476,
+        "country": "TR",
+        "state": "34",
+        "population": 573265
+    },
+    "738618": {
+        "geoid": "738618",
+        "name": "Turhal",
+        "lat": 40.3875,
+        "lng": 36.08111,
+        "country": "TR",
+        "state": "60",
+        "population": 110884
+    },
+    "738648": {
+        "geoid": "738648",
+        "name": "Trabzon",
+        "lat": 41.005,
+        "lng": 39.72694,
+        "country": "TR",
+        "state": "61",
+        "population": 244083
+    },
+    "738743": {
+        "geoid": "738743",
+        "name": "Tokat",
+        "lat": 40.31389,
+        "lng": 36.55444,
+        "country": "TR",
+        "state": "60",
+        "population": 129702
+    },
+    "738927": {
+        "geoid": "738927",
+        "name": "Tekirdağ",
+        "lat": 40.97801,
+        "lng": 27.50852,
+        "country": "TR",
+        "state": "59",
+        "population": 122287
+    },
+    "739549": {
+        "geoid": "739549",
+        "name": "Şişli",
+        "lat": 41.06046,
+        "lng": 28.98717,
+        "country": "TR",
+        "state": "34",
+        "population": 314684
+    },
+    "739634": {
+        "geoid": "739634",
+        "name": "Silivri",
+        "lat": 41.07393,
+        "lng": 28.24644,
+        "country": "TR",
+        "state": "34",
+        "population": 53167
+    },
+    "740264": {
+        "geoid": "740264",
+        "name": "Samsun",
+        "lat": 41.28667,
+        "lng": 36.33,
+        "country": "TR",
+        "state": "55",
+        "population": 394050
+    },
+    "740483": {
+        "geoid": "740483",
+        "name": "Rize",
+        "lat": 41.02083,
+        "lng": 40.52194,
+        "country": "TR",
+        "state": "53",
+        "population": 92772
+    },
+    "741045": {
+        "geoid": "741045",
+        "name": "Orhangazi",
+        "lat": 40.48917,
+        "lng": 29.30889,
+        "country": "TR",
+        "state": "16",
+        "population": 51792
+    },
+    "741100": {
+        "geoid": "741100",
+        "name": "Ordu",
+        "lat": 40.97782,
+        "lng": 37.89047,
+        "country": "TR",
+        "state": "52",
+        "population": 116788
+    },
+    "741385": {
+        "geoid": "741385",
+        "name": "Mustafakemalpaşa",
+        "lat": 40.03815,
+        "lng": 28.40866,
+        "country": "TR",
+        "state": "16",
+        "population": 101412
+    },
+    "741609": {
+        "geoid": "741609",
+        "name": "Merzifon",
+        "lat": 40.87333,
+        "lng": 35.46306,
+        "country": "TR",
+        "state": "05",
+        "population": 50658
+    },
+    "741763": {
+        "geoid": "741763",
+        "name": "Maltepe",
+        "lat": 40.93567,
+        "lng": 29.15507,
+        "country": "TR",
+        "state": "34",
+        "population": 427040
+    },
+    "741855": {
+        "geoid": "741855",
+        "name": "Lüleburgaz",
+        "lat": 41.40385,
+        "lng": 27.35918,
+        "country": "TR",
+        "state": "39",
+        "population": 90899
+    },
+    "743166": {
+        "geoid": "743166",
+        "name": "Kırklareli",
+        "lat": 41.73508,
+        "lng": 27.22521,
+        "country": "TR",
+        "state": "39",
+        "population": 58223
+    },
+    "743818": {
+        "geoid": "743818",
+        "name": "Kavaklı",
+        "lat": 41.09258,
+        "lng": 28.33172,
+        "country": "TR",
+        "state": "34",
+        "population": 50502
+    },
+    "743882": {
+        "geoid": "743882",
+        "name": "Kastamonu",
+        "lat": 41.37805,
+        "lng": 33.77528,
+        "country": "TR",
+        "state": "37",
+        "population": 70402
+    },
+    "743952": {
+        "geoid": "743952",
+        "name": "Kars",
+        "lat": 40.59825,
+        "lng": 43.08548,
+        "country": "TR",
+        "state": "84",
+        "population": 77486
+    },
+    "744562": {
+        "geoid": "744562",
+        "name": "Karabük",
+        "lat": 41.20488,
+        "lng": 32.62768,
+        "country": "TR",
+        "state": "89",
+        "population": 97481
+    },
+    "745028": {
+        "geoid": "745028",
+        "name": "İzmit",
+        "lat": 40.76694,
+        "lng": 29.91694,
+        "country": "TR",
+        "state": "41",
+        "population": 196571
+    },
+    "745044": {
+        "geoid": "745044",
+        "name": "İstanbul",
+        "lat": 41.01384,
+        "lng": 28.94966,
+        "country": "TR",
+        "state": "34",
+        "population": 11174257
+    },
+    "745169": {
+        "geoid": "745169",
+        "name": "İnegol",
+        "lat": 40.07806,
+        "lng": 29.51333,
+        "country": "TR",
+        "state": "16",
+        "population": 133959
+    },
+    "746666": {
+        "geoid": "746666",
+        "name": "Gölcük",
+        "lat": 40.70323,
+        "lng": 29.87216,
+        "country": "TR",
+        "state": "41",
+        "population": 56189
+    },
+    "746881": {
+        "geoid": "746881",
+        "name": "Giresun",
+        "lat": 40.91698,
+        "lng": 38.38741,
+        "country": "TR",
+        "state": "28",
+        "population": 98864
+    },
+    "746958": {
+        "geoid": "746958",
+        "name": "Gemlik",
+        "lat": 40.43094,
+        "lng": 29.15969,
+        "country": "TR",
+        "state": "16",
+        "population": 71063
+    },
+    "747014": {
+        "geoid": "747014",
+        "name": "Gebze",
+        "lat": 40.80276,
+        "lng": 29.43068,
+        "country": "TR",
+        "state": "41",
+        "population": 281436
+    },
+    "747155": {
+        "geoid": "747155",
+        "name": "Fatsa",
+        "lat": 41.02778,
+        "lng": 37.50139,
+        "country": "TR",
+        "state": "52",
+        "population": 82160
+    },
+    "747323": {
+        "geoid": "747323",
+        "name": "Esenyurt",
+        "lat": 41.02697,
+        "lng": 28.67732,
+        "country": "TR",
+        "state": "34",
+        "population": 211330
+    },
+    "747340": {
+        "geoid": "747340",
+        "name": "Esenler",
+        "lat": 41.0435,
+        "lng": 28.87619,
+        "country": "TR",
+        "state": "34",
+        "population": 520235
+    },
+    "747471": {
+        "geoid": "747471",
+        "name": "Ereğli",
+        "lat": 41.28261,
+        "lng": 31.41806,
+        "country": "TR",
+        "state": "85",
+        "population": 88848
+    },
+    "747489": {
+        "geoid": "747489",
+        "name": "Erbaa",
+        "lat": 40.66889,
+        "lng": 36.5675,
+        "country": "TR",
+        "state": "60",
+        "population": 52185
+    },
+    "747538": {
+        "geoid": "747538",
+        "name": "Eminönü",
+        "lat": 41.01766,
+        "lng": 28.97438,
+        "country": "TR",
+        "state": "34",
+        "population": 55548
+    },
+    "747712": {
+        "geoid": "747712",
+        "name": "Edirne",
+        "lat": 41.67719,
+        "lng": 26.55597,
+        "country": "TR",
+        "state": "22",
+        "population": 126470
+    },
+    "747764": {
+        "geoid": "747764",
+        "name": "Düzce",
+        "lat": 40.83889,
+        "lng": 31.16389,
+        "country": "TR",
+        "state": "93",
+        "population": 57739
+    },
+    "748870": {
+        "geoid": "748870",
+        "name": "Çubuk",
+        "lat": 40.23861,
+        "lng": 33.03222,
+        "country": "TR",
+        "state": "68",
+        "population": 62602
+    },
+    "748879": {
+        "geoid": "748879",
+        "name": "Çorum",
+        "lat": 40.54889,
+        "lng": 34.95333,
+        "country": "TR",
+        "state": "19",
+        "population": 183418
+    },
+    "748893": {
+        "geoid": "748893",
+        "name": "Çorlu",
+        "lat": 41.15917,
+        "lng": 27.8,
+        "country": "TR",
+        "state": "59",
+        "population": 202578
+    },
+    "749274": {
+        "geoid": "749274",
+        "name": "Çerkezköy",
+        "lat": 41.28629,
+        "lng": 27.99939,
+        "country": "TR",
+        "state": "59",
+        "population": 84234
+    },
+    "749704": {
+        "geoid": "749704",
+        "name": "Çarşamba",
+        "lat": 41.19889,
+        "lng": 36.72194,
+        "country": "TR",
+        "state": "55",
+        "population": 50459
+    },
+    "749748": {
+        "geoid": "749748",
+        "name": "Khanjarah",
+        "lat": 40.59995,
+        "lng": 33.6153,
+        "country": "TR",
+        "state": "82",
+        "population": 71379
+    },
+    "749780": {
+        "geoid": "749780",
+        "name": "Çanakkale",
+        "lat": 40.15552,
+        "lng": 26.41271,
+        "country": "TR",
+        "state": "17",
+        "population": 87791
+    },
+    "750269": {
+        "geoid": "750269",
+        "name": "Bursa",
+        "lat": 40.19559,
+        "lng": 29.06013,
+        "country": "TR",
+        "state": "16",
+        "population": 1412701
+    },
+    "750516": {
+        "geoid": "750516",
+        "name": "Bolu",
+        "lat": 40.73583,
+        "lng": 31.60611,
+        "country": "TR",
+        "state": "14",
+        "population": 96629
+    },
+    "751077": {
+        "geoid": "751077",
+        "name": "Bandırma",
+        "lat": 40.35222,
+        "lng": 27.97667,
+        "country": "TR",
+        "state": "10",
+        "population": 107631
+    },
+    "751324": {
+        "geoid": "751324",
+        "name": "Bağcılar",
+        "lat": 41.03903,
+        "lng": 28.85671,
+        "country": "TR",
+        "state": "34",
+        "population": 724270
+    },
+    "751335": {
+        "geoid": "751335",
+        "name": "Bafra",
+        "lat": 41.56778,
+        "lng": 35.90694,
+        "country": "TR",
+        "state": "55",
+        "population": 92944
+    },
+    "751949": {
+        "geoid": "751949",
+        "name": "Ardeşen",
+        "lat": 41.19111,
+        "lng": 40.9875,
+        "country": "TR",
+        "state": "53",
+        "population": 67965
+    },
+    "752015": {
+        "geoid": "752015",
+        "name": "Amasya",
+        "lat": 40.65333,
+        "lng": 35.83306,
+        "country": "TR",
+        "state": "05",
+        "population": 82896
+    },
+    "752850": {
+        "geoid": "752850",
+        "name": "Adapazarı",
+        "lat": 40.78056,
+        "lng": 30.40333,
+        "country": "TR",
+        "state": "54",
+        "population": 286787
+    },
+    "6947637": {
+        "geoid": "6947637",
+        "name": "Ataşehir",
+        "lat": 40.9833,
+        "lng": 29.1167,
+        "country": "TR",
+        "state": "34",
+        "population": 361615
+    },
+    "6947639": {
+        "geoid": "6947639",
+        "name": "Başakşehir",
+        "lat": 41.09307,
+        "lng": 28.80203,
+        "country": "TR",
+        "state": "34",
+        "population": 193750
+    },
+    "6947640": {
+        "geoid": "6947640",
+        "name": "Beylikdüzü",
+        "lat": 40.982,
+        "lng": 28.6399,
+        "country": "TR",
+        "state": "34",
+        "population": 122452
+    },
+    "6947641": {
+        "geoid": "6947641",
+        "name": "Büyükçekmece",
+        "lat": 41.02072,
+        "lng": 28.58502,
+        "country": "TR",
+        "state": "34",
+        "population": 163140
+    },
+    "6955677": {
+        "geoid": "6955677",
+        "name": "Çankaya",
+        "lat": 39.9179,
+        "lng": 32.86268,
+        "country": "TR",
+        "state": "68",
+        "population": 792189
+    },
+    "7627067": {
+        "geoid": "7627067",
+        "name": "Bahçelievler",
+        "lat": 41.00231,
+        "lng": 28.8598,
+        "country": "TR",
+        "state": "34",
+        "population": 576799
+    },
+    "7628416": {
+        "geoid": "7628416",
+        "name": "Sultangazi",
+        "lat": 41.10652,
+        "lng": 28.86847,
+        "country": "TR",
+        "state": "34",
+        "population": 436935
+    },
+    "7628419": {
+        "geoid": "7628419",
+        "name": "Sultanbeyli",
+        "lat": 40.96072,
+        "lng": 29.27067,
+        "country": "TR",
+        "state": "34",
+        "population": 286622
+    },
+    "7628420": {
+        "geoid": "7628420",
+        "name": "Sancaktepe",
+        "lat": 41.00244,
+        "lng": 29.23187,
+        "country": "TR",
+        "state": "34",
+        "population": 241000
+    },
+    "7701384": {
+        "geoid": "7701384",
+        "name": "Karabağlar",
+        "lat": 38.37396,
+        "lng": 27.1352,
+        "country": "TR",
+        "state": "35",
+        "population": 458000
+    },
+    "8074174": {
+        "geoid": "8074174",
+        "name": "Muratpaşa",
+        "lat": 36.89157,
+        "lng": 30.76498,
+        "country": "TR",
+        "state": "07",
+        "population": 450000
+    }
+}

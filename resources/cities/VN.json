@@ -1,0 +1,515 @@
+{
+    "1560037": {
+        "geoid": "1560037",
+        "name": "Yên Vinh",
+        "lat": 18.66667,
+        "lng": 105.66667,
+        "country": "VN",
+        "state": "58",
+        "population": 107082
+    },
+    "1560349": {
+        "geoid": "1560349",
+        "name": "Yên Bái",
+        "lat": 21.72288,
+        "lng": 104.9113,
+        "country": "VN",
+        "state": "70",
+        "population": 96540
+    },
+    "1562414": {
+        "geoid": "1562414",
+        "name": "Vũng Tàu",
+        "lat": 10.34599,
+        "lng": 107.08426,
+        "country": "VN",
+        "state": "45",
+        "population": 209683
+    },
+    "1562693": {
+        "geoid": "1562693",
+        "name": "Vĩnh Long",
+        "lat": 10.25369,
+        "lng": 105.9722,
+        "country": "VN",
+        "state": "69",
+        "population": 103314
+    },
+    "1562798": {
+        "geoid": "1562798",
+        "name": "Vinh",
+        "lat": 18.67337,
+        "lng": 105.69232,
+        "country": "VN",
+        "state": "58",
+        "population": 163759
+    },
+    "1562820": {
+        "geoid": "1562820",
+        "name": "Việt Trì",
+        "lat": 21.32274,
+        "lng": 105.40198,
+        "country": "VN",
+        "state": "83",
+        "population": 93475
+    },
+    "1563241": {
+        "geoid": "1563241",
+        "name": "Thành Phố Uông Bí",
+        "lat": 21.03433,
+        "lng": 106.77049,
+        "country": "VN",
+        "state": "30",
+        "population": 63829
+    },
+    "1563281": {
+        "geoid": "1563281",
+        "name": "Tuy Hòa",
+        "lat": 13.09546,
+        "lng": 109.32094,
+        "country": "VN",
+        "state": "61",
+        "population": 69596
+    },
+    "1563926": {
+        "geoid": "1563926",
+        "name": "Trà Vinh",
+        "lat": 9.94719,
+        "lng": 106.34225,
+        "country": "VN",
+        "state": "67",
+        "population": 57408
+    },
+    "1565022": {
+        "geoid": "1565022",
+        "name": "Thủ Dầu Một",
+        "lat": 10.9804,
+        "lng": 106.6519,
+        "country": "VN",
+        "state": "75",
+        "population": 91009
+    },
+    "1566083": {
+        "geoid": "1566083",
+        "name": "Ho Chi Minh City",
+        "lat": 10.82302,
+        "lng": 106.62965,
+        "country": "VN",
+        "state": "20",
+        "population": 3467331
+    },
+    "1566166": {
+        "geoid": "1566166",
+        "name": "Thanh Hóa",
+        "lat": 19.8,
+        "lng": 105.76667,
+        "country": "VN",
+        "state": "34",
+        "population": 112473
+    },
+    "1566319": {
+        "geoid": "1566319",
+        "name": "Thành Phố Thái Nguyên",
+        "lat": 21.59422,
+        "lng": 105.84817,
+        "country": "VN",
+        "state": "85",
+        "population": 133877
+    },
+    "1566346": {
+        "geoid": "1566346",
+        "name": "Thành Phố Thái Bình",
+        "lat": 20.45,
+        "lng": 106.34002,
+        "country": "VN",
+        "state": "35",
+        "population": 53071
+    },
+    "1567069": {
+        "geoid": "1567069",
+        "name": "Tân An",
+        "lat": 10.53589,
+        "lng": 106.41366,
+        "country": "VN",
+        "state": "24",
+        "population": 64801
+    },
+    "1567148": {
+        "geoid": "1567148",
+        "name": "Tam Kỳ",
+        "lat": 15.57364,
+        "lng": 108.47403,
+        "country": "VN",
+        "state": "84",
+        "population": 59000
+    },
+    "1567723": {
+        "geoid": "1567723",
+        "name": "Sông Cầu",
+        "lat": 13.4556,
+        "lng": 109.22348,
+        "country": "VN",
+        "state": "61",
+        "population": 94066
+    },
+    "1567788": {
+        "geoid": "1567788",
+        "name": "Sóc Trăng",
+        "lat": 9.59995,
+        "lng": 105.97193,
+        "country": "VN",
+        "state": "65",
+        "population": 114453
+    },
+    "1568043": {
+        "geoid": "1568043",
+        "name": "Sa Pá",
+        "lat": 22.34023,
+        "lng": 103.84415,
+        "country": "VN",
+        "state": "90",
+        "population": 138622
+    },
+    "1568212": {
+        "geoid": "1568212",
+        "name": "Sadek",
+        "lat": 10.29085,
+        "lng": 105.75635,
+        "country": "VN",
+        "state": "09",
+        "population": 60073
+    },
+    "1568510": {
+        "geoid": "1568510",
+        "name": "Rạch Giá",
+        "lat": 10.01245,
+        "lng": 105.08091,
+        "country": "VN",
+        "state": "21",
+        "population": 228356
+    },
+    "1568574": {
+        "geoid": "1568574",
+        "name": "Qui Nhon",
+        "lat": 13.77648,
+        "lng": 109.22367,
+        "country": "VN",
+        "state": "46",
+        "population": 210338
+    },
+    "1569684": {
+        "geoid": "1569684",
+        "name": "Pleiku",
+        "lat": 13.98333,
+        "lng": 108,
+        "country": "VN",
+        "state": "49",
+        "population": 114225
+    },
+    "1571058": {
+        "geoid": "1571058",
+        "name": "Phan Thiết",
+        "lat": 10.92889,
+        "lng": 108.10208,
+        "country": "VN",
+        "state": "47",
+        "population": 160652
+    },
+    "1571067": {
+        "geoid": "1571067",
+        "name": "Phan Rang-Tháp Chàm",
+        "lat": 11.56432,
+        "lng": 108.98858,
+        "country": "VN",
+        "state": "60",
+        "population": 91520
+    },
+    "1572151": {
+        "geoid": "1572151",
+        "name": "Nha Trang",
+        "lat": 12.24507,
+        "lng": 109.19432,
+        "country": "VN",
+        "state": "54",
+        "population": 283441
+    },
+    "1573517": {
+        "geoid": "1573517",
+        "name": "Thành Phố Nam Định",
+        "lat": 20.43389,
+        "lng": 106.17729,
+        "country": "VN",
+        "state": "82",
+        "population": 193499
+    },
+    "1574023": {
+        "geoid": "1574023",
+        "name": "Mỹ Tho",
+        "lat": 10.36004,
+        "lng": 106.35996,
+        "country": "VN",
+        "state": "37",
+        "population": 122310
+    },
+    "1574507": {
+        "geoid": "1574507",
+        "name": "Móng Cái",
+        "lat": 21.52471,
+        "lng": 107.96619,
+        "country": "VN",
+        "state": "30",
+        "population": 72960
+    },
+    "1575627": {
+        "geoid": "1575627",
+        "name": "Long Xuyên",
+        "lat": 10.38639,
+        "lng": 105.43518,
+        "country": "VN",
+        "state": "01",
+        "population": 158153
+    },
+    "1576633": {
+        "geoid": "1576633",
+        "name": "Thành Phố Lạng Sơn",
+        "lat": 21.85264,
+        "lng": 106.76101,
+        "country": "VN",
+        "state": "39",
+        "population": 55981
+    },
+    "1577995": {
+        "geoid": "1577995",
+        "name": "La Gi",
+        "lat": 10.65993,
+        "lng": 107.77206,
+        "country": "VN",
+        "state": "47",
+        "population": 160652
+    },
+    "1580240": {
+        "geoid": "1580240",
+        "name": "Huế",
+        "lat": 16.4619,
+        "lng": 107.59546,
+        "country": "VN",
+        "state": "66",
+        "population": 287217
+    },
+    "1580410": {
+        "geoid": "1580410",
+        "name": "Thành Phố Hạ Long",
+        "lat": 20.95045,
+        "lng": 107.07336,
+        "country": "VN",
+        "state": "30",
+        "population": 148066
+    },
+    "1580830": {
+        "geoid": "1580830",
+        "name": "Thành Phố Hòa Bình",
+        "lat": 20.81717,
+        "lng": 105.33759,
+        "country": "VN",
+        "state": "53",
+        "population": 105260
+    },
+    "1581130": {
+        "geoid": "1581130",
+        "name": "Hanoi",
+        "lat": 21.0245,
+        "lng": 105.84117,
+        "country": "VN",
+        "state": "44",
+        "population": 1431270
+    },
+    "1581298": {
+        "geoid": "1581298",
+        "name": "Haiphong",
+        "lat": 20.86481,
+        "lng": 106.68345,
+        "country": "VN",
+        "state": "13",
+        "population": 602695
+    },
+    "1581326": {
+        "geoid": "1581326",
+        "name": "Thành Phố Hải Dương",
+        "lat": 20.94099,
+        "lng": 106.33302,
+        "country": "VN",
+        "state": "79",
+        "population": 58030
+    },
+    "1581364": {
+        "geoid": "1581364",
+        "name": "Hà Đông",
+        "lat": 20.97136,
+        "lng": 105.77876,
+        "country": "VN",
+        "state": "44",
+        "population": 50877
+    },
+    "1583992": {
+        "geoid": "1583992",
+        "name": "Da Nang",
+        "lat": 16.06778,
+        "lng": 108.22083,
+        "country": "VN",
+        "state": "78",
+        "population": 752493
+    },
+    "1584071": {
+        "geoid": "1584071",
+        "name": "Ðà Lạt",
+        "lat": 11.94646,
+        "lng": 108.44193,
+        "country": "VN",
+        "state": "23",
+        "population": 197000
+    },
+    "1584661": {
+        "geoid": "1584661",
+        "name": "Củ Chi",
+        "lat": 10.97333,
+        "lng": 106.49325,
+        "country": "VN",
+        "state": "20",
+        "population": 75000
+    },
+    "1585660": {
+        "geoid": "1585660",
+        "name": "Cho Dok",
+        "lat": 10.7,
+        "lng": 105.11667,
+        "country": "VN",
+        "state": "01",
+        "population": 70239
+    },
+    "1586151": {
+        "geoid": "1586151",
+        "name": "Cao Lãnh",
+        "lat": 10.46017,
+        "lng": 105.63294,
+        "country": "VN",
+        "state": "09",
+        "population": 63770
+    },
+    "1586203": {
+        "geoid": "1586203",
+        "name": "Cần Thơ",
+        "lat": 10.03711,
+        "lng": 105.78825,
+        "country": "VN",
+        "state": "87",
+        "population": 259598
+    },
+    "1586288": {
+        "geoid": "1586288",
+        "name": "Cần Giờ",
+        "lat": 10.41115,
+        "lng": 106.95474,
+        "country": "VN",
+        "state": "20",
+        "population": 55137
+    },
+    "1586296": {
+        "geoid": "1586296",
+        "name": "Cần Giuộc",
+        "lat": 10.60857,
+        "lng": 106.67135,
+        "country": "VN",
+        "state": "24",
+        "population": 152200
+    },
+    "1586350": {
+        "geoid": "1586350",
+        "name": "Cam Ranh",
+        "lat": 11.92144,
+        "lng": 109.15913,
+        "country": "VN",
+        "state": "54",
+        "population": 146771
+    },
+    "1586357": {
+        "geoid": "1586357",
+        "name": "Cẩm Phả Mines",
+        "lat": 21.01667,
+        "lng": 107.3,
+        "country": "VN",
+        "state": "30",
+        "population": 135477
+    },
+    "1586443": {
+        "geoid": "1586443",
+        "name": "Cà Mau",
+        "lat": 9.17682,
+        "lng": 105.15242,
+        "country": "VN",
+        "state": "77",
+        "population": 111894
+    },
+    "1586896": {
+        "geoid": "1586896",
+        "name": "Buôn Ma Thuột",
+        "lat": 12.66747,
+        "lng": 108.03775,
+        "country": "VN",
+        "state": "88",
+        "population": 146975
+    },
+    "1587919": {
+        "geoid": "1587919",
+        "name": "Bỉm Sơn",
+        "lat": 20.07806,
+        "lng": 105.86028,
+        "country": "VN",
+        "state": "34",
+        "population": 53754
+    },
+    "1587923": {
+        "geoid": "1587923",
+        "name": "Biên Hòa",
+        "lat": 10.94469,
+        "lng": 106.82432,
+        "country": "VN",
+        "state": "43",
+        "population": 407208
+    },
+    "1587976": {
+        "geoid": "1587976",
+        "name": "Bến Tre",
+        "lat": 10.24147,
+        "lng": 106.37585,
+        "country": "VN",
+        "state": "03",
+        "population": 59442
+    },
+    "1588275": {
+        "geoid": "1588275",
+        "name": "Bảo Lộc",
+        "lat": 11.54798,
+        "lng": 107.80772,
+        "country": "VN",
+        "state": "23",
+        "population": 151915
+    },
+    "1591474": {
+        "geoid": "1591474",
+        "name": "Thành phố Bạc Liêu",
+        "lat": 9.29414,
+        "lng": 105.72776,
+        "country": "VN",
+        "state": "73",
+        "population": 107911
+    },
+    "1591527": {
+        "geoid": "1591527",
+        "name": "Bắc Giang",
+        "lat": 21.27307,
+        "lng": 106.1946,
+        "country": "VN",
+        "state": "71",
+        "population": 53728
+    }
+}

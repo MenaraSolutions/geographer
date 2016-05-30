@@ -1,0 +1,47 @@
+{
+    "610824": {
+        "geoid": "610824",
+        "name": "Zugdidi",
+        "lat": 42.5088,
+        "lng": 41.87088,
+        "country": "GE",
+        "state": "71",
+        "population": 73006
+    },
+    "611717": {
+        "geoid": "611717",
+        "name": "Tbilisi",
+        "lat": 41.69411,
+        "lng": 44.83368,
+        "country": "GE",
+        "state": "51",
+        "population": 1049498
+    },
+    "611847": {
+        "geoid": "611847",
+        "name": "Sokhumi",
+        "lat": 43.00697,
+        "lng": 40.9893,
+        "country": "GE",
+        "state": "02",
+        "population": 81546
+    },
+    "613607": {
+        "geoid": "613607",
+        "name": "Kutaisi",
+        "lat": 42.26791,
+        "lng": 42.69459,
+        "country": "GE",
+        "state": "66",
+        "population": 178338
+    },
+    "615532": {
+        "geoid": "615532",
+        "name": "Batumi",
+        "lat": 41.64228,
+        "lng": 41.63392,
+        "country": "GE",
+        "state": "04",
+        "population": 121806
+    }
+}

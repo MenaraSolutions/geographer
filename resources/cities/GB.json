@@ -1,0 +1,1883 @@
+{
+    "2633352": {
+        "geoid": "2633352",
+        "name": "York",
+        "lat": 53.95763,
+        "lng": -1.08271,
+        "country": "GB",
+        "state": "ENG",
+        "population": 144202
+    },
+    "2633521": {
+        "geoid": "2633521",
+        "name": "Worthing",
+        "lat": 50.81795,
+        "lng": -0.37538,
+        "country": "GB",
+        "state": "ENG",
+        "population": 99110
+    },
+    "2633563": {
+        "geoid": "2633563",
+        "name": "Worcester",
+        "lat": 52.18935,
+        "lng": -2.22001,
+        "country": "GB",
+        "state": "ENG",
+        "population": 100023
+    },
+    "2633691": {
+        "geoid": "2633691",
+        "name": "Wolverhampton",
+        "lat": 52.58547,
+        "lng": -2.12296,
+        "country": "GB",
+        "state": "ENG",
+        "population": 252791
+    },
+    "2633709": {
+        "geoid": "2633709",
+        "name": "Woking",
+        "lat": 51.31903,
+        "lng": -0.55893,
+        "country": "GB",
+        "state": "ENG",
+        "population": 103932
+    },
+    "2633948": {
+        "geoid": "2633948",
+        "name": "Wigan",
+        "lat": 53.53333,
+        "lng": -2.61667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 80788
+    },
+    "2633954": {
+        "geoid": "2633954",
+        "name": "Widnes",
+        "lat": 53.3618,
+        "lng": -2.73406,
+        "country": "GB",
+        "state": "ENG",
+        "population": 56097
+    },
+    "2634202": {
+        "geoid": "2634202",
+        "name": "Weymouth",
+        "lat": 50.61448,
+        "lng": -2.45991,
+        "country": "GB",
+        "state": "ENG",
+        "population": 50253
+    },
+    "2634308": {
+        "geoid": "2634308",
+        "name": "Weston-super-Mare",
+        "lat": 51.34603,
+        "lng": -2.97665,
+        "country": "GB",
+        "state": "ENG",
+        "population": 82903
+    },
+    "2634491": {
+        "geoid": "2634491",
+        "name": "West Bromwich",
+        "lat": 52.51868,
+        "lng": -1.9945,
+        "country": "GB",
+        "state": "ENG",
+        "population": 135618
+    },
+    "2634677": {
+        "geoid": "2634677",
+        "name": "Watford",
+        "lat": 51.65531,
+        "lng": -0.39602,
+        "country": "GB",
+        "state": "ENG",
+        "population": 125707
+    },
+    "2634686": {
+        "geoid": "2634686",
+        "name": "Waterlooville",
+        "lat": 50.88067,
+        "lng": -1.0304,
+        "country": "GB",
+        "state": "ENG",
+        "population": 64350
+    },
+    "2634715": {
+        "geoid": "2634715",
+        "name": "Washington",
+        "lat": 54.9,
+        "lng": -1.51667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 53526
+    },
+    "2634739": {
+        "geoid": "2634739",
+        "name": "Warrington",
+        "lat": 53.39254,
+        "lng": -2.58024,
+        "country": "GB",
+        "state": "ENG",
+        "population": 81238
+    },
+    "2634853": {
+        "geoid": "2634853",
+        "name": "Walsall",
+        "lat": 52.58528,
+        "lng": -1.98396,
+        "country": "GB",
+        "state": "ENG",
+        "population": 172141
+    },
+    "2634873": {
+        "geoid": "2634873",
+        "name": "Wallasey",
+        "lat": 53.42324,
+        "lng": -3.06497,
+        "country": "GB",
+        "state": "ENG",
+        "population": 58794
+    },
+    "2634910": {
+        "geoid": "2634910",
+        "name": "Wakefield",
+        "lat": 53.68331,
+        "lng": -1.49768,
+        "country": "GB",
+        "state": "ENG",
+        "population": 78978
+    },
+    "2635650": {
+        "geoid": "2635650",
+        "name": "Torquay",
+        "lat": 50.46384,
+        "lng": -3.51434,
+        "country": "GB",
+        "state": "ENG",
+        "population": 65388
+    },
+    "2636177": {
+        "geoid": "2636177",
+        "name": "Taunton",
+        "lat": 51.01494,
+        "lng": -3.10293,
+        "country": "GB",
+        "state": "ENG",
+        "population": 60433
+    },
+    "2636276": {
+        "geoid": "2636276",
+        "name": "Tamworth",
+        "lat": 52.63399,
+        "lng": -1.69587,
+        "country": "GB",
+        "state": "ENG",
+        "population": 74129
+    },
+    "2636389": {
+        "geoid": "2636389",
+        "name": "Swindon",
+        "lat": 51.55797,
+        "lng": -1.78116,
+        "country": "GB",
+        "state": "ENG",
+        "population": 155432
+    },
+    "2636432": {
+        "geoid": "2636432",
+        "name": "Swansea",
+        "lat": 51.62079,
+        "lng": -3.94323,
+        "country": "GB",
+        "state": "WLS",
+        "population": 170883
+    },
+    "2636486": {
+        "geoid": "2636486",
+        "name": "Sutton Coldfield",
+        "lat": 52.56667,
+        "lng": -1.81667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 107030
+    },
+    "2636503": {
+        "geoid": "2636503",
+        "name": "Sutton",
+        "lat": 51.35,
+        "lng": -0.2,
+        "country": "GB",
+        "state": "ENG",
+        "population": 187600
+    },
+    "2636531": {
+        "geoid": "2636531",
+        "name": "Sunderland",
+        "lat": 54.90465,
+        "lng": -1.38222,
+        "country": "GB",
+        "state": "ENG",
+        "population": 177965
+    },
+    "2636769": {
+        "geoid": "2636769",
+        "name": "Stourbridge",
+        "lat": 52.45608,
+        "lng": -2.14317,
+        "country": "GB",
+        "state": "ENG",
+        "population": 56284
+    },
+    "2636841": {
+        "geoid": "2636841",
+        "name": "Stoke-on-Trent",
+        "lat": 53.00415,
+        "lng": -2.18538,
+        "country": "GB",
+        "state": "ENG",
+        "population": 260419
+    },
+    "2636876": {
+        "geoid": "2636876",
+        "name": "Stockton-on-Tees",
+        "lat": 54.56848,
+        "lng": -1.3187,
+        "country": "GB",
+        "state": "ENG",
+        "population": 79957
+    },
+    "2636882": {
+        "geoid": "2636882",
+        "name": "Stockport",
+        "lat": 53.40979,
+        "lng": -2.15761,
+        "country": "GB",
+        "state": "ENG",
+        "population": 139052
+    },
+    "2636940": {
+        "geoid": "2636940",
+        "name": "Stevenage",
+        "lat": 51.90224,
+        "lng": -0.20256,
+        "country": "GB",
+        "state": "ENG",
+        "population": 84651
+    },
+    "2637126": {
+        "geoid": "2637126",
+        "name": "Staines",
+        "lat": 51.43092,
+        "lng": -0.50606,
+        "country": "GB",
+        "state": "ENG",
+        "population": 51040
+    },
+    "2637142": {
+        "geoid": "2637142",
+        "name": "Stafford",
+        "lat": 52.80521,
+        "lng": -2.11636,
+        "country": "GB",
+        "state": "ENG",
+        "population": 65290
+    },
+    "2637329": {
+        "geoid": "2637329",
+        "name": "South Shields",
+        "lat": 54.99859,
+        "lng": -1.4323,
+        "country": "GB",
+        "state": "ENG",
+        "population": 83655
+    },
+    "2637343": {
+        "geoid": "2637343",
+        "name": "Southport",
+        "lat": 53.64581,
+        "lng": -3.01008,
+        "country": "GB",
+        "state": "ENG",
+        "population": 93044
+    },
+    "2637433": {
+        "geoid": "2637433",
+        "name": "Southend-on-Sea",
+        "lat": 51.53782,
+        "lng": 0.71433,
+        "country": "GB",
+        "state": "ENG",
+        "population": 163377
+    },
+    "2637487": {
+        "geoid": "2637487",
+        "name": "Southampton",
+        "lat": 50.90395,
+        "lng": -1.40428,
+        "country": "GB",
+        "state": "ENG",
+        "population": 246201
+    },
+    "2637490": {
+        "geoid": "2637490",
+        "name": "Southall",
+        "lat": 51.50896,
+        "lng": -0.3713,
+        "country": "GB",
+        "state": "ENG",
+        "population": 70000
+    },
+    "2637546": {
+        "geoid": "2637546",
+        "name": "Solihull",
+        "lat": 52.41426,
+        "lng": -1.78094,
+        "country": "GB",
+        "state": "ENG",
+        "population": 96267
+    },
+    "2637627": {
+        "geoid": "2637627",
+        "name": "Slough",
+        "lat": 51.50949,
+        "lng": -0.59541,
+        "country": "GB",
+        "state": "ENG",
+        "population": 134072
+    },
+    "2637891": {
+        "geoid": "2637891",
+        "name": "Shrewsbury",
+        "lat": 52.71009,
+        "lng": -2.75208,
+        "country": "GB",
+        "state": "ENG",
+        "population": 69519
+    },
+    "2638077": {
+        "geoid": "2638077",
+        "name": "Sheffield",
+        "lat": 53.38297,
+        "lng": -1.4659,
+        "country": "GB",
+        "state": "ENG",
+        "population": 447047
+    },
+    "2638324": {
+        "geoid": "2638324",
+        "name": "Scunthorpe",
+        "lat": 53.57905,
+        "lng": -0.65437,
+        "country": "GB",
+        "state": "ENG",
+        "population": 72514
+    },
+    "2638671": {
+        "geoid": "2638671",
+        "name": "Salford",
+        "lat": 53.48771,
+        "lng": -2.29042,
+        "country": "GB",
+        "state": "ENG",
+        "population": 72750
+    },
+    "2638678": {
+        "geoid": "2638678",
+        "name": "Sale",
+        "lat": 53.42519,
+        "lng": -2.32443,
+        "country": "GB",
+        "state": "ENG",
+        "population": 55689
+    },
+    "2638785": {
+        "geoid": "2638785",
+        "name": "St Helens",
+        "lat": 53.45,
+        "lng": -2.73333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 102555
+    },
+    "2638867": {
+        "geoid": "2638867",
+        "name": "St Albans",
+        "lat": 51.75,
+        "lng": -0.33333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 84561
+    },
+    "2638960": {
+        "geoid": "2638960",
+        "name": "Runcorn",
+        "lat": 53.34174,
+        "lng": -2.73124,
+        "country": "GB",
+        "state": "ENG",
+        "population": 59679
+    },
+    "2638978": {
+        "geoid": "2638978",
+        "name": "Rugby",
+        "lat": 52.37092,
+        "lng": -1.26417,
+        "country": "GB",
+        "state": "ENG",
+        "population": 63323
+    },
+    "2639022": {
+        "geoid": "2639022",
+        "name": "Royal Tunbridge Wells",
+        "lat": 51.13321,
+        "lng": 0.26256,
+        "country": "GB",
+        "state": "ENG",
+        "population": 61075
+    },
+    "2639093": {
+        "geoid": "2639093",
+        "name": "Rotherham",
+        "lat": 53.43012,
+        "lng": -1.35678,
+        "country": "GB",
+        "state": "ENG",
+        "population": 117618
+    },
+    "2639272": {
+        "geoid": "2639272",
+        "name": "Rochdale",
+        "lat": 53.61766,
+        "lng": -2.1552,
+        "country": "GB",
+        "state": "ENG",
+        "population": 97550
+    },
+    "2639447": {
+        "geoid": "2639447",
+        "name": "Rhondda",
+        "lat": 51.65896,
+        "lng": -3.44885,
+        "country": "GB",
+        "state": "WLS",
+        "population": 59450
+    },
+    "2639506": {
+        "geoid": "2639506",
+        "name": "Reigate",
+        "lat": 51.23736,
+        "lng": -0.20582,
+        "country": "GB",
+        "state": "ENG",
+        "population": 52123
+    },
+    "2639545": {
+        "geoid": "2639545",
+        "name": "Redhill",
+        "lat": 51.24048,
+        "lng": -0.17044,
+        "country": "GB",
+        "state": "ENG",
+        "population": 51559
+    },
+    "2639557": {
+        "geoid": "2639557",
+        "name": "Redditch",
+        "lat": 52.3065,
+        "lng": -1.94569,
+        "country": "GB",
+        "state": "ENG",
+        "population": 77128
+    },
+    "2639577": {
+        "geoid": "2639577",
+        "name": "Reading",
+        "lat": 51.45625,
+        "lng": -0.97113,
+        "country": "GB",
+        "state": "ENG",
+        "population": 244070
+    },
+    "2639842": {
+        "geoid": "2639842",
+        "name": "Purley",
+        "lat": 51.33678,
+        "lng": -0.11201,
+        "country": "GB",
+        "state": "ENG",
+        "population": 72000
+    },
+    "2639912": {
+        "geoid": "2639912",
+        "name": "Preston",
+        "lat": 53.76282,
+        "lng": -2.70452,
+        "country": "GB",
+        "state": "ENG",
+        "population": 190687
+    },
+    "2639996": {
+        "geoid": "2639996",
+        "name": "Portsmouth",
+        "lat": 50.79899,
+        "lng": -1.09125,
+        "country": "GB",
+        "state": "ENG",
+        "population": 194150
+    },
+    "2640101": {
+        "geoid": "2640101",
+        "name": "Poole",
+        "lat": 50.71429,
+        "lng": -1.98458,
+        "country": "GB",
+        "state": "ENG",
+        "population": 150092
+    },
+    "2640194": {
+        "geoid": "2640194",
+        "name": "Plymouth",
+        "lat": 50.37153,
+        "lng": -4.14305,
+        "country": "GB",
+        "state": "ENG",
+        "population": 247297
+    },
+    "2640354": {
+        "geoid": "2640354",
+        "name": "Peterborough",
+        "lat": 52.57364,
+        "lng": -0.24777,
+        "country": "GB",
+        "state": "ENG",
+        "population": 140141
+    },
+    "2640677": {
+        "geoid": "2640677",
+        "name": "Paisley",
+        "lat": 55.83173,
+        "lng": -4.43254,
+        "country": "GB",
+        "state": "SCT",
+        "population": 73074
+    },
+    "2640729": {
+        "geoid": "2640729",
+        "name": "Oxford",
+        "lat": 51.75222,
+        "lng": -1.25596,
+        "country": "GB",
+        "state": "ENG",
+        "population": 154566
+    },
+    "2641022": {
+        "geoid": "2641022",
+        "name": "Oldham",
+        "lat": 53.54051,
+        "lng": -2.1183,
+        "country": "GB",
+        "state": "ENG",
+        "population": 104782
+    },
+    "2641157": {
+        "geoid": "2641157",
+        "name": "Nuneaton",
+        "lat": 52.52323,
+        "lng": -1.46523,
+        "country": "GB",
+        "state": "ENG",
+        "population": 73555
+    },
+    "2641170": {
+        "geoid": "2641170",
+        "name": "Nottingham",
+        "lat": 52.9536,
+        "lng": -1.15047,
+        "country": "GB",
+        "state": "ENG",
+        "population": 246654
+    },
+    "2641181": {
+        "geoid": "2641181",
+        "name": "Norwich",
+        "lat": 52.62783,
+        "lng": 1.29834,
+        "country": "GB",
+        "state": "ENG",
+        "population": 177636
+    },
+    "2641430": {
+        "geoid": "2641430",
+        "name": "Northampton",
+        "lat": 52.25,
+        "lng": -0.88333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 197322
+    },
+    "2641520": {
+        "geoid": "2641520",
+        "name": "Newtownabbey",
+        "lat": 54.65983,
+        "lng": -5.90858,
+        "country": "GB",
+        "state": "NIR",
+        "population": 63860
+    },
+    "2641598": {
+        "geoid": "2641598",
+        "name": "Newport",
+        "lat": 51.58774,
+        "lng": -2.99835,
+        "country": "GB",
+        "state": "WLS",
+        "population": 117326
+    },
+    "2641673": {
+        "geoid": "2641673",
+        "name": "Newcastle upon Tyne",
+        "lat": 54.97328,
+        "lng": -1.61396,
+        "country": "GB",
+        "state": "ENG",
+        "population": 192382
+    },
+    "2641674": {
+        "geoid": "2641674",
+        "name": "Newcastle under Lyme",
+        "lat": 53,
+        "lng": -2.23333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 75794
+    },
+    "2642189": {
+        "geoid": "2642189",
+        "name": "Morley",
+        "lat": 53.74013,
+        "lng": -1.59877,
+        "country": "GB",
+        "state": "ENG",
+        "population": 57385
+    },
+    "2642214": {
+        "geoid": "2642214",
+        "name": "Morecambe",
+        "lat": 54.06835,
+        "lng": -2.86108,
+        "country": "GB",
+        "state": "ENG",
+        "population": 51644
+    },
+    "2642465": {
+        "geoid": "2642465",
+        "name": "Milton Keynes",
+        "lat": 52.04172,
+        "lng": -0.75583,
+        "country": "GB",
+        "state": "ENG",
+        "population": 184506
+    },
+    "2642607": {
+        "geoid": "2642607",
+        "name": "Middlesbrough",
+        "lat": 54.57623,
+        "lng": -1.23483,
+        "country": "GB",
+        "state": "ENG",
+        "population": 142707
+    },
+    "2643044": {
+        "geoid": "2643044",
+        "name": "Margate",
+        "lat": 51.38132,
+        "lng": 1.38617,
+        "country": "GB",
+        "state": "ENG",
+        "population": 60134
+    },
+    "2643097": {
+        "geoid": "2643097",
+        "name": "Mansfield",
+        "lat": 53.13333,
+        "lng": -1.2,
+        "country": "GB",
+        "state": "ENG",
+        "population": 70447
+    },
+    "2643123": {
+        "geoid": "2643123",
+        "name": "Manchester",
+        "lat": 53.48095,
+        "lng": -2.23743,
+        "country": "GB",
+        "state": "ENG",
+        "population": 395515
+    },
+    "2643179": {
+        "geoid": "2643179",
+        "name": "Maidstone",
+        "lat": 51.26667,
+        "lng": 0.51667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 90894
+    },
+    "2643186": {
+        "geoid": "2643186",
+        "name": "Maidenhead",
+        "lat": 51.52279,
+        "lng": -0.71986,
+        "country": "GB",
+        "state": "ENG",
+        "population": 59463
+    },
+    "2643266": {
+        "geoid": "2643266",
+        "name": "Macclesfield",
+        "lat": 53.26023,
+        "lng": -2.12564,
+        "country": "GB",
+        "state": "ENG",
+        "population": 51739
+    },
+    "2643339": {
+        "geoid": "2643339",
+        "name": "Luton",
+        "lat": 51.87967,
+        "lng": -0.41748,
+        "country": "GB",
+        "state": "ENG",
+        "population": 193669
+    },
+    "2643490": {
+        "geoid": "2643490",
+        "name": "Lowestoft",
+        "lat": 52.4752,
+        "lng": 1.75159,
+        "country": "GB",
+        "state": "ENG",
+        "population": 71479
+    },
+    "2643567": {
+        "geoid": "2643567",
+        "name": "Loughborough",
+        "lat": 52.76667,
+        "lng": -1.2,
+        "country": "GB",
+        "state": "ENG",
+        "population": 59317
+    },
+    "2643734": {
+        "geoid": "2643734",
+        "name": "Londonderry County Borough",
+        "lat": 54.99721,
+        "lng": -7.30917,
+        "country": "GB",
+        "state": "NIR",
+        "population": 87153
+    },
+    "2643736": {
+        "geoid": "2643736",
+        "name": "Derry",
+        "lat": 54.9981,
+        "lng": -7.30934,
+        "country": "GB",
+        "state": "NIR",
+        "population": 83652
+    },
+    "2643741": {
+        "geoid": "2643741",
+        "name": "City of London",
+        "lat": 51.51279,
+        "lng": -0.09184,
+        "country": "GB",
+        "state": "ENG",
+        "population": 7556900
+    },
+    "2643743": {
+        "geoid": "2643743",
+        "name": "London",
+        "lat": 51.50853,
+        "lng": -0.12574,
+        "country": "GB",
+        "state": "ENG",
+        "population": 7556900
+    },
+    "2644204": {
+        "geoid": "2644204",
+        "name": "Livingston",
+        "lat": 55.90288,
+        "lng": -3.52261,
+        "country": "GB",
+        "state": "SCT",
+        "population": 53798
+    },
+    "2644210": {
+        "geoid": "2644210",
+        "name": "Liverpool",
+        "lat": 53.41058,
+        "lng": -2.97794,
+        "country": "GB",
+        "state": "ENG",
+        "population": 468945
+    },
+    "2644319": {
+        "geoid": "2644319",
+        "name": "Littlehampton",
+        "lat": 50.81137,
+        "lng": -0.54078,
+        "country": "GB",
+        "state": "ENG",
+        "population": 58714
+    },
+    "2644411": {
+        "geoid": "2644411",
+        "name": "Lisburn",
+        "lat": 54.52337,
+        "lng": -6.03527,
+        "country": "GB",
+        "state": "NIR",
+        "population": 77506
+    },
+    "2644487": {
+        "geoid": "2644487",
+        "name": "Lincoln",
+        "lat": 53.22683,
+        "lng": -0.53792,
+        "country": "GB",
+        "state": "ENG",
+        "population": 89228
+    },
+    "2644668": {
+        "geoid": "2644668",
+        "name": "Leicester",
+        "lat": 52.6386,
+        "lng": -1.13169,
+        "country": "GB",
+        "state": "ENG",
+        "population": 339239
+    },
+    "2644688": {
+        "geoid": "2644688",
+        "name": "Leeds",
+        "lat": 53.79648,
+        "lng": -1.54785,
+        "country": "GB",
+        "state": "ENG",
+        "population": 455123
+    },
+    "2644737": {
+        "geoid": "2644737",
+        "name": "Royal Leamington Spa",
+        "lat": 52.3,
+        "lng": -1.53333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 64640
+    },
+    "2645418": {
+        "geoid": "2645418",
+        "name": "Kingswood",
+        "lat": 51.45278,
+        "lng": -2.50833,
+        "country": "GB",
+        "state": "ENG",
+        "population": 64793
+    },
+    "2645425": {
+        "geoid": "2645425",
+        "name": "Hull",
+        "lat": 53.7446,
+        "lng": -0.33525,
+        "country": "GB",
+        "state": "ENG",
+        "population": 302296
+    },
+    "2645724": {
+        "geoid": "2645724",
+        "name": "Kidderminster",
+        "lat": 52.38819,
+        "lng": -2.25,
+        "country": "GB",
+        "state": "ENG",
+        "population": 56657
+    },
+    "2645753": {
+        "geoid": "2645753",
+        "name": "Kettering",
+        "lat": 52.39836,
+        "lng": -0.72571,
+        "country": "GB",
+        "state": "ENG",
+        "population": 53329
+    },
+    "2645889": {
+        "geoid": "2645889",
+        "name": "Keighley",
+        "lat": 53.86791,
+        "lng": -1.90664,
+        "country": "GB",
+        "state": "ENG",
+        "population": 50171
+    },
+    "2646003": {
+        "geoid": "2646003",
+        "name": "Islington",
+        "lat": 51.53622,
+        "lng": -0.10304,
+        "country": "GB",
+        "state": "ENG",
+        "population": 319143
+    },
+    "2646057": {
+        "geoid": "2646057",
+        "name": "Ipswich",
+        "lat": 52.05917,
+        "lng": 1.15545,
+        "country": "GB",
+        "state": "ENG",
+        "population": 143767
+    },
+    "2646329": {
+        "geoid": "2646329",
+        "name": "Huyton",
+        "lat": 53.4115,
+        "lng": -2.83935,
+        "country": "GB",
+        "state": "ENG",
+        "population": 54738
+    },
+    "2646458": {
+        "geoid": "2646458",
+        "name": "Huddersfield",
+        "lat": 53.64904,
+        "lng": -1.78416,
+        "country": "GB",
+        "state": "ENG",
+        "population": 149017
+    },
+    "2646504": {
+        "geoid": "2646504",
+        "name": "Hove",
+        "lat": 50.83088,
+        "lng": -0.1672,
+        "country": "GB",
+        "state": "ENG",
+        "population": 75174
+    },
+    "2646557": {
+        "geoid": "2646557",
+        "name": "Horsham",
+        "lat": 51.06314,
+        "lng": -0.32757,
+        "country": "GB",
+        "state": "ENG",
+        "population": 50680
+    },
+    "2646914": {
+        "geoid": "2646914",
+        "name": "High Wycombe",
+        "lat": 51.62907,
+        "lng": -0.74934,
+        "country": "GB",
+        "state": "ENG",
+        "population": 80357
+    },
+    "2647074": {
+        "geoid": "2647074",
+        "name": "Hereford",
+        "lat": 52.05684,
+        "lng": -2.71482,
+        "country": "GB",
+        "state": "ENG",
+        "population": 58281
+    },
+    "2647138": {
+        "geoid": "2647138",
+        "name": "Hemel Hempstead",
+        "lat": 51.75368,
+        "lng": -0.44975,
+        "country": "GB",
+        "state": "ENG",
+        "population": 85629
+    },
+    "2647356": {
+        "geoid": "2647356",
+        "name": "Hastings",
+        "lat": 50.85519,
+        "lng": 0.57292,
+        "country": "GB",
+        "state": "ENG",
+        "population": 89100
+    },
+    "2647400": {
+        "geoid": "2647400",
+        "name": "Hartlepool",
+        "lat": 54.68611,
+        "lng": -1.2125,
+        "country": "GB",
+        "state": "ENG",
+        "population": 86713
+    },
+    "2647428": {
+        "geoid": "2647428",
+        "name": "Harrogate",
+        "lat": 53.99078,
+        "lng": -1.5373,
+        "country": "GB",
+        "state": "ENG",
+        "population": 87024
+    },
+    "2647461": {
+        "geoid": "2647461",
+        "name": "Harlow",
+        "lat": 51.77655,
+        "lng": 0.11158,
+        "country": "GB",
+        "state": "ENG",
+        "population": 94365
+    },
+    "2647632": {
+        "geoid": "2647632",
+        "name": "Halifax",
+        "lat": 53.71667,
+        "lng": -1.85,
+        "country": "GB",
+        "state": "ENG",
+        "population": 82624
+    },
+    "2647639": {
+        "geoid": "2647639",
+        "name": "Halesowen",
+        "lat": 52.44859,
+        "lng": -2.04938,
+        "country": "GB",
+        "state": "ENG",
+        "population": 55265
+    },
+    "2647793": {
+        "geoid": "2647793",
+        "name": "Guildford",
+        "lat": 51.23536,
+        "lng": -0.57427,
+        "country": "GB",
+        "state": "ENG",
+        "population": 71873
+    },
+    "2647984": {
+        "geoid": "2647984",
+        "name": "Great Yarmouth",
+        "lat": 52.60831,
+        "lng": 1.73052,
+        "country": "GB",
+        "state": "ENG",
+        "population": 59601
+    },
+    "2648182": {
+        "geoid": "2648182",
+        "name": "Grays",
+        "lat": 51.47566,
+        "lng": 0.32521,
+        "country": "GB",
+        "state": "ENG",
+        "population": 70934
+    },
+    "2648187": {
+        "geoid": "2648187",
+        "name": "Gravesend",
+        "lat": 51.44138,
+        "lng": 0.37371,
+        "country": "GB",
+        "state": "ENG",
+        "population": 54263
+    },
+    "2648272": {
+        "geoid": "2648272",
+        "name": "Gosport",
+        "lat": 50.79509,
+        "lng": -1.12902,
+        "country": "GB",
+        "state": "ENG",
+        "population": 70793
+    },
+    "2648404": {
+        "geoid": "2648404",
+        "name": "Gloucester",
+        "lat": 51.86568,
+        "lng": -2.2431,
+        "country": "GB",
+        "state": "ENG",
+        "population": 128721
+    },
+    "2648579": {
+        "geoid": "2648579",
+        "name": "Glasgow",
+        "lat": 55.86515,
+        "lng": -4.25763,
+        "country": "GB",
+        "state": "SCT",
+        "population": 610268
+    },
+    "2648657": {
+        "geoid": "2648657",
+        "name": "Gillingham",
+        "lat": 51.38914,
+        "lng": 0.54863,
+        "country": "GB",
+        "state": "ENG",
+        "population": 101187
+    },
+    "2648773": {
+        "geoid": "2648773",
+        "name": "Gateshead",
+        "lat": 54.96209,
+        "lng": -1.60168,
+        "country": "GB",
+        "state": "ENG",
+        "population": 77649
+    },
+    "2648970": {
+        "geoid": "2648970",
+        "name": "Fylde",
+        "lat": 53.83333,
+        "lng": -2.91667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 76500
+    },
+    "2649672": {
+        "geoid": "2649672",
+        "name": "Farnborough",
+        "lat": 51.29424,
+        "lng": -0.75565,
+        "country": "GB",
+        "state": "ENG",
+        "population": 59902
+    },
+    "2649692": {
+        "geoid": "2649692",
+        "name": "Fareham",
+        "lat": 50.85162,
+        "lng": -1.17929,
+        "country": "GB",
+        "state": "ENG",
+        "population": 57390
+    },
+    "2649808": {
+        "geoid": "2649808",
+        "name": "Exeter",
+        "lat": 50.7236,
+        "lng": -3.52751,
+        "country": "GB",
+        "state": "ENG",
+        "population": 113118
+    },
+    "2649911": {
+        "geoid": "2649911",
+        "name": "Esher",
+        "lat": 51.36969,
+        "lng": -0.36693,
+        "country": "GB",
+        "state": "ENG",
+        "population": 52392
+    },
+    "2649997": {
+        "geoid": "2649997",
+        "name": "Enfield Town",
+        "lat": 51.65147,
+        "lng": -0.08497,
+        "country": "GB",
+        "state": "ENG",
+        "population": 103970
+    },
+    "2650096": {
+        "geoid": "2650096",
+        "name": "Ellesmere Port",
+        "lat": 53.27875,
+        "lng": -2.90134,
+        "country": "GB",
+        "state": "ENG",
+        "population": 67768
+    },
+    "2650225": {
+        "geoid": "2650225",
+        "name": "Edinburgh",
+        "lat": 55.95206,
+        "lng": -3.19648,
+        "country": "GB",
+        "state": "SCT",
+        "population": 435791
+    },
+    "2650396": {
+        "geoid": "2650396",
+        "name": "Eastleigh",
+        "lat": 50.96667,
+        "lng": -1.35,
+        "country": "GB",
+        "state": "ENG",
+        "population": 54225
+    },
+    "2650405": {
+        "geoid": "2650405",
+        "name": "East Kilbride",
+        "lat": 55.76412,
+        "lng": -4.17669,
+        "country": "GB",
+        "state": "SCT",
+        "population": 74231
+    },
+    "2650497": {
+        "geoid": "2650497",
+        "name": "Eastbourne",
+        "lat": 50.76871,
+        "lng": 0.28453,
+        "country": "GB",
+        "state": "ENG",
+        "population": 112906
+    },
+    "2650657": {
+        "geoid": "2650657",
+        "name": "Dunstable",
+        "lat": 51.88571,
+        "lng": -0.52288,
+        "country": "GB",
+        "state": "ENG",
+        "population": 51973
+    },
+    "2650752": {
+        "geoid": "2650752",
+        "name": "Dundee",
+        "lat": 56.46913,
+        "lng": -2.97489,
+        "country": "GB",
+        "state": "SCT",
+        "population": 151592
+    },
+    "2650839": {
+        "geoid": "2650839",
+        "name": "Dudley",
+        "lat": 52.5,
+        "lng": -2.08333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 199059
+    },
+    "2651123": {
+        "geoid": "2651123",
+        "name": "Doncaster",
+        "lat": 53.52285,
+        "lng": -1.13116,
+        "country": "GB",
+        "state": "ENG",
+        "population": 67670
+    },
+    "2651286": {
+        "geoid": "2651286",
+        "name": "Dewsbury",
+        "lat": 53.69076,
+        "lng": -1.62907,
+        "country": "GB",
+        "state": "ENG",
+        "population": 56640
+    },
+    "2651347": {
+        "geoid": "2651347",
+        "name": "Derby",
+        "lat": 52.92277,
+        "lng": -1.47663,
+        "country": "GB",
+        "state": "ENG",
+        "population": 235029
+    },
+    "2651500": {
+        "geoid": "2651500",
+        "name": "Dartford",
+        "lat": 51.44657,
+        "lng": 0.21423,
+        "country": "GB",
+        "state": "ENG",
+        "population": 56694
+    },
+    "2651513": {
+        "geoid": "2651513",
+        "name": "Darlington",
+        "lat": 54.52429,
+        "lng": -1.55039,
+        "country": "GB",
+        "state": "ENG",
+        "population": 87204
+    },
+    "2651621": {
+        "geoid": "2651621",
+        "name": "Dagenham",
+        "lat": 51.55,
+        "lng": 0.16667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 108368
+    },
+    "2651817": {
+        "geoid": "2651817",
+        "name": "Croydon",
+        "lat": 51.38333,
+        "lng": -0.1,
+        "country": "GB",
+        "state": "ENG",
+        "population": 173314
+    },
+    "2652002": {
+        "geoid": "2652002",
+        "name": "Crewe",
+        "lat": 53.09787,
+        "lng": -2.44161,
+        "country": "GB",
+        "state": "ENG",
+        "population": 70455
+    },
+    "2652053": {
+        "geoid": "2652053",
+        "name": "Crawley",
+        "lat": 51.11303,
+        "lng": -0.18312,
+        "country": "GB",
+        "state": "ENG",
+        "population": 107061
+    },
+    "2652221": {
+        "geoid": "2652221",
+        "name": "Coventry",
+        "lat": 52.40656,
+        "lng": -1.51217,
+        "country": "GB",
+        "state": "ENG",
+        "population": 308313
+    },
+    "2652381": {
+        "geoid": "2652381",
+        "name": "Corby",
+        "lat": 52.49637,
+        "lng": -0.68939,
+        "country": "GB",
+        "state": "ENG",
+        "population": 50029
+    },
+    "2652618": {
+        "geoid": "2652618",
+        "name": "Colchester",
+        "lat": 51.88921,
+        "lng": 0.90421,
+        "country": "GB",
+        "state": "ENG",
+        "population": 109414
+    },
+    "2652974": {
+        "geoid": "2652974",
+        "name": "Clacton-on-Sea",
+        "lat": 51.78967,
+        "lng": 1.15597,
+        "country": "GB",
+        "state": "ENG",
+        "population": 54674
+    },
+    "2653225": {
+        "geoid": "2653225",
+        "name": "Chesterfield",
+        "lat": 53.25,
+        "lng": -1.41667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 70679
+    },
+    "2653228": {
+        "geoid": "2653228",
+        "name": "Chester",
+        "lat": 53.1905,
+        "lng": -2.89189,
+        "country": "GB",
+        "state": "ENG",
+        "population": 77040
+    },
+    "2653232": {
+        "geoid": "2653232",
+        "name": "Cheshunt",
+        "lat": 51.7002,
+        "lng": -0.03026,
+        "country": "GB",
+        "state": "ENG",
+        "population": 57374
+    },
+    "2653261": {
+        "geoid": "2653261",
+        "name": "Cheltenham",
+        "lat": 51.90006,
+        "lng": -2.07972,
+        "country": "GB",
+        "state": "ENG",
+        "population": 103249
+    },
+    "2653265": {
+        "geoid": "2653265",
+        "name": "Chelsea",
+        "lat": 51.48755,
+        "lng": -0.16936,
+        "country": "GB",
+        "state": "ENG",
+        "population": 60000
+    },
+    "2653266": {
+        "geoid": "2653266",
+        "name": "Chelmsford",
+        "lat": 51.73575,
+        "lng": 0.46958,
+        "country": "GB",
+        "state": "ENG",
+        "population": 102671
+    },
+    "2653305": {
+        "geoid": "2653305",
+        "name": "Chatham",
+        "lat": 51.37891,
+        "lng": 0.52786,
+        "country": "GB",
+        "state": "ENG",
+        "population": 75509
+    },
+    "2653558": {
+        "geoid": "2653558",
+        "name": "Castlereagh",
+        "lat": 54.5735,
+        "lng": -5.88472,
+        "country": "GB",
+        "state": "NIR",
+        "population": 56679
+    },
+    "2653775": {
+        "geoid": "2653775",
+        "name": "Carlisle",
+        "lat": 54.8951,
+        "lng": -2.9382,
+        "country": "GB",
+        "state": "ENG",
+        "population": 72633
+    },
+    "2653822": {
+        "geoid": "2653822",
+        "name": "Cardiff",
+        "lat": 51.48,
+        "lng": -3.18,
+        "country": "GB",
+        "state": "WLS",
+        "population": 302139
+    },
+    "2653883": {
+        "geoid": "2653883",
+        "name": "Cannock",
+        "lat": 52.69045,
+        "lng": -2.03085,
+        "country": "GB",
+        "state": "ENG",
+        "population": 68067
+    },
+    "2653941": {
+        "geoid": "2653941",
+        "name": "Cambridge",
+        "lat": 52.2,
+        "lng": 0.11667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 128488
+    },
+    "2654187": {
+        "geoid": "2654187",
+        "name": "Bury",
+        "lat": 53.6,
+        "lng": -2.3,
+        "country": "GB",
+        "state": "ENG",
+        "population": 61044
+    },
+    "2654264": {
+        "geoid": "2654264",
+        "name": "Burnley",
+        "lat": 53.8,
+        "lng": -2.23333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 73480
+    },
+    "2654675": {
+        "geoid": "2654675",
+        "name": "Bristol",
+        "lat": 51.45523,
+        "lng": -2.59665,
+        "country": "GB",
+        "state": "ENG",
+        "population": 430713
+    },
+    "2654710": {
+        "geoid": "2654710",
+        "name": "Brighton",
+        "lat": 50.82838,
+        "lng": -0.13947,
+        "country": "GB",
+        "state": "ENG",
+        "population": 139001
+    },
+    "2654993": {
+        "geoid": "2654993",
+        "name": "Bradford",
+        "lat": 53.79391,
+        "lng": -1.75206,
+        "country": "GB",
+        "state": "ENG",
+        "population": 299310
+    },
+    "2655009": {
+        "geoid": "2655009",
+        "name": "Bracknell",
+        "lat": 51.41363,
+        "lng": -0.75054,
+        "country": "GB",
+        "state": "ENG",
+        "population": 76103
+    },
+    "2655095": {
+        "geoid": "2655095",
+        "name": "Bournemouth",
+        "lat": 50.72048,
+        "lng": -1.8795,
+        "country": "GB",
+        "state": "ENG",
+        "population": 163600
+    },
+    "2655198": {
+        "geoid": "2655198",
+        "name": "Bootle",
+        "lat": 53.46667,
+        "lng": -3.01667,
+        "country": "GB",
+        "state": "ENG",
+        "population": 57791
+    },
+    "2655237": {
+        "geoid": "2655237",
+        "name": "Bolton",
+        "lat": 53.58333,
+        "lng": -2.43333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 141331
+    },
+    "2655262": {
+        "geoid": "2655262",
+        "name": "Bognor Regis",
+        "lat": 50.78206,
+        "lng": -0.67978,
+        "country": "GB",
+        "state": "ENG",
+        "population": 65391
+    },
+    "2655351": {
+        "geoid": "2655351",
+        "name": "Bletchley",
+        "lat": 51.99334,
+        "lng": -0.73471,
+        "country": "GB",
+        "state": "ENG",
+        "population": 50193
+    },
+    "2655459": {
+        "geoid": "2655459",
+        "name": "Blackpool",
+        "lat": 53.81667,
+        "lng": -3.05,
+        "country": "GB",
+        "state": "ENG",
+        "population": 143101
+    },
+    "2655524": {
+        "geoid": "2655524",
+        "name": "Blackburn",
+        "lat": 53.75,
+        "lng": -2.48333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 106154
+    },
+    "2655603": {
+        "geoid": "2655603",
+        "name": "Birmingham",
+        "lat": 52.48142,
+        "lng": -1.89983,
+        "country": "GB",
+        "state": "ENG",
+        "population": 984333
+    },
+    "2655613": {
+        "geoid": "2655613",
+        "name": "Birkenhead",
+        "lat": 53.39337,
+        "lng": -3.01479,
+        "country": "GB",
+        "state": "ENG",
+        "population": 81805
+    },
+    "2655775": {
+        "geoid": "2655775",
+        "name": "Bexley",
+        "lat": 51.44162,
+        "lng": 0.14866,
+        "country": "GB",
+        "state": "ENG",
+        "population": 228000
+    },
+    "2655984": {
+        "geoid": "2655984",
+        "name": "Belfast",
+        "lat": 54.59682,
+        "lng": -5.92541,
+        "country": "GB",
+        "state": "NIR",
+        "population": 274770
+    },
+    "2656046": {
+        "geoid": "2656046",
+        "name": "Bedford",
+        "lat": 52.13459,
+        "lng": -0.46632,
+        "country": "GB",
+        "state": "ENG",
+        "population": 86658
+    },
+    "2656065": {
+        "geoid": "2656065",
+        "name": "Beckenham",
+        "lat": 51.40878,
+        "lng": -0.02526,
+        "country": "GB",
+        "state": "ENG",
+        "population": 82000
+    },
+    "2656168": {
+        "geoid": "2656168",
+        "name": "Batley",
+        "lat": 53.70291,
+        "lng": -1.6337,
+        "country": "GB",
+        "state": "ENG",
+        "population": 50807
+    },
+    "2656173": {
+        "geoid": "2656173",
+        "name": "Bath",
+        "lat": 51.3751,
+        "lng": -2.36172,
+        "country": "GB",
+        "state": "ENG",
+        "population": 93238
+    },
+    "2656192": {
+        "geoid": "2656192",
+        "name": "Basingstoke",
+        "lat": 51.26249,
+        "lng": -1.08708,
+        "country": "GB",
+        "state": "ENG",
+        "population": 96348
+    },
+    "2656194": {
+        "geoid": "2656194",
+        "name": "Basildon",
+        "lat": 51.56844,
+        "lng": 0.45782,
+        "country": "GB",
+        "state": "ENG",
+        "population": 101362
+    },
+    "2656235": {
+        "geoid": "2656235",
+        "name": "Barry",
+        "lat": 51.39979,
+        "lng": -3.2838,
+        "country": "GB",
+        "state": "WLS",
+        "population": 51681
+    },
+    "2656284": {
+        "geoid": "2656284",
+        "name": "Barnsley",
+        "lat": 53.55,
+        "lng": -1.48333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 71447
+    },
+    "2656333": {
+        "geoid": "2656333",
+        "name": "Barking",
+        "lat": 51.53333,
+        "lng": 0.08333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 61000
+    },
+    "2656396": {
+        "geoid": "2656396",
+        "name": "Bangor",
+        "lat": 54.65338,
+        "lng": -5.66895,
+        "country": "GB",
+        "state": "NIR",
+        "population": 60385
+    },
+    "2656719": {
+        "geoid": "2656719",
+        "name": "Aylesbury",
+        "lat": 51.81665,
+        "lng": -0.81458,
+        "country": "GB",
+        "state": "ENG",
+        "population": 74565
+    },
+    "2656955": {
+        "geoid": "2656955",
+        "name": "Ashford",
+        "lat": 51.14648,
+        "lng": 0.87376,
+        "country": "GB",
+        "state": "ENG",
+        "population": 62787
+    },
+    "2657540": {
+        "geoid": "2657540",
+        "name": "Aldershot",
+        "lat": 51.24827,
+        "lng": -0.76389,
+        "country": "GB",
+        "state": "ENG",
+        "population": 61339
+    },
+    "2657697": {
+        "geoid": "2657697",
+        "name": "Acton",
+        "lat": 51.50901,
+        "lng": -0.2762,
+        "country": "GB",
+        "state": "ENG",
+        "population": 53689
+    },
+    "2657832": {
+        "geoid": "2657832",
+        "name": "Aberdeen",
+        "lat": 57.14369,
+        "lng": -2.09814,
+        "country": "GB",
+        "state": "SCT",
+        "population": 183790
+    },
+    "3209584": {
+        "geoid": "3209584",
+        "name": "Crosby",
+        "lat": 53.47778,
+        "lng": -3.03333,
+        "country": "GB",
+        "state": "ENG",
+        "population": 52140
+    },
+    "3345439": {
+        "geoid": "3345439",
+        "name": "Telford",
+        "lat": 52.67659,
+        "lng": -2.44926,
+        "country": "GB",
+        "state": "ENG",
+        "population": 138241
+    },
+    "3345440": {
+        "geoid": "3345440",
+        "name": "Craigavon",
+        "lat": 54.44709,
+        "lng": -6.387,
+        "country": "GB",
+        "state": "NIR",
+        "population": 59236
+    },
+    "6690602": {
+        "geoid": "6690602",
+        "name": "Battersea",
+        "lat": 51.47475,
+        "lng": -0.15547,
+        "country": "GB",
+        "state": "ENG",
+        "population": 75651
+    },
+    "6690862": {
+        "geoid": "6690862",
+        "name": "South Croydon",
+        "lat": 51.36217,
+        "lng": -0.09421,
+        "country": "GB",
+        "state": "ENG",
+        "population": 55198
+    },
+    "6690870": {
+        "geoid": "6690870",
+        "name": "Becontree",
+        "lat": 51.5529,
+        "lng": 0.129,
+        "country": "GB",
+        "state": "ENG",
+        "population": 100000
+    },
+    "6690877": {
+        "geoid": "6690877",
+        "name": "Brixton",
+        "lat": 51.46593,
+        "lng": -0.10652,
+        "country": "GB",
+        "state": "ENG",
+        "population": 66300
+    },
+    "6692280": {
+        "geoid": "6692280",
+        "name": "Canary Wharf",
+        "lat": 51.50519,
+        "lng": -0.02085,
+        "country": "GB",
+        "state": "ENG",
+        "population": 73390
+    },
+    "6947756": {
+        "geoid": "6947756",
+        "name": "Mendip",
+        "lat": 51.2372,
+        "lng": -2.6266,
+        "country": "GB",
+        "state": "ENG",
+        "population": 110000
+    },
+    "8299614": {
+        "geoid": "8299614",
+        "name": "Rossendale",
+        "lat": 53.68456,
+        "lng": -2.2769,
+        "country": "GB",
+        "state": "ENG",
+        "population": 67400
+    },
+    "8299617": {
+        "geoid": "8299617",
+        "name": "High Peak",
+        "lat": 53.36797,
+        "lng": -1.84536,
+        "country": "GB",
+        "state": "ENG",
+        "population": 92600
+    }
+}
