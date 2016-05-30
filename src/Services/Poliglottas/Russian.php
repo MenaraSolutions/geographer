@@ -187,15 +187,22 @@ class Russian extends Base implements PoliglottaInterface
      * @param array $meta
      * @param bool $long
      * @param string $form
-     * @return string
+     * @return string|bool
      */
     private function extract(array $meta, $long, $form)
     {
-        $fields = ['long', 'short'];
+        $variants = [];
 
-        if (! $long) $fields = array_reverse($fields);
+        if (isset($meta['long'][$form])) {
+            $variants[] = $meta['long'][$form];
+        }
 
-        return isset($meta[$fields[0]][$form]) ? $meta[$fields[0]][$form] :
-            $meta[$fields[1]][$form];
+        if (isset($meta['short'][$form])) {
+            $variants[] = $meta['short'][$form];
+        }
+
+        if (! $long) $variants = array_reverse($variants);
+
+        return !empty($variants) ? $variants[0] : false;
     }
 }
