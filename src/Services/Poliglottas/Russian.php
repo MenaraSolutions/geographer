@@ -87,22 +87,20 @@ class Russian extends Base implements PoliglottaInterface
     }
 
     /**
-     * @param string $string
+     * @param IdentifiableInterface $subject
      * @param string $form
      * @return null|string
      */
-    public function preposition($string, $form)
+    public function preposition(IdentifiableInterface $subject, $form)
     {
-        switch ($form) {
-            case 'in':
-                return 'в';
+        $meta = $this->fromCache($subject);
+        if (! $meta) return null;
 
-            case 'from':
-                return 'из';
+        $result = $this->extract($meta, $subject->expectsLongNames(), $form);
+        if ($result) return substr($result, 0, strpos($result, ' '));
 
-            default:
-                return null;
-        }
+        if ($form == 'in') return 'в';
+        if ($form == 'from') return 'из';
     }
 
     /**

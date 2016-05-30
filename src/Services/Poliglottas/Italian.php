@@ -2,6 +2,8 @@
 
 namespace MenaraSolutions\Geographer\Services\Poliglottas;
 
+use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
+
 /**
  * Class Italian
  * @package MenaraSolutions\FluentGeonames\Services\Poliglottas
@@ -14,11 +16,11 @@ class Italian extends BaseEuropean
     protected $code = 'it';
 
     /**
-     * @param string $string
-     * @param string $form
+     * @param IdentifiableInterface $subject
+     * @param $form
      * @return string
      */
-    public function preposition($string, $form)
+    public function preposition(IdentifiableInterface $subject, $form)
     {
         switch ($form) {
             case 'from':

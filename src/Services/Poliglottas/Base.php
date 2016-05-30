@@ -55,11 +55,11 @@ abstract class Base
     abstract public function translate(IdentifiableInterface $subject, $form = 'default');
 
     /**
-     * @param string $string
-     * @param string $form
+     * @param IdentifiableInterface $subject
+     * @param $form
      * @return string
      */
-    abstract public function preposition($string, $form);
+    abstract public function preposition(IdentifiableInterface $subject, $form);
 
     /**
      * @param $class

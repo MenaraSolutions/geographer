@@ -113,8 +113,8 @@ class TranslationAgency implements TranslationAgencyInterface
         $translator = $this->getTranslator($language);
         $translation = $translator->translate($subject, $this->form);
 
-        if ($this->prepositions) {
-            $translation = $translator->preposition($translation, $this->form) . ' ' . $translation;
+        if ($this->prepositions && $this->form != 'default') {
+            $translation = implode(' ', [$translator->preposition($subject, $this->form), $translation]);
         }
 
         return $translation;
