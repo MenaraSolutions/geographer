@@ -10,7 +10,7 @@ use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
  * Class Russian
  * @package MenaraSolutions\FluentGeonames\Services\Poliglottas
  */
-class Russian extends Base implements PoliglottaInterface
+class Russian extends Base
 {
     /**
      * @var string
@@ -68,46 +68,6 @@ class Russian extends Base implements PoliglottaInterface
         'from' => 'из',
         'in' => 'в'
     ];
-
-    /**
-     * @param IdentifiableInterface $subject
-     * @param string $form
-     * @param bool $preposition
-     * @return string
-     * @throws MisconfigurationException
-     */
-    public function translate(IdentifiableInterface $subject, $form = 'default', $preposition = true)
-    {
-        if (! method_exists($this, 'inflict' . ucfirst($form))) {
-            throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
-        }
-
-        $meta = $this->fromCache($subject);
-        if (! $meta) return false;
-        
-        $result = $this->extract($meta, $subject->expectsLongNames(), $form);
-
-        if (! $result) {
-            $template = $this->inflictDefault($meta, $subject->expectsLongNames());
-            $result = $this->defaultPrepositions[$form] . ' ' . $this->{'inflict' . ucfirst($form)}($template);
-        }
-
-	if (! $preposition) {
-	    $result = mb_substr($result, mb_strpos($result, ' '));
-	}
-
-        return $result;
-    }
-
-    /**
-     * @param array $meta
-     * @param $long
-     * @return string
-     */
-    protected function inflictDefault(array $meta, $long)
-    {
-        return $this->extract($meta, $long, 'default');
-    }
 
     /**
      * @param $template
@@ -168,28 +128,5 @@ class Russian extends Base implements PoliglottaInterface
     private function removeLastLetter($string)
     {
         return mb_substr($string, 0, mb_strlen($string) - 1);
-    }
-
-    /**
-     * @param array $meta
-     * @param bool $long
-     * @param string $form
-     * @return string|bool
-     */
-    private function extract(array $meta, $long, $form)
-    {
-        $variants = [];
-
-        if (isset($meta['long'][$form])) {
-            $variants[] = $meta['long'][$form];
-        }
-
-        if (isset($meta['short'][$form])) {
-            $variants[] = $meta['short'][$form];
-        }
-
-        if (! $long) $variants = array_reverse($variants);
-
-        return !empty($variants) ? $variants[0] : false;
     }
 }

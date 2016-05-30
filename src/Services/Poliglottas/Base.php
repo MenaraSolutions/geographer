@@ -8,12 +8,13 @@ use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
+use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
 
 /**
  * Class Base
  * @package App\Services\Poliglottas
  */
-abstract class Base
+abstract class Base implements PoliglottaInterface
 {
     /**
      * @var string
@@ -40,6 +41,11 @@ abstract class Base
     protected $cache = [];
 
     /**
+     * @var array
+     */
+    protected $defaultPrepositions = [];
+
+    /**
      * @param string $basePath
      */
     public function __construct($basePath)
@@ -53,7 +59,28 @@ abstract class Base
      * @param bool $preposition
      * @return string
      */
-    abstract public function translate(IdentifiableInterface $subject, $form = 'default', $preposition);
+    public function translate(IdentifiableInterface $subject, $form = 'default', $preposition = true)
+    {   
+        if (! method_exists($this, 'inflict' . ucfirst($form))) {
+            throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
+        }
+
+        $meta = $this->fromCache($subject);
+        if (! $meta) return false;
+        
+        $result = $this->extract($meta, $subject->expectsLongNames(), $form);
+
+        if (! $result) {
+            $template = $this->inflictDefault($meta, $subject->expectsLongNames());
+            $result = $this->defaultPrepositions[$form] . ' ' . $this->{'inflict' . ucfirst($form)}($template);
+        }
+
+        if (! $preposition) {
+            $result = mb_substr($result, mb_strpos($result, ' '));
+        }
+
+        return $result;
+    }
 
     /**
      * @param $class
@@ -75,12 +102,8 @@ abstract class Base
     public function getStoragePath($class, $memberId)
     {
         switch ($class) {
+	    case State::class:
             case Country::class:
-                return $this->basePath . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
-
-                break;
-
-            case State::class;
                 return $this->basePath . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
 
                 break;
@@ -117,5 +140,56 @@ abstract class Base
             $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()] : false;
         
         return $meta;
+    }
+
+    /**
+     * @param array $meta
+     * @param $long
+     * @return string
+     */
+    protected function inflictDefault(array $meta, $long)
+    {
+        return $this->extract($meta, $long, 'default');
+    }
+
+    /**
+     * @param string $template
+     * @return string
+     */
+    protected function inflictIn($template)
+    {
+	return $template;
+    }
+
+    /**
+     * @param string $template
+     * @return string
+     */
+    protected function inflictFrom($template)
+    {   
+        return $template;
+    }
+   
+    /**
+     * @param array $meta
+     * @param $long
+     * @param $form
+     * @return mixed
+     */
+    protected function extract(array $meta, $long, $form)
+    {
+        $variants = [];
+       
+        if (isset($meta['long'][$form])) {
+            $variants[] = $meta['long'][$form];
+        }
+    
+        if (isset($meta['short'][$form])) {
+            $variants[] = $meta['short'][$form];
+        }
+        
+        if (! $long) $variants = array_reverse($variants);
+         
+        return !empty($variants) ? $variants[0] : false;
     }
 }

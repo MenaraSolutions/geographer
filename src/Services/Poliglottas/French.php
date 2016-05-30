@@ -8,7 +8,7 @@ use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
  * Class French
  * @package MenaraSolutions\FluentGeonames\Services\Poliglottas
  */
-class French extends BaseEuropean
+class French extends Base
 {
     /**
      * @var string
