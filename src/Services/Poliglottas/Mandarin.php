@@ -13,4 +13,18 @@ class Mandarin extends BaseEuropean
      */
     protected $code = 'zh';
 
+    /**
+     * @param string $string
+     * @param string $form
+     * @return string
+     */
+    public function preposition($string, $form)
+    {
+        switch ($form) {
+            case 'from':
+            case 'in':
+            default:
+                return '';
+        }
+    }
 }

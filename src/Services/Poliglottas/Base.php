@@ -48,6 +48,20 @@ abstract class Base
     }
 
     /**
+     * @param IdentifiableInterface $subject
+     * @param string $form
+     * @return string
+     */
+    abstract public function translate(IdentifiableInterface $subject, $form = 'default');
+
+    /**
+     * @param string $string
+     * @param string $form
+     * @return string
+     */
+    abstract public function preposition($string, $form);
+
+    /**
      * @param $class
      * @throws MisconfigurationException
      * @return string

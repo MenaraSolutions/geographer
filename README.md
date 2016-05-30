@@ -76,6 +76,8 @@ $earth->getNorthAmerica(); // You can guess
 $earth->getSouthAmerica(); 
 $earth->getAsia();
 $earth->getOceania();
+
+$earth->getCountries(); // A collection of all countries
 ```
 
 ## Country API
@@ -89,6 +91,19 @@ $country->getArea(); // Area in square kilometers
 $country->getCurrencyCode(); // National currency, eg. USD
 $country->getPhonePrefix(); // Phone code, eg. 7 for Russia
 $country->getPopulation(); // Population
+
+$country->getStates(); // A collection of all states
+```
+
+## State API
+
+At this moment Geographer only keeps cities with population above 50,000 for the sake of performance.
+
+```php
+$state->getCode(); // Either ISO 3166 (US, CH, BE and ME) or FIPS code
+$state->getGeonamesCode(); // Geonames ID
+
+$state->getCities(); // A collection of all cities
 ```
 
 ## Usage in Laravel 5

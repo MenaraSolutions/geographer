@@ -109,8 +109,15 @@ class TranslationAgency implements TranslationAgencyInterface
         if (! isset($this->languages[$language])) {
             throw new MisconfigurationException('No hablo ' . $language . ', sorry');
         }
-        
-        return $this->getTranslator($language)->translate($subject, $this->form, $this->prepositions);
+
+        $translator = $this->getTranslator($language);
+        $translation = $translator->translate($subject, $this->form);
+
+        if ($this->prepositions) {
+            $translation = $translator->preposition($translation, $this->form) . ' ' . $translation;
+        }
+
+        return $translation;
     }
 
     /**

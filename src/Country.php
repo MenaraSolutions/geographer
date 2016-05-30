@@ -17,6 +17,11 @@ class Country extends Divisible
     protected $memberClass = State::class;
 
     /**
+     * @var string
+     */
+    protected $parentClass = Earth::class;
+
+    /**
      * Get alpha2 ISO code
      *
      * @return string

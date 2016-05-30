@@ -14,11 +14,10 @@ abstract class BaseEuropean extends Base
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
-     * @param bool $prepositions
      * @return string
      * @throws MisconfigurationException
      */
-    public function translate(IdentifiableInterface $subject, $form = 'default', $prepositions = true)
+    public function translate(IdentifiableInterface $subject, $form = 'default')
     {
         if (!empty($form) && !method_exists($this, 'inflict' . ucfirst($form))) {
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);

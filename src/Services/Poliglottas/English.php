@@ -32,11 +32,29 @@ class English implements PoliglottaInterface
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
-     * @param string $prepositions
      * @return string
      */
-    public function translate(IdentifiableInterface $subject, $form = 'default', $prepositions = 'true')
+    public function translate(IdentifiableInterface $subject, $form = 'default')
     {
         return $subject->expectsLongNames() ? $this->getLongName($subject->getMeta()) : $this->getShortName($subject->getMeta());
+    }
+
+    /**
+     * @param string $string
+     * @param string $form
+     * @return string
+     */
+    public function preposition($string, $form)
+    {
+        switch ($form) {
+            case 'from':
+                return 'from';
+
+            case 'in':
+                return 'in';
+
+            default:
+                return '';
+        }
     }
 }

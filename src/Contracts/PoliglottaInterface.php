@@ -11,8 +11,14 @@ interface PoliglottaInterface
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
-     * @param bool $prepositions
      * @return string
      */
-    public function translate(IdentifiableInterface $subject, $form, $prepositions);
+    public function translate(IdentifiableInterface $subject, $form);
+
+    /**
+     * @param string $string
+     * @param string $form
+     * @return string
+     */
+    public function preposition($string, $form);
 }
