@@ -15,22 +15,11 @@ class Spanish extends BaseEuropean
      */
     protected $code = 'es';
 
-    /**
-     * @param IdentifiableInterface $subject
-     * @param $form
-     * @return string
-     */
-    public function preposition(IdentifiableInterface $subject, $form)
-    {
-        switch ($form) {
-            case 'from':
-                return 'de';
-
-            case 'in':
-                return 'en';
-
-            default:
-                return '';
-        }
-    }
+   /**
+    * @var array
+    */
+    protected $defaultPrepositions = [
+        'from' => 'de',
+        'in' => 'en'
+    ];
 }

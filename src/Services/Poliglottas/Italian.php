@@ -15,22 +15,11 @@ class Italian extends BaseEuropean
      */
     protected $code = 'it';
 
-    /**
-     * @param IdentifiableInterface $subject
-     * @param $form
-     * @return string
-     */
-    public function preposition(IdentifiableInterface $subject, $form)
-    {
-        switch ($form) {
-            case 'from':
-                return 'di';
-
-            case 'in':
-                return 'in';
-
-            default:
-                return '';
-        }
-    }
+   /**
+    * @var array
+    */
+    protected $defaultPrepositions = [
+        'from' => 'di',
+        'in' => 'in'
+    ];
 }

@@ -61,15 +61,24 @@ class Russian extends Base implements PoliglottaInterface
         'я' => 'и'
     ];
 
+   /**
+    * @var array
+    */
+    protected $defaultPrepositions = [
+        'from' => 'из',
+        'in' => 'в'
+    ];
+
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
+     * @param bool $preposition
      * @return string
      * @throws MisconfigurationException
      */
-    public function translate(IdentifiableInterface $subject, $form = 'default')
+    public function translate(IdentifiableInterface $subject, $form = 'default', $preposition = true)
     {
-        if (! empty($form) && ! method_exists($this, 'inflict' . ucfirst($form))) {
+        if (! method_exists($this, 'inflict' . ucfirst($form))) {
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
         }
 
@@ -80,27 +89,14 @@ class Russian extends Base implements PoliglottaInterface
 
         if (! $result) {
             $template = $this->inflictDefault($meta, $subject->expectsLongNames());
-            $result = $this->{'inflict' . ucfirst($form)}($template);
+            $result = $this->defaultPrepositions[$form] . ' ' . $this->{'inflict' . ucfirst($form)}($template);
         }
 
+	if (! $preposition) {
+	    $result = mb_substr($result, mb_strpos($result, ' '));
+	}
+
         return $result;
-    }
-
-    /**
-     * @param IdentifiableInterface $subject
-     * @param string $form
-     * @return null|string
-     */
-    public function preposition(IdentifiableInterface $subject, $form)
-    {
-        $meta = $this->fromCache($subject);
-        if (! $meta) return null;
-
-        $result = $this->extract($meta, $subject->expectsLongNames(), $form);
-        if ($result) return substr($result, 0, strpos($result, ' '));
-
-        if ($form == 'in') return 'в';
-        if ($form == 'from') return 'из';
     }
 
     /**

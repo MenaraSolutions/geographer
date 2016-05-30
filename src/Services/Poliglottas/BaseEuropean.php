@@ -14,10 +14,11 @@ abstract class BaseEuropean extends Base
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
+     * @param bool $preposition
      * @return string
      * @throws MisconfigurationException
      */
-    public function translate(IdentifiableInterface $subject, $form = 'default')
+    public function translate(IdentifiableInterface $subject, $form = 'default', $preposition)
     {
         if (!empty($form) && !method_exists($this, 'inflict' . ucfirst($form))) {
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
@@ -28,7 +29,13 @@ abstract class BaseEuropean extends Base
             return false;
         }
 
-        return $this->inflictDefault($meta, $subject->expectsLongNames());
+	$result = $this->inflictDefault($meta, $subject->expectsLongNames());
+
+	if ($preposition && $form != 'default') {
+	    $result = $this->defaultPrepositions[$form] . ' ' . $result;
+	}
+
+	return $result;
     }
 
     /**
