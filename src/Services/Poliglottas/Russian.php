@@ -16,7 +16,51 @@ class Russian extends Base implements PoliglottaInterface
      * @var string
      */
     protected $code = 'ru';
-    
+
+    /**
+     * @var array
+     */
+    protected $removableLetters = ['я', 'а', 'й'];
+
+    /**
+     * @var array
+     */
+    protected $replaceableLettersFrom = [
+        'л' => 'а',
+        'т' => 'а',
+        'к' => 'а',
+        'г' => 'а',
+        'м' => 'а',
+        'з' => 'а',
+        'ш' => 'а',
+        'р' => 'а',
+        'с' => 'а',
+        'д' => 'а',
+        'н' => 'а',
+        'й' => 'я',
+        'я' => 'и',
+        'а' => 'ы'
+    ];
+
+    /**
+     * @var array
+     */
+    protected $replaceableLettersIn = [
+        'й' => 'е',
+        'л' => 'е',
+        'т' => 'е',
+        'г' => 'е',
+        'м' => 'е',
+        'з' => 'е',
+        'ш' => 'е',
+        'р' => 'е',
+        'с' => 'е',
+        'д' => 'е',
+        'н' => 'е',
+        'а' => 'е',
+        'я' => 'и'
+    ];
+
     /**
      * @param IdentifiableInterface $subject
      * @param string $form
@@ -72,50 +116,31 @@ class Russian extends Base implements PoliglottaInterface
     }
 
     /**
+     * @param $template
+     * @return string
+     */
+    private function removeLastLetterIfNeeded($template)
+    {
+        if (in_array($this->getLastLetter($template), $this->removableLetters)) {
+            return $this->removeLastLetter($template);
+        } else {
+            return $template;
+        }
+    }
+
+    /**
      * @param string $template
      * @return string
      */
     protected function inflictIn($template)
     {
-        switch ($this->getLastLetter($template)) {
-            case 'й':
-                $template = $this->removeLastLetter($template) . 'е';
+        $output = $this->removeLastLetterIfNeeded($template);
 
-                break;
-
-            case 'л':
-                $template .= 'е';
-
-                break;
-
-            case 'т':
-            case 'к':
-            case 'г':
-            case 'м':
-            case 'з':
-            case 'ш':
-            case 'р':
-            case 'с':
-            case 'д':
-            case 'н':
-                $template .= 'е';
-
-                break;
-
-            case 'я':
-                $template = $this->removeLastLetter($template) . 'и';
-
-                break;
-
-            case 'а':
-                $template = $this->removeLastLetter($template) . 'е';
-
-                break;
-
-            default:
+        if (array_key_exists($this->getLastLetter($template), $this->replaceableLettersFrom)) {
+            $output .= $this->replaceableLettersIn[$this->getLastLetter($template)];
         }
 
-        return $template;
+        return $output;
     }
 
     /**
@@ -124,45 +149,13 @@ class Russian extends Base implements PoliglottaInterface
      */
     protected function inflictFrom($template)
     {
-        switch ($this->getLastLetter($template)) {
-            case 'й':
-                $template = $this->removeLastLetter($template) . 'я';
+        $output = $this->removeLastLetterIfNeeded($template);
 
-                break;
-
-            case 'л':
-                $template .= 'а';
-
-                break;
-
-            case 'т':
-            case 'к':
-            case 'г':
-            case 'м':
-            case 'з':
-            case 'ш':
-            case 'р':
-            case 'с':
-            case 'д':
-            case 'н':
-                $template .= 'а';
-
-                break;
-
-            case 'я':
-                $template = $this->removeLastLetter($template) . 'и';
-
-                break;
-
-            case 'а':
-                $template = $this->removeLastLetter($template) . 'ы';
-
-                break;
-
-            default:
+        if (array_key_exists($this->getLastLetter($template), $this->replaceableLettersFrom)) {
+            $output .= $this->replaceableLettersFrom[$this->getLastLetter($template)];
         }
 
-        return $template;
+        return $output;
     }
 
     /**
