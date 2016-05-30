@@ -23,17 +23,24 @@ class City extends Divisible
      */
     protected function getStoragePath()
     {
-        return $this->config->getStoragePath() . 'states' . DIRECTORY_SEPARATOR . $this->getCode() . '.json';
+	return '';
     }
 
     /**
      * Unique code
      *
-     * @return string|int
+     * @return int
      */
     public function getCode()
     {
-        // TODO: Implement getCode() method.
+	return $this->meta['geoid'];
     }
 
+    /**
+     * @return int
+     */
+    public function getGeonamesCode()
+    {
+	return $this->getCode();
+    }
 }

@@ -47,15 +47,20 @@ abstract class Divisible implements IdentifiableInterface
     private $parent;
 
     /**
+     * @var string
+     */
+    protected $parentCode;
+
+    /**
      * Country constructor.
      * @param array $meta
-     * @param Divisible $parent
+     * @param string $parentCode
      * @param ConfigInterface $config
      */
-    public function __construct(array $meta = [], Divisible $parent = null, ConfigInterface $config = null)
+    public function __construct(array $meta = [], $parentCode = null, ConfigInterface $config = null)
     {
         $this->meta = $meta;
-        //$this->parent = $parent;
+        $this->parentCode = $parentCode;
         $this->config = $config ?: new DefaultConfig();
     }
 
@@ -133,7 +138,7 @@ abstract class Divisible implements IdentifiableInterface
 
         if (file_exists($file)) {
             foreach(json_decode(file_get_contents($file), true) as $meta) {
-                $collection->add(new $this->memberClass($meta, $this, $this->config));
+                $collection->add(new $this->memberClass($meta, $this->getCode(), $this->config));
             }
         }
 
