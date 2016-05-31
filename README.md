@@ -66,6 +66,17 @@ $capital->getLatitude();
 $capital->getLongitude();
 ```
 
+## Common methods
+
+All objects can do the following:
+```php
+$object->toArray(); // Return a flat array with all data
+$object->parent(); // Return a parent (city returns a state, state returns a country)
+$object->getCode(); // Get default unique ID
+$object->getShortName(); // Get short (colloquial) name of the object
+$object->getLongName(); // Get longer name
+```
+
 ## Earth API
 
 Earth object got the following convenience methods:
@@ -106,6 +117,13 @@ $state->getGeonamesCode(); // Geonames ID
 $state->getCities(); // A collection of all cities
 ```
 
+## City API
+
+```php
+$city->getCode(); // This is always a Geonames code for now
+$city = City::build($id); // Instantiate a city directly, based on $id provided (Geonames) 
+```
+
 ## Usage in Laravel 5
 
 Good news is that Laravel will take care of singleton instance for you, so no matter how many times you call it – it's the same object.
@@ -132,10 +150,10 @@ Geographer::getCountries()->useShortNames()->toArray();
 | Language  |  Countries   |   States   |    Cities    |
 |-----------|--------------|------------|--------------|
 | English   | ✓            | ✓         | ✓            |
-| Russian   | ✓            | ✓         | WIP          |
-| Spanish   | ✓            | ✓         | WIP          |            
-| Italian   | ✓            | ✓         | WIP          |
-| French    | ✓            | ✓         | WIP          |
+| Russian   | ✓            | ✓         | ✓            |
+| Spanish   | ✓            | ✓         | ✓           |            
+| Italian   | ✓            | ✓         | ✓           |
+| French    | ✓            | ✓         | ✓           |
 | Bahasa Indonesia | WIP   | WIP        | WIP          |
 
 ## Todo
