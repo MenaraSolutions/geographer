@@ -57,10 +57,9 @@ class City extends Divisible
     public static function build($geonamesId, $config = null)
     {
         $config = $config ?: new DefaultConfig();
-	$parentCode = '';
         $meta = static::indexSearch($geonamesId, $config->getStoragePath());
 
-        return new self($meta, $parentCode, $config);
+        return new self($meta, $meta['state'], $config);
     }
 
     /**
