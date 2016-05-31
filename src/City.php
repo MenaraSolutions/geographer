@@ -57,9 +57,9 @@ class City extends Divisible
     public static function build($geonamesId, $config = null)
     {
         $config = $config ?: new DefaultConfig();
-        $meta = [];
-        $parentCode = static::indexSearch($geonamesId, $config->getStoragePath() . 'indexCity.json');
-        
+	$parentCode = '';
+        $meta = static::indexSearch($geonamesId, $config->getStoragePath());
+
         return new self($meta, $parentCode, $config);
     }
 
@@ -68,15 +68,31 @@ class City extends Divisible
      * @param string $path
      * @return array
      * @throws ObjectNotFoundException
-     * @throws FileNotFoundException
      */
     public static function indexSearch($geonamesId, $path)
     {
-        if (! file_exists($path)) throw new FileNotFoundException('Index file not found');
-        $index = json_decode(file_get_contents($path), true);
-
+        $index = static::loadJson($path . 'indexCity.json');
         if (! isset($index[$geonamesId])) throw new ObjectNotFoundException('Cannot find object with id ' . $geonamesId);
+	$country = $index[$geonamesId];
         
-        return $index[$geonamesId];
+	$cities = static::loadJson($path . 'cities' . DIRECTORY_SEPARATOR . $country . '.json');
+
+	foreach ($cities as $city) {
+		if ($city['ids']['geonames'] == $geonamesId) return $city;
+	}
+
+	throw new ObjectNotFoundException('Cannot find meta for city #' . $geonamesId);
+    }
+
+    /**
+     * @param string $path
+     * @return array
+     * @throws ObjectNotFoundException
+     * @throws FileNotFoundException
+     */
+    protected static function loadJson($path)
+    {
+        if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
+        return json_decode(file_get_contents($path), true);
     }
 }
