@@ -1,7 +1,11 @@
 {
     "1162004": {
-        "geoid": "1162004",
-        "name": "Khairpur",
+        "ids": {
+            "geonames": 1162004
+        },
+        "long": {
+            "default": "Khairpur"
+        },
         "lat": 27.52948,
         "lng": 68.7617,
         "country": "PK",
@@ -9,8 +13,12 @@
         "population": 124602
     },
     "1162105": {
-        "geoid": "1162105",
-        "name": "Zhob",
+        "ids": {
+            "geonames": 1162105
+        },
+        "long": {
+            "default": "Zhob"
+        },
         "lat": 31.34111,
         "lng": 69.44806,
         "country": "PK",
@@ -18,8 +26,12 @@
         "population": 50537
     },
     "1162456": {
-        "geoid": "1162456",
-        "name": "Wazīrābād",
+        "ids": {
+            "geonames": 1162456
+        },
+        "long": {
+            "default": "Wazīrābād"
+        },
         "lat": 32.44583,
         "lng": 74.11594,
         "country": "PK",
@@ -27,8 +39,12 @@
         "population": 102444
     },
     "1162813": {
-        "geoid": "1162813",
-        "name": "Vihāri",
+        "ids": {
+            "geonames": 1162813
+        },
+        "long": {
+            "default": "Vihāri"
+        },
         "lat": 30.03333,
         "lng": 72.35,
         "country": "PK",
@@ -36,8 +52,12 @@
         "population": 112840
     },
     "1163054": {
-        "geoid": "1163054",
-        "name": "Turbat",
+        "ids": {
+            "geonames": 1163054
+        },
+        "long": {
+            "default": "Turbat"
+        },
         "lat": 26.00122,
         "lng": 63.04849,
         "country": "PK",
@@ -45,8 +65,12 @@
         "population": 75694
     },
     "1163272": {
-        "geoid": "1163272",
-        "name": "Toba Tek Singh",
+        "ids": {
+            "geonames": 1163272
+        },
+        "long": {
+            "default": "Toba Tek Singh"
+        },
         "lat": 30.97433,
         "lng": 72.48269,
         "country": "PK",
@@ -54,8 +78,12 @@
         "population": 69064
     },
     "1163952": {
-        "geoid": "1163952",
-        "name": "Tando Muhammad Khān",
+        "ids": {
+            "geonames": 1163952
+        },
+        "long": {
+            "default": "Tando Muhammad Khān"
+        },
         "lat": 25.12301,
         "lng": 68.53577,
         "country": "PK",
@@ -63,8 +91,12 @@
         "population": 72659
     },
     "1163965": {
-        "geoid": "1163965",
-        "name": "Tando Allāhyār",
+        "ids": {
+            "geonames": 1163965
+        },
+        "long": {
+            "default": "Tando Allāhyār"
+        },
         "lat": 25.46263,
         "lng": 68.71923,
         "country": "PK",
@@ -72,8 +104,12 @@
         "population": 127202
     },
     "1163967": {
-        "geoid": "1163967",
-        "name": "Tando Ādam",
+        "ids": {
+            "geonames": 1163967
+        },
+        "long": {
+            "default": "Tando Ādam"
+        },
         "lat": 25.76374,
         "lng": 68.66098,
         "country": "PK",
@@ -81,8 +117,12 @@
         "population": 125598
     },
     "1164216": {
-        "geoid": "1164216",
-        "name": "Swābi",
+        "ids": {
+            "geonames": 1164216
+        },
+        "long": {
+            "default": "Swābi"
+        },
         "lat": 34.11988,
         "lng": 72.46987,
         "country": "PK",
@@ -90,8 +130,12 @@
         "population": 97363
     },
     "1164408": {
-        "geoid": "1164408",
-        "name": "Sukkur",
+        "ids": {
+            "geonames": 1164408
+        },
+        "long": {
+            "default": "Sukkur"
+        },
         "lat": 27.70516,
         "lng": 68.85738,
         "country": "PK",
@@ -99,8 +143,12 @@
         "population": 417767
     },
     "1164896": {
-        "geoid": "1164896",
-        "name": "Sibi",
+        "ids": {
+            "geonames": 1164896
+        },
+        "long": {
+            "default": "Sibi"
+        },
         "lat": 29.5448,
         "lng": 67.8764,
         "country": "PK",
@@ -108,8 +156,12 @@
         "population": 64069
     },
     "1164909": {
-        "geoid": "1164909",
-        "name": "Sialkot",
+        "ids": {
+            "geonames": 1164909
+        },
+        "long": {
+            "default": "Sialkot"
+        },
         "lat": 32.49268,
         "lng": 74.53134,
         "country": "PK",
@@ -117,8 +169,12 @@
         "population": 477396
     },
     "1164970": {
-        "geoid": "1164970",
-        "name": "Shujāābād",
+        "ids": {
+            "geonames": 1164970
+        },
+        "long": {
+            "default": "Shujāābād"
+        },
         "lat": 29.87967,
         "lng": 71.29313,
         "country": "PK",
@@ -126,8 +182,12 @@
         "population": 65952
     },
     "1164987": {
-        "geoid": "1164987",
-        "name": "Shorko",
+        "ids": {
+            "geonames": 1164987
+        },
+        "long": {
+            "default": "Shorko"
+        },
         "lat": 31.90991,
         "lng": 70.87741,
         "country": "PK",
@@ -135,8 +195,12 @@
         "population": 67439
     },
     "1165108": {
-        "geoid": "1165108",
-        "name": "Shikārpur",
+        "ids": {
+            "geonames": 1165108
+        },
+        "long": {
+            "default": "Shikārpur"
+        },
         "lat": 27.95706,
         "lng": 68.63789,
         "country": "PK",
@@ -144,8 +208,12 @@
         "population": 156901
     },
     "1165221": {
-        "geoid": "1165221",
-        "name": "Sheikhupura",
+        "ids": {
+            "geonames": 1165221
+        },
+        "long": {
+            "default": "Sheikhupura"
+        },
         "lat": 31.71306,
         "lng": 73.97833,
         "country": "PK",
@@ -153,8 +221,12 @@
         "population": 361303
     },
     "1165388": {
-        "geoid": "1165388",
-        "name": "Shakargarh",
+        "ids": {
+            "geonames": 1165388
+        },
+        "long": {
+            "default": "Shakargarh"
+        },
         "lat": 32.26361,
         "lng": 75.16008,
         "country": "PK",
@@ -162,8 +234,12 @@
         "population": 64304
     },
     "1165569": {
-        "geoid": "1165569",
-        "name": "Shahkot",
+        "ids": {
+            "geonames": 1165569
+        },
+        "long": {
+            "default": "Shahkot"
+        },
         "lat": 31.5709,
         "lng": 73.48531,
         "country": "PK",
@@ -171,8 +247,12 @@
         "population": 200000
     },
     "1165635": {
-        "geoid": "1165635",
-        "name": "Shāhdādpur",
+        "ids": {
+            "geonames": 1165635
+        },
+        "long": {
+            "default": "Shāhdādpur"
+        },
         "lat": 25.92406,
         "lng": 68.61999,
         "country": "PK",
@@ -180,8 +260,12 @@
         "population": 67249
     },
     "1165638": {
-        "geoid": "1165638",
-        "name": "Shahdād Kot",
+        "ids": {
+            "geonames": 1165638
+        },
+        "long": {
+            "default": "Shahdād Kot"
+        },
         "lat": 27.84726,
         "lng": 67.90679,
         "country": "PK",
@@ -189,8 +273,12 @@
         "population": 75411
     },
     "1165744": {
-        "geoid": "1165744",
-        "name": "Shabqadar",
+        "ids": {
+            "geonames": 1165744
+        },
+        "long": {
+            "default": "Shabqadar"
+        },
         "lat": 34.21599,
         "lng": 71.5548,
         "country": "PK",
@@ -198,8 +286,12 @@
         "population": 66541
     },
     "1166000": {
-        "geoid": "1166000",
-        "name": "Sargodha",
+        "ids": {
+            "geonames": 1166000
+        },
+        "long": {
+            "default": "Sargodha"
+        },
         "lat": 32.08361,
         "lng": 72.67111,
         "country": "PK",
@@ -207,8 +299,12 @@
         "population": 542603
     },
     "1166146": {
-        "geoid": "1166146",
-        "name": "Sangla Hill",
+        "ids": {
+            "geonames": 1166146
+        },
+        "long": {
+            "default": "Sangla Hill"
+        },
         "lat": 31.71667,
         "lng": 73.38333,
         "country": "PK",
@@ -216,8 +312,12 @@
         "population": 57002
     },
     "1166164": {
-        "geoid": "1166164",
-        "name": "Sānghar",
+        "ids": {
+            "geonames": 1166164
+        },
+        "long": {
+            "default": "Sānghar"
+        },
         "lat": 26.04656,
         "lng": 68.9481,
         "country": "PK",
@@ -225,8 +325,12 @@
         "population": 62033
     },
     "1166265": {
-        "geoid": "1166265",
-        "name": "Sambriāl",
+        "ids": {
+            "geonames": 1166265
+        },
+        "long": {
+            "default": "Sambriāl"
+        },
         "lat": 32.47455,
         "lng": 74.35209,
         "country": "PK",
@@ -234,8 +338,12 @@
         "population": 62874
     },
     "1166548": {
-        "geoid": "1166548",
-        "name": "Sahiwal",
+        "ids": {
+            "geonames": 1166548
+        },
+        "long": {
+            "default": "Sahiwal"
+        },
         "lat": 30.66667,
         "lng": 73.1,
         "country": "PK",
@@ -243,8 +351,12 @@
         "population": 235695
     },
     "1166652": {
-        "geoid": "1166652",
-        "name": "Sādiqābād",
+        "ids": {
+            "geonames": 1166652
+        },
+        "long": {
+            "default": "Sādiqābād"
+        },
         "lat": 28.30623,
         "lng": 70.13065,
         "country": "PK",
@@ -252,8 +364,12 @@
         "population": 189876
     },
     "1166827": {
-        "geoid": "1166827",
-        "name": "Rohri",
+        "ids": {
+            "geonames": 1166827
+        },
+        "long": {
+            "default": "Rohri"
+        },
         "lat": 27.69223,
         "lng": 68.89506,
         "country": "PK",
@@ -261,8 +377,12 @@
         "population": 50649
     },
     "1166993": {
-        "geoid": "1166993",
-        "name": "Rawalpindi",
+        "ids": {
+            "geonames": 1166993
+        },
+        "long": {
+            "default": "Rawalpindi"
+        },
         "lat": 33.6007,
         "lng": 73.0679,
         "country": "PK",
@@ -270,8 +390,12 @@
         "population": 1743101
     },
     "1167380": {
-        "geoid": "1167380",
-        "name": "Rājanpur",
+        "ids": {
+            "geonames": 1167380
+        },
+        "long": {
+            "default": "Rājanpur"
+        },
         "lat": 29.10351,
         "lng": 70.32504,
         "country": "PK",
@@ -279,8 +403,12 @@
         "population": 50682
     },
     "1167507": {
-        "geoid": "1167507",
-        "name": "Rabwāh",
+        "ids": {
+            "geonames": 1167507
+        },
+        "long": {
+            "default": "Rabwāh"
+        },
         "lat": 31.75583,
         "lng": 72.91972,
         "country": "PK",
@@ -288,8 +416,12 @@
         "population": 70000
     },
     "1167528": {
-        "geoid": "1167528",
-        "name": "Quetta",
+        "ids": {
+            "geonames": 1167528
+        },
+        "long": {
+            "default": "Quetta"
+        },
         "lat": 30.199,
         "lng": 67.00971,
         "country": "PK",
@@ -297,8 +429,12 @@
         "population": 733675
     },
     "1167622": {
-        "geoid": "1167622",
-        "name": "Kambar",
+        "ids": {
+            "geonames": 1167622
+        },
+        "long": {
+            "default": "Kambar"
+        },
         "lat": 27.58676,
         "lng": 68.00103,
         "country": "PK",
@@ -306,8 +442,12 @@
         "population": 77481
     },
     "1168197": {
-        "geoid": "1168197",
-        "name": "Peshawar",
+        "ids": {
+            "geonames": 1168197
+        },
+        "long": {
+            "default": "Peshawar"
+        },
         "lat": 34.008,
         "lng": 71.57849,
         "country": "PK",
@@ -315,8 +455,12 @@
         "population": 1218773
     },
     "1168226": {
-        "geoid": "1168226",
-        "name": "Pattoki",
+        "ids": {
+            "geonames": 1168226
+        },
+        "long": {
+            "default": "Pattoki"
+        },
         "lat": 31.01667,
         "lng": 73.85,
         "country": "PK",
@@ -324,8 +468,12 @@
         "population": 70436
     },
     "1168307": {
-        "geoid": "1168307",
-        "name": "Pasrūr",
+        "ids": {
+            "geonames": 1168307
+        },
+        "long": {
+            "default": "Pasrūr"
+        },
         "lat": 32.26413,
         "lng": 74.66343,
         "country": "PK",
@@ -333,8 +481,12 @@
         "population": 53364
     },
     "1168412": {
-        "geoid": "1168412",
-        "name": "Pāno Āqil",
+        "ids": {
+            "geonames": 1168412
+        },
+        "long": {
+            "default": "Pāno Āqil"
+        },
         "lat": 27.85685,
         "lng": 69.11156,
         "country": "PK",
@@ -342,8 +494,12 @@
         "population": 72881
     },
     "1168555": {
-        "geoid": "1168555",
-        "name": "Pākpattan",
+        "ids": {
+            "geonames": 1168555
+        },
+        "long": {
+            "default": "Pākpattan"
+        },
         "lat": 30.34104,
         "lng": 73.38664,
         "country": "PK",
@@ -351,8 +507,12 @@
         "population": 126706
     },
     "1168718": {
-        "geoid": "1168718",
-        "name": "Okāra",
+        "ids": {
+            "geonames": 1168718
+        },
+        "long": {
+            "default": "Okāra"
+        },
         "lat": 30.80806,
         "lng": 73.44583,
         "country": "PK",
@@ -360,8 +520,12 @@
         "population": 223648
     },
     "1169116": {
-        "geoid": "1169116",
-        "name": "Nawābshāh",
+        "ids": {
+            "geonames": 1169116
+        },
+        "long": {
+            "default": "Nawābshāh"
+        },
         "lat": 26.24833,
         "lng": 68.40955,
         "country": "PK",
@@ -369,8 +533,12 @@
         "population": 229504
     },
     "1169278": {
-        "geoid": "1169278",
-        "name": "Nārowāl",
+        "ids": {
+            "geonames": 1169278
+        },
+        "long": {
+            "default": "Nārowāl"
+        },
         "lat": 32.1,
         "lng": 74.88333,
         "country": "PK",
@@ -378,8 +546,12 @@
         "population": 68291
     },
     "1169372": {
-        "geoid": "1169372",
-        "name": "Nankāna Sāhib",
+        "ids": {
+            "geonames": 1169372
+        },
+        "long": {
+            "default": "Nankāna Sāhib"
+        },
         "lat": 31.4475,
         "lng": 73.69722,
         "country": "PK",
@@ -387,8 +559,12 @@
         "population": 56366
     },
     "1169605": {
-        "geoid": "1169605",
-        "name": "Muzaffargarh",
+        "ids": {
+            "geonames": 1169605
+        },
+        "long": {
+            "default": "Muzaffargarh"
+        },
         "lat": 30.07537,
         "lng": 71.19213,
         "country": "PK",
@@ -396,8 +572,12 @@
         "population": 165192
     },
     "1169607": {
-        "geoid": "1169607",
-        "name": "Muzaffarābād",
+        "ids": {
+            "geonames": 1169607
+        },
+        "long": {
+            "default": "Muzaffarābād"
+        },
         "lat": 34.37002,
         "lng": 73.47082,
         "country": "PK",
@@ -405,8 +585,12 @@
         "population": 725000
     },
     "1169692": {
-        "geoid": "1169692",
-        "name": "Murīdke",
+        "ids": {
+            "geonames": 1169692
+        },
+        "long": {
+            "default": "Murīdke"
+        },
         "lat": 31.8025,
         "lng": 74.26167,
         "country": "PK",
@@ -414,8 +598,12 @@
         "population": 164246
     },
     "1169825": {
-        "geoid": "1169825",
-        "name": "Multān",
+        "ids": {
+            "geonames": 1169825
+        },
+        "long": {
+            "default": "Multān"
+        },
         "lat": 30.19556,
         "lng": 71.47528,
         "country": "PK",
@@ -423,8 +611,12 @@
         "population": 1437230
     },
     "1170013": {
-        "geoid": "1170013",
-        "name": "Moro",
+        "ids": {
+            "geonames": 1170013
+        },
+        "long": {
+            "default": "Moro"
+        },
         "lat": 26.66459,
         "lng": 68.00156,
         "country": "PK",
@@ -432,8 +624,12 @@
         "population": 76765
     },
     "1170295": {
-        "geoid": "1170295",
-        "name": "Mirpur Khas",
+        "ids": {
+            "geonames": 1170295
+        },
+        "long": {
+            "default": "Mirpur Khas"
+        },
         "lat": 25.5251,
         "lng": 69.0159,
         "country": "PK",
@@ -441,8 +637,12 @@
         "population": 215657
     },
     "1170395": {
-        "geoid": "1170395",
-        "name": "Mingora",
+        "ids": {
+            "geonames": 1170395
+        },
+        "long": {
+            "default": "Mingora"
+        },
         "lat": 34.7795,
         "lng": 72.36265,
         "country": "PK",
@@ -450,8 +650,12 @@
         "population": 279914
     },
     "1170425": {
-        "geoid": "1170425",
-        "name": "Miānwāli",
+        "ids": {
+            "geonames": 1170425
+        },
+        "long": {
+            "default": "Miānwāli"
+        },
         "lat": 32.57409,
         "lng": 71.52639,
         "country": "PK",
@@ -459,8 +663,12 @@
         "population": 89570
     },
     "1170486": {
-        "geoid": "1170486",
-        "name": "Miān Channūn",
+        "ids": {
+            "geonames": 1170486
+        },
+        "long": {
+            "default": "Miān Channūn"
+        },
         "lat": 30.44004,
         "lng": 72.35431,
         "country": "PK",
@@ -468,8 +676,12 @@
         "population": 76226
     },
     "1170667": {
-        "geoid": "1170667",
-        "name": "Mātli",
+        "ids": {
+            "geonames": 1170667
+        },
+        "long": {
+            "default": "Mātli"
+        },
         "lat": 25.04312,
         "lng": 68.65568,
         "country": "PK",
@@ -477,8 +689,12 @@
         "population": 50398
     },
     "1170880": {
-        "geoid": "1170880",
-        "name": "Mardan",
+        "ids": {
+            "geonames": 1170880
+        },
+        "long": {
+            "default": "Mardan"
+        },
         "lat": 34.20195,
         "lng": 72.05254,
         "country": "PK",
@@ -486,8 +702,12 @@
         "population": 300424
     },
     "1170951": {
-        "geoid": "1170951",
-        "name": "Mānsehra",
+        "ids": {
+            "geonames": 1170951
+        },
+        "long": {
+            "default": "Mānsehra"
+        },
         "lat": 34.33333,
         "lng": 73.2,
         "country": "PK",
@@ -495,8 +715,12 @@
         "population": 66486
     },
     "1171123": {
-        "geoid": "1171123",
-        "name": "Mandi Bahāuddīn",
+        "ids": {
+            "geonames": 1171123
+        },
+        "long": {
+            "default": "Mandi Bahāuddīn"
+        },
         "lat": 32.58339,
         "lng": 73.48431,
         "country": "PK",
@@ -504,8 +728,12 @@
         "population": 129733
     },
     "1171305": {
-        "geoid": "1171305",
-        "name": "Malīr Cantonment",
+        "ids": {
+            "geonames": 1171305
+        },
+        "long": {
+            "default": "Malīr Cantonment"
+        },
         "lat": 24.94343,
         "lng": 67.20591,
         "country": "PK",
@@ -513,8 +741,12 @@
         "population": 300000
     },
     "1171502": {
-        "geoid": "1171502",
-        "name": "Mailsi",
+        "ids": {
+            "geonames": 1171502
+        },
+        "long": {
+            "default": "Mailsi"
+        },
         "lat": 29.80028,
         "lng": 72.17583,
         "country": "PK",
@@ -522,8 +754,12 @@
         "population": 64545
     },
     "1171965": {
-        "geoid": "1171965",
-        "name": "Lodhrān",
+        "ids": {
+            "geonames": 1171965
+        },
+        "long": {
+            "default": "Lodhrān"
+        },
         "lat": 29.54051,
         "lng": 71.63357,
         "country": "PK",
@@ -531,8 +767,12 @@
         "population": 97249
     },
     "1172035": {
-        "geoid": "1172035",
-        "name": "Layyah",
+        "ids": {
+            "geonames": 1172035
+        },
+        "long": {
+            "default": "Layyah"
+        },
         "lat": 30.96128,
         "lng": 70.93904,
         "country": "PK",
@@ -540,8 +780,12 @@
         "population": 78954
     },
     "1172128": {
-        "geoid": "1172128",
-        "name": "Lārkāna",
+        "ids": {
+            "geonames": 1172128
+        },
+        "long": {
+            "default": "Lārkāna"
+        },
         "lat": 27.55508,
         "lng": 68.21414,
         "country": "PK",
@@ -549,8 +793,12 @@
         "population": 364033
     },
     "1172318": {
-        "geoid": "1172318",
-        "name": "Lāla Mūsa",
+        "ids": {
+            "geonames": 1172318
+        },
+        "long": {
+            "default": "Lāla Mūsa"
+        },
         "lat": 32.70235,
         "lng": 73.96,
         "country": "PK",
@@ -558,8 +806,12 @@
         "population": 65197
     },
     "1172451": {
-        "geoid": "1172451",
-        "name": "Lahore",
+        "ids": {
+            "geonames": 1172451
+        },
+        "long": {
+            "default": "Lahore"
+        },
         "lat": 31.54972,
         "lng": 74.34361,
         "country": "PK",
@@ -567,8 +819,12 @@
         "population": 6310888
     },
     "1172904": {
-        "geoid": "1172904",
-        "name": "Kotri",
+        "ids": {
+            "geonames": 1172904
+        },
+        "long": {
+            "default": "Kotri"
+        },
         "lat": 25.366,
         "lng": 68.31216,
         "country": "PK",
@@ -576,8 +832,12 @@
         "population": 72672
     },
     "1172993": {
-        "geoid": "1172993",
-        "name": "Kot Malik Barkhurdār",
+        "ids": {
+            "geonames": 1172993
+        },
+        "long": {
+            "default": "Kot Malik Barkhurdār"
+        },
         "lat": 30.20379,
         "lng": 66.98723,
         "country": "PK",
@@ -585,8 +845,12 @@
         "population": 69359
     },
     "1173055": {
-        "geoid": "1173055",
-        "name": "Kotli",
+        "ids": {
+            "geonames": 1173055
+        },
+        "long": {
+            "default": "Kotli"
+        },
         "lat": 33.51836,
         "lng": 73.9022,
         "country": "PK",
@@ -594,8 +858,12 @@
         "population": 640000
     },
     "1173378": {
-        "geoid": "1173378",
-        "name": "Kot Addu",
+        "ids": {
+            "geonames": 1173378
+        },
+        "long": {
+            "default": "Kot Addu"
+        },
         "lat": 30.4692,
         "lng": 70.96714,
         "country": "PK",
@@ -603,8 +871,12 @@
         "population": 104217
     },
     "1173491": {
-        "geoid": "1173491",
-        "name": "Kohāt",
+        "ids": {
+            "geonames": 1173491
+        },
+        "long": {
+            "default": "Kohāt"
+        },
         "lat": 33.58196,
         "lng": 71.44929,
         "country": "PK",
@@ -612,8 +884,12 @@
         "population": 151427
     },
     "1173687": {
-        "geoid": "1173687",
-        "name": "Khushāb",
+        "ids": {
+            "geonames": 1173687
+        },
+        "long": {
+            "default": "Khushāb"
+        },
         "lat": 32.29667,
         "lng": 72.3525,
         "country": "PK",
@@ -621,8 +897,12 @@
         "population": 102793
     },
     "1174042": {
-        "geoid": "1174042",
-        "name": "Khāriān",
+        "ids": {
+            "geonames": 1174042
+        },
+        "long": {
+            "default": "Khāriān"
+        },
         "lat": 32.81612,
         "lng": 73.88697,
         "country": "PK",
@@ -630,8 +910,12 @@
         "population": 81435
     },
     "1174167": {
-        "geoid": "1174167",
-        "name": "Khānpur",
+        "ids": {
+            "geonames": 1174167
+        },
+        "long": {
+            "default": "Khānpur"
+        },
         "lat": 28.64534,
         "lng": 70.6567,
         "country": "PK",
@@ -639,8 +923,12 @@
         "population": 142426
     },
     "1174625": {
-        "geoid": "1174625",
-        "name": "Kasūr",
+        "ids": {
+            "geonames": 1174625
+        },
+        "long": {
+            "default": "Kasūr"
+        },
         "lat": 31.11556,
         "lng": 74.44667,
         "country": "PK",
@@ -648,8 +936,12 @@
         "population": 290643
     },
     "1174872": {
-        "geoid": "1174872",
-        "name": "Karachi",
+        "ids": {
+            "geonames": 1174872
+        },
+        "long": {
+            "default": "Karachi"
+        },
         "lat": 24.9056,
         "lng": 67.0822,
         "country": "PK",
@@ -657,8 +949,12 @@
         "population": 11624219
     },
     "1175021": {
-        "geoid": "1175021",
-        "name": "Kandhkot",
+        "ids": {
+            "geonames": 1175021
+        },
+        "long": {
+            "default": "Kandhkot"
+        },
         "lat": 28.24396,
         "lng": 69.18235,
         "country": "PK",
@@ -666,8 +962,12 @@
         "population": 88468
     },
     "1175088": {
-        "geoid": "1175088",
-        "name": "Kamoke",
+        "ids": {
+            "geonames": 1175088
+        },
+        "long": {
+            "default": "Kamoke"
+        },
         "lat": 31.97444,
         "lng": 74.22444,
         "country": "PK",
@@ -675,8 +975,12 @@
         "population": 199531
     },
     "1175156": {
-        "geoid": "1175156",
-        "name": "Kamālia",
+        "ids": {
+            "geonames": 1175156
+        },
+        "long": {
+            "default": "Kamālia"
+        },
         "lat": 30.73333,
         "lng": 72.65,
         "country": "PK",
@@ -684,8 +988,12 @@
         "population": 112426
     },
     "1175446": {
-        "geoid": "1175446",
-        "name": "Kohror Pakka",
+        "ids": {
+            "geonames": 1175446
+        },
+        "long": {
+            "default": "Kohror Pakka"
+        },
         "lat": 29.62382,
         "lng": 71.91673,
         "country": "PK",
@@ -693,8 +1001,12 @@
         "population": 69743
     },
     "1175560": {
-        "geoid": "1175560",
-        "name": "Kabīrwāla",
+        "ids": {
+            "geonames": 1175560
+        },
+        "long": {
+            "default": "Kabīrwāla"
+        },
         "lat": 30.40677,
         "lng": 71.8667,
         "country": "PK",
@@ -702,8 +1014,12 @@
         "population": 60782
     },
     "1175864": {
-        "geoid": "1175864",
-        "name": "Jhelum",
+        "ids": {
+            "geonames": 1175864
+        },
+        "long": {
+            "default": "Jhelum"
+        },
         "lat": 32.93313,
         "lng": 73.72637,
         "country": "PK",
@@ -711,8 +1027,12 @@
         "population": 164080
     },
     "1175892": {
-        "geoid": "1175892",
-        "name": "Jhang Sadr",
+        "ids": {
+            "geonames": 1175892
+        },
+        "long": {
+            "default": "Jhang Sadr"
+        },
         "lat": 31.27154,
         "lng": 72.32842,
         "country": "PK",
@@ -720,8 +1040,12 @@
         "population": 341210
     },
     "1176106": {
-        "geoid": "1176106",
-        "name": "Jarānwāla",
+        "ids": {
+            "geonames": 1176106
+        },
+        "long": {
+            "default": "Jarānwāla"
+        },
         "lat": 31.33333,
         "lng": 73.43333,
         "country": "PK",
@@ -729,8 +1053,12 @@
         "population": 119785
     },
     "1176241": {
-        "geoid": "1176241",
-        "name": "Jāmpur",
+        "ids": {
+            "geonames": 1176241
+        },
+        "long": {
+            "default": "Jāmpur"
+        },
         "lat": 29.64414,
         "lng": 70.59544,
         "country": "PK",
@@ -738,8 +1066,12 @@
         "population": 63791
     },
     "1176368": {
-        "geoid": "1176368",
-        "name": "Jalālpur",
+        "ids": {
+            "geonames": 1176368
+        },
+        "long": {
+            "default": "Jalālpur"
+        },
         "lat": 32.63744,
         "lng": 74.21829,
         "country": "PK",
@@ -747,8 +1079,12 @@
         "population": 93883
     },
     "1176515": {
-        "geoid": "1176515",
-        "name": "Jacobābād",
+        "ids": {
+            "geonames": 1176515
+        },
+        "long": {
+            "default": "Jacobābād"
+        },
         "lat": 28.281,
         "lng": 68.43876,
         "country": "PK",
@@ -756,8 +1092,12 @@
         "population": 170588
     },
     "1176615": {
-        "geoid": "1176615",
-        "name": "Islamabad",
+        "ids": {
+            "geonames": 1176615
+        },
+        "long": {
+            "default": "Islamabad"
+        },
         "lat": 33.72148,
         "lng": 73.04329,
         "country": "PK",
@@ -765,8 +1105,12 @@
         "population": 601600
     },
     "1176734": {
-        "geoid": "1176734",
-        "name": "Hyderabad",
+        "ids": {
+            "geonames": 1176734
+        },
+        "long": {
+            "default": "Hyderabad"
+        },
         "lat": 25.39242,
         "lng": 68.37366,
         "country": "PK",
@@ -774,8 +1118,12 @@
         "population": 1386330
     },
     "1176800": {
-        "geoid": "1176800",
-        "name": "Hujra",
+        "ids": {
+            "geonames": 1176800
+        },
+        "long": {
+            "default": "Hujra"
+        },
         "lat": 30.74179,
         "lng": 73.82358,
         "country": "PK",
@@ -783,8 +1131,12 @@
         "population": 61546
     },
     "1176997": {
-        "geoid": "1176997",
-        "name": "Haveli",
+        "ids": {
+            "geonames": 1176997
+        },
+        "long": {
+            "default": "Haveli"
+        },
         "lat": 30.45016,
         "lng": 73.69888,
         "country": "PK",
@@ -792,8 +1144,12 @@
         "population": 65289
     },
     "1177042": {
-        "geoid": "1177042",
-        "name": "Hāsilpur",
+        "ids": {
+            "geonames": 1177042
+        },
+        "long": {
+            "default": "Hāsilpur"
+        },
         "lat": 29.71222,
         "lng": 72.55528,
         "country": "PK",
@@ -801,8 +1157,12 @@
         "population": 88031
     },
     "1177073": {
-        "geoid": "1177073",
-        "name": "Haru Zbad",
+        "ids": {
+            "geonames": 1177073
+        },
+        "long": {
+            "default": "Haru Zbad"
+        },
         "lat": 29.61206,
         "lng": 73.13802,
         "country": "PK",
@@ -810,8 +1170,12 @@
         "population": 72432
     },
     "1177107": {
-        "geoid": "1177107",
-        "name": "Harīpur",
+        "ids": {
+            "geonames": 1177107
+        },
+        "long": {
+            "default": "Harīpur"
+        },
         "lat": 33.99997,
         "lng": 72.93409,
         "country": "PK",
@@ -819,8 +1183,12 @@
         "population": 56977
     },
     "1177384": {
-        "geoid": "1177384",
-        "name": "Hāfizābād",
+        "ids": {
+            "geonames": 1177384
+        },
+        "long": {
+            "default": "Hāfizābād"
+        },
         "lat": 32.06786,
         "lng": 73.68545,
         "country": "PK",
@@ -828,8 +1196,12 @@
         "population": 153656
     },
     "1177446": {
-        "geoid": "1177446",
-        "name": "Gwadar",
+        "ids": {
+            "geonames": 1177446
+        },
+        "long": {
+            "default": "Gwadar"
+        },
         "lat": 25.12163,
         "lng": 62.32541,
         "country": "PK",
@@ -837,8 +1209,12 @@
         "population": 51901
     },
     "1177654": {
-        "geoid": "1177654",
-        "name": "Gujrāt",
+        "ids": {
+            "geonames": 1177654
+        },
+        "long": {
+            "default": "Gujrāt"
+        },
         "lat": 32.57284,
         "lng": 74.07897,
         "country": "PK",
@@ -846,8 +1222,12 @@
         "population": 301506
     },
     "1177662": {
-        "geoid": "1177662",
-        "name": "Gujrānwāla",
+        "ids": {
+            "geonames": 1177662
+        },
+        "long": {
+            "default": "Gujrānwāla"
+        },
         "lat": 32.16167,
         "lng": 74.18831,
         "country": "PK",
@@ -855,8 +1235,12 @@
         "population": 1384471
     },
     "1177682": {
-        "geoid": "1177682",
-        "name": "Gūjar Khān",
+        "ids": {
+            "geonames": 1177682
+        },
+        "long": {
+            "default": "Gūjar Khān"
+        },
         "lat": 33.25579,
         "lng": 73.30255,
         "country": "PK",
@@ -864,8 +1248,12 @@
         "population": 69374
     },
     "1178231": {
-        "geoid": "1178231",
-        "name": "Gojra",
+        "ids": {
+            "geonames": 1178231
+        },
+        "long": {
+            "default": "Gojra"
+        },
         "lat": 31.14874,
         "lng": 72.68656,
         "country": "PK",
@@ -873,8 +1261,12 @@
         "population": 139726
     },
     "1178456": {
-        "geoid": "1178456",
-        "name": "Ghotki",
+        "ids": {
+            "geonames": 1178456
+        },
+        "long": {
+            "default": "Ghotki"
+        },
         "lat": 28.00604,
         "lng": 69.31608,
         "country": "PK",
@@ -882,8 +1274,12 @@
         "population": 64295
     },
     "1179400": {
-        "geoid": "1179400",
-        "name": "Faisalābād",
+        "ids": {
+            "geonames": 1179400
+        },
+        "long": {
+            "default": "Faisalābād"
+        },
         "lat": 31.41667,
         "lng": 73.08333,
         "country": "PK",
@@ -891,8 +1287,12 @@
         "population": 2506595
     },
     "1179760": {
-        "geoid": "1179760",
-        "name": "Dīpālpur",
+        "ids": {
+            "geonames": 1179760
+        },
+        "long": {
+            "default": "Dīpālpur"
+        },
         "lat": 30.67091,
         "lng": 73.65292,
         "country": "PK",
@@ -900,8 +1300,12 @@
         "population": 74640
     },
     "1180281": {
-        "geoid": "1180281",
-        "name": "Dera Ismāīl Khān",
+        "ids": {
+            "geonames": 1180281
+        },
+        "long": {
+            "default": "Dera Ismāīl Khān"
+        },
         "lat": 31.83269,
         "lng": 70.9024,
         "country": "PK",
@@ -909,8 +1313,12 @@
         "population": 101616
     },
     "1180289": {
-        "geoid": "1180289",
-        "name": "Dera Ghazi Khan",
+        "ids": {
+            "geonames": 1180289
+        },
+        "long": {
+            "default": "Dera Ghazi Khan"
+        },
         "lat": 30.05614,
         "lng": 70.63477,
         "country": "PK",
@@ -918,8 +1326,12 @@
         "population": 236093
     },
     "1180436": {
-        "geoid": "1180436",
-        "name": "Daska",
+        "ids": {
+            "geonames": 1180436
+        },
+        "long": {
+            "default": "Daska"
+        },
         "lat": 32.32426,
         "lng": 74.34974,
         "country": "PK",
@@ -927,8 +1339,12 @@
         "population": 126924
     },
     "1180809": {
-        "geoid": "1180809",
-        "name": "Dadu",
+        "ids": {
+            "geonames": 1180809
+        },
+        "long": {
+            "default": "Dadu"
+        },
         "lat": 26.73287,
         "lng": 67.77631,
         "country": "PK",
@@ -936,8 +1352,12 @@
         "population": 139784
     },
     "1180942": {
-        "geoid": "1180942",
-        "name": "Chūniān",
+        "ids": {
+            "geonames": 1180942
+        },
+        "long": {
+            "default": "Chūniān"
+        },
         "lat": 30.96397,
         "lng": 73.98029,
         "country": "PK",
@@ -945,8 +1365,12 @@
         "population": 57312
     },
     "1180983": {
-        "geoid": "1180983",
-        "name": "Chūhar Kāna",
+        "ids": {
+            "geonames": 1180983
+        },
+        "long": {
+            "default": "Chūhar Kāna"
+        },
         "lat": 31.75,
         "lng": 73.8,
         "country": "PK",
@@ -954,8 +1378,12 @@
         "population": 69321
     },
     "1181073": {
-        "geoid": "1181073",
-        "name": "Chishtiān Mandi",
+        "ids": {
+            "geonames": 1181073
+        },
+        "long": {
+            "default": "Chishtiān Mandi"
+        },
         "lat": 29.8,
         "lng": 72.86667,
         "country": "PK",
@@ -963,8 +1391,12 @@
         "population": 122199
     },
     "1181096": {
-        "geoid": "1181096",
-        "name": "Chiniot",
+        "ids": {
+            "geonames": 1181096
+        },
+        "long": {
+            "default": "Chiniot"
+        },
         "lat": 31.72,
         "lng": 72.97889,
         "country": "PK",
@@ -972,8 +1404,12 @@
         "population": 201781
     },
     "1181163": {
-        "geoid": "1181163",
-        "name": "Chīchāwatni",
+        "ids": {
+            "geonames": 1181163
+        },
+        "long": {
+            "default": "Chīchāwatni"
+        },
         "lat": 30.53333,
         "lng": 72.7,
         "country": "PK",
@@ -981,8 +1417,12 @@
         "population": 82762
     },
     "1181439": {
-        "geoid": "1181439",
-        "name": "Chārsadda",
+        "ids": {
+            "geonames": 1181439
+        },
+        "long": {
+            "default": "Chārsadda"
+        },
         "lat": 34.14822,
         "lng": 71.7406,
         "country": "PK",
@@ -990,8 +1430,12 @@
         "population": 95319
     },
     "1181611": {
-        "geoid": "1181611",
-        "name": "Chaman",
+        "ids": {
+            "geonames": 1181611
+        },
+        "long": {
+            "default": "Chaman"
+        },
         "lat": 30.92102,
         "lng": 66.45975,
         "country": "PK",
@@ -999,8 +1443,12 @@
         "population": 88568
     },
     "1181636": {
-        "geoid": "1181636",
-        "name": "Chakwāl",
+        "ids": {
+            "geonames": 1181636
+        },
+        "long": {
+            "default": "Chakwāl"
+        },
         "lat": 32.93338,
         "lng": 72.85853,
         "country": "PK",
@@ -1008,8 +1456,12 @@
         "population": 101200
     },
     "1182092": {
-        "geoid": "1182092",
-        "name": "Būrewāla",
+        "ids": {
+            "geonames": 1182092
+        },
+        "long": {
+            "default": "Būrewāla"
+        },
         "lat": 30.16667,
         "lng": 72.65,
         "country": "PK",
@@ -1017,8 +1469,12 @@
         "population": 183915
     },
     "1182637": {
-        "geoid": "1182637",
-        "name": "Bhimbar",
+        "ids": {
+            "geonames": 1182637
+        },
+        "long": {
+            "default": "Bhimbar"
+        },
         "lat": 32.97465,
         "lng": 74.07846,
         "country": "PK",
@@ -1026,8 +1482,12 @@
         "population": 342900
     },
     "1182787": {
-        "geoid": "1182787",
-        "name": "Bhalwāl",
+        "ids": {
+            "geonames": 1182787
+        },
+        "long": {
+            "default": "Bhalwāl"
+        },
         "lat": 32.27204,
         "lng": 72.90425,
         "country": "PK",
@@ -1035,8 +1495,12 @@
         "population": 74744
     },
     "1182815": {
-        "geoid": "1182815",
-        "name": "Bhakkar",
+        "ids": {
+            "geonames": 1182815
+        },
+        "long": {
+            "default": "Bhakkar"
+        },
         "lat": 31.62525,
         "lng": 71.06574,
         "country": "PK",
@@ -1044,8 +1508,12 @@
         "population": 81950
     },
     "1182829": {
-        "geoid": "1182829",
-        "name": "Bhāi Pheru",
+        "ids": {
+            "geonames": 1182829
+        },
+        "long": {
+            "default": "Bhāi Pheru"
+        },
         "lat": 31.2,
         "lng": 73.95,
         "country": "PK",
@@ -1053,8 +1521,12 @@
         "population": 86900
     },
     "1183880": {
-        "geoid": "1183880",
-        "name": "Bahāwalpur",
+        "ids": {
+            "geonames": 1183880
+        },
+        "long": {
+            "default": "Bahāwalpur"
+        },
         "lat": 29.4,
         "lng": 71.68333,
         "country": "PK",
@@ -1062,8 +1534,12 @@
         "population": 552607
     },
     "1183883": {
-        "geoid": "1183883",
-        "name": "Bahāwalnagar",
+        "ids": {
+            "geonames": 1183883
+        },
+        "long": {
+            "default": "Bahāwalnagar"
+        },
         "lat": 29.99866,
         "lng": 73.2536,
         "country": "PK",
@@ -1071,8 +1547,12 @@
         "population": 126617
     },
     "1184055": {
-        "geoid": "1184055",
-        "name": "Badīn",
+        "ids": {
+            "geonames": 1184055
+        },
+        "long": {
+            "default": "Badīn"
+        },
         "lat": 24.65599,
         "lng": 68.83841,
         "country": "PK",
@@ -1080,8 +1560,12 @@
         "population": 73569
     },
     "1184249": {
-        "geoid": "1184249",
-        "name": "Attock City",
+        "ids": {
+            "geonames": 1184249
+        },
+        "long": {
+            "default": "Attock City"
+        },
         "lat": 33.77311,
         "lng": 72.3741,
         "country": "PK",
@@ -1089,8 +1573,12 @@
         "population": 85479
     },
     "1184370": {
-        "geoid": "1184370",
-        "name": "Ārifwāla",
+        "ids": {
+            "geonames": 1184370
+        },
+        "long": {
+            "default": "Ārifwāla"
+        },
         "lat": 30.29399,
         "lng": 73.07354,
         "country": "PK",
@@ -1098,8 +1586,12 @@
         "population": 87360
     },
     "1184845": {
-        "geoid": "1184845",
-        "name": "Ahmadpur East",
+        "ids": {
+            "geonames": 1184845
+        },
+        "long": {
+            "default": "Ahmadpur East"
+        },
         "lat": 29.14309,
         "lng": 71.25976,
         "country": "PK",
@@ -1107,8 +1599,12 @@
         "population": 116579
     },
     "1185056": {
-        "geoid": "1185056",
-        "name": "Abbottābād",
+        "ids": {
+            "geonames": 1185056
+        },
+        "long": {
+            "default": "Abbottābād"
+        },
         "lat": 34.14685,
         "lng": 73.21449,
         "country": "PK",
@@ -1116,8 +1612,12 @@
         "population": 120000
     },
     "1332083": {
-        "geoid": "1332083",
-        "name": "Bahāwalnagar",
+        "ids": {
+            "geonames": 1332083
+        },
+        "long": {
+            "default": "Bahāwalnagar"
+        },
         "lat": 30.55083,
         "lng": 73.39083,
         "country": "PK",
@@ -1125,8 +1625,12 @@
         "population": 126700
     },
     "1341204": {
-        "geoid": "1341204",
-        "name": "Nowshera Cantonment",
+        "ids": {
+            "geonames": 1341204
+        },
+        "long": {
+            "default": "Nowshera Cantonment"
+        },
         "lat": 33.99829,
         "lng": 71.99834,
         "country": "PK",

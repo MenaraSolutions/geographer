@@ -1,7 +1,11 @@
 {
     "100425": {
-        "geoid": "100425",
-        "name": "Yanbu",
+        "ids": {
+            "geonames": 100425
+        },
+        "long": {
+            "default": "Yanbu"
+        },
         "lat": 24.08912,
         "lng": 38.06374,
         "country": "SA",
@@ -9,8 +13,12 @@
         "population": 200161
     },
     "101554": {
-        "geoid": "101554",
-        "name": "Tārūt",
+        "ids": {
+            "geonames": 101554
+        },
+        "long": {
+            "default": "Tārūt"
+        },
         "lat": 26.57332,
         "lng": 50.03694,
         "country": "SA",
@@ -18,8 +26,12 @@
         "population": 85371
     },
     "101628": {
-        "geoid": "101628",
-        "name": "Tabuk",
+        "ids": {
+            "geonames": 101628
+        },
+        "long": {
+            "default": "Tabuk"
+        },
         "lat": 28.3998,
         "lng": 36.57151,
         "country": "SA",
@@ -27,8 +39,12 @@
         "population": 455450
     },
     "101760": {
-        "geoid": "101760",
-        "name": "Sulţānah",
+        "ids": {
+            "geonames": 101760
+        },
+        "long": {
+            "default": "Sulţānah"
+        },
         "lat": 24.49258,
         "lng": 39.58572,
         "country": "SA",
@@ -36,8 +52,12 @@
         "population": 946697
     },
     "102318": {
-        "geoid": "102318",
-        "name": "Sayhāt",
+        "ids": {
+            "geonames": 102318
+        },
+        "long": {
+            "default": "Sayhāt"
+        },
         "lat": 26.48522,
         "lng": 50.04046,
         "country": "SA",
@@ -45,8 +65,12 @@
         "population": 66702
     },
     "102527": {
-        "geoid": "102527",
-        "name": "Sakakah",
+        "ids": {
+            "geonames": 102527
+        },
+        "long": {
+            "default": "Sakakah"
+        },
         "lat": 29.96974,
         "lng": 40.20641,
         "country": "SA",
@@ -54,8 +78,12 @@
         "population": 128332
     },
     "102651": {
-        "geoid": "102651",
-        "name": "Şabyā",
+        "ids": {
+            "geonames": 102651
+        },
+        "long": {
+            "default": "Şabyā"
+        },
         "lat": 17.1495,
         "lng": 42.62537,
         "country": "SA",
@@ -63,8 +91,12 @@
         "population": 54108
     },
     "103369": {
-        "geoid": "103369",
-        "name": "Qal‘at Bīshah",
+        "ids": {
+            "geonames": 103369
+        },
+        "long": {
+            "default": "Qal‘at Bīshah"
+        },
         "lat": 20.00054,
         "lng": 42.6052,
         "country": "SA",
@@ -72,8 +104,12 @@
         "population": 81828
     },
     "103630": {
-        "geoid": "103630",
-        "name": "Najrān",
+        "ids": {
+            "geonames": 103630
+        },
+        "long": {
+            "default": "Najrān"
+        },
         "lat": 17.49326,
         "lng": 44.12766,
         "country": "SA",
@@ -81,8 +117,12 @@
         "population": 258573
     },
     "104515": {
-        "geoid": "104515",
-        "name": "Mecca",
+        "ids": {
+            "geonames": 104515
+        },
+        "long": {
+            "default": "Mecca"
+        },
         "lat": 21.42664,
         "lng": 39.82563,
         "country": "SA",
@@ -90,8 +130,12 @@
         "population": 1323624
     },
     "105072": {
-        "geoid": "105072",
-        "name": "Khamis Mushait",
+        "ids": {
+            "geonames": 105072
+        },
+        "long": {
+            "default": "Khamis Mushait"
+        },
         "lat": 18.3,
         "lng": 42.73333,
         "country": "SA",
@@ -99,8 +143,12 @@
         "population": 387553
     },
     "105299": {
-        "geoid": "105299",
-        "name": "Jizan",
+        "ids": {
+            "geonames": 105299
+        },
+        "long": {
+            "default": "Jizan"
+        },
         "lat": 16.88917,
         "lng": 42.55111,
         "country": "SA",
@@ -108,8 +156,12 @@
         "population": 105198
     },
     "105343": {
-        "geoid": "105343",
-        "name": "Jeddah",
+        "ids": {
+            "geonames": 105343
+        },
+        "long": {
+            "default": "Jeddah"
+        },
         "lat": 21.54238,
         "lng": 39.19797,
         "country": "SA",
@@ -117,8 +169,12 @@
         "population": 2867446
     },
     "106281": {
-        "geoid": "106281",
-        "name": "Ha'il",
+        "ids": {
+            "geonames": 106281
+        },
+        "long": {
+            "default": "Ha'il"
+        },
         "lat": 27.52188,
         "lng": 41.69073,
         "country": "SA",
@@ -126,8 +182,12 @@
         "population": 267005
     },
     "107304": {
-        "geoid": "107304",
-        "name": "Buraydah",
+        "ids": {
+            "geonames": 107304
+        },
+        "long": {
+            "default": "Buraydah"
+        },
         "lat": 26.32599,
         "lng": 43.97497,
         "country": "SA",
@@ -135,8 +195,12 @@
         "population": 391336
     },
     "107781": {
-        "geoid": "107781",
-        "name": "Az Zulfi",
+        "ids": {
+            "geonames": 107781
+        },
+        "long": {
+            "default": "Az Zulfi"
+        },
         "lat": 26.29945,
         "lng": 44.81542,
         "country": "SA",
@@ -144,8 +208,12 @@
         "population": 53144
     },
     "107797": {
-        "geoid": "107797",
-        "name": "Dhahran",
+        "ids": {
+            "geonames": 107797
+        },
+        "long": {
+            "default": "Dhahran"
+        },
         "lat": 26.28864,
         "lng": 50.11396,
         "country": "SA",
@@ -153,8 +221,12 @@
         "population": 99540
     },
     "107968": {
-        "geoid": "107968",
-        "name": "Ta’if",
+        "ids": {
+            "geonames": 107968
+        },
+        "long": {
+            "default": "Ta’if"
+        },
         "lat": 21.27028,
         "lng": 40.41583,
         "country": "SA",
@@ -162,8 +234,12 @@
         "population": 530848
     },
     "108410": {
-        "geoid": "108410",
-        "name": "Riyadh",
+        "ids": {
+            "geonames": 108410
+        },
+        "long": {
+            "default": "Riyadh"
+        },
         "lat": 24.68773,
         "lng": 46.72185,
         "country": "SA",
@@ -171,8 +247,12 @@
         "population": 4205961
     },
     "108435": {
-        "geoid": "108435",
-        "name": "Ar Rass",
+        "ids": {
+            "geonames": 108435
+        },
+        "long": {
+            "default": "Ar Rass"
+        },
         "lat": 25.86944,
         "lng": 43.4973,
         "country": "SA",
@@ -180,8 +260,12 @@
         "population": 81728
     },
     "108512": {
-        "geoid": "108512",
-        "name": "‘Ar‘ar",
+        "ids": {
+            "geonames": 108512
+        },
+        "long": {
+            "default": "‘Ar‘ar"
+        },
         "lat": 30.97531,
         "lng": 41.03808,
         "country": "SA",
@@ -189,8 +273,12 @@
         "population": 148540
     },
     "108648": {
-        "geoid": "108648",
-        "name": "Qurayyat",
+        "ids": {
+            "geonames": 108648
+        },
+        "long": {
+            "default": "Qurayyat"
+        },
         "lat": 31.33176,
         "lng": 37.34282,
         "country": "SA",
@@ -198,8 +286,12 @@
         "population": 102903
     },
     "108927": {
-        "geoid": "108927",
-        "name": "Al Qaţīf",
+        "ids": {
+            "geonames": 108927
+        },
+        "long": {
+            "default": "Al Qaţīf"
+        },
         "lat": 26.5208,
         "lng": 50.02452,
         "country": "SA",
@@ -207,8 +299,12 @@
         "population": 98259
     },
     "109101": {
-        "geoid": "109101",
-        "name": "Al Mubarraz",
+        "ids": {
+            "geonames": 109101
+        },
+        "long": {
+            "default": "Al Mubarraz"
+        },
         "lat": 25.41,
         "lng": 49.58083,
         "country": "SA",
@@ -216,8 +312,12 @@
         "population": 290802
     },
     "109131": {
-        "geoid": "109131",
-        "name": "Al Mithnab",
+        "ids": {
+            "geonames": 109131
+        },
+        "long": {
+            "default": "Al Mithnab"
+        },
         "lat": 25.86012,
         "lng": 44.22228,
         "country": "SA",
@@ -225,8 +325,12 @@
         "population": 60870
     },
     "109223": {
-        "geoid": "109223",
-        "name": "Medina",
+        "ids": {
+            "geonames": 109223
+        },
+        "long": {
+            "default": "Medina"
+        },
         "lat": 24.46861,
         "lng": 39.61417,
         "country": "SA",
@@ -234,8 +338,12 @@
         "population": 1300000
     },
     "109323": {
-        "geoid": "109323",
-        "name": "Khobar",
+        "ids": {
+            "geonames": 109323
+        },
+        "long": {
+            "default": "Khobar"
+        },
         "lat": 26.27944,
         "lng": 50.20833,
         "country": "SA",
@@ -243,8 +351,12 @@
         "population": 165799
     },
     "109380": {
-        "geoid": "109380",
-        "name": "Al Khafjī",
+        "ids": {
+            "geonames": 109380
+        },
+        "long": {
+            "default": "Al Khafjī"
+        },
         "lat": 28.43905,
         "lng": 48.49132,
         "country": "SA",
@@ -252,8 +364,12 @@
         "population": 54857
     },
     "109435": {
-        "geoid": "109435",
-        "name": "Al Jubayl",
+        "ids": {
+            "geonames": 109435
+        },
+        "long": {
+            "default": "Al Jubayl"
+        },
         "lat": 27.01122,
         "lng": 49.65825,
         "country": "SA",
@@ -261,8 +377,12 @@
         "population": 237274
     },
     "109571": {
-        "geoid": "109571",
-        "name": "Al Hufūf",
+        "ids": {
+            "geonames": 109571
+        },
+        "long": {
+            "default": "Al Hufūf"
+        },
         "lat": 25.36457,
         "lng": 49.56532,
         "country": "SA",
@@ -270,8 +390,12 @@
         "population": 293179
     },
     "109953": {
-        "geoid": "109953",
-        "name": "Al Bāḩah",
+        "ids": {
+            "geonames": 109953
+        },
+        "long": {
+            "default": "Al Bāḩah"
+        },
         "lat": 20.01288,
         "lng": 41.46767,
         "country": "SA",
@@ -279,8 +403,12 @@
         "population": 88419
     },
     "110325": {
-        "geoid": "110325",
-        "name": "Ad Dawādimī",
+        "ids": {
+            "geonames": 110325
+        },
+        "long": {
+            "default": "Ad Dawādimī"
+        },
         "lat": 24.50772,
         "lng": 44.39237,
         "country": "SA",
@@ -288,8 +416,12 @@
         "population": 54474
     },
     "110336": {
-        "geoid": "110336",
-        "name": "Dammam",
+        "ids": {
+            "geonames": 110336
+        },
+        "long": {
+            "default": "Dammam"
+        },
         "lat": 26.43442,
         "lng": 50.10326,
         "country": "SA",
@@ -297,8 +429,12 @@
         "population": 768602
     },
     "110690": {
-        "geoid": "110690",
-        "name": "Abha",
+        "ids": {
+            "geonames": 110690
+        },
+        "long": {
+            "default": "Abha"
+        },
         "lat": 18.21639,
         "lng": 42.50528,
         "country": "SA",
@@ -306,8 +442,12 @@
         "population": 210886
     },
     "410096": {
-        "geoid": "410096",
-        "name": "Ash Shafā",
+        "ids": {
+            "geonames": 410096
+        },
+        "long": {
+            "default": "Ash Shafā"
+        },
         "lat": 21.0721,
         "lng": 40.31185,
         "country": "SA",
@@ -315,8 +455,12 @@
         "population": 72190
     },
     "8394316": {
-        "geoid": "8394316",
-        "name": "Unaizah",
+        "ids": {
+            "geonames": 8394316
+        },
+        "long": {
+            "default": "Unaizah"
+        },
         "lat": 26.08427,
         "lng": 43.99355,
         "country": "SA",

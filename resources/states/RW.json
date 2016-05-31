@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 6413337
         },
-        "names": {
-            "long": "Eastern Province"
+        "long": {
+            "default": "Eastern Province"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "12",
             "geonames": 6413338
         },
-        "names": {
-            "long": "Kigali"
+        "long": {
+            "default": "Kigali"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "13",
             "geonames": 6413339
         },
-        "names": {
-            "long": "Northern Province"
+        "long": {
+            "default": "Northern Province"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "14",
             "geonames": 6413340
         },
-        "names": {
-            "long": "Western Province"
+        "long": {
+            "default": "Western Province"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 6413341
         },
-        "names": {
-            "long": "Southern Province"
+        "long": {
+            "default": "Southern Province"
         }
     }
 ]

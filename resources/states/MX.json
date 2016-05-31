@@ -4,8 +4,8 @@
             "fips": "31",
             "geonames": 3514211
         },
-        "names": {
-            "long": "Yucatán"
+        "long": {
+            "default": "Yucatán"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "30",
             "geonames": 3514780
         },
-        "names": {
-            "long": "Veracruz"
+        "long": {
+            "default": "Veracruz"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "29",
             "geonames": 3515359
         },
-        "names": {
-            "long": "Tlaxcala"
+        "long": {
+            "default": "Tlaxcala"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "28",
             "geonames": 3516391
         },
-        "names": {
-            "long": "Tamaulipas"
+        "long": {
+            "default": "Tamaulipas"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "27",
             "geonames": 3516458
         },
-        "names": {
-            "long": "Tabasco"
+        "long": {
+            "default": "Tabasco"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "23",
             "geonames": 3520887
         },
-        "names": {
-            "long": "Quintana Roo"
+        "long": {
+            "default": "Quintana Roo"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "22",
             "geonames": 3520914
         },
-        "names": {
-            "long": "Querétaro"
+        "long": {
+            "default": "Querétaro"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "21",
             "geonames": 3521082
         },
-        "names": {
-            "long": "Puebla"
+        "long": {
+            "default": "Puebla"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "20",
             "geonames": 3522509
         },
-        "names": {
-            "long": "Oaxaca"
+        "long": {
+            "default": "Oaxaca"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "19",
             "geonames": 3522542
         },
-        "names": {
-            "long": "Nuevo León"
+        "long": {
+            "default": "Nuevo León"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "17",
             "geonames": 3522961
         },
-        "names": {
-            "long": "Morelos"
+        "long": {
+            "default": "Morelos"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "15",
             "geonames": 3523272
         },
-        "names": {
-            "long": "México"
+        "long": {
+            "default": "México"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "13",
             "geonames": 3527115
         },
-        "names": {
-            "long": "Hidalgo"
+        "long": {
+            "default": "Hidalgo"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "12",
             "geonames": 3527213
         },
-        "names": {
-            "long": "Guerrero"
+        "long": {
+            "default": "Guerrero"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "09",
             "geonames": 3527646
         },
-        "names": {
-            "long": "Mexico City"
+        "long": {
+            "default": "Mexico City"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "05",
             "geonames": 3531011
         },
-        "names": {
-            "long": "Chiapas"
+        "long": {
+            "default": "Chiapas"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "04",
             "geonames": 3531730
         },
-        "names": {
-            "long": "Campeche"
+        "long": {
+            "default": "Campeche"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "32",
             "geonames": 3979840
         },
-        "names": {
-            "long": "Zacatecas"
+        "long": {
+            "default": "Zacatecas"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "26",
             "geonames": 3982846
         },
-        "names": {
-            "long": "Sonora"
+        "long": {
+            "default": "Sonora"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "25",
             "geonames": 3983035
         },
-        "names": {
-            "long": "Sinaloa"
+        "long": {
+            "default": "Sinaloa"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "24",
             "geonames": 3985605
         },
-        "names": {
-            "long": "San Luis Potosí"
+        "long": {
+            "default": "San Luis Potosí"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "18",
             "geonames": 3995012
         },
-        "names": {
-            "long": "Nayarit"
+        "long": {
+            "default": "Nayarit"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "16",
             "geonames": 3995955
         },
-        "names": {
-            "long": "Michoacán"
+        "long": {
+            "default": "Michoacán"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "14",
             "geonames": 4004156
         },
-        "names": {
-            "long": "Jalisco"
+        "long": {
+            "default": "Jalisco"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "11",
             "geonames": 4005267
         },
-        "names": {
-            "long": "Guanajuato"
+        "long": {
+            "default": "Guanajuato"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "10",
             "geonames": 4011741
         },
-        "names": {
-            "long": "Durango"
+        "long": {
+            "default": "Durango"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "08",
             "geonames": 4013513
         },
-        "names": {
-            "long": "Colima"
+        "long": {
+            "default": "Colima"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "07",
             "geonames": 4013674
         },
-        "names": {
-            "long": "Coahuila"
+        "long": {
+            "default": "Coahuila"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "06",
             "geonames": 4014336
         },
-        "names": {
-            "long": "Chihuahua"
+        "long": {
+            "default": "Chihuahua"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "03",
             "geonames": 4017698
         },
-        "names": {
-            "long": "Baja California Sur"
+        "long": {
+            "default": "Baja California Sur"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "02",
             "geonames": 4017700
         },
-        "names": {
-            "long": "Baja California"
+        "long": {
+            "default": "Baja California"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "01",
             "geonames": 4019231
         },
-        "names": {
-            "long": "Aguascalientes"
+        "long": {
+            "default": "Aguascalientes"
         }
     }
 ]

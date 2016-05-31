@@ -1,7 +1,11 @@
 {
     "715126": {
-        "geoid": "715126",
-        "name": "Szolnok",
+        "ids": {
+            "geonames": 715126
+        },
+        "long": {
+            "default": "Szolnok"
+        },
         "lat": 47.18333,
         "lng": 20.2,
         "country": "HU",
@@ -9,8 +13,12 @@
         "population": 75474
     },
     "715429": {
-        "geoid": "715429",
-        "name": "Szeged",
+        "ids": {
+            "geonames": 715429
+        },
+        "long": {
+            "default": "Szeged"
+        },
         "lat": 46.253,
         "lng": 20.14824,
         "country": "HU",
@@ -18,8 +26,12 @@
         "population": 164883
     },
     "716935": {
-        "geoid": "716935",
-        "name": "Nyíregyháza",
+        "ids": {
+            "geonames": 716935
+        },
+        "long": {
+            "default": "Nyíregyháza"
+        },
         "lat": 47.95539,
         "lng": 21.71671,
         "country": "HU",
@@ -27,8 +39,12 @@
         "population": 116298
     },
     "717582": {
-        "geoid": "717582",
-        "name": "Miskolc",
+        "ids": {
+            "geonames": 717582
+        },
+        "long": {
+            "default": "Miskolc"
+        },
         "lat": 48.1,
         "lng": 20.78333,
         "country": "HU",
@@ -36,8 +52,12 @@
         "population": 172637
     },
     "721239": {
-        "geoid": "721239",
-        "name": "Eger",
+        "ids": {
+            "geonames": 721239
+        },
+        "long": {
+            "default": "Eger"
+        },
         "lat": 47.90265,
         "lng": 20.37329,
         "country": "HU",
@@ -45,8 +65,12 @@
         "population": 56647
     },
     "721472": {
-        "geoid": "721472",
-        "name": "Debrecen",
+        "ids": {
+            "geonames": 721472
+        },
+        "long": {
+            "default": "Debrecen"
+        },
         "lat": 47.53333,
         "lng": 21.63333,
         "country": "HU",
@@ -54,8 +78,12 @@
         "population": 204124
     },
     "722437": {
-        "geoid": "722437",
-        "name": "Békéscsaba",
+        "ids": {
+            "geonames": 722437
+        },
+        "long": {
+            "default": "Békéscsaba"
+        },
         "lat": 46.68333,
         "lng": 21.1,
         "country": "HU",
@@ -63,8 +91,12 @@
         "population": 65206
     },
     "3042638": {
-        "geoid": "3042638",
-        "name": "Zalaegerszeg",
+        "ids": {
+            "geonames": 3042638
+        },
+        "long": {
+            "default": "Zalaegerszeg"
+        },
         "lat": 46.84,
         "lng": 16.84389,
         "country": "HU",
@@ -72,8 +104,12 @@
         "population": 61898
     },
     "3042929": {
-        "geoid": "3042929",
-        "name": "Veszprém",
+        "ids": {
+            "geonames": 3042929
+        },
+        "long": {
+            "default": "Veszprém"
+        },
         "lat": 47.09327,
         "lng": 17.91149,
         "country": "HU",
@@ -81,8 +117,12 @@
         "population": 62023
     },
     "3044082": {
-        "geoid": "3044082",
-        "name": "Tatabánya",
+        "ids": {
+            "geonames": 3044082
+        },
+        "long": {
+            "default": "Tatabánya"
+        },
         "lat": 47.58494,
         "lng": 18.39325,
         "country": "HU",
@@ -90,8 +130,12 @@
         "population": 70541
     },
     "3044310": {
-        "geoid": "3044310",
-        "name": "Szombathely",
+        "ids": {
+            "geonames": 3044310
+        },
+        "long": {
+            "default": "Szombathely"
+        },
         "lat": 47.23088,
         "lng": 16.62155,
         "country": "HU",
@@ -99,8 +143,12 @@
         "population": 79534
     },
     "3044774": {
-        "geoid": "3044774",
-        "name": "Székesfehérvár",
+        "ids": {
+            "geonames": 3044774
+        },
+        "long": {
+            "default": "Székesfehérvár"
+        },
         "lat": 47.18995,
         "lng": 18.41034,
         "country": "HU",
@@ -108,8 +156,12 @@
         "population": 101600
     },
     "3045190": {
-        "geoid": "3045190",
-        "name": "Sopron",
+        "ids": {
+            "geonames": 3045190
+        },
+        "long": {
+            "default": "Sopron"
+        },
         "lat": 47.68501,
         "lng": 16.59049,
         "country": "HU",
@@ -117,8 +169,12 @@
         "population": 57210
     },
     "3046526": {
-        "geoid": "3046526",
-        "name": "Pécs",
+        "ids": {
+            "geonames": 3046526
+        },
+        "long": {
+            "default": "Pécs"
+        },
         "lat": 46.08333,
         "lng": 18.23333,
         "country": "HU",
@@ -126,8 +182,12 @@
         "population": 156649
     },
     "3046619": {
-        "geoid": "3046619",
-        "name": "Parádsasvár",
+        "ids": {
+            "geonames": 3046619
+        },
+        "long": {
+            "default": "Parádsasvár"
+        },
         "lat": 47.9126,
         "lng": 19.97709,
         "country": "HU",
@@ -135,8 +195,12 @@
         "population": 76000
     },
     "3047679": {
-        "geoid": "3047679",
-        "name": "Nagykanizsa",
+        "ids": {
+            "geonames": 3047679
+        },
+        "long": {
+            "default": "Nagykanizsa"
+        },
         "lat": 46.45347,
         "lng": 16.99104,
         "country": "HU",
@@ -144,8 +208,12 @@
         "population": 50823
     },
     "3050434": {
-        "geoid": "3050434",
-        "name": "Kecskemét",
+        "ids": {
+            "geonames": 3050434
+        },
+        "long": {
+            "default": "Kecskemét"
+        },
         "lat": 46.90618,
         "lng": 19.69128,
         "country": "HU",
@@ -153,8 +221,12 @@
         "population": 109847
     },
     "3050616": {
-        "geoid": "3050616",
-        "name": "Kaposvár",
+        "ids": {
+            "geonames": 3050616
+        },
+        "long": {
+            "default": "Kaposvár"
+        },
         "lat": 46.36667,
         "lng": 17.8,
         "country": "HU",
@@ -162,8 +234,12 @@
         "population": 67746
     },
     "3052009": {
-        "geoid": "3052009",
-        "name": "Győr",
+        "ids": {
+            "geonames": 3052009
+        },
+        "long": {
+            "default": "Győr"
+        },
         "lat": 47.68333,
         "lng": 17.63512,
         "country": "HU",
@@ -171,8 +247,12 @@
         "population": 128265
     },
     "3053281": {
-        "geoid": "3053281",
-        "name": "Érd",
+        "ids": {
+            "geonames": 3053281
+        },
+        "long": {
+            "default": "Érd"
+        },
         "lat": 47.39489,
         "lng": 18.91361,
         "country": "HU",
@@ -180,8 +260,12 @@
         "population": 62408
     },
     "3053438": {
-        "geoid": "3053438",
-        "name": "Dunaújváros",
+        "ids": {
+            "geonames": 3053438
+        },
+        "long": {
+            "default": "Dunaújváros"
+        },
         "lat": 46.96479,
         "lng": 18.93974,
         "country": "HU",
@@ -189,8 +273,12 @@
         "population": 50084
     },
     "3054643": {
-        "geoid": "3054643",
-        "name": "Budapest",
+        "ids": {
+            "geonames": 3054643
+        },
+        "long": {
+            "default": "Budapest"
+        },
         "lat": 47.49801,
         "lng": 19.03991,
         "country": "HU",
@@ -198,8 +286,12 @@
         "population": 1741041
     },
     "7284823": {
-        "geoid": "7284823",
-        "name": "Budapest XII. kerület",
+        "ids": {
+            "geonames": 7284823
+        },
+        "long": {
+            "default": "Budapest XII. kerület"
+        },
         "lat": 47.49192,
         "lng": 19.01493,
         "country": "HU",
@@ -207,8 +299,12 @@
         "population": 56544
     },
     "7284824": {
-        "geoid": "7284824",
-        "name": "Budapest XI. kerület",
+        "ids": {
+            "geonames": 7284824
+        },
+        "long": {
+            "default": "Budapest XI. kerület"
+        },
         "lat": 47.47603,
         "lng": 19.03605,
         "country": "HU",
@@ -216,8 +312,12 @@
         "population": 139049
     },
     "7284825": {
-        "geoid": "7284825",
-        "name": "Budapest IX. kerület",
+        "ids": {
+            "geonames": 7284825
+        },
+        "long": {
+            "default": "Budapest IX. kerület"
+        },
         "lat": 47.48299,
         "lng": 19.06591,
         "country": "HU",
@@ -225,8 +325,12 @@
         "population": 61576
     },
     "7284826": {
-        "geoid": "7284826",
-        "name": "Budapest VIII. kerület",
+        "ids": {
+            "geonames": 7284826
+        },
+        "long": {
+            "default": "Budapest VIII. kerület"
+        },
         "lat": 47.48919,
         "lng": 19.07012,
         "country": "HU",
@@ -234,8 +338,12 @@
         "population": 82222
     },
     "7284827": {
-        "geoid": "7284827",
-        "name": "Budapest VII. kerület",
+        "ids": {
+            "geonames": 7284827
+        },
+        "long": {
+            "default": "Budapest VII. kerület"
+        },
         "lat": 47.50045,
         "lng": 19.06875,
         "country": "HU",
@@ -243,8 +351,12 @@
         "population": 62530
     },
     "7284829": {
-        "geoid": "7284829",
-        "name": "Budapest XIV. kerület",
+        "ids": {
+            "geonames": 7284829
+        },
+        "long": {
+            "default": "Budapest XIV. kerület"
+        },
         "lat": 47.5183,
         "lng": 19.10789,
         "country": "HU",
@@ -252,8 +364,12 @@
         "population": 120148
     },
     "7284830": {
-        "geoid": "7284830",
-        "name": "Budapest XIII. kerület",
+        "ids": {
+            "geonames": 7284830
+        },
+        "long": {
+            "default": "Budapest XIII. kerület"
+        },
         "lat": 47.52978,
         "lng": 19.08068,
         "country": "HU",
@@ -261,8 +377,12 @@
         "population": 113531
     },
     "7284831": {
-        "geoid": "7284831",
-        "name": "Budapest IV. kerület",
+        "ids": {
+            "geonames": 7284831
+        },
+        "long": {
+            "default": "Budapest IV. kerület"
+        },
         "lat": 47.56182,
         "lng": 19.08909,
         "country": "HU",
@@ -270,8 +390,12 @@
         "population": 98374
     },
     "7284832": {
-        "geoid": "7284832",
-        "name": "Budapest XV. kerület",
+        "ids": {
+            "geonames": 7284832
+        },
+        "long": {
+            "default": "Budapest XV. kerület"
+        },
         "lat": 47.56263,
         "lng": 19.11681,
         "country": "HU",
@@ -279,8 +403,12 @@
         "population": 80218
     },
     "7284833": {
-        "geoid": "7284833",
-        "name": "Budapest XVI. kerület",
+        "ids": {
+            "geonames": 7284833
+        },
+        "long": {
+            "default": "Budapest XVI. kerület"
+        },
         "lat": 47.51482,
         "lng": 19.17028,
         "country": "HU",
@@ -288,8 +416,12 @@
         "population": 68484
     },
     "7284834": {
-        "geoid": "7284834",
-        "name": "Budapest X. kerület",
+        "ids": {
+            "geonames": 7284834
+        },
+        "long": {
+            "default": "Budapest X. kerület"
+        },
         "lat": 47.4791,
         "lng": 19.15835,
         "country": "HU",
@@ -297,8 +429,12 @@
         "population": 79270
     },
     "7284835": {
-        "geoid": "7284835",
-        "name": "Budapest XIX. kerület",
+        "ids": {
+            "geonames": 7284835
+        },
+        "long": {
+            "default": "Budapest XIX. kerület"
+        },
         "lat": 47.45293,
         "lng": 19.14943,
         "country": "HU",
@@ -306,8 +442,12 @@
         "population": 61610
     },
     "7284836": {
-        "geoid": "7284836",
-        "name": "Budapest XVIII. kerület",
+        "ids": {
+            "geonames": 7284836
+        },
+        "long": {
+            "default": "Budapest XVIII. kerület"
+        },
         "lat": 47.44417,
         "lng": 19.17595,
         "country": "HU",
@@ -315,8 +455,12 @@
         "population": 93225
     },
     "7284838": {
-        "geoid": "7284838",
-        "name": "Budapest XXII. kerület",
+        "ids": {
+            "geonames": 7284838
+        },
+        "long": {
+            "default": "Budapest XXII. kerület"
+        },
         "lat": 47.42698,
         "lng": 19.04016,
         "country": "HU",
@@ -324,8 +468,12 @@
         "population": 50499
     },
     "7284839": {
-        "geoid": "7284839",
-        "name": "Budapest XXI. kerület",
+        "ids": {
+            "geonames": 7284839
+        },
+        "long": {
+            "default": "Budapest XXI. kerület"
+        },
         "lat": 47.43047,
         "lng": 19.07098,
         "country": "HU",
@@ -333,8 +481,12 @@
         "population": 76339
     },
     "7284840": {
-        "geoid": "7284840",
-        "name": "Budapest XX. kerület",
+        "ids": {
+            "geonames": 7284840
+        },
+        "long": {
+            "default": "Budapest XX. kerület"
+        },
         "lat": 47.43674,
         "lng": 19.10093,
         "country": "HU",
@@ -342,8 +494,12 @@
         "population": 63371
     },
     "7284841": {
-        "geoid": "7284841",
-        "name": "Budapest XVII. kerület",
+        "ids": {
+            "geonames": 7284841
+        },
+        "long": {
+            "default": "Budapest XVII. kerület"
+        },
         "lat": 47.47997,
         "lng": 19.25388,
         "country": "HU",
@@ -351,8 +507,12 @@
         "population": 78250
     },
     "7284842": {
-        "geoid": "7284842",
-        "name": "Budapest III. kerület",
+        "ids": {
+            "geonames": 7284842
+        },
+        "long": {
+            "default": "Budapest III. kerület"
+        },
         "lat": 47.54157,
         "lng": 19.04501,
         "country": "HU",
@@ -360,8 +520,12 @@
         "population": 123723
     },
     "7284843": {
-        "geoid": "7284843",
-        "name": "Budapest II. kerület",
+        "ids": {
+            "geonames": 7284843
+        },
+        "long": {
+            "default": "Budapest II. kerület"
+        },
         "lat": 47.51984,
         "lng": 19.02218,
         "country": "HU",

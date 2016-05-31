@@ -1,7 +1,11 @@
 {
     "3901178": {
-        "geoid": "3901178",
-        "name": "Yacuiba",
+        "ids": {
+            "geonames": 3901178
+        },
+        "long": {
+            "default": "Yacuiba"
+        },
         "lat": -22.01643,
         "lng": -63.67753,
         "country": "BO",
@@ -9,8 +13,12 @@
         "population": 82803
     },
     "3902377": {
-        "geoid": "3902377",
-        "name": "Trinidad",
+        "ids": {
+            "geonames": 3902377
+        },
+        "long": {
+            "default": "Trinidad"
+        },
         "lat": -14.83333,
         "lng": -64.9,
         "country": "BO",
@@ -18,8 +26,12 @@
         "population": 84259
     },
     "3903320": {
-        "geoid": "3903320",
-        "name": "Tarija",
+        "ids": {
+            "geonames": 3903320
+        },
+        "long": {
+            "default": "Tarija"
+        },
         "lat": -21.53549,
         "lng": -64.72956,
         "country": "BO",
@@ -27,8 +39,12 @@
         "population": 159269
     },
     "3903987": {
-        "geoid": "3903987",
-        "name": "Sucre",
+        "ids": {
+            "geonames": 3903987
+        },
+        "long": {
+            "default": "Sucre"
+        },
         "lat": -19.03332,
         "lng": -65.26274,
         "country": "BO",
@@ -36,8 +52,12 @@
         "population": 224838
     },
     "3904906": {
-        "geoid": "3904906",
-        "name": "Santa Cruz de la Sierra",
+        "ids": {
+            "geonames": 3904906
+        },
+        "long": {
+            "default": "Santa Cruz de la Sierra"
+        },
         "lat": -17.78629,
         "lng": -63.18117,
         "country": "BO",
@@ -45,8 +65,12 @@
         "population": 1364389
     },
     "3906466": {
-        "geoid": "3906466",
-        "name": "Riberalta",
+        "ids": {
+            "geonames": 3906466
+        },
+        "long": {
+            "default": "Riberalta"
+        },
         "lat": -11.00654,
         "lng": -66.06312,
         "country": "BO",
@@ -54,8 +78,12 @@
         "population": 74014
     },
     "3907584": {
-        "geoid": "3907584",
-        "name": "Potosí",
+        "ids": {
+            "geonames": 3907584
+        },
+        "long": {
+            "default": "Potosí"
+        },
         "lat": -19.58361,
         "lng": -65.75306,
         "country": "BO",
@@ -63,8 +91,12 @@
         "population": 141251
     },
     "3909234": {
-        "geoid": "3909234",
-        "name": "Oruro",
+        "ids": {
+            "geonames": 3909234
+        },
+        "long": {
+            "default": "Oruro"
+        },
         "lat": -17.98333,
         "lng": -67.15,
         "country": "BO",
@@ -72,8 +104,12 @@
         "population": 208684
     },
     "3910027": {
-        "geoid": "3910027",
-        "name": "Montero",
+        "ids": {
+            "geonames": 3910027
+        },
+        "long": {
+            "default": "Montero"
+        },
         "lat": -17.33866,
         "lng": -63.2505,
         "country": "BO",
@@ -81,8 +117,12 @@
         "population": 88616
     },
     "3911925": {
-        "geoid": "3911925",
-        "name": "La Paz",
+        "ids": {
+            "geonames": 3911925
+        },
+        "long": {
+            "default": "La Paz"
+        },
         "lat": -16.5,
         "lng": -68.15,
         "country": "BO",
@@ -90,8 +130,12 @@
         "population": 812799
     },
     "3919968": {
-        "geoid": "3919968",
-        "name": "Cochabamba",
+        "ids": {
+            "geonames": 3919968
+        },
+        "long": {
+            "default": "Cochabamba"
+        },
         "lat": -17.3895,
         "lng": -66.1568,
         "country": "BO",

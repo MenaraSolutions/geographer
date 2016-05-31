@@ -4,8 +4,8 @@
             "iso_3166": "17",
             "geonames": 786233
         },
-        "names": {
-            "long": "Opština Rožaje"
+        "long": {
+            "default": "Opština Rožaje"
         }
     },
     {
@@ -13,8 +13,8 @@
             "iso_3166": "21",
             "geonames": 3186995
         },
-        "names": {
-            "long": "Opština Žabljak"
+        "long": {
+            "default": "Opština Žabljak"
         }
     },
     {
@@ -22,8 +22,8 @@
             "iso_3166": "20",
             "geonames": 3188514
         },
-        "names": {
-            "long": "Ulcinj"
+        "long": {
+            "default": "Ulcinj"
         }
     },
     {
@@ -31,8 +31,8 @@
             "iso_3166": "19",
             "geonames": 3189071
         },
-        "names": {
-            "long": "Tivat"
+        "long": {
+            "default": "Tivat"
         }
     },
     {
@@ -40,8 +40,8 @@
             "iso_3166": "16",
             "geonames": 3189077
         },
-        "names": {
-            "long": "Podgorica"
+        "long": {
+            "default": "Podgorica"
         }
     },
     {
@@ -49,8 +49,8 @@
             "iso_3166": "18",
             "geonames": 3191221
         },
-        "names": {
-            "long": "Opština Šavnik"
+        "long": {
+            "default": "Opština Šavnik"
         }
     },
     {
@@ -58,8 +58,8 @@
             "iso_3166": "15",
             "geonames": 3193129
         },
-        "names": {
-            "long": "Opština Plužine"
+        "long": {
+            "default": "Opština Plužine"
         }
     },
     {
@@ -67,8 +67,8 @@
             "iso_3166": "14",
             "geonames": 3193160
         },
-        "names": {
-            "long": "Pljevlja"
+        "long": {
+            "default": "Pljevlja"
         }
     },
     {
@@ -76,8 +76,8 @@
             "iso_3166": "13",
             "geonames": 3193227
         },
-        "names": {
-            "long": "Opština Plav"
+        "long": {
+            "default": "Opština Plav"
         }
     },
     {
@@ -85,8 +85,8 @@
             "iso_3166": "12",
             "geonames": 3194493
         },
-        "names": {
-            "long": "Opština Nikšić"
+        "long": {
+            "default": "Opština Nikšić"
         }
     },
     {
@@ -94,8 +94,8 @@
             "iso_3166": "11",
             "geonames": 3194925
         },
-        "names": {
-            "long": "Mojkovac"
+        "long": {
+            "default": "Mojkovac"
         }
     },
     {
@@ -103,8 +103,8 @@
             "iso_3166": "10",
             "geonames": 3197537
         },
-        "names": {
-            "long": "Kotor"
+        "long": {
+            "default": "Kotor"
         }
     },
     {
@@ -112,8 +112,8 @@
             "iso_3166": "09",
             "geonames": 3197895
         },
-        "names": {
-            "long": "Opština Kolašin"
+        "long": {
+            "default": "Opština Kolašin"
         }
     },
     {
@@ -121,8 +121,8 @@
             "iso_3166": "03",
             "geonames": 3199070
         },
-        "names": {
-            "long": "Berane"
+        "long": {
+            "default": "Berane"
         }
     },
     {
@@ -130,8 +130,8 @@
             "iso_3166": "08",
             "geonames": 3199393
         },
-        "names": {
-            "long": "Herceg Novi"
+        "long": {
+            "default": "Herceg Novi"
         }
     },
     {
@@ -139,8 +139,8 @@
             "iso_3166": "07",
             "geonames": 3202193
         },
-        "names": {
-            "long": "Danilovgrad"
+        "long": {
+            "default": "Danilovgrad"
         }
     },
     {
@@ -148,8 +148,8 @@
             "iso_3166": "06",
             "geonames": 3202640
         },
-        "names": {
-            "long": "Cetinje"
+        "long": {
+            "default": "Cetinje"
         }
     },
     {
@@ -157,8 +157,8 @@
             "iso_3166": "05",
             "geonames": 3203104
         },
-        "names": {
-            "long": "Budva"
+        "long": {
+            "default": "Budva"
         }
     },
     {
@@ -166,8 +166,8 @@
             "iso_3166": "04",
             "geonames": 3204173
         },
-        "names": {
-            "long": "Bijelo Polje"
+        "long": {
+            "default": "Bijelo Polje"
         }
     },
     {
@@ -175,8 +175,8 @@
             "iso_3166": "02",
             "geonames": 3204508
         },
-        "names": {
-            "long": "Bar"
+        "long": {
+            "default": "Bar"
         }
     },
     {
@@ -184,8 +184,8 @@
             "iso_3166": "01",
             "geonames": 3343959
         },
-        "names": {
-            "long": "Andrijevica"
+        "long": {
+            "default": "Andrijevica"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "22",
             "geonames": 3390290
         },
-        "names": {
-            "long": "Rio Grande do Norte"
+        "long": {
+            "default": "Rio Grande do Norte"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "20",
             "geonames": 3392213
         },
-        "names": {
-            "long": "Piauí"
+        "long": {
+            "default": "Piauí"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "30",
             "geonames": 3392268
         },
-        "names": {
-            "long": "Pernambuco"
+        "long": {
+            "default": "Pernambuco"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "17",
             "geonames": 3393098
         },
-        "names": {
-            "long": "Paraíba"
+        "long": {
+            "default": "Paraíba"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "16",
             "geonames": 3393129
         },
-        "names": {
-            "long": "Pará"
+        "long": {
+            "default": "Pará"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 3395443
         },
-        "names": {
-            "long": "Maranhão"
+        "long": {
+            "default": "Maranhão"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "06",
             "geonames": 3402362
         },
-        "names": {
-            "long": "Ceará"
+        "long": {
+            "default": "Ceará"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "03",
             "geonames": 3407762
         },
-        "names": {
-            "long": "Amapá"
+        "long": {
+            "default": "Amapá"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "02",
             "geonames": 3408096
         },
-        "names": {
-            "long": "Alagoas"
+        "long": {
+            "default": "Alagoas"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "28",
             "geonames": 3447799
         },
-        "names": {
-            "long": "Sergipe"
+        "long": {
+            "default": "Sergipe"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "27",
             "geonames": 3448433
         },
-        "names": {
-            "long": "São Paulo"
+        "long": {
+            "default": "São Paulo"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "26",
             "geonames": 3450387
         },
-        "names": {
-            "long": "Santa Catarina"
+        "long": {
+            "default": "Santa Catarina"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "23",
             "geonames": 3451133
         },
-        "names": {
-            "long": "Rio Grande do Sul"
+        "long": {
+            "default": "Rio Grande do Sul"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "21",
             "geonames": 3451189
         },
-        "names": {
-            "long": "Rio de Janeiro"
+        "long": {
+            "default": "Rio de Janeiro"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "18",
             "geonames": 3455077
         },
-        "names": {
-            "long": "Paraná"
+        "long": {
+            "default": "Paraná"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "15",
             "geonames": 3457153
         },
-        "names": {
-            "long": "Minas Gerais"
+        "long": {
+            "default": "Minas Gerais"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "11",
             "geonames": 3457415
         },
-        "names": {
-            "long": "Mato Grosso do Sul"
+        "long": {
+            "default": "Mato Grosso do Sul"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "14",
             "geonames": 3457419
         },
-        "names": {
-            "long": "Mato Grosso"
+        "long": {
+            "default": "Mato Grosso"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "29",
             "geonames": 3462372
         },
-        "names": {
-            "long": "Goiás"
+        "long": {
+            "default": "Goiás"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "07",
             "geonames": 3463504
         },
-        "names": {
-            "long": "Federal District"
+        "long": {
+            "default": "Federal District"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "08",
             "geonames": 3463930
         },
-        "names": {
-            "long": "Espírito Santo"
+        "long": {
+            "default": "Espírito Santo"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "05",
             "geonames": 3471168
         },
-        "names": {
-            "long": "Bahia"
+        "long": {
+            "default": "Bahia"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "31",
             "geonames": 3474575
         },
-        "names": {
-            "long": "Tocantins"
+        "long": {
+            "default": "Tocantins"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "25",
             "geonames": 3662560
         },
-        "names": {
-            "long": "Roraima"
+        "long": {
+            "default": "Roraima"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "04",
             "geonames": 3665361
         },
-        "names": {
-            "long": "Amazonas"
+        "long": {
+            "default": "Amazonas"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "01",
             "geonames": 3665474
         },
-        "names": {
-            "long": "Acre"
+        "long": {
+            "default": "Acre"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "24",
             "geonames": 3924825
         },
-        "names": {
-            "long": "Rondônia"
+        "long": {
+            "default": "Rondônia"
         }
     }
 ]

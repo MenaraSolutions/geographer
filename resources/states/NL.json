@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 2743698
         },
-        "names": {
-            "long": "South Holland"
+        "long": {
+            "default": "South Holland"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 2744011
         },
-        "names": {
-            "long": "Zeeland"
+        "long": {
+            "default": "Zeeland"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "09",
             "geonames": 2745909
         },
-        "names": {
-            "long": "Utrecht"
+        "long": {
+            "default": "Utrecht"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "15",
             "geonames": 2748838
         },
-        "names": {
-            "long": "Overijssel"
+        "long": {
+            "default": "Overijssel"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 2749879
         },
-        "names": {
-            "long": "North Holland"
+        "long": {
+            "default": "North Holland"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 2749990
         },
-        "names": {
-            "long": "North Brabant"
+        "long": {
+            "default": "North Brabant"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 2751596
         },
-        "names": {
-            "long": "Limburg"
+        "long": {
+            "default": "Limburg"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 2755249
         },
-        "names": {
-            "long": "Groningen"
+        "long": {
+            "default": "Groningen"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 2755634
         },
-        "names": {
-            "long": "Gelderland"
+        "long": {
+            "default": "Gelderland"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "02",
             "geonames": 2755812
         },
-        "names": {
-            "long": "Friesland"
+        "long": {
+            "default": "Friesland"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "01",
             "geonames": 2756631
         },
-        "names": {
-            "long": "Drenthe"
+        "long": {
+            "default": "Drenthe"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "16",
             "geonames": 3319179
         },
-        "names": {
-            "long": "Flevoland"
+        "long": {
+            "default": "Flevoland"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "281184": {
-        "geoid": "281184",
-        "name": "Jerusalem",
+        "ids": {
+            "geonames": 281184
+        },
+        "long": {
+            "default": "Jerusalem"
+        },
         "lat": 31.76904,
         "lng": 35.21633,
         "country": "IL",
@@ -9,8 +13,12 @@
         "population": 801000
     },
     "293253": {
-        "geoid": "293253",
-        "name": "Yafo",
+        "ids": {
+            "geonames": 293253
+        },
+        "long": {
+            "default": "Yafo"
+        },
         "lat": 32.05043,
         "lng": 34.75224,
         "country": "IL",
@@ -18,8 +26,12 @@
         "population": 100000
     },
     "293397": {
-        "geoid": "293397",
-        "name": "Tel Aviv",
+        "ids": {
+            "geonames": 293397
+        },
+        "long": {
+            "default": "Tel Aviv"
+        },
         "lat": 32.08088,
         "lng": 34.78057,
         "country": "IL",
@@ -27,8 +39,12 @@
         "population": 250000
     },
     "293703": {
-        "geoid": "293703",
-        "name": "Rishon LeẔiyyon",
+        "ids": {
+            "geonames": 293703
+        },
+        "long": {
+            "default": "Rishon LeẔiyyon"
+        },
         "lat": 31.97102,
         "lng": 34.78939,
         "country": "IL",
@@ -36,8 +52,12 @@
         "population": 220492
     },
     "293768": {
-        "geoid": "293768",
-        "name": "Ramla",
+        "ids": {
+            "geonames": 293768
+        },
+        "long": {
+            "default": "Ramla"
+        },
         "lat": 31.92923,
         "lng": 34.86563,
         "country": "IL",
@@ -45,8 +65,12 @@
         "population": 63860
     },
     "293788": {
-        "geoid": "293788",
-        "name": "Ramat Gan",
+        "ids": {
+            "geonames": 293788
+        },
+        "long": {
+            "default": "Ramat Gan"
+        },
         "lat": 32.08227,
         "lng": 34.81065,
         "country": "IL",
@@ -54,8 +78,12 @@
         "population": 128095
     },
     "293807": {
-        "geoid": "293807",
-        "name": "Ra'anana",
+        "ids": {
+            "geonames": 293807
+        },
+        "long": {
+            "default": "Ra'anana"
+        },
         "lat": 32.1836,
         "lng": 34.87386,
         "country": "IL",
@@ -63,8 +91,12 @@
         "population": 80000
     },
     "293918": {
-        "geoid": "293918",
-        "name": "Petaẖ Tiqwa",
+        "ids": {
+            "geonames": 293918
+        },
+        "long": {
+            "default": "Petaẖ Tiqwa"
+        },
         "lat": 32.08707,
         "lng": 34.88747,
         "country": "IL",
@@ -72,8 +104,12 @@
         "population": 200000
     },
     "294071": {
-        "geoid": "294071",
-        "name": "Netanya",
+        "ids": {
+            "geonames": 294071
+        },
+        "long": {
+            "default": "Netanya"
+        },
         "lat": 32.33291,
         "lng": 34.85992,
         "country": "IL",
@@ -81,8 +117,12 @@
         "population": 171676
     },
     "294098": {
-        "geoid": "294098",
-        "name": "Nazareth",
+        "ids": {
+            "geonames": 294098
+        },
+        "long": {
+            "default": "Nazareth"
+        },
         "lat": 32.69925,
         "lng": 35.30483,
         "country": "IL",
@@ -90,8 +130,12 @@
         "population": 64800
     },
     "294117": {
-        "geoid": "294117",
-        "name": "Nahariya",
+        "ids": {
+            "geonames": 294117
+        },
+        "long": {
+            "default": "Nahariya"
+        },
         "lat": 33.01135,
         "lng": 35.09467,
         "country": "IL",
@@ -99,8 +143,12 @@
         "population": 51200
     },
     "294421": {
-        "geoid": "294421",
-        "name": "Lod",
+        "ids": {
+            "geonames": 294421
+        },
+        "long": {
+            "default": "Lod"
+        },
         "lat": 31.9467,
         "lng": 34.8903,
         "country": "IL",
@@ -108,8 +156,12 @@
         "population": 66589
     },
     "294514": {
-        "geoid": "294514",
-        "name": "Kfar Saba",
+        "ids": {
+            "geonames": 294514
+        },
+        "long": {
+            "default": "Kfar Saba"
+        },
         "lat": 32.175,
         "lng": 34.90694,
         "country": "IL",
@@ -117,8 +169,12 @@
         "population": 80773
     },
     "294751": {
-        "geoid": "294751",
-        "name": "H̱olon",
+        "ids": {
+            "geonames": 294751
+        },
+        "long": {
+            "default": "H̱olon"
+        },
         "lat": 32.01034,
         "lng": 34.77918,
         "country": "IL",
@@ -126,8 +182,12 @@
         "population": 165787
     },
     "294778": {
-        "geoid": "294778",
-        "name": "Herzliyya",
+        "ids": {
+            "geonames": 294778
+        },
+        "long": {
+            "default": "Herzliyya"
+        },
         "lat": 32.16627,
         "lng": 34.82536,
         "country": "IL",
@@ -135,8 +195,12 @@
         "population": 83600
     },
     "294801": {
-        "geoid": "294801",
-        "name": "Haifa",
+        "ids": {
+            "geonames": 294801
+        },
+        "long": {
+            "default": "Haifa"
+        },
         "lat": 32.81841,
         "lng": 34.9885,
         "country": "IL",
@@ -144,8 +208,12 @@
         "population": 267300
     },
     "294946": {
-        "geoid": "294946",
-        "name": "H̱adera",
+        "ids": {
+            "geonames": 294946
+        },
+        "long": {
+            "default": "H̱adera"
+        },
         "lat": 32.44192,
         "lng": 34.9039,
         "country": "IL",
@@ -153,8 +221,12 @@
         "population": 75854
     },
     "295432": {
-        "geoid": "295432",
-        "name": "Bet Shemesh",
+        "ids": {
+            "geonames": 295432
+        },
+        "long": {
+            "default": "Bet Shemesh"
+        },
         "lat": 31.73072,
         "lng": 34.99293,
         "country": "IL",
@@ -162,8 +234,12 @@
         "population": 67100
     },
     "295514": {
-        "geoid": "295514",
-        "name": "Bené Beraq",
+        "ids": {
+            "geonames": 295514
+        },
+        "long": {
+            "default": "Bené Beraq"
+        },
         "lat": 32.08074,
         "lng": 34.8338,
         "country": "IL",
@@ -171,8 +247,12 @@
         "population": 154400
     },
     "295530": {
-        "geoid": "295530",
-        "name": "Beersheba",
+        "ids": {
+            "geonames": 295530
+        },
+        "long": {
+            "default": "Beersheba"
+        },
         "lat": 31.25181,
         "lng": 34.7913,
         "country": "IL",
@@ -180,8 +260,12 @@
         "population": 186600
     },
     "295548": {
-        "geoid": "295548",
-        "name": "Bat Yam",
+        "ids": {
+            "geonames": 295548
+        },
+        "long": {
+            "default": "Bat Yam"
+        },
         "lat": 32.02379,
         "lng": 34.75185,
         "country": "IL",
@@ -189,8 +273,12 @@
         "population": 128979
     },
     "295620": {
-        "geoid": "295620",
-        "name": "Ashqelon",
+        "ids": {
+            "geonames": 295620
+        },
+        "long": {
+            "default": "Ashqelon"
+        },
         "lat": 31.66926,
         "lng": 34.57149,
         "country": "IL",
@@ -198,8 +286,12 @@
         "population": 105995
     },
     "295629": {
-        "geoid": "295629",
-        "name": "Ashdod",
+        "ids": {
+            "geonames": 295629
+        },
+        "long": {
+            "default": "Ashdod"
+        },
         "lat": 31.79213,
         "lng": 34.64966,
         "country": "IL",
@@ -207,8 +299,12 @@
         "population": 224656
     },
     "6693679": {
-        "geoid": "6693679",
-        "name": "Modiin",
+        "ids": {
+            "geonames": 6693679
+        },
+        "long": {
+            "default": "Modiin"
+        },
         "lat": 31.89825,
         "lng": 35.01051,
         "country": "IL",
@@ -216,8 +312,12 @@
         "population": 76466
     },
     "7498240": {
-        "geoid": "7498240",
-        "name": "West Jerusalem",
+        "ids": {
+            "geonames": 7498240
+        },
+        "long": {
+            "default": "West Jerusalem"
+        },
         "lat": 31.78199,
         "lng": 35.21961,
         "country": "IL",

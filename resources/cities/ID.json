@@ -1,7 +1,11 @@
 {
     "1213500": {
-        "geoid": "1213500",
-        "name": "Tebingtinggi",
+        "ids": {
+            "geonames": 1213500
+        },
+        "long": {
+            "default": "Tebingtinggi"
+        },
         "lat": 3.3285,
         "lng": 99.1625,
         "country": "ID",
@@ -9,8 +13,12 @@
         "population": 117530
     },
     "1213547": {
-        "geoid": "1213547",
-        "name": "Tanjungbalai",
+        "ids": {
+            "geonames": 1213547
+        },
+        "long": {
+            "default": "Tanjungbalai"
+        },
         "lat": 2.96667,
         "lng": 99.8,
         "country": "ID",
@@ -18,8 +26,12 @@
         "population": 142506
     },
     "1213614": {
-        "geoid": "1213614",
-        "name": "Sunggal",
+        "ids": {
+            "geonames": 1213614
+        },
+        "long": {
+            "default": "Sunggal"
+        },
         "lat": 3.5765,
         "lng": 98.6151,
         "country": "ID",
@@ -27,8 +39,12 @@
         "population": 157914
     },
     "1213855": {
-        "geoid": "1213855",
-        "name": "Sibolga",
+        "ids": {
+            "geonames": 1213855
+        },
+        "long": {
+            "default": "Sibolga"
+        },
         "lat": 1.74016,
         "lng": 98.78117,
         "country": "ID",
@@ -36,8 +52,12 @@
         "population": 79714
     },
     "1214073": {
-        "geoid": "1214073",
-        "name": "Rantauprapat",
+        "ids": {
+            "geonames": 1214073
+        },
+        "long": {
+            "default": "Rantauprapat"
+        },
         "lat": 2.1,
         "lng": 99.83333,
         "country": "ID",
@@ -45,8 +65,12 @@
         "population": 103009
     },
     "1214189": {
-        "geoid": "1214189",
-        "name": "Percut",
+        "ids": {
+            "geonames": 1214189
+        },
+        "long": {
+            "default": "Percut"
+        },
         "lat": 3.6253,
         "lng": 98.864,
         "country": "ID",
@@ -54,8 +78,12 @@
         "population": 311063
     },
     "1214191": {
-        "geoid": "1214191",
-        "name": "Perbaungan",
+        "ids": {
+            "geonames": 1214191
+        },
+        "long": {
+            "default": "Perbaungan"
+        },
         "lat": 3.5679,
         "lng": 98.956,
         "country": "ID",
@@ -63,8 +91,12 @@
         "population": 157174
     },
     "1214204": {
-        "geoid": "1214204",
-        "name": "Pematangsiantar",
+        "ids": {
+            "geonames": 1214204
+        },
+        "long": {
+            "default": "Pematangsiantar"
+        },
         "lat": 2.9595,
         "lng": 99.0687,
         "country": "ID",
@@ -72,8 +104,12 @@
         "population": 209614
     },
     "1214369": {
-        "geoid": "1214369",
-        "name": "Padangsidempuan",
+        "ids": {
+            "geonames": 1214369
+        },
+        "long": {
+            "default": "Padangsidempuan"
+        },
         "lat": 1.37952,
         "lng": 99.27146,
         "country": "ID",
@@ -81,8 +117,12 @@
         "population": 100561
     },
     "1214520": {
-        "geoid": "1214520",
-        "name": "Medan",
+        "ids": {
+            "geonames": 1214520
+        },
+        "long": {
+            "default": "Medan"
+        },
         "lat": 3.58333,
         "lng": 98.66667,
         "country": "ID",
@@ -90,8 +130,12 @@
         "population": 1750971
     },
     "1214658": {
-        "geoid": "1214658",
-        "name": "Lhokseumawe",
+        "ids": {
+            "geonames": 1214658
+        },
+        "long": {
+            "default": "Lhokseumawe"
+        },
         "lat": 5.1801,
         "lng": 97.1507,
         "country": "ID",
@@ -99,8 +143,12 @@
         "population": 88974
     },
     "1214724": {
-        "geoid": "1214724",
-        "name": "Langsa",
+        "ids": {
+            "geonames": 1214724
+        },
+        "long": {
+            "default": "Langsa"
+        },
         "lat": 4.4683,
         "lng": 97.9683,
         "country": "ID",
@@ -108,8 +156,12 @@
         "population": 54465
     },
     "1214882": {
-        "geoid": "1214882",
-        "name": "Kisaran",
+        "ids": {
+            "geonames": 1214882
+        },
+        "long": {
+            "default": "Kisaran"
+        },
         "lat": 2.9845,
         "lng": 99.6158,
         "country": "ID",
@@ -117,8 +169,12 @@
         "population": 129911
     },
     "1214965": {
-        "geoid": "1214965",
-        "name": "Kabanjahe",
+        "ids": {
+            "geonames": 1214965
+        },
+        "long": {
+            "default": "Kabanjahe"
+        },
         "lat": 3.1001,
         "lng": 98.4908,
         "country": "ID",
@@ -126,8 +182,12 @@
         "population": 57159
     },
     "1215355": {
-        "geoid": "1215355",
-        "name": "Binjai",
+        "ids": {
+            "geonames": 1215355
+        },
+        "long": {
+            "default": "Binjai"
+        },
         "lat": 3.6001,
         "lng": 98.4854,
         "country": "ID",
@@ -135,8 +195,12 @@
         "population": 228763
     },
     "1215412": {
-        "geoid": "1215412",
-        "name": "Belawan",
+        "ids": {
+            "geonames": 1215412
+        },
+        "long": {
+            "default": "Belawan"
+        },
         "lat": 3.7755,
         "lng": 98.6832,
         "country": "ID",
@@ -144,8 +208,12 @@
         "population": 102707
     },
     "1215502": {
-        "geoid": "1215502",
-        "name": "Banda Aceh",
+        "ids": {
+            "geonames": 1215502
+        },
+        "long": {
+            "default": "Banda Aceh"
+        },
         "lat": 5.54167,
         "lng": 95.33333,
         "country": "ID",
@@ -153,8 +221,12 @@
         "population": 250757
     },
     "1621177": {
-        "geoid": "1621177",
-        "name": "Yogyakarta",
+        "ids": {
+            "geonames": 1621177
+        },
+        "long": {
+            "default": "Yogyakarta"
+        },
         "lat": -7.80139,
         "lng": 110.36472,
         "country": "ID",
@@ -162,8 +234,12 @@
         "population": 636660
     },
     "1621395": {
-        "geoid": "1621395",
-        "name": "Wonosobo",
+        "ids": {
+            "geonames": 1621395
+        },
+        "long": {
+            "default": "Wonosobo"
+        },
         "lat": -7.35889,
         "lng": 109.90306,
         "country": "ID",
@@ -171,8 +247,12 @@
         "population": 92990
     },
     "1621613": {
-        "geoid": "1621613",
-        "name": "Weru",
+        "ids": {
+            "geonames": 1621613
+        },
+        "long": {
+            "default": "Weru"
+        },
         "lat": -6.711,
         "lng": 108.5037,
         "country": "ID",
@@ -180,8 +260,12 @@
         "population": 139004
     },
     "1621655": {
-        "geoid": "1621655",
-        "name": "Weleri",
+        "ids": {
+            "geonames": 1621655
+        },
+        "long": {
+            "default": "Weleri"
+        },
         "lat": -6.9713,
         "lng": 110.0666,
         "country": "ID",
@@ -189,8 +273,12 @@
         "population": 58448
     },
     "1621678": {
-        "geoid": "1621678",
-        "name": "Wedi",
+        "ids": {
+            "geonames": 1621678
+        },
+        "long": {
+            "default": "Wedi"
+        },
         "lat": -7.74306,
         "lng": 110.57944,
         "country": "ID",
@@ -198,8 +286,12 @@
         "population": 55300
     },
     "1621884": {
-        "geoid": "1621884",
-        "name": "Watampone",
+        "ids": {
+            "geonames": 1621884
+        },
+        "long": {
+            "default": "Watampone"
+        },
         "lat": -4.5386,
         "lng": 120.3279,
         "country": "ID",
@@ -207,8 +299,12 @@
         "population": 81629
     },
     "1622636": {
-        "geoid": "1622636",
-        "name": "Ungaran",
+        "ids": {
+            "geonames": 1622636
+        },
+        "long": {
+            "default": "Ungaran"
+        },
         "lat": -7.13972,
         "lng": 110.405,
         "country": "ID",
@@ -216,8 +312,12 @@
         "population": 127812
     },
     "1622786": {
-        "geoid": "1622786",
-        "name": "Makassar",
+        "ids": {
+            "geonames": 1622786
+        },
+        "long": {
+            "default": "Makassar"
+        },
         "lat": -5.14861,
         "lng": 119.43194,
         "country": "ID",
@@ -225,8 +325,12 @@
         "population": 1321717
     },
     "1623080": {
-        "geoid": "1623080",
-        "name": "Tulungagung",
+        "ids": {
+            "geonames": 1623080
+        },
+        "long": {
+            "default": "Tulungagung"
+        },
         "lat": -8.0657,
         "lng": 111.9025,
         "country": "ID",
@@ -234,8 +338,12 @@
         "population": 65262
     },
     "1623096": {
-        "geoid": "1623096",
-        "name": "Tulangan Utara",
+        "ids": {
+            "geonames": 1623096
+        },
+        "long": {
+            "default": "Tulangan Utara"
+        },
         "lat": -7.4737,
         "lng": 112.6505,
         "country": "ID",
@@ -243,8 +351,12 @@
         "population": 63889
     },
     "1623180": {
-        "geoid": "1623180",
-        "name": "Tuban",
+        "ids": {
+            "geonames": 1623180
+        },
+        "long": {
+            "default": "Tuban"
+        },
         "lat": -6.8976,
         "lng": 112.0649,
         "country": "ID",
@@ -252,8 +364,12 @@
         "population": 76242
     },
     "1624041": {
-        "geoid": "1624041",
-        "name": "Ternate",
+        "ids": {
+            "geonames": 1624041
+        },
+        "long": {
+            "default": "Ternate"
+        },
         "lat": 0.79065,
         "lng": 127.38424,
         "country": "ID",
@@ -261,8 +377,12 @@
         "population": 101731
     },
     "1624058": {
-        "geoid": "1624058",
-        "name": "Terbanggi Besar",
+        "ids": {
+            "geonames": 1624058
+        },
+        "long": {
+            "default": "Terbanggi Besar"
+        },
         "lat": -4.87898,
         "lng": 105.21818,
         "country": "ID",
@@ -270,8 +390,12 @@
         "population": 52566
     },
     "1624494": {
-        "geoid": "1624494",
-        "name": "Tegal",
+        "ids": {
+            "geonames": 1624494
+        },
+        "long": {
+            "default": "Tegal"
+        },
         "lat": -6.8694,
         "lng": 109.1402,
         "country": "ID",
@@ -279,8 +403,12 @@
         "population": 237084
     },
     "1624647": {
-        "geoid": "1624647",
-        "name": "Tasikmalaya",
+        "ids": {
+            "geonames": 1624647
+        },
+        "long": {
+            "default": "Tasikmalaya"
+        },
         "lat": -7.3274,
         "lng": 108.2207,
         "country": "ID",
@@ -288,8 +416,12 @@
         "population": 271143
     },
     "1624668": {
-        "geoid": "1624668",
-        "name": "Tarub",
+        "ids": {
+            "geonames": 1624668
+        },
+        "long": {
+            "default": "Tarub"
+        },
         "lat": -6.93333,
         "lng": 109.16667,
         "country": "ID",
@@ -297,8 +429,12 @@
         "population": 75739
     },
     "1624725": {
-        "geoid": "1624725",
-        "name": "Tarakan",
+        "ids": {
+            "geonames": 1624725
+        },
+        "long": {
+            "default": "Tarakan"
+        },
         "lat": 3.31332,
         "lng": 117.59152,
         "country": "ID",
@@ -306,8 +442,12 @@
         "population": 97478
     },
     "1624863": {
-        "geoid": "1624863",
-        "name": "Tanjungpinang",
+        "ids": {
+            "geonames": 1624863
+        },
+        "long": {
+            "default": "Tanjungpinang"
+        },
         "lat": 0.91667,
         "lng": 104.45833,
         "country": "ID",
@@ -315,8 +455,12 @@
         "population": 192493
     },
     "1624877": {
-        "geoid": "1624877",
-        "name": "Tanjung Pandan",
+        "ids": {
+            "geonames": 1624877
+        },
+        "long": {
+            "default": "Tanjung Pandan"
+        },
         "lat": -2.73353,
         "lng": 107.63477,
         "country": "ID",
@@ -324,8 +468,12 @@
         "population": 62374
     },
     "1624917": {
-        "geoid": "1624917",
-        "name": "Bandar Lampung",
+        "ids": {
+            "geonames": 1624917
+        },
+        "long": {
+            "default": "Bandar Lampung"
+        },
         "lat": -5.42917,
         "lng": 105.26111,
         "country": "ID",
@@ -333,8 +481,12 @@
         "population": 800348
     },
     "1624987": {
-        "geoid": "1624987",
-        "name": "Tanjungagung",
+        "ids": {
+            "geonames": 1624987
+        },
+        "long": {
+            "default": "Tanjungagung"
+        },
         "lat": -3.93728,
         "lng": 103.80465,
         "country": "ID",
@@ -342,8 +494,12 @@
         "population": 53117
     },
     "1625084": {
-        "geoid": "1625084",
-        "name": "Tangerang",
+        "ids": {
+            "geonames": 1625084
+        },
+        "long": {
+            "default": "Tangerang"
+        },
         "lat": -6.17806,
         "lng": 106.63,
         "country": "ID",
@@ -351,8 +507,12 @@
         "population": 1372124
     },
     "1625812": {
-        "geoid": "1625812",
-        "name": "Surakarta",
+        "ids": {
+            "geonames": 1625812
+        },
+        "long": {
+            "default": "Surakarta"
+        },
         "lat": -7.55611,
         "lng": 110.83167,
         "country": "ID",
@@ -360,8 +520,12 @@
         "population": 555308
     },
     "1625822": {
-        "geoid": "1625822",
-        "name": "Surabaya",
+        "ids": {
+            "geonames": 1625822
+        },
+        "long": {
+            "default": "Surabaya"
+        },
         "lat": -7.24917,
         "lng": 112.75083,
         "country": "ID",
@@ -369,8 +533,12 @@
         "population": 2374658
     },
     "1625929": {
-        "geoid": "1625929",
-        "name": "Sungai Penuh",
+        "ids": {
+            "geonames": 1625929
+        },
+        "long": {
+            "default": "Sungai Penuh"
+        },
         "lat": -2.0561,
         "lng": 101.3913,
         "country": "ID",
@@ -378,8 +546,12 @@
         "population": 95913
     },
     "1625958": {
-        "geoid": "1625958",
-        "name": "Sungailiat",
+        "ids": {
+            "geonames": 1625958
+        },
+        "long": {
+            "default": "Sungailiat"
+        },
         "lat": -1.85442,
         "lng": 106.12215,
         "country": "ID",
@@ -387,8 +559,12 @@
         "population": 74719
     },
     "1626099": {
-        "geoid": "1626099",
-        "name": "Sumenep",
+        "ids": {
+            "geonames": 1626099
+        },
+        "long": {
+            "default": "Sumenep"
+        },
         "lat": -7.01667,
         "lng": 113.86667,
         "country": "ID",
@@ -396,8 +572,12 @@
         "population": 84656
     },
     "1626100": {
-        "geoid": "1626100",
-        "name": "Sumedang Utara",
+        "ids": {
+            "geonames": 1626100
+        },
+        "long": {
+            "default": "Sumedang Utara"
+        },
         "lat": -6.85,
         "lng": 107.91667,
         "country": "ID",
@@ -405,8 +585,12 @@
         "population": 206746
     },
     "1626183": {
-        "geoid": "1626183",
-        "name": "Sumber",
+        "ids": {
+            "geonames": 1626183
+        },
+        "long": {
+            "default": "Sumber"
+        },
         "lat": -6.76028,
         "lng": 108.48306,
         "country": "ID",
@@ -414,8 +598,12 @@
         "population": 93420
     },
     "1626185": {
-        "geoid": "1626185",
-        "name": "Sumbawa Besar",
+        "ids": {
+            "geonames": 1626185
+        },
+        "long": {
+            "default": "Sumbawa Besar"
+        },
         "lat": -8.49317,
         "lng": 117.42024,
         "country": "ID",
@@ -423,8 +611,12 @@
         "population": 52654
     },
     "1626312": {
-        "geoid": "1626312",
-        "name": "Sokaraja",
+        "ids": {
+            "geonames": 1626312
+        },
+        "long": {
+            "default": "Sokaraja"
+        },
         "lat": -7.45806,
         "lng": 109.28806,
         "country": "ID",
@@ -432,8 +624,12 @@
         "population": 66482
     },
     "1626381": {
-        "geoid": "1626381",
-        "name": "Sukabumi",
+        "ids": {
+            "geonames": 1626381
+        },
+        "long": {
+            "default": "Sukabumi"
+        },
         "lat": -6.91806,
         "lng": 106.92667,
         "country": "ID",
@@ -441,8 +637,12 @@
         "population": 276414
     },
     "1626498": {
-        "geoid": "1626498",
-        "name": "Sragen",
+        "ids": {
+            "geonames": 1626498
+        },
+        "long": {
+            "default": "Sragen"
+        },
         "lat": -7.42639,
         "lng": 111.02222,
         "country": "ID",
@@ -450,8 +650,12 @@
         "population": 71522
     },
     "1626542": {
-        "geoid": "1626542",
-        "name": "Sorong",
+        "ids": {
+            "geonames": 1626542
+        },
+        "long": {
+            "default": "Sorong"
+        },
         "lat": -0.87956,
         "lng": 131.26104,
         "country": "ID",
@@ -459,8 +663,12 @@
         "population": 125535
     },
     "1626560": {
-        "geoid": "1626560",
-        "name": "Soreang",
+        "ids": {
+            "geonames": 1626560
+        },
+        "long": {
+            "default": "Soreang"
+        },
         "lat": -7.03306,
         "lng": 107.51833,
         "country": "ID",
@@ -468,8 +676,12 @@
         "population": 150932
     },
     "1626754": {
-        "geoid": "1626754",
-        "name": "Sleman",
+        "ids": {
+            "geonames": 1626754
+        },
+        "long": {
+            "default": "Sleman"
+        },
         "lat": -7.71556,
         "lng": 110.35556,
         "country": "ID",
@@ -477,8 +689,12 @@
         "population": 56215
     },
     "1626758": {
-        "geoid": "1626758",
-        "name": "Slawi",
+        "ids": {
+            "geonames": 1626758
+        },
+        "long": {
+            "default": "Slawi"
+        },
         "lat": -6.9816,
         "lng": 109.1407,
         "country": "ID",
@@ -486,8 +702,12 @@
         "population": 61206
     },
     "1626801": {
-        "geoid": "1626801",
-        "name": "Situbondo",
+        "ids": {
+            "geonames": 1626801
+        },
+        "long": {
+            "default": "Situbondo"
+        },
         "lat": -7.70623,
         "lng": 114.00976,
         "country": "ID",
@@ -495,8 +715,12 @@
         "population": 600000
     },
     "1626899": {
-        "geoid": "1626899",
-        "name": "Singosari",
+        "ids": {
+            "geonames": 1626899
+        },
+        "long": {
+            "default": "Singosari"
+        },
         "lat": -7.8924,
         "lng": 112.6658,
         "country": "ID",
@@ -504,8 +728,12 @@
         "population": 57793
     },
     "1626916": {
-        "geoid": "1626916",
-        "name": "Singkawang",
+        "ids": {
+            "geonames": 1626916
+        },
+        "long": {
+            "default": "Singkawang"
+        },
         "lat": 0.90925,
         "lng": 108.98463,
         "country": "ID",
@@ -513,8 +741,12 @@
         "population": 101838
     },
     "1626921": {
-        "geoid": "1626921",
-        "name": "Sengkang",
+        "ids": {
+            "geonames": 1626921
+        },
+        "long": {
+            "default": "Sengkang"
+        },
         "lat": -4.1279,
         "lng": 120.0297,
         "country": "ID",
@@ -522,8 +754,12 @@
         "population": 59523
     },
     "1626932": {
-        "geoid": "1626932",
-        "name": "Singaraja",
+        "ids": {
+            "geonames": 1626932
+        },
+        "long": {
+            "default": "Singaraja"
+        },
         "lat": -8.112,
         "lng": 115.08818,
         "country": "ID",
@@ -531,8 +767,12 @@
         "population": 133784
     },
     "1627253": {
-        "geoid": "1627253",
-        "name": "Sidoarjo",
+        "ids": {
+            "geonames": 1627253
+        },
+        "long": {
+            "default": "Sidoarjo"
+        },
         "lat": -7.4478,
         "lng": 112.7183,
         "country": "ID",
@@ -540,8 +780,12 @@
         "population": 139189
     },
     "1627357": {
-        "geoid": "1627357",
-        "name": "Sewon",
+        "ids": {
+            "geonames": 1627357
+        },
+        "long": {
+            "default": "Sewon"
+        },
         "lat": -7.87639,
         "lng": 110.35889,
         "country": "ID",
@@ -549,8 +793,12 @@
         "population": 73585
     },
     "1627459": {
-        "geoid": "1627459",
-        "name": "Serpong",
+        "ids": {
+            "geonames": 1627459
+        },
+        "long": {
+            "default": "Serpong"
+        },
         "lat": -6.31694,
         "lng": 106.66417,
         "country": "ID",
@@ -558,8 +806,12 @@
         "population": 80193
     },
     "1627549": {
-        "geoid": "1627549",
-        "name": "Serang",
+        "ids": {
+            "geonames": 1627549
+        },
+        "long": {
+            "default": "Serang"
+        },
         "lat": -6.11528,
         "lng": 106.15417,
         "country": "ID",
@@ -567,8 +819,12 @@
         "population": 164767
     },
     "1627610": {
-        "geoid": "1627610",
-        "name": "Sepatan",
+        "ids": {
+            "geonames": 1627610
+        },
+        "long": {
+            "default": "Sepatan"
+        },
         "lat": -6.11889,
         "lng": 106.575,
         "country": "ID",
@@ -576,8 +832,12 @@
         "population": 118439
     },
     "1627896": {
-        "geoid": "1627896",
-        "name": "Semarang",
+        "ids": {
+            "geonames": 1627896
+        },
+        "long": {
+            "default": "Semarang"
+        },
         "lat": -6.99306,
         "lng": 110.42083,
         "country": "ID",
@@ -585,8 +845,12 @@
         "population": 1288084
     },
     "1628453": {
-        "geoid": "1628453",
-        "name": "Sawangan",
+        "ids": {
+            "geonames": 1628453
+        },
+        "long": {
+            "default": "Sawangan"
+        },
         "lat": -6.40278,
         "lng": 106.77444,
         "country": "ID",
@@ -594,8 +858,12 @@
         "population": 114069
     },
     "1628884": {
-        "geoid": "1628884",
-        "name": "Sampit",
+        "ids": {
+            "geonames": 1628884
+        },
+        "long": {
+            "default": "Sampit"
+        },
         "lat": -2.5315,
         "lng": 112.9496,
         "country": "ID",
@@ -603,8 +871,12 @@
         "population": 66053
     },
     "1628899": {
-        "geoid": "1628899",
-        "name": "Sampang",
+        "ids": {
+            "geonames": 1628899
+        },
+        "long": {
+            "default": "Sampang"
+        },
         "lat": -7.1872,
         "lng": 113.2394,
         "country": "ID",
@@ -612,8 +884,12 @@
         "population": 53269
     },
     "1629001": {
-        "geoid": "1629001",
-        "name": "Samarinda",
+        "ids": {
+            "geonames": 1629001
+        },
+        "long": {
+            "default": "Samarinda"
+        },
         "lat": -0.49167,
         "lng": 117.14583,
         "country": "ID",
@@ -621,8 +897,12 @@
         "population": 355160
     },
     "1629131": {
-        "geoid": "1629131",
-        "name": "Salatiga",
+        "ids": {
+            "geonames": 1629131
+        },
+        "long": {
+            "default": "Salatiga"
+        },
         "lat": -7.33194,
         "lng": 110.49278,
         "country": "ID",
@@ -630,8 +910,12 @@
         "population": 172645
     },
     "1629710": {
-        "geoid": "1629710",
-        "name": "Rengasdengklok",
+        "ids": {
+            "geonames": 1629710
+        },
+        "long": {
+            "default": "Rengasdengklok"
+        },
         "lat": -6.15917,
         "lng": 107.29806,
         "country": "ID",
@@ -639,8 +923,12 @@
         "population": 201463
     },
     "1630058": {
-        "geoid": "1630058",
-        "name": "Rangkasbitung",
+        "ids": {
+            "geonames": 1630058
+        },
+        "long": {
+            "default": "Rangkasbitung"
+        },
         "lat": -6.3591,
         "lng": 106.2494,
         "country": "ID",
@@ -648,8 +936,12 @@
         "population": 126910
     },
     "1630328": {
-        "geoid": "1630328",
-        "name": "Purwokerto",
+        "ids": {
+            "geonames": 1630328
+        },
+        "long": {
+            "default": "Purwokerto"
+        },
         "lat": -7.42139,
         "lng": 109.23444,
         "country": "ID",
@@ -657,8 +949,12 @@
         "population": 217222
     },
     "1630333": {
-        "geoid": "1630333",
-        "name": "Purwodadi",
+        "ids": {
+            "geonames": 1630333
+        },
+        "long": {
+            "default": "Purwodadi"
+        },
         "lat": -7.0868,
         "lng": 110.9158,
         "country": "ID",
@@ -666,8 +962,12 @@
         "population": 150206
     },
     "1630341": {
-        "geoid": "1630341",
-        "name": "Purwakarta",
+        "ids": {
+            "geonames": 1630341
+        },
+        "long": {
+            "default": "Purwakarta"
+        },
         "lat": -6.55694,
         "lng": 107.44333,
         "country": "ID",
@@ -675,8 +975,12 @@
         "population": 215803
     },
     "1630366": {
-        "geoid": "1630366",
-        "name": "Purbalingga",
+        "ids": {
+            "geonames": 1630366
+        },
+        "long": {
+            "default": "Purbalingga"
+        },
         "lat": -7.38806,
         "lng": 109.36389,
         "country": "ID",
@@ -684,8 +988,12 @@
         "population": 56903
     },
     "1630634": {
-        "geoid": "1630634",
-        "name": "Probolinggo",
+        "ids": {
+            "geonames": 1630634
+        },
+        "long": {
+            "default": "Probolinggo"
+        },
         "lat": -7.7543,
         "lng": 113.2159,
         "country": "ID",
@@ -693,8 +1001,12 @@
         "population": 181656
     },
     "1630789": {
-        "geoid": "1630789",
-        "name": "Pontianak",
+        "ids": {
+            "geonames": 1630789
+        },
+        "long": {
+            "default": "Pontianak"
+        },
         "lat": -0.03194,
         "lng": 109.325,
         "country": "ID",
@@ -702,8 +1014,12 @@
         "population": 455173
     },
     "1630798": {
-        "geoid": "1630798",
-        "name": "Ponorogo",
+        "ids": {
+            "geonames": 1630798
+        },
+        "long": {
+            "default": "Ponorogo"
+        },
         "lat": -7.8685,
         "lng": 111.462,
         "country": "ID",
@@ -711,8 +1027,12 @@
         "population": 79026
     },
     "1630935": {
-        "geoid": "1630935",
-        "name": "Polewali",
+        "ids": {
+            "geonames": 1630935
+        },
+        "long": {
+            "default": "Polewali"
+        },
         "lat": -3.4324,
         "lng": 119.3435,
         "country": "ID",
@@ -720,8 +1040,12 @@
         "population": 58190
     },
     "1630997": {
-        "geoid": "1630997",
-        "name": "Plumbon",
+        "ids": {
+            "geonames": 1630997
+        },
+        "long": {
+            "default": "Plumbon"
+        },
         "lat": -6.705,
         "lng": 108.47278,
         "country": "ID",
@@ -729,8 +1053,12 @@
         "population": 167105
     },
     "1631271": {
-        "geoid": "1631271",
-        "name": "Petarukan",
+        "ids": {
+            "geonames": 1631271
+        },
+        "long": {
+            "default": "Petarukan"
+        },
         "lat": -6.88333,
         "lng": 109.43333,
         "country": "ID",
@@ -738,8 +1066,12 @@
         "population": 74188
     },
     "1631393": {
-        "geoid": "1631393",
-        "name": "Prabumulih",
+        "ids": {
+            "geonames": 1631393
+        },
+        "long": {
+            "default": "Prabumulih"
+        },
         "lat": -3.43447,
         "lng": 104.23056,
         "country": "ID",
@@ -747,8 +1079,12 @@
         "population": 103470
     },
     "1631648": {
-        "geoid": "1631648",
-        "name": "Pemalang",
+        "ids": {
+            "geonames": 1631648
+        },
+        "long": {
+            "default": "Pemalang"
+        },
         "lat": -6.9,
         "lng": 109.36667,
         "country": "ID",
@@ -756,8 +1092,12 @@
         "population": 184149
     },
     "1631761": {
-        "geoid": "1631761",
-        "name": "Pekanbaru",
+        "ids": {
+            "geonames": 1631761
+        },
+        "long": {
+            "default": "Pekanbaru"
+        },
         "lat": 0.51667,
         "lng": 101.44167,
         "country": "ID",
@@ -765,8 +1105,12 @@
         "population": 703956
     },
     "1631766": {
-        "geoid": "1631766",
-        "name": "Pekalongan",
+        "ids": {
+            "geonames": 1631766
+        },
+        "long": {
+            "default": "Pekalongan"
+        },
         "lat": -6.8886,
         "lng": 109.6753,
         "country": "ID",
@@ -774,8 +1118,12 @@
         "population": 257945
     },
     "1631851": {
-        "geoid": "1631851",
-        "name": "Pecangaan",
+        "ids": {
+            "geonames": 1631851
+        },
+        "long": {
+            "default": "Pecangaan"
+        },
         "lat": -6.6978,
         "lng": 110.7107,
         "country": "ID",
@@ -783,8 +1131,12 @@
         "population": 61046
     },
     "1631905": {
-        "geoid": "1631905",
-        "name": "Payakumbuh",
+        "ids": {
+            "geonames": 1631905
+        },
+        "long": {
+            "default": "Payakumbuh"
+        },
         "lat": -0.2159,
         "lng": 100.6334,
         "country": "ID",
@@ -792,8 +1144,12 @@
         "population": 121572
     },
     "1631992": {
-        "geoid": "1631992",
-        "name": "Pati",
+        "ids": {
+            "geonames": 1631992
+        },
+        "long": {
+            "default": "Pati"
+        },
         "lat": -6.7559,
         "lng": 111.038,
         "country": "ID",
@@ -801,8 +1157,12 @@
         "population": 122785
     },
     "1632033": {
-        "geoid": "1632033",
-        "name": "Pasuruan",
+        "ids": {
+            "geonames": 1632033
+        },
+        "long": {
+            "default": "Pasuruan"
+        },
         "lat": -7.6453,
         "lng": 112.9075,
         "country": "ID",
@@ -810,8 +1170,12 @@
         "population": 158600
     },
     "1632197": {
-        "geoid": "1632197",
-        "name": "Paseh",
+        "ids": {
+            "geonames": 1632197
+        },
+        "long": {
+            "default": "Paseh"
+        },
         "lat": -7.1026,
         "lng": 107.7641,
         "country": "ID",
@@ -819,8 +1183,12 @@
         "population": 126181
     },
     "1632228": {
-        "geoid": "1632228",
-        "name": "Pasarkemis",
+        "ids": {
+            "geonames": 1632228
+        },
+        "long": {
+            "default": "Pasarkemis"
+        },
         "lat": -6.17028,
         "lng": 106.53028,
         "country": "ID",
@@ -828,8 +1196,12 @@
         "population": 154234
     },
     "1632276": {
-        "geoid": "1632276",
-        "name": "Parung",
+        "ids": {
+            "geonames": 1632276
+        },
+        "long": {
+            "default": "Parung"
+        },
         "lat": -6.42139,
         "lng": 106.73306,
         "country": "ID",
@@ -837,8 +1209,12 @@
         "population": 193898
     },
     "1632334": {
-        "geoid": "1632334",
-        "name": "Pariaman",
+        "ids": {
+            "geonames": 1632334
+        },
+        "long": {
+            "default": "Pariaman"
+        },
         "lat": -0.61898,
         "lng": 100.11997,
         "country": "ID",
@@ -846,8 +1222,12 @@
         "population": 92183
     },
     "1632353": {
-        "geoid": "1632353",
-        "name": "Parepare",
+        "ids": {
+            "geonames": 1632353
+        },
+        "long": {
+            "default": "Parepare"
+        },
         "lat": -4.0135,
         "lng": 119.6255,
         "country": "ID",
@@ -855,8 +1235,12 @@
         "population": 140000
     },
     "1632358": {
-        "geoid": "1632358",
-        "name": "Pare",
+        "ids": {
+            "geonames": 1632358
+        },
+        "long": {
+            "default": "Pare"
+        },
         "lat": -7.7679,
         "lng": 112.198,
         "country": "ID",
@@ -864,8 +1248,12 @@
         "population": 56699
     },
     "1632654": {
-        "geoid": "1632654",
-        "name": "Pangkalpinang",
+        "ids": {
+            "geonames": 1632654
+        },
+        "long": {
+            "default": "Pangkalpinang"
+        },
         "lat": -2.12914,
         "lng": 106.11377,
         "country": "ID",
@@ -873,8 +1261,12 @@
         "population": 125933
     },
     "1632823": {
-        "geoid": "1632823",
-        "name": "Pandeglang",
+        "ids": {
+            "geonames": 1632823
+        },
+        "long": {
+            "default": "Pandeglang"
+        },
         "lat": -6.3084,
         "lng": 106.1067,
         "country": "ID",
@@ -882,8 +1274,12 @@
         "population": 92316
     },
     "1632861": {
-        "geoid": "1632861",
-        "name": "Pandak",
+        "ids": {
+            "geonames": 1632861
+        },
+        "long": {
+            "default": "Pandak"
+        },
         "lat": -7.91306,
         "lng": 110.29361,
         "country": "ID",
@@ -891,8 +1287,12 @@
         "population": 56043
     },
     "1632937": {
-        "geoid": "1632937",
-        "name": "Pamulang",
+        "ids": {
+            "geonames": 1632937
+        },
+        "long": {
+            "default": "Pamulang"
+        },
         "lat": -6.34278,
         "lng": 106.73833,
         "country": "ID",
@@ -900,8 +1300,12 @@
         "population": 174557
     },
     "1632978": {
-        "geoid": "1632978",
-        "name": "Pamekasan",
+        "ids": {
+            "geonames": 1632978
+        },
+        "long": {
+            "default": "Pamekasan"
+        },
         "lat": -7.1568,
         "lng": 113.4746,
         "country": "ID",
@@ -909,8 +1313,12 @@
         "population": 92447
     },
     "1632998": {
-        "geoid": "1632998",
-        "name": "Pamanukan",
+        "ids": {
+            "geonames": 1632998
+        },
+        "long": {
+            "default": "Pamanukan"
+        },
         "lat": -6.28417,
         "lng": 107.81056,
         "country": "ID",
@@ -918,8 +1326,12 @@
         "population": 114290
     },
     "1633034": {
-        "geoid": "1633034",
-        "name": "Palu",
+        "ids": {
+            "geonames": 1633034
+        },
+        "long": {
+            "default": "Palu"
+        },
         "lat": -0.90833,
         "lng": 119.87083,
         "country": "ID",
@@ -927,8 +1339,12 @@
         "population": 282431
     },
     "1633037": {
-        "geoid": "1633037",
-        "name": "Palopo",
+        "ids": {
+            "geonames": 1633037
+        },
+        "long": {
+            "default": "Palopo"
+        },
         "lat": -2.9925,
         "lng": 120.19694,
         "country": "ID",
@@ -936,8 +1352,12 @@
         "population": 129273
     },
     "1633056": {
-        "geoid": "1633056",
-        "name": "Palimanan",
+        "ids": {
+            "geonames": 1633056
+        },
+        "long": {
+            "default": "Palimanan"
+        },
         "lat": -6.70694,
         "lng": 108.42417,
         "country": "ID",
@@ -945,8 +1365,12 @@
         "population": 92600
     },
     "1633070": {
-        "geoid": "1633070",
-        "name": "Palembang",
+        "ids": {
+            "geonames": 1633070
+        },
+        "long": {
+            "default": "Palembang"
+        },
         "lat": -2.91673,
         "lng": 104.7458,
         "country": "ID",
@@ -954,8 +1378,12 @@
         "population": 1441500
     },
     "1633118": {
-        "geoid": "1633118",
-        "name": "Palangkaraya",
+        "ids": {
+            "geonames": 1633118
+        },
+        "long": {
+            "default": "Palangkaraya"
+        },
         "lat": -2.20833,
         "lng": 113.91667,
         "country": "ID",
@@ -963,8 +1391,12 @@
         "population": 148139
     },
     "1633308": {
-        "geoid": "1633308",
-        "name": "Pageralam",
+        "ids": {
+            "geonames": 1633308
+        },
+        "long": {
+            "default": "Pageralam"
+        },
         "lat": -4.02177,
         "lng": 103.25093,
         "country": "ID",
@@ -972,8 +1404,12 @@
         "population": 70386
     },
     "1633419": {
-        "geoid": "1633419",
-        "name": "Padang",
+        "ids": {
+            "geonames": 1633419
+        },
+        "long": {
+            "default": "Padang"
+        },
         "lat": -0.94924,
         "lng": 100.35427,
         "country": "ID",
@@ -981,8 +1417,12 @@
         "population": 840352
     },
     "1634131": {
-        "geoid": "1634131",
-        "name": "Nganjuk",
+        "ids": {
+            "geonames": 1634131
+        },
+        "long": {
+            "default": "Nganjuk"
+        },
         "lat": -7.6051,
         "lng": 111.9035,
         "country": "ID",
@@ -990,8 +1430,12 @@
         "population": 69011
     },
     "1634718": {
-        "geoid": "1634718",
-        "name": "Muncar",
+        "ids": {
+            "geonames": 1634718
+        },
+        "long": {
+            "default": "Muncar"
+        },
         "lat": -8.43333,
         "lng": 114.33333,
         "country": "ID",
@@ -999,8 +1443,12 @@
         "population": 64537
     },
     "1635111": {
-        "geoid": "1635111",
-        "name": "Mojokerto",
+        "ids": {
+            "geonames": 1635111
+        },
+        "long": {
+            "default": "Mojokerto"
+        },
         "lat": -7.4664,
         "lng": 112.4338,
         "country": "ID",
@@ -1008,8 +1456,12 @@
         "population": 112557
     },
     "1635283": {
-        "geoid": "1635283",
-        "name": "Metro",
+        "ids": {
+            "geonames": 1635283
+        },
+        "long": {
+            "default": "Metro"
+        },
         "lat": -5.11306,
         "lng": 105.30667,
         "country": "ID",
@@ -1017,8 +1469,12 @@
         "population": 149526
     },
     "1635342": {
-        "geoid": "1635342",
-        "name": "Mertoyudan",
+        "ids": {
+            "geonames": 1635342
+        },
+        "long": {
+            "default": "Mertoyudan"
+        },
         "lat": -7.52,
         "lng": 110.22639,
         "country": "ID",
@@ -1026,8 +1482,12 @@
         "population": 69871
     },
     "1635660": {
-        "geoid": "1635660",
-        "name": "Melati",
+        "ids": {
+            "geonames": 1635660
+        },
+        "long": {
+            "default": "Melati"
+        },
         "lat": -7.73333,
         "lng": 110.36667,
         "country": "ID",
@@ -1035,8 +1495,12 @@
         "population": 67090
     },
     "1635882": {
-        "geoid": "1635882",
-        "name": "Mataram",
+        "ids": {
+            "geonames": 1635882
+        },
+        "long": {
+            "default": "Mataram"
+        },
         "lat": -8.58333,
         "lng": 116.11667,
         "country": "ID",
@@ -1044,8 +1508,12 @@
         "population": 318674
     },
     "1636022": {
-        "geoid": "1636022",
-        "name": "Martapura",
+        "ids": {
+            "geonames": 1636022
+        },
+        "long": {
+            "default": "Martapura"
+        },
         "lat": -3.4109,
         "lng": 114.8642,
         "country": "ID",
@@ -1053,8 +1521,12 @@
         "population": 131449
     },
     "1636125": {
-        "geoid": "1636125",
-        "name": "Margahayukencana",
+        "ids": {
+            "geonames": 1636125
+        },
+        "long": {
+            "default": "Margahayukencana"
+        },
         "lat": -6.97083,
         "lng": 107.5675,
         "country": "ID",
@@ -1062,8 +1534,12 @@
         "population": 83119
     },
     "1636308": {
-        "geoid": "1636308",
-        "name": "Manokwari",
+        "ids": {
+            "geonames": 1636308
+        },
+        "long": {
+            "default": "Manokwari"
+        },
         "lat": -0.86291,
         "lng": 134.06402,
         "country": "ID",
@@ -1071,8 +1547,12 @@
         "population": 53190
     },
     "1636507": {
-        "geoid": "1636507",
-        "name": "Mendaha",
+        "ids": {
+            "geonames": 1636507
+        },
+        "long": {
+            "default": "Mendaha"
+        },
         "lat": -1.0163,
         "lng": 103.59331,
         "country": "ID",
@@ -1080,8 +1560,12 @@
         "population": 56268
     },
     "1636544": {
-        "geoid": "1636544",
-        "name": "Manado",
+        "ids": {
+            "geonames": 1636544
+        },
+        "long": {
+            "default": "Manado"
+        },
         "lat": 1.48218,
         "lng": 124.84892,
         "country": "ID",
@@ -1089,8 +1573,12 @@
         "population": 451893
     },
     "1636722": {
-        "geoid": "1636722",
-        "name": "Malang",
+        "ids": {
+            "geonames": 1636722
+        },
+        "long": {
+            "default": "Malang"
+        },
         "lat": -7.9797,
         "lng": 112.6304,
         "country": "ID",
@@ -1098,8 +1586,12 @@
         "population": 746716
     },
     "1636816": {
-        "geoid": "1636816",
-        "name": "Majalengka",
+        "ids": {
+            "geonames": 1636816
+        },
+        "long": {
+            "default": "Majalengka"
+        },
         "lat": -6.83611,
         "lng": 108.22778,
         "country": "ID",
@@ -1107,8 +1599,12 @@
         "population": 87732
     },
     "1636884": {
-        "geoid": "1636884",
-        "name": "Magelang",
+        "ids": {
+            "geonames": 1636884
+        },
+        "long": {
+            "default": "Magelang"
+        },
         "lat": -7.47056,
         "lng": 110.21778,
         "country": "ID",
@@ -1116,8 +1612,12 @@
         "population": 111461
     },
     "1636930": {
-        "geoid": "1636930",
-        "name": "Madiun",
+        "ids": {
+            "geonames": 1636930
+        },
+        "long": {
+            "default": "Madiun"
+        },
         "lat": -7.6298,
         "lng": 111.5239,
         "country": "ID",
@@ -1125,8 +1625,12 @@
         "population": 186099
     },
     "1637090": {
-        "geoid": "1637090",
-        "name": "Lumajang",
+        "ids": {
+            "geonames": 1637090
+        },
+        "long": {
+            "default": "Lumajang"
+        },
         "lat": -8.1335,
         "lng": 113.2248,
         "country": "ID",
@@ -1134,8 +1638,12 @@
         "population": 123626
     },
     "1637158": {
-        "geoid": "1637158",
-        "name": "Lubuklinggau",
+        "ids": {
+            "geonames": 1637158
+        },
+        "long": {
+            "default": "Lubuklinggau"
+        },
         "lat": -3.2945,
         "lng": 102.8614,
         "country": "ID",
@@ -1143,8 +1651,12 @@
         "population": 148243
     },
     "1637510": {
-        "geoid": "1637510",
-        "name": "Loa Janan",
+        "ids": {
+            "geonames": 1637510
+        },
+        "long": {
+            "default": "Loa Janan"
+        },
         "lat": -0.58295,
         "lng": 117.09503,
         "country": "ID",
@@ -1152,8 +1664,12 @@
         "population": 212816
     },
     "1638063": {
-        "geoid": "1638063",
-        "name": "Lembang",
+        "ids": {
+            "geonames": 1638063
+        },
+        "long": {
+            "default": "Lembang"
+        },
         "lat": -6.81167,
         "lng": 107.6175,
         "country": "ID",
@@ -1161,8 +1677,12 @@
         "population": 183130
     },
     "1638284": {
-        "geoid": "1638284",
-        "name": "Lawang",
+        "ids": {
+            "geonames": 1638284
+        },
+        "long": {
+            "default": "Lawang"
+        },
         "lat": -7.8353,
         "lng": 112.6947,
         "country": "ID",
@@ -1170,8 +1690,12 @@
         "population": 159380
     },
     "1638562": {
-        "geoid": "1638562",
-        "name": "Lamongan",
+        "ids": {
+            "geonames": 1638562
+        },
+        "long": {
+            "default": "Lamongan"
+        },
         "lat": -7.11667,
         "lng": 112.41667,
         "country": "ID",
@@ -1179,8 +1703,12 @@
         "population": 59224
     },
     "1638775": {
-        "geoid": "1638775",
-        "name": "Lahat",
+        "ids": {
+            "geonames": 1638775
+        },
+        "long": {
+            "default": "Lahat"
+        },
         "lat": -3.78514,
         "lng": 103.54279,
         "country": "ID",
@@ -1188,8 +1716,12 @@
         "population": 65906
     },
     "1638868": {
-        "geoid": "1638868",
-        "name": "Labuan Bajo",
+        "ids": {
+            "geonames": 1638868
+        },
+        "long": {
+            "default": "Labuan Bajo"
+        },
         "lat": -8.4964,
         "lng": 119.8877,
         "country": "ID",
@@ -1197,8 +1729,12 @@
         "population": 188724
     },
     "1639094": {
-        "geoid": "1639094",
-        "name": "Kuningan",
+        "ids": {
+            "geonames": 1639094
+        },
+        "long": {
+            "default": "Kuningan"
+        },
         "lat": -6.97583,
         "lng": 108.48306,
         "country": "ID",
@@ -1206,8 +1742,12 @@
         "population": 72085
     },
     "1639215": {
-        "geoid": "1639215",
-        "name": "Kudus",
+        "ids": {
+            "geonames": 1639215
+        },
+        "long": {
+            "default": "Kudus"
+        },
         "lat": -6.8048,
         "lng": 110.8405,
         "country": "ID",
@@ -1215,8 +1755,12 @@
         "population": 92156
     },
     "1639362": {
-        "geoid": "1639362",
-        "name": "Kresek",
+        "ids": {
+            "geonames": 1639362
+        },
+        "long": {
+            "default": "Kresek"
+        },
         "lat": -6.13139,
         "lng": 106.37972,
         "country": "ID",
@@ -1224,8 +1768,12 @@
         "population": 110182
     },
     "1639900": {
-        "geoid": "1639900",
-        "name": "Klaten",
+        "ids": {
+            "geonames": 1639900
+        },
+        "long": {
+            "default": "Klaten"
+        },
         "lat": -7.70583,
         "lng": 110.60639,
         "country": "ID",
@@ -1233,8 +1781,12 @@
         "population": 126831
     },
     "1639925": {
-        "geoid": "1639925",
-        "name": "Klangenan",
+        "ids": {
+            "geonames": 1639925
+        },
+        "long": {
+            "default": "Klangenan"
+        },
         "lat": -6.70944,
         "lng": 108.44,
         "country": "ID",
@@ -1242,8 +1794,12 @@
         "population": 88378
     },
     "1640185": {
-        "geoid": "1640185",
-        "name": "Kertosono",
+        "ids": {
+            "geonames": 1640185
+        },
+        "long": {
+            "default": "Kertosono"
+        },
         "lat": -7.58333,
         "lng": 112.1,
         "country": "ID",
@@ -1251,8 +1807,12 @@
         "population": 60782
     },
     "1640296": {
-        "geoid": "1640296",
-        "name": "Kepanjen",
+        "ids": {
+            "geonames": 1640296
+        },
+        "long": {
+            "default": "Kepanjen"
+        },
         "lat": -8.1303,
         "lng": 112.5727,
         "country": "ID",
@@ -1260,8 +1820,12 @@
         "population": 51919
     },
     "1640344": {
-        "geoid": "1640344",
-        "name": "Kendari",
+        "ids": {
+            "geonames": 1640344
+        },
+        "long": {
+            "default": "Kendari"
+        },
         "lat": -3.9778,
         "lng": 122.51507,
         "country": "ID",
@@ -1269,8 +1833,12 @@
         "population": 195006
     },
     "1640581": {
-        "geoid": "1640581",
-        "name": "Kedungwuni",
+        "ids": {
+            "geonames": 1640581
+        },
+        "long": {
+            "default": "Kedungwuni"
+        },
         "lat": -6.97038,
         "lng": 109.64794,
         "country": "ID",
@@ -1278,8 +1846,12 @@
         "population": 117249
     },
     "1640585": {
-        "geoid": "1640585",
-        "name": "Kedungwaru",
+        "ids": {
+            "geonames": 1640585
+        },
+        "long": {
+            "default": "Kedungwaru"
+        },
         "lat": -8.06667,
         "lng": 111.91667,
         "country": "ID",
@@ -1287,8 +1859,12 @@
         "population": 80257
     },
     "1640660": {
-        "geoid": "1640660",
-        "name": "Kediri",
+        "ids": {
+            "geonames": 1640660
+        },
+        "long": {
+            "default": "Kediri"
+        },
         "lat": -7.81667,
         "lng": 112.01667,
         "country": "ID",
@@ -1296,8 +1872,12 @@
         "population": 235143
     },
     "1640765": {
-        "geoid": "1640765",
-        "name": "Kebomas",
+        "ids": {
+            "geonames": 1640765
+        },
+        "long": {
+            "default": "Kebomas"
+        },
         "lat": -7.16667,
         "lng": 112.6333,
         "country": "ID",
@@ -1305,8 +1885,12 @@
         "population": 75982
     },
     "1640902": {
-        "geoid": "1640902",
-        "name": "Kawalu",
+        "ids": {
+            "geonames": 1640902
+        },
+        "long": {
+            "default": "Kawalu"
+        },
         "lat": -7.3817,
         "lng": 108.2082,
         "country": "ID",
@@ -1314,8 +1898,12 @@
         "population": 50541
     },
     "1641184": {
-        "geoid": "1641184",
-        "name": "Karangsembung",
+        "ids": {
+            "geonames": 1641184
+        },
+        "long": {
+            "default": "Karangsembung"
+        },
         "lat": -6.8487,
         "lng": 108.6422,
         "country": "ID",
@@ -1323,8 +1911,12 @@
         "population": 75856
     },
     "1641333": {
-        "geoid": "1641333",
-        "name": "Karanganom",
+        "ids": {
+            "geonames": 1641333
+        },
+        "long": {
+            "default": "Karanganom"
+        },
         "lat": -7.64889,
         "lng": 110.625,
         "country": "ID",
@@ -1332,8 +1924,12 @@
         "population": 50670
     },
     "1642414": {
-        "geoid": "1642414",
-        "name": "Jombang",
+        "ids": {
+            "geonames": 1642414
+        },
+        "long": {
+            "default": "Jombang"
+        },
         "lat": -7.54595,
         "lng": 112.23307,
         "country": "ID",
@@ -1341,8 +1937,12 @@
         "population": 126465
     },
     "1642588": {
-        "geoid": "1642588",
-        "name": "Jember",
+        "ids": {
+            "geonames": 1642588
+        },
+        "long": {
+            "default": "Jember"
+        },
         "lat": -8.17211,
         "lng": 113.69953,
         "country": "ID",
@@ -1350,8 +1950,12 @@
         "population": 298585
     },
     "1642684": {
-        "geoid": "1642684",
-        "name": "Jatiwangi",
+        "ids": {
+            "geonames": 1642684
+        },
+        "long": {
+            "default": "Jatiwangi"
+        },
         "lat": -6.73361,
         "lng": 108.26278,
         "country": "ID",
@@ -1359,8 +1963,12 @@
         "population": 57973
     },
     "1642692": {
-        "geoid": "1642692",
-        "name": "Jatiroto",
+        "ids": {
+            "geonames": 1642692
+        },
+        "long": {
+            "default": "Jatiroto"
+        },
         "lat": -7.88333,
         "lng": 111.11667,
         "country": "ID",
@@ -1368,8 +1976,12 @@
         "population": 50059
     },
     "1642726": {
-        "geoid": "1642726",
-        "name": "Jatibarang",
+        "ids": {
+            "geonames": 1642726
+        },
+        "long": {
+            "default": "Jatibarang"
+        },
         "lat": -6.47472,
         "lng": 108.31528,
         "country": "ID",
@@ -1377,8 +1989,12 @@
         "population": 73010
     },
     "1642858": {
-        "geoid": "1642858",
-        "name": "Jambi City",
+        "ids": {
+            "geonames": 1642858
+        },
+        "long": {
+            "default": "Jambi City"
+        },
         "lat": -1.6,
         "lng": 103.61667,
         "country": "ID",
@@ -1386,8 +2002,12 @@
         "population": 420323
     },
     "1642911": {
-        "geoid": "1642911",
-        "name": "Jakarta",
+        "ids": {
+            "geonames": 1642911
+        },
+        "long": {
+            "default": "Jakarta"
+        },
         "lat": -6.21462,
         "lng": 106.84513,
         "country": "ID",
@@ -1395,8 +2015,12 @@
         "population": 8540121
     },
     "1643078": {
-        "geoid": "1643078",
-        "name": "Indramayu",
+        "ids": {
+            "geonames": 1643078
+        },
+        "long": {
+            "default": "Indramayu"
+        },
         "lat": -6.32639,
         "lng": 108.32,
         "country": "ID",
@@ -1404,8 +2028,12 @@
         "population": 123263
     },
     "1643761": {
-        "geoid": "1643761",
-        "name": "Grogol",
+        "ids": {
+            "geonames": 1643761
+        },
+        "long": {
+            "default": "Grogol"
+        },
         "lat": -7.60111,
         "lng": 110.81861,
         "country": "ID",
@@ -1413,8 +2041,12 @@
         "population": 100613
     },
     "1643776": {
-        "geoid": "1643776",
-        "name": "Gresik",
+        "ids": {
+            "geonames": 1643776
+        },
+        "long": {
+            "default": "Gresik"
+        },
         "lat": -7.15389,
         "lng": 112.65611,
         "country": "ID",
@@ -1422,8 +2054,12 @@
         "population": 73629
     },
     "1643837": {
-        "geoid": "1643837",
-        "name": "Gorontalo",
+        "ids": {
+            "geonames": 1643837
+        },
+        "long": {
+            "default": "Gorontalo"
+        },
         "lat": 0.5375,
         "lng": 123.0625,
         "country": "ID",
@@ -1431,8 +2067,12 @@
         "population": 144195
     },
     "1643981": {
-        "geoid": "1643981",
-        "name": "Godean",
+        "ids": {
+            "geonames": 1643981
+        },
+        "long": {
+            "default": "Godean"
+        },
         "lat": -7.76972,
         "lng": 110.29389,
         "country": "ID",
@@ -1440,8 +2080,12 @@
         "population": 63164
     },
     "1644178": {
-        "geoid": "1644178",
-        "name": "Genteng",
+        "ids": {
+            "geonames": 1644178
+        },
+        "long": {
+            "default": "Genteng"
+        },
         "lat": -8.36667,
         "lng": 114.15,
         "country": "ID",
@@ -1449,8 +2093,12 @@
         "population": 79652
     },
     "1644349": {
-        "geoid": "1644349",
-        "name": "Gedangan",
+        "ids": {
+            "geonames": 1644349
+        },
+        "long": {
+            "default": "Gedangan"
+        },
         "lat": -7.39083,
         "lng": 112.72667,
         "country": "ID",
@@ -1458,8 +2106,12 @@
         "population": 79230
     },
     "1644605": {
-        "geoid": "1644605",
-        "name": "Galesong",
+        "ids": {
+            "geonames": 1644605
+        },
+        "long": {
+            "default": "Galesong"
+        },
         "lat": -5.3166,
         "lng": 119.3661,
         "country": "ID",
@@ -1467,8 +2119,12 @@
         "population": 83050
     },
     "1644932": {
-        "geoid": "1644932",
-        "name": "Ende",
+        "ids": {
+            "geonames": 1644932
+        },
+        "long": {
+            "default": "Ende"
+        },
         "lat": -8.8432,
         "lng": 121.6623,
         "country": "ID",
@@ -1476,8 +2132,12 @@
         "population": 77205
     },
     "1645133": {
-        "geoid": "1645133",
-        "name": "Dumai",
+        "ids": {
+            "geonames": 1645133
+        },
+        "long": {
+            "default": "Dumai"
+        },
         "lat": 1.66711,
         "lng": 101.44316,
         "country": "ID",
@@ -1485,8 +2145,12 @@
         "population": 143760
     },
     "1645154": {
-        "geoid": "1645154",
-        "name": "Dukuhturi",
+        "ids": {
+            "geonames": 1645154
+        },
+        "long": {
+            "default": "Dukuhturi"
+        },
         "lat": -6.9,
         "lng": 109.08333,
         "country": "ID",
@@ -1494,8 +2158,12 @@
         "population": 98074
     },
     "1645518": {
-        "geoid": "1645518",
-        "name": "Depok",
+        "ids": {
+            "geonames": 1645518
+        },
+        "long": {
+            "default": "Depok"
+        },
         "lat": -7.7625,
         "lng": 110.43167,
         "country": "ID",
@@ -1503,8 +2171,12 @@
         "population": 104527
     },
     "1645524": {
-        "geoid": "1645524",
-        "name": "Depok",
+        "ids": {
+            "geonames": 1645524
+        },
+        "long": {
+            "default": "Depok"
+        },
         "lat": -6.4,
         "lng": 106.81861,
         "country": "ID",
@@ -1512,8 +2184,12 @@
         "population": 1198129
     },
     "1645528": {
-        "geoid": "1645528",
-        "name": "Denpasar",
+        "ids": {
+            "geonames": 1645528
+        },
+        "long": {
+            "default": "Denpasar"
+        },
         "lat": -8.65,
         "lng": 115.21667,
         "country": "ID",
@@ -1521,8 +2197,12 @@
         "population": 834881
     },
     "1645895": {
-        "geoid": "1645895",
-        "name": "Curug",
+        "ids": {
+            "geonames": 1645895
+        },
+        "long": {
+            "default": "Curug"
+        },
         "lat": -6.26583,
         "lng": 106.55639,
         "country": "ID",
@@ -1530,8 +2210,12 @@
         "population": 191406
     },
     "1645976": {
-        "geoid": "1645976",
-        "name": "Comal",
+        "ids": {
+            "geonames": 1645976
+        },
+        "long": {
+            "default": "Comal"
+        },
         "lat": -6.9053,
         "lng": 109.5347,
         "country": "ID",
@@ -1539,8 +2223,12 @@
         "population": 51092
     },
     "1646034": {
-        "geoid": "1646034",
-        "name": "Citeureup",
+        "ids": {
+            "geonames": 1646034
+        },
+        "long": {
+            "default": "Citeureup"
+        },
         "lat": -6.48556,
         "lng": 106.88194,
         "country": "ID",
@@ -1548,8 +2236,12 @@
         "population": 110155
     },
     "1646170": {
-        "geoid": "1646170",
-        "name": "Cirebon",
+        "ids": {
+            "geonames": 1646170
+        },
+        "long": {
+            "default": "Cirebon"
+        },
         "lat": -6.7063,
         "lng": 108.557,
         "country": "ID",
@@ -1557,8 +2249,12 @@
         "population": 254298
     },
     "1646194": {
-        "geoid": "1646194",
-        "name": "Ciputat",
+        "ids": {
+            "geonames": 1646194
+        },
+        "long": {
+            "default": "Ciputat"
+        },
         "lat": -6.2375,
         "lng": 106.69556,
         "country": "ID",
@@ -1566,8 +2262,12 @@
         "population": 207858
     },
     "1646448": {
-        "geoid": "1646448",
-        "name": "Cimahi",
+        "ids": {
+            "geonames": 1646448
+        },
+        "long": {
+            "default": "Cimahi"
+        },
         "lat": -6.87222,
         "lng": 107.5425,
         "country": "ID",
@@ -1575,8 +2275,12 @@
         "population": 493698
     },
     "1646492": {
-        "geoid": "1646492",
-        "name": "Cileunyi",
+        "ids": {
+            "geonames": 1646492
+        },
+        "long": {
+            "default": "Cileunyi"
+        },
         "lat": -6.93889,
         "lng": 107.75278,
         "country": "ID",
@@ -1584,8 +2288,12 @@
         "population": 111476
     },
     "1646494": {
-        "geoid": "1646494",
-        "name": "Cileungsir",
+        "ids": {
+            "geonames": 1646494
+        },
+        "long": {
+            "default": "Cileungsir"
+        },
         "lat": -6.39472,
         "lng": 106.95917,
         "country": "ID",
@@ -1593,8 +2301,12 @@
         "population": 202190
     },
     "1646678": {
-        "geoid": "1646678",
-        "name": "Cikarang",
+        "ids": {
+            "geonames": 1646678
+        },
+        "long": {
+            "default": "Cikarang"
+        },
         "lat": -6.26111,
         "lng": 107.15278,
         "country": "ID",
@@ -1602,8 +2314,12 @@
         "population": 106479
     },
     "1646698": {
-        "geoid": "1646698",
-        "name": "Cikampek",
+        "ids": {
+            "geonames": 1646698
+        },
+        "long": {
+            "default": "Cikampek"
+        },
         "lat": -6.41972,
         "lng": 107.45583,
         "country": "ID",
@@ -1611,8 +2327,12 @@
         "population": 145620
     },
     "1646893": {
-        "geoid": "1646893",
-        "name": "Cicurug",
+        "ids": {
+            "geonames": 1646893
+        },
+        "long": {
+            "default": "Cicurug"
+        },
         "lat": -6.78139,
         "lng": 106.7825,
         "country": "ID",
@@ -1620,8 +2340,12 @@
         "population": 88965
     },
     "1647003": {
-        "geoid": "1647003",
-        "name": "Cibinong",
+        "ids": {
+            "geonames": 1647003
+        },
+        "long": {
+            "default": "Cibinong"
+        },
         "lat": -6.48167,
         "lng": 106.85417,
         "country": "ID",
@@ -1629,8 +2353,12 @@
         "population": 188663
     },
     "1647149": {
-        "geoid": "1647149",
-        "name": "Ciamis",
+        "ids": {
+            "geonames": 1647149
+        },
+        "long": {
+            "default": "Ciamis"
+        },
         "lat": -7.3257,
         "lng": 108.3534,
         "country": "ID",
@@ -1638,8 +2366,12 @@
         "population": 123637
     },
     "1647179": {
-        "geoid": "1647179",
-        "name": "Cepu",
+        "ids": {
+            "geonames": 1647179
+        },
+        "long": {
+            "default": "Cepu"
+        },
         "lat": -7.1475,
         "lng": 111.5906,
         "country": "ID",
@@ -1647,8 +2379,12 @@
         "population": 55055
     },
     "1647298": {
-        "geoid": "1647298",
-        "name": "Caringin",
+        "ids": {
+            "geonames": 1647298
+        },
+        "long": {
+            "default": "Caringin"
+        },
         "lat": -6.70611,
         "lng": 106.82139,
         "country": "ID",
@@ -1656,8 +2392,12 @@
         "population": 91845
     },
     "1647383": {
-        "geoid": "1647383",
-        "name": "Ciampea",
+        "ids": {
+            "geonames": 1647383
+        },
+        "long": {
+            "default": "Ciampea"
+        },
         "lat": -6.55472,
         "lng": 106.70083,
         "country": "ID",
@@ -1665,8 +2405,12 @@
         "population": 207212
     },
     "1647866": {
-        "geoid": "1647866",
-        "name": "Bukittinggi",
+        "ids": {
+            "geonames": 1647866
+        },
+        "long": {
+            "default": "Bukittinggi"
+        },
         "lat": -0.30907,
         "lng": 100.37055,
         "country": "ID",
@@ -1674,8 +2418,12 @@
         "population": 98746
     },
     "1648084": {
-        "geoid": "1648084",
-        "name": "Boyolali",
+        "ids": {
+            "geonames": 1648084
+        },
+        "long": {
+            "default": "Boyolali"
+        },
         "lat": -7.53306,
         "lng": 110.59583,
         "country": "ID",
@@ -1683,8 +2431,12 @@
         "population": 59851
     },
     "1648186": {
-        "geoid": "1648186",
-        "name": "Bontang",
+        "ids": {
+            "geonames": 1648186
+        },
+        "long": {
+            "default": "Bontang"
+        },
         "lat": 0.1324,
         "lng": 117.4854,
         "country": "ID",
@@ -1692,8 +2444,12 @@
         "population": 101691
     },
     "1648266": {
-        "geoid": "1648266",
-        "name": "Bondowoso",
+        "ids": {
+            "geonames": 1648266
+        },
+        "long": {
+            "default": "Bondowoso"
+        },
         "lat": -7.91346,
         "lng": 113.82145,
         "country": "ID",
@@ -1701,8 +2457,12 @@
         "population": 69783
     },
     "1648451": {
-        "geoid": "1648451",
-        "name": "Bojonegoro",
+        "ids": {
+            "geonames": 1648451
+        },
+        "long": {
+            "default": "Bojonegoro"
+        },
         "lat": -7.1502,
         "lng": 111.8817,
         "country": "ID",
@@ -1710,8 +2470,12 @@
         "population": 86568
     },
     "1648473": {
-        "geoid": "1648473",
-        "name": "Bogor",
+        "ids": {
+            "geonames": 1648473
+        },
+        "long": {
+            "default": "Bogor"
+        },
         "lat": -6.59444,
         "lng": 106.78917,
         "country": "ID",
@@ -1719,8 +2483,12 @@
         "population": 800000
     },
     "1648568": {
-        "geoid": "1648568",
-        "name": "Blora",
+        "ids": {
+            "geonames": 1648568
+        },
+        "long": {
+            "default": "Blora"
+        },
         "lat": -6.9698,
         "lng": 111.4186,
         "country": "ID",
@@ -1728,8 +2496,12 @@
         "population": 51811
     },
     "1648580": {
-        "geoid": "1648580",
-        "name": "Blitar",
+        "ids": {
+            "geonames": 1648580
+        },
+        "long": {
+            "default": "Blitar"
+        },
         "lat": -8.0983,
         "lng": 112.1681,
         "country": "ID",
@@ -1737,8 +2509,12 @@
         "population": 132416
     },
     "1648636": {
-        "geoid": "1648636",
-        "name": "Bitung",
+        "ids": {
+            "geonames": 1648636
+        },
+        "long": {
+            "default": "Bitung"
+        },
         "lat": 1.45697,
         "lng": 125.1895,
         "country": "ID",
@@ -1746,8 +2522,12 @@
         "population": 137364
     },
     "1648759": {
-        "geoid": "1648759",
-        "name": "Bima",
+        "ids": {
+            "geonames": 1648759
+        },
+        "long": {
+            "default": "Bima"
+        },
         "lat": -8.46006,
         "lng": 118.72667,
         "country": "ID",
@@ -1755,8 +2535,12 @@
         "population": 66970
     },
     "1648918": {
-        "geoid": "1648918",
-        "name": "Besuki",
+        "ids": {
+            "geonames": 1648918
+        },
+        "long": {
+            "default": "Besuki"
+        },
         "lat": -7.73379,
         "lng": 113.69785,
         "country": "ID",
@@ -1764,8 +2548,12 @@
         "population": 55465
     },
     "1649150": {
-        "geoid": "1649150",
-        "name": "Bengkulu",
+        "ids": {
+            "geonames": 1649150
+        },
+        "long": {
+            "default": "Bengkulu"
+        },
         "lat": -3.80044,
         "lng": 102.26554,
         "country": "ID",
@@ -1773,8 +2561,12 @@
         "population": 309712
     },
     "1649378": {
-        "geoid": "1649378",
-        "name": "Bekasi",
+        "ids": {
+            "geonames": 1649378
+        },
+        "long": {
+            "default": "Bekasi"
+        },
         "lat": -6.2349,
         "lng": 106.9896,
         "country": "ID",
@@ -1782,8 +2574,12 @@
         "population": 1520119
     },
     "1649593": {
-        "geoid": "1649593",
-        "name": "Baturaja",
+        "ids": {
+            "geonames": 1649593
+        },
+        "long": {
+            "default": "Baturaja"
+        },
         "lat": -4.12891,
         "lng": 104.16695,
         "country": "ID",
@@ -1791,8 +2587,12 @@
         "population": 134759
     },
     "1649824": {
-        "geoid": "1649824",
-        "name": "Batu",
+        "ids": {
+            "geonames": 1649824
+        },
+        "long": {
+            "default": "Batu"
+        },
         "lat": -7.87,
         "lng": 112.52833,
         "country": "ID",
@@ -1800,8 +2600,12 @@
         "population": 75631
     },
     "1649881": {
-        "geoid": "1649881",
-        "name": "Batang",
+        "ids": {
+            "geonames": 1649881
+        },
+        "long": {
+            "default": "Batang"
+        },
         "lat": -6.4846,
         "lng": 110.7083,
         "country": "ID",
@@ -1809,8 +2613,12 @@
         "population": 115537
     },
     "1650064": {
-        "geoid": "1650064",
-        "name": "Barabai",
+        "ids": {
+            "geonames": 1650064
+        },
+        "long": {
+            "default": "Barabai"
+        },
         "lat": -2.58333,
         "lng": 115.38333,
         "country": "ID",
@@ -1818,8 +2626,12 @@
         "population": 60192
     },
     "1650077": {
-        "geoid": "1650077",
-        "name": "Banyuwangi",
+        "ids": {
+            "geonames": 1650077
+        },
+        "long": {
+            "default": "Banyuwangi"
+        },
         "lat": -8.2325,
         "lng": 114.35755,
         "country": "ID",
@@ -1827,8 +2639,12 @@
         "population": 108166
     },
     "1650119": {
-        "geoid": "1650119",
-        "name": "Bantul",
+        "ids": {
+            "geonames": 1650119
+        },
+        "long": {
+            "default": "Bantul"
+        },
         "lat": -7.88806,
         "lng": 110.32889,
         "country": "ID",
@@ -1836,8 +2652,12 @@
         "population": 58653
     },
     "1650213": {
-        "geoid": "1650213",
-        "name": "Banjarmasin",
+        "ids": {
+            "geonames": 1650213
+        },
+        "long": {
+            "default": "Banjarmasin"
+        },
         "lat": -3.31987,
         "lng": 114.59075,
         "country": "ID",
@@ -1845,8 +2665,12 @@
         "population": 572837
     },
     "1650227": {
-        "geoid": "1650227",
-        "name": "Banjaran",
+        "ids": {
+            "geonames": 1650227
+        },
+        "long": {
+            "default": "Banjaran"
+        },
         "lat": -7.04528,
         "lng": 107.58778,
         "country": "ID",
@@ -1854,8 +2678,12 @@
         "population": 164952
     },
     "1650232": {
-        "geoid": "1650232",
-        "name": "Banjar",
+        "ids": {
+            "geonames": 1650232
+        },
+        "long": {
+            "default": "Banjar"
+        },
         "lat": -8.19,
         "lng": 114.9675,
         "country": "ID",
@@ -1863,8 +2691,12 @@
         "population": 89040
     },
     "1650298": {
-        "geoid": "1650298",
-        "name": "Bangkalan",
+        "ids": {
+            "geonames": 1650298
+        },
+        "long": {
+            "default": "Bangkalan"
+        },
         "lat": -7.0455,
         "lng": 112.7351,
         "country": "ID",
@@ -1872,8 +2704,12 @@
         "population": 62178
     },
     "1650319": {
-        "geoid": "1650319",
-        "name": "Bangil",
+        "ids": {
+            "geonames": 1650319
+        },
+        "long": {
+            "default": "Bangil"
+        },
         "lat": -7.59939,
         "lng": 112.8186,
         "country": "ID",
@@ -1881,8 +2717,12 @@
         "population": 120000
     },
     "1650357": {
-        "geoid": "1650357",
-        "name": "Bandung",
+        "ids": {
+            "geonames": 1650357
+        },
+        "long": {
+            "default": "Bandung"
+        },
         "lat": -6.92222,
         "lng": 107.60694,
         "country": "ID",
@@ -1890,8 +2730,12 @@
         "population": 1699719
     },
     "1650527": {
-        "geoid": "1650527",
-        "name": "Balikpapan",
+        "ids": {
+            "geonames": 1650527
+        },
+        "long": {
+            "default": "Balikpapan"
+        },
         "lat": -1.26753,
         "lng": 116.82887,
         "country": "ID",
@@ -1899,8 +2743,12 @@
         "population": 433866
     },
     "1650600": {
-        "geoid": "1650600",
-        "name": "Balaipungut",
+        "ids": {
+            "geonames": 1650600
+        },
+        "long": {
+            "default": "Balaipungut"
+        },
         "lat": 1.05949,
         "lng": 101.29054,
         "country": "ID",
@@ -1908,8 +2756,12 @@
         "population": 56452
     },
     "1650670": {
-        "geoid": "1650670",
-        "name": "Baki",
+        "ids": {
+            "geonames": 1650670
+        },
+        "long": {
+            "default": "Baki"
+        },
         "lat": -7.61278,
         "lng": 110.78389,
         "country": "ID",
@@ -1917,8 +2769,12 @@
         "population": 58909
     },
     "1650815": {
-        "geoid": "1650815",
-        "name": "Baekrajan",
+        "ids": {
+            "geonames": 1650815
+        },
+        "long": {
+            "default": "Baekrajan"
+        },
         "lat": -6.7674,
         "lng": 110.8541,
         "country": "ID",
@@ -1926,8 +2782,12 @@
         "population": 57920
     },
     "1651112": {
-        "geoid": "1651112",
-        "name": "Astanajapura",
+        "ids": {
+            "geonames": 1651112
+        },
+        "long": {
+            "default": "Astanajapura"
+        },
         "lat": -6.8017,
         "lng": 108.6311,
         "country": "ID",
@@ -1935,8 +2795,12 @@
         "population": 148047
     },
     "1651226": {
-        "geoid": "1651226",
-        "name": "Arjawinangun",
+        "ids": {
+            "geonames": 1651226
+        },
+        "long": {
+            "default": "Arjawinangun"
+        },
         "lat": -6.64528,
         "lng": 108.41028,
         "country": "ID",
@@ -1944,8 +2808,12 @@
         "population": 105845
     },
     "1651461": {
-        "geoid": "1651461",
-        "name": "Amuntai",
+        "ids": {
+            "geonames": 1651461
+        },
+        "long": {
+            "default": "Amuntai"
+        },
         "lat": -2.41773,
         "lng": 115.24941,
         "country": "ID",
@@ -1953,8 +2821,12 @@
         "population": 55560
     },
     "1651531": {
-        "geoid": "1651531",
-        "name": "Ambon",
+        "ids": {
+            "geonames": 1651531
+        },
+        "long": {
+            "default": "Ambon"
+        },
         "lat": -3.69583,
         "lng": 128.18333,
         "country": "ID",
@@ -1962,8 +2834,12 @@
         "population": 355596
     },
     "1651555": {
-        "geoid": "1651555",
-        "name": "Ambarawa",
+        "ids": {
+            "geonames": 1651555
+        },
+        "long": {
+            "default": "Ambarawa"
+        },
         "lat": -7.26333,
         "lng": 110.3975,
         "country": "ID",
@@ -1971,8 +2847,12 @@
         "population": 84379
     },
     "1651887": {
-        "geoid": "1651887",
-        "name": "Adiwerna",
+        "ids": {
+            "geonames": 1651887
+        },
+        "long": {
+            "default": "Adiwerna"
+        },
         "lat": -6.9375,
         "lng": 109.1325,
         "country": "ID",
@@ -1980,8 +2860,12 @@
         "population": 134188
     },
     "1963770": {
-        "geoid": "1963770",
-        "name": "Padalarang",
+        "ids": {
+            "geonames": 1963770
+        },
+        "long": {
+            "default": "Padalarang"
+        },
         "lat": -6.83778,
         "lng": 107.47278,
         "country": "ID",
@@ -1989,8 +2873,12 @@
         "population": 124946
     },
     "1964032": {
-        "geoid": "1964032",
-        "name": "Ciranjang-hilir",
+        "ids": {
+            "geonames": 1964032
+        },
+        "long": {
+            "default": "Ciranjang-hilir"
+        },
         "lat": -6.82,
         "lng": 107.25722,
         "country": "ID",
@@ -1998,8 +2886,12 @@
         "population": 77758
     },
     "1985663": {
-        "geoid": "1985663",
-        "name": "Cikupa",
+        "ids": {
+            "geonames": 1985663
+        },
+        "long": {
+            "default": "Cikupa"
+        },
         "lat": -6.23639,
         "lng": 106.50833,
         "country": "ID",
@@ -2007,8 +2899,12 @@
         "population": 174041
     },
     "1990589": {
-        "geoid": "1990589",
-        "name": "Teluknaga",
+        "ids": {
+            "geonames": 1990589
+        },
+        "long": {
+            "default": "Teluknaga"
+        },
         "lat": -6.09889,
         "lng": 106.63806,
         "country": "ID",
@@ -2016,8 +2912,12 @@
         "population": 128275
     },
     "2005057": {
-        "geoid": "2005057",
-        "name": "Gamping Lor",
+        "ids": {
+            "geonames": 2005057
+        },
+        "long": {
+            "default": "Gamping Lor"
+        },
         "lat": -7.79556,
         "lng": 110.32639,
         "country": "ID",
@@ -2025,8 +2925,12 @@
         "population": 66110
     },
     "2005237": {
-        "geoid": "2005237",
-        "name": "Kasihan",
+        "ids": {
+            "geonames": 2005237
+        },
+        "long": {
+            "default": "Kasihan"
+        },
         "lat": -7.82694,
         "lng": 110.32917,
         "country": "ID",
@@ -2034,8 +2938,12 @@
         "population": 86234
     },
     "2010985": {
-        "geoid": "2010985",
-        "name": "Kartasura",
+        "ids": {
+            "geonames": 2010985
+        },
+        "long": {
+            "default": "Kartasura"
+        },
         "lat": -7.55194,
         "lng": 110.73778,
         "country": "ID",
@@ -2043,8 +2951,12 @@
         "population": 88927
     },
     "2057087": {
-        "geoid": "2057087",
-        "name": "Kupang",
+        "ids": {
+            "geonames": 2057087
+        },
+        "long": {
+            "default": "Kupang"
+        },
         "lat": -10.17083,
         "lng": 123.60694,
         "country": "ID",
@@ -2052,8 +2964,12 @@
         "population": 282396
     },
     "2082600": {
-        "geoid": "2082600",
-        "name": "Jayapura",
+        "ids": {
+            "geonames": 2082600
+        },
+        "long": {
+            "default": "Jayapura"
+        },
         "lat": -2.53371,
         "lng": 140.71813,
         "country": "ID",
@@ -2061,8 +2977,12 @@
         "population": 134895
     },
     "2082727": {
-        "geoid": "2082727",
-        "name": "Abepura",
+        "ids": {
+            "geonames": 2082727
+        },
+        "long": {
+            "default": "Abepura"
+        },
         "lat": -2.5964,
         "lng": 140.6324,
         "country": "ID",
@@ -2070,8 +2990,12 @@
         "population": 62248
     },
     "8224624": {
-        "geoid": "8224624",
-        "name": "City of Balikpapan",
+        "ids": {
+            "geonames": 8224624
+        },
+        "long": {
+            "default": "City of Balikpapan"
+        },
         "lat": -1.24204,
         "lng": 116.89419,
         "country": "ID",
@@ -2079,8 +3003,12 @@
         "population": 700000
     },
     "8581443": {
-        "geoid": "8581443",
-        "name": "South Tangerang",
+        "ids": {
+            "geonames": 8581443
+        },
+        "long": {
+            "default": "South Tangerang"
+        },
         "lat": -6.28862,
         "lng": 106.71789,
         "country": "ID",

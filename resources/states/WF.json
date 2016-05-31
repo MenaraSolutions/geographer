@@ -4,8 +4,8 @@
             "fips": "98613",
             "geonames": 4034759
         },
-        "names": {
-            "long": "Circonscription d'Uvéa"
+        "long": {
+            "default": "Circonscription d'Uvéa"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "98612",
             "geonames": 4034776
         },
-        "names": {
-            "long": "Circonscription de Sigavé"
+        "long": {
+            "default": "Circonscription de Sigavé"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "98611",
             "geonames": 4034884
         },
-        "names": {
-            "long": "Circonscription d'Alo"
+        "long": {
+            "default": "Circonscription d'Alo"
         }
     }
 ]

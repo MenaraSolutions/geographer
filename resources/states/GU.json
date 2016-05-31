@@ -4,8 +4,8 @@
             "fips": "PI",
             "geonames": 4038478
         },
-        "names": {
-            "long": "Piti"
+        "long": {
+            "default": "Piti"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "SR",
             "geonames": 4038555
         },
-        "names": {
-            "long": "Santa Rita"
+        "long": {
+            "default": "Santa Rita"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "SJ",
             "geonames": 4038590
         },
-        "names": {
-            "long": "Sinajana"
+        "long": {
+            "default": "Sinajana"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "TF",
             "geonames": 4038652
         },
-        "names": {
-            "long": "Talofofo"
+        "long": {
+            "default": "Talofofo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "TM",
             "geonames": 4038661
         },
-        "names": {
-            "long": "Tamuning"
+        "long": {
+            "default": "Tamuning"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "UM",
             "geonames": 4038739
         },
-        "names": {
-            "long": "Umatac"
+        "long": {
+            "default": "Umatac"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "YG",
             "geonames": 4038796
         },
-        "names": {
-            "long": "Yigo"
+        "long": {
+            "default": "Yigo"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "YN",
             "geonames": 4038811
         },
-        "names": {
-            "long": "Yona"
+        "long": {
+            "default": "Yona"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "ME",
             "geonames": 4043396
         },
-        "names": {
-            "long": "Merizo"
+        "long": {
+            "default": "Merizo"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "MA",
             "geonames": 4043416
         },
-        "names": {
-            "long": "Mangilao"
+        "long": {
+            "default": "Mangilao"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "AH",
             "geonames": 4043524
         },
-        "names": {
-            "long": "Agana Heights"
+        "long": {
+            "default": "Agana Heights"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "CP",
             "geonames": 4043614
         },
-        "names": {
-            "long": "Chalan Pago-Ordot"
+        "long": {
+            "default": "Chalan Pago-Ordot"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "AS",
             "geonames": 4043691
         },
-        "names": {
-            "long": "Asan"
+        "long": {
+            "default": "Asan"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "AT",
             "geonames": 4043725
         },
-        "names": {
-            "long": "Agat"
+        "long": {
+            "default": "Agat"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "DD",
             "geonames": 4043877
         },
-        "names": {
-            "long": "Dededo"
+        "long": {
+            "default": "Dededo"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "BA",
             "geonames": 4043885
         },
-        "names": {
-            "long": "Barrigada"
+        "long": {
+            "default": "Barrigada"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "AN",
             "geonames": 4044019
         },
-        "names": {
-            "long": "Hagatna"
+        "long": {
+            "default": "Hagatna"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "IN",
             "geonames": 4044041
         },
-        "names": {
-            "long": "Inarajan"
+        "long": {
+            "default": "Inarajan"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "MT",
             "geonames": 4044148
         },
-        "names": {
-            "long": "Mongmong-Toto-Maite"
+        "long": {
+            "default": "Mongmong-Toto-Maite"
         }
     }
 ]

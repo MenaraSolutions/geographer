@@ -4,8 +4,8 @@
             "fips": "12",
             "geonames": 2243939
         },
-        "names": {
-            "long": "Ziguinchor"
+        "long": {
+            "default": "Ziguinchor"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "07",
             "geonames": 2244800
         },
-        "names": {
-            "long": "Thiès"
+        "long": {
+            "default": "Thiès"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 2244990
         },
-        "names": {
-            "long": "Tambacounda"
+        "long": {
+            "default": "Tambacounda"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "14",
             "geonames": 2246451
         },
-        "names": {
-            "long": "Saint-Louis"
+        "long": {
+            "default": "Saint-Louis"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 2248753
         },
-        "names": {
-            "long": "Matam"
+        "long": {
+            "default": "Matam"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 2249221
         },
-        "names": {
-            "long": "Louga"
+        "long": {
+            "default": "Louga"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "11",
             "geonames": 2249781
         },
-        "names": {
-            "long": "Kolda"
+        "long": {
+            "default": "Kolda"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "10",
             "geonames": 2250804
         },
-        "names": {
-            "long": "Kaolack"
+        "long": {
+            "default": "Kaolack"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "09",
             "geonames": 2251910
         },
-        "names": {
-            "long": "Fatick"
+        "long": {
+            "default": "Fatick"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "03",
             "geonames": 2252308
         },
-        "names": {
-            "long": "Diourbel"
+        "long": {
+            "default": "Diourbel"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "01",
             "geonames": 2253350
         },
-        "names": {
-            "long": "Dakar"
+        "long": {
+            "default": "Dakar"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "16",
             "geonames": 7303935
         },
-        "names": {
-            "long": "Kaffrine"
+        "long": {
+            "default": "Kaffrine"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "17",
             "geonames": 7303936
         },
-        "names": {
-            "long": "Kédougou"
+        "long": {
+            "default": "Kédougou"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "18",
             "geonames": 7303937
         },
-        "names": {
-            "long": "Sédhiou"
+        "long": {
+            "default": "Sédhiou"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 604010
         },
-        "names": {
-            "long": "Norrbotten"
+        "long": {
+            "default": "Norrbotten"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "25",
             "geonames": 2664179
         },
-        "names": {
-            "long": "Västmanland"
+        "long": {
+            "default": "Västmanland"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "24",
             "geonames": 2664292
         },
-        "names": {
-            "long": "Västernorrland"
+        "long": {
+            "default": "Västernorrland"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "23",
             "geonames": 2664415
         },
-        "names": {
-            "long": "Västerbotten"
+        "long": {
+            "default": "Västerbotten"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "22",
             "geonames": 2664870
         },
-        "names": {
-            "long": "Värmland"
+        "long": {
+            "default": "Värmland"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "21",
             "geonames": 2666218
         },
-        "names": {
-            "long": "Uppsala"
+        "long": {
+            "default": "Uppsala"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "26",
             "geonames": 2673722
         },
-        "names": {
-            "long": "Stockholm"
+        "long": {
+            "default": "Stockholm"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "18",
             "geonames": 2676207
         },
-        "names": {
-            "long": "Södermanland"
+        "long": {
+            "default": "Södermanland"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "16",
             "geonames": 2685867
         },
-        "names": {
-            "long": "Östergötland"
+        "long": {
+            "default": "Östergötland"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "15",
             "geonames": 2686655
         },
-        "names": {
-            "long": "Örebro"
+        "long": {
+            "default": "Örebro"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "12",
             "geonames": 2699050
         },
-        "names": {
-            "long": "Kronoberg"
+        "long": {
+            "default": "Kronoberg"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "10",
             "geonames": 2699767
         },
-        "names": {
-            "long": "Dalarna"
+        "long": {
+            "default": "Dalarna"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "09",
             "geonames": 2702259
         },
-        "names": {
-            "long": "Kalmar"
+        "long": {
+            "default": "Kalmar"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "08",
             "geonames": 2702976
         },
-        "names": {
-            "long": "Jönköping"
+        "long": {
+            "default": "Jönköping"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "07",
             "geonames": 2703330
         },
-        "names": {
-            "long": "Jämtland"
+        "long": {
+            "default": "Jämtland"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "06",
             "geonames": 2708794
         },
-        "names": {
-            "long": "Halland"
+        "long": {
+            "default": "Halland"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "05",
             "geonames": 2711508
         },
-        "names": {
-            "long": "Gotland"
+        "long": {
+            "default": "Gotland"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "03",
             "geonames": 2712411
         },
-        "names": {
-            "long": "Gävleborg"
+        "long": {
+            "default": "Gävleborg"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "02",
             "geonames": 2721357
         },
-        "names": {
-            "long": "Blekinge"
+        "long": {
+            "default": "Blekinge"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "27",
             "geonames": 3337385
         },
-        "names": {
-            "long": "Skåne"
+        "long": {
+            "default": "Skåne"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "28",
             "geonames": 3337386
         },
-        "names": {
-            "long": "Västra Götaland"
+        "long": {
+            "default": "Västra Götaland"
         }
     }
 ]

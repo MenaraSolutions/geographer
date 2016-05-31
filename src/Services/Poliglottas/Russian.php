@@ -25,40 +25,17 @@ class Russian extends Base
     /**
      * @var array
      */
-    protected $replaceableLettersFrom = [
-        'л' => 'а',
-        'т' => 'а',
-        'к' => 'а',
-        'г' => 'а',
-        'м' => 'а',
-        'з' => 'а',
-        'ш' => 'а',
-        'р' => 'а',
-        'с' => 'а',
-        'д' => 'а',
-        'н' => 'а',
-        'й' => 'я',
-        'я' => 'и',
-        'а' => 'ы'
+    protected $replacementsFrom = [
+        'л' => 'а', 'т' => 'а', 'к' => 'а', 'г' => 'а', 'м' => 'а', 'з' => 'а', 'ш' => 'а',
+        'р' => 'а', 'с' => 'а', 'д' => 'а', 'н' => 'а', 'й' => 'я', 'я' => 'и', 'а' => 'ы'
     ];
 
     /**
      * @var array
      */
-    protected $replaceableLettersIn = [
-        'й' => 'е',
-        'л' => 'е',
-        'т' => 'е',
-        'г' => 'е',
-        'м' => 'е',
-        'з' => 'е',
-        'ш' => 'е',
-        'р' => 'е',
-        'с' => 'е',
-        'д' => 'е',
-        'н' => 'е',
-        'а' => 'е',
-        'я' => 'и'
+    protected $replacementsIn = [
+        'й' => 'е', 'л' => 'е', 'т' => 'е', 'г' => 'е', 'м' => 'е', 'з' => 'е', 'ш' => 'е',
+        'р' => 'е', 'с' => 'е', 'д' => 'е', 'н' => 'е', 'а' => 'е', 'я' => 'и'
     ];
 
    /**
@@ -90,8 +67,8 @@ class Russian extends Base
     {
         $output = $this->removeLastLetterIfNeeded($template);
 
-        if (array_key_exists($this->getLastLetter($template), $this->replaceableLettersFrom)) {
-            $output .= $this->replaceableLettersIn[$this->getLastLetter($template)];
+        if (array_key_exists($this->getLastLetter($template), $this->replacementsFrom)) {
+            $output .= $this->replacementsIn[$this->getLastLetter($template)];
         }
 
         return $output;
@@ -105,8 +82,8 @@ class Russian extends Base
     {
         $output = $this->removeLastLetterIfNeeded($template);
 
-        if (array_key_exists($this->getLastLetter($template), $this->replaceableLettersFrom)) {
-            $output .= $this->replaceableLettersFrom[$this->getLastLetter($template)];
+        if (array_key_exists($this->getLastLetter($template), $this->replacementsFrom)) {
+            $output .= $this->replacementsFrom[$this->getLastLetter($template)];
         }
 
         return $output;

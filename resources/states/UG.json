@@ -4,8 +4,8 @@
             "fips": "C",
             "geonames": 234594
         },
-        "names": {
-            "long": "Central Region"
+        "long": {
+            "default": "Central Region"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "E",
             "geonames": 8260673
         },
-        "names": {
-            "long": "Eastern Region"
+        "long": {
+            "default": "Eastern Region"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "N",
             "geonames": 8260674
         },
-        "names": {
-            "long": "Northern Region"
+        "long": {
+            "default": "Northern Region"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "W",
             "geonames": 8260675
         },
-        "names": {
-            "long": "Western Region"
+        "long": {
+            "default": "Western Region"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 248380
         },
-        "names": {
-            "long": "Ma’an"
+        "long": {
+            "default": "Ma’an"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 248944
         },
-        "names": {
-            "long": "Irbid"
+        "long": {
+            "default": "Irbid"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 250092
         },
-        "names": {
-            "long": "Zarqa"
+        "long": {
+            "default": "Zarqa"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "12",
             "geonames": 250199
         },
-        "names": {
-            "long": "Tafielah"
+        "long": {
+            "default": "Tafielah"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "16",
             "geonames": 250439
         },
-        "names": {
-            "long": "Amman"
+        "long": {
+            "default": "Amman"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "15",
             "geonames": 250583
         },
-        "names": {
-            "long": "Mafraq"
+        "long": {
+            "default": "Mafraq"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 250625
         },
-        "names": {
-            "long": "Karak"
+        "long": {
+            "default": "Karak"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "02",
             "geonames": 250751
         },
-        "names": {
-            "long": "Balqa"
+        "long": {
+            "default": "Balqa"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "20",
             "geonames": 443120
         },
-        "names": {
-            "long": "Ajlun"
+        "long": {
+            "default": "Ajlun"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "22",
             "geonames": 443121
         },
-        "names": {
-            "long": "Jerash"
+        "long": {
+            "default": "Jerash"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "21",
             "geonames": 443122
         },
-        "names": {
-            "long": "Aqaba"
+        "long": {
+            "default": "Aqaba"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "23",
             "geonames": 443123
         },
-        "names": {
-            "long": "Madaba"
+        "long": {
+            "default": "Madaba"
         }
     }
 ]

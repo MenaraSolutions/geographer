@@ -1,7 +1,11 @@
 {
     "3621849": {
-        "geoid": "3621849",
-        "name": "San José",
+        "ids": {
+            "geonames": 3621849
+        },
+        "long": {
+            "default": "San José"
+        },
         "lat": 9.93333,
         "lng": -84.08333,
         "country": "CR",
@@ -9,8 +13,12 @@
         "population": 335007
     },
     "3621911": {
-        "geoid": "3621911",
-        "name": "San Francisco",
+        "ids": {
+            "geonames": 3621911
+        },
+        "long": {
+            "default": "San Francisco"
+        },
         "lat": 9.99299,
         "lng": -84.12934,
         "country": "CR",
@@ -18,8 +26,12 @@
         "population": 55923
     },
     "3622247": {
-        "geoid": "3622247",
-        "name": "Limón",
+        "ids": {
+            "geonames": 3622247
+        },
+        "long": {
+            "default": "Limón"
+        },
         "lat": 9.99074,
         "lng": -83.03596,
         "country": "CR",

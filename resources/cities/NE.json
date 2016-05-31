@@ -1,7 +1,11 @@
 {
     "2437798": {
-        "geoid": "2437798",
-        "name": "Zinder",
+        "ids": {
+            "geonames": 2437798
+        },
+        "long": {
+            "default": "Zinder"
+        },
         "lat": 13.80716,
         "lng": 8.9881,
         "country": "NE",
@@ -9,8 +13,12 @@
         "population": 191424
     },
     "2439376": {
-        "geoid": "2439376",
-        "name": "Tahoua",
+        "ids": {
+            "geonames": 2439376
+        },
+        "long": {
+            "default": "Tahoua"
+        },
         "lat": 14.8888,
         "lng": 5.2692,
         "country": "NE",
@@ -18,8 +26,12 @@
         "population": 80425
     },
     "2440485": {
-        "geoid": "2440485",
-        "name": "Niamey",
+        "ids": {
+            "geonames": 2440485
+        },
+        "long": {
+            "default": "Niamey"
+        },
         "lat": 13.51366,
         "lng": 2.1098,
         "country": "NE",
@@ -27,8 +39,12 @@
         "population": 774235
     },
     "2441291": {
-        "geoid": "2441291",
-        "name": "Maradi",
+        "ids": {
+            "geonames": 2441291
+        },
+        "long": {
+            "default": "Maradi"
+        },
         "lat": 13.5,
         "lng": 7.10174,
         "country": "NE",
@@ -36,8 +52,12 @@
         "population": 163487
     },
     "2447938": {
-        "geoid": "2447938",
-        "name": "Alaghsas",
+        "ids": {
+            "geonames": 2447938
+        },
+        "long": {
+            "default": "Alaghsas"
+        },
         "lat": 17.0187,
         "lng": 8.0168,
         "country": "NE",
@@ -45,8 +65,12 @@
         "population": 88561
     },
     "2448085": {
-        "geoid": "2448085",
-        "name": "Agadez",
+        "ids": {
+            "geonames": 2448085
+        },
+        "long": {
+            "default": "Agadez"
+        },
         "lat": 16.97333,
         "lng": 7.99111,
         "country": "NE",

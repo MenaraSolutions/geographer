@@ -1,7 +1,11 @@
 {
     "281102": {
-        "geoid": "281102",
-        "name": "Rafaḩ",
+        "ids": {
+            "geonames": 281102
+        },
+        "long": {
+            "default": "Rafaḩ"
+        },
         "lat": 31.287,
         "lng": 34.25952,
         "country": "PS",
@@ -9,8 +13,12 @@
         "population": 126305
     },
     "281124": {
-        "geoid": "281124",
-        "name": "Khān Yūnis",
+        "ids": {
+            "geonames": 281124
+        },
+        "long": {
+            "default": "Khān Yūnis"
+        },
         "lat": 31.34018,
         "lng": 34.30627,
         "country": "PS",
@@ -18,8 +26,12 @@
         "population": 173183
     },
     "281129": {
-        "geoid": "281129",
-        "name": "Jabālyā",
+        "ids": {
+            "geonames": 281129
+        },
+        "long": {
+            "default": "Jabālyā"
+        },
         "lat": 31.5272,
         "lng": 34.48347,
         "country": "PS",
@@ -27,8 +39,12 @@
         "population": 168568
     },
     "281133": {
-        "geoid": "281133",
-        "name": "Gaza",
+        "ids": {
+            "geonames": 281133
+        },
+        "long": {
+            "default": "Gaza"
+        },
         "lat": 31.5,
         "lng": 34.46667,
         "country": "PS",
@@ -36,8 +52,12 @@
         "population": 410000
     },
     "281141": {
-        "geoid": "281141",
-        "name": "Dayr al Balaḩ",
+        "ids": {
+            "geonames": 281141
+        },
+        "long": {
+            "default": "Dayr al Balaḩ"
+        },
         "lat": 31.41783,
         "lng": 34.35033,
         "country": "PS",
@@ -45,8 +65,12 @@
         "population": 59504
     },
     "281145": {
-        "geoid": "281145",
-        "name": "Bayt Lāhyā",
+        "ids": {
+            "geonames": 281145
+        },
+        "long": {
+            "default": "Bayt Lāhyā"
+        },
         "lat": 31.5464,
         "lng": 34.49514,
         "country": "PS",
@@ -54,8 +78,12 @@
         "population": 56919
     },
     "282615": {
-        "geoid": "282615",
-        "name": "Nablus",
+        "ids": {
+            "geonames": 282615
+        },
+        "long": {
+            "default": "Nablus"
+        },
         "lat": 32.22111,
         "lng": 35.25444,
         "country": "PS",
@@ -63,8 +91,12 @@
         "population": 130326
     },
     "285066": {
-        "geoid": "285066",
-        "name": "Hebron",
+        "ids": {
+            "geonames": 285066
+        },
+        "long": {
+            "default": "Hebron"
+        },
         "lat": 31.52935,
         "lng": 35.0938,
         "country": "PS",
@@ -72,8 +104,12 @@
         "population": 160470
     },
     "7303419": {
-        "geoid": "7303419",
-        "name": "East Jerusalem",
+        "ids": {
+            "geonames": 7303419
+        },
+        "long": {
+            "default": "East Jerusalem"
+        },
         "lat": 31.78336,
         "lng": 35.23388,
         "country": "PS",

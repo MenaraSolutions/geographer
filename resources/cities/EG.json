@@ -1,7 +1,11 @@
 {
     "346030": {
-        "geoid": "346030",
-        "name": "Ziftá",
+        "ids": {
+            "geonames": 346030
+        },
+        "long": {
+            "default": "Ziftá"
+        },
         "lat": 30.7142,
         "lng": 31.24425,
         "country": "EG",
@@ -9,8 +13,12 @@
         "population": 92667
     },
     "347236": {
-        "geoid": "347236",
-        "name": "Toukh",
+        "ids": {
+            "geonames": 347236
+        },
+        "long": {
+            "default": "Toukh"
+        },
         "lat": 30.35394,
         "lng": 31.20071,
         "country": "EG",
@@ -18,8 +26,12 @@
         "population": 67599
     },
     "347497": {
-        "geoid": "347497",
-        "name": "Tanda",
+        "ids": {
+            "geonames": 347497
+        },
+        "long": {
+            "default": "Tanda"
+        },
         "lat": 30.78847,
         "lng": 31.00192,
         "country": "EG",
@@ -27,8 +39,12 @@
         "population": 404901
     },
     "347591": {
-        "geoid": "347591",
-        "name": "Ţalkhā",
+        "ids": {
+            "geonames": 347591
+        },
+        "long": {
+            "default": "Ţalkhā"
+        },
         "lat": 31.0539,
         "lng": 31.37787,
         "country": "EG",
@@ -36,8 +52,12 @@
         "population": 157737
     },
     "347612": {
-        "geoid": "347612",
-        "name": "Talā",
+        "ids": {
+            "geonames": 347612
+        },
+        "long": {
+            "default": "Talā"
+        },
         "lat": 30.68025,
         "lng": 30.94292,
         "country": "EG",
@@ -45,8 +65,12 @@
         "population": 51498
     },
     "347634": {
-        "geoid": "347634",
-        "name": "Ţahţā",
+        "ids": {
+            "geonames": 347634
+        },
+        "long": {
+            "default": "Ţahţā"
+        },
         "lat": 26.7693,
         "lng": 31.50214,
         "country": "EG",
@@ -54,8 +78,12 @@
         "population": 90591
     },
     "347796": {
-        "geoid": "347796",
-        "name": "Sohag",
+        "ids": {
+            "geonames": 347796
+        },
+        "long": {
+            "default": "Sohag"
+        },
         "lat": 26.55695,
         "lng": 31.69478,
         "country": "EG",
@@ -63,8 +91,12 @@
         "population": 209419
     },
     "349114": {
-        "geoid": "349114",
-        "name": "Shirbīn",
+        "ids": {
+            "geonames": 349114
+        },
+        "long": {
+            "default": "Shirbīn"
+        },
         "lat": 31.19688,
         "lng": 31.5243,
         "country": "EG",
@@ -72,8 +104,12 @@
         "population": 54676
     },
     "349156": {
-        "geoid": "349156",
-        "name": "Shibīn al Qanāţir",
+        "ids": {
+            "geonames": 349156
+        },
+        "long": {
+            "default": "Shibīn al Qanāţir"
+        },
         "lat": 30.31269,
         "lng": 31.32018,
         "country": "EG",
@@ -81,8 +117,12 @@
         "population": 56872
     },
     "349158": {
-        "geoid": "349158",
-        "name": "Shibīn al Kawm",
+        "ids": {
+            "geonames": 349158
+        },
+        "long": {
+            "default": "Shibīn al Kawm"
+        },
         "lat": 30.55258,
         "lng": 31.00904,
         "country": "EG",
@@ -90,8 +130,12 @@
         "population": 186345
     },
     "349715": {
-        "geoid": "349715",
-        "name": "Samannūd",
+        "ids": {
+            "geonames": 349715
+        },
+        "long": {
+            "default": "Samannūd"
+        },
         "lat": 30.9616,
         "lng": 31.24069,
         "country": "EG",
@@ -99,8 +143,12 @@
         "population": 54980
     },
     "349717": {
-        "geoid": "349717",
-        "name": "Samālūţ",
+        "ids": {
+            "geonames": 349717
+        },
+        "long": {
+            "default": "Samālūţ"
+        },
         "lat": 28.31214,
         "lng": 30.71007,
         "country": "EG",
@@ -108,8 +156,12 @@
         "population": 90465
     },
     "350203": {
-        "geoid": "350203",
-        "name": "Rosetta",
+        "ids": {
+            "geonames": 350203
+        },
+        "long": {
+            "default": "Rosetta"
+        },
         "lat": 31.39951,
         "lng": 30.41718,
         "country": "EG",
@@ -117,8 +169,12 @@
         "population": 64481
     },
     "350422": {
-        "geoid": "350422",
-        "name": "Kousa",
+        "ids": {
+            "geonames": 350422
+        },
+        "long": {
+            "default": "Kousa"
+        },
         "lat": 25.91407,
         "lng": 32.76362,
         "country": "EG",
@@ -126,8 +182,12 @@
         "population": 60181
     },
     "350550": {
-        "geoid": "350550",
-        "name": "Qinā",
+        "ids": {
+            "geonames": 350550
+        },
+        "long": {
+            "default": "Qinā"
+        },
         "lat": 26.16418,
         "lng": 32.72671,
         "country": "EG",
@@ -135,8 +195,12 @@
         "population": 235362
     },
     "350789": {
-        "geoid": "350789",
-        "name": "Qalyūb",
+        "ids": {
+            "geonames": 350789
+        },
+        "long": {
+            "default": "Qalyūb"
+        },
         "lat": 30.17922,
         "lng": 31.2056,
         "country": "EG",
@@ -144,8 +208,12 @@
         "population": 100495
     },
     "352344": {
-        "geoid": "352344",
-        "name": "Minyat an Naşr",
+        "ids": {
+            "geonames": 352344
+        },
+        "long": {
+            "default": "Minyat an Naşr"
+        },
         "lat": 31.12624,
         "lng": 31.64313,
         "country": "EG",
@@ -153,8 +221,12 @@
         "population": 56951
     },
     "352354": {
-        "geoid": "352354",
-        "name": "Minūf",
+        "ids": {
+            "geonames": 352354
+        },
+        "long": {
+            "default": "Minūf"
+        },
         "lat": 30.46579,
         "lng": 30.93164,
         "country": "EG",
@@ -162,8 +234,12 @@
         "population": 83651
     },
     "352733": {
-        "geoid": "352733",
-        "name": "Mersa Matruh",
+        "ids": {
+            "geonames": 352733
+        },
+        "long": {
+            "default": "Mersa Matruh"
+        },
         "lat": 31.3529,
         "lng": 27.23725,
         "country": "EG",
@@ -171,8 +247,12 @@
         "population": 62042
     },
     "352913": {
-        "geoid": "352913",
-        "name": "Manfalūţ",
+        "ids": {
+            "geonames": 352913
+        },
+        "long": {
+            "default": "Manfalūţ"
+        },
         "lat": 27.3104,
         "lng": 30.97004,
         "country": "EG",
@@ -180,8 +260,12 @@
         "population": 78744
     },
     "352951": {
-        "geoid": "352951",
-        "name": "Mallawī",
+        "ids": {
+            "geonames": 352951
+        },
+        "long": {
+            "default": "Mallawī"
+        },
         "lat": 27.7314,
         "lng": 30.84165,
         "country": "EG",
@@ -189,8 +273,12 @@
         "population": 142504
     },
     "353802": {
-        "geoid": "353802",
-        "name": "Kawm Umbū",
+        "ids": {
+            "geonames": 353802
+        },
+        "long": {
+            "default": "Kawm Umbū"
+        },
         "lat": 24.47669,
         "lng": 32.94626,
         "country": "EG",
@@ -198,8 +286,12 @@
         "population": 59787
     },
     "354365": {
-        "geoid": "354365",
-        "name": "Kafr az Zayyāt",
+        "ids": {
+            "geonames": 354365
+        },
+        "long": {
+            "default": "Kafr az Zayyāt"
+        },
         "lat": 30.8248,
         "lng": 30.81805,
         "country": "EG",
@@ -207,8 +299,12 @@
         "population": 73725
     },
     "354502": {
-        "geoid": "354502",
-        "name": "Kafr ash Shaykh",
+        "ids": {
+            "geonames": 354502
+        },
+        "long": {
+            "default": "Kafr ash Shaykh"
+        },
         "lat": 31.1143,
         "lng": 30.94012,
         "country": "EG",
@@ -216,8 +312,12 @@
         "population": 143970
     },
     "354775": {
-        "geoid": "354775",
-        "name": "Kafr ad Dawwār",
+        "ids": {
+            "geonames": 354775
+        },
+        "long": {
+            "default": "Kafr ad Dawwār"
+        },
         "lat": 31.13379,
         "lng": 30.12969,
         "country": "EG",
@@ -225,8 +325,12 @@
         "population": 267370
     },
     "355026": {
-        "geoid": "355026",
-        "name": "Jirjā",
+        "ids": {
+            "geonames": 355026
+        },
+        "long": {
+            "default": "Jirjā"
+        },
         "lat": 26.33826,
         "lng": 31.89161,
         "country": "EG",
@@ -234,8 +338,12 @@
         "population": 128250
     },
     "355449": {
-        "geoid": "355449",
-        "name": "Isnā",
+        "ids": {
+            "geonames": 355449
+        },
+        "long": {
+            "default": "Isnā"
+        },
         "lat": 25.29336,
         "lng": 32.55402,
         "country": "EG",
@@ -243,8 +351,12 @@
         "population": 69335
     },
     "355628": {
-        "geoid": "355628",
-        "name": "Idkū",
+        "ids": {
+            "geonames": 355628
+        },
+        "long": {
+            "default": "Idkū"
+        },
         "lat": 31.3073,
         "lng": 30.2981,
         "country": "EG",
@@ -252,8 +364,12 @@
         "population": 105599
     },
     "355635": {
-        "geoid": "355635",
-        "name": "Idfū",
+        "ids": {
+            "geonames": 355635
+        },
+        "long": {
+            "default": "Idfū"
+        },
         "lat": 24.97916,
         "lng": 32.87722,
         "country": "EG",
@@ -261,8 +377,12 @@
         "population": 133000
     },
     "355648": {
-        "geoid": "355648",
-        "name": "Ibshawāy",
+        "ids": {
+            "geonames": 355648
+        },
+        "long": {
+            "default": "Ibshawāy"
+        },
         "lat": 29.35805,
         "lng": 30.68142,
         "country": "EG",
@@ -270,8 +390,12 @@
         "population": 51173
     },
     "355795": {
-        "geoid": "355795",
-        "name": "Ḩalwān",
+        "ids": {
+            "geonames": 355795
+        },
+        "long": {
+            "default": "Ḩalwān"
+        },
         "lat": 29.84144,
         "lng": 31.30084,
         "country": "EG",
@@ -279,8 +403,12 @@
         "population": 230000
     },
     "356000": {
-        "geoid": "356000",
-        "name": "Ḩawsh ‘Īsá",
+        "ids": {
+            "geonames": 356000
+        },
+        "long": {
+            "default": "Ḩawsh ‘Īsá"
+        },
         "lat": 30.9128,
         "lng": 30.29019,
         "country": "EG",
@@ -288,8 +416,12 @@
         "population": 85352
     },
     "356806": {
-        "geoid": "356806",
-        "name": "Fuwwah",
+        "ids": {
+            "geonames": 356806
+        },
+        "long": {
+            "default": "Fuwwah"
+        },
         "lat": 31.20365,
         "lng": 30.54908,
         "country": "EG",
@@ -297,8 +429,12 @@
         "population": 63310
     },
     "356933": {
-        "geoid": "356933",
-        "name": "Farshūţ",
+        "ids": {
+            "geonames": 356933
+        },
+        "long": {
+            "default": "Farshūţ"
+        },
         "lat": 26.05494,
         "lng": 32.16329,
         "country": "EG",
@@ -306,8 +442,12 @@
         "population": 53851
     },
     "356945": {
-        "geoid": "356945",
-        "name": "Fāraskūr",
+        "ids": {
+            "geonames": 356945
+        },
+        "long": {
+            "default": "Fāraskūr"
+        },
         "lat": 31.32977,
         "lng": 31.71507,
         "country": "EG",
@@ -315,8 +455,12 @@
         "population": 58284
     },
     "356989": {
-        "geoid": "356989",
-        "name": "Fāqūs",
+        "ids": {
+            "geonames": 356989
+        },
+        "long": {
+            "default": "Fāqūs"
+        },
         "lat": 30.73006,
         "lng": 31.80182,
         "country": "EG",
@@ -324,8 +468,12 @@
         "population": 62821
     },
     "358048": {
-        "geoid": "358048",
-        "name": "Damietta",
+        "ids": {
+            "geonames": 358048
+        },
+        "long": {
+            "default": "Damietta"
+        },
         "lat": 31.41648,
         "lng": 31.81332,
         "country": "EG",
@@ -333,8 +481,12 @@
         "population": 76839
     },
     "358095": {
-        "geoid": "358095",
-        "name": "Diyarb Najm",
+        "ids": {
+            "geonames": 358095
+        },
+        "long": {
+            "default": "Diyarb Najm"
+        },
         "lat": 30.75438,
         "lng": 31.44016,
         "country": "EG",
@@ -342,8 +494,12 @@
         "population": 51841
     },
     "358108": {
-        "geoid": "358108",
-        "name": "Disūq",
+        "ids": {
+            "geonames": 358108
+        },
+        "long": {
+            "default": "Disūq"
+        },
         "lat": 31.13259,
         "lng": 30.64784,
         "country": "EG",
@@ -351,8 +507,12 @@
         "population": 102037
     },
     "358115": {
-        "geoid": "358115",
-        "name": "Dishnā",
+        "ids": {
+            "geonames": 358115
+        },
+        "long": {
+            "default": "Dishnā"
+        },
         "lat": 26.12467,
         "lng": 32.47598,
         "country": "EG",
@@ -360,8 +520,12 @@
         "population": 54197
     },
     "358172": {
-        "geoid": "358172",
-        "name": "Dikirnis",
+        "ids": {
+            "geonames": 358172
+        },
+        "long": {
+            "default": "Dikirnis"
+        },
         "lat": 31.08898,
         "lng": 31.59478,
         "country": "EG",
@@ -369,8 +533,12 @@
         "population": 137542
     },
     "358269": {
-        "geoid": "358269",
-        "name": "Dayrūţ",
+        "ids": {
+            "geonames": 358269
+        },
+        "long": {
+            "default": "Dayrūţ"
+        },
         "lat": 27.55602,
         "lng": 30.80764,
         "country": "EG",
@@ -378,8 +546,12 @@
         "population": 67788
     },
     "358448": {
-        "geoid": "358448",
-        "name": "Damanhūr",
+        "ids": {
+            "geonames": 358448
+        },
+        "long": {
+            "default": "Damanhūr"
+        },
         "lat": 31.03408,
         "lng": 30.46823,
         "country": "EG",
@@ -387,8 +559,12 @@
         "population": 227943
     },
     "358600": {
-        "geoid": "358600",
-        "name": "Būsh",
+        "ids": {
+            "geonames": 358600
+        },
+        "long": {
+            "default": "Būsh"
+        },
         "lat": 29.14816,
         "lng": 31.12733,
         "country": "EG",
@@ -396,8 +572,12 @@
         "population": 86608
     },
     "358619": {
-        "geoid": "358619",
-        "name": "Port Said",
+        "ids": {
+            "geonames": 358619
+        },
+        "long": {
+            "default": "Port Said"
+        },
         "lat": 31.25654,
         "lng": 32.28411,
         "country": "EG",
@@ -405,8 +585,12 @@
         "population": 538378
     },
     "358821": {
-        "geoid": "358821",
-        "name": "Bilqās",
+        "ids": {
+            "geonames": 358821
+        },
+        "long": {
+            "default": "Bilqās"
+        },
         "lat": 31.21452,
         "lng": 31.35798,
         "country": "EG",
@@ -414,8 +598,12 @@
         "population": 103596
     },
     "358840": {
-        "geoid": "358840",
-        "name": "Bilbays",
+        "ids": {
+            "geonames": 358840
+        },
+        "long": {
+            "default": "Bilbays"
+        },
         "lat": 30.42039,
         "lng": 31.56223,
         "country": "EG",
@@ -423,8 +611,12 @@
         "population": 129211
     },
     "358970": {
-        "geoid": "358970",
-        "name": "Basyūn",
+        "ids": {
+            "geonames": 358970
+        },
+        "long": {
+            "default": "Basyūn"
+        },
         "lat": 30.93976,
         "lng": 30.81338,
         "country": "EG",
@@ -432,8 +624,12 @@
         "population": 55523
     },
     "359173": {
-        "geoid": "359173",
-        "name": "Banī Suwayf",
+        "ids": {
+            "geonames": 359173
+        },
+        "long": {
+            "default": "Banī Suwayf"
+        },
         "lat": 29.07441,
         "lng": 31.09785,
         "country": "EG",
@@ -441,8 +637,12 @@
         "population": 189624
     },
     "359212": {
-        "geoid": "359212",
-        "name": "Banī Mazār",
+        "ids": {
+            "geonames": 359212
+        },
+        "long": {
+            "default": "Banī Mazār"
+        },
         "lat": 28.5036,
         "lng": 30.8004,
         "country": "EG",
@@ -450,8 +650,12 @@
         "population": 58153
     },
     "359280": {
-        "geoid": "359280",
-        "name": "Banhā",
+        "ids": {
+            "geonames": 359280
+        },
+        "long": {
+            "default": "Banhā"
+        },
         "lat": 30.45906,
         "lng": 31.17858,
         "country": "EG",
@@ -459,8 +663,12 @@
         "population": 167029
     },
     "359493": {
-        "geoid": "359493",
-        "name": "Zagazig",
+        "ids": {
+            "geonames": 359493
+        },
+        "long": {
+            "default": "Zagazig"
+        },
         "lat": 30.58768,
         "lng": 31.502,
         "country": "EG",
@@ -468,8 +676,12 @@
         "population": 285097
     },
     "359576": {
-        "geoid": "359576",
-        "name": "Awsīm",
+        "ids": {
+            "geonames": 359576
+        },
+        "long": {
+            "default": "Awsīm"
+        },
         "lat": 30.12303,
         "lng": 31.13571,
         "country": "EG",
@@ -477,8 +689,12 @@
         "population": 63862
     },
     "359710": {
-        "geoid": "359710",
-        "name": "At Tall al Kabīr",
+        "ids": {
+            "geonames": 359710
+        },
+        "long": {
+            "default": "At Tall al Kabīr"
+        },
         "lat": 30.54448,
         "lng": 31.78525,
         "country": "EG",
@@ -486,8 +702,12 @@
         "population": 51569
     },
     "359783": {
-        "geoid": "359783",
-        "name": "Asyūţ",
+        "ids": {
+            "geonames": 359783
+        },
+        "long": {
+            "default": "Asyūţ"
+        },
         "lat": 27.18096,
         "lng": 31.18368,
         "country": "EG",
@@ -495,8 +715,12 @@
         "population": 420585
     },
     "359792": {
-        "geoid": "359792",
-        "name": "Aswan",
+        "ids": {
+            "geonames": 359792
+        },
+        "long": {
+            "default": "Aswan"
+        },
         "lat": 24.09082,
         "lng": 32.89942,
         "country": "EG",
@@ -504,8 +728,12 @@
         "population": 241261
     },
     "359796": {
-        "geoid": "359796",
-        "name": "Suez",
+        "ids": {
+            "geonames": 359796
+        },
+        "long": {
+            "default": "Suez"
+        },
         "lat": 29.97371,
         "lng": 32.52627,
         "country": "EG",
@@ -513,8 +741,12 @@
         "population": 488125
     },
     "360048": {
-        "geoid": "360048",
-        "name": "Ashmūn",
+        "ids": {
+            "geonames": 360048
+        },
+        "long": {
+            "default": "Ashmūn"
+        },
         "lat": 30.29857,
         "lng": 30.97635,
         "country": "EG",
@@ -522,8 +754,12 @@
         "population": 82507
     },
     "360502": {
-        "geoid": "360502",
-        "name": "Luxor",
+        "ids": {
+            "geonames": 360502
+        },
+        "long": {
+            "default": "Luxor"
+        },
         "lat": 25.69893,
         "lng": 32.6421,
         "country": "EG",
@@ -531,8 +767,12 @@
         "population": 422407
     },
     "360526": {
-        "geoid": "360526",
-        "name": "Al Qūşīyah",
+        "ids": {
+            "geonames": 360526
+        },
+        "long": {
+            "default": "Al Qūşīyah"
+        },
         "lat": 27.4402,
         "lng": 30.81841,
         "country": "EG",
@@ -540,8 +780,12 @@
         "population": 68394
     },
     "360542": {
-        "geoid": "360542",
-        "name": "Al Qurayn",
+        "ids": {
+            "geonames": 360542
+        },
+        "long": {
+            "default": "Al Qurayn"
+        },
         "lat": 30.61618,
         "lng": 31.73514,
         "country": "EG",
@@ -549,8 +793,12 @@
         "population": 61730
     },
     "360615": {
-        "geoid": "360615",
-        "name": "Al Qanāţir al Khayrīyah",
+        "ids": {
+            "geonames": 360615
+        },
+        "long": {
+            "default": "Al Qanāţir al Khayrīyah"
+        },
         "lat": 30.19327,
         "lng": 31.13703,
         "country": "EG",
@@ -558,8 +806,12 @@
         "population": 56302
     },
     "360630": {
-        "geoid": "360630",
-        "name": "Cairo",
+        "ids": {
+            "geonames": 360630
+        },
+        "long": {
+            "default": "Cairo"
+        },
         "lat": 30.06263,
         "lng": 31.24967,
         "country": "EG",
@@ -567,8 +819,12 @@
         "population": 7734614
     },
     "360686": {
-        "geoid": "360686",
-        "name": "Al Minyā",
+        "ids": {
+            "geonames": 360686
+        },
+        "long": {
+            "default": "Al Minyā"
+        },
         "lat": 28.10988,
         "lng": 30.7503,
         "country": "EG",
@@ -576,8 +832,12 @@
         "population": 227150
     },
     "360716": {
-        "geoid": "360716",
-        "name": "Al Maţarīyah",
+        "ids": {
+            "geonames": 360716
+        },
+        "long": {
+            "default": "Al Maţarīyah"
+        },
         "lat": 31.18287,
         "lng": 32.03108,
         "country": "EG",
@@ -585,8 +845,12 @@
         "population": 99357
     },
     "360754": {
-        "geoid": "360754",
-        "name": "Al Manzilah",
+        "ids": {
+            "geonames": 360754
+        },
+        "long": {
+            "default": "Al Manzilah"
+        },
         "lat": 31.15815,
         "lng": 31.937,
         "country": "EG",
@@ -594,8 +858,12 @@
         "population": 67486
     },
     "360761": {
-        "geoid": "360761",
-        "name": "Al Manşūrah",
+        "ids": {
+            "geonames": 360761
+        },
+        "long": {
+            "default": "Al Manşūrah"
+        },
         "lat": 31.03637,
         "lng": 31.38069,
         "country": "EG",
@@ -603,8 +871,12 @@
         "population": 420195
     },
     "360773": {
-        "geoid": "360773",
-        "name": "Al Manshāh",
+        "ids": {
+            "geonames": 360773
+        },
+        "long": {
+            "default": "Al Manshāh"
+        },
         "lat": 26.47686,
         "lng": 31.8035,
         "country": "EG",
@@ -612,8 +884,12 @@
         "population": 61134
     },
     "360829": {
-        "geoid": "360829",
-        "name": "Al Maḩallah al Kubrá",
+        "ids": {
+            "geonames": 360829
+        },
+        "long": {
+            "default": "Al Maḩallah al Kubrá"
+        },
         "lat": 30.97063,
         "lng": 31.1669,
         "country": "EG",
@@ -621,8 +897,12 @@
         "population": 431052
     },
     "360923": {
-        "geoid": "360923",
-        "name": "Al Khārijah",
+        "ids": {
+            "geonames": 360923
+        },
+        "long": {
+            "default": "Al Khārijah"
+        },
         "lat": 25.45141,
         "lng": 30.54635,
         "country": "EG",
@@ -630,8 +910,12 @@
         "population": 67700
     },
     "360928": {
-        "geoid": "360928",
-        "name": "Al Khānkah",
+        "ids": {
+            "geonames": 360928
+        },
+        "long": {
+            "default": "Al Khānkah"
+        },
         "lat": 30.21035,
         "lng": 31.36812,
         "country": "EG",
@@ -639,8 +923,12 @@
         "population": 62434
     },
     "360995": {
-        "geoid": "360995",
-        "name": "Al Jīzah",
+        "ids": {
+            "geonames": 360995
+        },
+        "long": {
+            "default": "Al Jīzah"
+        },
         "lat": 30.00808,
         "lng": 31.21093,
         "country": "EG",
@@ -648,8 +936,12 @@
         "population": 2443203
     },
     "361029": {
-        "geoid": "361029",
-        "name": "Al Jamālīyah",
+        "ids": {
+            "geonames": 361029
+        },
+        "long": {
+            "default": "Al Jamālīyah"
+        },
         "lat": 31.18086,
         "lng": 31.86518,
         "country": "EG",
@@ -657,8 +949,12 @@
         "population": 68381
     },
     "361055": {
-        "geoid": "361055",
-        "name": "Ismailia",
+        "ids": {
+            "geonames": 361055
+        },
+        "long": {
+            "default": "Ismailia"
+        },
         "lat": 30.60427,
         "lng": 32.27225,
         "country": "EG",
@@ -666,8 +962,12 @@
         "population": 284813
     },
     "361058": {
-        "geoid": "361058",
-        "name": "Alexandria",
+        "ids": {
+            "geonames": 361058
+        },
+        "long": {
+            "default": "Alexandria"
+        },
         "lat": 31.21564,
         "lng": 29.95527,
         "country": "EG",
@@ -675,8 +975,12 @@
         "population": 3811516
     },
     "361179": {
-        "geoid": "361179",
-        "name": "Al Ḩawāmidīyah",
+        "ids": {
+            "geonames": 361179
+        },
+        "long": {
+            "default": "Al Ḩawāmidīyah"
+        },
         "lat": 29.9,
         "lng": 31.25,
         "country": "EG",
@@ -684,8 +988,12 @@
         "population": 106841
     },
     "361291": {
-        "geoid": "361291",
-        "name": "Hurghada",
+        "ids": {
+            "geonames": 361291
+        },
+        "long": {
+            "default": "Hurghada"
+        },
         "lat": 27.25738,
         "lng": 33.81291,
         "country": "EG",
@@ -693,8 +1001,12 @@
         "population": 95622
     },
     "361320": {
-        "geoid": "361320",
-        "name": "Al Fayyūm",
+        "ids": {
+            "geonames": 361320
+        },
+        "long": {
+            "default": "Al Fayyūm"
+        },
         "lat": 29.30995,
         "lng": 30.8418,
         "country": "EG",
@@ -702,8 +1014,12 @@
         "population": 306393
     },
     "361329": {
-        "geoid": "361329",
-        "name": "Al Fashn",
+        "ids": {
+            "geonames": 361329
+        },
+        "long": {
+            "default": "Al Fashn"
+        },
         "lat": 28.82431,
         "lng": 30.89948,
         "country": "EG",
@@ -711,8 +1027,12 @@
         "population": 63793
     },
     "361546": {
-        "geoid": "361546",
-        "name": "Arish",
+        "ids": {
+            "geonames": 361546
+        },
+        "long": {
+            "default": "Arish"
+        },
         "lat": 31.13159,
         "lng": 33.79844,
         "country": "EG",
@@ -720,8 +1040,12 @@
         "population": 128855
     },
     "361661": {
-        "geoid": "361661",
-        "name": "Akhmīm",
+        "ids": {
+            "geonames": 361661
+        },
+        "long": {
+            "default": "Akhmīm"
+        },
         "lat": 26.56217,
         "lng": 31.74503,
         "country": "EG",
@@ -729,8 +1053,12 @@
         "population": 99446
     },
     "362004": {
-        "geoid": "362004",
-        "name": "Abū Tīj",
+        "ids": {
+            "geonames": 362004
+        },
+        "long": {
+            "default": "Abū Tīj"
+        },
         "lat": 27.04411,
         "lng": 31.31897,
         "country": "EG",
@@ -738,8 +1066,12 @@
         "population": 71257
     },
     "362277": {
-        "geoid": "362277",
-        "name": "Abū Qurqāş",
+        "ids": {
+            "geonames": 362277
+        },
+        "long": {
+            "default": "Abū Qurqāş"
+        },
         "lat": 27.9312,
         "lng": 30.83841,
         "country": "EG",
@@ -747,8 +1079,12 @@
         "population": 61182
     },
     "362485": {
-        "geoid": "362485",
-        "name": "Abū Kabīr",
+        "ids": {
+            "geonames": 362485
+        },
+        "long": {
+            "default": "Abū Kabīr"
+        },
         "lat": 30.72508,
         "lng": 31.67148,
         "country": "EG",
@@ -756,8 +1092,12 @@
         "population": 100684
     },
     "362973": {
-        "geoid": "362973",
-        "name": "Abnūb",
+        "ids": {
+            "geonames": 362973
+        },
+        "long": {
+            "default": "Abnūb"
+        },
         "lat": 27.2696,
         "lng": 31.15105,
         "country": "EG",

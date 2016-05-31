@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 4032231
         },
-        "names": {
-            "long": "Vava‘u"
+        "long": {
+            "default": "Vava‘u"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 4032279
         },
-        "names": {
-            "long": "Tongatapu"
+        "long": {
+            "default": "Tongatapu"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "01",
             "geonames": 4032637
         },
-        "names": {
-            "long": "Ha‘apai"
+        "long": {
+            "default": "Ha‘apai"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "EU",
             "geonames": 7668021
         },
-        "names": {
-            "long": "ʻEua"
+        "long": {
+            "default": "ʻEua"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "NI",
             "geonames": 7668055
         },
-        "names": {
-            "long": "Niuas"
+        "long": {
+            "default": "Niuas"
         }
     }
 ]

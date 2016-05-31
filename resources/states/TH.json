@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 1149965
         },
-        "names": {
-            "long": "Uthai Thani"
+        "long": {
+            "default": "Uthai Thani"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "65",
             "geonames": 1150006
         },
-        "names": {
-            "long": "Trang"
+        "long": {
+            "default": "Trang"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 1150489
         },
-        "names": {
-            "long": "Tak"
+        "long": {
+            "default": "Tak"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "60",
             "geonames": 1150514
         },
-        "names": {
-            "long": "Surat Thani"
+        "long": {
+            "default": "Surat Thani"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "09",
             "geonames": 1150532
         },
-        "names": {
-            "long": "Sukhothai"
+        "long": {
+            "default": "Sukhothai"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "52",
             "geonames": 1150953
         },
-        "names": {
-            "long": "Ratchaburi"
+        "long": {
+            "default": "Ratchaburi"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "59",
             "geonames": 1150964
         },
-        "names": {
-            "long": "Ranong"
+        "long": {
+            "default": "Ranong"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "57",
             "geonames": 1151073
         },
-        "names": {
-            "long": "Prachuap Khiri Khan"
+        "long": {
+            "default": "Prachuap Khiri Khan"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "62",
             "geonames": 1151253
         },
-        "names": {
-            "long": "Phuket"
+        "long": {
+            "default": "Phuket"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "56",
             "geonames": 1151416
         },
-        "names": {
-            "long": "Phetchaburi"
+        "long": {
+            "default": "Phetchaburi"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "61",
             "geonames": 1151462
         },
-        "names": {
-            "long": "Phangnga"
+        "long": {
+            "default": "Phangnga"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "01",
             "geonames": 1152221
         },
-        "names": {
-            "long": "Mae Hong Son"
+        "long": {
+            "default": "Mae Hong Son"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "05",
             "geonames": 1152467
         },
-        "names": {
-            "long": "Lamphun"
+        "long": {
+            "default": "Lamphun"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "06",
             "geonames": 1152472
         },
-        "names": {
-            "long": "Lampang"
+        "long": {
+            "default": "Lampang"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "63",
             "geonames": 1152631
         },
-        "names": {
-            "long": "Krabi"
+        "long": {
+            "default": "Krabi"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "50",
             "geonames": 1153080
         },
-        "names": {
-            "long": "Kanchanaburi"
+        "long": {
+            "default": "Kanchanaburi"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "11",
             "geonames": 1153089
         },
-        "names": {
-            "long": "Kamphaeng Phet"
+        "long": {
+            "default": "Kamphaeng Phet"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "58",
             "geonames": 1153555
         },
-        "names": {
-            "long": "Chumphon"
+        "long": {
+            "default": "Chumphon"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "03",
             "geonames": 1153668
         },
-        "names": {
-            "long": "Chiang Rai"
+        "long": {
+            "default": "Chiang Rai"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "02",
             "geonames": 1153670
         },
-        "names": {
-            "long": "Chiang Mai"
+        "long": {
+            "default": "Chiang Mai"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "72",
             "geonames": 1604767
         },
-        "names": {
-            "long": "Yasothon"
+        "long": {
+            "default": "Yasothon"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "70",
             "geonames": 1604869
         },
-        "names": {
-            "long": "Yala"
+        "long": {
+            "default": "Yala"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "10",
             "geonames": 1605214
         },
-        "names": {
-            "long": "Uttaradit"
+        "long": {
+            "default": "Uttaradit"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "49",
             "geonames": 1605277
         },
-        "names": {
-            "long": "Trat"
+        "long": {
+            "default": "Trat"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "29",
             "geonames": 1606029
         },
-        "names": {
-            "long": "Surin"
+        "long": {
+            "default": "Surin"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "51",
             "geonames": 1606032
         },
-        "names": {
-            "long": "Suphan Buri"
+        "long": {
+            "default": "Suphan Buri"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "68",
             "geonames": 1606146
         },
-        "names": {
-            "long": "Songkhla"
+        "long": {
+            "default": "Songkhla"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "30",
             "geonames": 1606238
         },
-        "names": {
-            "long": "Sisaket"
+        "long": {
+            "default": "Sisaket"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "33",
             "geonames": 1606269
         },
-        "names": {
-            "long": "Sing Buri"
+        "long": {
+            "default": "Sing Buri"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "67",
             "geonames": 1606375
         },
-        "names": {
-            "long": "Satun"
+        "long": {
+            "default": "Satun"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "37",
             "geonames": 1606417
         },
-        "names": {
-            "long": "Sara Buri"
+        "long": {
+            "default": "Sara Buri"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "54",
             "geonames": 1606585
         },
-        "names": {
-            "long": "Samut Songkhram"
+        "long": {
+            "default": "Samut Songkhram"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "55",
             "geonames": 1606587
         },
-        "names": {
-            "long": "Samut Sakhon"
+        "long": {
+            "default": "Samut Sakhon"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "42",
             "geonames": 1606589
         },
-        "names": {
-            "long": "Samut Prakan"
+        "long": {
+            "default": "Samut Prakan"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "20",
             "geonames": 1606789
         },
-        "names": {
-            "long": "Sakon Nakhon"
+        "long": {
+            "default": "Sakon Nakhon"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "25",
             "geonames": 1607000
         },
-        "names": {
-            "long": "Roi Et"
+        "long": {
+            "default": "Roi Et"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "47",
             "geonames": 1607016
         },
-        "names": {
-            "long": "Rayong"
+        "long": {
+            "default": "Rayong"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "36",
             "geonames": 1607530
         },
-        "names": {
-            "long": "Phra Nakhon Si Ayutthaya"
+        "long": {
+            "default": "Phra Nakhon Si Ayutthaya"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "07",
             "geonames": 1607551
         },
-        "names": {
-            "long": "Phrae"
+        "long": {
+            "default": "Phrae"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "12",
             "geonames": 1607707
         },
-        "names": {
-            "long": "Phitsanulok"
+        "long": {
+            "default": "Phitsanulok"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "13",
             "geonames": 1607724
         },
-        "names": {
-            "long": "Phichit"
+        "long": {
+            "default": "Phichit"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "14",
             "geonames": 1607736
         },
-        "names": {
-            "long": "Phetchabun"
+        "long": {
+            "default": "Phetchabun"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "41",
             "geonames": 1607758
         },
-        "names": {
-            "long": "Phayao"
+        "long": {
+            "default": "Phayao"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "66",
             "geonames": 1607778
         },
-        "names": {
-            "long": "Phatthalung"
+        "long": {
+            "default": "Phatthalung"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "69",
             "geonames": 1607976
         },
-        "names": {
-            "long": "Pattani"
+        "long": {
+            "default": "Pattani"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "39",
             "geonames": 1607982
         },
-        "names": {
-            "long": "Pathum Thani"
+        "long": {
+            "default": "Pathum Thani"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "38",
             "geonames": 1608132
         },
-        "names": {
-            "long": "Nonthaburi"
+        "long": {
+            "default": "Nonthaburi"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "17",
             "geonames": 1608231
         },
-        "names": {
-            "long": "Nong Khai"
+        "long": {
+            "default": "Nong Khai"
         }
     },
     {
@@ -436,8 +436,8 @@
             "fips": "31",
             "geonames": 1608408
         },
-        "names": {
-            "long": "Narathiwat"
+        "long": {
+            "default": "Narathiwat"
         }
     },
     {
@@ -445,8 +445,8 @@
             "fips": "04",
             "geonames": 1608451
         },
-        "names": {
-            "long": "Nan"
+        "long": {
+            "default": "Nan"
         }
     },
     {
@@ -454,8 +454,8 @@
             "fips": "64",
             "geonames": 1608525
         },
-        "names": {
-            "long": "Nakhon Si Thammarat"
+        "long": {
+            "default": "Nakhon Si Thammarat"
         }
     },
     {
@@ -463,8 +463,8 @@
             "fips": "16",
             "geonames": 1608526
         },
-        "names": {
-            "long": "Nakhon Sawan"
+        "long": {
+            "default": "Nakhon Sawan"
         }
     },
     {
@@ -472,8 +472,8 @@
             "fips": "27",
             "geonames": 1608528
         },
-        "names": {
-            "long": "Nakhon Ratchasima"
+        "long": {
+            "default": "Nakhon Ratchasima"
         }
     },
     {
@@ -481,8 +481,8 @@
             "fips": "73",
             "geonames": 1608530
         },
-        "names": {
-            "long": "Nakhon Phanom"
+        "long": {
+            "default": "Nakhon Phanom"
         }
     },
     {
@@ -490,8 +490,8 @@
             "fips": "53",
             "geonames": 1608533
         },
-        "names": {
-            "long": "Nakhon Pathom"
+        "long": {
+            "default": "Nakhon Pathom"
         }
     },
     {
@@ -499,8 +499,8 @@
             "fips": "43",
             "geonames": 1608538
         },
-        "names": {
-            "long": "Nakhon Nayok"
+        "long": {
+            "default": "Nakhon Nayok"
         }
     },
     {
@@ -508,8 +508,8 @@
             "fips": "78",
             "geonames": 1608595
         },
-        "names": {
-            "long": "Mukdahan"
+        "long": {
+            "default": "Mukdahan"
         }
     },
     {
@@ -517,8 +517,8 @@
             "fips": "24",
             "geonames": 1608899
         },
-        "names": {
-            "long": "Maha Sarakham"
+        "long": {
+            "default": "Maha Sarakham"
         }
     },
     {
@@ -526,8 +526,8 @@
             "fips": "34",
             "geonames": 1609031
         },
-        "names": {
-            "long": "Lop Buri"
+        "long": {
+            "default": "Lop Buri"
         }
     },
     {
@@ -535,8 +535,8 @@
             "fips": "18",
             "geonames": 1609070
         },
-        "names": {
-            "long": "Loei"
+        "long": {
+            "default": "Loei"
         }
     },
     {
@@ -544,8 +544,8 @@
             "fips": "40",
             "geonames": 1609348
         },
-        "names": {
-            "long": "Bangkok"
+        "long": {
+            "default": "Bangkok"
         }
     },
     {
@@ -553,8 +553,8 @@
             "fips": "22",
             "geonames": 1609775
         },
-        "names": {
-            "long": "Khon Kaen"
+        "long": {
+            "default": "Khon Kaen"
         }
     },
     {
@@ -562,8 +562,8 @@
             "fips": "23",
             "geonames": 1610468
         },
-        "names": {
-            "long": "Kalasin"
+        "long": {
+            "default": "Kalasin"
         }
     },
     {
@@ -571,8 +571,8 @@
             "fips": "46",
             "geonames": 1611108
         },
-        "names": {
-            "long": "Chon Buri"
+        "long": {
+            "default": "Chon Buri"
         }
     },
     {
@@ -580,8 +580,8 @@
             "fips": "48",
             "geonames": 1611268
         },
-        "names": {
-            "long": "Chanthaburi"
+        "long": {
+            "default": "Chanthaburi"
         }
     },
     {
@@ -589,8 +589,8 @@
             "fips": "26",
             "geonames": 1611406
         },
-        "names": {
-            "long": "Chaiyaphum"
+        "long": {
+            "default": "Chaiyaphum"
         }
     },
     {
@@ -598,8 +598,8 @@
             "fips": "32",
             "geonames": 1611415
         },
-        "names": {
-            "long": "Chai Nat"
+        "long": {
+            "default": "Chai Nat"
         }
     },
     {
@@ -607,8 +607,8 @@
             "fips": "44",
             "geonames": 1611438
         },
-        "names": {
-            "long": "Chachoengsao"
+        "long": {
+            "default": "Chachoengsao"
         }
     },
     {
@@ -616,8 +616,8 @@
             "fips": "28",
             "geonames": 1611452
         },
-        "names": {
-            "long": "Buriram"
+        "long": {
+            "default": "Buriram"
         }
     },
     {
@@ -625,8 +625,8 @@
             "fips": "35",
             "geonames": 1621034
         },
-        "names": {
-            "long": "Ang Thong"
+        "long": {
+            "default": "Ang Thong"
         }
     },
     {
@@ -634,8 +634,8 @@
             "fips": "76",
             "geonames": 1906686
         },
-        "names": {
-            "long": "Changwat Udon Thani"
+        "long": {
+            "default": "Changwat Udon Thani"
         }
     },
     {
@@ -643,8 +643,8 @@
             "fips": "74",
             "geonames": 1906687
         },
-        "names": {
-            "long": "Prachin Buri"
+        "long": {
+            "default": "Prachin Buri"
         }
     },
     {
@@ -652,8 +652,8 @@
             "fips": "75",
             "geonames": 1906688
         },
-        "names": {
-            "long": "Changwat Ubon Ratchathani"
+        "long": {
+            "default": "Changwat Ubon Ratchathani"
         }
     },
     {
@@ -661,8 +661,8 @@
             "fips": "77",
             "geonames": 1906689
         },
-        "names": {
-            "long": "Amnat Charoen"
+        "long": {
+            "default": "Amnat Charoen"
         }
     },
     {
@@ -670,8 +670,8 @@
             "fips": "79",
             "geonames": 1906690
         },
-        "names": {
-            "long": "Changwat Nong Bua Lamphu"
+        "long": {
+            "default": "Changwat Nong Bua Lamphu"
         }
     },
     {
@@ -679,8 +679,8 @@
             "fips": "80",
             "geonames": 1906691
         },
-        "names": {
-            "long": "Sa Kaeo"
+        "long": {
+            "default": "Sa Kaeo"
         }
     },
     {
@@ -688,8 +688,8 @@
             "fips": "81",
             "geonames": 8133594
         },
-        "names": {
-            "long": "Changwat Bueng Kan"
+        "long": {
+            "default": "Changwat Bueng Kan"
         }
     }
 ]

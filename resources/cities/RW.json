@@ -1,7 +1,11 @@
 {
     "201521": {
-        "geoid": "201521",
-        "name": "Musanze",
+        "ids": {
+            "geonames": 201521
+        },
+        "long": {
+            "default": "Musanze"
+        },
         "lat": -1.49984,
         "lng": 29.63497,
         "country": "RW",
@@ -9,8 +13,12 @@
         "population": 86685
     },
     "202061": {
-        "geoid": "202061",
-        "name": "Kigali",
+        "ids": {
+            "geonames": 202061
+        },
+        "long": {
+            "default": "Kigali"
+        },
         "lat": -1.94995,
         "lng": 30.05885,
         "country": "RW",
@@ -18,8 +26,12 @@
         "population": 745261
     },
     "202217": {
-        "geoid": "202217",
-        "name": "Gitarama",
+        "ids": {
+            "geonames": 202217
+        },
+        "long": {
+            "default": "Gitarama"
+        },
         "lat": -2.07444,
         "lng": 29.75667,
         "country": "RW",
@@ -27,8 +39,12 @@
         "population": 87613
     },
     "202326": {
-        "geoid": "202326",
-        "name": "Cyangugu",
+        "ids": {
+            "geonames": 202326
+        },
+        "long": {
+            "default": "Cyangugu"
+        },
         "lat": -2.4846,
         "lng": 28.9075,
         "country": "RW",
@@ -36,8 +52,12 @@
         "population": 63883
     },
     "202905": {
-        "geoid": "202905",
-        "name": "Gisenyi",
+        "ids": {
+            "geonames": 202905
+        },
+        "long": {
+            "default": "Gisenyi"
+        },
         "lat": -1.70278,
         "lng": 29.25639,
         "country": "RW",
@@ -45,8 +65,12 @@
         "population": 83623
     },
     "203104": {
-        "geoid": "203104",
-        "name": "Byumba",
+        "ids": {
+            "geonames": 203104
+        },
+        "long": {
+            "default": "Byumba"
+        },
         "lat": -1.5763,
         "lng": 30.0675,
         "country": "RW",
@@ -54,8 +78,12 @@
         "population": 70593
     },
     "203112": {
-        "geoid": "203112",
-        "name": "Butare",
+        "ids": {
+            "geonames": 203112
+        },
+        "long": {
+            "default": "Butare"
+        },
         "lat": -2.59667,
         "lng": 29.73944,
         "country": "RW",

@@ -1,7 +1,11 @@
 {
     "2220957": {
-        "geoid": "2220957",
-        "name": "Yaoundé",
+        "ids": {
+            "geonames": 2220957
+        },
+        "long": {
+            "default": "Yaoundé"
+        },
         "lat": 3.86667,
         "lng": 11.51667,
         "country": "CM",
@@ -9,8 +13,12 @@
         "population": 1299369
     },
     "2221030": {
-        "geoid": "2221030",
-        "name": "Yagoua",
+        "ids": {
+            "geonames": 2221030
+        },
+        "long": {
+            "default": "Yagoua"
+        },
         "lat": 10.34107,
         "lng": 15.23288,
         "country": "CM",
@@ -18,8 +26,12 @@
         "population": 80235
     },
     "2221053": {
-        "geoid": "2221053",
-        "name": "Wum",
+        "ids": {
+            "geonames": 2221053
+        },
+        "long": {
+            "default": "Wum"
+        },
         "lat": 6.38333,
         "lng": 10.06667,
         "country": "CM",
@@ -27,8 +39,12 @@
         "population": 68836
     },
     "2221504": {
-        "geoid": "2221504",
-        "name": "Tiko",
+        "ids": {
+            "geonames": 2221504
+        },
+        "long": {
+            "default": "Tiko"
+        },
         "lat": 4.075,
         "lng": 9.36005,
         "country": "CM",
@@ -36,8 +52,12 @@
         "population": 55914
     },
     "2222230": {
-        "geoid": "2222230",
-        "name": "Sangmélima",
+        "ids": {
+            "geonames": 2222230
+        },
+        "long": {
+            "default": "Sangmélima"
+        },
         "lat": 2.93333,
         "lng": 11.98333,
         "country": "CM",
@@ -45,8 +65,12 @@
         "population": 54251
     },
     "2223734": {
-        "geoid": "2223734",
-        "name": "Nkoteng",
+        "ids": {
+            "geonames": 2223734
+        },
+        "long": {
+            "default": "Nkoteng"
+        },
         "lat": 4.51667,
         "lng": 12.03333,
         "country": "CM",
@@ -54,8 +78,12 @@
         "population": 50334
     },
     "2223763": {
-        "geoid": "2223763",
-        "name": "Nkongsamba",
+        "ids": {
+            "geonames": 2223763
+        },
+        "long": {
+            "default": "Nkongsamba"
+        },
         "lat": 4.9547,
         "lng": 9.9404,
         "country": "CM",
@@ -63,8 +91,12 @@
         "population": 117063
     },
     "2224827": {
-        "geoid": "2224827",
-        "name": "Ngaoundéré",
+        "ids": {
+            "geonames": 2224827
+        },
+        "long": {
+            "default": "Ngaoundéré"
+        },
         "lat": 7.32765,
         "lng": 13.58472,
         "country": "CM",
@@ -72,8 +104,12 @@
         "population": 231357
     },
     "2225991": {
-        "geoid": "2225991",
-        "name": "Mora",
+        "ids": {
+            "geonames": 2225991
+        },
+        "long": {
+            "default": "Mora"
+        },
         "lat": 11.04611,
         "lng": 14.14011,
         "country": "CM",
@@ -81,8 +117,12 @@
         "population": 55216
     },
     "2226275": {
-        "geoid": "2226275",
-        "name": "Mokolo",
+        "ids": {
+            "geonames": 2226275
+        },
+        "long": {
+            "default": "Mokolo"
+        },
         "lat": 10.74244,
         "lng": 13.80227,
         "country": "CM",
@@ -90,8 +130,12 @@
         "population": 275239
     },
     "2227402": {
-        "geoid": "2227402",
-        "name": "Meïganga",
+        "ids": {
+            "geonames": 2227402
+        },
+        "long": {
+            "default": "Meïganga"
+        },
         "lat": 6.51667,
         "lng": 14.3,
         "country": "CM",
@@ -99,8 +143,12 @@
         "population": 80100
     },
     "2227613": {
-        "geoid": "2227613",
-        "name": "Mbouda",
+        "ids": {
+            "geonames": 2227613
+        },
+        "long": {
+            "default": "Mbouda"
+        },
         "lat": 5.62611,
         "lng": 10.25421,
         "country": "CM",
@@ -108,8 +156,12 @@
         "population": 111320
     },
     "2228079": {
-        "geoid": "2228079",
-        "name": "Mbalmayo",
+        "ids": {
+            "geonames": 2228079
+        },
+        "long": {
+            "default": "Mbalmayo"
+        },
         "lat": 3.51667,
         "lng": 11.5,
         "country": "CM",
@@ -117,8 +169,12 @@
         "population": 80206
     },
     "2228373": {
-        "geoid": "2228373",
-        "name": "Maroua",
+        "ids": {
+            "geonames": 2228373
+        },
+        "long": {
+            "default": "Maroua"
+        },
         "lat": 10.59095,
         "lng": 14.31593,
         "country": "CM",
@@ -126,8 +182,12 @@
         "population": 319941
     },
     "2229152": {
-        "geoid": "2229152",
-        "name": "Loum",
+        "ids": {
+            "geonames": 2229152
+        },
+        "long": {
+            "default": "Loum"
+        },
         "lat": 4.7182,
         "lng": 9.7351,
         "country": "CM",
@@ -135,8 +195,12 @@
         "population": 177429
     },
     "2229411": {
-        "geoid": "2229411",
-        "name": "Limbe",
+        "ids": {
+            "geonames": 2229411
+        },
+        "long": {
+            "default": "Limbe"
+        },
         "lat": 4.0242,
         "lng": 9.2149,
         "country": "CM",
@@ -144,8 +208,12 @@
         "population": 72106
     },
     "2229748": {
-        "geoid": "2229748",
-        "name": "Kumbo",
+        "ids": {
+            "geonames": 2229748
+        },
+        "long": {
+            "default": "Kumbo"
+        },
         "lat": 6.2,
         "lng": 10.66667,
         "country": "CM",
@@ -153,8 +221,12 @@
         "population": 53970
     },
     "2229752": {
-        "geoid": "2229752",
-        "name": "Kumba",
+        "ids": {
+            "geonames": 2229752
+        },
+        "long": {
+            "default": "Kumba"
+        },
         "lat": 4.6363,
         "lng": 9.4469,
         "country": "CM",
@@ -162,8 +234,12 @@
         "population": 144413
     },
     "2229761": {
-        "geoid": "2229761",
-        "name": "Kribi",
+        "ids": {
+            "geonames": 2229761
+        },
+        "long": {
+            "default": "Kribi"
+        },
         "lat": 2.93725,
         "lng": 9.90765,
         "country": "CM",
@@ -171,8 +247,12 @@
         "population": 55224
     },
     "2229798": {
-        "geoid": "2229798",
-        "name": "Kousséri",
+        "ids": {
+            "geonames": 2229798
+        },
+        "long": {
+            "default": "Kousséri"
+        },
         "lat": 12.07689,
         "lng": 15.03063,
         "country": "CM",
@@ -180,8 +260,12 @@
         "population": 435547
     },
     "2230876": {
-        "geoid": "2230876",
-        "name": "Guider",
+        "ids": {
+            "geonames": 2230876
+        },
+        "long": {
+            "default": "Guider"
+        },
         "lat": 9.9333,
         "lng": 13.94671,
         "country": "CM",
@@ -189,8 +273,12 @@
         "population": 84647
     },
     "2231320": {
-        "geoid": "2231320",
-        "name": "Garoua",
+        "ids": {
+            "geonames": 2231320
+        },
+        "long": {
+            "default": "Garoua"
+        },
         "lat": 9.30143,
         "lng": 13.39771,
         "country": "CM",
@@ -198,8 +286,12 @@
         "population": 436899
     },
     "2231504": {
-        "geoid": "2231504",
-        "name": "Foumbot",
+        "ids": {
+            "geonames": 2231504
+        },
+        "long": {
+            "default": "Foumbot"
+        },
         "lat": 5.50803,
         "lng": 10.6325,
         "country": "CM",
@@ -207,8 +299,12 @@
         "population": 84065
     },
     "2231506": {
-        "geoid": "2231506",
-        "name": "Foumban",
+        "ids": {
+            "geonames": 2231506
+        },
+        "long": {
+            "default": "Foumban"
+        },
         "lat": 5.72662,
         "lng": 10.89865,
         "country": "CM",
@@ -216,8 +312,12 @@
         "population": 92673
     },
     "2232239": {
-        "geoid": "2232239",
-        "name": "Edéa",
+        "ids": {
+            "geonames": 2232239
+        },
+        "long": {
+            "default": "Edéa"
+        },
         "lat": 3.8,
         "lng": 10.13333,
         "country": "CM",
@@ -225,8 +325,12 @@
         "population": 203149
     },
     "2232283": {
-        "geoid": "2232283",
-        "name": "Ébolowa",
+        "ids": {
+            "geonames": 2232283
+        },
+        "long": {
+            "default": "Ébolowa"
+        },
         "lat": 2.9,
         "lng": 11.15,
         "country": "CM",
@@ -234,8 +338,12 @@
         "population": 87875
     },
     "2232444": {
-        "geoid": "2232444",
-        "name": "Dschang",
+        "ids": {
+            "geonames": 2232444
+        },
+        "long": {
+            "default": "Dschang"
+        },
         "lat": 5.44397,
         "lng": 10.05332,
         "country": "CM",
@@ -243,8 +351,12 @@
         "population": 96112
     },
     "2232593": {
-        "geoid": "2232593",
-        "name": "Douala",
+        "ids": {
+            "geonames": 2232593
+        },
+        "long": {
+            "default": "Douala"
+        },
         "lat": 4.04827,
         "lng": 9.70428,
         "country": "CM",
@@ -252,8 +364,12 @@
         "population": 1338082
     },
     "2234359": {
-        "geoid": "2234359",
-        "name": "Bertoua",
+        "ids": {
+            "geonames": 2234359
+        },
+        "long": {
+            "default": "Bertoua"
+        },
         "lat": 4.57728,
         "lng": 13.68459,
         "country": "CM",
@@ -261,8 +377,12 @@
         "population": 218111
     },
     "2234865": {
-        "geoid": "2234865",
-        "name": "Bangangté",
+        "ids": {
+            "geonames": 2234865
+        },
+        "long": {
+            "default": "Bangangté"
+        },
         "lat": 5.14079,
         "lng": 10.52535,
         "country": "CM",
@@ -270,8 +390,12 @@
         "population": 65385
     },
     "2234974": {
-        "geoid": "2234974",
-        "name": "Bamenda",
+        "ids": {
+            "geonames": 2234974
+        },
+        "long": {
+            "default": "Bamenda"
+        },
         "lat": 5.9597,
         "lng": 10.14597,
         "country": "CM",
@@ -279,8 +403,12 @@
         "population": 393835
     },
     "2235029": {
-        "geoid": "2235029",
-        "name": "Bali",
+        "ids": {
+            "geonames": 2235029
+        },
+        "long": {
+            "default": "Bali"
+        },
         "lat": 5.88737,
         "lng": 10.01176,
         "country": "CM",
@@ -288,8 +416,12 @@
         "population": 72606
     },
     "2235189": {
-        "geoid": "2235189",
-        "name": "Bafoussam",
+        "ids": {
+            "geonames": 2235189
+        },
+        "long": {
+            "default": "Bafoussam"
+        },
         "lat": 5.47775,
         "lng": 10.41759,
         "country": "CM",
@@ -297,8 +429,12 @@
         "population": 290768
     },
     "2235194": {
-        "geoid": "2235194",
-        "name": "Bafia",
+        "ids": {
+            "geonames": 2235194
+        },
+        "long": {
+            "default": "Bafia"
+        },
         "lat": 4.75,
         "lng": 11.23333,
         "country": "CM",
@@ -306,8 +442,12 @@
         "population": 69270
     },
     "2235196": {
-        "geoid": "2235196",
-        "name": "Bafang",
+        "ids": {
+            "geonames": 2235196
+        },
+        "long": {
+            "default": "Bafang"
+        },
         "lat": 5.15705,
         "lng": 10.1771,
         "country": "CM",

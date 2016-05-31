@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 7280288
         },
-        "names": {
-            "long": "Fukien"
+        "long": {
+            "default": "Fukien"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 7280289
         },
-        "names": {
-            "long": "Takao"
+        "long": {
+            "default": "Takao"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 7280290
         },
-        "names": {
-            "long": "Taipei"
+        "long": {
+            "default": "Taipei"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 7280291
         },
-        "names": {
-            "long": "Taiwan"
+        "long": {
+            "default": "Taiwan"
         }
     }
 ]

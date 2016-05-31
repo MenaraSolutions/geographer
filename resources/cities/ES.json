@@ -1,7 +1,11 @@
 {
     "2509509": {
-        "geoid": "2509509",
-        "name": "Vila-real",
+        "ids": {
+            "geonames": 2509509
+        },
+        "long": {
+            "default": "Vila-real"
+        },
         "lat": 39.9383,
         "lng": -0.10087,
         "country": "ES",
@@ -9,8 +13,12 @@
         "population": 51205
     },
     "2509769": {
-        "geoid": "2509769",
-        "name": "Vélez-Málaga",
+        "ids": {
+            "geonames": 2509769
+        },
+        "long": {
+            "default": "Vélez-Málaga"
+        },
         "lat": 36.78107,
         "lng": -4.10266,
         "country": "ES",
@@ -18,8 +26,12 @@
         "population": 74190
     },
     "2509954": {
-        "geoid": "2509954",
-        "name": "Valencia",
+        "ids": {
+            "geonames": 2509954
+        },
+        "long": {
+            "default": "Valencia"
+        },
         "lat": 39.46975,
         "lng": -0.37739,
         "country": "ES",
@@ -27,8 +39,12 @@
         "population": 814208
     },
     "2510073": {
-        "geoid": "2510073",
-        "name": "Utrera",
+        "ids": {
+            "geonames": 2510073
+        },
+        "long": {
+            "default": "Utrera"
+        },
         "lat": 37.18516,
         "lng": -5.78093,
         "country": "ES",
@@ -36,8 +52,12 @@
         "population": 50665
     },
     "2510253": {
-        "geoid": "2510253",
-        "name": "Torrevieja",
+        "ids": {
+            "geonames": 2510253
+        },
+        "long": {
+            "default": "Torrevieja"
+        },
         "lat": 37.97872,
         "lng": -0.68222,
         "country": "ES",
@@ -45,8 +65,12 @@
         "population": 101792
     },
     "2510279": {
-        "geoid": "2510279",
-        "name": "Torrent",
+        "ids": {
+            "geonames": 2510279
+        },
+        "long": {
+            "default": "Torrent"
+        },
         "lat": 39.43705,
         "lng": -0.46546,
         "country": "ES",
@@ -54,8 +78,12 @@
         "population": 78543
     },
     "2510281": {
-        "geoid": "2510281",
-        "name": "Torremolinos",
+        "ids": {
+            "geonames": 2510281
+        },
+        "long": {
+            "default": "Torremolinos"
+        },
         "lat": 36.62035,
         "lng": -4.49976,
         "country": "ES",
@@ -63,8 +91,12 @@
         "population": 65448
     },
     "2510409": {
-        "geoid": "2510409",
-        "name": "Toledo",
+        "ids": {
+            "geonames": 2510409
+        },
+        "long": {
+            "default": "Toledo"
+        },
         "lat": 39.8581,
         "lng": -4.02263,
         "country": "ES",
@@ -72,8 +104,12 @@
         "population": 82291
     },
     "2510542": {
-        "geoid": "2510542",
-        "name": "Telde",
+        "ids": {
+            "geonames": 2510542
+        },
+        "long": {
+            "default": "Telde"
+        },
         "lat": 27.99243,
         "lng": -15.41915,
         "country": "ES",
@@ -81,8 +117,12 @@
         "population": 100015
     },
     "2510693": {
-        "geoid": "2510693",
-        "name": "Talavera de la Reina",
+        "ids": {
+            "geonames": 2510693
+        },
+        "long": {
+            "default": "Talavera de la Reina"
+        },
         "lat": 39.96348,
         "lng": -4.83076,
         "country": "ES",
@@ -90,8 +130,12 @@
         "population": 88856
     },
     "2510911": {
-        "geoid": "2510911",
-        "name": "Sevilla",
+        "ids": {
+            "geonames": 2510911
+        },
+        "long": {
+            "default": "Sevilla"
+        },
         "lat": 37.38283,
         "lng": -5.97317,
         "country": "ES",
@@ -99,8 +143,12 @@
         "population": 703206
     },
     "2511032": {
-        "geoid": "2511032",
-        "name": "San Vicent del Raspeig",
+        "ids": {
+            "geonames": 2511032
+        },
+        "long": {
+            "default": "San Vicent del Raspeig"
+        },
         "lat": 38.3964,
         "lng": -0.5255,
         "country": "ES",
@@ -108,8 +156,12 @@
         "population": 53126
     },
     "2511150": {
-        "geoid": "2511150",
-        "name": "Santa Lucía",
+        "ids": {
+            "geonames": 2511150
+        },
+        "long": {
+            "default": "Santa Lucía"
+        },
         "lat": 27.91174,
         "lng": -15.54071,
         "country": "ES",
@@ -117,8 +169,12 @@
         "population": 63637
     },
     "2511174": {
-        "geoid": "2511174",
-        "name": "Santa Cruz de Tenerife",
+        "ids": {
+            "geonames": 2511174
+        },
+        "long": {
+            "default": "Santa Cruz de Tenerife"
+        },
         "lat": 28.46824,
         "lng": -16.25462,
         "country": "ES",
@@ -126,8 +182,12 @@
         "population": 222417
     },
     "2511306": {
-        "geoid": "2511306",
-        "name": "Sanlúcar de Barrameda",
+        "ids": {
+            "geonames": 2511306
+        },
+        "long": {
+            "default": "Sanlúcar de Barrameda"
+        },
         "lat": 36.77808,
         "lng": -6.3515,
         "country": "ES",
@@ -135,8 +195,12 @@
         "population": 65805
     },
     "2511388": {
-        "geoid": "2511388",
-        "name": "San Fernando",
+        "ids": {
+            "geonames": 2511388
+        },
+        "long": {
+            "default": "San Fernando"
+        },
         "lat": 36.4759,
         "lng": -6.19817,
         "country": "ES",
@@ -144,8 +208,12 @@
         "population": 96366
     },
     "2511401": {
-        "geoid": "2511401",
-        "name": "La Laguna",
+        "ids": {
+            "geonames": 2511401
+        },
+        "long": {
+            "default": "La Laguna"
+        },
         "lat": 28.4853,
         "lng": -16.32014,
         "country": "ES",
@@ -153,8 +221,12 @@
         "population": 150661
     },
     "2511440": {
-        "geoid": "2511440",
-        "name": "San Bartolomé de Tirajana",
+        "ids": {
+            "geonames": 2511440
+        },
+        "long": {
+            "default": "San Bartolomé de Tirajana"
+        },
         "lat": 27.92481,
         "lng": -15.57329,
         "country": "ES",
@@ -162,8 +234,12 @@
         "population": 52161
     },
     "2511619": {
-        "geoid": "2511619",
-        "name": "Sagunto",
+        "ids": {
+            "geonames": 2511619
+        },
+        "long": {
+            "default": "Sagunto"
+        },
         "lat": 39.68333,
         "lng": -0.26667,
         "country": "ES",
@@ -171,8 +247,12 @@
         "population": 66070
     },
     "2511716": {
-        "geoid": "2511716",
-        "name": "Roquetas de Mar",
+        "ids": {
+            "geonames": 2511716
+        },
+        "long": {
+            "default": "Roquetas de Mar"
+        },
         "lat": 36.76419,
         "lng": -2.61475,
         "country": "ES",
@@ -180,8 +260,12 @@
         "population": 82665
     },
     "2512177": {
-        "geoid": "2512177",
-        "name": "Puertollano",
+        "ids": {
+            "geonames": 2512177
+        },
+        "long": {
+            "default": "Puertollano"
+        },
         "lat": 38.68712,
         "lng": -4.10734,
         "country": "ES",
@@ -189,8 +273,12 @@
         "population": 51842
     },
     "2512862": {
-        "geoid": "2512862",
-        "name": "Paterna",
+        "ids": {
+            "geonames": 2512862
+        },
+        "long": {
+            "default": "Paterna"
+        },
         "lat": 39.5,
         "lng": -0.43333,
         "country": "ES",
@@ -198,8 +286,12 @@
         "population": 64023
     },
     "2512989": {
-        "geoid": "2512989",
-        "name": "Palma",
+        "ids": {
+            "geonames": 2512989
+        },
+        "long": {
+            "default": "Palma"
+        },
         "lat": 39.56939,
         "lng": 2.65024,
         "country": "ES",
@@ -207,8 +299,12 @@
         "population": 401270
     },
     "2513076": {
-        "geoid": "2513076",
-        "name": "Orihuela",
+        "ids": {
+            "geonames": 2513076
+        },
+        "long": {
+            "default": "Orihuela"
+        },
         "lat": 38.08483,
         "lng": -0.94401,
         "country": "ES",
@@ -216,8 +312,12 @@
         "population": 86164
     },
     "2513416": {
-        "geoid": "2513416",
-        "name": "Murcia",
+        "ids": {
+            "geonames": 2513416
+        },
+        "long": {
+            "default": "Murcia"
+        },
         "lat": 37.98704,
         "lng": -1.13004,
         "country": "ES",
@@ -225,8 +325,12 @@
         "population": 436870
     },
     "2513477": {
-        "geoid": "2513477",
-        "name": "Motril",
+        "ids": {
+            "geonames": 2513477
+        },
+        "long": {
+            "default": "Motril"
+        },
         "lat": 36.75066,
         "lng": -3.5179,
         "country": "ES",
@@ -234,8 +338,12 @@
         "population": 60279
     },
     "2513759": {
-        "geoid": "2513759",
-        "name": "Molina de Segura",
+        "ids": {
+            "geonames": 2513759
+        },
+        "long": {
+            "default": "Molina de Segura"
+        },
         "lat": 38.05456,
         "lng": -1.20763,
         "country": "ES",
@@ -243,8 +351,12 @@
         "population": 64065
     },
     "2513882": {
-        "geoid": "2513882",
-        "name": "Mijas",
+        "ids": {
+            "geonames": 2513882
+        },
+        "long": {
+            "default": "Mijas"
+        },
         "lat": 36.59575,
         "lng": -4.63728,
         "country": "ES",
@@ -252,8 +364,12 @@
         "population": 73787
     },
     "2513917": {
-        "geoid": "2513917",
-        "name": "Mérida",
+        "ids": {
+            "geonames": 2513917
+        },
+        "long": {
+            "default": "Mérida"
+        },
         "lat": 38.91611,
         "lng": -6.34366,
         "country": "ES",
@@ -261,8 +377,12 @@
         "population": 56395
     },
     "2513947": {
-        "geoid": "2513947",
-        "name": "Melilla",
+        "ids": {
+            "geonames": 2513947
+        },
+        "long": {
+            "default": "Melilla"
+        },
         "lat": 35.29369,
         "lng": -2.93833,
         "country": "ES",
@@ -270,8 +390,12 @@
         "population": 73460
     },
     "2514169": {
-        "geoid": "2514169",
-        "name": "Marbella",
+        "ids": {
+            "geonames": 2514169
+        },
+        "long": {
+            "default": "Marbella"
+        },
         "lat": 36.51543,
         "lng": -4.88583,
         "country": "ES",
@@ -279,8 +403,12 @@
         "population": 134623
     },
     "2514256": {
-        "geoid": "2514256",
-        "name": "Málaga",
+        "ids": {
+            "geonames": 2514256
+        },
+        "long": {
+            "default": "Málaga"
+        },
         "lat": 36.72016,
         "lng": -4.42034,
         "country": "ES",
@@ -288,8 +416,12 @@
         "population": 568305
     },
     "2514891": {
-        "geoid": "2514891",
-        "name": "Lorca",
+        "ids": {
+            "geonames": 2514891
+        },
+        "long": {
+            "default": "Lorca"
+        },
         "lat": 37.67119,
         "lng": -1.7017,
         "country": "ES",
@@ -297,8 +429,12 @@
         "population": 91906
     },
     "2515045": {
-        "geoid": "2515045",
-        "name": "Linares",
+        "ids": {
+            "geonames": 2515045
+        },
+        "long": {
+            "default": "Linares"
+        },
         "lat": 38.09519,
         "lng": -3.63602,
         "country": "ES",
@@ -306,8 +442,12 @@
         "population": 61338
     },
     "2515270": {
-        "geoid": "2515270",
-        "name": "Las Palmas de Gran Canaria",
+        "ids": {
+            "geonames": 2515270
+        },
+        "long": {
+            "default": "Las Palmas de Gran Canaria"
+        },
         "lat": 28.09973,
         "lng": -15.41343,
         "country": "ES",
@@ -315,8 +455,12 @@
         "population": 381847
     },
     "2515812": {
-        "geoid": "2515812",
-        "name": "La Línea de la Concepción",
+        "ids": {
+            "geonames": 2515812
+        },
+        "long": {
+            "default": "La Línea de la Concepción"
+        },
         "lat": 36.16809,
         "lng": -5.34777,
         "country": "ES",
@@ -324,8 +468,12 @@
         "population": 64595
     },
     "2516326": {
-        "geoid": "2516326",
-        "name": "Jerez de la Frontera",
+        "ids": {
+            "geonames": 2516326
+        },
+        "long": {
+            "default": "Jerez de la Frontera"
+        },
         "lat": 36.68645,
         "lng": -6.13606,
         "country": "ES",
@@ -333,8 +481,12 @@
         "population": 207532
     },
     "2516395": {
-        "geoid": "2516395",
-        "name": "Jaén",
+        "ids": {
+            "geonames": 2516395
+        },
+        "long": {
+            "default": "Jaén"
+        },
         "lat": 37.76922,
         "lng": -3.79028,
         "country": "ES",
@@ -342,8 +494,12 @@
         "population": 116557
     },
     "2516548": {
-        "geoid": "2516548",
-        "name": "Huelva",
+        "ids": {
+            "geonames": 2516548
+        },
+        "long": {
+            "default": "Huelva"
+        },
         "lat": 37.26638,
         "lng": -6.94004,
         "country": "ES",
@@ -351,8 +507,12 @@
         "population": 148806
     },
     "2517117": {
-        "geoid": "2517117",
-        "name": "Granada",
+        "ids": {
+            "geonames": 2517117
+        },
+        "long": {
+            "default": "Granada"
+        },
         "lat": 37.18817,
         "lng": -3.60667,
         "country": "ES",
@@ -360,8 +520,12 @@
         "population": 234325
     },
     "2517367": {
-        "geoid": "2517367",
-        "name": "Gandia",
+        "ids": {
+            "geonames": 2517367
+        },
+        "long": {
+            "default": "Gandia"
+        },
         "lat": 38.96667,
         "lng": -0.18333,
         "country": "ES",
@@ -369,8 +533,12 @@
         "population": 80020
     },
     "2517595": {
-        "geoid": "2517595",
-        "name": "Fuengirola",
+        "ids": {
+            "geonames": 2517595
+        },
+        "long": {
+            "default": "Fuengirola"
+        },
         "lat": 36.53998,
         "lng": -4.62473,
         "country": "ES",
@@ -378,8 +546,12 @@
         "population": 71482
     },
     "2517816": {
-        "geoid": "2517816",
-        "name": "Estepona",
+        "ids": {
+            "geonames": 2517816
+        },
+        "long": {
+            "default": "Estepona"
+        },
         "lat": 36.42764,
         "lng": -5.14589,
         "country": "ES",
@@ -387,8 +559,12 @@
         "population": 65592
     },
     "2518207": {
-        "geoid": "2518207",
-        "name": "El Puerto de Santa María",
+        "ids": {
+            "geonames": 2518207
+        },
+        "long": {
+            "default": "El Puerto de Santa María"
+        },
         "lat": 36.59389,
         "lng": -6.23298,
         "country": "ES",
@@ -396,8 +572,12 @@
         "population": 87696
     },
     "2518494": {
-        "geoid": "2518494",
-        "name": "El Ejido",
+        "ids": {
+            "geonames": 2518494
+        },
+        "long": {
+            "default": "El Ejido"
+        },
         "lat": 36.77629,
         "lng": -2.81456,
         "country": "ES",
@@ -405,8 +585,12 @@
         "population": 84227
     },
     "2518505": {
-        "geoid": "2518505",
-        "name": "Elda",
+        "ids": {
+            "geonames": 2518505
+        },
+        "long": {
+            "default": "Elda"
+        },
         "lat": 38.47783,
         "lng": -0.79157,
         "country": "ES",
@@ -414,8 +598,12 @@
         "population": 55168
     },
     "2518559": {
-        "geoid": "2518559",
-        "name": "Elche",
+        "ids": {
+            "geonames": 2518559
+        },
+        "long": {
+            "default": "Elche"
+        },
         "lat": 38.26218,
         "lng": -0.70107,
         "country": "ES",
@@ -423,8 +611,12 @@
         "population": 230112
     },
     "2518794": {
-        "geoid": "2518794",
-        "name": "Dos Hermanas",
+        "ids": {
+            "geonames": 2518794
+        },
+        "long": {
+            "default": "Dos Hermanas"
+        },
         "lat": 37.28287,
         "lng": -5.92088,
         "country": "ES",
@@ -432,8 +624,12 @@
         "population": 122943
     },
     "2519240": {
-        "geoid": "2519240",
-        "name": "Córdoba",
+        "ids": {
+            "geonames": 2519240
+        },
+        "long": {
+            "default": "Córdoba"
+        },
         "lat": 37.89155,
         "lng": -4.77275,
         "country": "ES",
@@ -441,8 +637,12 @@
         "population": 328428
     },
     "2519402": {
-        "geoid": "2519402",
-        "name": "Ciudad Real",
+        "ids": {
+            "geonames": 2519402
+        },
+        "long": {
+            "default": "Ciudad Real"
+        },
         "lat": 38.98626,
         "lng": -3.92907,
         "country": "ES",
@@ -450,8 +650,12 @@
         "population": 74014
     },
     "2519513": {
-        "geoid": "2519513",
-        "name": "Chiclana de la Frontera",
+        "ids": {
+            "geonames": 2519513
+        },
+        "long": {
+            "default": "Chiclana de la Frontera"
+        },
         "lat": 36.41915,
         "lng": -6.14941,
         "country": "ES",
@@ -459,8 +663,12 @@
         "population": 77293
     },
     "2519752": {
-        "geoid": "2519752",
-        "name": "Castelló de la Plana",
+        "ids": {
+            "geonames": 2519752
+        },
+        "long": {
+            "default": "Castelló de la Plana"
+        },
         "lat": 39.98567,
         "lng": -0.04935,
         "country": "ES",
@@ -468,8 +676,12 @@
         "population": 180005
     },
     "2520058": {
-        "geoid": "2520058",
-        "name": "Cartagena",
+        "ids": {
+            "geonames": 2520058
+        },
+        "long": {
+            "default": "Cartagena"
+        },
         "lat": 37.60512,
         "lng": -0.98623,
         "country": "ES",
@@ -477,8 +689,12 @@
         "population": 211996
     },
     "2520425": {
-        "geoid": "2520425",
-        "name": "Campiña",
+        "ids": {
+            "geonames": 2520425
+        },
+        "long": {
+            "default": "Campiña"
+        },
         "lat": 38.21896,
         "lng": -2.98069,
         "country": "ES",
@@ -486,8 +702,12 @@
         "population": 67904
     },
     "2520493": {
-        "geoid": "2520493",
-        "name": "Calvià",
+        "ids": {
+            "geonames": 2520493
+        },
+        "long": {
+            "default": "Calvià"
+        },
         "lat": 39.5657,
         "lng": 2.50621,
         "country": "ES",
@@ -495,8 +715,12 @@
         "population": 51774
     },
     "2520600": {
-        "geoid": "2520600",
-        "name": "Cadiz",
+        "ids": {
+            "geonames": 2520600
+        },
+        "long": {
+            "default": "Cadiz"
+        },
         "lat": 36.52978,
         "lng": -6.29465,
         "country": "ES",
@@ -504,8 +728,12 @@
         "population": 126766
     },
     "2520611": {
-        "geoid": "2520611",
-        "name": "Cáceres",
+        "ids": {
+            "geonames": 2520611
+        },
+        "long": {
+            "default": "Cáceres"
+        },
         "lat": 39.47649,
         "lng": -6.37224,
         "country": "ES",
@@ -513,8 +741,12 @@
         "population": 93131
     },
     "2521088": {
-        "geoid": "2521088",
-        "name": "Benidorm",
+        "ids": {
+            "geonames": 2521088
+        },
+        "long": {
+            "default": "Benidorm"
+        },
         "lat": 38.53816,
         "lng": -0.13098,
         "country": "ES",
@@ -522,8 +754,12 @@
         "population": 71034
     },
     "2521139": {
-        "geoid": "2521139",
-        "name": "Benalmádena",
+        "ids": {
+            "geonames": 2521139
+        },
+        "long": {
+            "default": "Benalmádena"
+        },
         "lat": 36.5961,
         "lng": -4.57267,
         "country": "ES",
@@ -531,8 +767,12 @@
         "population": 58854
     },
     "2521420": {
-        "geoid": "2521420",
-        "name": "Badajoz",
+        "ids": {
+            "geonames": 2521420
+        },
+        "long": {
+            "default": "Badajoz"
+        },
         "lat": 38.87789,
         "lng": -6.97061,
         "country": "ES",
@@ -540,8 +780,12 @@
         "population": 148334
     },
     "2521570": {
-        "geoid": "2521570",
-        "name": "Arrecife",
+        "ids": {
+            "geonames": 2521570
+        },
+        "long": {
+            "default": "Arrecife"
+        },
         "lat": 28.96302,
         "lng": -13.54769,
         "country": "ES",
@@ -549,8 +793,12 @@
         "population": 59127
     },
     "2521582": {
-        "geoid": "2521582",
-        "name": "Arona",
+        "ids": {
+            "geonames": 2521582
+        },
+        "long": {
+            "default": "Arona"
+        },
         "lat": 28.09962,
         "lng": -16.68102,
         "country": "ES",
@@ -558,8 +806,12 @@
         "population": 78614
     },
     "2521886": {
-        "geoid": "2521886",
-        "name": "Almería",
+        "ids": {
+            "geonames": 2521886
+        },
+        "long": {
+            "default": "Almería"
+        },
         "lat": 36.83814,
         "lng": -2.45974,
         "country": "ES",
@@ -567,8 +819,12 @@
         "population": 188810
     },
     "2521978": {
-        "geoid": "2521978",
-        "name": "Alicante",
+        "ids": {
+            "geonames": 2521978
+        },
+        "long": {
+            "default": "Alicante"
+        },
         "lat": 38.34517,
         "lng": -0.48149,
         "country": "ES",
@@ -576,8 +832,12 @@
         "population": 334757
     },
     "2522013": {
-        "geoid": "2522013",
-        "name": "Algeciras",
+        "ids": {
+            "geonames": 2522013
+        },
+        "long": {
+            "default": "Algeciras"
+        },
         "lat": 36.13326,
         "lng": -5.45051,
         "country": "ES",
@@ -585,8 +845,12 @@
         "population": 116209
     },
     "2522098": {
-        "geoid": "2522098",
-        "name": "Alcoy",
+        "ids": {
+            "geonames": 2522098
+        },
+        "long": {
+            "default": "Alcoy"
+        },
         "lat": 38.70545,
         "lng": -0.47432,
         "country": "ES",
@@ -594,8 +858,12 @@
         "population": 61552
     },
     "2522165": {
-        "geoid": "2522165",
-        "name": "Alcalá de Guadaira",
+        "ids": {
+            "geonames": 2522165
+        },
+        "long": {
+            "default": "Alcalá de Guadaira"
+        },
         "lat": 37.33791,
         "lng": -5.83951,
         "country": "ES",
@@ -603,8 +871,12 @@
         "population": 70155
     },
     "2522258": {
-        "geoid": "2522258",
-        "name": "Albacete",
+        "ids": {
+            "geonames": 2522258
+        },
+        "long": {
+            "default": "Albacete"
+        },
         "lat": 38.99424,
         "lng": -1.85643,
         "country": "ES",
@@ -612,8 +884,12 @@
         "population": 169716
     },
     "2567529": {
-        "geoid": "2567529",
-        "name": "Groa de Murviedro",
+        "ids": {
+            "geonames": 2567529
+        },
+        "long": {
+            "default": "Groa de Murviedro"
+        },
         "lat": 39.64167,
         "lng": -0.23889,
         "country": "ES",
@@ -621,8 +897,12 @@
         "population": 62368
     },
     "3104324": {
-        "geoid": "3104324",
-        "name": "Zaragoza",
+        "ids": {
+            "geonames": 3104324
+        },
+        "long": {
+            "default": "Zaragoza"
+        },
         "lat": 41.65606,
         "lng": -0.87734,
         "country": "ES",
@@ -630,8 +910,12 @@
         "population": 674317
     },
     "3104342": {
-        "geoid": "3104342",
-        "name": "Zamora",
+        "ids": {
+            "geonames": 3104342
+        },
+        "long": {
+            "default": "Zamora"
+        },
         "lat": 41.50633,
         "lng": -5.74456,
         "country": "ES",
@@ -639,8 +923,12 @@
         "population": 66293
     },
     "3104499": {
-        "geoid": "3104499",
-        "name": "Gasteiz \/ Vitoria",
+        "ids": {
+            "geonames": 3104499
+        },
+        "long": {
+            "default": "Gasteiz \/ Vitoria"
+        },
         "lat": 42.84998,
         "lng": -2.67268,
         "country": "ES",
@@ -648,8 +936,12 @@
         "population": 235661
     },
     "3104748": {
-        "geoid": "3104748",
-        "name": "Villaverde",
+        "ids": {
+            "geonames": 3104748
+        },
+        "long": {
+            "default": "Villaverde"
+        },
         "lat": 40.35,
         "lng": -3.7,
         "country": "ES",
@@ -657,8 +949,12 @@
         "population": 126802
     },
     "3105184": {
-        "geoid": "3105184",
-        "name": "Vilanova i la Geltrú",
+        "ids": {
+            "geonames": 3105184
+        },
+        "long": {
+            "default": "Vilanova i la Geltrú"
+        },
         "lat": 41.22392,
         "lng": 1.72511,
         "country": "ES",
@@ -666,8 +962,12 @@
         "population": 65890
     },
     "3105935": {
-        "geoid": "3105935",
-        "name": "Viladecans",
+        "ids": {
+            "geonames": 3105935
+        },
+        "long": {
+            "default": "Viladecans"
+        },
         "lat": 41.31405,
         "lng": 2.01427,
         "country": "ES",
@@ -675,8 +975,12 @@
         "population": 63489
     },
     "3105976": {
-        "geoid": "3105976",
-        "name": "Vigo",
+        "ids": {
+            "geonames": 3105976
+        },
+        "long": {
+            "default": "Vigo"
+        },
         "lat": 42.23282,
         "lng": -8.72264,
         "country": "ES",
@@ -684,8 +988,12 @@
         "population": 297332
     },
     "3106054": {
-        "geoid": "3106054",
-        "name": "Vicálvaro",
+        "ids": {
+            "geonames": 3106054
+        },
+        "long": {
+            "default": "Vicálvaro"
+        },
         "lat": 40.4,
         "lng": -3.6,
         "country": "ES",
@@ -693,8 +1001,12 @@
         "population": 66439
     },
     "3106672": {
-        "geoid": "3106672",
-        "name": "Valladolid",
+        "ids": {
+            "geonames": 3106672
+        },
+        "long": {
+            "default": "Valladolid"
+        },
         "lat": 41.65518,
         "lng": -4.72372,
         "country": "ES",
@@ -702,8 +1014,12 @@
         "population": 317864
     },
     "3106868": {
-        "geoid": "3106868",
-        "name": "Valdemoro",
+        "ids": {
+            "geonames": 3106868
+        },
+        "long": {
+            "default": "Valdemoro"
+        },
         "lat": 40.19081,
         "lng": -3.67887,
         "country": "ES",
@@ -711,8 +1027,12 @@
         "population": 62750
     },
     "3107112": {
-        "geoid": "3107112",
-        "name": "Rivas-Vaciamadrid",
+        "ids": {
+            "geonames": 3107112
+        },
+        "long": {
+            "default": "Rivas-Vaciamadrid"
+        },
         "lat": 40.32605,
         "lng": -3.51089,
         "country": "ES",
@@ -720,8 +1040,12 @@
         "population": 68405
     },
     "3107775": {
-        "geoid": "3107775",
-        "name": "Torrelavega",
+        "ids": {
+            "geonames": 3107775
+        },
+        "long": {
+            "default": "Torrelavega"
+        },
         "lat": 43.34943,
         "lng": -4.04785,
         "country": "ES",
@@ -729,8 +1053,12 @@
         "population": 55297
     },
     "3107784": {
-        "geoid": "3107784",
-        "name": "Torrejón de Ardoz",
+        "ids": {
+            "geonames": 3107784
+        },
+        "long": {
+            "default": "Torrejón de Ardoz"
+        },
         "lat": 40.45535,
         "lng": -3.46973,
         "country": "ES",
@@ -738,8 +1066,12 @@
         "population": 118162
     },
     "3108118": {
-        "geoid": "3108118",
-        "name": "Tetuán de las Victorias",
+        "ids": {
+            "geonames": 3108118
+        },
+        "long": {
+            "default": "Tetuán de las Victorias"
+        },
         "lat": 40.46667,
         "lng": -3.71667,
         "country": "ES",
@@ -747,8 +1079,12 @@
         "population": 155000
     },
     "3108286": {
-        "geoid": "3108286",
-        "name": "Terrassa",
+        "ids": {
+            "geonames": 3108286
+        },
+        "long": {
+            "default": "Terrassa"
+        },
         "lat": 41.56667,
         "lng": 2.01667,
         "country": "ES",
@@ -756,8 +1092,12 @@
         "population": 210941
     },
     "3108288": {
-        "geoid": "3108288",
-        "name": "Tarragona",
+        "ids": {
+            "geonames": 3108288
+        },
+        "long": {
+            "default": "Tarragona"
+        },
         "lat": 41.11667,
         "lng": 1.25,
         "country": "ES",
@@ -765,8 +1105,12 @@
         "population": 140323
     },
     "3109256": {
-        "geoid": "3109256",
-        "name": "Segovia",
+        "ids": {
+            "geonames": 3109256
+        },
+        "long": {
+            "default": "Segovia"
+        },
         "lat": 40.94808,
         "lng": -4.11839,
         "country": "ES",
@@ -774,8 +1118,12 @@
         "population": 56660
     },
     "3109402": {
-        "geoid": "3109402",
-        "name": "Cerdanyola del Vallès",
+        "ids": {
+            "geonames": 3109402
+        },
+        "long": {
+            "default": "Cerdanyola del Vallès"
+        },
         "lat": 41.49109,
         "lng": 2.14079,
         "country": "ES",
@@ -783,8 +1131,12 @@
         "population": 58747
     },
     "3109453": {
-        "geoid": "3109453",
-        "name": "Barakaldo",
+        "ids": {
+            "geonames": 3109453
+        },
+        "long": {
+            "default": "Barakaldo"
+        },
         "lat": 43.29639,
         "lng": -2.98813,
         "country": "ES",
@@ -792,8 +1144,12 @@
         "population": 98460
     },
     "3109642": {
-        "geoid": "3109642",
-        "name": "Santiago de Compostela",
+        "ids": {
+            "geonames": 3109642
+        },
+        "long": {
+            "default": "Santiago de Compostela"
+        },
         "lat": 42.88052,
         "lng": -8.54569,
         "country": "ES",
@@ -801,8 +1157,12 @@
         "population": 95092
     },
     "3109718": {
-        "geoid": "3109718",
-        "name": "Santander",
+        "ids": {
+            "geonames": 3109718
+        },
+        "long": {
+            "default": "Santander"
+        },
         "lat": 43.46472,
         "lng": -3.80444,
         "country": "ES",
@@ -810,8 +1170,12 @@
         "population": 182700
     },
     "3109981": {
-        "geoid": "3109981",
-        "name": "Santa Coloma de Gramenet",
+        "ids": {
+            "geonames": 3109981
+        },
+        "long": {
+            "default": "Santa Coloma de Gramenet"
+        },
         "lat": 41.45152,
         "lng": 2.2081,
         "country": "ES",
@@ -819,8 +1183,12 @@
         "population": 119717
     },
     "3110040": {
-        "geoid": "3110040",
-        "name": "San Sebastián de los Reyes",
+        "ids": {
+            "geonames": 3110040
+        },
+        "long": {
+            "default": "San Sebastián de los Reyes"
+        },
         "lat": 40.55555,
         "lng": -3.62733,
         "country": "ES",
@@ -828,8 +1196,12 @@
         "population": 75912
     },
     "3110044": {
-        "geoid": "3110044",
-        "name": "Donostia \/ San Sebastián",
+        "ids": {
+            "geonames": 3110044
+        },
+        "long": {
+            "default": "Donostia \/ San Sebastián"
+        },
         "lat": 43.31283,
         "lng": -1.97499,
         "country": "ES",
@@ -837,8 +1209,12 @@
         "population": 185357
     },
     "3110718": {
-        "geoid": "3110718",
-        "name": "Sant Cugat del Vallès",
+        "ids": {
+            "geonames": 3110718
+        },
+        "long": {
+            "default": "Sant Cugat del Vallès"
+        },
         "lat": 41.47063,
         "lng": 2.08611,
         "country": "ES",
@@ -846,8 +1222,12 @@
         "population": 79253
     },
     "3110834": {
-        "geoid": "3110834",
-        "name": "Sant Boi de Llobregat",
+        "ids": {
+            "geonames": 3110834
+        },
+        "long": {
+            "default": "Sant Boi de Llobregat"
+        },
         "lat": 41.34357,
         "lng": 2.03659,
         "country": "ES",
@@ -855,8 +1235,12 @@
         "population": 82428
     },
     "3110876": {
-        "geoid": "3110876",
-        "name": "Sant Andreu de Palomar",
+        "ids": {
+            "geonames": 3110876
+        },
+        "long": {
+            "default": "Sant Andreu de Palomar"
+        },
         "lat": 41.43541,
         "lng": 2.18982,
         "country": "ES",
@@ -864,8 +1248,12 @@
         "population": 142598
     },
     "3111108": {
-        "geoid": "3111108",
-        "name": "Salamanca",
+        "ids": {
+            "geonames": 3111108
+        },
+        "long": {
+            "default": "Salamanca"
+        },
         "lat": 40.96882,
         "lng": -5.66388,
         "country": "ES",
@@ -873,8 +1261,12 @@
         "population": 155619
     },
     "3111199": {
-        "geoid": "3111199",
-        "name": "Sabadell",
+        "ids": {
+            "geonames": 3111199
+        },
+        "long": {
+            "default": "Sabadell"
+        },
         "lat": 41.54329,
         "lng": 2.10942,
         "country": "ES",
@@ -882,8 +1274,12 @@
         "population": 206493
     },
     "3111294": {
-        "geoid": "3111294",
-        "name": "Rubí",
+        "ids": {
+            "geonames": 3111294
+        },
+        "long": {
+            "default": "Rubí"
+        },
         "lat": 41.49226,
         "lng": 2.03305,
         "country": "ES",
@@ -891,8 +1287,12 @@
         "population": 72987
     },
     "3111933": {
-        "geoid": "3111933",
-        "name": "Reus",
+        "ids": {
+            "geonames": 3111933
+        },
+        "long": {
+            "default": "Reus"
+        },
         "lat": 41.15612,
         "lng": 1.10687,
         "country": "ES",
@@ -900,8 +1300,12 @@
         "population": 107118
     },
     "3112737": {
-        "geoid": "3112737",
-        "name": "Puente de Vallecas",
+        "ids": {
+            "geonames": 3112737
+        },
+        "long": {
+            "default": "Puente de Vallecas"
+        },
         "lat": 40.39354,
         "lng": -3.662,
         "country": "ES",
@@ -909,8 +1313,12 @@
         "population": 244151
     },
     "3112989": {
-        "geoid": "3112989",
-        "name": "Pozuelo de Alarcón",
+        "ids": {
+            "geonames": 3112989
+        },
+        "long": {
+            "default": "Pozuelo de Alarcón"
+        },
         "lat": 40.43293,
         "lng": -3.81338,
         "country": "ES",
@@ -918,8 +1326,12 @@
         "population": 82428
     },
     "3113209": {
-        "geoid": "3113209",
-        "name": "Pontevedra",
+        "ids": {
+            "geonames": 3113209
+        },
+        "long": {
+            "default": "Pontevedra"
+        },
         "lat": 42.431,
         "lng": -8.64435,
         "country": "ES",
@@ -927,8 +1339,12 @@
         "population": 81576
     },
     "3113236": {
-        "geoid": "3113236",
-        "name": "Ponferrada",
+        "ids": {
+            "geonames": 3113236
+        },
+        "long": {
+            "default": "Ponferrada"
+        },
         "lat": 42.54664,
         "lng": -6.59619,
         "country": "ES",
@@ -936,8 +1352,12 @@
         "population": 68736
     },
     "3114256": {
-        "geoid": "3114256",
-        "name": "Parla",
+        "ids": {
+            "geonames": 3114256
+        },
+        "long": {
+            "default": "Parla"
+        },
         "lat": 40.23604,
         "lng": -3.76752,
         "country": "ES",
@@ -945,8 +1365,12 @@
         "population": 115611
     },
     "3114472": {
-        "geoid": "3114472",
-        "name": "Pamplona",
+        "ids": {
+            "geonames": 3114472
+        },
+        "long": {
+            "default": "Pamplona"
+        },
         "lat": 42.81687,
         "lng": -1.64323,
         "country": "ES",
@@ -954,8 +1378,12 @@
         "population": 198491
     },
     "3114531": {
-        "geoid": "3114531",
-        "name": "Palencia",
+        "ids": {
+            "geonames": 3114531
+        },
+        "long": {
+            "default": "Palencia"
+        },
         "lat": 42.00955,
         "lng": -4.52406,
         "country": "ES",
@@ -963,8 +1391,12 @@
         "population": 82651
     },
     "3114711": {
-        "geoid": "3114711",
-        "name": "Oviedo",
+        "ids": {
+            "geonames": 3114711
+        },
+        "long": {
+            "default": "Oviedo"
+        },
         "lat": 43.36029,
         "lng": -5.84476,
         "country": "ES",
@@ -972,8 +1404,12 @@
         "population": 224005
     },
     "3114965": {
-        "geoid": "3114965",
-        "name": "Ourense",
+        "ids": {
+            "geonames": 3114965
+        },
+        "long": {
+            "default": "Ourense"
+        },
         "lat": 42.33669,
         "lng": -7.86407,
         "country": "ES",
@@ -981,8 +1417,12 @@
         "population": 107742
     },
     "3116025": {
-        "geoid": "3116025",
-        "name": "Móstoles",
+        "ids": {
+            "geonames": 3116025
+        },
+        "long": {
+            "default": "Móstoles"
+        },
         "lat": 40.32234,
         "lng": -3.86496,
         "country": "ES",
@@ -990,8 +1430,12 @@
         "population": 206478
     },
     "3116156": {
-        "geoid": "3116156",
-        "name": "Moratalaz",
+        "ids": {
+            "geonames": 3116156
+        },
+        "long": {
+            "default": "Moratalaz"
+        },
         "lat": 40.41667,
         "lng": -3.65,
         "country": "ES",
@@ -999,8 +1443,12 @@
         "population": 104923
     },
     "3116553": {
-        "geoid": "3116553",
-        "name": "Mollet del Vallès",
+        "ids": {
+            "geonames": 3116553
+        },
+        "long": {
+            "default": "Mollet del Vallès"
+        },
         "lat": 41.54026,
         "lng": 2.21306,
         "country": "ES",
@@ -1008,8 +1456,12 @@
         "population": 52484
     },
     "3117164": {
-        "geoid": "3117164",
-        "name": "Mataró",
+        "ids": {
+            "geonames": 3117164
+        },
+        "long": {
+            "default": "Mataró"
+        },
         "lat": 41.54211,
         "lng": 2.4445,
         "country": "ES",
@@ -1017,8 +1469,12 @@
         "population": 121722
     },
     "3117533": {
-        "geoid": "3117533",
-        "name": "Manresa",
+        "ids": {
+            "geonames": 3117533
+        },
+        "long": {
+            "default": "Manresa"
+        },
         "lat": 41.72815,
         "lng": 1.82399,
         "country": "ES",
@@ -1026,8 +1482,12 @@
         "population": 76558
     },
     "3117667": {
-        "geoid": "3117667",
-        "name": "Majadahonda",
+        "ids": {
+            "geonames": 3117667
+        },
+        "long": {
+            "default": "Majadahonda"
+        },
         "lat": 40.47353,
         "lng": -3.87182,
         "country": "ES",
@@ -1035,8 +1495,12 @@
         "population": 68110
     },
     "3117735": {
-        "geoid": "3117735",
-        "name": "Madrid",
+        "ids": {
+            "geonames": 3117735
+        },
+        "long": {
+            "default": "Madrid"
+        },
         "lat": 40.4165,
         "lng": -3.70256,
         "country": "ES",
@@ -1044,8 +1508,12 @@
         "population": 3255944
     },
     "3117814": {
-        "geoid": "3117814",
-        "name": "Lugo",
+        "ids": {
+            "geonames": 3117814
+        },
+        "long": {
+            "default": "Lugo"
+        },
         "lat": 43.00992,
         "lng": -7.55602,
         "country": "ES",
@@ -1053,8 +1521,12 @@
         "population": 96678
     },
     "3118150": {
-        "geoid": "3118150",
-        "name": "Logroño",
+        "ids": {
+            "geonames": 3118150
+        },
+        "long": {
+            "default": "Logroño"
+        },
         "lat": 42.46667,
         "lng": -2.45,
         "country": "ES",
@@ -1062,8 +1534,12 @@
         "population": 152107
     },
     "3118514": {
-        "geoid": "3118514",
-        "name": "Lleida",
+        "ids": {
+            "geonames": 3118514
+        },
+        "long": {
+            "default": "Lleida"
+        },
         "lat": 41.61674,
         "lng": 0.62218,
         "country": "ES",
@@ -1071,8 +1547,12 @@
         "population": 135919
     },
     "3118532": {
-        "geoid": "3118532",
-        "name": "León",
+        "ids": {
+            "geonames": 3118532
+        },
+        "long": {
+            "default": "León"
+        },
         "lat": 42.60003,
         "lng": -5.57032,
         "country": "ES",
@@ -1080,8 +1560,12 @@
         "population": 134305
     },
     "3118594": {
-        "geoid": "3118594",
-        "name": "Leganés",
+        "ids": {
+            "geonames": 3118594
+        },
+        "long": {
+            "default": "Leganés"
+        },
         "lat": 40.32718,
         "lng": -3.7635,
         "country": "ES",
@@ -1089,8 +1573,12 @@
         "population": 186066
     },
     "3118848": {
-        "geoid": "3118848",
-        "name": "Las Rozas de Madrid",
+        "ids": {
+            "geonames": 3118848
+        },
+        "long": {
+            "default": "Las Rozas de Madrid"
+        },
         "lat": 40.49292,
         "lng": -3.87371,
         "country": "ES",
@@ -1098,8 +1586,12 @@
         "population": 86340
     },
     "3119841": {
-        "geoid": "3119841",
-        "name": "A Coruña",
+        "ids": {
+            "geonames": 3119841
+        },
+        "long": {
+            "default": "A Coruña"
+        },
         "lat": 43.37135,
         "lng": -8.396,
         "country": "ES",
@@ -1107,8 +1599,12 @@
         "population": 246056
     },
     "3120304": {
-        "geoid": "3120304",
-        "name": "Irun",
+        "ids": {
+            "geonames": 3120304
+        },
+        "long": {
+            "default": "Irun"
+        },
         "lat": 43.33904,
         "lng": -1.78938,
         "country": "ES",
@@ -1116,8 +1612,12 @@
         "population": 60951
     },
     "3120514": {
-        "geoid": "3120514",
-        "name": "Huesca",
+        "ids": {
+            "geonames": 3120514
+        },
+        "long": {
+            "default": "Huesca"
+        },
         "lat": 42.13615,
         "lng": -0.4087,
         "country": "ES",
@@ -1125,8 +1625,12 @@
         "population": 52059
     },
     "3120619": {
-        "geoid": "3120619",
-        "name": "L'Hospitalet de Llobregat",
+        "ids": {
+            "geonames": 3120619
+        },
+        "long": {
+            "default": "L'Hospitalet de Llobregat"
+        },
         "lat": 41.35967,
         "lng": 2.10028,
         "country": "ES",
@@ -1134,8 +1638,12 @@
         "population": 257038
     },
     "3120635": {
-        "geoid": "3120635",
-        "name": "Hortaleza",
+        "ids": {
+            "geonames": 3120635
+        },
+        "long": {
+            "default": "Hortaleza"
+        },
         "lat": 40.47444,
         "lng": -3.6411,
         "country": "ES",
@@ -1143,8 +1651,12 @@
         "population": 161661
     },
     "3121007": {
-        "geoid": "3121007",
-        "name": "Getxo",
+        "ids": {
+            "geonames": 3121007
+        },
+        "long": {
+            "default": "Getxo"
+        },
         "lat": 43.35689,
         "lng": -3.01146,
         "country": "ES",
@@ -1152,8 +1664,12 @@
         "population": 80770
     },
     "3121070": {
-        "geoid": "3121070",
-        "name": "Guadalajara",
+        "ids": {
+            "geonames": 3121070
+        },
+        "long": {
+            "default": "Guadalajara"
+        },
         "lat": 40.62862,
         "lng": -3.16185,
         "country": "ES",
@@ -1161,8 +1677,12 @@
         "population": 83039
     },
     "3121145": {
-        "geoid": "3121145",
-        "name": "Granollers",
+        "ids": {
+            "geonames": 3121145
+        },
+        "long": {
+            "default": "Granollers"
+        },
         "lat": 41.60797,
         "lng": 2.28773,
         "country": "ES",
@@ -1170,8 +1690,12 @@
         "population": 60658
     },
     "3121245": {
-        "geoid": "3121245",
-        "name": "Gràcia",
+        "ids": {
+            "geonames": 3121245
+        },
+        "long": {
+            "default": "Gràcia"
+        },
         "lat": 41.40237,
         "lng": 2.15641,
         "country": "ES",
@@ -1179,8 +1703,12 @@
         "population": 120087
     },
     "3121424": {
-        "geoid": "3121424",
-        "name": "Gijón",
+        "ids": {
+            "geonames": 3121424
+        },
+        "long": {
+            "default": "Gijón"
+        },
         "lat": 43.53573,
         "lng": -5.66152,
         "country": "ES",
@@ -1188,8 +1716,12 @@
         "population": 277554
     },
     "3121437": {
-        "geoid": "3121437",
-        "name": "Getafe",
+        "ids": {
+            "geonames": 3121437
+        },
+        "long": {
+            "default": "Getafe"
+        },
         "lat": 40.30571,
         "lng": -3.73295,
         "country": "ES",
@@ -1197,8 +1729,12 @@
         "population": 167164
     },
     "3121456": {
-        "geoid": "3121456",
-        "name": "Girona",
+        "ids": {
+            "geonames": 3121456
+        },
+        "long": {
+            "default": "Girona"
+        },
         "lat": 41.98311,
         "lng": 2.82493,
         "country": "ES",
@@ -1206,8 +1742,12 @@
         "population": 96188
     },
     "3121960": {
-        "geoid": "3121960",
-        "name": "Fuenlabrada",
+        "ids": {
+            "geonames": 3121960
+        },
+        "long": {
+            "default": "Fuenlabrada"
+        },
         "lat": 40.28419,
         "lng": -3.79415,
         "country": "ES",
@@ -1215,8 +1755,12 @@
         "population": 197836
     },
     "3123329": {
-        "geoid": "3123329",
-        "name": "El Prat de Llobregat",
+        "ids": {
+            "geonames": 3123329
+        },
+        "long": {
+            "default": "El Prat de Llobregat"
+        },
         "lat": 41.32784,
         "lng": 2.09472,
         "country": "ES",
@@ -1224,8 +1768,12 @@
         "population": 63418
     },
     "3123493": {
-        "geoid": "3123493",
-        "name": "Ferrol",
+        "ids": {
+            "geonames": 3123493
+        },
+        "long": {
+            "default": "Ferrol"
+        },
         "lat": 43.48321,
         "lng": -8.23689,
         "country": "ES",
@@ -1233,8 +1781,12 @@
         "population": 74273
     },
     "3124132": {
-        "geoid": "3124132",
-        "name": "Cuenca",
+        "ids": {
+            "geonames": 3124132
+        },
+        "long": {
+            "default": "Cuenca"
+        },
         "lat": 40.06667,
         "lng": -2.13333,
         "country": "ES",
@@ -1242,8 +1794,12 @@
         "population": 55866
     },
     "3124408": {
-        "geoid": "3124408",
-        "name": "Coslada",
+        "ids": {
+            "geonames": 3124408
+        },
+        "long": {
+            "default": "Coslada"
+        },
         "lat": 40.42378,
         "lng": -3.56129,
         "country": "ES",
@@ -1251,8 +1807,12 @@
         "population": 90280
     },
     "3124569": {
-        "geoid": "3124569",
-        "name": "Cornellà de Llobregat",
+        "ids": {
+            "geonames": 3124569
+        },
+        "long": {
+            "default": "Cornellà de Llobregat"
+        },
         "lat": 41.35,
         "lng": 2.08333,
         "country": "ES",
@@ -1260,8 +1820,12 @@
         "population": 86519
     },
     "3124794": {
-        "geoid": "3124794",
-        "name": "Collado-Villalba",
+        "ids": {
+            "geonames": 3124794
+        },
+        "long": {
+            "default": "Collado-Villalba"
+        },
         "lat": 40.63506,
         "lng": -4.00486,
         "country": "ES",
@@ -1269,8 +1833,12 @@
         "population": 55027
     },
     "3124964": {
-        "geoid": "3124964",
-        "name": "Ciudad Lineal",
+        "ids": {
+            "geonames": 3124964
+        },
+        "long": {
+            "default": "Ciudad Lineal"
+        },
         "lat": 40.45455,
         "lng": -3.64808,
         "country": "ES",
@@ -1278,8 +1846,12 @@
         "population": 228171
     },
     "3125239": {
-        "geoid": "3125239",
-        "name": "Chamartín",
+        "ids": {
+            "geonames": 3125239
+        },
+        "long": {
+            "default": "Chamartín"
+        },
         "lat": 40.46206,
         "lng": -3.6766,
         "country": "ES",
@@ -1287,8 +1859,12 @@
         "population": 140000
     },
     "3125897": {
-        "geoid": "3125897",
-        "name": "Castelldefels",
+        "ids": {
+            "geonames": 3125897
+        },
+        "long": {
+            "default": "Castelldefels"
+        },
         "lat": 41.27794,
         "lng": 1.97033,
         "country": "ES",
@@ -1296,8 +1872,12 @@
         "population": 62080
     },
     "3127461": {
-        "geoid": "3127461",
-        "name": "Burgos",
+        "ids": {
+            "geonames": 3127461
+        },
+        "long": {
+            "default": "Burgos"
+        },
         "lat": 42.34106,
         "lng": -3.70184,
         "country": "ES",
@@ -1305,8 +1885,12 @@
         "population": 178966
     },
     "3128026": {
-        "geoid": "3128026",
-        "name": "Bilbao",
+        "ids": {
+            "geonames": 3128026
+        },
+        "long": {
+            "default": "Bilbao"
+        },
         "lat": 43.26271,
         "lng": -2.92528,
         "country": "ES",
@@ -1314,8 +1898,12 @@
         "population": 354860
     },
     "3128760": {
-        "geoid": "3128760",
-        "name": "Barcelona",
+        "ids": {
+            "geonames": 3128760
+        },
+        "long": {
+            "default": "Barcelona"
+        },
         "lat": 41.38879,
         "lng": 2.15899,
         "country": "ES",
@@ -1323,8 +1911,12 @@
         "population": 1621537
     },
     "3129028": {
-        "geoid": "3129028",
-        "name": "Badalona",
+        "ids": {
+            "geonames": 3129028
+        },
+        "long": {
+            "default": "Badalona"
+        },
         "lat": 41.45004,
         "lng": 2.24741,
         "country": "ES",
@@ -1332,8 +1924,12 @@
         "population": 219547
     },
     "3129135": {
-        "geoid": "3129135",
-        "name": "Avilés",
+        "ids": {
+            "geonames": 3129135
+        },
+        "long": {
+            "default": "Avilés"
+        },
         "lat": 43.55473,
         "lng": -5.92483,
         "country": "ES",
@@ -1341,8 +1937,12 @@
         "population": 84242
     },
     "3129136": {
-        "geoid": "3129136",
-        "name": "Ávila",
+        "ids": {
+            "geonames": 3129136
+        },
+        "long": {
+            "default": "Ávila"
+        },
         "lat": 40.65724,
         "lng": -4.69951,
         "country": "ES",
@@ -1350,8 +1950,12 @@
         "population": 56855
     },
     "3129636": {
-        "geoid": "3129636",
-        "name": "Arganda",
+        "ids": {
+            "geonames": 3129636
+        },
+        "long": {
+            "default": "Arganda"
+        },
         "lat": 40.30076,
         "lng": -3.43722,
         "country": "ES",
@@ -1359,8 +1963,12 @@
         "population": 51489
     },
     "3129857": {
-        "geoid": "3129857",
-        "name": "Aranjuez",
+        "ids": {
+            "geonames": 3129857
+        },
+        "long": {
+            "default": "Aranjuez"
+        },
         "lat": 40.03108,
         "lng": -3.60246,
         "country": "ES",
@@ -1368,8 +1976,12 @@
         "population": 54055
     },
     "3130380": {
-        "geoid": "3130380",
-        "name": "Algorta",
+        "ids": {
+            "geonames": 3130380
+        },
+        "long": {
+            "default": "Algorta"
+        },
         "lat": 43.34927,
         "lng": -3.0094,
         "country": "ES",
@@ -1377,8 +1989,12 @@
         "population": 82624
     },
     "3130564": {
-        "geoid": "3130564",
-        "name": "Alcorcón",
+        "ids": {
+            "geonames": 3130564
+        },
+        "long": {
+            "default": "Alcorcón"
+        },
         "lat": 40.34582,
         "lng": -3.82487,
         "country": "ES",
@@ -1386,8 +2002,12 @@
         "population": 167967
     },
     "3130583": {
-        "geoid": "3130583",
-        "name": "Alcobendas",
+        "ids": {
+            "geonames": 3130583
+        },
+        "long": {
+            "default": "Alcobendas"
+        },
         "lat": 40.54746,
         "lng": -3.64197,
         "country": "ES",
@@ -1395,8 +2015,12 @@
         "population": 107514
     },
     "3130616": {
-        "geoid": "3130616",
-        "name": "Alcalá de Henares",
+        "ids": {
+            "geonames": 3130616
+        },
+        "long": {
+            "default": "Alcalá de Henares"
+        },
         "lat": 40.48205,
         "lng": -3.35996,
         "country": "ES",
@@ -1404,8 +2028,12 @@
         "population": 204574
     },
     "6252065": {
-        "geoid": "6252065",
-        "name": "Nou Barris",
+        "ids": {
+            "geonames": 6252065
+        },
+        "long": {
+            "default": "Nou Barris"
+        },
         "lat": 41.44163,
         "lng": 2.17727,
         "country": "ES",
@@ -1413,8 +2041,12 @@
         "population": 164981
     },
     "6362987": {
-        "geoid": "6362987",
-        "name": "Ceuta",
+        "ids": {
+            "geonames": 6362987
+        },
+        "long": {
+            "default": "Ceuta"
+        },
         "lat": 35.88933,
         "lng": -5.31979,
         "country": "ES",
@@ -1422,8 +2054,12 @@
         "population": 78674
     },
     "6544099": {
-        "geoid": "6544099",
-        "name": "Moncloa-Aravaca",
+        "ids": {
+            "geonames": 6544099
+        },
+        "long": {
+            "default": "Moncloa-Aravaca"
+        },
         "lat": 40.43547,
         "lng": -3.7317,
         "country": "ES",
@@ -1431,8 +2067,12 @@
         "population": 116531
     },
     "6544100": {
-        "geoid": "6544100",
-        "name": "Eixample",
+        "ids": {
+            "geonames": 6544100
+        },
+        "long": {
+            "default": "Eixample"
+        },
         "lat": 41.38896,
         "lng": 2.16179,
         "country": "ES",
@@ -1440,8 +2080,12 @@
         "population": 262485
     },
     "6544101": {
-        "geoid": "6544101",
-        "name": "les Corts",
+        "ids": {
+            "geonames": 6544101
+        },
+        "long": {
+            "default": "les Corts"
+        },
         "lat": 41.38712,
         "lng": 2.13007,
         "country": "ES",
@@ -1449,8 +2093,12 @@
         "population": 82588
     },
     "6544102": {
-        "geoid": "6544102",
-        "name": "Sarrià-Sant Gervasi",
+        "ids": {
+            "geonames": 6544102
+        },
+        "long": {
+            "default": "Sarrià-Sant Gervasi"
+        },
         "lat": 41.40104,
         "lng": 2.1394,
         "country": "ES",
@@ -1458,8 +2106,12 @@
         "population": 140000
     },
     "6544103": {
-        "geoid": "6544103",
-        "name": "Horta-Guinardó",
+        "ids": {
+            "geonames": 6544103
+        },
+        "long": {
+            "default": "Horta-Guinardó"
+        },
         "lat": 41.41849,
         "lng": 2.1677,
         "country": "ES",
@@ -1467,8 +2119,12 @@
         "population": 169920
     },
     "6544104": {
-        "geoid": "6544104",
-        "name": "Sants-Montjuïc",
+        "ids": {
+            "geonames": 6544104
+        },
+        "long": {
+            "default": "Sants-Montjuïc"
+        },
         "lat": 41.37263,
         "lng": 2.1546,
         "country": "ES",
@@ -1476,8 +2132,12 @@
         "population": 177636
     },
     "6544105": {
-        "geoid": "6544105",
-        "name": "Sant Martí",
+        "ids": {
+            "geonames": 6544105
+        },
+        "long": {
+            "default": "Sant Martí"
+        },
         "lat": 41.41814,
         "lng": 2.19933,
         "country": "ES",
@@ -1485,8 +2145,12 @@
         "population": 221029
     },
     "6544106": {
-        "geoid": "6544106",
-        "name": "Ciutat Vella",
+        "ids": {
+            "geonames": 6544106
+        },
+        "long": {
+            "default": "Ciutat Vella"
+        },
         "lat": 41.38022,
         "lng": 2.17319,
         "country": "ES",
@@ -1494,8 +2158,12 @@
         "population": 111290
     },
     "6544487": {
-        "geoid": "6544487",
-        "name": "Arganzuela",
+        "ids": {
+            "geonames": 6544487
+        },
+        "long": {
+            "default": "Arganzuela"
+        },
         "lat": 40.40021,
         "lng": -3.69618,
         "country": "ES",
@@ -1503,8 +2171,12 @@
         "population": 148797
     },
     "6544488": {
-        "geoid": "6544488",
-        "name": "San Blas",
+        "ids": {
+            "geonames": 6544488
+        },
+        "long": {
+            "default": "San Blas"
+        },
         "lat": 40.43893,
         "lng": -3.61537,
         "country": "ES",
@@ -1512,8 +2184,12 @@
         "population": 157367
     },
     "6544489": {
-        "geoid": "6544489",
-        "name": "Latina",
+        "ids": {
+            "geonames": 6544489
+        },
+        "long": {
+            "default": "Latina"
+        },
         "lat": 40.38897,
         "lng": -3.74569,
         "country": "ES",
@@ -1521,8 +2197,12 @@
         "population": 256644
     },
     "6544490": {
-        "geoid": "6544490",
-        "name": "Usera",
+        "ids": {
+            "geonames": 6544490
+        },
+        "long": {
+            "default": "Usera"
+        },
         "lat": 40.38866,
         "lng": -3.70035,
         "country": "ES",
@@ -1530,8 +2210,12 @@
         "population": 141189
     },
     "6544491": {
-        "geoid": "6544491",
-        "name": "Salamanca",
+        "ids": {
+            "geonames": 6544491
+        },
+        "long": {
+            "default": "Salamanca"
+        },
         "lat": 40.42972,
         "lng": -3.67975,
         "country": "ES",
@@ -1539,8 +2223,12 @@
         "population": 147707
     },
     "6544492": {
-        "geoid": "6544492",
-        "name": "Chamberí",
+        "ids": {
+            "geonames": 6544492
+        },
+        "long": {
+            "default": "Chamberí"
+        },
         "lat": 40.43404,
         "lng": -3.70379,
         "country": "ES",
@@ -1548,8 +2236,12 @@
         "population": 145934
     },
     "6544493": {
-        "geoid": "6544493",
-        "name": "Carabanchel",
+        "ids": {
+            "geonames": 6544493
+        },
+        "long": {
+            "default": "Carabanchel"
+        },
         "lat": 40.39094,
         "lng": -3.7242,
         "country": "ES",
@@ -1557,8 +2249,12 @@
         "population": 253678
     },
     "6544494": {
-        "geoid": "6544494",
-        "name": "City Center",
+        "ids": {
+            "geonames": 6544494
+        },
+        "long": {
+            "default": "City Center"
+        },
         "lat": 40.41831,
         "lng": -3.70275,
         "country": "ES",
@@ -1566,8 +2262,12 @@
         "population": 149718
     },
     "6544495": {
-        "geoid": "6544495",
-        "name": "Retiro",
+        "ids": {
+            "geonames": 6544495
+        },
+        "long": {
+            "default": "Retiro"
+        },
         "lat": 40.41317,
         "lng": -3.68307,
         "country": "ES",
@@ -1575,8 +2275,12 @@
         "population": 126058
     },
     "6615440": {
-        "geoid": "6615440",
-        "name": "Delicias",
+        "ids": {
+            "geonames": 6615440
+        },
+        "long": {
+            "default": "Delicias"
+        },
         "lat": 41.64928,
         "lng": -0.90757,
         "country": "ES",
@@ -1584,8 +2288,12 @@
         "population": 110520
     },
     "6618856": {
-        "geoid": "6618856",
-        "name": "Santutxu",
+        "ids": {
+            "geonames": 6618856
+        },
+        "long": {
+            "default": "Santutxu"
+        },
         "lat": 43.25347,
         "lng": -2.9161,
         "country": "ES",
@@ -1593,8 +2301,12 @@
         "population": 60000
     },
     "8285534": {
-        "geoid": "8285534",
-        "name": "Fuencarral-El Pardo",
+        "ids": {
+            "geonames": 8285534
+        },
+        "long": {
+            "default": "Fuencarral-El Pardo"
+        },
         "lat": 40.4984,
         "lng": -3.7314,
         "country": "ES",
@@ -1602,8 +2314,12 @@
         "population": 220085
     },
     "8285535": {
-        "geoid": "8285535",
-        "name": "Villa de Vallecas",
+        "ids": {
+            "geonames": 8285535
+        },
+        "long": {
+            "default": "Villa de Vallecas"
+        },
         "lat": 40.36695,
         "lng": -3.60146,
         "country": "ES",

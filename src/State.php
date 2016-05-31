@@ -41,6 +41,6 @@ class State extends Divisible
      */
     protected function getStoragePath()
     {
-	return $this->config->getStoragePath() . 'cities' . DIRECTORY_SEPARATOR . $this->parentCode . '.json';
+	    return $this->config->getStoragePath() . 'cities' . DIRECTORY_SEPARATOR . $this->parentCode . '.json';
     }
 }

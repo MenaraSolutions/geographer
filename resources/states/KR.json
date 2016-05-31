@@ -4,8 +4,8 @@
             "fips": "21",
             "geonames": 1833742
         },
-        "names": {
-            "long": "Ulsan"
+        "long": {
+            "default": "Ulsan"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "19",
             "geonames": 1835224
         },
-        "names": {
-            "long": "Daejeon"
+        "long": {
+            "default": "Daejeon"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "15",
             "geonames": 1835327
         },
-        "names": {
-            "long": "Daegu"
+        "long": {
+            "default": "Daegu"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 1835847
         },
-        "names": {
-            "long": "Seoul"
+        "long": {
+            "default": "Seoul"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 1838519
         },
-        "names": {
-            "long": "Busan"
+        "long": {
+            "default": "Busan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 1841597
         },
-        "names": {
-            "long": "Gyeongsangbuk-do"
+        "long": {
+            "default": "Gyeongsangbuk-do"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 1841610
         },
-        "names": {
-            "long": "Gyeonggi-do"
+        "long": {
+            "default": "Gyeonggi-do"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "18",
             "geonames": 1841808
         },
-        "names": {
-            "long": "Gwangju"
+        "long": {
+            "default": "Gwangju"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 1843125
         },
-        "names": {
-            "long": "Gangwon-do"
+        "long": {
+            "default": "Gangwon-do"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "12",
             "geonames": 1843561
         },
-        "names": {
-            "long": "Incheon"
+        "long": {
+            "default": "Incheon"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "17",
             "geonames": 1845105
         },
-        "names": {
-            "long": "Chungcheongnam-do"
+        "long": {
+            "default": "Chungcheongnam-do"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "05",
             "geonames": 1845106
         },
-        "names": {
-            "long": "Chungcheongbuk-do"
+        "long": {
+            "default": "Chungcheongbuk-do"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "16",
             "geonames": 1845788
         },
-        "names": {
-            "long": "Jeollanam-do"
+        "long": {
+            "default": "Jeollanam-do"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "03",
             "geonames": 1845789
         },
-        "names": {
-            "long": "Jeollabuk-do"
+        "long": {
+            "default": "Jeollabuk-do"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "01",
             "geonames": 1846265
         },
-        "names": {
-            "long": "Jeju-do"
+        "long": {
+            "default": "Jeju-do"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "20",
             "geonames": 1902028
         },
-        "names": {
-            "long": "Gyeongsangnam-do"
+        "long": {
+            "default": "Gyeongsangnam-do"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "22",
             "geonames": 8394437
         },
-        "names": {
-            "long": "Sejong-si"
+        "long": {
+            "default": "Sejong-si"
         }
     }
 ]

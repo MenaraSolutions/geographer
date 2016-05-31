@@ -1,7 +1,11 @@
 {
     "3868121": {
-        "geoid": "3868121",
-        "name": "Viña del Mar",
+        "ids": {
+            "geonames": 3868121
+        },
+        "long": {
+            "default": "Viña del Mar"
+        },
         "lat": -33.02457,
         "lng": -71.55183,
         "country": "CL",
@@ -9,8 +13,12 @@
         "population": 294551
     },
     "3868192": {
-        "geoid": "3868192",
-        "name": "Villa Alemana",
+        "ids": {
+            "geonames": 3868192
+        },
+        "long": {
+            "default": "Villa Alemana"
+        },
         "lat": -33.04222,
         "lng": -71.37333,
         "country": "CL",
@@ -18,8 +26,12 @@
         "population": 97320
     },
     "3868626": {
-        "geoid": "3868626",
-        "name": "Valparaíso",
+        "ids": {
+            "geonames": 3868626
+        },
+        "long": {
+            "default": "Valparaíso"
+        },
         "lat": -33.03932,
         "lng": -71.62725,
         "country": "CL",
@@ -27,8 +39,12 @@
         "population": 282448
     },
     "3868707": {
-        "geoid": "3868707",
-        "name": "Valdivia",
+        "ids": {
+            "geonames": 3868707
+        },
+        "long": {
+            "default": "Valdivia"
+        },
         "lat": -39.81422,
         "lng": -73.24589,
         "country": "CL",
@@ -36,8 +52,12 @@
         "population": 133419
     },
     "3870011": {
-        "geoid": "3870011",
-        "name": "Temuco",
+        "ids": {
+            "geonames": 3870011
+        },
+        "long": {
+            "default": "Temuco"
+        },
         "lat": -38.73965,
         "lng": -72.59842,
         "country": "CL",
@@ -45,8 +65,12 @@
         "population": 238129
     },
     "3870282": {
-        "geoid": "3870282",
-        "name": "Talcahuano",
+        "ids": {
+            "geonames": 3870282
+        },
+        "long": {
+            "default": "Talcahuano"
+        },
         "lat": -36.72494,
         "lng": -73.11684,
         "country": "CL",
@@ -54,8 +78,12 @@
         "population": 252968
     },
     "3870294": {
-        "geoid": "3870294",
-        "name": "Talca",
+        "ids": {
+            "geonames": 3870294
+        },
+        "long": {
+            "default": "Talca"
+        },
         "lat": -35.4264,
         "lng": -71.65542,
         "country": "CL",
@@ -63,8 +91,12 @@
         "population": 197479
     },
     "3870306": {
-        "geoid": "3870306",
-        "name": "Talagante",
+        "ids": {
+            "geonames": 3870306
+        },
+        "long": {
+            "default": "Talagante"
+        },
         "lat": -33.66386,
         "lng": -70.92734,
         "country": "CL",
@@ -72,8 +104,12 @@
         "population": 51764
     },
     "3871336": {
-        "geoid": "3871336",
-        "name": "Santiago",
+        "ids": {
+            "geonames": 3871336
+        },
+        "long": {
+            "default": "Santiago"
+        },
         "lat": -33.45694,
         "lng": -70.64827,
         "country": "CL",
@@ -81,8 +117,12 @@
         "population": 4837295
     },
     "3872255": {
-        "geoid": "3872255",
-        "name": "San Felipe",
+        "ids": {
+            "geonames": 3872255
+        },
+        "long": {
+            "default": "San Felipe"
+        },
         "lat": -32.74976,
         "lng": -70.72584,
         "country": "CL",
@@ -90,8 +130,12 @@
         "population": 59294
     },
     "3872348": {
-        "geoid": "3872348",
-        "name": "San Bernardo",
+        "ids": {
+            "geonames": 3872348
+        },
+        "long": {
+            "default": "San Bernardo"
+        },
         "lat": -33.59217,
         "lng": -70.6996,
         "country": "CL",
@@ -99,8 +143,12 @@
         "population": 249858
     },
     "3872395": {
-        "geoid": "3872395",
-        "name": "San Antonio",
+        "ids": {
+            "geonames": 3872395
+        },
+        "long": {
+            "default": "San Antonio"
+        },
         "lat": -33.59473,
         "lng": -71.60746,
         "country": "CL",
@@ -108,8 +156,12 @@
         "population": 85651
     },
     "3873775": {
-        "geoid": "3873775",
-        "name": "Rancagua",
+        "ids": {
+            "geonames": 3873775
+        },
+        "long": {
+            "default": "Rancagua"
+        },
         "lat": -34.17083,
         "lng": -70.74444,
         "country": "CL",
@@ -117,8 +169,12 @@
         "population": 212695
     },
     "3874096": {
-        "geoid": "3874096",
-        "name": "Quilpué",
+        "ids": {
+            "geonames": 3874096
+        },
+        "long": {
+            "default": "Quilpué"
+        },
         "lat": -33.04752,
         "lng": -71.44249,
         "country": "CL",
@@ -126,8 +182,12 @@
         "population": 130263
     },
     "3874119": {
-        "geoid": "3874119",
-        "name": "Quillota",
+        "ids": {
+            "geonames": 3874119
+        },
+        "long": {
+            "default": "Quillota"
+        },
         "lat": -32.88341,
         "lng": -71.24882,
         "country": "CL",
@@ -135,8 +195,12 @@
         "population": 67779
     },
     "3874787": {
-        "geoid": "3874787",
-        "name": "Punta Arenas",
+        "ids": {
+            "geonames": 3874787
+        },
+        "long": {
+            "default": "Punta Arenas"
+        },
         "lat": -53.15483,
         "lng": -70.91129,
         "country": "CL",
@@ -144,8 +208,12 @@
         "population": 117430
     },
     "3874960": {
-        "geoid": "3874960",
-        "name": "Puerto Montt",
+        "ids": {
+            "geonames": 3874960
+        },
+        "long": {
+            "default": "Puerto Montt"
+        },
         "lat": -41.46691,
         "lng": -72.94956,
         "country": "CL",
@@ -153,8 +221,12 @@
         "population": 160054
     },
     "3875024": {
-        "geoid": "3875024",
-        "name": "Puente Alto",
+        "ids": {
+            "geonames": 3875024
+        },
+        "long": {
+            "default": "Puente Alto"
+        },
         "lat": -33.61169,
         "lng": -70.57577,
         "country": "CL",
@@ -162,8 +234,12 @@
         "population": 510417
     },
     "3876685": {
-        "geoid": "3876685",
-        "name": "Peñaflor",
+        "ids": {
+            "geonames": 3876685
+        },
+        "long": {
+            "default": "Peñaflor"
+        },
         "lat": -33.60627,
         "lng": -70.87649,
         "country": "CL",
@@ -171,8 +247,12 @@
         "population": 65495
     },
     "3877918": {
-        "geoid": "3877918",
-        "name": "Ovalle",
+        "ids": {
+            "geonames": 3877918
+        },
+        "long": {
+            "default": "Ovalle"
+        },
         "lat": -30.60106,
         "lng": -71.19901,
         "country": "CL",
@@ -180,8 +260,12 @@
         "population": 77138
     },
     "3877949": {
-        "geoid": "3877949",
-        "name": "Osorno",
+        "ids": {
+            "geonames": 3877949
+        },
+        "long": {
+            "default": "Osorno"
+        },
         "lat": -40.57395,
         "lng": -73.13348,
         "country": "CL",
@@ -189,8 +273,12 @@
         "population": 135773
     },
     "3880107": {
-        "geoid": "3880107",
-        "name": "Melipilla",
+        "ids": {
+            "geonames": 3880107
+        },
+        "long": {
+            "default": "Melipilla"
+        },
         "lat": -33.68909,
         "lng": -71.21528,
         "country": "CL",
@@ -198,8 +286,12 @@
         "population": 63100
     },
     "3882428": {
-        "geoid": "3882428",
-        "name": "Los Ángeles",
+        "ids": {
+            "geonames": 3882428
+        },
+        "long": {
+            "default": "Los Ángeles"
+        },
         "lat": -37.46973,
         "lng": -72.35366,
         "country": "CL",
@@ -207,8 +299,12 @@
         "population": 125430
     },
     "3882434": {
-        "geoid": "3882434",
-        "name": "Los Andes",
+        "ids": {
+            "geonames": 3882434
+        },
+        "long": {
+            "default": "Los Andes"
+        },
         "lat": -32.83369,
         "lng": -70.59827,
         "country": "CL",
@@ -216,8 +312,12 @@
         "population": 56859
     },
     "3883167": {
-        "geoid": "3883167",
-        "name": "Linares",
+        "ids": {
+            "geonames": 3883167
+        },
+        "long": {
+            "default": "Linares"
+        },
         "lat": -35.84667,
         "lng": -71.59308,
         "country": "CL",
@@ -225,8 +325,12 @@
         "population": 69535
     },
     "3884373": {
-        "geoid": "3884373",
-        "name": "La Serena",
+        "ids": {
+            "geonames": 3884373
+        },
+        "long": {
+            "default": "La Serena"
+        },
         "lat": -29.90453,
         "lng": -71.24894,
         "country": "CL",
@@ -234,8 +338,12 @@
         "population": 154521
     },
     "3887127": {
-        "geoid": "3887127",
-        "name": "Iquique",
+        "ids": {
+            "geonames": 3887127
+        },
+        "long": {
+            "default": "Iquique"
+        },
         "lat": -20.22036,
         "lng": -70.13913,
         "country": "CL",
@@ -243,8 +351,12 @@
         "population": 227499
     },
     "3892870": {
-        "geoid": "3892870",
-        "name": "Curicó",
+        "ids": {
+            "geonames": 3892870
+        },
+        "long": {
+            "default": "Curicó"
+        },
         "lat": -34.98279,
         "lng": -71.23943,
         "country": "CL",
@@ -252,8 +364,12 @@
         "population": 102438
     },
     "3893532": {
-        "geoid": "3893532",
-        "name": "Coronel",
+        "ids": {
+            "geonames": 3893532
+        },
+        "long": {
+            "default": "Coronel"
+        },
         "lat": -37.03386,
         "lng": -73.14019,
         "country": "CL",
@@ -261,8 +377,12 @@
         "population": 92940
     },
     "3893629": {
-        "geoid": "3893629",
-        "name": "Coquimbo",
+        "ids": {
+            "geonames": 3893629
+        },
+        "long": {
+            "default": "Coquimbo"
+        },
         "lat": -29.95332,
         "lng": -71.33947,
         "country": "CL",
@@ -270,8 +390,12 @@
         "population": 161317
     },
     "3893656": {
-        "geoid": "3893656",
-        "name": "Copiapó",
+        "ids": {
+            "geonames": 3893656
+        },
+        "long": {
+            "default": "Copiapó"
+        },
         "lat": -27.36679,
         "lng": -70.3314,
         "country": "CL",
@@ -279,8 +403,12 @@
         "population": 129280
     },
     "3893894": {
-        "geoid": "3893894",
-        "name": "Concepción",
+        "ids": {
+            "geonames": 3893894
+        },
+        "long": {
+            "default": "Concepción"
+        },
         "lat": -36.82699,
         "lng": -73.04977,
         "country": "CL",
@@ -288,8 +416,12 @@
         "population": 215413
     },
     "3895088": {
-        "geoid": "3895088",
-        "name": "Chillán",
+        "ids": {
+            "geonames": 3895088
+        },
+        "long": {
+            "default": "Chillán"
+        },
         "lat": -36.60664,
         "lng": -72.10344,
         "country": "CL",
@@ -297,8 +429,12 @@
         "population": 150396
     },
     "3895138": {
-        "geoid": "3895138",
-        "name": "Chiguayante",
+        "ids": {
+            "geonames": 3895138
+        },
+        "long": {
+            "default": "Chiguayante"
+        },
         "lat": -36.9256,
         "lng": -73.02841,
         "country": "CL",
@@ -306,8 +442,12 @@
         "population": 82545
     },
     "3897347": {
-        "geoid": "3897347",
-        "name": "Calama",
+        "ids": {
+            "geonames": 3897347
+        },
+        "long": {
+            "default": "Calama"
+        },
         "lat": -22.45591,
         "lng": -68.93015,
         "country": "CL",
@@ -315,8 +455,12 @@
         "population": 143084
     },
     "3897774": {
-        "geoid": "3897774",
-        "name": "Buin",
+        "ids": {
+            "geonames": 3897774
+        },
+        "long": {
+            "default": "Buin"
+        },
         "lat": -33.73257,
         "lng": -70.74281,
         "country": "CL",
@@ -324,8 +468,12 @@
         "population": 55441
     },
     "3899361": {
-        "geoid": "3899361",
-        "name": "Arica",
+        "ids": {
+            "geonames": 3899361
+        },
+        "long": {
+            "default": "Arica"
+        },
         "lat": -18.4746,
         "lng": -70.29792,
         "country": "CL",
@@ -333,8 +481,12 @@
         "population": 185999
     },
     "3899539": {
-        "geoid": "3899539",
-        "name": "Antofagasta",
+        "ids": {
+            "geonames": 3899539
+        },
+        "long": {
+            "default": "Antofagasta"
+        },
         "lat": -23.65236,
         "lng": -70.3954,
         "country": "CL",
@@ -342,8 +494,12 @@
         "population": 309832
     },
     "7281017": {
-        "geoid": "7281017",
-        "name": "La Pintana",
+        "ids": {
+            "geonames": 7281017
+        },
+        "long": {
+            "default": "La Pintana"
+        },
         "lat": -33.58331,
         "lng": -70.63419,
         "country": "CL",
@@ -351,8 +507,12 @@
         "population": 201178
     },
     "7281020": {
-        "geoid": "7281020",
-        "name": "Lo Prado",
+        "ids": {
+            "geonames": 7281020
+        },
+        "long": {
+            "default": "Lo Prado"
+        },
         "lat": -33.4443,
         "lng": -70.72552,
         "country": "CL",

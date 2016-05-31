@@ -4,8 +4,8 @@
             "fips": "22",
             "geonames": 3587586
         },
-        "names": {
-            "long": "Zacapa"
+        "long": {
+            "default": "Zacapa"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "21",
             "geonames": 3588257
         },
-        "names": {
-            "long": "Totonicapán"
+        "long": {
+            "default": "Totonicapán"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "20",
             "geonames": 3588668
         },
-        "names": {
-            "long": "Suchitepeque"
+        "long": {
+            "default": "Suchitepeque"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "19",
             "geonames": 3588697
         },
-        "names": {
-            "long": "Sololá"
+        "long": {
+            "default": "Sololá"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "18",
             "geonames": 3589172
         },
-        "names": {
-            "long": "Santa Rosa"
+        "long": {
+            "default": "Santa Rosa"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "17",
             "geonames": 3589801
         },
-        "names": {
-            "long": "San Marcos"
+        "long": {
+            "default": "San Marcos"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "16",
             "geonames": 3590686
         },
-        "names": {
-            "long": "Sacatepéquez"
+        "long": {
+            "default": "Sacatepéquez"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "15",
             "geonames": 3590857
         },
-        "names": {
-            "long": "Retalhuleu"
+        "long": {
+            "default": "Retalhuleu"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "14",
             "geonames": 3590964
         },
-        "names": {
-            "long": "Quiché"
+        "long": {
+            "default": "Quiché"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "13",
             "geonames": 3590978
         },
-        "names": {
-            "long": "Quetzaltenango"
+        "long": {
+            "default": "Quetzaltenango"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "12",
             "geonames": 3591410
         },
-        "names": {
-            "long": "Petén"
+        "long": {
+            "default": "Petén"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "11",
             "geonames": 3595067
         },
-        "names": {
-            "long": "Jutiapa"
+        "long": {
+            "default": "Jutiapa"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "10",
             "geonames": 3595236
         },
-        "names": {
-            "long": "Jalapa"
+        "long": {
+            "default": "Jalapa"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "09",
             "geonames": 3595259
         },
-        "names": {
-            "long": "Izabal"
+        "long": {
+            "default": "Izabal"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "08",
             "geonames": 3595415
         },
-        "names": {
-            "long": "Huehuetenango"
+        "long": {
+            "default": "Huehuetenango"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "07",
             "geonames": 3595530
         },
-        "names": {
-            "long": "Guatemala"
+        "long": {
+            "default": "Guatemala"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "06",
             "geonames": 3595802
         },
-        "names": {
-            "long": "Escuintla"
+        "long": {
+            "default": "Escuintla"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "05",
             "geonames": 3596416
         },
-        "names": {
-            "long": "El Progreso"
+        "long": {
+            "default": "El Progreso"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "04",
             "geonames": 3598464
         },
-        "names": {
-            "long": "Chiquimula"
+        "long": {
+            "default": "Chiquimula"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "03",
             "geonames": 3598571
         },
-        "names": {
-            "long": "Chimaltenango"
+        "long": {
+            "default": "Chimaltenango"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "02",
             "geonames": 3599602
         },
-        "names": {
-            "long": "Baja Verapaz"
+        "long": {
+            "default": "Baja Verapaz"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "01",
             "geonames": 3599773
         },
-        "names": {
-            "long": "Alta Verapaz"
+        "long": {
+            "default": "Alta Verapaz"
         }
     }
 ]

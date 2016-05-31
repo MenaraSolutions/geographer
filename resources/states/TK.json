@@ -4,8 +4,8 @@
             "fips": "N",
             "geonames": 4031091
         },
-        "names": {
-            "long": "Nukunonu"
+        "long": {
+            "default": "Nukunonu"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "F",
             "geonames": 4031112
         },
-        "names": {
-            "long": "Fakaofo"
+        "long": {
+            "default": "Fakaofo"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "A",
             "geonames": 4031116
         },
-        "names": {
-            "long": "Atafu"
+        "long": {
+            "default": "Atafu"
         }
     }
 ]

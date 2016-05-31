@@ -1,7 +1,11 @@
 {
     "602150": {
-        "geoid": "602150",
-        "name": "Umeå",
+        "ids": {
+            "geonames": 602150
+        },
+        "long": {
+            "default": "Umeå"
+        },
         "lat": 63.82842,
         "lng": 20.25972,
         "country": "SE",
@@ -9,8 +13,12 @@
         "population": 74005
     },
     "2663536": {
-        "geoid": "2663536",
-        "name": "Växjö",
+        "ids": {
+            "geonames": 2663536
+        },
+        "long": {
+            "default": "Växjö"
+        },
         "lat": 56.87767,
         "lng": 14.80906,
         "country": "SE",
@@ -18,8 +26,12 @@
         "population": 59600
     },
     "2664454": {
-        "geoid": "2664454",
-        "name": "Västerås",
+        "ids": {
+            "geonames": 2664454
+        },
+        "long": {
+            "default": "Västerås"
+        },
         "lat": 59.61617,
         "lng": 16.55276,
         "country": "SE",
@@ -27,8 +39,12 @@
         "population": 107194
     },
     "2666199": {
-        "geoid": "2666199",
-        "name": "Uppsala",
+        "ids": {
+            "geonames": 2666199
+        },
+        "long": {
+            "default": "Uppsala"
+        },
         "lat": 59.85882,
         "lng": 17.63889,
         "country": "SE",
@@ -36,8 +52,12 @@
         "population": 127734
     },
     "2669772": {
-        "geoid": "2669772",
-        "name": "Täby",
+        "ids": {
+            "geonames": 2669772
+        },
+        "long": {
+            "default": "Täby"
+        },
         "lat": 59.4439,
         "lng": 18.06872,
         "country": "SE",
@@ -45,8 +65,12 @@
         "population": 58123
     },
     "2673730": {
-        "geoid": "2673730",
-        "name": "Stockholm",
+        "ids": {
+            "geonames": 2673730
+        },
+        "long": {
+            "default": "Stockholm"
+        },
         "lat": 59.33258,
         "lng": 18.0649,
         "country": "SE",
@@ -54,8 +78,12 @@
         "population": 1253309
     },
     "2675397": {
-        "geoid": "2675397",
-        "name": "Solna",
+        "ids": {
+            "geonames": 2675397
+        },
+        "long": {
+            "default": "Solna"
+        },
         "lat": 59.36004,
         "lng": 18.00086,
         "country": "SE",
@@ -63,8 +91,12 @@
         "population": 66909
     },
     "2675408": {
-        "geoid": "2675408",
-        "name": "Sollentuna",
+        "ids": {
+            "geonames": 2675408
+        },
+        "long": {
+            "default": "Sollentuna"
+        },
         "lat": 59.42804,
         "lng": 17.95093,
         "country": "SE",
@@ -72,8 +104,12 @@
         "population": 58897
     },
     "2676176": {
-        "geoid": "2676176",
-        "name": "Södertälje",
+        "ids": {
+            "geonames": 2676176
+        },
+        "long": {
+            "default": "Södertälje"
+        },
         "lat": 59.19554,
         "lng": 17.62525,
         "country": "SE",
@@ -81,8 +117,12 @@
         "population": 60279
     },
     "2686657": {
-        "geoid": "2686657",
-        "name": "Örebro",
+        "ids": {
+            "geonames": 2686657
+        },
+        "long": {
+            "default": "Örebro"
+        },
         "lat": 59.27412,
         "lng": 15.2066,
         "country": "SE",
@@ -90,8 +130,12 @@
         "population": 98573
     },
     "2688368": {
-        "geoid": "2688368",
-        "name": "Norrköping",
+        "ids": {
+            "geonames": 2688368
+        },
+        "long": {
+            "default": "Norrköping"
+        },
         "lat": 58.59419,
         "lng": 16.1826,
         "country": "SE",
@@ -99,8 +143,12 @@
         "population": 82903
     },
     "2691459": {
-        "geoid": "2691459",
-        "name": "Mölndal",
+        "ids": {
+            "geonames": 2691459
+        },
+        "long": {
+            "default": "Mölndal"
+        },
         "lat": 57.6554,
         "lng": 12.01378,
         "country": "SE",
@@ -108,8 +156,12 @@
         "population": 59430
     },
     "2692969": {
-        "geoid": "2692969",
-        "name": "Malmö",
+        "ids": {
+            "geonames": 2692969
+        },
+        "long": {
+            "default": "Malmö"
+        },
         "lat": 55.60587,
         "lng": 13.00073,
         "country": "SE",
@@ -117,8 +169,12 @@
         "population": 261548
     },
     "2693678": {
-        "geoid": "2693678",
-        "name": "Lund",
+        "ids": {
+            "geonames": 2693678
+        },
+        "long": {
+            "default": "Lund"
+        },
         "lat": 55.70584,
         "lng": 13.19321,
         "country": "SE",
@@ -126,8 +182,12 @@
         "population": 76263
     },
     "2694762": {
-        "geoid": "2694762",
-        "name": "Linköping",
+        "ids": {
+            "geonames": 2694762
+        },
+        "long": {
+            "default": "Linköping"
+        },
         "lat": 58.41086,
         "lng": 15.62157,
         "country": "SE",
@@ -135,8 +195,12 @@
         "population": 96732
     },
     "2701680": {
-        "geoid": "2701680",
-        "name": "Karlstad",
+        "ids": {
+            "geonames": 2701680
+        },
+        "long": {
+            "default": "Karlstad"
+        },
         "lat": 59.3793,
         "lng": 13.50357,
         "country": "SE",
@@ -144,8 +208,12 @@
         "population": 59266
     },
     "2702979": {
-        "geoid": "2702979",
-        "name": "Jönköping",
+        "ids": {
+            "geonames": 2702979
+        },
+        "long": {
+            "default": "Jönköping"
+        },
         "lat": 57.78145,
         "lng": 14.15618,
         "country": "SE",
@@ -153,8 +221,12 @@
         "population": 83202
     },
     "2704620": {
-        "geoid": "2704620",
-        "name": "Huddinge",
+        "ids": {
+            "geonames": 2704620
+        },
+        "long": {
+            "default": "Huddinge"
+        },
         "lat": 59.23705,
         "lng": 17.98192,
         "country": "SE",
@@ -162,8 +234,12 @@
         "population": 90182
     },
     "2706767": {
-        "geoid": "2706767",
-        "name": "Helsingborg",
+        "ids": {
+            "geonames": 2706767
+        },
+        "long": {
+            "default": "Helsingborg"
+        },
         "lat": 56.04673,
         "lng": 12.69437,
         "country": "SE",
@@ -171,8 +247,12 @@
         "population": 91025
     },
     "2707953": {
-        "geoid": "2707953",
-        "name": "Haninge",
+        "ids": {
+            "geonames": 2707953
+        },
+        "long": {
+            "default": "Haninge"
+        },
         "lat": 59.16775,
         "lng": 18.14478,
         "country": "SE",
@@ -180,8 +260,12 @@
         "population": 74968
     },
     "2708365": {
-        "geoid": "2708365",
-        "name": "Halmstad",
+        "ids": {
+            "geonames": 2708365
+        },
+        "long": {
+            "default": "Halmstad"
+        },
         "lat": 56.67446,
         "lng": 12.85676,
         "country": "SE",
@@ -189,8 +273,12 @@
         "population": 55657
     },
     "2711537": {
-        "geoid": "2711537",
-        "name": "Göteborg",
+        "ids": {
+            "geonames": 2711537
+        },
+        "long": {
+            "default": "Göteborg"
+        },
         "lat": 57.70716,
         "lng": 11.96679,
         "country": "SE",
@@ -198,8 +286,12 @@
         "population": 504084
     },
     "2712414": {
-        "geoid": "2712414",
-        "name": "Gävle",
+        "ids": {
+            "geonames": 2712414
+        },
+        "long": {
+            "default": "Gävle"
+        },
         "lat": 60.67452,
         "lng": 17.14174,
         "country": "SE",
@@ -207,8 +299,12 @@
         "population": 68635
     },
     "2715953": {
-        "geoid": "2715953",
-        "name": "Eskilstuna",
+        "ids": {
+            "geonames": 2715953
+        },
+        "long": {
+            "default": "Eskilstuna"
+        },
         "lat": 59.36661,
         "lng": 16.5077,
         "country": "SE",
@@ -216,8 +312,12 @@
         "population": 59016
     },
     "2719111": {
-        "geoid": "2719111",
-        "name": "Bromma",
+        "ids": {
+            "geonames": 2719111
+        },
+        "long": {
+            "default": "Bromma"
+        },
         "lat": 59.34,
         "lng": 17.94,
         "country": "SE",
@@ -225,8 +325,12 @@
         "population": 61000
     },
     "2720501": {
-        "geoid": "2720501",
-        "name": "Borås",
+        "ids": {
+            "geonames": 2720501
+        },
+        "long": {
+            "default": "Borås"
+        },
         "lat": 57.72101,
         "lng": 12.9401,
         "country": "SE",

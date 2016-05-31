@@ -4,8 +4,8 @@
             "fips": "E9",
             "geonames": 784732
         },
-        "names": {
-            "long": "Valandovo Municipality"
+        "long": {
+            "default": "Valandovo Municipality"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "86",
             "geonames": 786339
         },
-        "names": {
-            "long": "Resen Municipality"
+        "long": {
+            "default": "Resen Municipality"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "51",
             "geonames": 789090
         },
-        "names": {
-            "long": "Kratovo"
+        "long": {
+            "default": "Kratovo"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "78",
             "geonames": 862938
         },
-        "names": {
-            "long": "Pehčevo"
+        "long": {
+            "default": "Pehčevo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "72",
             "geonames": 862945
         },
-        "names": {
-            "long": "Novo Selo"
+        "long": {
+            "default": "Novo Selo"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "11",
             "geonames": 862946
         },
-        "names": {
-            "long": "Bosilovo"
+        "long": {
+            "default": "Bosilovo"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "A9",
             "geonames": 862947
         },
-        "names": {
-            "long": "Vasilevo"
+        "long": {
+            "default": "Vasilevo"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "E5",
             "geonames": 862949
         },
-        "names": {
-            "long": "Dojran"
+        "long": {
+            "default": "Dojran"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "08",
             "geonames": 862950
         },
-        "names": {
-            "long": "Bogdanci"
+        "long": {
+            "default": "Bogdanci"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "47",
             "geonames": 862953
         },
-        "names": {
-            "long": "Konče"
+        "long": {
+            "default": "Konče"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "62",
             "geonames": 862956
         },
-        "names": {
-            "long": "Makedonska Kamenica"
+        "long": {
+            "default": "Makedonska Kamenica"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "C6",
             "geonames": 862958
         },
-        "names": {
-            "long": "Zrnovci"
+        "long": {
+            "default": "Zrnovci"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "40",
             "geonames": 862960
         },
-        "names": {
-            "long": "Karbinci"
+        "long": {
+            "default": "Karbinci"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "25",
             "geonames": 862961
         },
-        "names": {
-            "long": "Demir Kapija"
+        "long": {
+            "default": "Demir Kapija"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "87",
             "geonames": 862973
         },
-        "names": {
-            "long": "Rosoman"
+        "long": {
+            "default": "Rosoman"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "35",
             "geonames": 862974
         },
-        "names": {
-            "long": "Gradsko"
+        "long": {
+            "default": "Gradsko"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "60",
             "geonames": 862975
         },
-        "names": {
-            "long": "Lozovo"
+        "long": {
+            "default": "Lozovo"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "19",
             "geonames": 862977
         },
-        "names": {
-            "long": "Češinovo-Obleševo"
+        "long": {
+            "default": "Češinovo-Obleševo"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "E1",
             "geonames": 863468
         },
-        "names": {
-            "long": "Novaci"
+        "long": {
+            "default": "Novaci"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "04",
             "geonames": 863485
         },
-        "names": {
-            "long": "Berovo"
+        "long": {
+            "default": "Berovo"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "06",
             "geonames": 863486
         },
-        "names": {
-            "long": "Bitola"
+        "long": {
+            "default": "Bitola"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "D9",
             "geonames": 863488
         },
-        "names": {
-            "long": "Mogila"
+        "long": {
+            "default": "Mogila"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "01",
             "geonames": 863831
         },
-        "names": {
-            "long": "Aračinovo"
+        "long": {
+            "default": "Aračinovo"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "C7",
             "geonames": 863834
         },
-        "names": {
-            "long": "Bogovinje"
+        "long": {
+            "default": "Bogovinje"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "12",
             "geonames": 863835
         },
-        "names": {
-            "long": "Brvenica"
+        "long": {
+            "default": "Brvenica"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "C8",
             "geonames": 863836
         },
-        "names": {
-            "long": "Čair"
+        "long": {
+            "default": "Čair"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "C9",
             "geonames": 863838
         },
-        "names": {
-            "long": "Čaška Municipality"
+        "long": {
+            "default": "Čaška Municipality"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "D1",
             "geonames": 863840
         },
-        "names": {
-            "long": "Centar"
+        "long": {
+            "default": "Centar"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "18",
             "geonames": 863841
         },
-        "names": {
-            "long": "Centar Župa"
+        "long": {
+            "default": "Centar Župa"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "20",
             "geonames": 863842
         },
-        "names": {
-            "long": "Čučer-Sandevo"
+        "long": {
+            "default": "Čučer-Sandevo"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "D2",
             "geonames": 863843
         },
-        "names": {
-            "long": "Debar"
+        "long": {
+            "default": "Debar"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "22",
             "geonames": 863844
         },
-        "names": {
-            "long": "Delčevo"
+        "long": {
+            "default": "Delčevo"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "D3",
             "geonames": 863846
         },
-        "names": {
-            "long": "Demir Hisar"
+        "long": {
+            "default": "Demir Hisar"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "28",
             "geonames": 863849
         },
-        "names": {
-            "long": "Dolneni Municipality"
+        "long": {
+            "default": "Dolneni Municipality"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "29",
             "geonames": 863850
         },
-        "names": {
-            "long": "Opstina Gjorce Petrov"
+        "long": {
+            "default": "Opstina Gjorce Petrov"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "30",
             "geonames": 863851
         },
-        "names": {
-            "long": "Drugovo"
+        "long": {
+            "default": "Drugovo"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "32",
             "geonames": 863853
         },
-        "names": {
-            "long": "Gazi Baba"
+        "long": {
+            "default": "Gazi Baba"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "33",
             "geonames": 863854
         },
-        "names": {
-            "long": "Gevgelija"
+        "long": {
+            "default": "Gevgelija"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "D4",
             "geonames": 863855
         },
-        "names": {
-            "long": "Gostivar"
+        "long": {
+            "default": "Gostivar"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "36",
             "geonames": 863856
         },
-        "names": {
-            "long": "Ilinden"
+        "long": {
+            "default": "Ilinden"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "D5",
             "geonames": 863858
         },
-        "names": {
-            "long": "Jegunovce"
+        "long": {
+            "default": "Jegunovce"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "41",
             "geonames": 863860
         },
-        "names": {
-            "long": "Karpoš"
+        "long": {
+            "default": "Karpoš"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "D6",
             "geonames": 863861
         },
-        "names": {
-            "long": "Kavadarci"
+        "long": {
+            "default": "Kavadarci"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "43",
             "geonames": 863862
         },
-        "names": {
-            "long": "Kičevo"
+        "long": {
+            "default": "Kičevo"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "44",
             "geonames": 863863
         },
-        "names": {
-            "long": "Kisela Voda"
+        "long": {
+            "default": "Kisela Voda"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "46",
             "geonames": 863865
         },
-        "names": {
-            "long": "Kočani"
+        "long": {
+            "default": "Kočani"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "52",
             "geonames": 863869
         },
-        "names": {
-            "long": "Kriva Palanka"
+        "long": {
+            "default": "Kriva Palanka"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "53",
             "geonames": 863870
         },
-        "names": {
-            "long": "Krivogaštani"
+        "long": {
+            "default": "Krivogaštani"
         }
     },
     {
@@ -436,8 +436,8 @@
             "fips": "54",
             "geonames": 863871
         },
-        "names": {
-            "long": "Kruševo"
+        "long": {
+            "default": "Kruševo"
         }
     },
     {
@@ -445,8 +445,8 @@
             "fips": "D7",
             "geonames": 863873
         },
-        "names": {
-            "long": "Kumanovo"
+        "long": {
+            "default": "Kumanovo"
         }
     },
     {
@@ -454,8 +454,8 @@
             "fips": "59",
             "geonames": 863875
         },
-        "names": {
-            "long": "Opstina Lipkovo"
+        "long": {
+            "default": "Opstina Lipkovo"
         }
     },
     {
@@ -463,8 +463,8 @@
             "fips": "D8",
             "geonames": 863877
         },
-        "names": {
-            "long": "Makedonski Brod"
+        "long": {
+            "default": "Makedonski Brod"
         }
     },
     {
@@ -472,8 +472,8 @@
             "fips": "69",
             "geonames": 863881
         },
-        "names": {
-            "long": "Negotino"
+        "long": {
+            "default": "Negotino"
         }
     },
     {
@@ -481,8 +481,8 @@
             "fips": "E2",
             "geonames": 863883
         },
-        "names": {
-            "long": "Ohrid"
+        "long": {
+            "default": "Ohrid"
         }
     },
     {
@@ -490,8 +490,8 @@
             "fips": "77",
             "geonames": 863885
         },
-        "names": {
-            "long": "Oslomej"
+        "long": {
+            "default": "Oslomej"
         }
     },
     {
@@ -499,8 +499,8 @@
             "fips": "79",
             "geonames": 863886
         },
-        "names": {
-            "long": "Petrovec"
+        "long": {
+            "default": "Petrovec"
         }
     },
     {
@@ -508,8 +508,8 @@
             "fips": "80",
             "geonames": 863887
         },
-        "names": {
-            "long": "Plasnica"
+        "long": {
+            "default": "Plasnica"
         }
     },
     {
@@ -517,8 +517,8 @@
             "fips": "E3",
             "geonames": 863888
         },
-        "names": {
-            "long": "Prilep"
+        "long": {
+            "default": "Prilep"
         }
     },
     {
@@ -526,8 +526,8 @@
             "fips": "83",
             "geonames": 863889
         },
-        "names": {
-            "long": "Probištip"
+        "long": {
+            "default": "Probištip"
         }
     },
     {
@@ -535,8 +535,8 @@
             "fips": "84",
             "geonames": 863890
         },
-        "names": {
-            "long": "Radoviš"
+        "long": {
+            "default": "Radoviš"
         }
     },
     {
@@ -544,8 +544,8 @@
             "fips": "85",
             "geonames": 863891
         },
-        "names": {
-            "long": "Opstina Rankovce"
+        "long": {
+            "default": "Opstina Rankovce"
         }
     },
     {
@@ -553,8 +553,8 @@
             "fips": "E4",
             "geonames": 863892
         },
-        "names": {
-            "long": "Mavrovo and Rostuša Municipality"
+        "long": {
+            "default": "Mavrovo and Rostuša Municipality"
         }
     },
     {
@@ -562,8 +562,8 @@
             "fips": "90",
             "geonames": 863894
         },
-        "names": {
-            "long": "Saraj Municipality"
+        "long": {
+            "default": "Saraj Municipality"
         }
     },
     {
@@ -571,8 +571,8 @@
             "fips": "92",
             "geonames": 863896
         },
-        "names": {
-            "long": "Sopište"
+        "long": {
+            "default": "Sopište"
         }
     },
     {
@@ -580,8 +580,8 @@
             "fips": "97",
             "geonames": 863899
         },
-        "names": {
-            "long": "Staro Nagoričane"
+        "long": {
+            "default": "Staro Nagoričane"
         }
     },
     {
@@ -589,8 +589,8 @@
             "fips": "98",
             "geonames": 863900
         },
-        "names": {
-            "long": "Štip"
+        "long": {
+            "default": "Štip"
         }
     },
     {
@@ -598,8 +598,8 @@
             "fips": "E6",
             "geonames": 863901
         },
-        "names": {
-            "long": "Struga"
+        "long": {
+            "default": "Struga"
         }
     },
     {
@@ -607,8 +607,8 @@
             "fips": "E7",
             "geonames": 863902
         },
-        "names": {
-            "long": "Strumica"
+        "long": {
+            "default": "Strumica"
         }
     },
     {
@@ -616,8 +616,8 @@
             "fips": "A2",
             "geonames": 863903
         },
-        "names": {
-            "long": "Studeničani"
+        "long": {
+            "default": "Studeničani"
         }
     },
     {
@@ -625,8 +625,8 @@
             "fips": "A3",
             "geonames": 863904
         },
-        "names": {
-            "long": "Šuto Orizari"
+        "long": {
+            "default": "Šuto Orizari"
         }
     },
     {
@@ -634,8 +634,8 @@
             "fips": "A4",
             "geonames": 863905
         },
-        "names": {
-            "long": "Sveti Nikole Municipality"
+        "long": {
+            "default": "Sveti Nikole Municipality"
         }
     },
     {
@@ -643,8 +643,8 @@
             "fips": "A5",
             "geonames": 863906
         },
-        "names": {
-            "long": "Tearce"
+        "long": {
+            "default": "Tearce"
         }
     },
     {
@@ -652,8 +652,8 @@
             "fips": "E8",
             "geonames": 863907
         },
-        "names": {
-            "long": "Tetovo"
+        "long": {
+            "default": "Tetovo"
         }
     },
     {
@@ -661,8 +661,8 @@
             "fips": "F1",
             "geonames": 863909
         },
-        "names": {
-            "long": "Veles"
+        "long": {
+            "default": "Veles"
         }
     },
     {
@@ -670,8 +670,8 @@
             "fips": "B3",
             "geonames": 863911
         },
-        "names": {
-            "long": "Vevčani"
+        "long": {
+            "default": "Vevčani"
         }
     },
     {
@@ -679,8 +679,8 @@
             "fips": "B4",
             "geonames": 863912
         },
-        "names": {
-            "long": "Vinica"
+        "long": {
+            "default": "Vinica"
         }
     },
     {
@@ -688,8 +688,8 @@
             "fips": "B6",
             "geonames": 863913
         },
-        "names": {
-            "long": "Vraneštica"
+        "long": {
+            "default": "Vraneštica"
         }
     },
     {
@@ -697,8 +697,8 @@
             "fips": "B7",
             "geonames": 863914
         },
-        "names": {
-            "long": "Vrapčište"
+        "long": {
+            "default": "Vrapčište"
         }
     },
     {
@@ -706,8 +706,8 @@
             "fips": "C1",
             "geonames": 863917
         },
-        "names": {
-            "long": "Zajas"
+        "long": {
+            "default": "Zajas"
         }
     },
     {
@@ -715,8 +715,8 @@
             "fips": "C2",
             "geonames": 863918
         },
-        "names": {
-            "long": "Zelenikovo"
+        "long": {
+            "default": "Zelenikovo"
         }
     },
     {
@@ -724,8 +724,8 @@
             "fips": "C3",
             "geonames": 863919
         },
-        "names": {
-            "long": "Želino"
+        "long": {
+            "default": "Želino"
         }
     },
     {
@@ -733,8 +733,8 @@
             "fips": "F3",
             "geonames": 7056266
         },
-        "names": {
-            "long": "Aerodrom"
+        "long": {
+            "default": "Aerodrom"
         }
     },
     {
@@ -742,8 +742,8 @@
             "fips": "F4",
             "geonames": 7056269
         },
-        "names": {
-            "long": "Butel Municipality"
+        "long": {
+            "default": "Butel Municipality"
         }
     },
     {
@@ -751,8 +751,8 @@
             "fips": "F5",
             "geonames": 7056271
         },
-        "names": {
-            "long": "Debarca Municipality"
+        "long": {
+            "default": "Debarca Municipality"
         }
     }
 ]

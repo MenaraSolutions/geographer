@@ -1,7 +1,11 @@
 {
     "2374775": {
-        "geoid": "2374775",
-        "name": "Bissau",
+        "ids": {
+            "geonames": 2374775
+        },
+        "long": {
+            "default": "Bissau"
+        },
         "lat": 11.86357,
         "lng": -15.59767,
         "country": "GW",

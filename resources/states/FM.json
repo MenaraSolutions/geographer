@@ -4,8 +4,8 @@
             "fips": "04",
             "geonames": 2081175
         },
-        "names": {
-            "long": "Yap"
+        "long": {
+            "default": "Yap"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 2081550
         },
-        "names": {
-            "long": "Pohnpei"
+        "long": {
+            "default": "Pohnpei"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "01",
             "geonames": 2082036
         },
-        "names": {
-            "long": "Kosrae"
+        "long": {
+            "default": "Kosrae"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 2082282
         },
-        "names": {
-            "long": "Chuuk"
+        "long": {
+            "default": "Chuuk"
         }
     }
 ]

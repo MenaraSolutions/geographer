@@ -4,8 +4,8 @@
             "fips": "NUI",
             "geonames": 2110341
         },
-        "names": {
-            "long": "Nui"
+        "long": {
+            "default": "Nui"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "NMA",
             "geonames": 2110345
         },
-        "names": {
-            "long": "Nanumea"
+        "long": {
+            "default": "Nanumea"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "FUN",
             "geonames": 2110384
         },
-        "names": {
-            "long": "Funafuti"
+        "long": {
+            "default": "Funafuti"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "NIT",
             "geonames": 7601979
         },
-        "names": {
-            "long": "Niutao"
+        "long": {
+            "default": "Niutao"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "NMG",
             "geonames": 7601980
         },
-        "names": {
-            "long": "Nanumanga"
+        "long": {
+            "default": "Nanumanga"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "VAI",
             "geonames": 7601981
         },
-        "names": {
-            "long": "Vaitupu"
+        "long": {
+            "default": "Vaitupu"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "NKF",
             "geonames": 7601982
         },
-        "names": {
-            "long": "Nukufetau"
+        "long": {
+            "default": "Nukufetau"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "NKL",
             "geonames": 7601983
         },
-        "names": {
-            "long": "Nukulaelae"
+        "long": {
+            "default": "Nukulaelae"
         }
     }
 ]

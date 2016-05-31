@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 8299700
         },
-        "names": {
-            "long": "Attard"
+        "long": {
+            "default": "Attard"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 8299701
         },
-        "names": {
-            "long": "Balzan"
+        "long": {
+            "default": "Balzan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 8299702
         },
-        "names": {
-            "long": "Il-Birgu"
+        "long": {
+            "default": "Il-Birgu"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 8299703
         },
-        "names": {
-            "long": "Birkirkara"
+        "long": {
+            "default": "Birkirkara"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "05",
             "geonames": 8299704
         },
-        "names": {
-            "long": "Birżebbuġa"
+        "long": {
+            "default": "Birżebbuġa"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 8299705
         },
-        "names": {
-            "long": "Bormla"
+        "long": {
+            "default": "Bormla"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 8299706
         },
-        "names": {
-            "long": "Dingli"
+        "long": {
+            "default": "Dingli"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 8299707
         },
-        "names": {
-            "long": "Il-Fgura"
+        "long": {
+            "default": "Il-Fgura"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "09",
             "geonames": 8299708
         },
-        "names": {
-            "long": "Il-Furjana"
+        "long": {
+            "default": "Il-Furjana"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 8299709
         },
-        "names": {
-            "long": "Il-Fontana"
+        "long": {
+            "default": "Il-Fontana"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 8299710
         },
-        "names": {
-            "long": "Għajnsielem"
+        "long": {
+            "default": "Għajnsielem"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "12",
             "geonames": 8299711
         },
-        "names": {
-            "long": "L-Għarb"
+        "long": {
+            "default": "L-Għarb"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "13",
             "geonames": 8299712
         },
-        "names": {
-            "long": "Ħal Għargħur"
+        "long": {
+            "default": "Ħal Għargħur"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "14",
             "geonames": 8299713
         },
-        "names": {
-            "long": "L-Għasri"
+        "long": {
+            "default": "L-Għasri"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "15",
             "geonames": 8299714
         },
-        "names": {
-            "long": "Ħal Għaxaq"
+        "long": {
+            "default": "Ħal Għaxaq"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "16",
             "geonames": 8299715
         },
-        "names": {
-            "long": "Il-Gudja"
+        "long": {
+            "default": "Il-Gudja"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "17",
             "geonames": 8299716
         },
-        "names": {
-            "long": "Il-Gżira"
+        "long": {
+            "default": "Il-Gżira"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "18",
             "geonames": 8299717
         },
-        "names": {
-            "long": "Il-Ħamrun"
+        "long": {
+            "default": "Il-Ħamrun"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "19",
             "geonames": 8299718
         },
-        "names": {
-            "long": "L-Iklin"
+        "long": {
+            "default": "L-Iklin"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "20",
             "geonames": 8299719
         },
-        "names": {
-            "long": "L-Imdina"
+        "long": {
+            "default": "L-Imdina"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "21",
             "geonames": 8299720
         },
-        "names": {
-            "long": "L-Imġarr"
+        "long": {
+            "default": "L-Imġarr"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "22",
             "geonames": 8299721
         },
-        "names": {
-            "long": "L-Imqabba"
+        "long": {
+            "default": "L-Imqabba"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "23",
             "geonames": 8299722
         },
-        "names": {
-            "long": "L-Imsida"
+        "long": {
+            "default": "L-Imsida"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "24",
             "geonames": 8299723
         },
-        "names": {
-            "long": "L-Imtarfa"
+        "long": {
+            "default": "L-Imtarfa"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "25",
             "geonames": 8299724
         },
-        "names": {
-            "long": "L-Isla"
+        "long": {
+            "default": "L-Isla"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "26",
             "geonames": 8299725
         },
-        "names": {
-            "long": "Il-Kalkara"
+        "long": {
+            "default": "Il-Kalkara"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "27",
             "geonames": 8299726
         },
-        "names": {
-            "long": "Ta’ Kerċem"
+        "long": {
+            "default": "Ta’ Kerċem"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "28",
             "geonames": 8299727
         },
-        "names": {
-            "long": "Kirkop"
+        "long": {
+            "default": "Kirkop"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "29",
             "geonames": 8299728
         },
-        "names": {
-            "long": "Lija"
+        "long": {
+            "default": "Lija"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "30",
             "geonames": 8299729
         },
-        "names": {
-            "long": "Luqa"
+        "long": {
+            "default": "Luqa"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "31",
             "geonames": 8299730
         },
-        "names": {
-            "long": "Il-Marsa"
+        "long": {
+            "default": "Il-Marsa"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "32",
             "geonames": 8299731
         },
-        "names": {
-            "long": "Marsaskala"
+        "long": {
+            "default": "Marsaskala"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "33",
             "geonames": 8299732
         },
-        "names": {
-            "long": "Marsaxlokk"
+        "long": {
+            "default": "Marsaxlokk"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "34",
             "geonames": 8299733
         },
-        "names": {
-            "long": "Il-Mellieħa"
+        "long": {
+            "default": "Il-Mellieħa"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "35",
             "geonames": 8299734
         },
-        "names": {
-            "long": "Il-Mosta"
+        "long": {
+            "default": "Il-Mosta"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "36",
             "geonames": 8299735
         },
-        "names": {
-            "long": "Il-Munxar"
+        "long": {
+            "default": "Il-Munxar"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "37",
             "geonames": 8299736
         },
-        "names": {
-            "long": "In-Nadur"
+        "long": {
+            "default": "In-Nadur"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "38",
             "geonames": 8299737
         },
-        "names": {
-            "long": "In-Naxxar"
+        "long": {
+            "default": "In-Naxxar"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "39",
             "geonames": 8299738
         },
-        "names": {
-            "long": "Paola"
+        "long": {
+            "default": "Paola"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "40",
             "geonames": 8299739
         },
-        "names": {
-            "long": "Pembroke"
+        "long": {
+            "default": "Pembroke"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "41",
             "geonames": 8299740
         },
-        "names": {
-            "long": "Tal-Pietà"
+        "long": {
+            "default": "Tal-Pietà"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "42",
             "geonames": 8299741
         },
-        "names": {
-            "long": "Il-Qala"
+        "long": {
+            "default": "Il-Qala"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "43",
             "geonames": 8299742
         },
-        "names": {
-            "long": "Qormi"
+        "long": {
+            "default": "Qormi"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "44",
             "geonames": 8299743
         },
-        "names": {
-            "long": "Il-Qrendi"
+        "long": {
+            "default": "Il-Qrendi"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "45",
             "geonames": 8299744
         },
-        "names": {
-            "long": "Ir-Rabat"
+        "long": {
+            "default": "Ir-Rabat"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "46",
             "geonames": 8299745
         },
-        "names": {
-            "long": "Victoria"
+        "long": {
+            "default": "Victoria"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "47",
             "geonames": 8299746
         },
-        "names": {
-            "long": "Safi"
+        "long": {
+            "default": "Safi"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "48",
             "geonames": 8299747
         },
-        "names": {
-            "long": "Saint John"
+        "long": {
+            "default": "Saint John"
         }
     },
     {
@@ -436,8 +436,8 @@
             "fips": "49",
             "geonames": 8299748
         },
-        "names": {
-            "long": "Saint Julian"
+        "long": {
+            "default": "Saint Julian"
         }
     },
     {
@@ -445,8 +445,8 @@
             "fips": "50",
             "geonames": 8299749
         },
-        "names": {
-            "long": "Saint Lawrence"
+        "long": {
+            "default": "Saint Lawrence"
         }
     },
     {
@@ -454,8 +454,8 @@
             "fips": "51",
             "geonames": 8299750
         },
-        "names": {
-            "long": "Saint Lucia"
+        "long": {
+            "default": "Saint Lucia"
         }
     },
     {
@@ -463,8 +463,8 @@
             "fips": "52",
             "geonames": 8299751
         },
-        "names": {
-            "long": "Saint Paul’s Bay"
+        "long": {
+            "default": "Saint Paul’s Bay"
         }
     },
     {
@@ -472,8 +472,8 @@
             "fips": "53",
             "geonames": 8299752
         },
-        "names": {
-            "long": "Saint Venera"
+        "long": {
+            "default": "Saint Venera"
         }
     },
     {
@@ -481,8 +481,8 @@
             "fips": "54",
             "geonames": 8299753
         },
-        "names": {
-            "long": "Sannat"
+        "long": {
+            "default": "Sannat"
         }
     },
     {
@@ -490,8 +490,8 @@
             "fips": "55",
             "geonames": 8299754
         },
-        "names": {
-            "long": "Is-Siġġiewi"
+        "long": {
+            "default": "Is-Siġġiewi"
         }
     },
     {
@@ -499,8 +499,8 @@
             "fips": "56",
             "geonames": 8299755
         },
-        "names": {
-            "long": "Tas-Sliema"
+        "long": {
+            "default": "Tas-Sliema"
         }
     },
     {
@@ -508,8 +508,8 @@
             "fips": "57",
             "geonames": 8299756
         },
-        "names": {
-            "long": "Is-Swieqi"
+        "long": {
+            "default": "Is-Swieqi"
         }
     },
     {
@@ -517,8 +517,8 @@
             "fips": "58",
             "geonames": 8299757
         },
-        "names": {
-            "long": "Tarxien"
+        "long": {
+            "default": "Tarxien"
         }
     },
     {
@@ -526,8 +526,8 @@
             "fips": "59",
             "geonames": 8299758
         },
-        "names": {
-            "long": "Ta’ Xbiex"
+        "long": {
+            "default": "Ta’ Xbiex"
         }
     },
     {
@@ -535,8 +535,8 @@
             "fips": "61",
             "geonames": 8299759
         },
-        "names": {
-            "long": "Ix-Xagħra"
+        "long": {
+            "default": "Ix-Xagħra"
         }
     },
     {
@@ -544,8 +544,8 @@
             "fips": "62",
             "geonames": 8299760
         },
-        "names": {
-            "long": "Ix-Xewkija"
+        "long": {
+            "default": "Ix-Xewkija"
         }
     },
     {
@@ -553,8 +553,8 @@
             "fips": "63",
             "geonames": 8299761
         },
-        "names": {
-            "long": "Ix-Xgħajra"
+        "long": {
+            "default": "Ix-Xgħajra"
         }
     },
     {
@@ -562,8 +562,8 @@
             "fips": "64",
             "geonames": 8299762
         },
-        "names": {
-            "long": "Ħaż-Żabbar"
+        "long": {
+            "default": "Ħaż-Żabbar"
         }
     },
     {
@@ -571,8 +571,8 @@
             "fips": "65",
             "geonames": 8299763
         },
-        "names": {
-            "long": "Ħaż-Żebbuġ"
+        "long": {
+            "default": "Ħaż-Żebbuġ"
         }
     },
     {
@@ -580,8 +580,8 @@
             "fips": "66",
             "geonames": 8299764
         },
-        "names": {
-            "long": "Iż-Żebbuġ"
+        "long": {
+            "default": "Iż-Żebbuġ"
         }
     },
     {
@@ -589,8 +589,8 @@
             "fips": "67",
             "geonames": 8299765
         },
-        "names": {
-            "long": "Iż-Żejtun"
+        "long": {
+            "default": "Iż-Żejtun"
         }
     },
     {
@@ -598,8 +598,8 @@
             "fips": "68",
             "geonames": 8299766
         },
-        "names": {
-            "long": "Iż-Żurrieq"
+        "long": {
+            "default": "Iż-Żurrieq"
         }
     },
     {
@@ -607,8 +607,8 @@
             "fips": "60",
             "geonames": 8334638
         },
-        "names": {
-            "long": "Il-Belt Valletta"
+        "long": {
+            "default": "Il-Belt Valletta"
         }
     }
 ]

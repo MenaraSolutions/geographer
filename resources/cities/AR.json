@@ -1,7 +1,11 @@
 {
     "3427213": {
-        "geoid": "3427213",
-        "name": "Zárate",
+        "ids": {
+            "geonames": 3427213
+        },
+        "long": {
+            "default": "Zárate"
+        },
         "lat": -34.09814,
         "lng": -59.02858,
         "country": "AR",
@@ -9,8 +13,12 @@
         "population": 88781
     },
     "3427408": {
-        "geoid": "3427408",
-        "name": "Villa Lugano",
+        "ids": {
+            "geonames": 3427408
+        },
+        "long": {
+            "default": "Villa Lugano"
+        },
         "lat": -34.67907,
         "lng": -58.47263,
         "country": "AR",
@@ -18,8 +26,12 @@
         "population": 114000
     },
     "3427833": {
-        "geoid": "3427833",
-        "name": "Tandil",
+        "ids": {
+            "geonames": 3427833
+        },
+        "long": {
+            "default": "Tandil"
+        },
         "lat": -37.32167,
         "lng": -59.13316,
         "country": "AR",
@@ -27,8 +39,12 @@
         "population": 104325
     },
     "3429577": {
-        "geoid": "3429577",
-        "name": "Resistencia",
+        "ids": {
+            "geonames": 3429577
+        },
+        "long": {
+            "default": "Resistencia"
+        },
         "lat": -27.46056,
         "lng": -58.98389,
         "country": "AR",
@@ -36,8 +52,12 @@
         "population": 387158
     },
     "3429594": {
-        "geoid": "3429594",
-        "name": "Reconquista",
+        "ids": {
+            "geonames": 3429594
+        },
+        "long": {
+            "default": "Reconquista"
+        },
         "lat": -29.15,
         "lng": -59.65,
         "country": "AR",
@@ -45,8 +65,12 @@
         "population": 90184
     },
     "3429652": {
-        "geoid": "3429652",
-        "name": "Quilmes",
+        "ids": {
+            "geonames": 3429652
+        },
+        "long": {
+            "default": "Quilmes"
+        },
         "lat": -34.72418,
         "lng": -58.25265,
         "country": "AR",
@@ -54,8 +78,12 @@
         "population": 518788
     },
     "3429790": {
-        "geoid": "3429790",
-        "name": "Puerto Eldorado",
+        "ids": {
+            "geonames": 3429790
+        },
+        "long": {
+            "default": "Puerto Eldorado"
+        },
         "lat": -26.40843,
         "lng": -54.69463,
         "country": "AR",
@@ -63,8 +91,12 @@
         "population": 54189
     },
     "3429886": {
-        "geoid": "3429886",
-        "name": "Posadas",
+        "ids": {
+            "geonames": 3429886
+        },
+        "long": {
+            "default": "Posadas"
+        },
         "lat": -27.36708,
         "lng": -55.89608,
         "country": "AR",
@@ -72,8 +104,12 @@
         "population": 323739
     },
     "3430340": {
-        "geoid": "3430340",
-        "name": "Oberá",
+        "ids": {
+            "geonames": 3430340
+        },
+        "long": {
+            "default": "Oberá"
+        },
         "lat": -27.48706,
         "lng": -55.11994,
         "country": "AR",
@@ -81,8 +117,12 @@
         "population": 56528
     },
     "3430443": {
-        "geoid": "3430443",
-        "name": "Necochea",
+        "ids": {
+            "geonames": 3430443
+        },
+        "long": {
+            "default": "Necochea"
+        },
         "lat": -38.5545,
         "lng": -58.73961,
         "country": "AR",
@@ -90,8 +130,12 @@
         "population": 80478
     },
     "3430545": {
-        "geoid": "3430545",
-        "name": "Morón",
+        "ids": {
+            "geonames": 3430545
+        },
+        "long": {
+            "default": "Morón"
+        },
         "lat": -34.65344,
         "lng": -58.61975,
         "country": "AR",
@@ -99,8 +143,12 @@
         "population": 319934
     },
     "3430708": {
-        "geoid": "3430708",
-        "name": "Mercedes",
+        "ids": {
+            "geonames": 3430708
+        },
+        "long": {
+            "default": "Mercedes"
+        },
         "lat": -34.65145,
         "lng": -59.43068,
         "country": "AR",
@@ -108,8 +156,12 @@
         "population": 52949
     },
     "3430863": {
-        "geoid": "3430863",
-        "name": "Mar del Plata",
+        "ids": {
+            "geonames": 3430863
+        },
+        "long": {
+            "default": "Mar del Plata"
+        },
         "lat": -38.00228,
         "lng": -57.55754,
         "country": "AR",
@@ -117,8 +169,12 @@
         "population": 553935
     },
     "3430988": {
-        "geoid": "3430988",
-        "name": "Luján",
+        "ids": {
+            "geonames": 3430988
+        },
+        "long": {
+            "default": "Luján"
+        },
         "lat": -34.57028,
         "lng": -59.105,
         "country": "AR",
@@ -126,8 +182,12 @@
         "population": 81749
     },
     "3432043": {
-        "geoid": "3432043",
-        "name": "La Plata",
+        "ids": {
+            "geonames": 3432043
+        },
+        "long": {
+            "default": "La Plata"
+        },
         "lat": -34.92145,
         "lng": -57.95453,
         "country": "AR",
@@ -135,8 +195,12 @@
         "population": 694167
     },
     "3433658": {
-        "geoid": "3433658",
-        "name": "Gualeguaychú",
+        "ids": {
+            "geonames": 3433658
+        },
+        "long": {
+            "default": "Gualeguaychú"
+        },
         "lat": -33.00937,
         "lng": -58.51722,
         "country": "AR",
@@ -144,8 +208,12 @@
         "population": 78676
     },
     "3433715": {
-        "geoid": "3433715",
-        "name": "Goya",
+        "ids": {
+            "geonames": 3433715
+        },
+        "long": {
+            "default": "Goya"
+        },
         "lat": -29.14395,
         "lng": -59.2651,
         "country": "AR",
@@ -153,8 +221,12 @@
         "population": 70245
     },
     "3433899": {
-        "geoid": "3433899",
-        "name": "Formosa",
+        "ids": {
+            "geonames": 3433899
+        },
+        "long": {
+            "default": "Formosa"
+        },
         "lat": -26.17753,
         "lng": -58.17814,
         "country": "AR",
@@ -162,8 +234,12 @@
         "population": 221383
     },
     "3435217": {
-        "geoid": "3435217",
-        "name": "Corrientes",
+        "ids": {
+            "geonames": 3435217
+        },
+        "long": {
+            "default": "Corrientes"
+        },
         "lat": -27.4806,
         "lng": -58.8341,
         "country": "AR",
@@ -171,8 +247,12 @@
         "population": 339067
     },
     "3435261": {
-        "geoid": "3435261",
-        "name": "Concordia",
+        "ids": {
+            "geonames": 3435261
+        },
+        "long": {
+            "default": "Concordia"
+        },
         "lat": -31.39296,
         "lng": -58.02089,
         "country": "AR",
@@ -180,8 +260,12 @@
         "population": 145210
     },
     "3435264": {
-        "geoid": "3435264",
-        "name": "Concepción del Uruguay",
+        "ids": {
+            "geonames": 3435264
+        },
+        "long": {
+            "default": "Concepción del Uruguay"
+        },
         "lat": -32.48249,
         "lng": -58.23722,
         "country": "AR",
@@ -189,8 +273,12 @@
         "population": 67895
     },
     "3435356": {
-        "geoid": "3435356",
-        "name": "Colegiales",
+        "ids": {
+            "geonames": 3435356
+        },
+        "long": {
+            "default": "Colegiales"
+        },
         "lat": -34.57365,
         "lng": -58.44924,
         "country": "AR",
@@ -198,8 +286,12 @@
         "population": 57000
     },
     "3435810": {
-        "geoid": "3435810",
-        "name": "Campana",
+        "ids": {
+            "geonames": 3435810
+        },
+        "long": {
+            "default": "Campana"
+        },
         "lat": -34.16874,
         "lng": -58.95914,
         "country": "AR",
@@ -207,8 +299,12 @@
         "population": 81612
     },
     "3435910": {
-        "geoid": "3435910",
-        "name": "Buenos Aires",
+        "ids": {
+            "geonames": 3435910
+        },
+        "long": {
+            "default": "Buenos Aires"
+        },
         "lat": -34.61315,
         "lng": -58.37723,
         "country": "AR",
@@ -216,8 +312,12 @@
         "population": 13076300
     },
     "3436124": {
-        "geoid": "3436124",
-        "name": "Barranqueras",
+        "ids": {
+            "geonames": 3436124
+        },
+        "long": {
+            "default": "Barranqueras"
+        },
         "lat": -27.48132,
         "lng": -58.93925,
         "country": "AR",
@@ -225,8 +325,12 @@
         "population": 50823
     },
     "3436199": {
-        "geoid": "3436199",
-        "name": "Azul",
+        "ids": {
+            "geonames": 3436199
+        },
+        "long": {
+            "default": "Azul"
+        },
         "lat": -36.77698,
         "lng": -59.85854,
         "country": "AR",
@@ -234,8 +338,12 @@
         "population": 53941
     },
     "3832260": {
-        "geoid": "3832260",
-        "name": "Yerba Buena",
+        "ids": {
+            "geonames": 3832260
+        },
+        "long": {
+            "default": "Yerba Buena"
+        },
         "lat": -26.81667,
         "lng": -65.31667,
         "country": "AR",
@@ -243,8 +351,12 @@
         "population": 50783
     },
     "3832694": {
-        "geoid": "3832694",
-        "name": "Villa María",
+        "ids": {
+            "geonames": 3832694
+        },
+        "long": {
+            "default": "Villa María"
+        },
         "lat": -32.40751,
         "lng": -63.24016,
         "country": "AR",
@@ -252,8 +364,12 @@
         "population": 92453
     },
     "3832791": {
-        "geoid": "3832791",
-        "name": "Villa Carlos Paz",
+        "ids": {
+            "geonames": 3832791
+        },
+        "long": {
+            "default": "Villa Carlos Paz"
+        },
         "lat": -31.42414,
         "lng": -64.49778,
         "country": "AR",
@@ -261,8 +377,12 @@
         "population": 69451
     },
     "3833062": {
-        "geoid": "3833062",
-        "name": "Venado Tuerto",
+        "ids": {
+            "geonames": 3833062
+        },
+        "long": {
+            "default": "Venado Tuerto"
+        },
         "lat": -33.74556,
         "lng": -61.96885,
         "country": "AR",
@@ -270,8 +390,12 @@
         "population": 72340
     },
     "3833367": {
-        "geoid": "3833367",
-        "name": "Ushuaia",
+        "ids": {
+            "geonames": 3833367
+        },
+        "long": {
+            "default": "Ushuaia"
+        },
         "lat": -54.8,
         "lng": -68.3,
         "country": "AR",
@@ -279,8 +403,12 @@
         "population": 58028
     },
     "3833883": {
-        "geoid": "3833883",
-        "name": "Trelew",
+        "ids": {
+            "geonames": 3833883
+        },
+        "long": {
+            "default": "Trelew"
+        },
         "lat": -43.24895,
         "lng": -65.30505,
         "country": "AR",
@@ -288,8 +416,12 @@
         "population": 93442
     },
     "3834601": {
-        "geoid": "3834601",
-        "name": "Tartagal",
+        "ids": {
+            "geonames": 3834601
+        },
+        "long": {
+            "default": "Tartagal"
+        },
         "lat": -22.51637,
         "lng": -63.80131,
         "country": "AR",
@@ -297,8 +429,12 @@
         "population": 60819
     },
     "3835793": {
-        "geoid": "3835793",
-        "name": "Santo Tomé",
+        "ids": {
+            "geonames": 3835793
+        },
+        "long": {
+            "default": "Santo Tomé"
+        },
         "lat": -31.66274,
         "lng": -60.7653,
         "country": "AR",
@@ -306,8 +442,12 @@
         "population": 59072
     },
     "3835869": {
-        "geoid": "3835869",
-        "name": "Santiago del Estero",
+        "ids": {
+            "geonames": 3835869
+        },
+        "long": {
+            "default": "Santiago del Estero"
+        },
         "lat": -27.79511,
         "lng": -64.26149,
         "country": "AR",
@@ -315,8 +455,12 @@
         "population": 354692
     },
     "3835994": {
-        "geoid": "3835994",
-        "name": "Santa Rosa",
+        "ids": {
+            "geonames": 3835994
+        },
+        "long": {
+            "default": "Santa Rosa"
+        },
         "lat": -36.61667,
         "lng": -64.28333,
         "country": "AR",
@@ -324,8 +468,12 @@
         "population": 111424
     },
     "3836277": {
-        "geoid": "3836277",
-        "name": "Santa Fe de la Vera Cruz",
+        "ids": {
+            "geonames": 3836277
+        },
+        "long": {
+            "default": "Santa Fe de la Vera Cruz"
+        },
         "lat": -31.63333,
         "lng": -60.7,
         "country": "AR",
@@ -333,8 +481,12 @@
         "population": 489505
     },
     "3836564": {
-        "geoid": "3836564",
-        "name": "San Salvador de Jujuy",
+        "ids": {
+            "geonames": 3836564
+        },
+        "long": {
+            "default": "San Salvador de Jujuy"
+        },
         "lat": -24.19457,
         "lng": -65.29712,
         "country": "AR",
@@ -342,8 +494,12 @@
         "population": 305891
     },
     "3836620": {
-        "geoid": "3836620",
-        "name": "San Ramón de la Nueva Orán",
+        "ids": {
+            "geonames": 3836620
+        },
+        "long": {
+            "default": "San Ramón de la Nueva Orán"
+        },
         "lat": -23.13705,
         "lng": -64.32426,
         "country": "AR",
@@ -351,8 +507,12 @@
         "population": 74059
     },
     "3836669": {
-        "geoid": "3836669",
-        "name": "San Rafael",
+        "ids": {
+            "geonames": 3836669
+        },
+        "long": {
+            "default": "San Rafael"
+        },
         "lat": -34.61772,
         "lng": -68.33007,
         "country": "AR",
@@ -360,8 +520,12 @@
         "population": 109163
     },
     "3836772": {
-        "geoid": "3836772",
-        "name": "San Pedro",
+        "ids": {
+            "geonames": 3836772
+        },
+        "long": {
+            "default": "San Pedro"
+        },
         "lat": -24.23127,
         "lng": -64.86614,
         "country": "AR",
@@ -369,8 +533,12 @@
         "population": 58430
     },
     "3836846": {
-        "geoid": "3836846",
-        "name": "San Nicolás de los Arroyos",
+        "ids": {
+            "geonames": 3836846
+        },
+        "long": {
+            "default": "San Nicolás de los Arroyos"
+        },
         "lat": -33.33578,
         "lng": -60.22523,
         "country": "AR",
@@ -378,8 +546,12 @@
         "population": 127742
     },
     "3836873": {
-        "geoid": "3836873",
-        "name": "San Miguel de Tucumán",
+        "ids": {
+            "geonames": 3836873
+        },
+        "long": {
+            "default": "San Miguel de Tucumán"
+        },
         "lat": -26.82414,
         "lng": -65.2226,
         "country": "AR",
@@ -387,8 +559,12 @@
         "population": 781023
     },
     "3836992": {
-        "geoid": "3836992",
-        "name": "San Martín",
+        "ids": {
+            "geonames": 3836992
+        },
+        "long": {
+            "default": "San Martín"
+        },
         "lat": -33.08103,
         "lng": -68.46814,
         "country": "AR",
@@ -396,8 +572,12 @@
         "population": 82549
     },
     "3837056": {
-        "geoid": "3837056",
-        "name": "San Luis",
+        "ids": {
+            "geonames": 3837056
+        },
+        "long": {
+            "default": "San Luis"
+        },
         "lat": -33.29501,
         "lng": -66.33563,
         "country": "AR",
@@ -405,8 +585,12 @@
         "population": 183982
     },
     "3837213": {
-        "geoid": "3837213",
-        "name": "San Juan",
+        "ids": {
+            "geonames": 3837213
+        },
+        "long": {
+            "default": "San Juan"
+        },
         "lat": -31.5375,
         "lng": -68.53639,
         "country": "AR",
@@ -414,8 +598,12 @@
         "population": 447048
     },
     "3837675": {
-        "geoid": "3837675",
-        "name": "San Francisco",
+        "ids": {
+            "geonames": 3837675
+        },
+        "long": {
+            "default": "San Francisco"
+        },
         "lat": -31.42797,
         "lng": -62.08266,
         "country": "AR",
@@ -423,8 +611,12 @@
         "population": 59062
     },
     "3837702": {
-        "geoid": "3837702",
-        "name": "San Fernando del Valle de Catamarca",
+        "ids": {
+            "geonames": 3837702
+        },
+        "long": {
+            "default": "San Fernando del Valle de Catamarca"
+        },
         "lat": -28.46957,
         "lng": -65.78524,
         "country": "AR",
@@ -432,8 +624,12 @@
         "population": 188812
     },
     "3838233": {
-        "geoid": "3838233",
-        "name": "Salta",
+        "ids": {
+            "geonames": 3838233
+        },
+        "long": {
+            "default": "Salta"
+        },
         "lat": -24.7859,
         "lng": -65.41166,
         "country": "AR",
@@ -441,8 +637,12 @@
         "population": 512686
     },
     "3838583": {
-        "geoid": "3838583",
-        "name": "Rosario",
+        "ids": {
+            "geonames": 3838583
+        },
+        "long": {
+            "default": "Rosario"
+        },
         "lat": -32.94682,
         "lng": -60.63932,
         "country": "AR",
@@ -450,8 +650,12 @@
         "population": 1173533
     },
     "3838793": {
-        "geoid": "3838793",
-        "name": "Río Tercero",
+        "ids": {
+            "geonames": 3838793
+        },
+        "long": {
+            "default": "Río Tercero"
+        },
         "lat": -32.17301,
         "lng": -64.11405,
         "country": "AR",
@@ -459,8 +663,12 @@
         "population": 53389
     },
     "3838859": {
-        "geoid": "3838859",
-        "name": "Río Gallegos",
+        "ids": {
+            "geonames": 3838859
+        },
+        "long": {
+            "default": "Río Gallegos"
+        },
         "lat": -51.62261,
         "lng": -69.21813,
         "country": "AR",
@@ -468,8 +676,12 @@
         "population": 85700
     },
     "3838874": {
-        "geoid": "3838874",
-        "name": "Río Cuarto",
+        "ids": {
+            "geonames": 3838874
+        },
+        "long": {
+            "default": "Río Cuarto"
+        },
         "lat": -33.13067,
         "lng": -64.34992,
         "country": "AR",
@@ -477,8 +689,12 @@
         "population": 153757
     },
     "3839479": {
-        "geoid": "3839479",
-        "name": "Rafaela",
+        "ids": {
+            "geonames": 3839479
+        },
+        "long": {
+            "default": "Rafaela"
+        },
         "lat": -31.25033,
         "lng": -61.4867,
         "country": "AR",
@@ -486,8 +702,12 @@
         "population": 88713
     },
     "3839982": {
-        "geoid": "3839982",
-        "name": "Punta Alta",
+        "ids": {
+            "geonames": 3839982
+        },
+        "long": {
+            "default": "Punta Alta"
+        },
         "lat": -38.87588,
         "lng": -62.07359,
         "country": "AR",
@@ -495,8 +715,12 @@
         "population": 57209
     },
     "3840092": {
-        "geoid": "3840092",
-        "name": "Puerto Madryn",
+        "ids": {
+            "geonames": 3840092
+        },
+        "long": {
+            "default": "Puerto Madryn"
+        },
         "lat": -42.7692,
         "lng": -65.03851,
         "country": "AR",
@@ -504,8 +728,12 @@
         "population": 64555
     },
     "3840300": {
-        "geoid": "3840300",
-        "name": "Presidencia Roque Sáenz Peña",
+        "ids": {
+            "geonames": 3840300
+        },
+        "long": {
+            "default": "Presidencia Roque Sáenz Peña"
+        },
         "lat": -26.78522,
         "lng": -60.43876,
         "country": "AR",
@@ -513,8 +741,12 @@
         "population": 81879
     },
     "3841490": {
-        "geoid": "3841490",
-        "name": "Pergamino",
+        "ids": {
+            "geonames": 3841490
+        },
+        "long": {
+            "default": "Pergamino"
+        },
         "lat": -33.88995,
         "lng": -60.57357,
         "country": "AR",
@@ -522,8 +754,12 @@
         "population": 87652
     },
     "3841956": {
-        "geoid": "3841956",
-        "name": "Paraná",
+        "ids": {
+            "geonames": 3841956
+        },
+        "long": {
+            "default": "Paraná"
+        },
         "lat": -31.73197,
         "lng": -60.5238,
         "country": "AR",
@@ -531,8 +767,12 @@
         "population": 262295
     },
     "3842670": {
-        "geoid": "3842670",
-        "name": "Olavarría",
+        "ids": {
+            "geonames": 3842670
+        },
+        "long": {
+            "default": "Olavarría"
+        },
         "lat": -36.89272,
         "lng": -60.32254,
         "country": "AR",
@@ -540,8 +780,12 @@
         "population": 86320
     },
     "3843123": {
-        "geoid": "3843123",
-        "name": "Neuquén",
+        "ids": {
+            "geonames": 3843123
+        },
+        "long": {
+            "default": "Neuquén"
+        },
         "lat": -38.95161,
         "lng": -68.0591,
         "country": "AR",
@@ -549,8 +793,12 @@
         "population": 242092
     },
     "3844421": {
-        "geoid": "3844421",
-        "name": "Mendoza",
+        "ids": {
+            "geonames": 3844421
+        },
+        "long": {
+            "default": "Mendoza"
+        },
         "lat": -32.89084,
         "lng": -68.82717,
         "country": "AR",
@@ -558,8 +806,12 @@
         "population": 876884
     },
     "3848950": {
-        "geoid": "3848950",
-        "name": "La Rioja",
+        "ids": {
+            "geonames": 3848950
+        },
+        "long": {
+            "default": "La Rioja"
+        },
         "lat": -29.41105,
         "lng": -66.85067,
         "country": "AR",
@@ -567,8 +819,12 @@
         "population": 162620
     },
     "3853354": {
-        "geoid": "3853354",
-        "name": "Junín",
+        "ids": {
+            "geonames": 3853354
+        },
+        "long": {
+            "default": "Junín"
+        },
         "lat": -34.58382,
         "lng": -60.94332,
         "country": "AR",
@@ -576,8 +832,12 @@
         "population": 85007
     },
     "3854985": {
-        "geoid": "3854985",
-        "name": "Gobernador Gálvez",
+        "ids": {
+            "geonames": 3854985
+        },
+        "long": {
+            "default": "Gobernador Gálvez"
+        },
         "lat": -33.03016,
         "lng": -60.64045,
         "country": "AR",
@@ -585,8 +845,12 @@
         "population": 74650
     },
     "3855065": {
-        "geoid": "3855065",
-        "name": "General Roca",
+        "ids": {
+            "geonames": 3855065
+        },
+        "long": {
+            "default": "General Roca"
+        },
         "lat": -39.03333,
         "lng": -67.58333,
         "country": "AR",
@@ -594,8 +858,12 @@
         "population": 73212
     },
     "3855075": {
-        "geoid": "3855075",
-        "name": "General Pico",
+        "ids": {
+            "geonames": 3855075
+        },
+        "long": {
+            "default": "General Pico"
+        },
         "lat": -35.65662,
         "lng": -63.75682,
         "country": "AR",
@@ -603,8 +871,12 @@
         "population": 57029
     },
     "3860259": {
-        "geoid": "3860259",
-        "name": "Córdoba",
+        "ids": {
+            "geonames": 3860259
+        },
+        "long": {
+            "default": "Córdoba"
+        },
         "lat": -31.4135,
         "lng": -64.18105,
         "country": "AR",
@@ -612,8 +884,12 @@
         "population": 1428214
     },
     "3860443": {
-        "geoid": "3860443",
-        "name": "Comodoro Rivadavia",
+        "ids": {
+            "geonames": 3860443
+        },
+        "long": {
+            "default": "Comodoro Rivadavia"
+        },
         "lat": -45.86413,
         "lng": -67.49656,
         "country": "AR",
@@ -621,8 +897,12 @@
         "population": 140850
     },
     "3861056": {
-        "geoid": "3861056",
-        "name": "Cipolletti",
+        "ids": {
+            "geonames": 3861056
+        },
+        "long": {
+            "default": "Cipolletti"
+        },
         "lat": -38.93392,
         "lng": -67.99032,
         "country": "AR",
@@ -630,8 +910,12 @@
         "population": 75078
     },
     "3861344": {
-        "geoid": "3861344",
-        "name": "Chivilcoy",
+        "ids": {
+            "geonames": 3861344
+        },
+        "long": {
+            "default": "Chivilcoy"
+        },
         "lat": -34.89566,
         "lng": -60.01667,
         "country": "AR",
@@ -639,8 +923,12 @@
         "population": 54514
     },
     "3861416": {
-        "geoid": "3861416",
-        "name": "Chimbas",
+        "ids": {
+            "geonames": 3861416
+        },
+        "long": {
+            "default": "Chimbas"
+        },
         "lat": -31.48333,
         "lng": -68.53333,
         "country": "AR",
@@ -648,8 +936,12 @@
         "population": 73829
     },
     "3865086": {
-        "geoid": "3865086",
-        "name": "Bahía Blanca",
+        "ids": {
+            "geonames": 3865086
+        },
+        "long": {
+            "default": "Bahía Blanca"
+        },
         "lat": -38.71959,
         "lng": -62.27243,
         "country": "AR",
@@ -657,8 +949,12 @@
         "population": 276546
     },
     "7116866": {
-        "geoid": "7116866",
-        "name": "Villa Mercedes",
+        "ids": {
+            "geonames": 7116866
+        },
+        "long": {
+            "default": "Villa Mercedes"
+        },
         "lat": -33.67571,
         "lng": -65.45783,
         "country": "AR",
@@ -666,8 +962,12 @@
         "population": 96781
     },
     "7647007": {
-        "geoid": "7647007",
-        "name": "San Carlos de Bariloche",
+        "ids": {
+            "geonames": 7647007
+        },
+        "long": {
+            "default": "San Carlos de Bariloche"
+        },
         "lat": -41.14557,
         "lng": -71.30822,
         "country": "AR",

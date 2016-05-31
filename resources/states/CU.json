@@ -4,8 +4,8 @@
             "fips": "16",
             "geonames": 3534168
         },
-        "names": {
-            "long": "Villa Clara"
+        "long": {
+            "default": "Villa Clara"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "15",
             "geonames": 3536725
         },
-        "names": {
-            "long": "Santiago de Cuba"
+        "long": {
+            "default": "Santiago de Cuba"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 3540665
         },
-        "names": {
-            "long": "Sancti Spíritus"
+        "long": {
+            "default": "Sancti Spíritus"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 3544088
         },
-        "names": {
-            "long": "Pinar del Río"
+        "long": {
+            "default": "Pinar del Río"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "03",
             "geonames": 3547394
         },
-        "names": {
-            "long": "Matanzas"
+        "long": {
+            "default": "Matanzas"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 3550595
         },
-        "names": {
-            "long": "Las Tunas"
+        "long": {
+            "default": "Las Tunas"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "04",
             "geonames": 3556608
         },
-        "names": {
-            "long": "Isla de la Juventud"
+        "long": {
+            "default": "Isla de la Juventud"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 3556965
         },
-        "names": {
-            "long": "Holguín"
+        "long": {
+            "default": "Holguín"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "10",
             "geonames": 3557685
         },
-        "names": {
-            "long": "Guantánamo"
+        "long": {
+            "default": "Guantánamo"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "09",
             "geonames": 3558052
         },
-        "names": {
-            "long": "Granma"
+        "long": {
+            "default": "Granma"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "02",
             "geonames": 3564073
         },
-        "names": {
-            "long": "La Habana"
+        "long": {
+            "default": "La Habana"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "08",
             "geonames": 3564120
         },
-        "names": {
-            "long": "Cienfuegos"
+        "long": {
+            "default": "Cienfuegos"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "07",
             "geonames": 3564175
         },
-        "names": {
-            "long": "Ciego de Ávila"
+        "long": {
+            "default": "Ciego de Ávila"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "05",
             "geonames": 3566062
         },
-        "names": {
-            "long": "Camagüey"
+        "long": {
+            "default": "Camagüey"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "AR",
             "geonames": 7668824
         },
-        "names": {
-            "long": "Artemisa"
+        "long": {
+            "default": "Artemisa"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "MA",
             "geonames": 7668827
         },
-        "names": {
-            "long": "Mayabeque"
+        "long": {
+            "default": "Mayabeque"
         }
     }
 ]

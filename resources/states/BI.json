@@ -4,8 +4,8 @@
             "fips": "17",
             "geonames": 422233
         },
-        "names": {
-            "long": "Makamba"
+        "long": {
+            "default": "Makamba"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 423327
         },
-        "names": {
-            "long": "Bururi"
+        "long": {
+            "default": "Bururi"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "22",
             "geonames": 425550
         },
-        "names": {
-            "long": "Muramvya"
+        "long": {
+            "default": "Muramvya"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "13",
             "geonames": 426271
         },
-        "names": {
-            "long": "Gitega"
+        "long": {
+            "default": "Gitega"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "21",
             "geonames": 426699
         },
-        "names": {
-            "long": "Ruyigi"
+        "long": {
+            "default": "Ruyigi"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "11",
             "geonames": 427700
         },
-        "names": {
-            "long": "Cankuzo"
+        "long": {
+            "default": "Cankuzo"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "14",
             "geonames": 428218
         },
-        "names": {
-            "long": "Karuzi"
+        "long": {
+            "default": "Karuzi"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "09",
             "geonames": 428514
         },
-        "names": {
-            "long": "Bubanza"
+        "long": {
+            "default": "Bubanza"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "12",
             "geonames": 430020
         },
-        "names": {
-            "long": "Cibitoke"
+        "long": {
+            "default": "Cibitoke"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "19",
             "geonames": 430567
         },
-        "names": {
-            "long": "Ngozi"
+        "long": {
+            "default": "Ngozi"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "15",
             "geonames": 430951
         },
-        "names": {
-            "long": "Kayanza"
+        "long": {
+            "default": "Kayanza"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "18",
             "geonames": 431747
         },
-        "names": {
-            "long": "Muyinga"
+        "long": {
+            "default": "Muyinga"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "16",
             "geonames": 432455
         },
-        "names": {
-            "long": "Kirundo"
+        "long": {
+            "default": "Kirundo"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "20",
             "geonames": 434147
         },
-        "names": {
-            "long": "Rutana"
+        "long": {
+            "default": "Rutana"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "23",
             "geonames": 434386
         },
-        "names": {
-            "long": "Mwaro"
+        "long": {
+            "default": "Mwaro"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "24",
             "geonames": 7303939
         },
-        "names": {
-            "long": "Bujumbura Mairie"
+        "long": {
+            "default": "Bujumbura Mairie"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "25",
             "geonames": 7303940
         },
-        "names": {
-            "long": "Bujumbura Rural"
+        "long": {
+            "default": "Bujumbura Rural"
         }
     }
 ]

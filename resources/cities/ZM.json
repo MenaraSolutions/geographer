@@ -1,7 +1,11 @@
 {
     "901344": {
-        "geoid": "901344",
-        "name": "Ndola",
+        "ids": {
+            "geonames": 901344
+        },
+        "long": {
+            "default": "Ndola"
+        },
         "lat": -12.95867,
         "lng": 28.63659,
         "country": "ZM",
@@ -9,8 +13,12 @@
         "population": 394518
     },
     "905395": {
-        "geoid": "905395",
-        "name": "Mufulira",
+        "ids": {
+            "geonames": 905395
+        },
+        "long": {
+            "default": "Mufulira"
+        },
         "lat": -12.54982,
         "lng": 28.24071,
         "country": "ZM",
@@ -18,8 +26,12 @@
         "population": 120500
     },
     "906054": {
-        "geoid": "906054",
-        "name": "Mongu",
+        "ids": {
+            "geonames": 906054
+        },
+        "long": {
+            "default": "Mongu"
+        },
         "lat": -15.24835,
         "lng": 23.12741,
         "country": "ZM",
@@ -27,8 +39,12 @@
         "population": 52534
     },
     "907111": {
-        "geoid": "907111",
-        "name": "Mazabuka",
+        "ids": {
+            "geonames": 907111
+        },
+        "long": {
+            "default": "Mazabuka"
+        },
         "lat": -15.85601,
         "lng": 27.748,
         "country": "ZM",
@@ -36,8 +52,12 @@
         "population": 64006
     },
     "909137": {
-        "geoid": "909137",
-        "name": "Lusaka",
+        "ids": {
+            "geonames": 909137
+        },
+        "long": {
+            "default": "Lusaka"
+        },
         "lat": -15.40669,
         "lng": 28.28713,
         "country": "ZM",
@@ -45,8 +65,12 @@
         "population": 1267440
     },
     "909863": {
-        "geoid": "909863",
-        "name": "Luanshya",
+        "ids": {
+            "geonames": 909863
+        },
+        "long": {
+            "default": "Luanshya"
+        },
         "lat": -13.13667,
         "lng": 28.41661,
         "country": "ZM",
@@ -54,8 +78,12 @@
         "population": 113365
     },
     "910111": {
-        "geoid": "910111",
-        "name": "Livingstone",
+        "ids": {
+            "geonames": 910111
+        },
+        "long": {
+            "default": "Livingstone"
+        },
         "lat": -17.84194,
         "lng": 25.85425,
         "country": "ZM",
@@ -63,8 +91,12 @@
         "population": 109203
     },
     "911148": {
-        "geoid": "911148",
-        "name": "Kitwe",
+        "ids": {
+            "geonames": 911148
+        },
+        "long": {
+            "default": "Kitwe"
+        },
         "lat": -12.80243,
         "lng": 28.21323,
         "country": "ZM",
@@ -72,8 +104,12 @@
         "population": 400914
     },
     "912764": {
-        "geoid": "912764",
-        "name": "Kasama",
+        "ids": {
+            "geonames": 912764
+        },
+        "long": {
+            "default": "Kasama"
+        },
         "lat": -10.21289,
         "lng": 31.18084,
         "country": "ZM",
@@ -81,8 +117,12 @@
         "population": 91056
     },
     "914959": {
-        "geoid": "914959",
-        "name": "Kalulushi",
+        "ids": {
+            "geonames": 914959
+        },
+        "long": {
+            "default": "Kalulushi"
+        },
         "lat": -12.84151,
         "lng": 28.09479,
         "country": "ZM",
@@ -90,8 +130,12 @@
         "population": 66575
     },
     "916095": {
-        "geoid": "916095",
-        "name": "Kabwe",
+        "ids": {
+            "geonames": 916095
+        },
+        "long": {
+            "default": "Kabwe"
+        },
         "lat": -14.4469,
         "lng": 28.44644,
         "country": "ZM",
@@ -99,8 +143,12 @@
         "population": 188979
     },
     "918702": {
-        "geoid": "918702",
-        "name": "Chipata",
+        "ids": {
+            "geonames": 918702
+        },
+        "long": {
+            "default": "Chipata"
+        },
         "lat": -13.63333,
         "lng": 32.65,
         "country": "ZM",
@@ -108,8 +156,12 @@
         "population": 85963
     },
     "919009": {
-        "geoid": "919009",
-        "name": "Chingola",
+        "ids": {
+            "geonames": 919009
+        },
+        "long": {
+            "default": "Chingola"
+        },
         "lat": -12.52897,
         "lng": 27.88382,
         "country": "ZM",
@@ -117,8 +169,12 @@
         "population": 148564
     },
     "919544": {
-        "geoid": "919544",
-        "name": "Chililabombwe",
+        "ids": {
+            "geonames": 919544
+        },
+        "long": {
+            "default": "Chililabombwe"
+        },
         "lat": -12.36475,
         "lng": 27.82286,
         "country": "ZM",

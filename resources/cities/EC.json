@@ -1,7 +1,11 @@
 {
     "3650472": {
-        "geoid": "3650472",
-        "name": "Tulcán",
+        "ids": {
+            "geonames": 3650472
+        },
+        "long": {
+            "default": "Tulcán"
+        },
         "lat": 0.81187,
         "lng": -77.71727,
         "country": "EC",
@@ -9,8 +13,12 @@
         "population": 86498
     },
     "3651297": {
-        "geoid": "3651297",
-        "name": "Santo Domingo de los Colorados",
+        "ids": {
+            "geonames": 3651297
+        },
+        "long": {
+            "default": "Santo Domingo de los Colorados"
+        },
         "lat": -0.25305,
         "lng": -79.17536,
         "country": "EC",
@@ -18,8 +26,12 @@
         "population": 200421
     },
     "3652350": {
-        "geoid": "3652350",
-        "name": "Riobamba",
+        "ids": {
+            "geonames": 3652350
+        },
+        "long": {
+            "default": "Riobamba"
+        },
         "lat": -1.67098,
         "lng": -78.64712,
         "country": "EC",
@@ -27,8 +39,12 @@
         "population": 124478
     },
     "3652462": {
-        "geoid": "3652462",
-        "name": "Quito",
+        "ids": {
+            "geonames": 3652462
+        },
+        "long": {
+            "default": "Quito"
+        },
         "lat": -0.22985,
         "lng": -78.52495,
         "country": "EC",
@@ -36,8 +52,12 @@
         "population": 1399814
     },
     "3652567": {
-        "geoid": "3652567",
-        "name": "Quevedo",
+        "ids": {
+            "geonames": 3652567
+        },
+        "long": {
+            "default": "Quevedo"
+        },
         "lat": -1.02863,
         "lng": -79.46352,
         "country": "EC",
@@ -45,8 +65,12 @@
         "population": 119436
     },
     "3652941": {
-        "geoid": "3652941",
-        "name": "Portoviejo",
+        "ids": {
+            "geonames": 3652941
+        },
+        "long": {
+            "default": "Portoviejo"
+        },
         "lat": -1.05458,
         "lng": -80.45445,
         "country": "EC",
@@ -54,8 +78,12 @@
         "population": 170326
     },
     "3654410": {
-        "geoid": "3654410",
-        "name": "Manta",
+        "ids": {
+            "geonames": 3654410
+        },
+        "long": {
+            "default": "Manta"
+        },
         "lat": -0.96212,
         "lng": -80.71271,
         "country": "EC",
@@ -63,8 +91,12 @@
         "population": 183166
     },
     "3654533": {
-        "geoid": "3654533",
-        "name": "Machala",
+        "ids": {
+            "geonames": 3654533
+        },
+        "long": {
+            "default": "Machala"
+        },
         "lat": -3.25861,
         "lng": -79.96053,
         "country": "EC",
@@ -72,8 +104,12 @@
         "population": 198123
     },
     "3654667": {
-        "geoid": "3654667",
-        "name": "Loja",
+        "ids": {
+            "geonames": 3654667
+        },
+        "long": {
+            "default": "Loja"
+        },
         "lat": -3.99313,
         "lng": -79.20422,
         "country": "EC",
@@ -81,8 +117,12 @@
         "population": 117796
     },
     "3654870": {
-        "geoid": "3654870",
-        "name": "Latacunga",
+        "ids": {
+            "geonames": 3654870
+        },
+        "long": {
+            "default": "Latacunga"
+        },
         "lat": -0.93521,
         "lng": -78.61554,
         "country": "EC",
@@ -90,8 +130,12 @@
         "population": 51717
     },
     "3655131": {
-        "geoid": "3655131",
-        "name": "La Libertad",
+        "ids": {
+            "geonames": 3655131
+        },
+        "long": {
+            "default": "La Libertad"
+        },
         "lat": -2.233,
         "lng": -80.91039,
         "country": "EC",
@@ -99,8 +143,12 @@
         "population": 75881
     },
     "3655673": {
-        "geoid": "3655673",
-        "name": "Ibarra",
+        "ids": {
+            "geonames": 3655673
+        },
+        "long": {
+            "default": "Ibarra"
+        },
         "lat": 0.35171,
         "lng": -78.12233,
         "country": "EC",
@@ -108,8 +156,12 @@
         "population": 132977
     },
     "3657509": {
-        "geoid": "3657509",
-        "name": "Guayaquil",
+        "ids": {
+            "geonames": 3657509
+        },
+        "long": {
+            "default": "Guayaquil"
+        },
         "lat": -2.20584,
         "lng": -79.90795,
         "country": "EC",
@@ -117,8 +169,12 @@
         "population": 1952029
     },
     "3657990": {
-        "geoid": "3657990",
-        "name": "Esmeraldas",
+        "ids": {
+            "geonames": 3657990
+        },
+        "long": {
+            "default": "Esmeraldas"
+        },
         "lat": 0.9592,
         "lng": -79.65397,
         "country": "EC",
@@ -126,8 +182,12 @@
         "population": 165216
     },
     "3658192": {
-        "geoid": "3658192",
-        "name": "Eloy Alfaro",
+        "ids": {
+            "geonames": 3658192
+        },
+        "long": {
+            "default": "Eloy Alfaro"
+        },
         "lat": -2.17579,
         "lng": -79.85519,
         "country": "EC",
@@ -135,8 +195,12 @@
         "population": 167784
     },
     "3658666": {
-        "geoid": "3658666",
-        "name": "Cuenca",
+        "ids": {
+            "geonames": 3658666
+        },
+        "long": {
+            "default": "Cuenca"
+        },
         "lat": -2.90055,
         "lng": -79.00453,
         "country": "EC",
@@ -144,8 +208,12 @@
         "population": 276964
     },
     "3660418": {
-        "geoid": "3660418",
-        "name": "Babahoyo",
+        "ids": {
+            "geonames": 3660418
+        },
+        "long": {
+            "default": "Babahoyo"
+        },
         "lat": -1.80217,
         "lng": -79.53443,
         "country": "EC",
@@ -153,8 +221,12 @@
         "population": 76279
     },
     "3660689": {
-        "geoid": "3660689",
-        "name": "Ambato",
+        "ids": {
+            "geonames": 3660689
+        },
+        "long": {
+            "default": "Ambato"
+        },
         "lat": -1.24908,
         "lng": -78.61675,
         "country": "EC",
@@ -162,8 +234,12 @@
         "population": 154369
     },
     "10277901": {
-        "geoid": "10277901",
-        "name": "Tutamandahostel",
+        "ids": {
+            "geonames": 10277901
+        },
+        "long": {
+            "default": "Tutamandahostel"
+        },
         "lat": -0.19727,
         "lng": -78.4975,
         "country": "EC",

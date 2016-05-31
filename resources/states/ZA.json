@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 967573
         },
-        "names": {
-            "long": "Orange Free State"
+        "long": {
+            "default": "Orange Free State"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 972062
         },
-        "names": {
-            "long": "KwaZulu-Natal"
+        "long": {
+            "default": "KwaZulu-Natal"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 1085593
         },
-        "names": {
-            "long": "Eastern Cape"
+        "long": {
+            "default": "Eastern Cape"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 1085594
         },
-        "names": {
-            "long": "Gauteng"
+        "long": {
+            "default": "Gauteng"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 1085595
         },
-        "names": {
-            "long": "Mpumalanga"
+        "long": {
+            "default": "Mpumalanga"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "08",
             "geonames": 1085596
         },
-        "names": {
-            "long": "Northern Cape"
+        "long": {
+            "default": "Northern Cape"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 1085597
         },
-        "names": {
-            "long": "Limpopo"
+        "long": {
+            "default": "Limpopo"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "10",
             "geonames": 1085598
         },
-        "names": {
-            "long": "North-West"
+        "long": {
+            "default": "North-West"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 1085599
         },
-        "names": {
-            "long": "Western Cape"
+        "long": {
+            "default": "Western Cape"
         }
     }
 ]

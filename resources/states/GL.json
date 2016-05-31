@@ -4,8 +4,8 @@
             "fips": "05",
             "geonames": 7602003
         },
-        "names": {
-            "long": "Qaasuitsup"
+        "long": {
+            "default": "Qaasuitsup"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 7602005
         },
-        "names": {
-            "long": "Kujalleq"
+        "long": {
+            "default": "Kujalleq"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "06",
             "geonames": 7602006
         },
-        "names": {
-            "long": "Qeqqata"
+        "long": {
+            "default": "Qeqqata"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 7602007
         },
-        "names": {
-            "long": "Sermersooq"
+        "long": {
+            "default": "Sermersooq"
         }
     }
 ]

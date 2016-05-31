@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 6930701
         },
-        "names": {
-            "long": "Boucle du Mouhoun"
+        "long": {
+            "default": "Boucle du Mouhoun"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 6930703
         },
-        "names": {
-            "long": "Cascades"
+        "long": {
+            "default": "Cascades"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 6930704
         },
-        "names": {
-            "long": "Centre"
+        "long": {
+            "default": "Centre"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 6930705
         },
-        "names": {
-            "long": "Centre-Est"
+        "long": {
+            "default": "Centre-Est"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "05",
             "geonames": 6930706
         },
-        "names": {
-            "long": "Centre-Nord"
+        "long": {
+            "default": "Centre-Nord"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 6930707
         },
-        "names": {
-            "long": "Centre-Ouest"
+        "long": {
+            "default": "Centre-Ouest"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 6930708
         },
-        "names": {
-            "long": "Centre-Sud"
+        "long": {
+            "default": "Centre-Sud"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 6930709
         },
-        "names": {
-            "long": "Est"
+        "long": {
+            "default": "Est"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "09",
             "geonames": 6930710
         },
-        "names": {
-            "long": "Hauts-Bassins"
+        "long": {
+            "default": "Hauts-Bassins"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 6930711
         },
-        "names": {
-            "long": "Nord"
+        "long": {
+            "default": "Nord"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 6930712
         },
-        "names": {
-            "long": "Plateau-Central"
+        "long": {
+            "default": "Plateau-Central"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "12",
             "geonames": 6930713
         },
-        "names": {
-            "long": "Sahel"
+        "long": {
+            "default": "Sahel"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "13",
             "geonames": 6930714
         },
-        "names": {
-            "long": "Sud-Ouest"
+        "long": {
+            "default": "Sud-Ouest"
         }
     }
 ]

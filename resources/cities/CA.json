@@ -1,7 +1,11 @@
 {
     "5881791": {
-        "geoid": "5881791",
-        "name": "Abbotsford",
+        "ids": {
+            "geonames": 5881791
+        },
+        "long": {
+            "default": "Abbotsford"
+        },
         "lat": 49.05798,
         "lng": -122.25257,
         "country": "CA",
@@ -9,8 +13,12 @@
         "population": 151683
     },
     "5882873": {
-        "geoid": "5882873",
-        "name": "Ajax",
+        "ids": {
+            "geonames": 5882873
+        },
+        "long": {
+            "default": "Ajax"
+        },
         "lat": 43.85012,
         "lng": -79.03288,
         "country": "CA",
@@ -18,8 +26,12 @@
         "population": 90167
     },
     "5885383": {
-        "geoid": "5885383",
-        "name": "Anmore",
+        "ids": {
+            "geonames": 5885383
+        },
+        "long": {
+            "default": "Anmore"
+        },
         "lat": 49.31637,
         "lng": -122.85263,
         "country": "CA",
@@ -27,8 +39,12 @@
         "population": 126456
     },
     "5894171": {
-        "geoid": "5894171",
-        "name": "Barrie",
+        "ids": {
+            "geonames": 5894171
+        },
+        "long": {
+            "default": "Barrie"
+        },
         "lat": 44.40011,
         "lng": -79.66634,
         "country": "CA",
@@ -36,8 +52,12 @@
         "population": 182041
     },
     "5907364": {
-        "geoid": "5907364",
-        "name": "Brampton",
+        "ids": {
+            "geonames": 5907364
+        },
+        "long": {
+            "default": "Brampton"
+        },
         "lat": 43.68341,
         "lng": -79.76633,
         "country": "CA",
@@ -45,8 +65,12 @@
         "population": 433806
     },
     "5907990": {
-        "geoid": "5907990",
-        "name": "Brantford",
+        "ids": {
+            "geonames": 5907990
+        },
+        "long": {
+            "default": "Brantford"
+        },
         "lat": 43.1334,
         "lng": -80.26636,
         "country": "CA",
@@ -54,8 +78,12 @@
         "population": 87759
     },
     "5909629": {
-        "geoid": "5909629",
-        "name": "Brossard",
+        "ids": {
+            "geonames": 5909629
+        },
+        "long": {
+            "default": "Brossard"
+        },
         "lat": 45.45008,
         "lng": -73.46583,
         "country": "CA",
@@ -63,8 +91,12 @@
         "population": 69575
     },
     "5911592": {
-        "geoid": "5911592",
-        "name": "Burlington",
+        "ids": {
+            "geonames": 5911592
+        },
+        "long": {
+            "default": "Burlington"
+        },
         "lat": 43.38621,
         "lng": -79.83713,
         "country": "CA",
@@ -72,8 +104,12 @@
         "population": 164415
     },
     "5911606": {
-        "geoid": "5911606",
-        "name": "Burnaby",
+        "ids": {
+            "geonames": 5911606
+        },
+        "long": {
+            "default": "Burnaby"
+        },
         "lat": 49.26636,
         "lng": -122.95263,
         "country": "CA",
@@ -81,8 +117,12 @@
         "population": 202799
     },
     "5913490": {
-        "geoid": "5913490",
-        "name": "Calgary",
+        "ids": {
+            "geonames": 5913490
+        },
+        "long": {
+            "default": "Calgary"
+        },
         "lat": 51.05011,
         "lng": -114.08529,
         "country": "CA",
@@ -90,8 +130,12 @@
         "population": 1019942
     },
     "5913695": {
-        "geoid": "5913695",
-        "name": "Cambridge",
+        "ids": {
+            "geonames": 5913695
+        },
+        "long": {
+            "default": "Cambridge"
+        },
         "lat": 43.3601,
         "lng": -80.31269,
         "country": "CA",
@@ -99,8 +143,12 @@
         "population": 120372
     },
     "5921356": {
-        "geoid": "5921356",
-        "name": "Chilliwack",
+        "ids": {
+            "geonames": 5921356
+        },
+        "long": {
+            "default": "Chilliwack"
+        },
         "lat": 49.16638,
         "lng": -121.95257,
         "country": "CA",
@@ -108,8 +156,12 @@
         "population": 77000
     },
     "5927689": {
-        "geoid": "5927689",
-        "name": "Coquitlam",
+        "ids": {
+            "geonames": 5927689
+        },
+        "long": {
+            "default": "Coquitlam"
+        },
         "lat": 49.28297,
         "lng": -122.75262,
         "country": "CA",
@@ -117,8 +169,12 @@
         "population": 114565
     },
     "5935277": {
-        "geoid": "5935277",
-        "name": "Dartmouth",
+        "ids": {
+            "geonames": 5935277
+        },
+        "long": {
+            "default": "Dartmouth"
+        },
         "lat": 44.67134,
         "lng": -63.57719,
         "country": "CA",
@@ -126,8 +182,12 @@
         "population": 101343
     },
     "5937615": {
-        "geoid": "5937615",
-        "name": "Delta",
+        "ids": {
+            "geonames": 5937615
+        },
+        "long": {
+            "default": "Delta"
+        },
         "lat": 49.14399,
         "lng": -122.9068,
         "country": "CA",
@@ -135,8 +195,12 @@
         "population": 101668
     },
     "5942845": {
-        "geoid": "5942845",
-        "name": "Drummondville",
+        "ids": {
+            "geonames": 5942845
+        },
+        "long": {
+            "default": "Drummondville"
+        },
         "lat": 45.88336,
         "lng": -72.48241,
         "country": "CA",
@@ -144,8 +208,12 @@
         "population": 59489
     },
     "5946768": {
-        "geoid": "5946768",
-        "name": "Edmonton",
+        "ids": {
+            "geonames": 5946768
+        },
+        "long": {
+            "default": "Edmonton"
+        },
         "lat": 53.55014,
         "lng": -113.46871,
         "country": "CA",
@@ -153,8 +221,12 @@
         "population": 712391
     },
     "5950267": {
-        "geoid": "5950267",
-        "name": "Etobicoke",
+        "ids": {
+            "geonames": 5950267
+        },
+        "long": {
+            "default": "Etobicoke"
+        },
         "lat": 43.65421,
         "lng": -79.56711,
         "country": "CA",
@@ -162,8 +234,12 @@
         "population": 347948
     },
     "5955895": {
-        "geoid": "5955895",
-        "name": "Fort McMurray",
+        "ids": {
+            "geonames": 5955895
+        },
+        "long": {
+            "default": "Fort McMurray"
+        },
         "lat": 56.72676,
         "lng": -111.38103,
         "country": "CA",
@@ -171,8 +247,12 @@
         "population": 76000
     },
     "5957776": {
-        "geoid": "5957776",
-        "name": "Fredericton",
+        "ids": {
+            "geonames": 5957776
+        },
+        "long": {
+            "default": "Fredericton"
+        },
         "lat": 45.94541,
         "lng": -66.66558,
         "country": "CA",
@@ -180,8 +260,12 @@
         "population": 52337
     },
     "5959974": {
-        "geoid": "5959974",
-        "name": "Gatineau",
+        "ids": {
+            "geonames": 5959974
+        },
+        "long": {
+            "default": "Gatineau"
+        },
         "lat": 45.47723,
         "lng": -75.70164,
         "country": "CA",
@@ -189,8 +273,12 @@
         "population": 242124
     },
     "5964215": {
-        "geoid": "5964215",
-        "name": "Granby",
+        "ids": {
+            "geonames": 5964215
+        },
+        "long": {
+            "default": "Granby"
+        },
         "lat": 45.40008,
         "lng": -72.73243,
         "country": "CA",
@@ -198,8 +286,12 @@
         "population": 53979
     },
     "5964700": {
-        "geoid": "5964700",
-        "name": "Greater Sudbury",
+        "ids": {
+            "geonames": 5964700
+        },
+        "long": {
+            "default": "Greater Sudbury"
+        },
         "lat": 46.49,
         "lng": -80.99001,
         "country": "CA",
@@ -207,8 +299,12 @@
         "population": 157857
     },
     "5967629": {
-        "geoid": "5967629",
-        "name": "Guelph",
+        "ids": {
+            "geonames": 5967629
+        },
+        "long": {
+            "default": "Guelph"
+        },
         "lat": 43.54594,
         "lng": -80.25599,
         "country": "CA",
@@ -216,8 +312,12 @@
         "population": 115760
     },
     "5969782": {
-        "geoid": "5969782",
-        "name": "Hamilton",
+        "ids": {
+            "geonames": 5969782
+        },
+        "long": {
+            "default": "Hamilton"
+        },
         "lat": 43.25011,
         "lng": -79.84963,
         "country": "CA",
@@ -225,8 +325,12 @@
         "population": 519949
     },
     "5989045": {
-        "geoid": "5989045",
-        "name": "Kamloops",
+        "ids": {
+            "geonames": 5989045
+        },
+        "long": {
+            "default": "Kamloops"
+        },
         "lat": 50.66648,
         "lng": -120.3192,
         "country": "CA",
@@ -234,8 +338,12 @@
         "population": 68714
     },
     "5990579": {
-        "geoid": "5990579",
-        "name": "Kelowna",
+        "ids": {
+            "geonames": 5990579
+        },
+        "long": {
+            "default": "Kelowna"
+        },
         "lat": 49.88307,
         "lng": -119.48568,
         "country": "CA",
@@ -243,8 +351,12 @@
         "population": 125109
     },
     "5992500": {
-        "geoid": "5992500",
-        "name": "Kingston",
+        "ids": {
+            "geonames": 5992500
+        },
+        "long": {
+            "default": "Kingston"
+        },
         "lat": 44.22976,
         "lng": -76.48098,
         "country": "CA",
@@ -252,8 +364,12 @@
         "population": 114195
     },
     "5992996": {
-        "geoid": "5992996",
-        "name": "Kitchener",
+        "ids": {
+            "geonames": 5992996
+        },
+        "long": {
+            "default": "Kitchener"
+        },
         "lat": 43.42537,
         "lng": -80.5112,
         "country": "CA",
@@ -261,8 +377,12 @@
         "population": 233700
     },
     "6049430": {
-        "geoid": "6049430",
-        "name": "Langley",
+        "ids": {
+            "geonames": 6049430
+        },
+        "long": {
+            "default": "Langley"
+        },
         "lat": 49.08297,
         "lng": -122.58589,
         "country": "CA",
@@ -270,8 +390,12 @@
         "population": 93726
     },
     "6050610": {
-        "geoid": "6050610",
-        "name": "Laval",
+        "ids": {
+            "geonames": 6050610
+        },
+        "long": {
+            "default": "Laval"
+        },
         "lat": 45.56995,
         "lng": -73.692,
         "country": "CA",
@@ -279,8 +403,12 @@
         "population": 376845
     },
     "6053154": {
-        "geoid": "6053154",
-        "name": "Lethbridge",
+        "ids": {
+            "geonames": 6053154
+        },
+        "long": {
+            "default": "Lethbridge"
+        },
         "lat": 49.69999,
         "lng": -112.81856,
         "country": "CA",
@@ -288,8 +416,12 @@
         "population": 70617
     },
     "6058560": {
-        "geoid": "6058560",
-        "name": "London",
+        "ids": {
+            "geonames": 6058560
+        },
+        "long": {
+            "default": "London"
+        },
         "lat": 42.98339,
         "lng": -81.23304,
         "country": "CA",
@@ -297,8 +429,12 @@
         "population": 346765
     },
     "6059891": {
-        "geoid": "6059891",
-        "name": "Longueuil",
+        "ids": {
+            "geonames": 6059891
+        },
+        "long": {
+            "default": "Longueuil"
+        },
         "lat": 45.53121,
         "lng": -73.51806,
         "country": "CA",
@@ -306,8 +442,12 @@
         "population": 229330
     },
     "6065686": {
-        "geoid": "6065686",
-        "name": "Maple Ridge",
+        "ids": {
+            "geonames": 6065686
+        },
+        "long": {
+            "default": "Maple Ridge"
+        },
         "lat": 49.21939,
         "lng": -122.60193,
         "country": "CA",
@@ -315,8 +455,12 @@
         "population": 70000
     },
     "6066513": {
-        "geoid": "6066513",
-        "name": "Markham",
+        "ids": {
+            "geonames": 6066513
+        },
+        "long": {
+            "default": "Markham"
+        },
         "lat": 43.86682,
         "lng": -79.2663,
         "country": "CA",
@@ -324,8 +468,12 @@
         "population": 261573
     },
     "6071618": {
-        "geoid": "6071618",
-        "name": "Medicine Hat",
+        "ids": {
+            "geonames": 6071618
+        },
+        "long": {
+            "default": "Medicine Hat"
+        },
         "lat": 50.03928,
         "lng": -110.67661,
         "country": "CA",
@@ -333,8 +481,12 @@
         "population": 63138
     },
     "6074377": {
-        "geoid": "6074377",
-        "name": "Milton",
+        "ids": {
+            "geonames": 6074377
+        },
+        "long": {
+            "default": "Milton"
+        },
         "lat": 43.51681,
         "lng": -79.88294,
         "country": "CA",
@@ -342,8 +494,12 @@
         "population": 84362
     },
     "6075357": {
-        "geoid": "6075357",
-        "name": "Mississauga",
+        "ids": {
+            "geonames": 6075357
+        },
+        "long": {
+            "default": "Mississauga"
+        },
         "lat": 43.5789,
         "lng": -79.6583,
         "country": "CA",
@@ -351,8 +507,12 @@
         "population": 668549
     },
     "6076211": {
-        "geoid": "6076211",
-        "name": "Moncton",
+        "ids": {
+            "geonames": 6076211
+        },
+        "long": {
+            "default": "Moncton"
+        },
         "lat": 46.09454,
         "lng": -64.7965,
         "country": "CA",
@@ -360,8 +520,12 @@
         "population": 87467
     },
     "6077243": {
-        "geoid": "6077243",
-        "name": "Montréal",
+        "ids": {
+            "geonames": 6077243
+        },
+        "long": {
+            "default": "Montréal"
+        },
         "lat": 45.50884,
         "lng": -73.58781,
         "country": "CA",
@@ -369,8 +533,12 @@
         "population": 1600000
     },
     "6085772": {
-        "geoid": "6085772",
-        "name": "Nanaimo",
+        "ids": {
+            "geonames": 6085772
+        },
+        "long": {
+            "default": "Nanaimo"
+        },
         "lat": 49.16638,
         "lng": -123.94003,
         "country": "CA",
@@ -378,8 +546,12 @@
         "population": 84905
     },
     "6087701": {
-        "geoid": "6087701",
-        "name": "Newmarket",
+        "ids": {
+            "geonames": 6087701
+        },
+        "long": {
+            "default": "Newmarket"
+        },
         "lat": 44.05011,
         "lng": -79.46631,
         "country": "CA",
@@ -387,8 +559,12 @@
         "population": 74295
     },
     "6087844": {
-        "geoid": "6087844",
-        "name": "New Westminster",
+        "ids": {
+            "geonames": 6087844
+        },
+        "long": {
+            "default": "New Westminster"
+        },
         "lat": 49.20678,
         "lng": -122.91092,
         "country": "CA",
@@ -396,8 +572,12 @@
         "population": 58549
     },
     "6087892": {
-        "geoid": "6087892",
-        "name": "Niagara Falls",
+        "ids": {
+            "geonames": 6087892
+        },
+        "long": {
+            "default": "Niagara Falls"
+        },
         "lat": 43.10012,
         "lng": -79.06627,
         "country": "CA",
@@ -405,8 +585,12 @@
         "population": 82000
     },
     "6089125": {
-        "geoid": "6089125",
-        "name": "Norfolk County",
+        "ids": {
+            "geonames": 6089125
+        },
+        "long": {
+            "default": "Norfolk County"
+        },
         "lat": 42.8334,
         "lng": -80.38297,
         "country": "CA",
@@ -414,8 +598,12 @@
         "population": 60847
     },
     "6089426": {
-        "geoid": "6089426",
-        "name": "North Bay",
+        "ids": {
+            "geonames": 6089426
+        },
+        "long": {
+            "default": "North Bay"
+        },
         "lat": 46.3168,
         "lng": -79.46633,
         "country": "CA",
@@ -423,8 +611,12 @@
         "population": 50170
     },
     "6091104": {
-        "geoid": "6091104",
-        "name": "North York",
+        "ids": {
+            "geonames": 6091104
+        },
+        "long": {
+            "default": "North York"
+        },
         "lat": 43.76681,
         "lng": -79.4163,
         "country": "CA",
@@ -432,8 +624,12 @@
         "population": 636000
     },
     "6092122": {
-        "geoid": "6092122",
-        "name": "Oakville",
+        "ids": {
+            "geonames": 6092122
+        },
+        "long": {
+            "default": "Oakville"
+        },
         "lat": 43.45011,
         "lng": -79.68292,
         "country": "CA",
@@ -441,8 +637,12 @@
         "population": 165697
     },
     "6094578": {
-        "geoid": "6094578",
-        "name": "Oshawa",
+        "ids": {
+            "geonames": 6094578
+        },
+        "long": {
+            "default": "Oshawa"
+        },
         "lat": 43.90012,
         "lng": -78.84957,
         "country": "CA",
@@ -450,8 +650,12 @@
         "population": 247989
     },
     "6094817": {
-        "geoid": "6094817",
-        "name": "Ottawa",
+        "ids": {
+            "geonames": 6094817
+        },
+        "long": {
+            "default": "Ottawa"
+        },
         "lat": 45.41117,
         "lng": -75.69812,
         "country": "CA",
@@ -459,8 +663,12 @@
         "population": 812129
     },
     "6101645": {
-        "geoid": "6101645",
-        "name": "Peterborough",
+        "ids": {
+            "geonames": 6101645
+        },
+        "long": {
+            "default": "Peterborough"
+        },
         "lat": 44.30012,
         "lng": -78.31623,
         "country": "CA",
@@ -468,8 +676,12 @@
         "population": 75877
     },
     "6104111": {
-        "geoid": "6104111",
-        "name": "Pickering",
+        "ids": {
+            "geonames": 6104111
+        },
+        "long": {
+            "default": "Pickering"
+        },
         "lat": 43.90012,
         "lng": -79.13289,
         "country": "CA",
@@ -477,8 +689,12 @@
         "population": 87838
     },
     "6113365": {
-        "geoid": "6113365",
-        "name": "Prince George",
+        "ids": {
+            "geonames": 6113365
+        },
+        "long": {
+            "default": "Prince George"
+        },
         "lat": 53.9166,
         "lng": -122.75301,
         "country": "CA",
@@ -486,8 +702,12 @@
         "population": 65558
     },
     "6118158": {
-        "geoid": "6118158",
-        "name": "Red Deer",
+        "ids": {
+            "geonames": 6118158
+        },
+        "long": {
+            "default": "Red Deer"
+        },
         "lat": 52.26682,
         "lng": -113.802,
         "country": "CA",
@@ -495,8 +715,12 @@
         "population": 73593
     },
     "6119109": {
-        "geoid": "6119109",
-        "name": "Regina",
+        "ids": {
+            "geonames": 6119109
+        },
+        "long": {
+            "default": "Regina"
+        },
         "lat": 50.45008,
         "lng": -104.6178,
         "country": "CA",
@@ -504,8 +728,12 @@
         "population": 176183
     },
     "6119518": {
-        "geoid": "6119518",
-        "name": "Repentigny",
+        "ids": {
+            "geonames": 6119518
+        },
+        "long": {
+            "default": "Repentigny"
+        },
         "lat": 45.74222,
         "lng": -73.45008,
         "country": "CA",
@@ -513,8 +741,12 @@
         "population": 76237
     },
     "6122085": {
-        "geoid": "6122085",
-        "name": "Richmond",
+        "ids": {
+            "geonames": 6122085
+        },
+        "long": {
+            "default": "Richmond"
+        },
         "lat": 49.17003,
         "lng": -123.13683,
         "country": "CA",
@@ -522,8 +754,12 @@
         "population": 182000
     },
     "6122091": {
-        "geoid": "6122091",
-        "name": "Richmond Hill",
+        "ids": {
+            "geonames": 6122091
+        },
+        "long": {
+            "default": "Richmond Hill"
+        },
         "lat": 43.87111,
         "lng": -79.43725,
         "country": "CA",
@@ -531,8 +767,12 @@
         "population": 185541
     },
     "6137270": {
-        "geoid": "6137270",
-        "name": "Saguenay",
+        "ids": {
+            "geonames": 6137270
+        },
+        "long": {
+            "default": "Saguenay"
+        },
         "lat": 48.41675,
         "lng": -71.06573,
         "country": "CA",
@@ -540,8 +780,12 @@
         "population": 143692
     },
     "6138374": {
-        "geoid": "6138374",
-        "name": "Saint-Hyacinthe",
+        "ids": {
+            "geonames": 6138374
+        },
+        "long": {
+            "default": "Saint-Hyacinthe"
+        },
         "lat": 45.63076,
         "lng": -72.95699,
         "country": "CA",
@@ -549,8 +793,12 @@
         "population": 50326
     },
     "6138495": {
-        "geoid": "6138495",
-        "name": "Saint-Jean-sur-Richelieu",
+        "ids": {
+            "geonames": 6138495
+        },
+        "long": {
+            "default": "Saint-Jean-sur-Richelieu"
+        },
         "lat": 45.30713,
         "lng": -73.26259,
         "country": "CA",
@@ -558,8 +806,12 @@
         "population": 71613
     },
     "6138501": {
-        "geoid": "6138501",
-        "name": "Saint-Jérôme",
+        "ids": {
+            "geonames": 6138501
+        },
+        "long": {
+            "default": "Saint-Jérôme"
+        },
         "lat": 45.78036,
         "lng": -74.00365,
         "country": "CA",
@@ -567,8 +819,12 @@
         "population": 54948
     },
     "6138517": {
-        "geoid": "6138517",
-        "name": "Saint John",
+        "ids": {
+            "geonames": 6138517
+        },
+        "long": {
+            "default": "Saint John"
+        },
         "lat": 45.27271,
         "lng": -66.06766,
         "country": "CA",
@@ -576,8 +832,12 @@
         "population": 87857
     },
     "6138610": {
-        "geoid": "6138610",
-        "name": "Saint-Laurent",
+        "ids": {
+            "geonames": 6138610
+        },
+        "long": {
+            "default": "Saint-Laurent"
+        },
         "lat": 45.50008,
         "lng": -73.66585,
         "country": "CA",
@@ -585,8 +845,12 @@
         "population": 77391
     },
     "6138625": {
-        "geoid": "6138625",
-        "name": "Saint-Léonard",
+        "ids": {
+            "geonames": 6138625
+        },
+        "long": {
+            "default": "Saint-Léonard"
+        },
         "lat": 45.58773,
         "lng": -73.59501,
         "country": "CA",
@@ -594,8 +858,12 @@
         "population": 73423
     },
     "6141190": {
-        "geoid": "6141190",
-        "name": "Sarnia",
+        "ids": {
+            "geonames": 6141190
+        },
+        "long": {
+            "default": "Sarnia"
+        },
         "lat": 42.97866,
         "lng": -82.40407,
         "country": "CA",
@@ -603,8 +871,12 @@
         "population": 82998
     },
     "6141256": {
-        "geoid": "6141256",
-        "name": "Saskatoon",
+        "ids": {
+            "geonames": 6141256
+        },
+        "long": {
+            "default": "Saskatoon"
+        },
         "lat": 52.13238,
         "lng": -106.66892,
         "country": "CA",
@@ -612,8 +884,12 @@
         "population": 198958
     },
     "6141439": {
-        "geoid": "6141439",
-        "name": "Sault Ste. Marie",
+        "ids": {
+            "geonames": 6141439
+        },
+        "long": {
+            "default": "Sault Ste. Marie"
+        },
         "lat": 46.51677,
         "lng": -84.33325,
         "country": "CA",
@@ -621,8 +897,12 @@
         "population": 74948
     },
     "6146143": {
-        "geoid": "6146143",
-        "name": "Sherbrooke",
+        "ids": {
+            "geonames": 6146143
+        },
+        "long": {
+            "default": "Sherbrooke"
+        },
         "lat": 45.40008,
         "lng": -71.89908,
         "country": "CA",
@@ -630,8 +910,12 @@
         "population": 129447
     },
     "6146279": {
-        "geoid": "6146279",
-        "name": "Sherwood Park",
+        "ids": {
+            "geonames": 6146279
+        },
+        "long": {
+            "default": "Sherwood Park"
+        },
         "lat": 53.51684,
         "lng": -113.3187,
         "country": "CA",
@@ -639,8 +923,12 @@
         "population": 55063
     },
     "6155033": {
-        "geoid": "6155033",
-        "name": "St. Albert",
+        "ids": {
+            "geonames": 6155033
+        },
+        "long": {
+            "default": "St. Albert"
+        },
         "lat": 53.63344,
         "lng": -113.63533,
         "country": "CA",
@@ -648,8 +936,12 @@
         "population": 57719
     },
     "6155721": {
-        "geoid": "6155721",
-        "name": "St. Catharines",
+        "ids": {
+            "geonames": 6155721
+        },
+        "long": {
+            "default": "St. Catharines"
+        },
         "lat": 43.17126,
         "lng": -79.24267,
         "country": "CA",
@@ -657,8 +949,12 @@
         "population": 131989
     },
     "6159905": {
-        "geoid": "6159905",
-        "name": "Surrey",
+        "ids": {
+            "geonames": 6159905
+        },
+        "long": {
+            "default": "Surrey"
+        },
         "lat": 49.10635,
         "lng": -122.82509,
         "country": "CA",
@@ -666,8 +962,12 @@
         "population": 394976
     },
     "6163012": {
-        "geoid": "6163012",
-        "name": "Terrebonne",
+        "ids": {
+            "geonames": 6163012
+        },
+        "long": {
+            "default": "Terrebonne"
+        },
         "lat": 45.70004,
         "lng": -73.64732,
         "country": "CA",
@@ -675,8 +975,12 @@
         "population": 94703
     },
     "6166142": {
-        "geoid": "6166142",
-        "name": "Thunder Bay",
+        "ids": {
+            "geonames": 6166142
+        },
+        "long": {
+            "default": "Thunder Bay"
+        },
         "lat": 48.38202,
         "lng": -89.25018,
         "country": "CA",
@@ -684,8 +988,12 @@
         "population": 99334
     },
     "6167865": {
-        "geoid": "6167865",
-        "name": "Toronto",
+        "ids": {
+            "geonames": 6167865
+        },
+        "long": {
+            "default": "Toronto"
+        },
         "lat": 43.70011,
         "lng": -79.4163,
         "country": "CA",
@@ -693,8 +1001,12 @@
         "population": 2600000
     },
     "6169141": {
-        "geoid": "6169141",
-        "name": "Trois-Rivières",
+        "ids": {
+            "geonames": 6169141
+        },
+        "long": {
+            "default": "Trois-Rivières"
+        },
         "lat": 46.34515,
         "lng": -72.5477,
         "country": "CA",
@@ -702,8 +1014,12 @@
         "population": 119693
     },
     "6173331": {
-        "geoid": "6173331",
-        "name": "Vancouver",
+        "ids": {
+            "geonames": 6173331
+        },
+        "long": {
+            "default": "Vancouver"
+        },
         "lat": 49.24966,
         "lng": -123.11934,
         "country": "CA",
@@ -711,8 +1027,12 @@
         "population": 600000
     },
     "6173577": {
-        "geoid": "6173577",
-        "name": "Vaughan",
+        "ids": {
+            "geonames": 6173577
+        },
+        "long": {
+            "default": "Vaughan"
+        },
         "lat": 43.8361,
         "lng": -79.49827,
         "country": "CA",
@@ -720,8 +1040,12 @@
         "population": 238866
     },
     "6174041": {
-        "geoid": "6174041",
-        "name": "Victoria",
+        "ids": {
+            "geonames": 6174041
+        },
+        "long": {
+            "default": "Victoria"
+        },
         "lat": 48.43294,
         "lng": -123.3693,
         "country": "CA",
@@ -729,8 +1053,12 @@
         "population": 289625
     },
     "6176823": {
-        "geoid": "6176823",
-        "name": "Waterloo",
+        "ids": {
+            "geonames": 6176823
+        },
+        "long": {
+            "default": "Waterloo"
+        },
         "lat": 43.4668,
         "lng": -80.51639,
         "country": "CA",
@@ -738,8 +1066,12 @@
         "population": 97475
     },
     "6177869": {
-        "geoid": "6177869",
-        "name": "Welland",
+        "ids": {
+            "geonames": 6177869
+        },
+        "long": {
+            "default": "Welland"
+        },
         "lat": 42.98342,
         "lng": -79.24958,
         "country": "CA",
@@ -747,8 +1079,12 @@
         "population": 50331
     },
     "6180961": {
-        "geoid": "6180961",
-        "name": "White Rock",
+        "ids": {
+            "geonames": 6180961
+        },
+        "long": {
+            "default": "White Rock"
+        },
         "lat": 49.01636,
         "lng": -122.8026,
         "country": "CA",
@@ -756,8 +1092,12 @@
         "population": 66450
     },
     "6182962": {
-        "geoid": "6182962",
-        "name": "Windsor",
+        "ids": {
+            "geonames": 6182962
+        },
+        "long": {
+            "default": "Windsor"
+        },
         "lat": 42.30008,
         "lng": -83.01654,
         "country": "CA",
@@ -765,8 +1105,12 @@
         "population": 278013
     },
     "6183235": {
-        "geoid": "6183235",
-        "name": "Winnipeg",
+        "ids": {
+            "geonames": 6183235
+        },
+        "long": {
+            "default": "Winnipeg"
+        },
         "lat": 49.8844,
         "lng": -97.14704,
         "country": "CA",
@@ -774,8 +1118,12 @@
         "population": 632063
     },
     "6324729": {
-        "geoid": "6324729",
-        "name": "Halifax",
+        "ids": {
+            "geonames": 6324729
+        },
+        "long": {
+            "default": "Halifax"
+        },
         "lat": 44.64533,
         "lng": -63.57239,
         "country": "CA",
@@ -783,8 +1131,12 @@
         "population": 359111
     },
     "6324733": {
-        "geoid": "6324733",
-        "name": "St. John's",
+        "ids": {
+            "geonames": 6324733
+        },
+        "long": {
+            "default": "St. John's"
+        },
         "lat": 47.56494,
         "lng": -52.70931,
         "country": "CA",
@@ -792,8 +1144,12 @@
         "population": 99182
     },
     "6325494": {
-        "geoid": "6325494",
-        "name": "Québec",
+        "ids": {
+            "geonames": 6325494
+        },
+        "long": {
+            "default": "Québec"
+        },
         "lat": 46.81228,
         "lng": -71.21454,
         "country": "CA",
@@ -801,8 +1157,12 @@
         "population": 528595
     },
     "6325521": {
-        "geoid": "6325521",
-        "name": "Lévis",
+        "ids": {
+            "geonames": 6325521
+        },
+        "long": {
+            "default": "Lévis"
+        },
         "lat": 46.80326,
         "lng": -71.17793,
         "country": "CA",
@@ -810,8 +1170,12 @@
         "population": 126396
     },
     "6354908": {
-        "geoid": "6354908",
-        "name": "Sydney",
+        "ids": {
+            "geonames": 6354908
+        },
+        "long": {
+            "default": "Sydney"
+        },
         "lat": 46.1351,
         "lng": -60.1831,
         "country": "CA",
@@ -819,8 +1183,12 @@
         "population": 105968
     },
     "6948711": {
-        "geoid": "6948711",
-        "name": "Scarborough",
+        "ids": {
+            "geonames": 6948711
+        },
+        "long": {
+            "default": "Scarborough"
+        },
         "lat": 43.77223,
         "lng": -79.25666,
         "country": "CA",
@@ -828,8 +1196,12 @@
         "population": 600000
     },
     "7281931": {
-        "geoid": "7281931",
-        "name": "Okanagan",
+        "ids": {
+            "geonames": 7281931
+        },
+        "long": {
+            "default": "Okanagan"
+        },
         "lat": 50.36386,
         "lng": -119.34997,
         "country": "CA",
@@ -837,8 +1209,12 @@
         "population": 297601
     },
     "7303786": {
-        "geoid": "7303786",
-        "name": "Jonquière",
+        "ids": {
+            "geonames": 7303786
+        },
+        "long": {
+            "default": "Jonquière"
+        },
         "lat": 48.41648,
         "lng": -71.24884,
         "country": "CA",
@@ -846,8 +1222,12 @@
         "population": 54842
     },
     "7602078": {
-        "geoid": "7602078",
-        "name": "Ladner",
+        "ids": {
+            "geonames": 7602078
+        },
+        "long": {
+            "default": "Ladner"
+        },
         "lat": 49.08938,
         "lng": -123.08241,
         "country": "CA",
@@ -855,8 +1235,12 @@
         "population": 200000
     },
     "8558534": {
-        "geoid": "8558534",
-        "name": "Willowdale",
+        "ids": {
+            "geonames": 8558534
+        },
+        "long": {
+            "default": "Willowdale"
+        },
         "lat": 43.76672,
         "lng": -79.39909,
         "country": "CA",

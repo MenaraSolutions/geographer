@@ -4,8 +4,8 @@
             "fips": "12",
             "geonames": 1871856
         },
-        "names": {
-            "long": "Pyongyang"
+        "long": {
+            "default": "Pyongyang"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "15",
             "geonames": 1871952
         },
-        "names": {
-            "long": "P'yŏngan-namdo"
+        "long": {
+            "default": "P'yŏngan-namdo"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "11",
             "geonames": 1871954
         },
-        "names": {
-            "long": "P'yŏngan-bukto"
+        "long": {
+            "default": "P'yŏngan-bukto"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "09",
             "geonames": 1876101
         },
-        "names": {
-            "long": "Kangwŏn-do"
+        "long": {
+            "default": "Kangwŏn-do"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 1876884
         },
-        "names": {
-            "long": "Hwanghae-namdo"
+        "long": {
+            "default": "Hwanghae-namdo"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "07",
             "geonames": 1876888
         },
-        "names": {
-            "long": "Hwanghae-bukto"
+        "long": {
+            "default": "Hwanghae-bukto"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "03",
             "geonames": 1877450
         },
-        "names": {
-            "long": "Hamgyŏng-namdo"
+        "long": {
+            "default": "Hamgyŏng-namdo"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "13",
             "geonames": 2039332
         },
-        "names": {
-            "long": "Yanggang-do"
+        "long": {
+            "default": "Yanggang-do"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "17",
             "geonames": 2044245
         },
-        "names": {
-            "long": "Hamgyŏng-bukto"
+        "long": {
+            "default": "Hamgyŏng-bukto"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "01",
             "geonames": 2045265
         },
-        "names": {
-            "long": "Chagang-do"
+        "long": {
+            "default": "Chagang-do"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "18",
             "geonames": 2054927
         },
-        "names": {
-            "long": "Rason"
+        "long": {
+            "default": "Rason"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "425378": {
-        "geoid": "425378",
-        "name": "Bujumbura",
+        "ids": {
+            "geonames": 425378
+        },
+        "long": {
+            "default": "Bujumbura"
+        },
         "lat": -3.3822,
         "lng": 29.3644,
         "country": "BI",
@@ -9,8 +13,12 @@
         "population": 331700
     },
     "431748": {
-        "geoid": "431748",
-        "name": "Muyinga",
+        "ids": {
+            "geonames": 431748
+        },
+        "long": {
+            "default": "Muyinga"
+        },
         "lat": -2.8451,
         "lng": 30.3414,
         "country": "BI",

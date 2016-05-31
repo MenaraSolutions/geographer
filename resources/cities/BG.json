@@ -1,7 +1,11 @@
 {
     "725578": {
-        "geoid": "725578",
-        "name": "Yambol",
+        "ids": {
+            "geonames": 725578
+        },
+        "long": {
+            "default": "Yambol"
+        },
         "lat": 42.48333,
         "lng": 26.5,
         "country": "BG",
@@ -9,8 +13,12 @@
         "population": 80116
     },
     "725712": {
-        "geoid": "725712",
-        "name": "Vratsa",
+        "ids": {
+            "geonames": 725712
+        },
+        "long": {
+            "default": "Vratsa"
+        },
         "lat": 43.21,
         "lng": 23.5625,
         "country": "BG",
@@ -18,8 +26,12 @@
         "population": 64941
     },
     "725905": {
-        "geoid": "725905",
-        "name": "Vidin",
+        "ids": {
+            "geonames": 725905
+        },
+        "long": {
+            "default": "Vidin"
+        },
         "lat": 43.99,
         "lng": 22.8725,
         "country": "BG",
@@ -27,8 +39,12 @@
         "population": 54409
     },
     "725993": {
-        "geoid": "725993",
-        "name": "Veliko Tŭrnovo",
+        "ids": {
+            "geonames": 725993
+        },
+        "long": {
+            "default": "Veliko Tŭrnovo"
+        },
         "lat": 43.08124,
         "lng": 25.62904,
         "country": "BG",
@@ -36,8 +52,12 @@
         "population": 66217
     },
     "726050": {
-        "geoid": "726050",
-        "name": "Varna",
+        "ids": {
+            "geonames": 726050
+        },
+        "long": {
+            "default": "Varna"
+        },
         "lat": 43.21667,
         "lng": 27.91667,
         "country": "BG",
@@ -45,8 +65,12 @@
         "population": 312770
     },
     "726418": {
-        "geoid": "726418",
-        "name": "Dobrich",
+        "ids": {
+            "geonames": 726418
+        },
+        "long": {
+            "default": "Dobrich"
+        },
         "lat": 43.56667,
         "lng": 27.83333,
         "country": "BG",
@@ -54,8 +78,12 @@
         "population": 94831
     },
     "726848": {
-        "geoid": "726848",
-        "name": "Stara Zagora",
+        "ids": {
+            "geonames": 726848
+        },
+        "long": {
+            "default": "Stara Zagora"
+        },
         "lat": 42.43278,
         "lng": 25.64194,
         "country": "BG",
@@ -63,8 +91,12 @@
         "population": 143431
     },
     "727011": {
-        "geoid": "727011",
-        "name": "Sofia",
+        "ids": {
+            "geonames": 727011
+        },
+        "long": {
+            "default": "Sofia"
+        },
         "lat": 42.69751,
         "lng": 23.32415,
         "country": "BG",
@@ -72,8 +104,12 @@
         "population": 1152556
     },
     "727079": {
-        "geoid": "727079",
-        "name": "Sliven",
+        "ids": {
+            "geonames": 727079
+        },
+        "long": {
+            "default": "Sliven"
+        },
         "lat": 42.68583,
         "lng": 26.32917,
         "country": "BG",
@@ -81,8 +117,12 @@
         "population": 96368
     },
     "727233": {
-        "geoid": "727233",
-        "name": "Shumen",
+        "ids": {
+            "geonames": 727233
+        },
+        "long": {
+            "default": "Shumen"
+        },
         "lat": 43.27064,
         "lng": 26.92286,
         "country": "BG",
@@ -90,8 +130,12 @@
         "population": 87283
     },
     "727523": {
-        "geoid": "727523",
-        "name": "Ruse",
+        "ids": {
+            "geonames": 727523
+        },
+        "long": {
+            "default": "Ruse"
+        },
         "lat": 43.85639,
         "lng": 25.97083,
         "country": "BG",
@@ -99,8 +143,12 @@
         "population": 156238
     },
     "728193": {
-        "geoid": "728193",
-        "name": "Plovdiv",
+        "ids": {
+            "geonames": 728193
+        },
+        "long": {
+            "default": "Plovdiv"
+        },
         "lat": 42.15,
         "lng": 24.75,
         "country": "BG",
@@ -108,8 +156,12 @@
         "population": 340494
     },
     "728203": {
-        "geoid": "728203",
-        "name": "Pleven",
+        "ids": {
+            "geonames": 728203
+        },
+        "long": {
+            "default": "Pleven"
+        },
         "lat": 43.41667,
         "lng": 24.61667,
         "country": "BG",
@@ -117,8 +169,12 @@
         "population": 118675
     },
     "728330": {
-        "geoid": "728330",
-        "name": "Pernik",
+        "ids": {
+            "geonames": 728330
+        },
+        "long": {
+            "default": "Pernik"
+        },
         "lat": 42.6,
         "lng": 23.03333,
         "country": "BG",
@@ -126,8 +182,12 @@
         "population": 82467
     },
     "728378": {
-        "geoid": "728378",
-        "name": "Pazardzhik",
+        "ids": {
+            "geonames": 728378
+        },
+        "long": {
+            "default": "Pazardzhik"
+        },
         "lat": 42.2,
         "lng": 24.33333,
         "country": "BG",
@@ -135,8 +195,12 @@
         "population": 75977
     },
     "729794": {
-        "geoid": "729794",
-        "name": "Kardzhali",
+        "ids": {
+            "geonames": 729794
+        },
+        "long": {
+            "default": "Kardzhali"
+        },
         "lat": 41.65,
         "lng": 25.36667,
         "country": "BG",
@@ -144,8 +208,12 @@
         "population": 51000
     },
     "730435": {
-        "geoid": "730435",
-        "name": "Haskovo",
+        "ids": {
+            "geonames": 730435
+        },
+        "long": {
+            "default": "Haskovo"
+        },
         "lat": 41.93415,
         "lng": 25.55557,
         "country": "BG",
@@ -153,8 +221,12 @@
         "population": 79699
     },
     "730496": {
-        "geoid": "730496",
-        "name": "Kazanlŭk",
+        "ids": {
+            "geonames": 730496
+        },
+        "long": {
+            "default": "Kazanlŭk"
+        },
         "lat": 42.61667,
         "lng": 25.4,
         "country": "BG",
@@ -162,8 +234,12 @@
         "population": 55196
     },
     "731549": {
-        "geoid": "731549",
-        "name": "Gabrovo",
+        "ids": {
+            "geonames": 731549
+        },
+        "long": {
+            "default": "Gabrovo"
+        },
         "lat": 42.87472,
         "lng": 25.33417,
         "country": "BG",
@@ -171,8 +247,12 @@
         "population": 66175
     },
     "732770": {
-        "geoid": "732770",
-        "name": "Burgas",
+        "ids": {
+            "geonames": 732770
+        },
+        "long": {
+            "default": "Burgas"
+        },
         "lat": 42.50606,
         "lng": 27.46781,
         "country": "BG",
@@ -180,8 +260,12 @@
         "population": 195966
     },
     "733191": {
-        "geoid": "733191",
-        "name": "Blagoevgrad",
+        "ids": {
+            "geonames": 733191
+        },
+        "long": {
+            "default": "Blagoevgrad"
+        },
         "lat": 42.01667,
         "lng": 23.1,
         "country": "BG",
@@ -189,8 +273,12 @@
         "population": 71306
     },
     "733618": {
-        "geoid": "733618",
-        "name": "Asenovgrad",
+        "ids": {
+            "geonames": 733618
+        },
+        "long": {
+            "default": "Asenovgrad"
+        },
         "lat": 42.01667,
         "lng": 24.86667,
         "country": "BG",

@@ -1,7 +1,11 @@
 {
     "328689": {
-        "geoid": "328689",
-        "name": "Shashemenē",
+        "ids": {
+            "geonames": 328689
+        },
+        "long": {
+            "default": "Shashemenē"
+        },
         "lat": 7.2,
         "lng": 38.6,
         "country": "ET",
@@ -9,8 +13,12 @@
         "population": 85871
     },
     "330186": {
-        "geoid": "330186",
-        "name": "Nazrēt",
+        "ids": {
+            "geonames": 330186
+        },
+        "long": {
+            "default": "Nazrēt"
+        },
         "lat": 8.55,
         "lng": 39.26667,
         "country": "ET",
@@ -18,8 +26,12 @@
         "population": 213995
     },
     "331180": {
-        "geoid": "331180",
-        "name": "Mekele",
+        "ids": {
+            "geonames": 331180
+        },
+        "long": {
+            "default": "Mekele"
+        },
         "lat": 13.49667,
         "lng": 39.47528,
         "country": "ET",
@@ -27,8 +39,12 @@
         "population": 215546
     },
     "333373": {
-        "geoid": "333373",
-        "name": "Kombolcha",
+        "ids": {
+            "geonames": 333373
+        },
+        "long": {
+            "default": "Kombolcha"
+        },
         "lat": 11.08155,
         "lng": 39.74339,
         "country": "ET",
@@ -36,8 +52,12 @@
         "population": 93605
     },
     "333772": {
-        "geoid": "333772",
-        "name": "Jīma",
+        "ids": {
+            "geonames": 333772
+        },
+        "long": {
+            "default": "Jīma"
+        },
         "lat": 7.66667,
         "lng": 36.83333,
         "country": "ET",
@@ -45,8 +65,12 @@
         "population": 128306
     },
     "333795": {
-        "geoid": "333795",
-        "name": "Jijiga",
+        "ids": {
+            "geonames": 333795
+        },
+        "long": {
+            "default": "Jijiga"
+        },
         "lat": 9.35,
         "lng": 42.8,
         "country": "ET",
@@ -54,8 +78,12 @@
         "population": 56821
     },
     "334227": {
-        "geoid": "334227",
-        "name": "Inda Silasē",
+        "ids": {
+            "geonames": 334227
+        },
+        "long": {
+            "default": "Inda Silasē"
+        },
         "lat": 14.10307,
         "lng": 38.28289,
         "country": "ET",
@@ -63,8 +91,12 @@
         "population": 50078
     },
     "335035": {
-        "geoid": "335035",
-        "name": "Harar",
+        "ids": {
+            "geonames": 335035
+        },
+        "long": {
+            "default": "Harar"
+        },
         "lat": 9.31387,
         "lng": 42.11815,
         "country": "ET",
@@ -72,8 +104,12 @@
         "population": 90218
     },
     "336014": {
-        "geoid": "336014",
-        "name": "Gondar",
+        "ids": {
+            "geonames": 336014
+        },
+        "long": {
+            "default": "Gondar"
+        },
         "lat": 12.6,
         "lng": 37.46667,
         "country": "ET",
@@ -81,8 +117,12 @@
         "population": 153914
     },
     "338832": {
-        "geoid": "338832",
-        "name": "Dire Dawa",
+        "ids": {
+            "geonames": 338832
+        },
+        "long": {
+            "default": "Dire Dawa"
+        },
         "lat": 9.59306,
         "lng": 41.86611,
         "country": "ET",
@@ -90,8 +130,12 @@
         "population": 252279
     },
     "339219": {
-        "geoid": "339219",
-        "name": "Desē",
+        "ids": {
+            "geonames": 339219
+        },
+        "long": {
+            "default": "Desē"
+        },
         "lat": 11.13333,
         "lng": 39.63333,
         "country": "ET",
@@ -99,8 +143,12 @@
         "population": 136056
     },
     "339666": {
-        "geoid": "339666",
-        "name": "Bishoftu",
+        "ids": {
+            "geonames": 339666
+        },
+        "long": {
+            "default": "Bishoftu"
+        },
         "lat": 8.75225,
         "lng": 38.97846,
         "country": "ET",
@@ -108,8 +156,12 @@
         "population": 104215
     },
     "339708": {
-        "geoid": "339708",
-        "name": "Debre Mark’os",
+        "ids": {
+            "geonames": 339708
+        },
+        "long": {
+            "default": "Debre Mark’os"
+        },
         "lat": 10.35,
         "lng": 37.73333,
         "country": "ET",
@@ -117,8 +169,12 @@
         "population": 59920
     },
     "339734": {
-        "geoid": "339734",
-        "name": "Debre Birhan",
+        "ids": {
+            "geonames": 339734
+        },
+        "long": {
+            "default": "Debre Birhan"
+        },
         "lat": 9.67954,
         "lng": 39.53262,
         "country": "ET",
@@ -126,8 +182,12 @@
         "population": 57787
     },
     "342884": {
-        "geoid": "342884",
-        "name": "Bahir Dar",
+        "ids": {
+            "geonames": 342884
+        },
+        "long": {
+            "default": "Bahir Dar"
+        },
         "lat": 11.59364,
         "lng": 37.39077,
         "country": "ET",
@@ -135,8 +195,12 @@
         "population": 168899
     },
     "343137": {
-        "geoid": "343137",
-        "name": "Hawassa",
+        "ids": {
+            "geonames": 343137
+        },
+        "long": {
+            "default": "Hawassa"
+        },
         "lat": 7.06205,
         "lng": 38.47635,
         "country": "ET",
@@ -144,8 +208,12 @@
         "population": 133097
     },
     "343663": {
-        "geoid": "343663",
-        "name": "Ārba Minch’",
+        "ids": {
+            "geonames": 343663
+        },
+        "long": {
+            "default": "Ārba Minch’"
+        },
         "lat": 6.03333,
         "lng": 37.55,
         "country": "ET",
@@ -153,8 +221,12 @@
         "population": 69622
     },
     "344979": {
-        "geoid": "344979",
-        "name": "Addis Ababa",
+        "ids": {
+            "geonames": 344979
+        },
+        "long": {
+            "default": "Addis Ababa"
+        },
         "lat": 9.02497,
         "lng": 38.74689,
         "country": "ET",
@@ -162,8 +234,12 @@
         "population": 2757729
     },
     "345149": {
-        "geoid": "345149",
-        "name": "Ādīgrat",
+        "ids": {
+            "geonames": 345149
+        },
+        "long": {
+            "default": "Ādīgrat"
+        },
         "lat": 14.277,
         "lng": 39.462,
         "country": "ET",

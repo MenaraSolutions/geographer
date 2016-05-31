@@ -1,7 +1,11 @@
 {
     "14256": {
-        "geoid": "14256",
-        "name": "Āzādshahr",
+        "ids": {
+            "geonames": 14256
+        },
+        "long": {
+            "default": "Āzādshahr"
+        },
         "lat": 34.79049,
         "lng": 48.57011,
         "country": "IR",
@@ -9,8 +13,12 @@
         "population": 514102
     },
     "23814": {
-        "geoid": "23814",
-        "name": "Kahrīz",
+        "ids": {
+            "geonames": 23814
+        },
+        "long": {
+            "default": "Kahrīz"
+        },
         "lat": 34.3838,
         "lng": 47.0553,
         "country": "IR",
@@ -18,8 +26,12 @@
         "population": 766706
     },
     "24851": {
-        "geoid": "24851",
-        "name": "Nūrābād",
+        "ids": {
+            "geonames": 24851
+        },
+        "long": {
+            "default": "Nūrābād"
+        },
         "lat": 34.0734,
         "lng": 47.9725,
         "country": "IR",
@@ -27,8 +39,12 @@
         "population": 73528
     },
     "32767": {
-        "geoid": "32767",
-        "name": "Qarchak",
+        "ids": {
+            "geonames": 32767
+        },
+        "long": {
+            "default": "Qarchak"
+        },
         "lat": 35.42867,
         "lng": 51.57544,
         "country": "IR",
@@ -36,8 +52,12 @@
         "population": 251834
     },
     "32909": {
-        "geoid": "32909",
-        "name": "Shahre Jadide Andisheh",
+        "ids": {
+            "geonames": 32909
+        },
+        "long": {
+            "default": "Shahre Jadide Andisheh"
+        },
         "lat": 35.6803,
         "lng": 51.0193,
         "country": "IR",
@@ -45,8 +65,12 @@
         "population": 80000
     },
     "41210": {
-        "geoid": "41210",
-        "name": "Khorramdarreh",
+        "ids": {
+            "geonames": 41210
+        },
+        "long": {
+            "default": "Khorramdarreh"
+        },
         "lat": 36.20898,
         "lng": 49.19152,
         "country": "IR",
@@ -54,8 +78,12 @@
         "population": 50528
     },
     "66093": {
-        "geoid": "66093",
-        "name": "Yasuj",
+        "ids": {
+            "geonames": 66093
+        },
+        "long": {
+            "default": "Yasuj"
+        },
         "lat": 30.66824,
         "lng": 51.58796,
         "country": "IR",
@@ -63,8 +91,12 @@
         "population": 96786
     },
     "111421": {
-        "geoid": "111421",
-        "name": "Zarand",
+        "ids": {
+            "geonames": 111421
+        },
+        "long": {
+            "default": "Zarand"
+        },
         "lat": 30.81271,
         "lng": 56.56399,
         "country": "IR",
@@ -72,8 +104,12 @@
         "population": 58983
     },
     "111453": {
-        "geoid": "111453",
-        "name": "Zanjān",
+        "ids": {
+            "geonames": 111453
+        },
+        "long": {
+            "default": "Zanjān"
+        },
         "lat": 36.6736,
         "lng": 48.4787,
         "country": "IR",
@@ -81,8 +117,12 @@
         "population": 357471
     },
     "111822": {
-        "geoid": "111822",
-        "name": "Yazd",
+        "ids": {
+            "geonames": 111822
+        },
+        "long": {
+            "default": "Yazd"
+        },
         "lat": 31.89722,
         "lng": 54.3675,
         "country": "IR",
@@ -90,8 +130,12 @@
         "population": 477905
     },
     "112214": {
-        "geoid": "112214",
-        "name": "Varāmīn",
+        "ids": {
+            "geonames": 112214
+        },
+        "long": {
+            "default": "Varāmīn"
+        },
         "lat": 35.3242,
         "lng": 51.6457,
         "country": "IR",
@@ -99,8 +143,12 @@
         "population": 179603
     },
     "112646": {
-        "geoid": "112646",
-        "name": "Torbat-e Ḩeydarīyeh",
+        "ids": {
+            "geonames": 112646
+        },
+        "long": {
+            "default": "Torbat-e Ḩeydarīyeh"
+        },
         "lat": 35.27401,
         "lng": 59.21949,
         "country": "IR",
@@ -108,8 +156,12 @@
         "population": 125633
     },
     "112931": {
-        "geoid": "112931",
-        "name": "Tehran",
+        "ids": {
+            "geonames": 112931
+        },
+        "long": {
+            "default": "Tehran"
+        },
         "lat": 35.69439,
         "lng": 51.42151,
         "country": "IR",
@@ -117,8 +169,12 @@
         "population": 7153309
     },
     "113491": {
-        "geoid": "113491",
-        "name": "Tākestān",
+        "ids": {
+            "geonames": 113491
+        },
+        "long": {
+            "default": "Tākestān"
+        },
         "lat": 36.0696,
         "lng": 49.6959,
         "country": "IR",
@@ -126,8 +182,12 @@
         "population": 71499
     },
     "113508": {
-        "geoid": "113508",
-        "name": "Takāb",
+        "ids": {
+            "geonames": 113508
+        },
+        "long": {
+            "default": "Takāb"
+        },
         "lat": 36.4009,
         "lng": 47.1133,
         "country": "IR",
@@ -135,8 +195,12 @@
         "population": 51541
     },
     "113646": {
-        "geoid": "113646",
-        "name": "Tabriz",
+        "ids": {
+            "geonames": 113646
+        },
+        "long": {
+            "default": "Tabriz"
+        },
         "lat": 38.08,
         "lng": 46.2919,
         "country": "IR",
@@ -144,8 +208,12 @@
         "population": 1424641
     },
     "114259": {
-        "geoid": "114259",
-        "name": "Sirjan",
+        "ids": {
+            "geonames": 114259
+        },
+        "long": {
+            "default": "Sirjan"
+        },
         "lat": 29.45137,
         "lng": 55.6809,
         "country": "IR",
@@ -153,8 +221,12 @@
         "population": 207645
     },
     "114584": {
-        "geoid": "114584",
-        "name": "Shūshtar",
+        "ids": {
+            "geonames": 114584
+        },
+        "long": {
+            "default": "Shūshtar"
+        },
         "lat": 32.04972,
         "lng": 48.84843,
         "country": "IR",
@@ -162,8 +234,12 @@
         "population": 77507
     },
     "114593": {
-        "geoid": "114593",
-        "name": "Shūsh",
+        "ids": {
+            "geonames": 114593
+        },
+        "long": {
+            "default": "Shūsh"
+        },
         "lat": 32.1942,
         "lng": 48.2436,
         "country": "IR",
@@ -171,8 +247,12 @@
         "population": 52284
     },
     "114930": {
-        "geoid": "114930",
-        "name": "Shīrvān",
+        "ids": {
+            "geonames": 114930
+        },
+        "long": {
+            "default": "Shīrvān"
+        },
         "lat": 37.39669,
         "lng": 57.92952,
         "country": "IR",
@@ -180,8 +260,12 @@
         "population": 82790
     },
     "115019": {
-        "geoid": "115019",
-        "name": "Shiraz",
+        "ids": {
+            "geonames": 115019
+        },
+        "long": {
+            "default": "Shiraz"
+        },
         "lat": 29.61031,
         "lng": 52.53113,
         "country": "IR",
@@ -189,8 +273,12 @@
         "population": 1249942
     },
     "115770": {
-        "geoid": "115770",
-        "name": "Shahr-e Kord",
+        "ids": {
+            "geonames": 115770
+        },
+        "long": {
+            "default": "Shahr-e Kord"
+        },
         "lat": 32.32556,
         "lng": 50.86444,
         "country": "IR",
@@ -198,8 +286,12 @@
         "population": 129153
     },
     "115781": {
-        "geoid": "115781",
-        "name": "Shahr-e Bābak",
+        "ids": {
+            "geonames": 115781
+        },
+        "long": {
+            "default": "Shahr-e Bābak"
+        },
         "lat": 30.1165,
         "lng": 55.1186,
         "country": "IR",
@@ -207,8 +299,12 @@
         "population": 52409
     },
     "116402": {
-        "geoid": "116402",
-        "name": "Semnān",
+        "ids": {
+            "geonames": 116402
+        },
+        "long": {
+            "default": "Semnān"
+        },
         "lat": 35.57691,
         "lng": 53.39205,
         "country": "IR",
@@ -216,8 +312,12 @@
         "population": 124826
     },
     "116667": {
-        "geoid": "116667",
-        "name": "Sāveh",
+        "ids": {
+            "geonames": 116667
+        },
+        "long": {
+            "default": "Sāveh"
+        },
         "lat": 35.0213,
         "lng": 50.3566,
         "country": "IR",
@@ -225,8 +325,12 @@
         "population": 175533
     },
     "116996": {
-        "geoid": "116996",
-        "name": "Sari",
+        "ids": {
+            "geonames": 116996
+        },
+        "long": {
+            "default": "Sari"
+        },
         "lat": 36.56332,
         "lng": 53.06009,
         "country": "IR",
@@ -234,8 +338,12 @@
         "population": 255396
     },
     "117392": {
-        "geoid": "117392",
-        "name": "Saqqez",
+        "ids": {
+            "geonames": 117392
+        },
+        "long": {
+            "default": "Saqqez"
+        },
         "lat": 36.24992,
         "lng": 46.2735,
         "country": "IR",
@@ -243,8 +351,12 @@
         "population": 151237
     },
     "117574": {
-        "geoid": "117574",
-        "name": "Sanandaj",
+        "ids": {
+            "geonames": 117574
+        },
+        "long": {
+            "default": "Sanandaj"
+        },
         "lat": 35.31495,
         "lng": 46.99883,
         "country": "IR",
@@ -252,8 +364,12 @@
         "population": 349176
     },
     "117656": {
-        "geoid": "117656",
-        "name": "Salmās",
+        "ids": {
+            "geonames": 117656
+        },
+        "long": {
+            "default": "Salmās"
+        },
         "lat": 38.1973,
         "lng": 44.7653,
         "country": "IR",
@@ -261,8 +377,12 @@
         "population": 81606
     },
     "118063": {
-        "geoid": "118063",
-        "name": "Sabzevar",
+        "ids": {
+            "geonames": 118063
+        },
+        "long": {
+            "default": "Sabzevar"
+        },
         "lat": 36.2126,
         "lng": 57.68191,
         "country": "IR",
@@ -270,8 +390,12 @@
         "population": 226183
     },
     "118367": {
-        "geoid": "118367",
-        "name": "Robāţ Karīm",
+        "ids": {
+            "geonames": 118367
+        },
+        "long": {
+            "default": "Robāţ Karīm"
+        },
         "lat": 35.4846,
         "lng": 51.0829,
         "country": "IR",
@@ -279,8 +403,12 @@
         "population": 62753
     },
     "118743": {
-        "geoid": "118743",
-        "name": "Rasht",
+        "ids": {
+            "geonames": 118743
+        },
+        "long": {
+            "default": "Rasht"
+        },
         "lat": 37.27611,
         "lng": 49.58862,
         "country": "IR",
@@ -288,8 +416,12 @@
         "population": 594590
     },
     "118994": {
-        "geoid": "118994",
-        "name": "Rafsanjān",
+        "ids": {
+            "geonames": 118994
+        },
+        "long": {
+            "default": "Rafsanjān"
+        },
         "lat": 30.4067,
         "lng": 55.9939,
         "country": "IR",
@@ -297,8 +429,12 @@
         "population": 147680
     },
     "119115": {
-        "geoid": "119115",
-        "name": "Qūchān",
+        "ids": {
+            "geonames": 119115
+        },
+        "long": {
+            "default": "Qūchān"
+        },
         "lat": 37.106,
         "lng": 58.50955,
         "country": "IR",
@@ -306,8 +442,12 @@
         "population": 111752
     },
     "119161": {
-        "geoid": "119161",
-        "name": "Qorveh",
+        "ids": {
+            "geonames": 119161
+        },
+        "long": {
+            "default": "Qorveh"
+        },
         "lat": 35.1664,
         "lng": 47.8045,
         "country": "IR",
@@ -315,8 +455,12 @@
         "population": 87953
     },
     "119208": {
-        "geoid": "119208",
-        "name": "Qom",
+        "ids": {
+            "geonames": 119208
+        },
+        "long": {
+            "default": "Qom"
+        },
         "lat": 34.6401,
         "lng": 50.8764,
         "country": "IR",
@@ -324,8 +468,12 @@
         "population": 900000
     },
     "119505": {
-        "geoid": "119505",
-        "name": "Qazvin",
+        "ids": {
+            "geonames": 119505
+        },
+        "long": {
+            "default": "Qazvin"
+        },
         "lat": 36.26877,
         "lng": 50.0041,
         "country": "IR",
@@ -333,8 +481,12 @@
         "population": 333635
     },
     "120931": {
-        "geoid": "120931",
-        "name": "Sarpol-e Z̄ahāb",
+        "ids": {
+            "geonames": 120931
+        },
+        "long": {
+            "default": "Sarpol-e Z̄ahāb"
+        },
         "lat": 34.46109,
         "lng": 45.86264,
         "country": "IR",
@@ -342,8 +494,12 @@
         "population": 51611
     },
     "120972": {
-        "geoid": "120972",
-        "name": "Pīshvā",
+        "ids": {
+            "geonames": 120972
+        },
+        "long": {
+            "default": "Pīshvā"
+        },
         "lat": 35.308,
         "lng": 51.7267,
         "country": "IR",
@@ -351,8 +507,12 @@
         "population": 53856
     },
     "121110": {
-        "geoid": "121110",
-        "name": "Piranshahr",
+        "ids": {
+            "geonames": 121110
+        },
+        "long": {
+            "default": "Piranshahr"
+        },
         "lat": 36.701,
         "lng": 45.1413,
         "country": "IR",
@@ -360,8 +520,12 @@
         "population": 61973
     },
     "121380": {
-        "geoid": "121380",
-        "name": "Pārsābād",
+        "ids": {
+            "geonames": 121380
+        },
+        "long": {
+            "default": "Pārsābād"
+        },
         "lat": 39.6482,
         "lng": 47.9174,
         "country": "IR",
@@ -369,8 +533,12 @@
         "population": 101661
     },
     "121795": {
-        "geoid": "121795",
-        "name": "Oshnavīyeh",
+        "ids": {
+            "geonames": 121795
+        },
+        "long": {
+            "default": "Oshnavīyeh"
+        },
         "lat": 37.0397,
         "lng": 45.0983,
         "country": "IR",
@@ -378,8 +546,12 @@
         "population": 50661
     },
     "121801": {
-        "geoid": "121801",
-        "name": "Orūmīyeh",
+        "ids": {
+            "geonames": 121801
+        },
+        "long": {
+            "default": "Orūmīyeh"
+        },
         "lat": 37.55274,
         "lng": 45.07605,
         "country": "IR",
@@ -387,8 +559,12 @@
         "population": 577307
     },
     "121925": {
-        "geoid": "121925",
-        "name": "Nūrābād",
+        "ids": {
+            "geonames": 121925
+        },
+        "long": {
+            "default": "Nūrābād"
+        },
         "lat": 30.11405,
         "lng": 51.52174,
         "country": "IR",
@@ -396,8 +572,12 @@
         "population": 64041
     },
     "122285": {
-        "geoid": "122285",
-        "name": "Nīshābūr",
+        "ids": {
+            "geonames": 122285
+        },
+        "long": {
+            "default": "Nīshābūr"
+        },
         "lat": 36.21329,
         "lng": 58.79575,
         "country": "IR",
@@ -405,8 +585,12 @@
         "population": 220929
     },
     "122438": {
-        "geoid": "122438",
-        "name": "Naz̧arābād",
+        "ids": {
+            "geonames": 122438
+        },
+        "long": {
+            "default": "Naz̧arābād"
+        },
         "lat": 35.95411,
         "lng": 50.60607,
         "country": "IR",
@@ -414,8 +598,12 @@
         "population": 213388
     },
     "122698": {
-        "geoid": "122698",
-        "name": "Naqadeh",
+        "ids": {
+            "geonames": 122698
+        },
+        "long": {
+            "default": "Naqadeh"
+        },
         "lat": 36.9553,
         "lng": 45.388,
         "country": "IR",
@@ -423,8 +611,12 @@
         "population": 73528
     },
     "122915": {
-        "geoid": "122915",
-        "name": "Nahāvand",
+        "ids": {
+            "geonames": 122915
+        },
+        "long": {
+            "default": "Nahāvand"
+        },
         "lat": 34.1885,
         "lng": 48.377,
         "country": "IR",
@@ -432,8 +624,12 @@
         "population": 76250
     },
     "123941": {
-        "geoid": "123941",
-        "name": "Mīnāb",
+        "ids": {
+            "geonames": 123941
+        },
+        "long": {
+            "default": "Mīnāb"
+        },
         "lat": 27.13104,
         "lng": 57.08716,
         "country": "IR",
@@ -441,8 +637,12 @@
         "population": 70790
     },
     "124085": {
-        "geoid": "124085",
-        "name": "Mīāndoāb",
+        "ids": {
+            "geonames": 124085
+        },
+        "long": {
+            "default": "Mīāndoāb"
+        },
         "lat": 36.96667,
         "lng": 46.10961,
         "country": "IR",
@@ -450,8 +650,12 @@
         "population": 132819
     },
     "124193": {
-        "geoid": "124193",
-        "name": "Meybod",
+        "ids": {
+            "geonames": 124193
+        },
+        "long": {
+            "default": "Meybod"
+        },
         "lat": 32.25014,
         "lng": 54.01658,
         "country": "IR",
@@ -459,8 +663,12 @@
         "population": 51874
     },
     "124620": {
-        "geoid": "124620",
-        "name": "Masjed Soleymān",
+        "ids": {
+            "geonames": 124620
+        },
+        "long": {
+            "default": "Masjed Soleymān"
+        },
         "lat": 31.9364,
         "lng": 49.3039,
         "country": "IR",
@@ -468,8 +676,12 @@
         "population": 111510
     },
     "124665": {
-        "geoid": "124665",
-        "name": "Mashhad",
+        "ids": {
+            "geonames": 124665
+        },
+        "long": {
+            "default": "Mashhad"
+        },
         "lat": 36.31559,
         "lng": 59.56796,
         "country": "IR",
@@ -477,8 +689,12 @@
         "population": 2307177
     },
     "124862": {
-        "geoid": "124862",
-        "name": "Marand",
+        "ids": {
+            "geonames": 124862
+        },
+        "long": {
+            "default": "Marand"
+        },
         "lat": 38.4329,
         "lng": 45.7749,
         "country": "IR",
@@ -486,8 +702,12 @@
         "population": 124191
     },
     "125185": {
-        "geoid": "125185",
-        "name": "Malāyer",
+        "ids": {
+            "geonames": 125185
+        },
+        "long": {
+            "default": "Malāyer"
+        },
         "lat": 34.2969,
         "lng": 48.8235,
         "country": "IR",
@@ -495,8 +715,12 @@
         "population": 176573
     },
     "125188": {
-        "geoid": "125188",
-        "name": "Malārd",
+        "ids": {
+            "geonames": 125188
+        },
+        "long": {
+            "default": "Malārd"
+        },
         "lat": 35.6659,
         "lng": 50.9767,
         "country": "IR",
@@ -504,8 +728,12 @@
         "population": 56745
     },
     "125446": {
-        "geoid": "125446",
-        "name": "Mahābād",
+        "ids": {
+            "geonames": 125446
+        },
+        "long": {
+            "default": "Mahābād"
+        },
         "lat": 36.7631,
         "lng": 45.7222,
         "country": "IR",
@@ -513,8 +741,12 @@
         "population": 162434
     },
     "125897": {
-        "geoid": "125897",
-        "name": "Langarūd",
+        "ids": {
+            "geonames": 125897
+        },
+        "long": {
+            "default": "Langarūd"
+        },
         "lat": 37.19701,
         "lng": 50.15351,
         "country": "IR",
@@ -522,8 +754,12 @@
         "population": 68148
     },
     "126409": {
-        "geoid": "126409",
-        "name": "Kūhdasht",
+        "ids": {
+            "geonames": 126409
+        },
+        "long": {
+            "default": "Kūhdasht"
+        },
         "lat": 33.53335,
         "lng": 47.60999,
         "country": "IR",
@@ -531,8 +767,12 @@
         "population": 100208
     },
     "126972": {
-        "geoid": "126972",
-        "name": "Khvoy",
+        "ids": {
+            "geonames": 126972
+        },
+        "long": {
+            "default": "Khvoy"
+        },
         "lat": 38.5503,
         "lng": 44.9521,
         "country": "IR",
@@ -540,8 +780,12 @@
         "population": 175370
     },
     "127319": {
-        "geoid": "127319",
-        "name": "Khorramshahr",
+        "ids": {
+            "geonames": 127319
+        },
+        "long": {
+            "default": "Khorramshahr"
+        },
         "lat": 30.44079,
         "lng": 48.18428,
         "country": "IR",
@@ -549,8 +793,12 @@
         "population": 330606
     },
     "127349": {
-        "geoid": "127349",
-        "name": "Khorramabad",
+        "ids": {
+            "geonames": 127349
+        },
+        "long": {
+            "default": "Khorramabad"
+        },
         "lat": 33.48778,
         "lng": 48.35583,
         "country": "IR",
@@ -558,8 +806,12 @@
         "population": 329825
     },
     "127403": {
-        "geoid": "127403",
-        "name": "Khomeyn",
+        "ids": {
+            "geonames": 127403
+        },
+        "long": {
+            "default": "Khomeyn"
+        },
         "lat": 33.64225,
         "lng": 50.0789,
         "country": "IR",
@@ -567,8 +819,12 @@
         "population": 77425
     },
     "128008": {
-        "geoid": "128008",
-        "name": "Khalkhāl",
+        "ids": {
+            "geonames": 128008
+        },
+        "long": {
+            "default": "Khalkhāl"
+        },
         "lat": 37.6189,
         "lng": 48.5258,
         "country": "IR",
@@ -576,8 +832,12 @@
         "population": 51024
     },
     "128226": {
-        "geoid": "128226",
-        "name": "Kermānshāh",
+        "ids": {
+            "geonames": 128226
+        },
+        "long": {
+            "default": "Kermānshāh"
+        },
         "lat": 34.31417,
         "lng": 47.065,
         "country": "IR",
@@ -585,8 +845,12 @@
         "population": 621100
     },
     "128234": {
-        "geoid": "128234",
-        "name": "Kerman",
+        "ids": {
+            "geonames": 128234
+        },
+        "long": {
+            "default": "Kerman"
+        },
         "lat": 30.28321,
         "lng": 57.07879,
         "country": "IR",
@@ -594,8 +858,12 @@
         "population": 577514
     },
     "128321": {
-        "geoid": "128321",
-        "name": "Kāzerūn",
+        "ids": {
+            "geonames": 128321
+        },
+        "long": {
+            "default": "Kāzerūn"
+        },
         "lat": 29.61949,
         "lng": 51.65415,
         "country": "IR",
@@ -603,8 +871,12 @@
         "population": 94511
     },
     "128447": {
-        "geoid": "128447",
-        "name": "Kāshmar",
+        "ids": {
+            "geonames": 128447
+        },
+        "long": {
+            "default": "Kāshmar"
+        },
         "lat": 35.23831,
         "lng": 58.46558,
         "country": "IR",
@@ -612,8 +884,12 @@
         "population": 96151
     },
     "128477": {
-        "geoid": "128477",
-        "name": "Kāshān",
+        "ids": {
+            "geonames": 128477
+        },
+        "long": {
+            "default": "Kāshān"
+        },
         "lat": 33.98308,
         "lng": 51.43644,
         "country": "IR",
@@ -621,8 +897,12 @@
         "population": 272359
     },
     "128747": {
-        "geoid": "128747",
-        "name": "Karaj",
+        "ids": {
+            "geonames": 128747
+        },
+        "long": {
+            "default": "Karaj"
+        },
         "lat": 35.83266,
         "lng": 50.99155,
         "country": "IR",
@@ -630,8 +910,12 @@
         "population": 1448075
     },
     "128831": {
-        "geoid": "128831",
-        "name": "Kangāvar",
+        "ids": {
+            "geonames": 128831
+        },
+        "long": {
+            "default": "Kangāvar"
+        },
         "lat": 34.5043,
         "lng": 47.9653,
         "country": "IR",
@@ -639,8 +923,12 @@
         "population": 53414
     },
     "128905": {
-        "geoid": "128905",
-        "name": "Kāmyārān",
+        "ids": {
+            "geonames": 128905
+        },
+        "long": {
+            "default": "Kāmyārān"
+        },
         "lat": 34.7956,
         "lng": 46.9355,
         "country": "IR",
@@ -648,8 +936,12 @@
         "population": 61642
     },
     "130802": {
-        "geoid": "130802",
-        "name": "Īlām",
+        "ids": {
+            "geonames": 130802
+        },
+        "long": {
+            "default": "Īlām"
+        },
         "lat": 33.6374,
         "lng": 46.4227,
         "country": "IR",
@@ -657,8 +949,12 @@
         "population": 140940
     },
     "131962": {
-        "geoid": "131962",
-        "name": "Harsīn",
+        "ids": {
+            "geonames": 131962
+        },
+        "long": {
+            "default": "Harsīn"
+        },
         "lat": 34.2721,
         "lng": 47.5861,
         "country": "IR",
@@ -666,8 +962,12 @@
         "population": 57647
     },
     "132144": {
-        "geoid": "132144",
-        "name": "Hamadān",
+        "ids": {
+            "geonames": 132144
+        },
+        "long": {
+            "default": "Hamadān"
+        },
         "lat": 34.79922,
         "lng": 48.51456,
         "country": "IR",
@@ -675,8 +975,12 @@
         "population": 528256
     },
     "132892": {
-        "geoid": "132892",
-        "name": "Gorgān",
+        "ids": {
+            "geonames": 132892
+        },
+        "long": {
+            "default": "Gorgān"
+        },
         "lat": 36.8427,
         "lng": 54.44391,
         "country": "IR",
@@ -684,8 +988,12 @@
         "population": 244937
     },
     "132938": {
-        "geoid": "132938",
-        "name": "Gonbad-e Kāvūs",
+        "ids": {
+            "geonames": 132938
+        },
+        "long": {
+            "default": "Gonbad-e Kāvūs"
+        },
         "lat": 37.25004,
         "lng": 55.16721,
         "country": "IR",
@@ -693,8 +1001,12 @@
         "population": 131416
     },
     "134217": {
-        "geoid": "134217",
-        "name": "Bandar-e Ganāveh",
+        "ids": {
+            "geonames": 134217
+        },
+        "long": {
+            "default": "Bandar-e Ganāveh"
+        },
         "lat": 29.5791,
         "lng": 50.517,
         "country": "IR",
@@ -702,8 +1014,12 @@
         "population": 52750
     },
     "134518": {
-        "geoid": "134518",
-        "name": "Fīrūzābād",
+        "ids": {
+            "geonames": 134518
+        },
+        "long": {
+            "default": "Fīrūzābād"
+        },
         "lat": 28.8438,
         "lng": 52.5707,
         "country": "IR",
@@ -711,8 +1027,12 @@
         "population": 66558
     },
     "134721": {
-        "geoid": "134721",
-        "name": "Fasā",
+        "ids": {
+            "geonames": 134721
+        },
+        "long": {
+            "default": "Fasā"
+        },
         "lat": 28.9383,
         "lng": 53.6482,
         "country": "IR",
@@ -720,8 +1040,12 @@
         "population": 98061
     },
     "135298": {
-        "geoid": "135298",
-        "name": "Esfarāyen",
+        "ids": {
+            "geonames": 135298
+        },
+        "long": {
+            "default": "Esfarāyen"
+        },
         "lat": 37.07645,
         "lng": 57.51009,
         "country": "IR",
@@ -729,8 +1053,12 @@
         "population": 59678
     },
     "135423": {
-        "geoid": "135423",
-        "name": "Shahrud",
+        "ids": {
+            "geonames": 135423
+        },
+        "long": {
+            "default": "Shahrud"
+        },
         "lat": 36.41819,
         "lng": 54.97628,
         "country": "IR",
@@ -738,8 +1066,12 @@
         "population": 131889
     },
     "136014": {
-        "geoid": "136014",
-        "name": "Dogonbadan",
+        "ids": {
+            "geonames": 136014
+        },
+        "long": {
+            "default": "Dogonbadan"
+        },
         "lat": 30.3586,
         "lng": 50.7981,
         "country": "IR",
@@ -747,8 +1079,12 @@
         "population": 94638
     },
     "136987": {
-        "geoid": "136987",
-        "name": "Dehdasht",
+        "ids": {
+            "geonames": 136987
+        },
+        "long": {
+            "default": "Dehdasht"
+        },
         "lat": 30.7949,
         "lng": 50.56457,
         "country": "IR",
@@ -756,8 +1092,12 @@
         "population": 69726
     },
     "137956": {
-        "geoid": "137956",
-        "name": "Dārāb",
+        "ids": {
+            "geonames": 137956
+        },
+        "long": {
+            "default": "Dārāb"
+        },
         "lat": 28.75194,
         "lng": 54.54444,
         "country": "IR",
@@ -765,8 +1105,12 @@
         "population": 63319
     },
     "138025": {
-        "geoid": "138025",
-        "name": "Dāmghān",
+        "ids": {
+            "geonames": 138025
+        },
+        "long": {
+            "default": "Dāmghān"
+        },
         "lat": 36.1679,
         "lng": 54.34292,
         "country": "IR",
@@ -774,8 +1118,12 @@
         "population": 67694
     },
     "139223": {
-        "geoid": "139223",
-        "name": "Chālūs",
+        "ids": {
+            "geonames": 139223
+        },
+        "long": {
+            "default": "Chālūs"
+        },
         "lat": 36.655,
         "lng": 51.4204,
         "country": "IR",
@@ -783,8 +1131,12 @@
         "population": 69638
     },
     "139817": {
-        "geoid": "139817",
-        "name": "Bandar-e Būshehr",
+        "ids": {
+            "geonames": 139817
+        },
+        "long": {
+            "default": "Bandar-e Būshehr"
+        },
         "lat": 28.9684,
         "lng": 50.8385,
         "country": "IR",
@@ -792,8 +1144,12 @@
         "population": 165377
     },
     "139889": {
-        "geoid": "139889",
-        "name": "Būkān",
+        "ids": {
+            "geonames": 139889
+        },
+        "long": {
+            "default": "Būkān"
+        },
         "lat": 36.521,
         "lng": 46.2089,
         "country": "IR",
@@ -801,8 +1157,12 @@
         "population": 213331
     },
     "140044": {
-        "geoid": "140044",
-        "name": "Borūjerd",
+        "ids": {
+            "geonames": 140044
+        },
+        "long": {
+            "default": "Borūjerd"
+        },
         "lat": 33.8973,
         "lng": 48.7516,
         "country": "IR",
@@ -810,8 +1170,12 @@
         "population": 251958
     },
     "140046": {
-        "geoid": "140046",
-        "name": "Borūjen",
+        "ids": {
+            "geonames": 140046
+        },
+        "long": {
+            "default": "Borūjen"
+        },
         "lat": 31.96523,
         "lng": 51.2873,
         "country": "IR",
@@ -819,8 +1183,12 @@
         "population": 52654
     },
     "140097": {
-        "geoid": "140097",
-        "name": "Borāzjān",
+        "ids": {
+            "geonames": 140097
+        },
+        "long": {
+            "default": "Borāzjān"
+        },
         "lat": 29.2699,
         "lng": 51.2188,
         "country": "IR",
@@ -828,8 +1196,12 @@
         "population": 86059
     },
     "140380": {
-        "geoid": "140380",
-        "name": "Bojnūrd",
+        "ids": {
+            "geonames": 140380
+        },
+        "long": {
+            "default": "Bojnūrd"
+        },
         "lat": 37.47473,
         "lng": 57.32903,
         "country": "IR",
@@ -837,8 +1209,12 @@
         "population": 192041
     },
     "140463": {
-        "geoid": "140463",
-        "name": "Bīrjand",
+        "ids": {
+            "geonames": 140463
+        },
+        "long": {
+            "default": "Bīrjand"
+        },
         "lat": 32.86628,
         "lng": 59.22114,
         "country": "IR",
@@ -846,8 +1222,12 @@
         "population": 196982
     },
     "140521": {
-        "geoid": "140521",
-        "name": "Bījār",
+        "ids": {
+            "geonames": 140521
+        },
+        "long": {
+            "default": "Bījār"
+        },
         "lat": 35.8668,
         "lng": 47.60506,
         "country": "IR",
@@ -855,8 +1235,12 @@
         "population": 53871
     },
     "140889": {
-        "geoid": "140889",
-        "name": "Bonāb",
+        "ids": {
+            "geonames": 140889
+        },
+        "long": {
+            "default": "Bonāb"
+        },
         "lat": 37.3404,
         "lng": 46.0561,
         "country": "IR",
@@ -864,8 +1248,12 @@
         "population": 80359
     },
     "140918": {
-        "geoid": "140918",
-        "name": "Behshahr",
+        "ids": {
+            "geonames": 140918
+        },
+        "long": {
+            "default": "Behshahr"
+        },
         "lat": 36.69235,
         "lng": 53.55262,
         "country": "IR",
@@ -873,8 +1261,12 @@
         "population": 93500
     },
     "140951": {
-        "geoid": "140951",
-        "name": "Behbahān",
+        "ids": {
+            "geonames": 140951
+        },
+        "long": {
+            "default": "Behbahān"
+        },
         "lat": 30.5959,
         "lng": 50.2417,
         "country": "IR",
@@ -882,8 +1274,12 @@
         "population": 79327
     },
     "141584": {
-        "geoid": "141584",
-        "name": "Bāneh",
+        "ids": {
+            "geonames": 141584
+        },
+        "long": {
+            "default": "Bāneh"
+        },
         "lat": 35.9975,
         "lng": 45.8853,
         "country": "IR",
@@ -891,8 +1287,12 @@
         "population": 104799
     },
     "141679": {
-        "geoid": "141679",
-        "name": "Bandar-e Anzalī",
+        "ids": {
+            "geonames": 141679
+        },
+        "long": {
+            "default": "Bandar-e Anzalī"
+        },
         "lat": 37.47318,
         "lng": 49.45785,
         "country": "IR",
@@ -900,8 +1300,12 @@
         "population": 110826
     },
     "141681": {
-        "geoid": "141681",
-        "name": "Bandar Abbas",
+        "ids": {
+            "geonames": 141681
+        },
+        "long": {
+            "default": "Bandar Abbas"
+        },
         "lat": 27.1865,
         "lng": 56.2808,
         "country": "IR",
@@ -909,8 +1313,12 @@
         "population": 352173
     },
     "141736": {
-        "geoid": "141736",
-        "name": "Bam",
+        "ids": {
+            "geonames": 141736
+        },
+        "long": {
+            "default": "Bam"
+        },
         "lat": 29.106,
         "lng": 58.357,
         "country": "IR",
@@ -918,8 +1326,12 @@
         "population": 99268
     },
     "142363": {
-        "geoid": "142363",
-        "name": "Bābol",
+        "ids": {
+            "geonames": 142363
+        },
+        "long": {
+            "default": "Bābol"
+        },
         "lat": 36.55132,
         "lng": 52.67895,
         "country": "IR",
@@ -927,8 +1339,12 @@
         "population": 202796
     },
     "142872": {
-        "geoid": "142872",
-        "name": "Asadābād",
+        "ids": {
+            "geonames": 142872
+        },
+        "long": {
+            "default": "Asadābād"
+        },
         "lat": 34.78241,
         "lng": 48.11853,
         "country": "IR",
@@ -936,8 +1352,12 @@
         "population": 59617
     },
     "143073": {
-        "geoid": "143073",
-        "name": "Ardakān",
+        "ids": {
+            "geonames": 143073
+        },
+        "long": {
+            "default": "Ardakān"
+        },
         "lat": 32.31001,
         "lng": 54.01747,
         "country": "IR",
@@ -945,8 +1365,12 @@
         "population": 58834
     },
     "143083": {
-        "geoid": "143083",
-        "name": "Ardabīl",
+        "ids": {
+            "geonames": 143083
+        },
+        "long": {
+            "default": "Ardabīl"
+        },
         "lat": 38.2498,
         "lng": 48.2933,
         "country": "IR",
@@ -954,8 +1378,12 @@
         "population": 410753
     },
     "143127": {
-        "geoid": "143127",
-        "name": "Arāk",
+        "ids": {
+            "geonames": 143127
+        },
+        "long": {
+            "default": "Arāk"
+        },
         "lat": 34.09174,
         "lng": 49.68916,
         "country": "IR",
@@ -963,8 +1391,12 @@
         "population": 503647
     },
     "143534": {
-        "geoid": "143534",
-        "name": "Āmol",
+        "ids": {
+            "geonames": 143534
+        },
+        "long": {
+            "default": "Āmol"
+        },
         "lat": 36.46961,
         "lng": 52.35072,
         "country": "IR",
@@ -972,8 +1404,12 @@
         "population": 199382
     },
     "143748": {
-        "geoid": "143748",
-        "name": "Alvand",
+        "ids": {
+            "geonames": 143748
+        },
+        "long": {
+            "default": "Alvand"
+        },
         "lat": 36.3187,
         "lng": 49.1678,
         "country": "IR",
@@ -981,8 +1417,12 @@
         "population": 74889
     },
     "143860": {
-        "geoid": "143860",
-        "name": "Shahrīār",
+        "ids": {
+            "geonames": 143860
+        },
+        "long": {
+            "default": "Shahrīār"
+        },
         "lat": 35.65884,
         "lng": 51.05775,
         "country": "IR",
@@ -990,8 +1430,12 @@
         "population": 58849
     },
     "143921": {
-        "geoid": "143921",
-        "name": "Alīgūdarz",
+        "ids": {
+            "geonames": 143921
+        },
+        "long": {
+            "default": "Alīgūdarz"
+        },
         "lat": 33.40063,
         "lng": 49.6949,
         "country": "IR",
@@ -999,8 +1443,12 @@
         "population": 91041
     },
     "144410": {
-        "geoid": "144410",
-        "name": "Akbarābād",
+        "ids": {
+            "geonames": 144410
+        },
+        "long": {
+            "default": "Akbarābād"
+        },
         "lat": 29.2464,
         "lng": 52.7793,
         "country": "IR",
@@ -1008,8 +1456,12 @@
         "population": 98342
     },
     "144448": {
-        "geoid": "144448",
-        "name": "Ahvaz",
+        "ids": {
+            "geonames": 144448
+        },
+        "long": {
+            "default": "Ahvaz"
+        },
         "lat": 31.31901,
         "lng": 48.6842,
         "country": "IR",
@@ -1017,8 +1469,12 @@
         "population": 841145
     },
     "144616": {
-        "geoid": "144616",
-        "name": "Ahar",
+        "ids": {
+            "geonames": 144616
+        },
+        "long": {
+            "default": "Ahar"
+        },
         "lat": 38.4774,
         "lng": 47.0699,
         "country": "IR",
@@ -1026,8 +1482,12 @@
         "population": 94348
     },
     "144794": {
-        "geoid": "144794",
-        "name": "Ābyek",
+        "ids": {
+            "geonames": 144794
+        },
+        "long": {
+            "default": "Ābyek"
+        },
         "lat": 36.06667,
         "lng": 50.55,
         "country": "IR",
@@ -1035,8 +1495,12 @@
         "population": 55128
     },
     "145034": {
-        "geoid": "145034",
-        "name": "Abhar",
+        "ids": {
+            "geonames": 145034
+        },
+        "long": {
+            "default": "Abhar"
+        },
         "lat": 36.1468,
         "lng": 49.218,
         "country": "IR",
@@ -1044,8 +1508,12 @@
         "population": 69889
     },
     "145449": {
-        "geoid": "145449",
-        "name": "Ābādeh",
+        "ids": {
+            "geonames": 145449
+        },
+        "long": {
+            "default": "Ābādeh"
+        },
         "lat": 31.1608,
         "lng": 52.6506,
         "country": "IR",
@@ -1053,8 +1521,12 @@
         "population": 56988
     },
     "145459": {
-        "geoid": "145459",
-        "name": "Abadan",
+        "ids": {
+            "geonames": 145459
+        },
+        "long": {
+            "default": "Abadan"
+        },
         "lat": 30.3392,
         "lng": 48.3043,
         "country": "IR",
@@ -1062,8 +1534,12 @@
         "population": 370180
     },
     "417594": {
-        "geoid": "417594",
-        "name": "Shāhreẕā",
+        "ids": {
+            "geonames": 417594
+        },
+        "long": {
+            "default": "Shāhreẕā"
+        },
         "lat": 32.03389,
         "lng": 51.87944,
         "country": "IR",
@@ -1071,8 +1547,12 @@
         "population": 100790
     },
     "418606": {
-        "geoid": "418606",
-        "name": "Najafābād",
+        "ids": {
+            "geonames": 418606
+        },
+        "long": {
+            "default": "Najafābād"
+        },
         "lat": 32.6344,
         "lng": 51.3668,
         "country": "IR",
@@ -1080,8 +1560,12 @@
         "population": 223450
     },
     "418710": {
-        "geoid": "418710",
-        "name": "Khomeynī Shahr",
+        "ids": {
+            "geonames": 418710
+        },
+        "long": {
+            "default": "Khomeynī Shahr"
+        },
         "lat": 32.6856,
         "lng": 51.53609,
         "country": "IR",
@@ -1089,8 +1573,12 @@
         "population": 277334
     },
     "418863": {
-        "geoid": "418863",
-        "name": "Isfahan",
+        "ids": {
+            "geonames": 418863
+        },
+        "long": {
+            "default": "Isfahan"
+        },
         "lat": 32.65246,
         "lng": 51.67462,
         "country": "IR",
@@ -1098,8 +1586,12 @@
         "population": 1547164
     },
     "1113217": {
-        "geoid": "1113217",
-        "name": "Zābol",
+        "ids": {
+            "geonames": 1113217
+        },
+        "long": {
+            "default": "Zābol"
+        },
         "lat": 31.0306,
         "lng": 61.4949,
         "country": "IR",
@@ -1107,8 +1599,12 @@
         "population": 121989
     },
     "1159301": {
-        "geoid": "1159301",
-        "name": "Zahedan",
+        "ids": {
+            "geonames": 1159301
+        },
+        "long": {
+            "default": "Zahedan"
+        },
         "lat": 29.4963,
         "lng": 60.8629,
         "country": "IR",
@@ -1116,8 +1612,12 @@
         "population": 551980
     },
     "1159362": {
-        "geoid": "1159362",
-        "name": "Torbat-e Jām",
+        "ids": {
+            "geonames": 1159362
+        },
+        "long": {
+            "default": "Torbat-e Jām"
+        },
         "lat": 35.244,
         "lng": 60.6225,
         "country": "IR",
@@ -1125,8 +1625,12 @@
         "population": 58928
     },
     "1160571": {
-        "geoid": "1160571",
-        "name": "Khāsh",
+        "ids": {
+            "geonames": 1160571
+        },
+        "long": {
+            "default": "Khāsh"
+        },
         "lat": 28.22107,
         "lng": 61.21582,
         "country": "IR",
@@ -1134,8 +1638,12 @@
         "population": 69603
     },
     "1160939": {
-        "geoid": "1160939",
-        "name": "Īrānshahr",
+        "ids": {
+            "geonames": 1160939
+        },
+        "long": {
+            "default": "Īrānshahr"
+        },
         "lat": 27.20245,
         "lng": 60.68476,
         "country": "IR",
@@ -1143,8 +1651,12 @@
         "population": 131232
     },
     "10630176": {
-        "geoid": "10630176",
-        "name": "Pasragad Branch",
+        "ids": {
+            "geonames": 10630176
+        },
+        "long": {
+            "default": "Pasragad Branch"
+        },
         "lat": 34.77772,
         "lng": 48.47168,
         "country": "IR",

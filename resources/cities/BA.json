@@ -1,7 +1,11 @@
 {
     "3186573": {
-        "geoid": "3186573",
-        "name": "Zenica",
+        "ids": {
+            "geonames": 3186573
+        },
+        "long": {
+            "default": "Zenica"
+        },
         "lat": 44.20169,
         "lng": 17.90397,
         "country": "BA",
@@ -9,8 +13,12 @@
         "population": 164423
     },
     "3188582": {
-        "geoid": "3188582",
-        "name": "Tuzla",
+        "ids": {
+            "geonames": 3188582
+        },
+        "long": {
+            "default": "Tuzla"
+        },
         "lat": 44.53842,
         "lng": 18.66709,
         "country": "BA",
@@ -18,8 +26,12 @@
         "population": 142486
     },
     "3191281": {
-        "geoid": "3191281",
-        "name": "Sarajevo",
+        "ids": {
+            "geonames": 3191281
+        },
+        "long": {
+            "default": "Sarajevo"
+        },
         "lat": 43.84864,
         "lng": 18.35644,
         "country": "BA",
@@ -27,8 +39,12 @@
         "population": 696731
     },
     "3194828": {
-        "geoid": "3194828",
-        "name": "Mostar",
+        "ids": {
+            "geonames": 3194828
+        },
+        "long": {
+            "default": "Mostar"
+        },
         "lat": 43.34333,
         "lng": 17.80806,
         "country": "BA",
@@ -36,8 +52,12 @@
         "population": 104518
     },
     "3204222": {
-        "geoid": "3204222",
-        "name": "Bihać",
+        "ids": {
+            "geonames": 3204222
+        },
+        "long": {
+            "default": "Bihać"
+        },
         "lat": 44.81694,
         "lng": 15.87083,
         "country": "BA",
@@ -45,8 +65,12 @@
         "population": 75641
     },
     "3204541": {
-        "geoid": "3204541",
-        "name": "Banja Luka",
+        "ids": {
+            "geonames": 3204541
+        },
+        "long": {
+            "default": "Banja Luka"
+        },
         "lat": 44.77583,
         "lng": 17.18556,
         "country": "BA",

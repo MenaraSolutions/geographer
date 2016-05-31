@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 2134739
         },
-        "names": {
-            "long": "Tafea"
+        "long": {
+            "default": "Tafea"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "13",
             "geonames": 2134898
         },
-        "names": {
-            "long": "Sanma"
+        "long": {
+            "default": "Sanma"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 2137421
         },
-        "names": {
-            "long": "Torba"
+        "long": {
+            "default": "Torba"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "16",
             "geonames": 2208265
         },
-        "names": {
-            "long": "Malampa"
+        "long": {
+            "default": "Malampa"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "17",
             "geonames": 2208266
         },
-        "names": {
-            "long": "Penama"
+        "long": {
+            "default": "Penama"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "18",
             "geonames": 2208267
         },
-        "names": {
-            "long": "Shefa"
+        "long": {
+            "default": "Shefa"
         }
     }
 ]

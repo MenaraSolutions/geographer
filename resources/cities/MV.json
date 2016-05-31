@@ -1,7 +1,11 @@
 {
     "1282027": {
-        "geoid": "1282027",
-        "name": "Male",
+        "ids": {
+            "geonames": 1282027
+        },
+        "long": {
+            "default": "Male"
+        },
         "lat": 4.1748,
         "lng": 73.50888,
         "country": "MV",

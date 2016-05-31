@@ -4,8 +4,8 @@
             "fips": "09",
             "geonames": 2294076
         },
-        "names": {
-            "long": "Western"
+        "long": {
+            "default": "Western"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "08",
             "geonames": 2294234
         },
-        "names": {
-            "long": "Volta"
+        "long": {
+            "default": "Volta"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "11",
             "geonames": 2294286
         },
-        "names": {
-            "long": "Upper West"
+        "long": {
+            "default": "Upper West"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "10",
             "geonames": 2294291
         },
-        "names": {
-            "long": "Upper East"
+        "long": {
+            "default": "Upper East"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 2297169
         },
-        "names": {
-            "long": "Northern"
+        "long": {
+            "default": "Northern"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 2300569
         },
-        "names": {
-            "long": "Greater Accra"
+        "long": {
+            "default": "Greater Accra"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 2301360
         },
-        "names": {
-            "long": "Eastern"
+        "long": {
+            "default": "Eastern"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 2302353
         },
-        "names": {
-            "long": "Central"
+        "long": {
+            "default": "Central"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 2302547
         },
-        "names": {
-            "long": "Brong-Ahafo"
+        "long": {
+            "default": "Brong-Ahafo"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "02",
             "geonames": 2304116
         },
-        "names": {
-            "long": "Ashanti"
+        "long": {
+            "default": "Ashanti"
         }
     }
 ]

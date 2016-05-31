@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 865084
         },
-        "names": {
-            "long": "Košický"
+        "long": {
+            "default": "Košický"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "05",
             "geonames": 865085
         },
-        "names": {
-            "long": "Prešovský"
+        "long": {
+            "default": "Prešovský"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 3056506
         },
-        "names": {
-            "long": "Žilinský"
+        "long": {
+            "default": "Žilinský"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 3343954
         },
-        "names": {
-            "long": "Banskobystrický"
+        "long": {
+            "default": "Banskobystrický"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "02",
             "geonames": 3343955
         },
-        "names": {
-            "long": "Bratislavský"
+        "long": {
+            "default": "Bratislavský"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "04",
             "geonames": 3343956
         },
-        "names": {
-            "long": "Nitriansky"
+        "long": {
+            "default": "Nitriansky"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "06",
             "geonames": 3343957
         },
-        "names": {
-            "long": "Trenčiansky"
+        "long": {
+            "default": "Trenčiansky"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "07",
             "geonames": 3343958
         },
-        "names": {
-            "long": "Trnavský"
+        "long": {
+            "default": "Trnavský"
         }
     }
 ]

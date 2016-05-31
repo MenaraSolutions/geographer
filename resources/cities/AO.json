@@ -1,7 +1,11 @@
 {
     "2236568": {
-        "geoid": "2236568",
-        "name": "Uíge",
+        "ids": {
+            "geonames": 2236568
+        },
+        "long": {
+            "default": "Uíge"
+        },
         "lat": -7.60874,
         "lng": 15.06131,
         "country": "AO",
@@ -9,8 +13,12 @@
         "population": 60008
     },
     "2236967": {
-        "geoid": "2236967",
-        "name": "Soio",
+        "ids": {
+            "geonames": 2236967
+        },
+        "long": {
+            "default": "Soio"
+        },
         "lat": -6.1349,
         "lng": 12.36894,
         "country": "AO",
@@ -18,8 +26,12 @@
         "population": 67491
     },
     "2239076": {
-        "geoid": "2239076",
-        "name": "N’dalatando",
+        "ids": {
+            "geonames": 2239076
+        },
+        "long": {
+            "default": "N’dalatando"
+        },
         "lat": -9.29782,
         "lng": 14.91162,
         "country": "AO",
@@ -27,8 +39,12 @@
         "population": 383100
     },
     "2239862": {
-        "geoid": "2239862",
-        "name": "Malanje",
+        "ids": {
+            "geonames": 2239862
+        },
+        "long": {
+            "default": "Malanje"
+        },
         "lat": -9.54015,
         "lng": 16.34096,
         "country": "AO",
@@ -36,8 +52,12 @@
         "population": 87046
     },
     "2240449": {
-        "geoid": "2240449",
-        "name": "Luanda",
+        "ids": {
+            "geonames": 2240449
+        },
+        "long": {
+            "default": "Luanda"
+        },
         "lat": -8.83682,
         "lng": 13.23432,
         "country": "AO",
@@ -45,8 +65,12 @@
         "population": 2776168
     },
     "2243271": {
-        "geoid": "2243271",
-        "name": "Cabinda",
+        "ids": {
+            "geonames": 2243271
+        },
+        "long": {
+            "default": "Cabinda"
+        },
         "lat": -5.55,
         "lng": 12.2,
         "country": "AO",
@@ -54,8 +78,12 @@
         "population": 66020
     },
     "3347019": {
-        "geoid": "3347019",
-        "name": "Namibe",
+        "ids": {
+            "geonames": 3347019
+        },
+        "long": {
+            "default": "Namibe"
+        },
         "lat": -15.19611,
         "lng": 12.15222,
         "country": "AO",
@@ -63,8 +91,12 @@
         "population": 80149
     },
     "3347762": {
-        "geoid": "3347762",
-        "name": "Lubango",
+        "ids": {
+            "geonames": 3347762
+        },
+        "long": {
+            "default": "Lubango"
+        },
         "lat": -14.91717,
         "lng": 13.4925,
         "country": "AO",
@@ -72,8 +104,12 @@
         "population": 102541
     },
     "3347939": {
-        "geoid": "3347939",
-        "name": "Lobito",
+        "ids": {
+            "geonames": 3347939
+        },
+        "long": {
+            "default": "Lobito"
+        },
         "lat": -12.3644,
         "lng": 13.53601,
         "country": "AO",
@@ -81,8 +117,12 @@
         "population": 207932
     },
     "3348078": {
-        "geoid": "3348078",
-        "name": "Cuito",
+        "ids": {
+            "geonames": 3348078
+        },
+        "long": {
+            "default": "Cuito"
+        },
         "lat": -12.38333,
         "lng": 16.93333,
         "country": "AO",
@@ -90,8 +130,12 @@
         "population": 113624
     },
     "3348313": {
-        "geoid": "3348313",
-        "name": "Huambo",
+        "ids": {
+            "geonames": 3348313
+        },
+        "long": {
+            "default": "Huambo"
+        },
         "lat": -12.77611,
         "lng": 15.73917,
         "country": "AO",
@@ -99,8 +143,12 @@
         "population": 226145
     },
     "3351663": {
-        "geoid": "3351663",
-        "name": "Benguela",
+        "ids": {
+            "geonames": 3351663
+        },
+        "long": {
+            "default": "Benguela"
+        },
         "lat": -12.57626,
         "lng": 13.40547,
         "country": "AO",

@@ -1,7 +1,11 @@
 {
     "3193044": {
-        "geoid": "3193044",
-        "name": "Podgorica",
+        "ids": {
+            "geonames": 3193044
+        },
+        "long": {
+            "default": "Podgorica"
+        },
         "lat": 42.44111,
         "lng": 19.26361,
         "country": "ME",
@@ -9,8 +13,12 @@
         "population": 136473
     },
     "3194494": {
-        "geoid": "3194494",
-        "name": "Nikšić",
+        "ids": {
+            "geonames": 3194494
+        },
+        "long": {
+            "default": "Nikšić"
+        },
         "lat": 42.7731,
         "lng": 18.94446,
         "country": "ME",

@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 1559532
         },
-        "names": {
-            "long": "Ngatpang"
+        "long": {
+            "default": "Ngatpang"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "16",
             "geonames": 1559630
         },
-        "names": {
-            "long": "Sonsorol"
+        "long": {
+            "default": "Sonsorol"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 1559774
         },
-        "names": {
-            "long": "Kayangel"
+        "long": {
+            "default": "Kayangel"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 1559776
         },
-        "names": {
-            "long": "Hatohobei"
+        "long": {
+            "default": "Hatohobei"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "01",
             "geonames": 1559964
         },
-        "names": {
-            "long": "Aimeliik"
+        "long": {
+            "default": "Aimeliik"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "02",
             "geonames": 4037645
         },
-        "names": {
-            "long": "Airai"
+        "long": {
+            "default": "Airai"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "03",
             "geonames": 4037653
         },
-        "names": {
-            "long": "Angaur"
+        "long": {
+            "default": "Angaur"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "06",
             "geonames": 4037892
         },
-        "names": {
-            "long": "Koror"
+        "long": {
+            "default": "Koror"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "07",
             "geonames": 4037930
         },
-        "names": {
-            "long": "Melekeok"
+        "long": {
+            "default": "Melekeok"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "08",
             "geonames": 4037962
         },
-        "names": {
-            "long": "Ngaraard"
+        "long": {
+            "default": "Ngaraard"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "12",
             "geonames": 4037976
         },
-        "names": {
-            "long": "Ngchesar"
+        "long": {
+            "default": "Ngchesar"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "09",
             "geonames": 4038037
         },
-        "names": {
-            "long": "Ngarchelong"
+        "long": {
+            "default": "Ngarchelong"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "10",
             "geonames": 4038043
         },
-        "names": {
-            "long": "Ngardmau"
+        "long": {
+            "default": "Ngardmau"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "13",
             "geonames": 4038068
         },
-        "names": {
-            "long": "Ngaremlengui"
+        "long": {
+            "default": "Ngaremlengui"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "14",
             "geonames": 4038179
         },
-        "names": {
-            "long": "Ngiwal"
+        "long": {
+            "default": "Ngiwal"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "15",
             "geonames": 4038261
         },
-        "names": {
-            "long": "Peleliu"
+        "long": {
+            "default": "Peleliu"
         }
     }
 ]

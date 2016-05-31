@@ -4,8 +4,8 @@
             "fips": "13",
             "geonames": 3716950
         },
-        "names": {
-            "long": "Sud-Est"
+        "long": {
+            "default": "Sud-Est"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "12",
             "geonames": 3716952
         },
-        "names": {
-            "long": "Sud"
+        "long": {
+            "default": "Sud"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "11",
             "geonames": 3719432
         },
-        "names": {
-            "long": "Ouest"
+        "long": {
+            "default": "Ouest"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 3719536
         },
-        "names": {
-            "long": "Nord-Ouest"
+        "long": {
+            "default": "Nord-Ouest"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 3719540
         },
-        "names": {
-            "long": "Nord-Est"
+        "long": {
+            "default": "Nord-Est"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 3719543
         },
-        "names": {
-            "long": "Nord"
+        "long": {
+            "default": "Nord"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "14",
             "geonames": 3724613
         },
-        "names": {
-            "long": "GrandʼAnse"
+        "long": {
+            "default": "GrandʼAnse"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "07",
             "geonames": 3728069
         },
-        "names": {
-            "long": "Centre"
+        "long": {
+            "default": "Centre"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 3731053
         },
-        "names": {
-            "long": "Artibonite"
+        "long": {
+            "default": "Artibonite"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "15",
             "geonames": 7115999
         },
-        "names": {
-            "long": "Nippes"
+        "long": {
+            "default": "Nippes"
         }
     }
 ]

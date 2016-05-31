@@ -4,8 +4,8 @@
             "fips": "31",
             "geonames": 3666082
         },
-        "names": {
-            "long": "Vichada"
+        "long": {
+            "default": "Vichada"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "30",
             "geonames": 3666254
         },
-        "names": {
-            "long": "Vaupés"
+        "long": {
+            "default": "Vaupés"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "29",
             "geonames": 3666313
         },
-        "names": {
-            "long": "Valle del Cauca"
+        "long": {
+            "default": "Valle del Cauca"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "28",
             "geonames": 3666951
         },
-        "names": {
-            "long": "Tolima"
+        "long": {
+            "default": "Tolima"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "27",
             "geonames": 3667725
         },
-        "names": {
-            "long": "Sucre"
+        "long": {
+            "default": "Sucre"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "26",
             "geonames": 3668578
         },
-        "names": {
-            "long": "Santander"
+        "long": {
+            "default": "Santander"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "25",
             "geonames": 3670205
         },
-        "names": {
-            "long": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+        "long": {
+            "default": "Archipiélago de San Andrés, Providencia y Santa Catalina"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "24",
             "geonames": 3670698
         },
-        "names": {
-            "long": "Risaralda"
+        "long": {
+            "default": "Risaralda"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "23",
             "geonames": 3671087
         },
-        "names": {
-            "long": "Quindío"
+        "long": {
+            "default": "Quindío"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "22",
             "geonames": 3671178
         },
-        "names": {
-            "long": "Putumayo"
+        "long": {
+            "default": "Putumayo"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "21",
             "geonames": 3673798
         },
-        "names": {
-            "long": "Norte de Santander"
+        "long": {
+            "default": "Norte de Santander"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "20",
             "geonames": 3674021
         },
-        "names": {
-            "long": "Nariño"
+        "long": {
+            "default": "Nariño"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "19",
             "geonames": 3674810
         },
-        "names": {
-            "long": "Meta"
+        "long": {
+            "default": "Meta"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "38",
             "geonames": 3675686
         },
-        "names": {
-            "long": "Magdalena"
+        "long": {
+            "default": "Magdalena"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "17",
             "geonames": 3678847
         },
-        "names": {
-            "long": "La Guajira"
+        "long": {
+            "default": "La Guajira"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "16",
             "geonames": 3680692
         },
-        "names": {
-            "long": "Huila"
+        "long": {
+            "default": "Huila"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "14",
             "geonames": 3681344
         },
-        "names": {
-            "long": "Guaviare"
+        "long": {
+            "default": "Guaviare"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "15",
             "geonames": 3681652
         },
-        "names": {
-            "long": "Guainía"
+        "long": {
+            "default": "Guainía"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "33",
             "geonames": 3685413
         },
-        "names": {
-            "long": "Cundinamarca"
+        "long": {
+            "default": "Cundinamarca"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "12",
             "geonames": 3685889
         },
-        "names": {
-            "long": "Córdoba"
+        "long": {
+            "default": "Córdoba"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "11",
             "geonames": 3686431
         },
-        "names": {
-            "long": "Chocó"
+        "long": {
+            "default": "Chocó"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "10",
             "geonames": 3686880
         },
-        "names": {
-            "long": "Cesar"
+        "long": {
+            "default": "Cesar"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "09",
             "geonames": 3687029
         },
-        "names": {
-            "long": "Cauca"
+        "long": {
+            "default": "Cauca"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "32",
             "geonames": 3687173
         },
-        "names": {
-            "long": "Casanare"
+        "long": {
+            "default": "Casanare"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "08",
             "geonames": 3687479
         },
-        "names": {
-            "long": "Caquetá"
+        "long": {
+            "default": "Caquetá"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "37",
             "geonames": 3687951
         },
-        "names": {
-            "long": "Caldas"
+        "long": {
+            "default": "Caldas"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "36",
             "geonames": 3688536
         },
-        "names": {
-            "long": "Boyacá"
+        "long": {
+            "default": "Boyacá"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "35",
             "geonames": 3688650
         },
-        "names": {
-            "long": "Bolívar"
+        "long": {
+            "default": "Bolívar"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "34",
             "geonames": 3688685
         },
-        "names": {
-            "long": "Bogota D.C."
+        "long": {
+            "default": "Bogota D.C."
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "04",
             "geonames": 3689436
         },
-        "names": {
-            "long": "Atlántico"
+        "long": {
+            "default": "Atlántico"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "03",
             "geonames": 3689717
         },
-        "names": {
-            "long": "Arauca"
+        "long": {
+            "default": "Arauca"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "02",
             "geonames": 3689815
         },
-        "names": {
-            "long": "Antioquia"
+        "long": {
+            "default": "Antioquia"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "01",
             "geonames": 3689982
         },
-        "names": {
-            "long": "Amazonas"
+        "long": {
+            "default": "Amazonas"
         }
     }
 ]

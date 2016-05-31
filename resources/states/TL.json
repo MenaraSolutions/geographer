@@ -4,8 +4,8 @@
             "fips": "VI",
             "geonames": 1622470
         },
-        "names": {
-            "long": "Viqueque"
+        "long": {
+            "default": "Viqueque"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "MF",
             "geonames": 1636309
         },
-        "names": {
-            "long": "Manufahi"
+        "long": {
+            "default": "Manufahi"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "MT",
             "geonames": 1636525
         },
-        "names": {
-            "long": "Manatuto"
+        "long": {
+            "default": "Manatuto"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "LI",
             "geonames": 1637729
         },
-        "names": {
-            "long": "Liquiçá"
+        "long": {
+            "default": "Liquiçá"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "LA",
             "geonames": 1638294
         },
-        "names": {
-            "long": "Lautém"
+        "long": {
+            "default": "Lautém"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "CO",
             "geonames": 1639462
         },
-        "names": {
-            "long": "Cova Lima"
+        "long": {
+            "default": "Cova Lima"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "ER",
             "geonames": 1644865
         },
-        "names": {
-            "long": "Ermera District"
+        "long": {
+            "default": "Ermera District"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "DI",
             "geonames": 1645456
         },
-        "names": {
-            "long": "Díli"
+        "long": {
+            "default": "Díli"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "BO",
             "geonames": 1648513
         },
-        "names": {
-            "long": "Bobonaro"
+        "long": {
+            "default": "Bobonaro"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "BA",
             "geonames": 1649538
         },
-        "names": {
-            "long": "Baucau"
+        "long": {
+            "default": "Baucau"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "OE",
             "geonames": 1651539
         },
-        "names": {
-            "long": "Oecusse"
+        "long": {
+            "default": "Oecusse"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "AN",
             "geonames": 1651809
         },
-        "names": {
-            "long": "Ainaro"
+        "long": {
+            "default": "Ainaro"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "AL",
             "geonames": 1651815
         },
-        "names": {
-            "long": "Aileu"
+        "long": {
+            "default": "Aileu"
         }
     }
 ]

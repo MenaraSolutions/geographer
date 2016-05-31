@@ -4,8 +4,8 @@
             "fips": "52",
             "geonames": 3067695
         },
-        "names": {
-            "long": "Praha"
+        "long": {
+            "default": "Praha"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "78",
             "geonames": 3339536
         },
-        "names": {
-            "long": "South Moravian"
+        "long": {
+            "default": "South Moravian"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "79",
             "geonames": 3339537
         },
-        "names": {
-            "long": "Jihočeský"
+        "long": {
+            "default": "Jihočeský"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "80",
             "geonames": 3339538
         },
-        "names": {
-            "long": "Vysočina"
+        "long": {
+            "default": "Vysočina"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "81",
             "geonames": 3339539
         },
-        "names": {
-            "long": "Karlovarský"
+        "long": {
+            "default": "Karlovarský"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "82",
             "geonames": 3339540
         },
-        "names": {
-            "long": "Královéhradecký"
+        "long": {
+            "default": "Královéhradecký"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "83",
             "geonames": 3339541
         },
-        "names": {
-            "long": "Liberecký"
+        "long": {
+            "default": "Liberecký"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "84",
             "geonames": 3339542
         },
-        "names": {
-            "long": "Olomoucký"
+        "long": {
+            "default": "Olomoucký"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "85",
             "geonames": 3339573
         },
-        "names": {
-            "long": "Moravskoslezský"
+        "long": {
+            "default": "Moravskoslezský"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "86",
             "geonames": 3339574
         },
-        "names": {
-            "long": "Pardubický"
+        "long": {
+            "default": "Pardubický"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "87",
             "geonames": 3339575
         },
-        "names": {
-            "long": "Plzeňský"
+        "long": {
+            "default": "Plzeňský"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "88",
             "geonames": 3339576
         },
-        "names": {
-            "long": "Central Bohemia"
+        "long": {
+            "default": "Central Bohemia"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "89",
             "geonames": 3339577
         },
-        "names": {
-            "long": "Ústecký"
+        "long": {
+            "default": "Ústecký"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "90",
             "geonames": 3339578
         },
-        "names": {
-            "long": "Zlín"
+        "long": {
+            "default": "Zlín"
         }
     }
 ]

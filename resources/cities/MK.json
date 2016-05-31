@@ -1,7 +1,11 @@
 {
     "785058": {
-        "geoid": "785058",
-        "name": "Veles",
+        "ids": {
+            "geonames": 785058
+        },
+        "long": {
+            "default": "Veles"
+        },
         "lat": 41.71556,
         "lng": 21.77556,
         "country": "MK",
@@ -9,8 +13,12 @@
         "population": 57873
     },
     "785082": {
-        "geoid": "785082",
-        "name": "Tetovo",
+        "ids": {
+            "geonames": 785082
+        },
+        "long": {
+            "default": "Tetovo"
+        },
         "lat": 42.00973,
         "lng": 20.97155,
         "country": "MK",
@@ -18,8 +26,12 @@
         "population": 72944
     },
     "785842": {
-        "geoid": "785842",
-        "name": "Skopje",
+        "ids": {
+            "geonames": 785842
+        },
+        "long": {
+            "default": "Skopje"
+        },
         "lat": 41.99646,
         "lng": 21.43141,
         "country": "MK",
@@ -27,8 +39,12 @@
         "population": 474889
     },
     "786735": {
-        "geoid": "786735",
-        "name": "Prilep",
+        "ids": {
+            "geonames": 786735
+        },
+        "long": {
+            "default": "Prilep"
+        },
         "lat": 41.34514,
         "lng": 21.55504,
         "country": "MK",
@@ -36,8 +52,12 @@
         "population": 73814
     },
     "787487": {
-        "geoid": "787487",
-        "name": "Ohrid",
+        "ids": {
+            "geonames": 787487
+        },
+        "long": {
+            "default": "Ohrid"
+        },
         "lat": 41.11722,
         "lng": 20.80194,
         "country": "MK",
@@ -45,8 +65,12 @@
         "population": 54908
     },
     "788886": {
-        "geoid": "788886",
-        "name": "Kumanovo",
+        "ids": {
+            "geonames": 788886
+        },
+        "long": {
+            "default": "Kumanovo"
+        },
         "lat": 42.13222,
         "lng": 21.71444,
         "country": "MK",
@@ -54,8 +78,12 @@
         "population": 76275
     },
     "790295": {
-        "geoid": "790295",
-        "name": "Gostivar",
+        "ids": {
+            "geonames": 790295
+        },
+        "long": {
+            "default": "Gostivar"
+        },
         "lat": 41.79601,
         "lng": 20.90819,
         "country": "MK",
@@ -63,8 +91,12 @@
         "population": 50974
     },
     "792578": {
-        "geoid": "792578",
-        "name": "Bitola",
+        "ids": {
+            "geonames": 792578
+        },
+        "long": {
+            "default": "Bitola"
+        },
         "lat": 41.03143,
         "lng": 21.33474,
         "country": "MK",
@@ -72,8 +104,12 @@
         "population": 86528
     },
     "833262": {
-        "geoid": "833262",
-        "name": "Čair",
+        "ids": {
+            "geonames": 833262
+        },
+        "long": {
+            "default": "Čair"
+        },
         "lat": 42.01528,
         "lng": 21.44111,
         "country": "MK",
@@ -81,8 +117,12 @@
         "population": 64773
     },
     "863675": {
-        "geoid": "863675",
-        "name": "Kisela Voda",
+        "ids": {
+            "geonames": 863675
+        },
+        "long": {
+            "default": "Kisela Voda"
+        },
         "lat": 41.94889,
         "lng": 21.50278,
         "country": "MK",

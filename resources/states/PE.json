@@ -4,8 +4,8 @@
             "fips": "25",
             "geonames": 3691099
         },
-        "names": {
-            "long": "Ucayali"
+        "long": {
+            "default": "Ucayali"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "24",
             "geonames": 3691146
         },
-        "names": {
-            "long": "Tumbes"
+        "long": {
+            "default": "Tumbes"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "22",
             "geonames": 3692385
         },
-        "names": {
-            "long": "San Martín"
+        "long": {
+            "default": "San Martín"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "20",
             "geonames": 3693525
         },
-        "names": {
-            "long": "Piura"
+        "long": {
+            "default": "Piura"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "16",
             "geonames": 3695238
         },
-        "names": {
-            "long": "Loreto"
+        "long": {
+            "default": "Loreto"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 3695753
         },
-        "names": {
-            "long": "Lambayeque"
+        "long": {
+            "default": "Lambayeque"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 3695781
         },
-        "names": {
-            "long": "La Libertad"
+        "long": {
+            "default": "La Libertad"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "10",
             "geonames": 3696416
         },
-        "names": {
-            "long": "Huanuco"
+        "long": {
+            "default": "Huanuco"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 3699087
         },
-        "names": {
-            "long": "Cajamarca"
+        "long": {
+            "default": "Cajamarca"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "02",
             "geonames": 3699674
         },
-        "names": {
-            "long": "Ancash"
+        "long": {
+            "default": "Ancash"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "01",
             "geonames": 3699699
         },
-        "names": {
-            "long": "Amazonas"
+        "long": {
+            "default": "Amazonas"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "23",
             "geonames": 3928127
         },
-        "names": {
-            "long": "Tacna"
+        "long": {
+            "default": "Tacna"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "21",
             "geonames": 3931275
         },
-        "names": {
-            "long": "Puno"
+        "long": {
+            "default": "Puno"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "19",
             "geonames": 3932834
         },
-        "names": {
-            "long": "Pasco Region"
+        "long": {
+            "default": "Pasco Region"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "18",
             "geonames": 3934607
         },
-        "names": {
-            "long": "Moquegua"
+        "long": {
+            "default": "Moquegua"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "17",
             "geonames": 3935619
         },
-        "names": {
-            "long": "Madre de Dios"
+        "long": {
+            "default": "Madre de Dios"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "LMA",
             "geonames": 3936451
         },
-        "names": {
-            "long": "Lima Province"
+        "long": {
+            "default": "Lima Province"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "15",
             "geonames": 3936452
         },
-        "names": {
-            "long": "Lima region"
+        "long": {
+            "default": "Lima region"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "12",
             "geonames": 3937485
         },
-        "names": {
-            "long": "Junín Region"
+        "long": {
+            "default": "Junín Region"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "11",
             "geonames": 3938526
         },
-        "names": {
-            "long": "Ica"
+        "long": {
+            "default": "Ica"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "09",
             "geonames": 3939467
         },
-        "names": {
-            "long": "Huancavelica"
+        "long": {
+            "default": "Huancavelica"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "08",
             "geonames": 3941583
         },
-        "names": {
-            "long": "Cusco"
+        "long": {
+            "default": "Cusco"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "07",
             "geonames": 3946080
         },
-        "names": {
-            "long": "Callao"
+        "long": {
+            "default": "Callao"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "05",
             "geonames": 3947018
         },
-        "names": {
-            "long": "Ayacucho"
+        "long": {
+            "default": "Ayacucho"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "04",
             "geonames": 3947319
         },
-        "names": {
-            "long": "Arequipa"
+        "long": {
+            "default": "Arequipa"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "03",
             "geonames": 3947421
         },
-        "names": {
-            "long": "Apurímac"
+        "long": {
+            "default": "Apurímac"
         }
     }
 ]

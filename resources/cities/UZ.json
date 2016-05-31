@@ -1,7 +1,11 @@
 {
     "601294": {
-        "geoid": "601294",
-        "name": "Nukus",
+        "ids": {
+            "geonames": 601294
+        },
+        "long": {
+            "default": "Nukus"
+        },
         "lat": 42.45306,
         "lng": 59.61028,
         "country": "UZ",
@@ -9,8 +13,12 @@
         "population": 230006
     },
     "601417": {
-        "geoid": "601417",
-        "name": "Oltinko’l",
+        "ids": {
+            "geonames": 601417
+        },
+        "long": {
+            "default": "Oltinko’l"
+        },
         "lat": 43.06874,
         "lng": 58.90372,
         "country": "UZ",
@@ -18,8 +26,12 @@
         "population": 59122
     },
     "1215957": {
-        "geoid": "1215957",
-        "name": "Tirmiz",
+        "ids": {
+            "geonames": 1215957
+        },
+        "long": {
+            "default": "Tirmiz"
+        },
         "lat": 37.22417,
         "lng": 67.27833,
         "country": "UZ",
@@ -27,8 +39,12 @@
         "population": 140385
     },
     "1216187": {
-        "geoid": "1216187",
-        "name": "Shahrisabz",
+        "ids": {
+            "geonames": 1216187
+        },
+        "long": {
+            "default": "Shahrisabz"
+        },
         "lat": 39.05778,
         "lng": 66.83417,
         "country": "UZ",
@@ -36,8 +52,12 @@
         "population": 57051
     },
     "1216265": {
-        "geoid": "1216265",
-        "name": "Samarqand",
+        "ids": {
+            "geonames": 1216265
+        },
+        "long": {
+            "default": "Samarqand"
+        },
         "lat": 39.65417,
         "lng": 66.95972,
         "country": "UZ",
@@ -45,8 +65,12 @@
         "population": 319366
     },
     "1216311": {
-        "geoid": "1216311",
-        "name": "Qarshi",
+        "ids": {
+            "geonames": 1216311
+        },
+        "long": {
+            "default": "Qarshi"
+        },
         "lat": 38.86056,
         "lng": 65.78905,
         "country": "UZ",
@@ -54,8 +78,12 @@
         "population": 222898
     },
     "1216982": {
-        "geoid": "1216982",
-        "name": "Kattaqo’rg’on",
+        "ids": {
+            "geonames": 1216982
+        },
+        "long": {
+            "default": "Kattaqo’rg’on"
+        },
         "lat": 39.89889,
         "lng": 66.25611,
         "country": "UZ",
@@ -63,8 +91,12 @@
         "population": 59382
     },
     "1217007": {
-        "geoid": "1217007",
-        "name": "Koson",
+        "ids": {
+            "geonames": 1217007
+        },
+        "long": {
+            "default": "Koson"
+        },
         "lat": 39.0375,
         "lng": 65.585,
         "country": "UZ",
@@ -72,8 +104,12 @@
         "population": 59681
     },
     "1217180": {
-        "geoid": "1217180",
-        "name": "Kogon",
+        "ids": {
+            "geonames": 1217180
+        },
+        "long": {
+            "default": "Kogon"
+        },
         "lat": 39.72278,
         "lng": 64.55167,
         "country": "UZ",
@@ -81,8 +117,12 @@
         "population": 62620
     },
     "1217474": {
-        "geoid": "1217474",
-        "name": "Denov",
+        "ids": {
+            "geonames": 1217474
+        },
+        "long": {
+            "default": "Denov"
+        },
         "lat": 38.26667,
         "lng": 67.9,
         "country": "UZ",
@@ -90,8 +130,12 @@
         "population": 68994
     },
     "1217662": {
-        "geoid": "1217662",
-        "name": "Bukhara",
+        "ids": {
+            "geonames": 1217662
+        },
+        "long": {
+            "default": "Bukhara"
+        },
         "lat": 39.77472,
         "lng": 64.42861,
         "country": "UZ",
@@ -99,8 +143,12 @@
         "population": 247644
     },
     "1512339": {
-        "geoid": "1512339",
-        "name": "Yangiyŭl",
+        "ids": {
+            "geonames": 1512339
+        },
+        "long": {
+            "default": "Yangiyŭl"
+        },
         "lat": 41.11202,
         "lng": 69.0471,
         "country": "UZ",
@@ -108,8 +156,12 @@
         "population": 60000
     },
     "1512473": {
-        "geoid": "1512473",
-        "name": "Urganch",
+        "ids": {
+            "geonames": 1512473
+        },
+        "long": {
+            "default": "Urganch"
+        },
         "lat": 41.55,
         "lng": 60.63333,
         "country": "UZ",
@@ -117,8 +169,12 @@
         "population": 150110
     },
     "1512569": {
-        "geoid": "1512569",
-        "name": "Tashkent",
+        "ids": {
+            "geonames": 1512569
+        },
+        "long": {
+            "default": "Tashkent"
+        },
         "lat": 41.26465,
         "lng": 69.21627,
         "country": "UZ",
@@ -126,8 +182,12 @@
         "population": 1978028
     },
     "1512979": {
-        "geoid": "1512979",
-        "name": "Qo‘qon",
+        "ids": {
+            "geonames": 1512979
+        },
+        "long": {
+            "default": "Qo‘qon"
+        },
         "lat": 40.52861,
         "lng": 70.9425,
         "country": "UZ",
@@ -135,8 +195,12 @@
         "population": 187477
     },
     "1513064": {
-        "geoid": "1513064",
-        "name": "Olmaliq",
+        "ids": {
+            "geonames": 1513064
+        },
+        "long": {
+            "default": "Olmaliq"
+        },
         "lat": 40.84472,
         "lng": 69.59833,
         "country": "UZ",
@@ -144,8 +208,12 @@
         "population": 121207
     },
     "1513131": {
-        "geoid": "1513131",
-        "name": "Navoiy",
+        "ids": {
+            "geonames": 1513131
+        },
+        "long": {
+            "default": "Navoiy"
+        },
         "lat": 40.08444,
         "lng": 65.37917,
         "country": "UZ",
@@ -153,8 +221,12 @@
         "population": 129725
     },
     "1513157": {
-        "geoid": "1513157",
-        "name": "Namangan",
+        "ids": {
+            "geonames": 1513157
+        },
+        "long": {
+            "default": "Namangan"
+        },
         "lat": 40.9983,
         "lng": 71.67257,
         "country": "UZ",
@@ -162,8 +234,12 @@
         "population": 432456
     },
     "1513243": {
-        "geoid": "1513243",
-        "name": "Marg‘ilon",
+        "ids": {
+            "geonames": 1513243
+        },
+        "long": {
+            "default": "Marg‘ilon"
+        },
         "lat": 40.47237,
         "lng": 71.72463,
         "country": "UZ",
@@ -171,8 +247,12 @@
         "population": 133490
     },
     "1513271": {
-        "geoid": "1513271",
-        "name": "Asaka",
+        "ids": {
+            "geonames": 1513271
+        },
+        "long": {
+            "default": "Asaka"
+        },
         "lat": 40.64153,
         "lng": 72.23868,
         "country": "UZ",
@@ -180,8 +260,12 @@
         "population": 56736
     },
     "1513604": {
-        "geoid": "1513604",
-        "name": "Khiwa",
+        "ids": {
+            "geonames": 1513604
+        },
+        "long": {
+            "default": "Khiwa"
+        },
         "lat": 41.37833,
         "lng": 60.36389,
         "country": "UZ",
@@ -189,8 +273,12 @@
         "population": 55567
     },
     "1513886": {
-        "geoid": "1513886",
-        "name": "Jizzax",
+        "ids": {
+            "geonames": 1513886
+        },
+        "long": {
+            "default": "Jizzax"
+        },
         "lat": 40.11583,
         "lng": 67.84222,
         "country": "UZ",
@@ -198,8 +286,12 @@
         "population": 152642
     },
     "1513966": {
-        "geoid": "1513966",
-        "name": "Guliston",
+        "ids": {
+            "geonames": 1513966
+        },
+        "long": {
+            "default": "Guliston"
+        },
         "lat": 40.48972,
         "lng": 68.78417,
         "country": "UZ",
@@ -207,8 +299,12 @@
         "population": 53373
     },
     "1514019": {
-        "geoid": "1514019",
-        "name": "Fergana",
+        "ids": {
+            "geonames": 1514019
+        },
+        "long": {
+            "default": "Fergana"
+        },
         "lat": 40.38421,
         "lng": 71.78432,
         "country": "UZ",
@@ -216,8 +312,12 @@
         "population": 164322
     },
     "1514192": {
-        "geoid": "1514192",
-        "name": "Chust Shahri",
+        "ids": {
+            "geonames": 1514192
+        },
+        "long": {
+            "default": "Chust Shahri"
+        },
         "lat": 41.00936,
         "lng": 71.2287,
         "country": "UZ",
@@ -225,8 +325,12 @@
         "population": 64966
     },
     "1514210": {
-        "geoid": "1514210",
-        "name": "Chirchiq",
+        "ids": {
+            "geonames": 1514210
+        },
+        "long": {
+            "default": "Chirchiq"
+        },
         "lat": 41.46889,
         "lng": 69.58222,
         "country": "UZ",
@@ -234,8 +338,12 @@
         "population": 167842
     },
     "1514387": {
-        "geoid": "1514387",
-        "name": "Beruniy",
+        "ids": {
+            "geonames": 1514387
+        },
+        "long": {
+            "default": "Beruniy"
+        },
         "lat": 41.69111,
         "lng": 60.7525,
         "country": "UZ",
@@ -243,8 +351,12 @@
         "population": 50929
     },
     "1514402": {
-        "geoid": "1514402",
-        "name": "Bekobod",
+        "ids": {
+            "geonames": 1514402
+        },
+        "long": {
+            "default": "Bekobod"
+        },
         "lat": 40.22083,
         "lng": 69.26972,
         "country": "UZ",
@@ -252,8 +364,12 @@
         "population": 86259
     },
     "1514581": {
-        "geoid": "1514581",
-        "name": "Angren",
+        "ids": {
+            "geonames": 1514581
+        },
+        "long": {
+            "default": "Angren"
+        },
         "lat": 41.01667,
         "lng": 70.14361,
         "country": "UZ",
@@ -261,8 +377,12 @@
         "population": 126957
     },
     "1514588": {
-        "geoid": "1514588",
-        "name": "Andijon",
+        "ids": {
+            "geonames": 1514588
+        },
+        "long": {
+            "default": "Andijon"
+        },
         "lat": 40.78206,
         "lng": 72.34424,
         "country": "UZ",
@@ -270,8 +390,12 @@
         "population": 318419
     },
     "1538229": {
-        "geoid": "1538229",
-        "name": "Navoiy",
+        "ids": {
+            "geonames": 1538229
+        },
+        "long": {
+            "default": "Navoiy"
+        },
         "lat": 40.1,
         "lng": 65.36667,
         "country": "UZ",

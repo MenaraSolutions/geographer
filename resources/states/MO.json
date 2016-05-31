@@ -4,8 +4,8 @@
             "fips": "02",
             "geonames": 1821273
         },
-        "names": {
-            "long": "Macau"
+        "long": {
+            "default": "Macau"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "01",
             "geonames": 1821286
         },
-        "names": {
-            "long": "Ilhas"
+        "long": {
+            "default": "Ilhas"
         }
     }
 ]

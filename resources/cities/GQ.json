@@ -1,7 +1,11 @@
 {
     "2309527": {
-        "geoid": "2309527",
-        "name": "Malabo",
+        "ids": {
+            "geonames": 2309527
+        },
+        "long": {
+            "default": "Malabo"
+        },
         "lat": 3.75,
         "lng": 8.78333,
         "country": "GQ",
@@ -9,8 +13,12 @@
         "population": 155963
     },
     "2310046": {
-        "geoid": "2310046",
-        "name": "Bata",
+        "ids": {
+            "geonames": 2310046
+        },
+        "long": {
+            "default": "Bata"
+        },
         "lat": 1.86391,
         "lng": 9.76582,
         "country": "GQ",

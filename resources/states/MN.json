@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 1514967
         },
-        "names": {
-            "long": "Uvs"
+        "long": {
+            "default": "Uvs"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "12",
             "geonames": 1515696
         },
-        "names": {
-            "long": "Hovd"
+        "long": {
+            "default": "Hovd"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "10",
             "geonames": 1515917
         },
-        "names": {
-            "long": "Govĭ-Altay"
+        "long": {
+            "default": "Govĭ-Altay"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "09",
             "geonames": 1516012
         },
-        "names": {
-            "long": "Dzabkhan"
+        "long": {
+            "default": "Dzabkhan"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "03",
             "geonames": 1516278
         },
-        "names": {
-            "long": "Bayan-Ölgiy"
+        "long": {
+            "default": "Bayan-Ölgiy"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "02",
             "geonames": 1516290
         },
-        "names": {
-            "long": "Bayanhongor"
+        "long": {
+            "default": "Bayanhongor"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "20",
             "geonames": 2028461
         },
-        "names": {
-            "long": "Ulaanbaatar"
+        "long": {
+            "default": "Ulaanbaatar"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "18",
             "geonames": 2028849
         },
-        "names": {
-            "long": "Central Aimak"
+        "long": {
+            "default": "Central Aimak"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "17",
             "geonames": 2029155
         },
-        "names": {
-            "long": "Sühbaatar"
+        "long": {
+            "default": "Sühbaatar"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "16",
             "geonames": 2029432
         },
-        "names": {
-            "long": "Selenge"
+        "long": {
+            "default": "Selenge"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "15",
             "geonames": 2029546
         },
-        "names": {
-            "long": "Övörhangay"
+        "long": {
+            "default": "Övörhangay"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "14",
             "geonames": 2029669
         },
-        "names": {
-            "long": "Ömnögovĭ"
+        "long": {
+            "default": "Ömnögovĭ"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "13",
             "geonames": 2030469
         },
-        "names": {
-            "long": "Hövsgöl"
+        "long": {
+            "default": "Hövsgöl"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "11",
             "geonames": 2030783
         },
-        "names": {
-            "long": "Hentiy"
+        "long": {
+            "default": "Hentiy"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "08",
             "geonames": 2031740
         },
-        "names": {
-            "long": "Middle Govĭ"
+        "long": {
+            "default": "Middle Govĭ"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "07",
             "geonames": 2031798
         },
-        "names": {
-            "long": "East Gobi Aymag"
+        "long": {
+            "default": "East Gobi Aymag"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "06",
             "geonames": 2031799
         },
-        "names": {
-            "long": "East Aimak"
+        "long": {
+            "default": "East Aimak"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "21",
             "geonames": 2032199
         },
-        "names": {
-            "long": "Bulgan"
+        "long": {
+            "default": "Bulgan"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "01",
             "geonames": 2032855
         },
-        "names": {
-            "long": "Arhangay"
+        "long": {
+            "default": "Arhangay"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "23",
             "geonames": 2055111
         },
-        "names": {
-            "long": "Darhan Uul"
+        "long": {
+            "default": "Darhan Uul"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "24",
             "geonames": 2055112
         },
-        "names": {
-            "long": "Govĭ-Sumber"
+        "long": {
+            "default": "Govĭ-Sumber"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "25",
             "geonames": 2055113
         },
-        "names": {
-            "long": "Orhon"
+        "long": {
+            "default": "Orhon"
         }
     }
 ]

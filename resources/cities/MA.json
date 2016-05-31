@@ -1,7 +1,11 @@
 {
     "2526488": {
-        "geoid": "2526488",
-        "name": "Youssoufia",
+        "ids": {
+            "geonames": 2526488
+        },
+        "long": {
+            "default": "Youssoufia"
+        },
         "lat": 32.24634,
         "lng": -8.52941,
         "country": "MA",
@@ -9,8 +13,12 @@
         "population": 64910
     },
     "2527089": {
-        "geoid": "2527089",
-        "name": "Tiznit",
+        "ids": {
+            "geonames": 2527089
+        },
+        "long": {
+            "default": "Tiznit"
+        },
         "lat": 29.69742,
         "lng": -9.73162,
         "country": "MA",
@@ -18,8 +26,12 @@
         "population": 55092
     },
     "2527645": {
-        "geoid": "2527645",
-        "name": "Tirhanimîne",
+        "ids": {
+            "geonames": 2527645
+        },
+        "long": {
+            "default": "Tirhanimîne"
+        },
         "lat": 35.23619,
         "lng": -3.95453,
         "country": "MA",
@@ -27,8 +39,12 @@
         "population": 55827
     },
     "2528659": {
-        "geoid": "2528659",
-        "name": "Tiflet",
+        "ids": {
+            "geonames": 2528659
+        },
+        "long": {
+            "default": "Tiflet"
+        },
         "lat": 33.89469,
         "lng": -6.30649,
         "country": "MA",
@@ -36,8 +52,12 @@
         "population": 70010
     },
     "2528910": {
-        "geoid": "2528910",
-        "name": "Tétouan",
+        "ids": {
+            "geonames": 2528910
+        },
+        "long": {
+            "default": "Tétouan"
+        },
         "lat": 35.57845,
         "lng": -5.36837,
         "country": "MA",
@@ -45,8 +65,12 @@
         "population": 326261
     },
     "2529317": {
-        "geoid": "2529317",
-        "name": "Taza",
+        "ids": {
+            "geonames": 2529317
+        },
+        "long": {
+            "default": "Taza"
+        },
         "lat": 34.21,
         "lng": -4.01,
         "country": "MA",
@@ -54,8 +78,12 @@
         "population": 141890
     },
     "2529649": {
-        "geoid": "2529649",
-        "name": "Taroudant",
+        "ids": {
+            "geonames": 2529649
+        },
+        "long": {
+            "default": "Taroudant"
+        },
         "lat": 30.47028,
         "lng": -8.87695,
         "country": "MA",
@@ -63,8 +91,12 @@
         "population": 71133
     },
     "2530048": {
-        "geoid": "2530048",
-        "name": "Taourirt",
+        "ids": {
+            "geonames": 2530048
+        },
+        "long": {
+            "default": "Taourirt"
+        },
         "lat": 34.40731,
         "lng": -2.89732,
         "country": "MA",
@@ -72,8 +104,12 @@
         "population": 82518
     },
     "2530241": {
-        "geoid": "2530241",
-        "name": "Tan-Tan",
+        "ids": {
+            "geonames": 2530241
+        },
+        "long": {
+            "default": "Tan-Tan"
+        },
         "lat": 28.43799,
         "lng": -11.10321,
         "country": "MA",
@@ -81,8 +117,12 @@
         "population": 61924
     },
     "2530335": {
-        "geoid": "2530335",
-        "name": "Tangier",
+        "ids": {
+            "geonames": 2530335
+        },
+        "long": {
+            "default": "Tangier"
+        },
         "lat": 35.76727,
         "lng": -5.79975,
         "country": "MA",
@@ -90,8 +130,12 @@
         "population": 688356
     },
     "2532945": {
-        "geoid": "2532945",
-        "name": "Sidi Slimane",
+        "ids": {
+            "geonames": 2532945
+        },
+        "long": {
+            "default": "Sidi Slimane"
+        },
         "lat": 34.26479,
         "lng": -5.92598,
         "country": "MA",
@@ -99,8 +143,12 @@
         "population": 79437
     },
     "2533191": {
-        "geoid": "2533191",
-        "name": "Sidi Qacem",
+        "ids": {
+            "geonames": 2533191
+        },
+        "long": {
+            "default": "Sidi Qacem"
+        },
         "lat": 34.22149,
         "lng": -5.70775,
         "country": "MA",
@@ -108,8 +156,12 @@
         "population": 74755
     },
     "2537406": {
-        "geoid": "2537406",
-        "name": "Settat",
+        "ids": {
+            "geonames": 2537406
+        },
+        "long": {
+            "default": "Settat"
+        },
         "lat": 33.00103,
         "lng": -7.61662,
         "country": "MA",
@@ -117,8 +169,12 @@
         "population": 119082
     },
     "2537545": {
-        "geoid": "2537545",
-        "name": "Sefrou",
+        "ids": {
+            "geonames": 2537545
+        },
+        "long": {
+            "default": "Sefrou"
+        },
         "lat": 33.83186,
         "lng": -4.828,
         "country": "MA",
@@ -126,8 +182,12 @@
         "population": 65150
     },
     "2537763": {
-        "geoid": "2537763",
-        "name": "Sale",
+        "ids": {
+            "geonames": 2537763
+        },
+        "long": {
+            "default": "Sale"
+        },
         "lat": 34.0531,
         "lng": -6.79846,
         "country": "MA",
@@ -135,8 +195,12 @@
         "population": 903485
     },
     "2537881": {
-        "geoid": "2537881",
-        "name": "Safi",
+        "ids": {
+            "geonames": 2537881
+        },
+        "long": {
+            "default": "Safi"
+        },
         "lat": 32.29939,
         "lng": -9.23718,
         "country": "MA",
@@ -144,8 +208,12 @@
         "population": 288163
     },
     "2538475": {
-        "geoid": "2538475",
-        "name": "Rabat",
+        "ids": {
+            "geonames": 2538475
+        },
+        "long": {
+            "default": "Rabat"
+        },
         "lat": 34.01325,
         "lng": -6.83255,
         "country": "MA",
@@ -153,8 +221,12 @@
         "population": 1655753
     },
     "2539134": {
-        "geoid": "2539134",
-        "name": "Oulad Teïma",
+        "ids": {
+            "geonames": 2539134
+        },
+        "long": {
+            "default": "Oulad Teïma"
+        },
         "lat": 30.39467,
         "lng": -9.20897,
         "country": "MA",
@@ -162,8 +234,12 @@
         "population": 66832
     },
     "2540483": {
-        "geoid": "2540483",
-        "name": "Oujda",
+        "ids": {
+            "geonames": 2540483
+        },
+        "long": {
+            "default": "Oujda"
+        },
         "lat": 34.68139,
         "lng": -1.90858,
         "country": "MA",
@@ -171,8 +247,12 @@
         "population": 405253
     },
     "2540689": {
-        "geoid": "2540689",
-        "name": "Oued Zem",
+        "ids": {
+            "geonames": 2540689
+        },
+        "long": {
+            "default": "Oued Zem"
+        },
         "lat": 32.8627,
         "lng": -6.57359,
         "country": "MA",
@@ -180,8 +260,12 @@
         "population": 84910
     },
     "2540810": {
-        "geoid": "2540810",
-        "name": "Ouezzane",
+        "ids": {
+            "geonames": 2540810
+        },
+        "long": {
+            "default": "Ouezzane"
+        },
         "lat": 34.79584,
         "lng": -5.57849,
         "country": "MA",
@@ -189,8 +273,12 @@
         "population": 58684
     },
     "2540850": {
-        "geoid": "2540850",
-        "name": "Ouarzazat",
+        "ids": {
+            "geonames": 2540850
+        },
+        "long": {
+            "default": "Ouarzazat"
+        },
         "lat": 30.91894,
         "lng": -6.89341,
         "country": "MA",
@@ -198,8 +286,12 @@
         "population": 57245
     },
     "2541479": {
-        "geoid": "2541479",
-        "name": "Nador",
+        "ids": {
+            "geonames": 2541479
+        },
+        "long": {
+            "default": "Nador"
+        },
         "lat": 35.16813,
         "lng": -2.93352,
         "country": "MA",
@@ -207,8 +299,12 @@
         "population": 129260
     },
     "2542051": {
-        "geoid": "2542051",
-        "name": "Mohammedia",
+        "ids": {
+            "geonames": 2542051
+        },
+        "long": {
+            "default": "Mohammedia"
+        },
         "lat": 33.68607,
         "lng": -7.38298,
         "country": "MA",
@@ -216,8 +312,12 @@
         "population": 187708
     },
     "2542715": {
-        "geoid": "2542715",
-        "name": "Meknès",
+        "ids": {
+            "geonames": 2542715
+        },
+        "long": {
+            "default": "Meknès"
+        },
         "lat": 33.89352,
         "lng": -5.54727,
         "country": "MA",
@@ -225,8 +325,12 @@
         "population": 545705
     },
     "2542997": {
-        "geoid": "2542997",
-        "name": "Marrakesh",
+        "ids": {
+            "geonames": 2542997
+        },
+        "long": {
+            "default": "Marrakesh"
+        },
         "lat": 31.63416,
         "lng": -7.99994,
         "country": "MA",
@@ -234,8 +338,12 @@
         "population": 839296
     },
     "2543549": {
-        "geoid": "2543549",
-        "name": "Larache",
+        "ids": {
+            "geonames": 2543549
+        },
+        "long": {
+            "default": "Larache"
+        },
         "lat": 35.19321,
         "lng": -6.15572,
         "country": "MA",
@@ -243,8 +351,12 @@
         "population": 109294
     },
     "2544001": {
-        "geoid": "2544001",
-        "name": "Ksar El Kebir",
+        "ids": {
+            "geonames": 2544001
+        },
+        "long": {
+            "default": "Ksar El Kebir"
+        },
         "lat": 35.00044,
         "lng": -5.90378,
         "country": "MA",
@@ -252,8 +364,12 @@
         "population": 108753
     },
     "2544248": {
-        "geoid": "2544248",
-        "name": "Khouribga",
+        "ids": {
+            "geonames": 2544248
+        },
+        "long": {
+            "default": "Khouribga"
+        },
         "lat": 32.88108,
         "lng": -6.9063,
         "country": "MA",
@@ -261,8 +377,12 @@
         "population": 167673
     },
     "2544333": {
-        "geoid": "2544333",
-        "name": "Khenifra",
+        "ids": {
+            "geonames": 2544333
+        },
+        "long": {
+            "default": "Khenifra"
+        },
         "lat": 32.9391,
         "lng": -5.6686,
         "country": "MA",
@@ -270,8 +390,12 @@
         "population": 73906
     },
     "2544571": {
-        "geoid": "2544571",
-        "name": "Kenitra",
+        "ids": {
+            "geonames": 2544571
+        },
+        "long": {
+            "default": "Kenitra"
+        },
         "lat": 34.26101,
         "lng": -6.5802,
         "country": "MA",
@@ -279,8 +403,12 @@
         "population": 366570
     },
     "2548489": {
-        "geoid": "2548489",
-        "name": "Guercif",
+        "ids": {
+            "geonames": 2548489
+        },
+        "long": {
+            "default": "Guercif"
+        },
         "lat": 34.22568,
         "lng": -3.35361,
         "country": "MA",
@@ -288,8 +416,12 @@
         "population": 57544
     },
     "2548526": {
-        "geoid": "2548526",
-        "name": "Guelmim",
+        "ids": {
+            "geonames": 2548526
+        },
+        "long": {
+            "default": "Guelmim"
+        },
         "lat": 28.98696,
         "lng": -10.05738,
         "country": "MA",
@@ -297,8 +429,12 @@
         "population": 98229
     },
     "2548830": {
-        "geoid": "2548830",
-        "name": "Fkih Ben Salah",
+        "ids": {
+            "geonames": 2548830
+        },
+        "long": {
+            "default": "Fkih Ben Salah"
+        },
         "lat": 32.50093,
         "lng": -6.69062,
         "country": "MA",
@@ -306,8 +442,12 @@
         "population": 84072
     },
     "2548880": {
-        "geoid": "2548880",
-        "name": "Fès al Bali",
+        "ids": {
+            "geonames": 2548880
+        },
+        "long": {
+            "default": "Fès al Bali"
+        },
         "lat": 34.0701,
         "lng": -4.95473,
         "country": "MA",
@@ -315,8 +455,12 @@
         "population": 156000
     },
     "2548885": {
-        "geoid": "2548885",
-        "name": "Fes",
+        "ids": {
+            "geonames": 2548885
+        },
+        "long": {
+            "default": "Fes"
+        },
         "lat": 34.03313,
         "lng": -5.00028,
         "country": "MA",
@@ -324,8 +468,12 @@
         "population": 964891
     },
     "2549263": {
-        "geoid": "2549263",
-        "name": "Essaouira",
+        "ids": {
+            "geonames": 2549263
+        },
+        "long": {
+            "default": "Essaouira"
+        },
         "lat": 31.5125,
         "lng": -9.77,
         "country": "MA",
@@ -333,8 +481,12 @@
         "population": 70634
     },
     "2550078": {
-        "geoid": "2550078",
-        "name": "El Jadida",
+        "ids": {
+            "geonames": 2550078
+        },
+        "long": {
+            "default": "El Jadida"
+        },
         "lat": 33.25492,
         "lng": -8.50602,
         "country": "MA",
@@ -342,8 +494,12 @@
         "population": 147549
     },
     "2553604": {
-        "geoid": "2553604",
-        "name": "Casablanca",
+        "ids": {
+            "geonames": 2553604
+        },
+        "long": {
+            "default": "Casablanca"
+        },
         "lat": 33.58831,
         "lng": -7.61138,
         "country": "MA",
@@ -351,8 +507,12 @@
         "population": 3144909
     },
     "2555467": {
-        "geoid": "2555467",
-        "name": "Berkane",
+        "ids": {
+            "geonames": 2555467
+        },
+        "long": {
+            "default": "Berkane"
+        },
         "lat": 34.92,
         "lng": -2.32,
         "country": "MA",
@@ -360,8 +520,12 @@
         "population": 80721
     },
     "2555745": {
-        "geoid": "2555745",
-        "name": "Beni Mellal",
+        "ids": {
+            "geonames": 2555745
+        },
+        "long": {
+            "default": "Beni Mellal"
+        },
         "lat": 32.33725,
         "lng": -6.34983,
         "country": "MA",
@@ -369,8 +533,12 @@
         "population": 166399
     },
     "2556272": {
-        "geoid": "2556272",
-        "name": "Berrechid",
+        "ids": {
+            "geonames": 2556272
+        },
+        "long": {
+            "default": "Berrechid"
+        },
         "lat": 33.26553,
         "lng": -7.58754,
         "country": "MA",
@@ -378,8 +546,12 @@
         "population": 93954
     },
     "2558470": {
-        "geoid": "2558470",
-        "name": "Khemisset",
+        "ids": {
+            "geonames": 2558470
+        },
+        "long": {
+            "default": "Khemisset"
+        },
         "lat": 33.82404,
         "lng": -6.06627,
         "country": "MA",
@@ -387,8 +559,12 @@
         "population": 106991
     },
     "2558545": {
-        "geoid": "2558545",
-        "name": "Al Hoceïma",
+        "ids": {
+            "geonames": 2558545
+        },
+        "long": {
+            "default": "Al Hoceïma"
+        },
         "lat": 35.25165,
         "lng": -3.93723,
         "country": "MA",
@@ -396,8 +572,12 @@
         "population": 395644
     },
     "2561668": {
-        "geoid": "2561668",
-        "name": "Agadir",
+        "ids": {
+            "geonames": 2561668
+        },
+        "long": {
+            "default": "Agadir"
+        },
         "lat": 30.42018,
         "lng": -9.59815,
         "country": "MA",
@@ -405,8 +585,12 @@
         "population": 698310
     },
     "8542188": {
-        "geoid": "8542188",
-        "name": "Dakhla",
+        "ids": {
+            "geonames": 8542188
+        },
+        "long": {
+            "default": "Dakhla"
+        },
         "lat": 30.41071,
         "lng": -9.55572,
         "country": "MA",

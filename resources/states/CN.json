@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 1279685
         },
-        "names": {
-            "long": "Tibet Autonomous Region"
+        "long": {
+            "default": "Tibet Autonomous Region"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "06",
             "geonames": 1280239
         },
-        "names": {
-            "long": "Qinghai"
+        "long": {
+            "default": "Qinghai"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "13",
             "geonames": 1529047
         },
-        "names": {
-            "long": "Xinjiang Uyghur Autonomous Region"
+        "long": {
+            "default": "Xinjiang Uyghur Autonomous Region"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "02",
             "geonames": 1784764
         },
-        "names": {
-            "long": "Zhejiang"
+        "long": {
+            "default": "Zhejiang"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "29",
             "geonames": 1785694
         },
-        "names": {
-            "long": "Yunnan"
+        "long": {
+            "default": "Yunnan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "28",
             "geonames": 1792943
         },
-        "names": {
-            "long": "Tianjin"
+        "long": {
+            "default": "Tianjin"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "32",
             "geonames": 1794299
         },
-        "names": {
-            "long": "Sichuan"
+        "long": {
+            "default": "Sichuan"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "24",
             "geonames": 1795912
         },
-        "names": {
-            "long": "Shanxi"
+        "long": {
+            "default": "Shanxi"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "23",
             "geonames": 1796231
         },
-        "names": {
-            "long": "Shanghai"
+        "long": {
+            "default": "Shanghai"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "25",
             "geonames": 1796328
         },
-        "names": {
-            "long": "Shandong"
+        "long": {
+            "default": "Shandong"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "26",
             "geonames": 1796480
         },
-        "names": {
-            "long": "Shaanxi"
+        "long": {
+            "default": "Shaanxi"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "21",
             "geonames": 1799355
         },
-        "names": {
-            "long": "Ningsia Hui Autonomous Region"
+        "long": {
+            "default": "Ningsia Hui Autonomous Region"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "03",
             "geonames": 1806222
         },
-        "names": {
-            "long": "Jiangxi"
+        "long": {
+            "default": "Jiangxi"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "04",
             "geonames": 1806260
         },
-        "names": {
-            "long": "Jiangsu"
+        "long": {
+            "default": "Jiangsu"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "11",
             "geonames": 1806691
         },
-        "names": {
-            "long": "Hunan"
+        "long": {
+            "default": "Hunan"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "12",
             "geonames": 1806949
         },
-        "names": {
-            "long": "Hubei"
+        "long": {
+            "default": "Hubei"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "09",
             "geonames": 1808520
         },
-        "names": {
-            "long": "Henan"
+        "long": {
+            "default": "Henan"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "10",
             "geonames": 1808773
         },
-        "names": {
-            "long": "Hebei"
+        "long": {
+            "default": "Hebei"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "31",
             "geonames": 1809054
         },
-        "names": {
-            "long": "Hainan"
+        "long": {
+            "default": "Hainan"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "18",
             "geonames": 1809445
         },
-        "names": {
-            "long": "Guizhou"
+        "long": {
+            "default": "Guizhou"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "16",
             "geonames": 1809867
         },
-        "names": {
-            "long": "Guangxi Zhuang Autonomous Region"
+        "long": {
+            "default": "Guangxi Zhuang Autonomous Region"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "30",
             "geonames": 1809935
         },
-        "names": {
-            "long": "Guangdong"
+        "long": {
+            "default": "Guangdong"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "15",
             "geonames": 1810676
         },
-        "names": {
-            "long": "Gansu"
+        "long": {
+            "default": "Gansu"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "07",
             "geonames": 1811017
         },
-        "names": {
-            "long": "Fujian"
+        "long": {
+            "default": "Fujian"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "33",
             "geonames": 1814905
         },
-        "names": {
-            "long": "Chongqing"
+        "long": {
+            "default": "Chongqing"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "01",
             "geonames": 1818058
         },
-        "names": {
-            "long": "Anhui"
+        "long": {
+            "default": "Anhui"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "20",
             "geonames": 2035607
         },
-        "names": {
-            "long": "Inner Mongolia"
+        "long": {
+            "default": "Inner Mongolia"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "19",
             "geonames": 2036115
         },
-        "names": {
-            "long": "Liaoning"
+        "long": {
+            "default": "Liaoning"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "05",
             "geonames": 2036500
         },
-        "names": {
-            "long": "Jilin"
+        "long": {
+            "default": "Jilin"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "08",
             "geonames": 2036965
         },
-        "names": {
-            "long": "Heilongjiang"
+        "long": {
+            "default": "Heilongjiang"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "22",
             "geonames": 2038349
         },
-        "names": {
-            "long": "Beijing"
+        "long": {
+            "default": "Beijing"
         }
     }
 ]

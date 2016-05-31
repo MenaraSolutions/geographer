@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 290333
         },
-        "names": {
-            "long": "Muharraq"
+        "long": {
+            "default": "Muharraq"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "16",
             "geonames": 7090954
         },
-        "names": {
-            "long": "Manama"
+        "long": {
+            "default": "Manama"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 7090972
         },
-        "names": {
-            "long": "Southern Governorate"
+        "long": {
+            "default": "Southern Governorate"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "18",
             "geonames": 7090973
         },
-        "names": {
-            "long": "Central Governorate"
+        "long": {
+            "default": "Central Governorate"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "19",
             "geonames": 7090974
         },
-        "names": {
-            "long": "Northern"
+        "long": {
+            "default": "Northern"
         }
     }
 ]

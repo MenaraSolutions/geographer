@@ -1,7 +1,11 @@
 {
     "3582677": {
-        "geoid": "3582677",
-        "name": "Belize City",
+        "ids": {
+            "geonames": 3582677
+        },
+        "long": {
+            "default": "Belize City"
+        },
         "lat": 17.49952,
         "lng": -88.19756,
         "country": "BZ",

@@ -1,7 +1,11 @@
 {
     "1117652": {
-        "geoid": "1117652",
-        "name": "Ban Talat Yai",
+        "ids": {
+            "geonames": 1117652
+        },
+        "long": {
+            "default": "Ban Talat Yai"
+        },
         "lat": 7.88481,
         "lng": 98.40008,
         "country": "TH",
@@ -9,8 +13,12 @@
         "population": 52192
     },
     "1150007": {
-        "geoid": "1150007",
-        "name": "Trang",
+        "ids": {
+            "geonames": 1150007
+        },
+        "long": {
+            "default": "Trang"
+        },
         "lat": 7.55633,
         "lng": 99.61141,
         "country": "TH",
@@ -18,8 +26,12 @@
         "population": 66713
     },
     "1150275": {
-        "geoid": "1150275",
-        "name": "Tha Maka",
+        "ids": {
+            "geonames": 1150275
+        },
+        "long": {
+            "default": "Tha Maka"
+        },
         "lat": 13.9,
         "lng": 99.76667,
         "country": "TH",
@@ -27,8 +39,12 @@
         "population": 52907
     },
     "1150515": {
-        "geoid": "1150515",
-        "name": "Surat Thani",
+        "ids": {
+            "geonames": 1150515
+        },
+        "long": {
+            "default": "Surat Thani"
+        },
         "lat": 9.14011,
         "lng": 99.33311,
         "country": "TH",
@@ -36,8 +52,12 @@
         "population": 127201
     },
     "1150954": {
-        "geoid": "1150954",
-        "name": "Ratchaburi",
+        "ids": {
+            "geonames": 1150954
+        },
+        "long": {
+            "default": "Ratchaburi"
+        },
         "lat": 13.53671,
         "lng": 99.81712,
         "country": "TH",
@@ -45,8 +65,12 @@
         "population": 92448
     },
     "1151254": {
-        "geoid": "1151254",
-        "name": "Phuket",
+        "ids": {
+            "geonames": 1151254
+        },
+        "long": {
+            "default": "Phuket"
+        },
         "lat": 7.89059,
         "lng": 98.3981,
         "country": "TH",
@@ -54,8 +78,12 @@
         "population": 89072
     },
     "1151933": {
-        "geoid": "1151933",
-        "name": "Nakhon Si Thammarat",
+        "ids": {
+            "geonames": 1151933
+        },
+        "long": {
+            "default": "Nakhon Si Thammarat"
+        },
         "lat": 8.43333,
         "lng": 99.96667,
         "country": "TH",
@@ -63,8 +91,12 @@
         "population": 120836
     },
     "1152473": {
-        "geoid": "1152473",
-        "name": "Lampang",
+        "ids": {
+            "geonames": 1152473
+        },
+        "long": {
+            "default": "Lampang"
+        },
         "lat": 18.29232,
         "lng": 99.49277,
         "country": "TH",
@@ -72,8 +104,12 @@
         "population": 156139
     },
     "1153081": {
-        "geoid": "1153081",
-        "name": "Kanchanaburi",
+        "ids": {
+            "geonames": 1153081
+        },
+        "long": {
+            "default": "Kanchanaburi"
+        },
         "lat": 14.00412,
         "lng": 99.54832,
         "country": "TH",
@@ -81,8 +117,12 @@
         "population": 63699
     },
     "1153090": {
-        "geoid": "1153090",
-        "name": "Kamphaeng Phet",
+        "ids": {
+            "geonames": 1153090
+        },
+        "long": {
+            "default": "Kamphaeng Phet"
+        },
         "lat": 16.48344,
         "lng": 99.52153,
         "country": "TH",
@@ -90,8 +130,12 @@
         "population": 58787
     },
     "1153269": {
-        "geoid": "1153269",
-        "name": "Hua Hin",
+        "ids": {
+            "geonames": 1153269
+        },
+        "long": {
+            "default": "Hua Hin"
+        },
         "lat": 12.57065,
         "lng": 99.95876,
         "country": "TH",
@@ -99,8 +143,12 @@
         "population": 50456
     },
     "1153557": {
-        "geoid": "1153557",
-        "name": "Chumphon",
+        "ids": {
+            "geonames": 1153557
+        },
+        "long": {
+            "default": "Chumphon"
+        },
         "lat": 10.4957,
         "lng": 99.17971,
         "country": "TH",
@@ -108,8 +156,12 @@
         "population": 55835
     },
     "1153669": {
-        "geoid": "1153669",
-        "name": "Chiang Rai",
+        "ids": {
+            "geonames": 1153669
+        },
+        "long": {
+            "default": "Chiang Rai"
+        },
         "lat": 19.90858,
         "lng": 99.8325,
         "country": "TH",
@@ -117,8 +169,12 @@
         "population": 78756
     },
     "1153671": {
-        "geoid": "1153671",
-        "name": "Chiang Mai",
+        "ids": {
+            "geonames": 1153671
+        },
+        "long": {
+            "default": "Chiang Mai"
+        },
         "lat": 18.79038,
         "lng": 98.98468,
         "country": "TH",
@@ -126,8 +182,12 @@
         "population": 200952
     },
     "1155139": {
-        "geoid": "1155139",
-        "name": "Ban Pong",
+        "ids": {
+            "geonames": 1155139
+        },
+        "long": {
+            "default": "Ban Pong"
+        },
         "lat": 13.81629,
         "lng": 99.87739,
         "country": "TH",
@@ -135,8 +195,12 @@
         "population": 57559
     },
     "1601579": {
-        "geoid": "1601579",
-        "name": "Ban Mai",
+        "ids": {
+            "geonames": 1601579
+        },
+        "long": {
+            "default": "Ban Mai"
+        },
         "lat": 7.20411,
         "lng": 100.54508,
         "country": "TH",
@@ -144,8 +208,12 @@
         "population": 86899
     },
     "1604870": {
-        "geoid": "1604870",
-        "name": "Yala",
+        "ids": {
+            "geonames": 1604870
+        },
+        "long": {
+            "default": "Yala"
+        },
         "lat": 6.53995,
         "lng": 101.28128,
         "country": "TH",
@@ -153,8 +221,12 @@
         "population": 93558
     },
     "1605215": {
-        "geoid": "1605215",
-        "name": "Uttaradit",
+        "ids": {
+            "geonames": 1605215
+        },
+        "long": {
+            "default": "Uttaradit"
+        },
         "lat": 17.62557,
         "lng": 100.09421,
         "country": "TH",
@@ -162,8 +234,12 @@
         "population": 58313
     },
     "1605239": {
-        "geoid": "1605239",
-        "name": "Udon Thani",
+        "ids": {
+            "geonames": 1605239
+        },
+        "long": {
+            "default": "Udon Thani"
+        },
         "lat": 17.41567,
         "lng": 102.78589,
         "country": "TH",
@@ -171,8 +247,12 @@
         "population": 247231
     },
     "1605245": {
-        "geoid": "1605245",
-        "name": "Ubon Ratchathani",
+        "ids": {
+            "geonames": 1605245
+        },
+        "long": {
+            "default": "Ubon Ratchathani"
+        },
         "lat": 15.23844,
         "lng": 104.84866,
         "country": "TH",
@@ -180,8 +260,12 @@
         "population": 122533
     },
     "1606033": {
-        "geoid": "1606033",
-        "name": "Suphan Buri",
+        "ids": {
+            "geonames": 1606033
+        },
+        "long": {
+            "default": "Suphan Buri"
+        },
         "lat": 14.47418,
         "lng": 100.12218,
         "country": "TH",
@@ -189,8 +273,12 @@
         "population": 53399
     },
     "1606147": {
-        "geoid": "1606147",
-        "name": "Songkhla",
+        "ids": {
+            "geonames": 1606147
+        },
+        "long": {
+            "default": "Songkhla"
+        },
         "lat": 7.19882,
         "lng": 100.5951,
         "country": "TH",
@@ -198,8 +286,12 @@
         "population": 84264
     },
     "1606250": {
-        "geoid": "1606250",
-        "name": "Si Racha",
+        "ids": {
+            "geonames": 1606250
+        },
+        "long": {
+            "default": "Si Racha"
+        },
         "lat": 13.17372,
         "lng": 100.93111,
         "country": "TH",
@@ -207,8 +299,12 @@
         "population": 178916
     },
     "1606386": {
-        "geoid": "1606386",
-        "name": "Sattahip",
+        "ids": {
+            "geonames": 1606386
+        },
+        "long": {
+            "default": "Sattahip"
+        },
         "lat": 12.66644,
         "lng": 100.90073,
         "country": "TH",
@@ -216,8 +312,12 @@
         "population": 65444
     },
     "1606418": {
-        "geoid": "1606418",
-        "name": "Saraburi",
+        "ids": {
+            "geonames": 1606418
+        },
+        "long": {
+            "default": "Saraburi"
+        },
         "lat": 14.53333,
         "lng": 100.91667,
         "country": "TH",
@@ -225,8 +325,12 @@
         "population": 67763
     },
     "1606588": {
-        "geoid": "1606588",
-        "name": "Samut Sakhon",
+        "ids": {
+            "geonames": 1606588
+        },
+        "long": {
+            "default": "Samut Sakhon"
+        },
         "lat": 13.54753,
         "lng": 100.27362,
         "country": "TH",
@@ -234,8 +338,12 @@
         "population": 63498
     },
     "1606590": {
-        "geoid": "1606590",
-        "name": "Samut Prakan",
+        "ids": {
+            "geonames": 1606590
+        },
+        "long": {
+            "default": "Samut Prakan"
+        },
         "lat": 13.59934,
         "lng": 100.59675,
         "country": "TH",
@@ -243,8 +351,12 @@
         "population": 388920
     },
     "1606790": {
-        "geoid": "1606790",
-        "name": "Sakon Nakhon",
+        "ids": {
+            "geonames": 1606790
+        },
+        "long": {
+            "default": "Sakon Nakhon"
+        },
         "lat": 17.16116,
         "lng": 104.14725,
         "country": "TH",
@@ -252,8 +364,12 @@
         "population": 76237
     },
     "1607017": {
-        "geoid": "1607017",
-        "name": "Rayong",
+        "ids": {
+            "geonames": 1607017
+        },
+        "long": {
+            "default": "Rayong"
+        },
         "lat": 12.68095,
         "lng": 101.25798,
         "country": "TH",
@@ -261,8 +377,12 @@
         "population": 106737
     },
     "1607508": {
-        "geoid": "1607508",
-        "name": "Phra Pradaeng",
+        "ids": {
+            "geonames": 1607508
+        },
+        "long": {
+            "default": "Phra Pradaeng"
+        },
         "lat": 13.65855,
         "lng": 100.53362,
         "country": "TH",
@@ -270,8 +390,12 @@
         "population": 171333
     },
     "1607512": {
-        "geoid": "1607512",
-        "name": "Phra Phutthabat",
+        "ids": {
+            "geonames": 1607512
+        },
+        "long": {
+            "default": "Phra Phutthabat"
+        },
         "lat": 14.72526,
         "lng": 100.79536,
         "country": "TH",
@@ -279,8 +403,12 @@
         "population": 57008
     },
     "1607532": {
-        "geoid": "1607532",
-        "name": "Phra Nakhon Si Ayutthaya",
+        "ids": {
+            "geonames": 1607532
+        },
+        "long": {
+            "default": "Phra Nakhon Si Ayutthaya"
+        },
         "lat": 14.35167,
         "lng": 100.57739,
         "country": "TH",
@@ -288,8 +416,12 @@
         "population": 81962
     },
     "1607708": {
-        "geoid": "1607708",
-        "name": "Phitsanulok",
+        "ids": {
+            "geonames": 1607708
+        },
+        "long": {
+            "default": "Phitsanulok"
+        },
         "lat": 16.82481,
         "lng": 100.25858,
         "country": "TH",
@@ -297,8 +429,12 @@
         "population": 103427
     },
     "1607737": {
-        "geoid": "1607737",
-        "name": "Phetchabun",
+        "ids": {
+            "geonames": 1607737
+        },
+        "long": {
+            "default": "Phetchabun"
+        },
         "lat": 16.41904,
         "lng": 101.16056,
         "country": "TH",
@@ -306,8 +442,12 @@
         "population": 50656
     },
     "1608048": {
-        "geoid": "1608048",
-        "name": "Pak Kret",
+        "ids": {
+            "geonames": 1608048
+        },
+        "long": {
+            "default": "Pak Kret"
+        },
         "lat": 13.91301,
         "lng": 100.49883,
         "country": "TH",
@@ -315,8 +455,12 @@
         "population": 182926
     },
     "1608133": {
-        "geoid": "1608133",
-        "name": "Mueang Nonthaburi",
+        "ids": {
+            "geonames": 1608133
+        },
+        "long": {
+            "default": "Mueang Nonthaburi"
+        },
         "lat": 13.86075,
         "lng": 100.51477,
         "country": "TH",
@@ -324,8 +468,12 @@
         "population": 291555
     },
     "1608232": {
-        "geoid": "1608232",
-        "name": "Nong Khai",
+        "ids": {
+            "geonames": 1608232
+        },
+        "long": {
+            "default": "Nong Khai"
+        },
         "lat": 17.87847,
         "lng": 102.742,
         "country": "TH",
@@ -333,8 +481,12 @@
         "population": 63609
     },
     "1608527": {
-        "geoid": "1608527",
-        "name": "Nakhon Sawan",
+        "ids": {
+            "geonames": 1608527
+        },
+        "long": {
+            "default": "Nakhon Sawan"
+        },
         "lat": 15.70472,
         "lng": 100.13717,
         "country": "TH",
@@ -342,8 +494,12 @@
         "population": 91802
     },
     "1608529": {
-        "geoid": "1608529",
-        "name": "Nakhon Ratchasima",
+        "ids": {
+            "geonames": 1608529
+        },
+        "long": {
+            "default": "Nakhon Ratchasima"
+        },
         "lat": 14.97066,
         "lng": 102.10196,
         "country": "TH",
@@ -351,8 +507,12 @@
         "population": 208781
     },
     "1608534": {
-        "geoid": "1608534",
-        "name": "Nakhon Pathom",
+        "ids": {
+            "geonames": 1608534
+        },
+        "long": {
+            "default": "Nakhon Pathom"
+        },
         "lat": 13.8196,
         "lng": 100.04427,
         "country": "TH",
@@ -360,8 +520,12 @@
         "population": 117927
     },
     "1608900": {
-        "geoid": "1608900",
-        "name": "Maha Sarakham",
+        "ids": {
+            "geonames": 1608900
+        },
+        "long": {
+            "default": "Maha Sarakham"
+        },
         "lat": 16.18483,
         "lng": 103.30067,
         "country": "TH",
@@ -369,8 +533,12 @@
         "population": 51584
     },
     "1609032": {
-        "geoid": "1609032",
-        "name": "Lop Buri",
+        "ids": {
+            "geonames": 1609032
+        },
+        "long": {
+            "default": "Lop Buri"
+        },
         "lat": 14.79808,
         "lng": 100.65397,
         "country": "TH",
@@ -378,8 +546,12 @@
         "population": 57761
     },
     "1609350": {
-        "geoid": "1609350",
-        "name": "Bangkok",
+        "ids": {
+            "geonames": 1609350
+        },
+        "long": {
+            "default": "Bangkok"
+        },
         "lat": 13.75398,
         "lng": 100.50144,
         "country": "TH",
@@ -387,8 +559,12 @@
         "population": 5104476
     },
     "1609395": {
-        "geoid": "1609395",
-        "name": "Krathum Baen",
+        "ids": {
+            "geonames": 1609395
+        },
+        "long": {
+            "default": "Krathum Baen"
+        },
         "lat": 13.6533,
         "lng": 100.25972,
         "country": "TH",
@@ -396,8 +572,12 @@
         "population": 72819
     },
     "1609610": {
-        "geoid": "1609610",
-        "name": "Klaeng",
+        "ids": {
+            "geonames": 1609610
+        },
+        "long": {
+            "default": "Klaeng"
+        },
         "lat": 12.77972,
         "lng": 101.64831,
         "country": "TH",
@@ -405,8 +585,12 @@
         "population": 55619
     },
     "1609776": {
-        "geoid": "1609776",
-        "name": "Khon Kaen",
+        "ids": {
+            "geonames": 1609776
+        },
+        "long": {
+            "default": "Khon Kaen"
+        },
         "lat": 16.44671,
         "lng": 102.833,
         "country": "TH",
@@ -414,8 +598,12 @@
         "population": 147579
     },
     "1609899": {
-        "geoid": "1609899",
-        "name": "Khlong Luang",
+        "ids": {
+            "geonames": 1609899
+        },
+        "long": {
+            "default": "Khlong Luang"
+        },
         "lat": 14.06467,
         "lng": 100.64578,
         "country": "TH",
@@ -423,8 +611,12 @@
         "population": 118551
     },
     "1610469": {
-        "geoid": "1610469",
-        "name": "Kalasin",
+        "ids": {
+            "geonames": 1610469
+        },
+        "long": {
+            "default": "Kalasin"
+        },
         "lat": 16.43281,
         "lng": 103.50658,
         "country": "TH",
@@ -432,8 +624,12 @@
         "population": 55102
     },
     "1610780": {
-        "geoid": "1610780",
-        "name": "Hat Yai",
+        "ids": {
+            "geonames": 1610780
+        },
+        "long": {
+            "default": "Hat Yai"
+        },
         "lat": 7.00836,
         "lng": 100.47668,
         "country": "TH",
@@ -441,8 +637,12 @@
         "population": 191696
     },
     "1611110": {
-        "geoid": "1611110",
-        "name": "Chon Buri",
+        "ids": {
+            "geonames": 1611110
+        },
+        "long": {
+            "default": "Chon Buri"
+        },
         "lat": 13.3622,
         "lng": 100.98345,
         "country": "TH",
@@ -450,8 +650,12 @@
         "population": 219164
     },
     "1611269": {
-        "geoid": "1611269",
-        "name": "Chanthaburi",
+        "ids": {
+            "geonames": 1611269
+        },
+        "long": {
+            "default": "Chanthaburi"
+        },
         "lat": 12.60961,
         "lng": 102.10447,
         "country": "TH",
@@ -459,8 +663,12 @@
         "population": 99819
     },
     "1611407": {
-        "geoid": "1611407",
-        "name": "Chaiyaphum",
+        "ids": {
+            "geonames": 1611407
+        },
+        "long": {
+            "default": "Chaiyaphum"
+        },
         "lat": 15.81047,
         "lng": 102.02881,
         "country": "TH",
@@ -468,8 +676,12 @@
         "population": 58350
     },
     "1613769": {
-        "geoid": "1613769",
-        "name": "Ban Rangsit",
+        "ids": {
+            "geonames": 1613769
+        },
+        "long": {
+            "default": "Ban Rangsit"
+        },
         "lat": 14.02775,
         "lng": 100.75603,
         "country": "TH",
@@ -477,8 +689,12 @@
         "population": 123382
     },
     "1614295": {
-        "geoid": "1614295",
-        "name": "Phatthaya",
+        "ids": {
+            "geonames": 1614295
+        },
+        "long": {
+            "default": "Phatthaya"
+        },
         "lat": 12.93333,
         "lng": 100.88333,
         "country": "TH",
@@ -486,8 +702,12 @@
         "population": 97296
     },
     "1617111": {
-        "geoid": "1617111",
-        "name": "Ban Lam Luk Ka",
+        "ids": {
+            "geonames": 1617111
+        },
+        "long": {
+            "default": "Ban Lam Luk Ka"
+        },
         "lat": 13.97738,
         "lng": 100.77776,
         "country": "TH",
@@ -495,8 +715,12 @@
         "population": 60700
     },
     "1619434": {
-        "geoid": "1619434",
-        "name": "Bang Kruai",
+        "ids": {
+            "geonames": 1619434
+        },
+        "long": {
+            "default": "Bang Kruai"
+        },
         "lat": 13.805,
         "lng": 100.47283,
         "country": "TH",

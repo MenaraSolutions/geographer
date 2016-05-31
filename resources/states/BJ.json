@@ -4,8 +4,8 @@
             "fips": "18",
             "geonames": 2390719
         },
-        "names": {
-            "long": "Zou"
+        "long": {
+            "default": "Zou"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "16",
             "geonames": 2392325
         },
-        "names": {
-            "long": "Ouémé"
+        "long": {
+            "default": "Ouémé"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "15",
             "geonames": 2392716
         },
-        "names": {
-            "long": "Mono"
+        "long": {
+            "default": "Mono"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "10",
             "geonames": 2394992
         },
-        "names": {
-            "long": "Borgou"
+        "long": {
+            "default": "Borgou"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "09",
             "geonames": 2395504
         },
-        "names": {
-            "long": "Atlantique"
+        "long": {
+            "default": "Atlantique"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "08",
             "geonames": 2395524
         },
-        "names": {
-            "long": "Atakora"
+        "long": {
+            "default": "Atakora"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 2597271
         },
-        "names": {
-            "long": "Alibori"
+        "long": {
+            "default": "Alibori"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "11",
             "geonames": 2597272
         },
-        "names": {
-            "long": "Collines"
+        "long": {
+            "default": "Collines"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "12",
             "geonames": 2597273
         },
-        "names": {
-            "long": "Kouffo"
+        "long": {
+            "default": "Kouffo"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "13",
             "geonames": 2597274
         },
-        "names": {
-            "long": "Donga"
+        "long": {
+            "default": "Donga"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "14",
             "geonames": 2597275
         },
-        "names": {
-            "long": "Littoral"
+        "long": {
+            "default": "Littoral"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "17",
             "geonames": 2597277
         },
-        "names": {
-            "long": "Plateau"
+        "long": {
+            "default": "Plateau"
         }
     }
 ]

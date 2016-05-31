@@ -4,8 +4,8 @@
             "fips": "GZ",
             "geonames": 281132
         },
-        "names": {
-            "long": "Gaza Strip"
+        "long": {
+            "default": "Gaza Strip"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "WE",
             "geonames": 285153
         },
-        "names": {
-            "long": "West Bank"
+        "long": {
+            "default": "West Bank"
         }
     }
 ]

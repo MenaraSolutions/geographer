@@ -4,8 +4,8 @@
             "fips": "12",
             "geonames": 1821301
         },
-        "names": {
-            "long": "Pursat"
+        "long": {
+            "default": "Pursat"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "29",
             "geonames": 1821310
         },
-        "names": {
-            "long": "Battambang"
+        "long": {
+            "default": "Battambang"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "19",
             "geonames": 1821939
         },
-        "names": {
-            "long": "Takeo"
+        "long": {
+            "default": "Takeo"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "18",
             "geonames": 1821992
         },
-        "names": {
-            "long": "Svay Rieng"
+        "long": {
+            "default": "Svay Rieng"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "17",
             "geonames": 1822028
         },
-        "names": {
-            "long": "Stung Treng"
+        "long": {
+            "default": "Stung Treng"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "27",
             "geonames": 1822210
         },
-        "names": {
-            "long": "Ŏtâr Méanchey"
+        "long": {
+            "default": "Ŏtâr Méanchey"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "24",
             "geonames": 1822213
         },
-        "names": {
-            "long": "Siem Reap"
+        "long": {
+            "default": "Siem Reap"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "23",
             "geonames": 1822449
         },
-        "names": {
-            "long": "Ratanakiri"
+        "long": {
+            "default": "Ratanakiri"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "14",
             "geonames": 1822609
         },
-        "names": {
-            "long": "Prey Veng"
+        "long": {
+            "default": "Prey Veng"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "13",
             "geonames": 1822676
         },
-        "names": {
-            "long": "Preah Vihear"
+        "long": {
+            "default": "Preah Vihear"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "22",
             "geonames": 1830103
         },
-        "names": {
-            "long": "Phnom Penh"
+        "long": {
+            "default": "Phnom Penh"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "30",
             "geonames": 1830206
         },
-        "names": {
-            "long": "Pailin"
+        "long": {
+            "default": "Pailin"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "10",
             "geonames": 1830306
         },
-        "names": {
-            "long": "Mondolkiri"
+        "long": {
+            "default": "Mondolkiri"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "09",
             "geonames": 1830563
         },
-        "names": {
-            "long": "Kratie"
+        "long": {
+            "default": "Kratie"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "26",
             "geonames": 1830937
         },
-        "names": {
-            "long": "Kep"
+        "long": {
+            "default": "Kep"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "08",
             "geonames": 1831037
         },
-        "names": {
-            "long": "Koh Kong"
+        "long": {
+            "default": "Koh Kong"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "07",
             "geonames": 1831095
         },
-        "names": {
-            "long": "Kandal"
+        "long": {
+            "default": "Kandal"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "21",
             "geonames": 1831111
         },
-        "names": {
-            "long": "Kampot"
+        "long": {
+            "default": "Kampot"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "05",
             "geonames": 1831124
         },
-        "names": {
-            "long": "Kampong Thom"
+        "long": {
+            "default": "Kampong Thom"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "04",
             "geonames": 1831132
         },
-        "names": {
-            "long": "Kampong Speu"
+        "long": {
+            "default": "Kampong Speu"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "03",
             "geonames": 1831166
         },
-        "names": {
-            "long": "Kampong Chhnang"
+        "long": {
+            "default": "Kampong Chhnang"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "02",
             "geonames": 1831172
         },
-        "names": {
-            "long": "Kampong Cham"
+        "long": {
+            "default": "Kampong Cham"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "28",
             "geonames": 1899262
         },
-        "names": {
-            "long": "Preah Sihanouk"
+        "long": {
+            "default": "Preah Sihanouk"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "25",
             "geonames": 1899273
         },
-        "names": {
-            "long": "Banteay Meanchey"
+        "long": {
+            "default": "Banteay Meanchey"
         }
     }
 ]

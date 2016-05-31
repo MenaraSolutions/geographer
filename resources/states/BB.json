@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 3373551
         },
-        "names": {
-            "long": "Saint Thomas"
+        "long": {
+            "default": "Saint Thomas"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 3373553
         },
-        "names": {
-            "long": "Saint Philip"
+        "long": {
+            "default": "Saint Philip"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "09",
             "geonames": 3373554
         },
-        "names": {
-            "long": "Saint Peter"
+        "long": {
+            "default": "Saint Peter"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 3373557
         },
-        "names": {
-            "long": "Saint Michael"
+        "long": {
+            "default": "Saint Michael"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 3373565
         },
-        "names": {
-            "long": "Saint Lucy"
+        "long": {
+            "default": "Saint Lucy"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 3373568
         },
-        "names": {
-            "long": "Saint Joseph"
+        "long": {
+            "default": "Saint Joseph"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 3373569
         },
-        "names": {
-            "long": "Saint John"
+        "long": {
+            "default": "Saint John"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 3373570
         },
-        "names": {
-            "long": "Saint James"
+        "long": {
+            "default": "Saint James"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 3373572
         },
-        "names": {
-            "long": "Saint George"
+        "long": {
+            "default": "Saint George"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "02",
             "geonames": 3373580
         },
-        "names": {
-            "long": "Saint Andrew"
+        "long": {
+            "default": "Saint Andrew"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "01",
             "geonames": 3373988
         },
-        "names": {
-            "long": "Christ Church"
+        "long": {
+            "default": "Christ Church"
         }
     }
 ]

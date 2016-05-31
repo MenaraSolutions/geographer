@@ -4,8 +4,8 @@
             "fips": "12",
             "geonames": 146879
         },
-        "names": {
-            "long": "Beyləqan"
+        "long": {
+            "default": "Beyləqan"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "69",
             "geonames": 146900
         },
-        "names": {
-            "long": "Zǝngilan"
+        "long": {
+            "default": "Zǝngilan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "66",
             "geonames": 146962
         },
-        "names": {
-            "long": "Yardımlı"
+        "long": {
+            "default": "Yardımlı"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "55",
             "geonames": 147163
         },
-        "names": {
-            "long": "Şuşa"
+        "long": {
+            "default": "Şuşa"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "49",
             "geonames": 147269
         },
-        "names": {
-            "long": "Salyan"
+        "long": {
+            "default": "Salyan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "46",
             "geonames": 147284
         },
-        "names": {
-            "long": "Sabirabad"
+        "long": {
+            "default": "Sabirabad"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "45",
             "geonames": 147287
         },
-        "names": {
-            "long": "Saatlı"
+        "long": {
+            "default": "Saatlı"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "13",
             "geonames": 147310
         },
-        "names": {
-            "long": "Bilǝsuvar"
+        "long": {
+            "default": "Bilǝsuvar"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "36",
             "geonames": 147422
         },
-        "names": {
-            "long": "Neftçala"
+        "long": {
+            "default": "Neftçala"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "35",
             "geonames": 147435
         },
-        "names": {
-            "long": "Nakhichevan"
+        "long": {
+            "default": "Nakhichevan"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "32",
             "geonames": 147551
         },
-        "names": {
-            "long": "Masally"
+        "long": {
+            "default": "Masally"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "31",
             "geonames": 147610
         },
-        "names": {
-            "long": "Lerik"
+        "long": {
+            "default": "Lerik"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "29",
             "geonames": 147613
         },
-        "names": {
-            "long": "Lənkəran"
+        "long": {
+            "default": "Lənkəran"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "28",
             "geonames": 147626
         },
-        "names": {
-            "long": "Laçın"
+        "long": {
+            "default": "Laçın"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "43",
             "geonames": 147694
         },
-        "names": {
-            "long": "Qubadlı"
+        "long": {
+            "default": "Qubadlı"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "24",
             "geonames": 147983
         },
-        "names": {
-            "long": "İmişli"
+        "long": {
+            "default": "İmişli"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "18",
             "geonames": 148107
         },
-        "names": {
-            "long": "Füzuli"
+        "long": {
+            "default": "Füzuli"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "14",
             "geonames": 148140
         },
-        "names": {
-            "long": "Jabrayil"
+        "long": {
+            "default": "Jabrayil"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "15",
             "geonames": 148155
         },
-        "names": {
-            "long": "Jalilabad"
+        "long": {
+            "default": "Jalilabad"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "08",
             "geonames": 148442
         },
-        "names": {
-            "long": "Astara"
+        "long": {
+            "default": "Astara"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "64",
             "geonames": 148449
         },
-        "names": {
-            "long": "Xocalı"
+        "long": {
+            "default": "Xocalı"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "02",
             "geonames": 148615
         },
-        "names": {
-            "long": "Ağcabǝdi"
+        "long": {
+            "default": "Ağcabǝdi"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "03",
             "geonames": 148617
         },
-        "names": {
-            "long": "Ağdam"
+        "long": {
+            "default": "Ağdam"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "07",
             "geonames": 409417
         },
-        "names": {
-            "long": "Shirvan"
+        "long": {
+            "default": "Shirvan"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "30",
             "geonames": 409418
         },
-        "names": {
-            "long": "Lankaran Sahari"
+        "long": {
+            "default": "Lankaran Sahari"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "56",
             "geonames": 409419
         },
-        "names": {
-            "long": "Şuşa Şəhəri"
+        "long": {
+            "default": "Şuşa Şəhəri"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "57",
             "geonames": 409420
         },
-        "names": {
-            "long": "Tǝrtǝr"
+        "long": {
+            "default": "Tǝrtǝr"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "61",
             "geonames": 409421
         },
-        "names": {
-            "long": "Xankǝndi"
+        "long": {
+            "default": "Xankǝndi"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "65",
             "geonames": 409423
         },
-        "names": {
-            "long": "Khojavend"
+        "long": {
+            "default": "Khojavend"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "71",
             "geonames": 584583
         },
-        "names": {
-            "long": "Zərdab"
+        "long": {
+            "default": "Zərdab"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "70",
             "geonames": 584604
         },
-        "names": {
-            "long": "Zaqatala"
+        "long": {
+            "default": "Zaqatala"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "67",
             "geonames": 584650
         },
-        "names": {
-            "long": "Yevlax"
+        "long": {
+            "default": "Yevlax"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "37",
             "geonames": 584742
         },
-        "names": {
-            "long": "Oğuz"
+        "long": {
+            "default": "Oğuz"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "59",
             "geonames": 584783
         },
-        "names": {
-            "long": "Ucar"
+        "long": {
+            "default": "Ucar"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "58",
             "geonames": 584861
         },
-        "names": {
-            "long": "Tovuz"
+        "long": {
+            "default": "Tovuz"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "50",
             "geonames": 585030
         },
-        "names": {
-            "long": "Şamaxı"
+        "long": {
+            "default": "Şamaxı"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "47",
             "geonames": 585031
         },
-        "names": {
-            "long": "Şǝki"
+        "long": {
+            "default": "Şǝki"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "51",
             "geonames": 585059
         },
-        "names": {
-            "long": "Şǝmkir"
+        "long": {
+            "default": "Şǝmkir"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "27",
             "geonames": 585686
         },
-        "names": {
-            "long": "Kürdǝmir"
+        "long": {
+            "default": "Kürdǝmir"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "38",
             "geonames": 585738
         },
-        "names": {
-            "long": "Qǝbǝlǝ"
+        "long": {
+            "default": "Qǝbǝlǝ"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "44",
             "geonames": 585749
         },
-        "names": {
-            "long": "Qusar"
+        "long": {
+            "default": "Qusar"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "42",
             "geonames": 585786
         },
-        "names": {
-            "long": "Quba"
+        "long": {
+            "default": "Quba"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "62",
             "geonames": 585967
         },
-        "names": {
-            "long": "Goygol Rayon"
+        "long": {
+            "default": "Goygol Rayon"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "60",
             "geonames": 586001
         },
-        "names": {
-            "long": "Xaçmaz"
+        "long": {
+            "default": "Xaçmaz"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "26",
             "geonames": 586047
         },
-        "names": {
-            "long": "Kalbajar"
+        "long": {
+            "default": "Kalbajar"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "40",
             "geonames": 586087
         },
-        "names": {
-            "long": "Qazax"
+        "long": {
+            "default": "Qazax"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "21",
             "geonames": 586112
         },
-        "names": {
-            "long": "Goranboy"
+        "long": {
+            "default": "Goranboy"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "39",
             "geonames": 586290
         },
-        "names": {
-            "long": "Qǝx"
+        "long": {
+            "default": "Qǝx"
         }
     },
     {
@@ -436,8 +436,8 @@
             "fips": "25",
             "geonames": 586320
         },
-        "names": {
-            "long": "İsmayıllı"
+        "long": {
+            "default": "İsmayıllı"
         }
     },
     {
@@ -445,8 +445,8 @@
             "fips": "22",
             "geonames": 586482
         },
-        "names": {
-            "long": "Göyçay"
+        "long": {
+            "default": "Göyçay"
         }
     },
     {
@@ -454,8 +454,8 @@
             "fips": "17",
             "geonames": 586725
         },
-        "names": {
-            "long": "Shabran"
+        "long": {
+            "default": "Shabran"
         }
     },
     {
@@ -463,8 +463,8 @@
             "fips": "16",
             "geonames": 586771
         },
-        "names": {
-            "long": "Daşkǝsǝn"
+        "long": {
+            "default": "Daşkǝsǝn"
         }
     },
     {
@@ -472,8 +472,8 @@
             "fips": "10",
             "geonames": 587010
         },
-        "names": {
-            "long": "Balakǝn"
+        "long": {
+            "default": "Balakǝn"
         }
     },
     {
@@ -481,8 +481,8 @@
             "fips": "11",
             "geonames": 587056
         },
-        "names": {
-            "long": "Bǝrdǝ"
+        "long": {
+            "default": "Bǝrdǝ"
         }
     },
     {
@@ -490,8 +490,8 @@
             "fips": "09",
             "geonames": 587081
         },
-        "names": {
-            "long": "Baki"
+        "long": {
+            "default": "Baki"
         }
     },
     {
@@ -499,8 +499,8 @@
             "fips": "01",
             "geonames": 587245
         },
-        "names": {
-            "long": "Abşeron"
+        "long": {
+            "default": "Abşeron"
         }
     },
     {
@@ -508,8 +508,8 @@
             "fips": "06",
             "geonames": 587342
         },
-        "names": {
-            "long": "Ağsu"
+        "long": {
+            "default": "Ağsu"
         }
     },
     {
@@ -517,8 +517,8 @@
             "fips": "04",
             "geonames": 587376
         },
-        "names": {
-            "long": "Ağdaş"
+        "long": {
+            "default": "Ağdaş"
         }
     },
     {
@@ -526,8 +526,8 @@
             "fips": "19",
             "geonames": 627535
         },
-        "names": {
-            "long": "Gǝdǝbǝy"
+        "long": {
+            "default": "Gǝdǝbǝy"
         }
     },
     {
@@ -535,8 +535,8 @@
             "fips": "05",
             "geonames": 828297
         },
-        "names": {
-            "long": "Ağstafa"
+        "long": {
+            "default": "Ağstafa"
         }
     },
     {
@@ -544,8 +544,8 @@
             "fips": "20",
             "geonames": 828298
         },
-        "names": {
-            "long": "Gǝncǝ"
+        "long": {
+            "default": "Gǝncǝ"
         }
     },
     {
@@ -553,8 +553,8 @@
             "fips": "33",
             "geonames": 828299
         },
-        "names": {
-            "long": "Mingǝcevir"
+        "long": {
+            "default": "Mingǝcevir"
         }
     },
     {
@@ -562,8 +562,8 @@
             "fips": "34",
             "geonames": 828300
         },
-        "names": {
-            "long": "Naftalan"
+        "long": {
+            "default": "Naftalan"
         }
     },
     {
@@ -571,8 +571,8 @@
             "fips": "41",
             "geonames": 828301
         },
-        "names": {
-            "long": "Qobustan"
+        "long": {
+            "default": "Qobustan"
         }
     },
     {
@@ -580,8 +580,8 @@
             "fips": "52",
             "geonames": 828302
         },
-        "names": {
-            "long": "Samux"
+        "long": {
+            "default": "Samux"
         }
     },
     {
@@ -589,8 +589,8 @@
             "fips": "48",
             "geonames": 828303
         },
-        "names": {
-            "long": "Shaki City"
+        "long": {
+            "default": "Shaki City"
         }
     },
     {
@@ -598,8 +598,8 @@
             "fips": "53",
             "geonames": 828304
         },
-        "names": {
-            "long": "Siyǝzǝn"
+        "long": {
+            "default": "Siyǝzǝn"
         }
     },
     {
@@ -607,8 +607,8 @@
             "fips": "54",
             "geonames": 828305
         },
-        "names": {
-            "long": "Sumqayit"
+        "long": {
+            "default": "Sumqayit"
         }
     },
     {
@@ -616,8 +616,8 @@
             "fips": "63",
             "geonames": 828306
         },
-        "names": {
-            "long": "Xızı"
+        "long": {
+            "default": "Xızı"
         }
     },
     {
@@ -625,8 +625,8 @@
             "fips": "68",
             "geonames": 828307
         },
-        "names": {
-            "long": "Yevlax City"
+        "long": {
+            "default": "Yevlax City"
         }
     },
     {
@@ -634,8 +634,8 @@
             "fips": "23",
             "geonames": 828315
         },
-        "names": {
-            "long": "Hacıqabul"
+        "long": {
+            "default": "Hacıqabul"
         }
     },
     {
@@ -643,8 +643,8 @@
             "fips": "75",
             "geonames": 8411069
         },
-        "names": {
-            "long": "Nakhchivan"
+        "long": {
+            "default": "Nakhchivan"
         }
     }
 ]

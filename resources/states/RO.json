@@ -4,8 +4,8 @@
             "fips": "40",
             "geonames": 662447
         },
-        "names": {
-            "long": "Vrancea"
+        "long": {
+            "default": "Vrancea"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "39",
             "geonames": 662892
         },
-        "names": {
-            "long": "Vâlcea"
+        "long": {
+            "default": "Vâlcea"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "38",
             "geonames": 663116
         },
-        "names": {
-            "long": "Vaslui"
+        "long": {
+            "default": "Vaslui"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "37",
             "geonames": 664517
         },
-        "names": {
-            "long": "Tulcea"
+        "long": {
+            "default": "Tulcea"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "36",
             "geonames": 665091
         },
-        "names": {
-            "long": "Timiş"
+        "long": {
+            "default": "Timiş"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "35",
             "geonames": 665283
         },
-        "names": {
-            "long": "Teleorman"
+        "long": {
+            "default": "Teleorman"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "34",
             "geonames": 665849
         },
-        "names": {
-            "long": "Suceava"
+        "long": {
+            "default": "Suceava"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "33",
             "geonames": 667267
         },
-        "names": {
-            "long": "Sibiu"
+        "long": {
+            "default": "Sibiu"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "32",
             "geonames": 667869
         },
-        "names": {
-            "long": "Satu Mare"
+        "long": {
+            "default": "Satu Mare"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "31",
             "geonames": 668248
         },
-        "names": {
-            "long": "Sălaj"
+        "long": {
+            "default": "Sălaj"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "30",
             "geonames": 669737
         },
-        "names": {
-            "long": "Prahova"
+        "long": {
+            "default": "Prahova"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "29",
             "geonames": 671857
         },
-        "names": {
-            "long": "Olt County"
+        "long": {
+            "default": "Olt County"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "28",
             "geonames": 672460
         },
-        "names": {
-            "long": "Neamţ"
+        "long": {
+            "default": "Neamţ"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "27",
             "geonames": 672628
         },
-        "names": {
-            "long": "Mureş"
+        "long": {
+            "default": "Mureş"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "26",
             "geonames": 673612
         },
-        "names": {
-            "long": "Mehedinţi"
+        "long": {
+            "default": "Mehedinţi"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "25",
             "geonames": 673887
         },
-        "names": {
-            "long": "Maramureş"
+        "long": {
+            "default": "Maramureş"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "23",
             "geonames": 675809
         },
-        "names": {
-            "long": "Iaşi"
+        "long": {
+            "default": "Iaşi"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "22",
             "geonames": 675848
         },
-        "names": {
-            "long": "Ialomiţa"
+        "long": {
+            "default": "Ialomiţa"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "21",
             "geonames": 675917
         },
-        "names": {
-            "long": "Hunedoara"
+        "long": {
+            "default": "Hunedoara"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "20",
             "geonames": 676309
         },
-        "names": {
-            "long": "Harghita"
+        "long": {
+            "default": "Harghita"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "19",
             "geonames": 676898
         },
-        "names": {
-            "long": "Gorj"
+        "long": {
+            "default": "Gorj"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "42",
             "geonames": 677104
         },
-        "names": {
-            "long": "Giurgiu"
+        "long": {
+            "default": "Giurgiu"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "18",
             "geonames": 677692
         },
-        "names": {
-            "long": "Galaţi"
+        "long": {
+            "default": "Galaţi"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "17",
             "geonames": 679134
         },
-        "names": {
-            "long": "Dolj"
+        "long": {
+            "default": "Dolj"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "16",
             "geonames": 679385
         },
-        "names": {
-            "long": "Dâmboviţa"
+        "long": {
+            "default": "Dâmboviţa"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "15",
             "geonames": 680428
         },
-        "names": {
-            "long": "Covasna"
+        "long": {
+            "default": "Covasna"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "14",
             "geonames": 680962
         },
-        "names": {
-            "long": "Constanța"
+        "long": {
+            "default": "Constanța"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "13",
             "geonames": 681291
         },
-        "names": {
-            "long": "Cluj"
+        "long": {
+            "default": "Cluj"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "12",
             "geonames": 682714
         },
-        "names": {
-            "long": "Caraş-Severin"
+        "long": {
+            "default": "Caraş-Severin"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "41",
             "geonames": 683016
         },
-        "names": {
-            "long": "Călăraşi"
+        "long": {
+            "default": "Călăraşi"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "11",
             "geonames": 683121
         },
-        "names": {
-            "long": "Buzău"
+        "long": {
+            "default": "Buzău"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "10",
             "geonames": 683504
         },
-        "names": {
-            "long": "Bucureşti"
+        "long": {
+            "default": "Bucureşti"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "09",
             "geonames": 683843
         },
-        "names": {
-            "long": "Braşov"
+        "long": {
+            "default": "Braşov"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "08",
             "geonames": 683901
         },
-        "names": {
-            "long": "Brăila"
+        "long": {
+            "default": "Brăila"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "07",
             "geonames": 684038
         },
-        "names": {
-            "long": "Botoşani"
+        "long": {
+            "default": "Botoşani"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "06",
             "geonames": 684647
         },
-        "names": {
-            "long": "Bistriţa-Năsăud"
+        "long": {
+            "default": "Bistriţa-Năsăud"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "05",
             "geonames": 684878
         },
-        "names": {
-            "long": "Bihor"
+        "long": {
+            "default": "Bihor"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "04",
             "geonames": 685947
         },
-        "names": {
-            "long": "Bacău"
+        "long": {
+            "default": "Bacău"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "03",
             "geonames": 686192
         },
-        "names": {
-            "long": "Argeş"
+        "long": {
+            "default": "Argeş"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "02",
             "geonames": 686253
         },
-        "names": {
-            "long": "Arad"
+        "long": {
+            "default": "Arad"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "01",
             "geonames": 686581
         },
-        "names": {
-            "long": "Alba"
+        "long": {
+            "default": "Alba"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "43",
             "geonames": 865518
         },
-        "names": {
-            "long": "Ilfov"
+        "long": {
+            "default": "Ilfov"
         }
     }
 ]

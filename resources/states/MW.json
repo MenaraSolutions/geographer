@@ -4,8 +4,8 @@
             "fips": "S",
             "geonames": 923817
         },
-        "names": {
-            "long": "Southern Region"
+        "long": {
+            "default": "Southern Region"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "N",
             "geonames": 924591
         },
-        "names": {
-            "long": "Northern Region"
+        "long": {
+            "default": "Northern Region"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "C",
             "geonames": 931597
         },
-        "names": {
-            "long": "Central Region"
+        "long": {
+            "default": "Central Region"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 1162015
         },
-        "names": {
-            "long": "Islāmābād"
+        "long": {
+            "default": "Islāmābād"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "05",
             "geonames": 1164807
         },
-        "names": {
-            "long": "Sindh"
+        "long": {
+            "default": "Sindh"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "04",
             "geonames": 1167710
         },
-        "names": {
-            "long": "Punjab"
+        "long": {
+            "default": "Punjab"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 1168873
         },
-        "names": {
-            "long": "Khyber Pakhtunkhwa"
+        "long": {
+            "default": "Khyber Pakhtunkhwa"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 1168878
         },
-        "names": {
-            "long": "Gilgit-Baltistan"
+        "long": {
+            "default": "Gilgit-Baltistan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 1179245
         },
-        "names": {
-            "long": "Federally Administered Tribal Areas"
+        "long": {
+            "default": "Federally Administered Tribal Areas"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "02",
             "geonames": 1183606
         },
-        "names": {
-            "long": "Balochistān"
+        "long": {
+            "default": "Balochistān"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "06",
             "geonames": 1184196
         },
-        "names": {
-            "long": "Azad Kashmir"
+        "long": {
+            "default": "Azad Kashmir"
         }
     }
 ]

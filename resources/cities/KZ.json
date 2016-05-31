@@ -1,7 +1,11 @@
 {
     "607610": {
-        "geoid": "607610",
-        "name": "Zhanaozen",
+        "ids": {
+            "geonames": 607610
+        },
+        "long": {
+            "default": "Zhanaozen"
+        },
         "lat": 43.34116,
         "lng": 52.86192,
         "country": "KZ",
@@ -9,8 +13,12 @@
         "population": 103598
     },
     "608668": {
-        "geoid": "608668",
-        "name": "Oral",
+        "ids": {
+            "geonames": 608668
+        },
+        "long": {
+            "default": "Oral"
+        },
         "lat": 51.23333,
         "lng": 51.36667,
         "country": "KZ",
@@ -18,8 +26,12 @@
         "population": 200000
     },
     "609123": {
-        "geoid": "609123",
-        "name": "Qulsary",
+        "ids": {
+            "geonames": 609123
+        },
+        "long": {
+            "default": "Qulsary"
+        },
         "lat": 46.95307,
         "lng": 54.01978,
         "country": "KZ",
@@ -27,8 +39,12 @@
         "population": 51216
     },
     "609655": {
-        "geoid": "609655",
-        "name": "Karagandy",
+        "ids": {
+            "geonames": 609655
+        },
+        "long": {
+            "default": "Karagandy"
+        },
         "lat": 49.83333,
         "lng": 73.1658,
         "country": "KZ",
@@ -36,8 +52,12 @@
         "population": 451800
     },
     "610529": {
-        "geoid": "610529",
-        "name": "Atyrau",
+        "ids": {
+            "geonames": 610529
+        },
+        "long": {
+            "default": "Atyrau"
+        },
         "lat": 47.11667,
         "lng": 51.88333,
         "country": "KZ",
@@ -45,8 +65,12 @@
         "population": 180000
     },
     "610611": {
-        "geoid": "610611",
-        "name": "Aqtöbe",
+        "ids": {
+            "geonames": 610611
+        },
+        "long": {
+            "default": "Aqtöbe"
+        },
         "lat": 50.27969,
         "lng": 57.20718,
         "country": "KZ",
@@ -54,8 +78,12 @@
         "population": 262457
     },
     "610612": {
-        "geoid": "610612",
-        "name": "Aktau",
+        "ids": {
+            "geonames": 610612
+        },
+        "long": {
+            "default": "Aktau"
+        },
         "lat": 43.65,
         "lng": 51.16667,
         "country": "KZ",
@@ -63,8 +91,12 @@
         "population": 147443
     },
     "1516589": {
-        "geoid": "1516589",
-        "name": "Zhezqazghan",
+        "ids": {
+            "geonames": 1516589
+        },
+        "long": {
+            "default": "Zhezqazghan"
+        },
         "lat": 47.78333,
         "lng": 67.76667,
         "country": "KZ",
@@ -72,8 +104,12 @@
         "population": 104357
     },
     "1516905": {
-        "geoid": "1516905",
-        "name": "Taraz",
+        "ids": {
+            "geonames": 1516905
+        },
+        "long": {
+            "default": "Taraz"
+        },
         "lat": 42.9,
         "lng": 71.36667,
         "country": "KZ",
@@ -81,8 +117,12 @@
         "population": 358153
     },
     "1517945": {
-        "geoid": "1517945",
-        "name": "Turkestan",
+        "ids": {
+            "geonames": 1517945
+        },
+        "long": {
+            "default": "Turkestan"
+        },
         "lat": 43.29733,
         "lng": 68.25175,
         "country": "KZ",
@@ -90,8 +130,12 @@
         "population": 97360
     },
     "1518262": {
-        "geoid": "1518262",
-        "name": "Temirtau",
+        "ids": {
+            "geonames": 1518262
+        },
+        "long": {
+            "default": "Temirtau"
+        },
         "lat": 50.05494,
         "lng": 72.96464,
         "country": "KZ",
@@ -99,8 +143,12 @@
         "population": 170600
     },
     "1518542": {
-        "geoid": "1518542",
-        "name": "Taldykorgan",
+        "ids": {
+            "geonames": 1518542
+        },
+        "long": {
+            "default": "Taldykorgan"
+        },
         "lat": 45.01556,
         "lng": 78.37389,
         "country": "KZ",
@@ -108,8 +156,12 @@
         "population": 116558
     },
     "1518543": {
-        "geoid": "1518543",
-        "name": "Taldyqorghan",
+        "ids": {
+            "geonames": 1518543
+        },
+        "long": {
+            "default": "Taldyqorghan"
+        },
         "lat": 45,
         "lng": 77.91667,
         "country": "KZ",
@@ -117,8 +169,12 @@
         "population": 200000
     },
     "1518980": {
-        "geoid": "1518980",
-        "name": "Shymkent",
+        "ids": {
+            "geonames": 1518980
+        },
+        "long": {
+            "default": "Shymkent"
+        },
         "lat": 42.3,
         "lng": 69.6,
         "country": "KZ",
@@ -126,8 +182,12 @@
         "population": 414032
     },
     "1519422": {
-        "geoid": "1519422",
-        "name": "Semey",
+        "ids": {
+            "geonames": 1519422
+        },
+        "long": {
+            "default": "Semey"
+        },
         "lat": 50.42675,
         "lng": 80.26669,
         "country": "KZ",
@@ -135,8 +195,12 @@
         "population": 292780
     },
     "1519691": {
-        "geoid": "1519691",
-        "name": "Sarkand",
+        "ids": {
+            "geonames": 1519691
+        },
+        "long": {
+            "default": "Sarkand"
+        },
         "lat": 45.41126,
         "lng": 79.91545,
         "country": "KZ",
@@ -144,8 +208,12 @@
         "population": 76919
     },
     "1519843": {
-        "geoid": "1519843",
-        "name": "Rudnyy",
+        "ids": {
+            "geonames": 1519843
+        },
+        "long": {
+            "default": "Rudnyy"
+        },
         "lat": 52.9729,
         "lng": 63.11677,
         "country": "KZ",
@@ -153,8 +221,12 @@
         "population": 124000
     },
     "1519922": {
-        "geoid": "1519922",
-        "name": "Kyzylorda",
+        "ids": {
+            "geonames": 1519922
+        },
+        "long": {
+            "default": "Kyzylorda"
+        },
         "lat": 44.85278,
         "lng": 65.50917,
         "country": "KZ",
@@ -162,8 +234,12 @@
         "population": 300000
     },
     "1519928": {
-        "geoid": "1519928",
-        "name": "Kostanay",
+        "ids": {
+            "geonames": 1519928
+        },
+        "long": {
+            "default": "Kostanay"
+        },
         "lat": 53.21435,
         "lng": 63.62463,
         "country": "KZ",
@@ -171,8 +247,12 @@
         "population": 210000
     },
     "1520172": {
-        "geoid": "1520172",
-        "name": "Petropavl",
+        "ids": {
+            "geonames": 1520172
+        },
+        "long": {
+            "default": "Petropavl"
+        },
         "lat": 54.86667,
         "lng": 69.15,
         "country": "KZ",
@@ -180,8 +260,12 @@
         "population": 200920
     },
     "1520240": {
-        "geoid": "1520240",
-        "name": "Pavlodar",
+        "ids": {
+            "geonames": 1520240
+        },
+        "long": {
+            "default": "Pavlodar"
+        },
         "lat": 52.28333,
         "lng": 76.96667,
         "country": "KZ",
@@ -189,8 +273,12 @@
         "population": 329002
     },
     "1520316": {
-        "geoid": "1520316",
-        "name": "Ust-Kamenogorsk",
+        "ids": {
+            "geonames": 1520316
+        },
+        "long": {
+            "default": "Ust-Kamenogorsk"
+        },
         "lat": 49.97143,
         "lng": 82.60586,
         "country": "KZ",
@@ -198,8 +286,12 @@
         "population": 319067
     },
     "1521368": {
-        "geoid": "1521368",
-        "name": "Baykonyr",
+        "ids": {
+            "geonames": 1521368
+        },
+        "long": {
+            "default": "Baykonyr"
+        },
         "lat": 45.61667,
         "lng": 63.31667,
         "country": "KZ",
@@ -207,8 +299,12 @@
         "population": 70000
     },
     "1521370": {
-        "geoid": "1521370",
-        "name": "Ridder",
+        "ids": {
+            "geonames": 1521370
+        },
+        "long": {
+            "default": "Ridder"
+        },
         "lat": 50.34413,
         "lng": 83.51287,
         "country": "KZ",
@@ -216,8 +312,12 @@
         "population": 52664
     },
     "1522203": {
-        "geoid": "1522203",
-        "name": "Kokshetau",
+        "ids": {
+            "geonames": 1522203
+        },
+        "long": {
+            "default": "Kokshetau"
+        },
         "lat": 53.28333,
         "lng": 69.4,
         "country": "KZ",
@@ -225,8 +325,12 @@
         "population": 124444
     },
     "1522751": {
-        "geoid": "1522751",
-        "name": "Kentau",
+        "ids": {
+            "geonames": 1522751
+        },
+        "long": {
+            "default": "Kentau"
+        },
         "lat": 43.51672,
         "lng": 68.50463,
         "country": "KZ",
@@ -234,8 +338,12 @@
         "population": 57408
     },
     "1524325": {
-        "geoid": "1524325",
-        "name": "Ekibastuz",
+        "ids": {
+            "geonames": 1524325
+        },
+        "long": {
+            "default": "Ekibastuz"
+        },
         "lat": 51.72371,
         "lng": 75.32287,
         "country": "KZ",
@@ -243,8 +351,12 @@
         "population": 121470
     },
     "1525798": {
-        "geoid": "1525798",
-        "name": "Balqash",
+        "ids": {
+            "geonames": 1525798
+        },
+        "long": {
+            "default": "Balqash"
+        },
         "lat": 46.84806,
         "lng": 74.995,
         "country": "KZ",
@@ -252,8 +364,12 @@
         "population": 81364
     },
     "1526273": {
-        "geoid": "1526273",
-        "name": "Astana",
+        "ids": {
+            "geonames": 1526273
+        },
+        "long": {
+            "default": "Astana"
+        },
         "lat": 51.1801,
         "lng": 71.44598,
         "country": "KZ",
@@ -261,8 +377,12 @@
         "population": 345604
     },
     "1526384": {
-        "geoid": "1526384",
-        "name": "Almaty",
+        "ids": {
+            "geonames": 1526384
+        },
+        "long": {
+            "default": "Almaty"
+        },
         "lat": 43.25667,
         "lng": 76.92861,
         "country": "KZ",
@@ -270,8 +390,12 @@
         "population": 2000900
     },
     "9862222": {
-        "geoid": "9862222",
-        "name": "Kyzyl-Orda",
+        "ids": {
+            "geonames": 9862222
+        },
+        "long": {
+            "default": "Kyzyl-Orda"
+        },
         "lat": 44.8479,
         "lng": 65.49989,
         "country": "KZ",

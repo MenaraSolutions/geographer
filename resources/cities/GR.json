@@ -1,7 +1,11 @@
 {
     "251833": {
-        "geoid": "251833",
-        "name": "Vólos",
+        "ids": {
+            "geonames": 251833
+        },
+        "long": {
+            "default": "Vólos"
+        },
         "lat": 39.36103,
         "lng": 22.94248,
         "country": "GR",
@@ -9,8 +13,12 @@
         "population": 86048
     },
     "251948": {
-        "geoid": "251948",
-        "name": "Výronas",
+        "ids": {
+            "geonames": 251948
+        },
+        "long": {
+            "default": "Výronas"
+        },
         "lat": 37.96105,
         "lng": 23.753,
         "country": "GR",
@@ -18,8 +26,12 @@
         "population": 61308
     },
     "252664": {
-        "geoid": "252664",
-        "name": "Tríkala",
+        "ids": {
+            "geonames": 252664
+        },
+        "long": {
+            "default": "Tríkala"
+        },
         "lat": 39.55493,
         "lng": 21.76837,
         "country": "GR",
@@ -27,8 +39,12 @@
         "population": 61653
     },
     "255274": {
-        "geoid": "255274",
-        "name": "Piraeus",
+        "ids": {
+            "geonames": 255274
+        },
+        "long": {
+            "default": "Piraeus"
+        },
         "lat": 37.94745,
         "lng": 23.63708,
         "country": "GR",
@@ -36,8 +52,12 @@
         "population": 163688
     },
     "255377": {
-        "geoid": "255377",
-        "name": "Petroúpolis",
+        "ids": {
+            "geonames": 255377
+        },
+        "long": {
+            "default": "Petroúpolis"
+        },
         "lat": 38.04187,
         "lng": 23.68494,
         "country": "GR",
@@ -45,8 +65,12 @@
         "population": 58979
     },
     "255524": {
-        "geoid": "255524",
-        "name": "Peristéri",
+        "ids": {
+            "geonames": 255524
+        },
+        "long": {
+            "default": "Peristéri"
+        },
         "lat": 38.01539,
         "lng": 23.69187,
         "country": "GR",
@@ -54,8 +78,12 @@
         "population": 139981
     },
     "255683": {
-        "geoid": "255683",
-        "name": "Pátra",
+        "ids": {
+            "geonames": 255683
+        },
+        "long": {
+            "default": "Pátra"
+        },
         "lat": 38.24444,
         "lng": 21.73444,
         "country": "GR",
@@ -63,8 +91,12 @@
         "population": 168034
     },
     "256075": {
-        "geoid": "256075",
-        "name": "Palaió Fáliro",
+        "ids": {
+            "geonames": 256075
+        },
+        "long": {
+            "default": "Palaió Fáliro"
+        },
         "lat": 37.92812,
         "lng": 23.70105,
         "country": "GR",
@@ -72,8 +104,12 @@
         "population": 64021
     },
     "256429": {
-        "geoid": "256429",
-        "name": "Níkaia",
+        "ids": {
+            "geonames": 256429
+        },
+        "long": {
+            "default": "Níkaia"
+        },
         "lat": 37.96667,
         "lng": 23.65,
         "country": "GR",
@@ -81,8 +117,12 @@
         "population": 89380
     },
     "256575": {
-        "geoid": "256575",
-        "name": "Néa Smýrni",
+        "ids": {
+            "geonames": 256575
+        },
+        "long": {
+            "default": "Néa Smýrni"
+        },
         "lat": 37.94504,
         "lng": 23.71416,
         "country": "GR",
@@ -90,8 +130,12 @@
         "population": 73076
     },
     "256601": {
-        "geoid": "256601",
-        "name": "Ílion",
+        "ids": {
+            "geonames": 256601
+        },
+        "long": {
+            "default": "Ílion"
+        },
         "lat": 38.03333,
         "lng": 23.7,
         "country": "GR",
@@ -99,8 +143,12 @@
         "population": 84793
     },
     "256614": {
-        "geoid": "256614",
-        "name": "Néa Ionía",
+        "ids": {
+            "geonames": 256614
+        },
+        "long": {
+            "default": "Néa Ionía"
+        },
         "lat": 38.0357,
         "lng": 23.75733,
         "country": "GR",
@@ -108,8 +156,12 @@
         "population": 67134
     },
     "258576": {
-        "geoid": "258576",
-        "name": "Lárisa",
+        "ids": {
+            "geonames": 258576
+        },
+        "long": {
+            "default": "Lárisa"
+        },
         "lat": 39.63689,
         "lng": 22.41761,
         "country": "GR",
@@ -117,8 +169,12 @@
         "population": 144651
     },
     "258620": {
-        "geoid": "258620",
-        "name": "Lamía",
+        "ids": {
+            "geonames": 258620
+        },
+        "long": {
+            "default": "Lamía"
+        },
         "lat": 38.9,
         "lng": 22.43333,
         "country": "GR",
@@ -126,8 +182,12 @@
         "population": 52006
     },
     "260114": {
-        "geoid": "260114",
-        "name": "Chaniá",
+        "ids": {
+            "geonames": 260114
+        },
+        "long": {
+            "default": "Chaniá"
+        },
         "lat": 35.51124,
         "lng": 24.02921,
         "country": "GR",
@@ -135,8 +195,12 @@
         "population": 53910
     },
     "260133": {
-        "geoid": "260133",
-        "name": "Chalkída",
+        "ids": {
+            "geonames": 260133
+        },
+        "long": {
+            "default": "Chalkída"
+        },
         "lat": 38.46354,
         "lng": 23.60284,
         "country": "GR",
@@ -144,8 +208,12 @@
         "population": 59125
     },
     "260172": {
-        "geoid": "260172",
-        "name": "Khalándrion",
+        "ids": {
+            "geonames": 260172
+        },
+        "long": {
+            "default": "Khalándrion"
+        },
         "lat": 38.02369,
         "lng": 23.80068,
         "country": "GR",
@@ -153,8 +221,12 @@
         "population": 74192
     },
     "260204": {
-        "geoid": "260204",
-        "name": "Keratsíni",
+        "ids": {
+            "geonames": 260204
+        },
+        "long": {
+            "default": "Keratsíni"
+        },
         "lat": 37.9625,
         "lng": 23.61972,
         "country": "GR",
@@ -162,8 +234,12 @@
         "population": 77077
     },
     "261414": {
-        "geoid": "261414",
-        "name": "Kallithéa",
+        "ids": {
+            "geonames": 261414
+        },
+        "long": {
+            "default": "Kallithéa"
+        },
         "lat": 37.95,
         "lng": 23.7,
         "country": "GR",
@@ -171,8 +247,12 @@
         "population": 100641
     },
     "261604": {
-        "geoid": "261604",
-        "name": "Kalamáta",
+        "ids": {
+            "geonames": 261604
+        },
+        "long": {
+            "default": "Kalamáta"
+        },
         "lat": 37.03913,
         "lng": 22.11265,
         "country": "GR",
@@ -180,8 +260,12 @@
         "population": 54100
     },
     "261745": {
-        "geoid": "261745",
-        "name": "Irákleion",
+        "ids": {
+            "geonames": 261745
+        },
+        "long": {
+            "default": "Irákleion"
+        },
         "lat": 35.32787,
         "lng": 25.14341,
         "country": "GR",
@@ -189,8 +273,12 @@
         "population": 137154
     },
     "261779": {
-        "geoid": "261779",
-        "name": "Ioánnina",
+        "ids": {
+            "geonames": 261779
+        },
+        "long": {
+            "default": "Ioánnina"
+        },
         "lat": 39.66486,
         "lng": 20.85189,
         "country": "GR",
@@ -198,8 +286,12 @@
         "population": 65574
     },
     "262036": {
-        "geoid": "262036",
-        "name": "Glyfáda",
+        "ids": {
+            "geonames": 262036
+        },
+        "long": {
+            "default": "Glyfáda"
+        },
         "lat": 37.86289,
         "lng": 23.75802,
         "country": "GR",
@@ -207,8 +299,12 @@
         "population": 87305
     },
     "262135": {
-        "geoid": "262135",
-        "name": "Galátsi",
+        "ids": {
+            "geonames": 262135
+        },
+        "long": {
+            "default": "Galátsi"
+        },
         "lat": 38.01667,
         "lng": 23.75,
         "country": "GR",
@@ -216,8 +312,12 @@
         "population": 59345
     },
     "263986": {
-        "geoid": "263986",
-        "name": "Agios Dimitrios",
+        "ids": {
+            "geonames": 263986
+        },
+        "long": {
+            "default": "Agios Dimitrios"
+        },
         "lat": 37.93333,
         "lng": 23.73333,
         "country": "GR",
@@ -225,8 +325,12 @@
         "population": 71294
     },
     "264194": {
-        "geoid": "264194",
-        "name": "Agía Paraskeví",
+        "ids": {
+            "geonames": 264194
+        },
+        "long": {
+            "default": "Agía Paraskeví"
+        },
         "lat": 38.01667,
         "lng": 23.83333,
         "country": "GR",
@@ -234,8 +338,12 @@
         "population": 59704
     },
     "264371": {
-        "geoid": "264371",
-        "name": "Athens",
+        "ids": {
+            "geonames": 264371
+        },
+        "long": {
+            "default": "Athens"
+        },
         "lat": 37.97945,
         "lng": 23.71622,
         "country": "GR",
@@ -243,8 +351,12 @@
         "population": 664046
     },
     "265243": {
-        "geoid": "265243",
-        "name": "Maroúsi",
+        "ids": {
+            "geonames": 265243
+        },
+        "long": {
+            "default": "Maroúsi"
+        },
         "lat": 38.05,
         "lng": 23.8,
         "country": "GR",
@@ -252,8 +364,12 @@
         "population": 72333
     },
     "265488": {
-        "geoid": "265488",
-        "name": "Acharnés",
+        "ids": {
+            "geonames": 265488
+        },
+        "long": {
+            "default": "Acharnés"
+        },
         "lat": 38.08333,
         "lng": 23.73333,
         "country": "GR",
@@ -261,8 +377,12 @@
         "population": 99346
     },
     "265533": {
-        "geoid": "265533",
-        "name": "Aigáleo",
+        "ids": {
+            "geonames": 265533
+        },
+        "long": {
+            "default": "Aigáleo"
+        },
         "lat": 37.98333,
         "lng": 23.68333,
         "country": "GR",
@@ -270,8 +390,12 @@
         "population": 69946
     },
     "400666": {
-        "geoid": "400666",
-        "name": "Ródos",
+        "ids": {
+            "geonames": 400666
+        },
+        "long": {
+            "default": "Ródos"
+        },
         "lat": 36.44083,
         "lng": 28.2225,
         "country": "GR",
@@ -279,8 +403,12 @@
         "population": 56128
     },
     "734077": {
-        "geoid": "734077",
-        "name": "Thessaloníki",
+        "ids": {
+            "geonames": 734077
+        },
+        "long": {
+            "default": "Thessaloníki"
+        },
         "lat": 40.64361,
         "lng": 22.93086,
         "country": "GR",
@@ -288,8 +416,12 @@
         "population": 354290
     },
     "734330": {
-        "geoid": "734330",
-        "name": "Sérres",
+        "ids": {
+            "geonames": 734330
+        },
+        "long": {
+            "default": "Sérres"
+        },
         "lat": 41.08499,
         "lng": 23.54757,
         "country": "GR",
@@ -297,8 +429,12 @@
         "population": 58287
     },
     "735861": {
-        "geoid": "735861",
-        "name": "Kavála",
+        "ids": {
+            "geonames": 735861
+        },
+        "long": {
+            "default": "Kavála"
+        },
         "lat": 40.93959,
         "lng": 24.40687,
         "country": "GR",
@@ -306,8 +442,12 @@
         "population": 54027
     },
     "735914": {
-        "geoid": "735914",
-        "name": "Kateríni",
+        "ids": {
+            "geonames": 735914
+        },
+        "long": {
+            "default": "Kateríni"
+        },
         "lat": 40.26956,
         "lng": 22.50608,
         "country": "GR",
@@ -315,8 +455,12 @@
         "population": 53293
     },
     "736083": {
-        "geoid": "736083",
-        "name": "Kalamariá",
+        "ids": {
+            "geonames": 736083
+        },
+        "long": {
+            "default": "Kalamariá"
+        },
         "lat": 40.5825,
         "lng": 22.95028,
         "country": "GR",
@@ -324,8 +468,12 @@
         "population": 91617
     },
     "736928": {
-        "geoid": "736928",
-        "name": "Alexandroúpoli",
+        "ids": {
+            "geonames": 736928
+        },
+        "long": {
+            "default": "Alexandroúpoli"
+        },
         "lat": 40.84995,
         "lng": 25.87644,
         "country": "GR",
@@ -333,8 +481,12 @@
         "population": 52979
     },
     "8310138": {
-        "geoid": "8310138",
-        "name": "Ilioúpoli",
+        "ids": {
+            "geonames": 8310138
+        },
+        "long": {
+            "default": "Ilioúpoli"
+        },
         "lat": 37.93149,
         "lng": 23.76779,
         "country": "GR",
@@ -342,8 +494,12 @@
         "population": 78153
     },
     "8310183": {
-        "geoid": "8310183",
-        "name": "Korydallós",
+        "ids": {
+            "geonames": 8310183
+        },
+        "long": {
+            "default": "Korydallós"
+        },
         "lat": 37.98468,
         "lng": 23.64711,
         "country": "GR",
@@ -351,8 +507,12 @@
         "population": 63445
     },
     "8358544": {
-        "geoid": "8358544",
-        "name": "Zográfos",
+        "ids": {
+            "geonames": 8358544
+        },
+        "long": {
+            "default": "Zográfos"
+        },
         "lat": 37.97574,
         "lng": 23.76911,
         "country": "GR",

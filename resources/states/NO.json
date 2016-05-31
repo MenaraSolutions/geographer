@@ -4,8 +4,8 @@
             "fips": "05",
             "geonames": 780166
         },
-        "names": {
-            "long": "Finnmark Fylke"
+        "long": {
+            "default": "Finnmark Fylke"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "20",
             "geonames": 3132015
         },
-        "names": {
-            "long": "Vestfold"
+        "long": {
+            "default": "Vestfold"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "19",
             "geonames": 3132064
         },
-        "names": {
-            "long": "Vest-Agder"
+        "long": {
+            "default": "Vest-Agder"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "18",
             "geonames": 3133897
         },
-        "names": {
-            "long": "Troms"
+        "long": {
+            "default": "Troms"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "17",
             "geonames": 3134723
         },
-        "names": {
-            "long": "Telemark"
+        "long": {
+            "default": "Telemark"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "16",
             "geonames": 3137400
         },
-        "names": {
-            "long": "Sør-Trøndelag"
+        "long": {
+            "default": "Sør-Trøndelag"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "15",
             "geonames": 3137966
         },
-        "names": {
-            "long": "Sogn og Fjordane"
+        "long": {
+            "default": "Sogn og Fjordane"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "14",
             "geonames": 3141558
         },
-        "names": {
-            "long": "Rogaland"
+        "long": {
+            "default": "Rogaland"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "13",
             "geonames": 3143188
         },
-        "names": {
-            "long": "Østfold"
+        "long": {
+            "default": "Østfold"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "12",
             "geonames": 3143242
         },
-        "names": {
-            "long": "Oslo"
+        "long": {
+            "default": "Oslo"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 3143487
         },
-        "names": {
-            "long": "Oppland"
+        "long": {
+            "default": "Oppland"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "10",
             "geonames": 3144148
         },
-        "names": {
-            "long": "Nord-Trøndelag"
+        "long": {
+            "default": "Nord-Trøndelag"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "09",
             "geonames": 3144301
         },
-        "names": {
-            "long": "Nordland"
+        "long": {
+            "default": "Nordland"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "08",
             "geonames": 3145495
         },
-        "names": {
-            "long": "Møre og Romsdal"
+        "long": {
+            "default": "Møre og Romsdal"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "07",
             "geonames": 3151864
         },
-        "names": {
-            "long": "Hordaland"
+        "long": {
+            "default": "Hordaland"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "06",
             "geonames": 3153403
         },
-        "names": {
-            "long": "Hedmark"
+        "long": {
+            "default": "Hedmark"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "04",
             "geonames": 3159665
         },
-        "names": {
-            "long": "Buskerud"
+        "long": {
+            "default": "Buskerud"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "02",
             "geonames": 3162354
         },
-        "names": {
-            "long": "Aust-Agder"
+        "long": {
+            "default": "Aust-Agder"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "01",
             "geonames": 3163480
         },
-        "names": {
-            "long": "Akershus"
+        "long": {
+            "default": "Akershus"
         }
     }
 ]

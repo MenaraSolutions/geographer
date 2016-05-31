@@ -4,8 +4,8 @@
             "fips": "27",
             "geonames": 686966
         },
-        "names": {
-            "long": "Zhytomyr"
+        "long": {
+            "default": "Zhytomyr"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "26",
             "geonames": 687699
         },
-        "names": {
-            "long": "Zaporizhia"
+        "long": {
+            "default": "Zaporizhia"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "25",
             "geonames": 687869
         },
-        "names": {
-            "long": "Zakarpattia"
+        "long": {
+            "default": "Zakarpattia"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "24",
             "geonames": 689064
         },
-        "names": {
-            "long": "Volyn"
+        "long": {
+            "default": "Volyn"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "23",
             "geonames": 689559
         },
-        "names": {
-            "long": "Vinnyts'ka"
+        "long": {
+            "default": "Vinnyts'ka"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "22",
             "geonames": 691649
         },
-        "names": {
-            "long": "Ternopil"
+        "long": {
+            "default": "Ternopil"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "21",
             "geonames": 692196
         },
-        "names": {
-            "long": "Sumy"
+        "long": {
+            "default": "Sumy"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "20",
             "geonames": 694422
         },
-        "names": {
-            "long": "Misto Sevastopol’"
+        "long": {
+            "default": "Misto Sevastopol’"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "19",
             "geonames": 695592
         },
-        "names": {
-            "long": "Rivne"
+        "long": {
+            "default": "Rivne"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "18",
             "geonames": 696634
         },
-        "names": {
-            "long": "Poltava"
+        "long": {
+            "default": "Poltava"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "17",
             "geonames": 698738
         },
-        "names": {
-            "long": "Odessa"
+        "long": {
+            "default": "Odessa"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "16",
             "geonames": 700567
         },
-        "names": {
-            "long": "Mykolaiv"
+        "long": {
+            "default": "Mykolaiv"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "15",
             "geonames": 702549
         },
-        "names": {
-            "long": "Lviv"
+        "long": {
+            "default": "Lviv"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "14",
             "geonames": 702657
         },
-        "names": {
-            "long": "Luhansk"
+        "long": {
+            "default": "Luhansk"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "13",
             "geonames": 703446
         },
-        "names": {
-            "long": "Kiev"
+        "long": {
+            "default": "Kiev"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "12",
             "geonames": 703447
         },
-        "names": {
-            "long": "Kyiv City"
+        "long": {
+            "default": "Kyiv City"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "11",
             "geonames": 703883
         },
-        "names": {
-            "long": "Crimea"
+        "long": {
+            "default": "Crimea"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "10",
             "geonames": 705811
         },
-        "names": {
-            "long": "Kirovohrad"
+        "long": {
+            "default": "Kirovohrad"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "09",
             "geonames": 706370
         },
-        "names": {
-            "long": "Khmelnytskyi"
+        "long": {
+            "default": "Khmelnytskyi"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "08",
             "geonames": 706442
         },
-        "names": {
-            "long": "Kherson"
+        "long": {
+            "default": "Kherson"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "07",
             "geonames": 706482
         },
-        "names": {
-            "long": "Kharkiv"
+        "long": {
+            "default": "Kharkiv"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "06",
             "geonames": 707470
         },
-        "names": {
-            "long": "Ivano-Frankivsk"
+        "long": {
+            "default": "Ivano-Frankivsk"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "05",
             "geonames": 709716
         },
-        "names": {
-            "long": "Donetsk"
+        "long": {
+            "default": "Donetsk"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "04",
             "geonames": 709929
         },
-        "names": {
-            "long": "Dnipropetrovsk"
+        "long": {
+            "default": "Dnipropetrovsk"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "03",
             "geonames": 710720
         },
-        "names": {
-            "long": "Chernivtsi"
+        "long": {
+            "default": "Chernivtsi"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "02",
             "geonames": 710734
         },
-        "names": {
-            "long": "Chernihiv"
+        "long": {
+            "default": "Chernihiv"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "01",
             "geonames": 710802
         },
-        "names": {
-            "long": "Cherkasy"
+        "long": {
+            "default": "Cherkasy"
         }
     }
 ]

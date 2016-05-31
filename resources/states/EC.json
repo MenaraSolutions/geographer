@@ -4,8 +4,8 @@
             "fips": "20",
             "geonames": 3649953
         },
-        "names": {
-            "long": "Zamora-Chinchipe"
+        "long": {
+            "default": "Zamora-Chinchipe"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "19",
             "geonames": 3650445
         },
-        "names": {
-            "long": "Tungurahua"
+        "long": {
+            "default": "Tungurahua"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "18",
             "geonames": 3653224
         },
-        "names": {
-            "long": "Pichincha"
+        "long": {
+            "default": "Pichincha"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "17",
             "geonames": 3653392
         },
-        "names": {
-            "long": "Pastaza"
+        "long": {
+            "default": "Pastaza"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "23",
             "geonames": 3653890
         },
-        "names": {
-            "long": "Napo"
+        "long": {
+            "default": "Napo"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "15",
             "geonames": 3654005
         },
-        "names": {
-            "long": "Morona-Santiago"
+        "long": {
+            "default": "Morona-Santiago"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "14",
             "geonames": 3654451
         },
-        "names": {
-            "long": "Manabí"
+        "long": {
+            "default": "Manabí"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "13",
             "geonames": 3654592
         },
-        "names": {
-            "long": "Los Ríos"
+        "long": {
+            "default": "Los Ríos"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "12",
             "geonames": 3654665
         },
-        "names": {
-            "long": "Loja"
+        "long": {
+            "default": "Loja"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "11",
             "geonames": 3655635
         },
-        "names": {
-            "long": "Imbabura"
+        "long": {
+            "default": "Imbabura"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "10",
             "geonames": 3657505
         },
-        "names": {
-            "long": "Guayas"
+        "long": {
+            "default": "Guayas"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "01",
             "geonames": 3657879
         },
-        "names": {
-            "long": "Galápagos"
+        "long": {
+            "default": "Galápagos"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "09",
             "geonames": 3657986
         },
-        "names": {
-            "long": "Esmeraldas"
+        "long": {
+            "default": "Esmeraldas"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "08",
             "geonames": 3658195
         },
-        "names": {
-            "long": "El Oro"
+        "long": {
+            "default": "El Oro"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "07",
             "geonames": 3658766
         },
-        "names": {
-            "long": "Cotopaxi"
+        "long": {
+            "default": "Cotopaxi"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "06",
             "geonames": 3659237
         },
-        "names": {
-            "long": "Chimborazo"
+        "long": {
+            "default": "Chimborazo"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "05",
             "geonames": 3659718
         },
-        "names": {
-            "long": "Carchi"
+        "long": {
+            "default": "Carchi"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "04",
             "geonames": 3659849
         },
-        "names": {
-            "long": "Cañar"
+        "long": {
+            "default": "Cañar"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "03",
             "geonames": 3660130
         },
-        "names": {
-            "long": "Bolívar"
+        "long": {
+            "default": "Bolívar"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "02",
             "geonames": 3660431
         },
-        "names": {
-            "long": "Azuay"
+        "long": {
+            "default": "Azuay"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "22",
             "geonames": 3830305
         },
-        "names": {
-            "long": "Sucumbios"
+        "long": {
+            "default": "Sucumbios"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "24",
             "geonames": 3830306
         },
-        "names": {
-            "long": "Orellana"
+        "long": {
+            "default": "Orellana"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "26",
             "geonames": 7062136
         },
-        "names": {
-            "long": "Santo Domingo de los Tsáchilas"
+        "long": {
+            "default": "Santo Domingo de los Tsáchilas"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "25",
             "geonames": 7062138
         },
-        "names": {
-            "long": "Santa Elena"
+        "long": {
+            "default": "Santa Elena"
         }
     }
 ]

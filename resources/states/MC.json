@@ -4,8 +4,8 @@
             "fips": "00",
             "geonames": 3319178
         },
-        "names": {
-            "long": "Commune de Monaco"
+        "long": {
+            "default": "Commune de Monaco"
         }
     }
 ]

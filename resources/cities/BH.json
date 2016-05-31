@@ -1,7 +1,11 @@
 {
     "290247": {
-        "geoid": "290247",
-        "name": "Madīnat Ḩamad",
+        "ids": {
+            "geonames": 290247
+        },
+        "long": {
+            "default": "Madīnat Ḩamad"
+        },
         "lat": 26.11528,
         "lng": 50.50694,
         "country": "BH",
@@ -9,8 +13,12 @@
         "population": 52718
     },
     "290269": {
-        "geoid": "290269",
-        "name": "Dār Kulayb",
+        "ids": {
+            "geonames": 290269
+        },
+        "long": {
+            "default": "Dār Kulayb"
+        },
         "lat": 26.06861,
         "lng": 50.50389,
         "country": "BH",
@@ -18,8 +26,12 @@
         "population": 65466
     },
     "290332": {
-        "geoid": "290332",
-        "name": "Al Muharraq",
+        "ids": {
+            "geonames": 290332
+        },
+        "long": {
+            "default": "Al Muharraq"
+        },
         "lat": 26.25722,
         "lng": 50.61194,
         "country": "BH",
@@ -27,8 +39,12 @@
         "population": 97458
     },
     "290340": {
-        "geoid": "290340",
-        "name": "Manama",
+        "ids": {
+            "geonames": 290340
+        },
+        "long": {
+            "default": "Manama"
+        },
         "lat": 26.22787,
         "lng": 50.58565,
         "country": "BH",
@@ -36,8 +52,12 @@
         "population": 147074
     },
     "385038": {
-        "geoid": "385038",
-        "name": "Ar Rifā‘",
+        "ids": {
+            "geonames": 385038
+        },
+        "long": {
+            "default": "Ar Rifā‘"
+        },
         "lat": 26.13,
         "lng": 50.555,
         "country": "BH",

@@ -4,8 +4,8 @@
             "fips": "31",
             "geonames": 2513413
         },
-        "names": {
-            "long": "Murcia"
+        "long": {
+            "default": "Murcia"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "CE",
             "geonames": 2519582
         },
-        "names": {
-            "long": "Ceuta"
+        "long": {
+            "default": "Ceuta"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 2521383
         },
-        "names": {
-            "long": "Balearic Islands"
+        "long": {
+            "default": "Balearic Islands"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "51",
             "geonames": 2593109
         },
-        "names": {
-            "long": "Andalusia"
+        "long": {
+            "default": "Andalusia"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "53",
             "geonames": 2593110
         },
-        "names": {
-            "long": "Canary Islands"
+        "long": {
+            "default": "Canary Islands"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "54",
             "geonames": 2593111
         },
-        "names": {
-            "long": "Castille-La Mancha"
+        "long": {
+            "default": "Castille-La Mancha"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "57",
             "geonames": 2593112
         },
-        "names": {
-            "long": "Extremadura"
+        "long": {
+            "default": "Extremadura"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "60",
             "geonames": 2593113
         },
-        "names": {
-            "long": "Valencia"
+        "long": {
+            "default": "Valencia"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "34",
             "geonames": 3114710
         },
-        "names": {
-            "long": "Asturias"
+        "long": {
+            "default": "Asturias"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "32",
             "geonames": 3115609
         },
-        "names": {
-            "long": "Navarre"
+        "long": {
+            "default": "Navarre"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "29",
             "geonames": 3117732
         },
-        "names": {
-            "long": "Madrid"
+        "long": {
+            "default": "Madrid"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "27",
             "geonames": 3336897
         },
-        "names": {
-            "long": "La Rioja"
+        "long": {
+            "default": "La Rioja"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "39",
             "geonames": 3336898
         },
-        "names": {
-            "long": "Cantabria"
+        "long": {
+            "default": "Cantabria"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "52",
             "geonames": 3336899
         },
-        "names": {
-            "long": "Aragon"
+        "long": {
+            "default": "Aragon"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "55",
             "geonames": 3336900
         },
-        "names": {
-            "long": "Castille and León"
+        "long": {
+            "default": "Castille and León"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "56",
             "geonames": 3336901
         },
-        "names": {
-            "long": "Catalonia"
+        "long": {
+            "default": "Catalonia"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "58",
             "geonames": 3336902
         },
-        "names": {
-            "long": "Galicia"
+        "long": {
+            "default": "Galicia"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "59",
             "geonames": 3336903
         },
-        "names": {
-            "long": "Basque Country"
+        "long": {
+            "default": "Basque Country"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "ML",
             "geonames": 6362988
         },
-        "names": {
-            "long": "Melilla"
+        "long": {
+            "default": "Melilla"
         }
     }
 ]

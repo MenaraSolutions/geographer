@@ -1,7 +1,11 @@
 {
     "3488465": {
-        "geoid": "3488465",
-        "name": "Spanish Town",
+        "ids": {
+            "geonames": 3488465
+        },
+        "long": {
+            "default": "Spanish Town"
+        },
         "lat": 17.99107,
         "lng": -76.95742,
         "country": "JM",
@@ -9,8 +13,12 @@
         "population": 145018
     },
     "3488981": {
-        "geoid": "3488981",
-        "name": "Portmore",
+        "ids": {
+            "geonames": 3488981
+        },
+        "long": {
+            "default": "Portmore"
+        },
         "lat": 17.95032,
         "lng": -76.88215,
         "country": "JM",
@@ -18,8 +26,12 @@
         "population": 102861
     },
     "3489297": {
-        "geoid": "3489297",
-        "name": "New Kingston",
+        "ids": {
+            "geonames": 3489297
+        },
+        "long": {
+            "default": "New Kingston"
+        },
         "lat": 18.00747,
         "lng": -76.78319,
         "country": "JM",
@@ -27,8 +39,12 @@
         "population": 583958
     },
     "3489460": {
-        "geoid": "3489460",
-        "name": "Montego Bay",
+        "ids": {
+            "geonames": 3489460
+        },
+        "long": {
+            "default": "Montego Bay"
+        },
         "lat": 18.47116,
         "lng": -77.91883,
         "country": "JM",
@@ -36,8 +52,12 @@
         "population": 82867
     },
     "3489854": {
-        "geoid": "3489854",
-        "name": "Kingston",
+        "ids": {
+            "geonames": 3489854
+        },
+        "long": {
+            "default": "Kingston"
+        },
         "lat": 17.99702,
         "lng": -76.79358,
         "country": "JM",

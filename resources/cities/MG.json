@@ -1,7 +1,11 @@
 {
     "1053384": {
-        "geoid": "1053384",
-        "name": "Toamasina",
+        "ids": {
+            "geonames": 1053384
+        },
+        "long": {
+            "default": "Toamasina"
+        },
         "lat": -18.1492,
         "lng": 49.40234,
         "country": "MG",
@@ -9,8 +13,12 @@
         "population": 206373
     },
     "1055429": {
-        "geoid": "1055429",
-        "name": "Toliara",
+        "ids": {
+            "geonames": 1055429
+        },
+        "long": {
+            "default": "Toliara"
+        },
         "lat": -23.35,
         "lng": 43.66667,
         "country": "MG",
@@ -18,8 +26,12 @@
         "population": 115319
     },
     "1062663": {
-        "geoid": "1062663",
-        "name": "Mahajanga",
+        "ids": {
+            "geonames": 1062663
+        },
+        "long": {
+            "default": "Mahajanga"
+        },
         "lat": -15.71667,
         "lng": 46.31667,
         "country": "MG",
@@ -27,8 +39,12 @@
         "population": 154657
     },
     "1064890": {
-        "geoid": "1064890",
-        "name": "Fianarantsoa",
+        "ids": {
+            "geonames": 1064890
+        },
+        "long": {
+            "default": "Fianarantsoa"
+        },
         "lat": -21.45267,
         "lng": 47.08569,
         "country": "MG",
@@ -36,8 +52,12 @@
         "population": 167227
     },
     "1069129": {
-        "geoid": "1069129",
-        "name": "Antsiranana",
+        "ids": {
+            "geonames": 1069129
+        },
+        "long": {
+            "default": "Antsiranana"
+        },
         "lat": -12.2787,
         "lng": 49.29171,
         "country": "MG",
@@ -45,8 +65,12 @@
         "population": 82937
     },
     "1069166": {
-        "geoid": "1069166",
-        "name": "Antsirabe",
+        "ids": {
+            "geonames": 1069166
+        },
+        "long": {
+            "default": "Antsirabe"
+        },
         "lat": -19.86586,
         "lng": 47.03333,
         "country": "MG",
@@ -54,8 +78,12 @@
         "population": 186253
     },
     "1070661": {
-        "geoid": "1070661",
-        "name": "Antanifotsy",
+        "ids": {
+            "geonames": 1070661
+        },
+        "long": {
+            "default": "Antanifotsy"
+        },
         "lat": -19.65,
         "lng": 47.31667,
         "country": "MG",
@@ -63,8 +91,12 @@
         "population": 70626
     },
     "1070940": {
-        "geoid": "1070940",
-        "name": "Antananarivo",
+        "ids": {
+            "geonames": 1070940
+        },
+        "long": {
+            "default": "Antananarivo"
+        },
         "lat": -18.91368,
         "lng": 47.53613,
         "country": "MG",
@@ -72,8 +104,12 @@
         "population": 1391433
     },
     "1078446": {
-        "geoid": "1078446",
-        "name": "Amparafaravola",
+        "ids": {
+            "geonames": 1078446
+        },
+        "long": {
+            "default": "Amparafaravola"
+        },
         "lat": -17.5876,
         "lng": 48.22391,
         "country": "MG",
@@ -81,8 +117,12 @@
         "population": 51519
     },
     "1079048": {
-        "geoid": "1079048",
-        "name": "Ambovombe",
+        "ids": {
+            "geonames": 1079048
+        },
+        "long": {
+            "default": "Ambovombe"
+        },
         "lat": -25.17838,
         "lng": 46.08722,
         "country": "MG",
@@ -90,8 +130,12 @@
         "population": 66818
     },
     "1082243": {
-        "geoid": "1082243",
-        "name": "Ambilobe",
+        "ids": {
+            "geonames": 1082243
+        },
+        "long": {
+            "default": "Ambilobe"
+        },
         "lat": -13.2,
         "lng": 49.05,
         "country": "MG",

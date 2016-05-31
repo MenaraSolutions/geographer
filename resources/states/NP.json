@@ -4,8 +4,8 @@
             "fips": "FR",
             "geonames": 7289705
         },
-        "names": {
-            "long": "Far Western"
+        "long": {
+            "default": "Far Western"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "MR",
             "geonames": 7289706
         },
-        "names": {
-            "long": "Mid Western"
+        "long": {
+            "default": "Mid Western"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "CR",
             "geonames": 7289707
         },
-        "names": {
-            "long": "Central Region"
+        "long": {
+            "default": "Central Region"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "ER",
             "geonames": 7289708
         },
-        "names": {
-            "long": "Eastern Region"
+        "long": {
+            "default": "Eastern Region"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "WR",
             "geonames": 7289709
         },
-        "names": {
-            "long": "Western Region"
+        "long": {
+            "default": "Western Region"
         }
     }
 ]

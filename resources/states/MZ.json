@@ -4,8 +4,8 @@
             "fips": "09",
             "geonames": 1024312
         },
-        "names": {
-            "long": "Zambézia"
+        "long": {
+            "default": "Zambézia"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "08",
             "geonames": 1026010
         },
-        "names": {
-            "long": "Tete"
+        "long": {
+            "default": "Tete"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 1026804
         },
-        "names": {
-            "long": "Sofala"
+        "long": {
+            "default": "Sofala"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 1030006
         },
-        "names": {
-            "long": "Niassa"
+        "long": {
+            "default": "Niassa"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 1033354
         },
-        "names": {
-            "long": "Nampula"
+        "long": {
+            "default": "Nampula"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "04",
             "geonames": 1040649
         },
-        "names": {
-            "long": "Maputo"
+        "long": {
+            "default": "Maputo"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "10",
             "geonames": 1040947
         },
-        "names": {
-            "long": "Manica"
+        "long": {
+            "default": "Manica"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "03",
             "geonames": 1045110
         },
-        "names": {
-            "long": "Inhambane"
+        "long": {
+            "default": "Inhambane"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "02",
             "geonames": 1046058
         },
-        "names": {
-            "long": "Gaza"
+        "long": {
+            "default": "Gaza"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "01",
             "geonames": 1051823
         },
-        "names": {
-            "long": "Cabo Delgado"
+        "long": {
+            "default": "Cabo Delgado"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 1105845
         },
-        "names": {
-            "long": "Maputo City"
+        "long": {
+            "default": "Maputo City"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "593116": {
-        "geoid": "593116",
-        "name": "Vilnius",
+        "ids": {
+            "geonames": 593116
+        },
+        "long": {
+            "default": "Vilnius"
+        },
         "lat": 54.68916,
         "lng": 25.2798,
         "country": "LT",
@@ -9,8 +13,12 @@
         "population": 542366
     },
     "594739": {
-        "geoid": "594739",
-        "name": "Šiauliai",
+        "ids": {
+            "geonames": 594739
+        },
+        "long": {
+            "default": "Šiauliai"
+        },
         "lat": 55.93333,
         "lng": 23.31667,
         "country": "LT",
@@ -18,8 +26,12 @@
         "population": 130587
     },
     "596128": {
-        "geoid": "596128",
-        "name": "Panevėžys",
+        "ids": {
+            "geonames": 596128
+        },
+        "long": {
+            "default": "Panevėžys"
+        },
         "lat": 55.73333,
         "lng": 24.35,
         "country": "LT",
@@ -27,8 +39,12 @@
         "population": 117395
     },
     "598098": {
-        "geoid": "598098",
-        "name": "Klaipėda",
+        "ids": {
+            "geonames": 598098
+        },
+        "long": {
+            "default": "Klaipėda"
+        },
         "lat": 55.71722,
         "lng": 21.1175,
         "country": "LT",
@@ -36,8 +52,12 @@
         "population": 192307
     },
     "598316": {
-        "geoid": "598316",
-        "name": "Kaunas",
+        "ids": {
+            "geonames": 598316
+        },
+        "long": {
+            "default": "Kaunas"
+        },
         "lat": 54.9,
         "lng": 23.9,
         "country": "LT",
@@ -45,8 +65,12 @@
         "population": 374643
     },
     "601084": {
-        "geoid": "601084",
-        "name": "Alytus",
+        "ids": {
+            "geonames": 601084
+        },
+        "long": {
+            "default": "Alytus"
+        },
         "lat": 54.4,
         "lng": 24.05,
         "country": "LT",
@@ -54,8 +78,12 @@
         "population": 70747
     },
     "6618486": {
-        "geoid": "6618486",
-        "name": "Dainava (Kaunas)",
+        "ids": {
+            "geonames": 6618486
+        },
+        "long": {
+            "default": "Dainava (Kaunas)"
+        },
         "lat": 54.91525,
         "lng": 23.96831,
         "country": "LT",
@@ -63,8 +91,12 @@
         "population": 70000
     },
     "9610008": {
-        "geoid": "9610008",
-        "name": "Eiguliai",
+        "ids": {
+            "geonames": 9610008
+        },
+        "long": {
+            "default": "Eiguliai"
+        },
         "lat": 54.93133,
         "lng": 23.93243,
         "country": "LT",

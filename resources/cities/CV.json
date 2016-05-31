@@ -1,7 +1,11 @@
 {
     "3374333": {
-        "geoid": "3374333",
-        "name": "Praia",
+        "ids": {
+            "geonames": 3374333
+        },
+        "long": {
+            "default": "Praia"
+        },
         "lat": 14.93152,
         "lng": -23.51254,
         "country": "CV",
@@ -9,8 +13,12 @@
         "population": 113364
     },
     "3374462": {
-        "geoid": "3374462",
-        "name": "Mindelo",
+        "ids": {
+            "geonames": 3374462
+        },
+        "long": {
+            "default": "Mindelo"
+        },
         "lat": 16.89014,
         "lng": -24.98042,
         "country": "CV",

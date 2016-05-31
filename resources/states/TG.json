@@ -4,8 +4,8 @@
             "fips": "26",
             "geonames": 2364205
         },
-        "names": {
-            "long": "Savanes"
+        "long": {
+            "default": "Savanes"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "25",
             "geonames": 2364370
         },
-        "names": {
-            "long": "Plateaux"
+        "long": {
+            "default": "Plateaux"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "24",
             "geonames": 2365173
         },
-        "names": {
-            "long": "Maritime"
+        "long": {
+            "default": "Maritime"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "22",
             "geonames": 2367237
         },
-        "names": {
-            "long": "Centrale"
+        "long": {
+            "default": "Centrale"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "23",
             "geonames": 2597439
         },
-        "names": {
-            "long": "Kara"
+        "long": {
+            "default": "Kara"
         }
     }
 ]

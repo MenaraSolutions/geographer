@@ -1,7 +1,11 @@
 {
     "2255414": {
-        "geoid": "2255414",
-        "name": "Pointe-Noire",
+        "ids": {
+            "geonames": 2255414
+        },
+        "long": {
+            "default": "Pointe-Noire"
+        },
         "lat": -4.77609,
         "lng": 11.86352,
         "country": "CG",
@@ -9,8 +13,12 @@
         "population": 659084
     },
     "2258261": {
-        "geoid": "2258261",
-        "name": "Dolisie",
+        "ids": {
+            "geonames": 2258261
+        },
+        "long": {
+            "default": "Dolisie"
+        },
         "lat": -4.19834,
         "lng": 12.66664,
         "country": "CG",
@@ -18,8 +26,12 @@
         "population": 103894
     },
     "2259383": {
-        "geoid": "2259383",
-        "name": "Kayes",
+        "ids": {
+            "geonames": 2259383
+        },
+        "long": {
+            "default": "Kayes"
+        },
         "lat": -4.20493,
         "lng": 13.28608,
         "country": "CG",
@@ -27,8 +39,12 @@
         "population": 58737
     },
     "2260535": {
-        "geoid": "2260535",
-        "name": "Brazzaville",
+        "ids": {
+            "geonames": 2260535
+        },
+        "long": {
+            "default": "Brazzaville"
+        },
         "lat": -4.26613,
         "lng": 15.28318,
         "country": "CG",

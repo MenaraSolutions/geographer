@@ -4,8 +4,8 @@
             "fips": "10",
             "geonames": 933043
         },
-        "names": {
-            "long": "Ngwaketsi"
+        "long": {
+            "default": "Ngwaketsi"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "09",
             "geonames": 933044
         },
-        "names": {
-            "long": "South-East"
+        "long": {
+            "default": "South-East"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 933210
         },
-        "names": {
-            "long": "North-East"
+        "long": {
+            "default": "North-East"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 933230
         },
-        "names": {
-            "long": "North-West"
+        "long": {
+            "default": "North-West"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 933562
         },
-        "names": {
-            "long": "Kweneng"
+        "long": {
+            "default": "Kweneng"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "05",
             "geonames": 933654
         },
-        "names": {
-            "long": "Kgatleng"
+        "long": {
+            "default": "Kgatleng"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "04",
             "geonames": 933657
         },
-        "names": {
-            "long": "Kgalagadi"
+        "long": {
+            "default": "Kgalagadi"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "03",
             "geonames": 933758
         },
-        "names": {
-            "long": "Ghanzi"
+        "long": {
+            "default": "Ghanzi"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "01",
             "geonames": 933851
         },
-        "names": {
-            "long": "Central"
+        "long": {
+            "default": "Central"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "333287": {
-        "geoid": "333287",
-        "name": "Keren",
+        "ids": {
+            "geonames": 333287
+        },
+        "long": {
+            "default": "Keren"
+        },
         "lat": 15.77792,
         "lng": 38.45107,
         "country": "ER",
@@ -9,8 +13,12 @@
         "population": 74800
     },
     "343300": {
-        "geoid": "343300",
-        "name": "Asmara",
+        "ids": {
+            "geonames": 343300
+        },
+        "long": {
+            "default": "Asmara"
+        },
         "lat": 15.33805,
         "lng": 38.93184,
         "country": "ER",

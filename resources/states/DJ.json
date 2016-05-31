@@ -4,8 +4,8 @@
             "fips": "05",
             "geonames": 220781
         },
-        "names": {
-            "long": "Tadjourah"
+        "long": {
+            "default": "Tadjourah"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 221525
         },
-        "names": {
-            "long": "Obock"
+        "long": {
+            "default": "Obock"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 223818
         },
-        "names": {
-            "long": "Djibouti"
+        "long": {
+            "default": "Djibouti"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 223889
         },
-        "names": {
-            "long": "Dikhil"
+        "long": {
+            "default": "Dikhil"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "01",
             "geonames": 225282
         },
-        "names": {
-            "long": "Ali Sabieh"
+        "long": {
+            "default": "Ali Sabieh"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "08",
             "geonames": 449265
         },
-        "names": {
-            "long": "Arta"
+        "long": {
+            "default": "Arta"
         }
     }
 ]

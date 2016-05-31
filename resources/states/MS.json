@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 3578039
         },
-        "names": {
-            "long": "Saint Peter"
+        "long": {
+            "default": "Saint Peter"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 3578044
         },
-        "names": {
-            "long": "Saint Georges"
+        "long": {
+            "default": "Saint Georges"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "01",
             "geonames": 3578045
         },
-        "names": {
-            "long": "Saint Anthony"
+        "long": {
+            "default": "Saint Anthony"
         }
     }
 ]

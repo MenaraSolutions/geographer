@@ -1,7 +1,11 @@
 {
     "782756": {
-        "geoid": "782756",
-        "name": "Korçë",
+        "ids": {
+            "geonames": 782756
+        },
+        "long": {
+            "default": "Korçë"
+        },
         "lat": 40.61861,
         "lng": 20.78083,
         "country": "AL",
@@ -9,8 +13,12 @@
         "population": 58259
     },
     "783263": {
-        "geoid": "783263",
-        "name": "Elbasan",
+        "ids": {
+            "geonames": 783263
+        },
+        "long": {
+            "default": "Elbasan"
+        },
         "lat": 41.1125,
         "lng": 20.08222,
         "country": "AL",
@@ -18,8 +26,12 @@
         "population": 100903
     },
     "3183719": {
-        "geoid": "3183719",
-        "name": "Vlorë",
+        "ids": {
+            "geonames": 3183719
+        },
+        "long": {
+            "default": "Vlorë"
+        },
         "lat": 40.46667,
         "lng": 19.48972,
         "country": "AL",
@@ -27,8 +39,12 @@
         "population": 89546
     },
     "3183875": {
-        "geoid": "3183875",
-        "name": "Tirana",
+        "ids": {
+            "geonames": 3183875
+        },
+        "long": {
+            "default": "Tirana"
+        },
         "lat": 41.3275,
         "lng": 19.81889,
         "country": "AL",
@@ -36,8 +52,12 @@
         "population": 374801
     },
     "3184081": {
-        "geoid": "3184081",
-        "name": "Shkodër",
+        "ids": {
+            "geonames": 3184081
+        },
+        "long": {
+            "default": "Shkodër"
+        },
         "lat": 42.06828,
         "lng": 19.51258,
         "country": "AL",
@@ -45,8 +65,12 @@
         "population": 88245
     },
     "3185670": {
-        "geoid": "3185670",
-        "name": "Fier-Çifçi",
+        "ids": {
+            "geonames": 3185670
+        },
+        "long": {
+            "default": "Fier-Çifçi"
+        },
         "lat": 40.71667,
         "lng": 19.56667,
         "country": "AL",
@@ -54,8 +78,12 @@
         "population": 60995
     },
     "3185672": {
-        "geoid": "3185672",
-        "name": "Fier",
+        "ids": {
+            "geonames": 3185672
+        },
+        "long": {
+            "default": "Fier"
+        },
         "lat": 40.72389,
         "lng": 19.55611,
         "country": "AL",
@@ -63,8 +91,12 @@
         "population": 56297
     },
     "3185728": {
-        "geoid": "3185728",
-        "name": "Durrës",
+        "ids": {
+            "geonames": 3185728
+        },
+        "long": {
+            "default": "Durrës"
+        },
         "lat": 41.32306,
         "lng": 19.44139,
         "country": "AL",

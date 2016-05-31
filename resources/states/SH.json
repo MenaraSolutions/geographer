@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 2411430
         },
-        "names": {
-            "long": "Ascension"
+        "long": {
+            "default": "Ascension"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 3370684
         },
-        "names": {
-            "long": "Tristan da Cunha"
+        "long": {
+            "default": "Tristan da Cunha"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "02",
             "geonames": 6930057
         },
-        "names": {
-            "long": "Saint Helena"
+        "long": {
+            "default": "Saint Helena"
         }
     }
 ]

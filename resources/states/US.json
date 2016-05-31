@@ -4,8 +4,8 @@
             "iso_3166": "AR",
             "geonames": 4099753
         },
-        "names": {
-            "long": "Arkansas"
+        "long": {
+            "default": "Arkansas"
         }
     },
     {
@@ -13,8 +13,8 @@
             "iso_3166": "DC",
             "geonames": 4138106
         },
-        "names": {
-            "long": "Washington, D.C."
+        "long": {
+            "default": "Washington, D.C."
         }
     },
     {
@@ -22,8 +22,8 @@
             "iso_3166": "DE",
             "geonames": 4142224
         },
-        "names": {
-            "long": "Delaware"
+        "long": {
+            "default": "Delaware"
         }
     },
     {
@@ -31,8 +31,8 @@
             "iso_3166": "FL",
             "geonames": 4155751
         },
-        "names": {
-            "long": "Florida"
+        "long": {
+            "default": "Florida"
         }
     },
     {
@@ -40,8 +40,8 @@
             "iso_3166": "GA",
             "geonames": 4197000
         },
-        "names": {
-            "long": "Georgia"
+        "long": {
+            "default": "Georgia"
         }
     },
     {
@@ -49,8 +49,8 @@
             "iso_3166": "KS",
             "geonames": 4273857
         },
-        "names": {
-            "long": "Kansas"
+        "long": {
+            "default": "Kansas"
         }
     },
     {
@@ -58,8 +58,8 @@
             "iso_3166": "LA",
             "geonames": 4331987
         },
-        "names": {
-            "long": "Louisiana"
+        "long": {
+            "default": "Louisiana"
         }
     },
     {
@@ -67,8 +67,8 @@
             "iso_3166": "MD",
             "geonames": 4361885
         },
-        "names": {
-            "long": "Maryland"
+        "long": {
+            "default": "Maryland"
         }
     },
     {
@@ -76,8 +76,8 @@
             "iso_3166": "MO",
             "geonames": 4398678
         },
-        "names": {
-            "long": "Missouri"
+        "long": {
+            "default": "Missouri"
         }
     },
     {
@@ -85,8 +85,8 @@
             "iso_3166": "MS",
             "geonames": 4436296
         },
-        "names": {
-            "long": "Mississippi"
+        "long": {
+            "default": "Mississippi"
         }
     },
     {
@@ -94,8 +94,8 @@
             "iso_3166": "NC",
             "geonames": 4482348
         },
-        "names": {
-            "long": "North Carolina"
+        "long": {
+            "default": "North Carolina"
         }
     },
     {
@@ -103,8 +103,8 @@
             "iso_3166": "OK",
             "geonames": 4544379
         },
-        "names": {
-            "long": "Oklahoma"
+        "long": {
+            "default": "Oklahoma"
         }
     },
     {
@@ -112,8 +112,8 @@
             "iso_3166": "SC",
             "geonames": 4597040
         },
-        "names": {
-            "long": "South Carolina"
+        "long": {
+            "default": "South Carolina"
         }
     },
     {
@@ -121,8 +121,8 @@
             "iso_3166": "TN",
             "geonames": 4662168
         },
-        "names": {
-            "long": "Tennessee"
+        "long": {
+            "default": "Tennessee"
         }
     },
     {
@@ -130,8 +130,8 @@
             "iso_3166": "TX",
             "geonames": 4736286
         },
-        "names": {
-            "long": "Texas"
+        "long": {
+            "default": "Texas"
         }
     },
     {
@@ -139,8 +139,8 @@
             "iso_3166": "WV",
             "geonames": 4826850
         },
-        "names": {
-            "long": "West Virginia"
+        "long": {
+            "default": "West Virginia"
         }
     },
     {
@@ -148,8 +148,8 @@
             "iso_3166": "AL",
             "geonames": 4829764
         },
-        "names": {
-            "long": "Alabama"
+        "long": {
+            "default": "Alabama"
         }
     },
     {
@@ -157,8 +157,8 @@
             "iso_3166": "CT",
             "geonames": 4831725
         },
-        "names": {
-            "long": "Connecticut"
+        "long": {
+            "default": "Connecticut"
         }
     },
     {
@@ -166,8 +166,8 @@
             "iso_3166": "IA",
             "geonames": 4862182
         },
-        "names": {
-            "long": "Iowa"
+        "long": {
+            "default": "Iowa"
         }
     },
     {
@@ -175,8 +175,8 @@
             "iso_3166": "IL",
             "geonames": 4896861
         },
-        "names": {
-            "long": "Illinois"
+        "long": {
+            "default": "Illinois"
         }
     },
     {
@@ -184,8 +184,8 @@
             "iso_3166": "IN",
             "geonames": 4921868
         },
-        "names": {
-            "long": "Indiana"
+        "long": {
+            "default": "Indiana"
         }
     },
     {
@@ -193,8 +193,8 @@
             "iso_3166": "ME",
             "geonames": 4971068
         },
-        "names": {
-            "long": "Maine"
+        "long": {
+            "default": "Maine"
         }
     },
     {
@@ -202,8 +202,8 @@
             "iso_3166": "MI",
             "geonames": 5001836
         },
-        "names": {
-            "long": "Michigan"
+        "long": {
+            "default": "Michigan"
         }
     },
     {
@@ -211,8 +211,8 @@
             "iso_3166": "MN",
             "geonames": 5037779
         },
-        "names": {
-            "long": "Minnesota"
+        "long": {
+            "default": "Minnesota"
         }
     },
     {
@@ -220,8 +220,8 @@
             "iso_3166": "NE",
             "geonames": 5073708
         },
-        "names": {
-            "long": "Nebraska"
+        "long": {
+            "default": "Nebraska"
         }
     },
     {
@@ -229,8 +229,8 @@
             "iso_3166": "NH",
             "geonames": 5090174
         },
-        "names": {
-            "long": "New Hampshire"
+        "long": {
+            "default": "New Hampshire"
         }
     },
     {
@@ -238,8 +238,8 @@
             "iso_3166": "NJ",
             "geonames": 5101760
         },
-        "names": {
-            "long": "New Jersey"
+        "long": {
+            "default": "New Jersey"
         }
     },
     {
@@ -247,8 +247,8 @@
             "iso_3166": "NY",
             "geonames": 5128638
         },
-        "names": {
-            "long": "New York"
+        "long": {
+            "default": "New York"
         }
     },
     {
@@ -256,8 +256,8 @@
             "iso_3166": "OH",
             "geonames": 5165418
         },
-        "names": {
-            "long": "Ohio"
+        "long": {
+            "default": "Ohio"
         }
     },
     {
@@ -265,8 +265,8 @@
             "iso_3166": "RI",
             "geonames": 5224323
         },
-        "names": {
-            "long": "Rhode Island"
+        "long": {
+            "default": "Rhode Island"
         }
     },
     {
@@ -274,8 +274,8 @@
             "iso_3166": "VT",
             "geonames": 5242283
         },
-        "names": {
-            "long": "Vermont"
+        "long": {
+            "default": "Vermont"
         }
     },
     {
@@ -283,8 +283,8 @@
             "iso_3166": "WI",
             "geonames": 5279468
         },
-        "names": {
-            "long": "Wisconsin"
+        "long": {
+            "default": "Wisconsin"
         }
     },
     {
@@ -292,8 +292,8 @@
             "iso_3166": "CA",
             "geonames": 5332921
         },
-        "names": {
-            "long": "California"
+        "long": {
+            "default": "California"
         }
     },
     {
@@ -301,8 +301,8 @@
             "iso_3166": "CO",
             "geonames": 5417618
         },
-        "names": {
-            "long": "Colorado"
+        "long": {
+            "default": "Colorado"
         }
     },
     {
@@ -310,8 +310,8 @@
             "iso_3166": "NM",
             "geonames": 5481136
         },
-        "names": {
-            "long": "New Mexico"
+        "long": {
+            "default": "New Mexico"
         }
     },
     {
@@ -319,8 +319,8 @@
             "iso_3166": "NV",
             "geonames": 5509151
         },
-        "names": {
-            "long": "Nevada"
+        "long": {
+            "default": "Nevada"
         }
     },
     {
@@ -328,8 +328,8 @@
             "iso_3166": "UT",
             "geonames": 5549030
         },
-        "names": {
-            "long": "Utah"
+        "long": {
+            "default": "Utah"
         }
     },
     {
@@ -337,8 +337,8 @@
             "iso_3166": "AZ",
             "geonames": 5551752
         },
-        "names": {
-            "long": "Arizona"
+        "long": {
+            "default": "Arizona"
         }
     },
     {
@@ -346,8 +346,8 @@
             "iso_3166": "ID",
             "geonames": 5596512
         },
-        "names": {
-            "long": "Idaho"
+        "long": {
+            "default": "Idaho"
         }
     },
     {
@@ -355,8 +355,8 @@
             "iso_3166": "MT",
             "geonames": 5667009
         },
-        "names": {
-            "long": "Montana"
+        "long": {
+            "default": "Montana"
         }
     },
     {
@@ -364,8 +364,8 @@
             "iso_3166": "ND",
             "geonames": 5690763
         },
-        "names": {
-            "long": "North Dakota"
+        "long": {
+            "default": "North Dakota"
         }
     },
     {
@@ -373,8 +373,8 @@
             "iso_3166": "OR",
             "geonames": 5744337
         },
-        "names": {
-            "long": "Oregon"
+        "long": {
+            "default": "Oregon"
         }
     },
     {
@@ -382,8 +382,8 @@
             "iso_3166": "SD",
             "geonames": 5769223
         },
-        "names": {
-            "long": "South Dakota"
+        "long": {
+            "default": "South Dakota"
         }
     },
     {
@@ -391,8 +391,8 @@
             "iso_3166": "WA",
             "geonames": 5815135
         },
-        "names": {
-            "long": "Washington"
+        "long": {
+            "default": "Washington"
         }
     },
     {
@@ -400,8 +400,8 @@
             "iso_3166": "WY",
             "geonames": 5843591
         },
-        "names": {
-            "long": "Wyoming"
+        "long": {
+            "default": "Wyoming"
         }
     },
     {
@@ -409,8 +409,8 @@
             "iso_3166": "HI",
             "geonames": 5855797
         },
-        "names": {
-            "long": "Hawaii"
+        "long": {
+            "default": "Hawaii"
         }
     },
     {
@@ -418,8 +418,8 @@
             "iso_3166": "AK",
             "geonames": 5879092
         },
-        "names": {
-            "long": "Alaska"
+        "long": {
+            "default": "Alaska"
         }
     },
     {
@@ -427,8 +427,8 @@
             "iso_3166": "KY",
             "geonames": 6254925
         },
-        "names": {
-            "long": "Kentucky"
+        "long": {
+            "default": "Kentucky"
         }
     },
     {
@@ -436,8 +436,8 @@
             "iso_3166": "MA",
             "geonames": 6254926
         },
-        "names": {
-            "long": "Massachusetts"
+        "long": {
+            "default": "Massachusetts"
         }
     },
     {
@@ -445,8 +445,8 @@
             "iso_3166": "PA",
             "geonames": 6254927
         },
-        "names": {
-            "long": "Pennsylvania"
+        "long": {
+            "default": "Pennsylvania"
         }
     },
     {
@@ -454,8 +454,8 @@
             "iso_3166": "VA",
             "geonames": 6254928
         },
-        "names": {
-            "long": "Virginia"
+        "long": {
+            "default": "Virginia"
         }
     }
 ]

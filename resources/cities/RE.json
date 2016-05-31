@@ -1,7 +1,11 @@
 {
     "935214": {
-        "geoid": "935214",
-        "name": "Saint-Pierre",
+        "ids": {
+            "geonames": 935214
+        },
+        "long": {
+            "default": "Saint-Pierre"
+        },
         "lat": -21.3393,
         "lng": 55.47811,
         "country": "RE",
@@ -9,8 +13,12 @@
         "population": 76655
     },
     "935221": {
-        "geoid": "935221",
-        "name": "Saint-Paul",
+        "ids": {
+            "geonames": 935221
+        },
+        "long": {
+            "default": "Saint-Paul"
+        },
         "lat": -21.00963,
         "lng": 55.27071,
         "country": "RE",
@@ -18,8 +26,12 @@
         "population": 99307
     },
     "935264": {
-        "geoid": "935264",
-        "name": "Saint-Denis",
+        "ids": {
+            "geonames": 935264
+        },
+        "long": {
+            "default": "Saint-Denis"
+        },
         "lat": -20.88231,
         "lng": 55.4504,
         "country": "RE",
@@ -27,8 +39,12 @@
         "population": 137195
     },
     "935582": {
-        "geoid": "935582",
-        "name": "Le Tampon",
+        "ids": {
+            "geonames": 935582
+        },
+        "long": {
+            "default": "Le Tampon"
+        },
         "lat": -21.28309,
         "lng": 55.51802,
         "country": "RE",

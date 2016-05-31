@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 2101556
         },
-        "names": {
-            "long": "Western Province"
+        "long": {
+            "default": "Western Province"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 2106552
         },
-        "names": {
-            "long": "Malaita"
+        "long": {
+            "default": "Malaita"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 2108262
         },
-        "names": {
-            "long": "Isabel"
+        "long": {
+            "default": "Isabel"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 2108831
         },
-        "names": {
-            "long": "Guadalcanal"
+        "long": {
+            "default": "Guadalcanal"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 2109495
         },
-        "names": {
-            "long": "Central Province"
+        "long": {
+            "default": "Central Province"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 2178472
         },
-        "names": {
-            "long": "Temotu"
+        "long": {
+            "default": "Temotu"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 2178730
         },
-        "names": {
-            "long": "Makira"
+        "long": {
+            "default": "Makira"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 7280292
         },
-        "names": {
-            "long": "Choiseul"
+        "long": {
+            "default": "Choiseul"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "13",
             "geonames": 7280293
         },
-        "names": {
-            "long": "Rennell and Bellona"
+        "long": {
+            "default": "Rennell and Bellona"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "14",
             "geonames": 9259067
         },
-        "names": {
-            "long": "Honiara"
+        "long": {
+            "default": "Honiara"
         }
     }
 ]

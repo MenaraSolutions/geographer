@@ -1,7 +1,11 @@
 {
     "1123004": {
-        "geoid": "1123004",
-        "name": "Taloqan",
+        "ids": {
+            "geonames": 1123004
+        },
+        "long": {
+            "default": "Taloqan"
+        },
         "lat": 36.73605,
         "lng": 69.53451,
         "country": "AF",
@@ -9,8 +13,12 @@
         "population": 64256
     },
     "1125444": {
-        "geoid": "1125444",
-        "name": "Shibirghān",
+        "ids": {
+            "geonames": 1125444
+        },
+        "long": {
+            "default": "Shibirghān"
+        },
         "lat": 36.66757,
         "lng": 65.7529,
         "country": "AF",
@@ -18,8 +26,12 @@
         "population": 55641
     },
     "1127110": {
-        "geoid": "1127110",
-        "name": "Sar-e Pul",
+        "ids": {
+            "geonames": 1127110
+        },
+        "long": {
+            "default": "Sar-e Pul"
+        },
         "lat": 36.21544,
         "lng": 65.93249,
         "country": "AF",
@@ -27,8 +39,12 @@
         "population": 52121
     },
     "1130490": {
-        "geoid": "1130490",
-        "name": "Pul-e Khumrī",
+        "ids": {
+            "geonames": 1130490
+        },
+        "long": {
+            "default": "Pul-e Khumrī"
+        },
         "lat": 35.94458,
         "lng": 68.71512,
         "country": "AF",
@@ -36,8 +52,12 @@
         "population": 56369
     },
     "1133453": {
-        "geoid": "1133453",
-        "name": "Maymana",
+        "ids": {
+            "geonames": 1133453
+        },
+        "long": {
+            "default": "Maymana"
+        },
         "lat": 35.92139,
         "lng": 64.78361,
         "country": "AF",
@@ -45,8 +65,12 @@
         "population": 75900
     },
     "1133616": {
-        "geoid": "1133616",
-        "name": "Mazār-e Sharīf",
+        "ids": {
+            "geonames": 1133616
+        },
+        "long": {
+            "default": "Mazār-e Sharīf"
+        },
         "lat": 36.70904,
         "lng": 67.11087,
         "country": "AF",
@@ -54,8 +78,12 @@
         "population": 303282
     },
     "1135689": {
-        "geoid": "1135689",
-        "name": "Kunduz",
+        "ids": {
+            "geonames": 1135689
+        },
+        "long": {
+            "default": "Kunduz"
+        },
         "lat": 36.72895,
         "lng": 68.857,
         "country": "AF",
@@ -63,8 +91,12 @@
         "population": 161902
     },
     "1136469": {
-        "geoid": "1136469",
-        "name": "Khōst",
+        "ids": {
+            "geonames": 1136469
+        },
+        "long": {
+            "default": "Khōst"
+        },
         "lat": 33.33951,
         "lng": 69.92041,
         "country": "AF",
@@ -72,8 +104,12 @@
         "population": 96123
     },
     "1136575": {
-        "geoid": "1136575",
-        "name": "Khulm",
+        "ids": {
+            "geonames": 1136575
+        },
+        "long": {
+            "default": "Khulm"
+        },
         "lat": 36.69736,
         "lng": 67.69826,
         "country": "AF",
@@ -81,8 +117,12 @@
         "population": 64933
     },
     "1137168": {
-        "geoid": "1137168",
-        "name": "Khanabad",
+        "ids": {
+            "geonames": 1137168
+        },
+        "long": {
+            "default": "Khanabad"
+        },
         "lat": 36.6825,
         "lng": 69.11556,
         "country": "AF",
@@ -90,8 +130,12 @@
         "population": 71531
     },
     "1138336": {
-        "geoid": "1138336",
-        "name": "Kandahār",
+        "ids": {
+            "geonames": 1138336
+        },
+        "long": {
+            "default": "Kandahār"
+        },
         "lat": 31.61332,
         "lng": 65.71013,
         "country": "AF",
@@ -99,8 +143,12 @@
         "population": 391190
     },
     "1138958": {
-        "geoid": "1138958",
-        "name": "Kabul",
+        "ids": {
+            "geonames": 1138958
+        },
+        "long": {
+            "default": "Kabul"
+        },
         "lat": 34.52813,
         "lng": 69.17233,
         "country": "AF",
@@ -108,8 +156,12 @@
         "population": 3043532
     },
     "1139715": {
-        "geoid": "1139715",
-        "name": "Jalālābād",
+        "ids": {
+            "geonames": 1139715
+        },
+        "long": {
+            "default": "Jalālābād"
+        },
         "lat": 34.42647,
         "lng": 70.45153,
         "country": "AF",
@@ -117,8 +169,12 @@
         "population": 200331
     },
     "1140026": {
-        "geoid": "1140026",
-        "name": "Herāt",
+        "ids": {
+            "geonames": 1140026
+        },
+        "long": {
+            "default": "Herāt"
+        },
         "lat": 34.34817,
         "lng": 62.19967,
         "country": "AF",
@@ -126,8 +182,12 @@
         "population": 272806
     },
     "1141269": {
-        "geoid": "1141269",
-        "name": "Ghazni",
+        "ids": {
+            "geonames": 1141269
+        },
+        "long": {
+            "default": "Ghazni"
+        },
         "lat": 33.55391,
         "lng": 68.42096,
         "country": "AF",
@@ -135,8 +195,12 @@
         "population": 141000
     },
     "1141857": {
-        "geoid": "1141857",
-        "name": "Gardēz",
+        "ids": {
+            "geonames": 1141857
+        },
+        "long": {
+            "default": "Gardēz"
+        },
         "lat": 33.59744,
         "lng": 69.22592,
         "country": "AF",
@@ -144,8 +208,12 @@
         "population": 103601
     },
     "1145352": {
-        "geoid": "1145352",
-        "name": "Charikar",
+        "ids": {
+            "geonames": 1145352
+        },
+        "long": {
+            "default": "Charikar"
+        },
         "lat": 35.01361,
         "lng": 69.17139,
         "country": "AF",
@@ -153,8 +221,12 @@
         "population": 53676
     },
     "1147242": {
-        "geoid": "1147242",
-        "name": "Bāmyān",
+        "ids": {
+            "geonames": 1147242
+        },
+        "long": {
+            "default": "Bāmyān"
+        },
         "lat": 34.82156,
         "lng": 67.82734,
         "country": "AF",
@@ -162,8 +234,12 @@
         "population": 61863
     },
     "1147290": {
-        "geoid": "1147290",
-        "name": "Balkh",
+        "ids": {
+            "geonames": 1147290
+        },
+        "long": {
+            "default": "Balkh"
+        },
         "lat": 36.75635,
         "lng": 66.8972,
         "country": "AF",
@@ -171,8 +247,12 @@
         "population": 114883
     },
     "1147540": {
-        "geoid": "1147540",
-        "name": "Baghlān",
+        "ids": {
+            "geonames": 1147540
+        },
+        "long": {
+            "default": "Baghlān"
+        },
         "lat": 36.13068,
         "lng": 68.70829,
         "country": "AF",
@@ -180,8 +260,12 @@
         "population": 108449
     },
     "1429434": {
-        "geoid": "1429434",
-        "name": "Bāzārak",
+        "ids": {
+            "geonames": 1429434
+        },
+        "long": {
+            "default": "Bāzārak"
+        },
         "lat": 35.31292,
         "lng": 69.51519,
         "country": "AF",

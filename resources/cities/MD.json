@@ -1,7 +1,11 @@
 {
     "617239": {
-        "geoid": "617239",
-        "name": "Tiraspolul",
+        "ids": {
+            "geonames": 617239
+        },
+        "long": {
+            "default": "Tiraspolul"
+        },
         "lat": 46.84274,
         "lng": 29.62909,
         "country": "MD",
@@ -9,8 +13,12 @@
         "population": 157000
     },
     "617486": {
-        "geoid": "617486",
-        "name": "Rîbniţa",
+        "ids": {
+            "geonames": 617486
+        },
+        "long": {
+            "default": "Rîbniţa"
+        },
         "lat": 47.76817,
         "lng": 29.01,
         "country": "MD",
@@ -18,8 +26,12 @@
         "population": 55455
     },
     "618426": {
-        "geoid": "618426",
-        "name": "Chişinău",
+        "ids": {
+            "geonames": 618426
+        },
+        "long": {
+            "default": "Chişinău"
+        },
         "lat": 47.00556,
         "lng": 28.8575,
         "country": "MD",
@@ -27,8 +39,12 @@
         "population": 635994
     },
     "618577": {
-        "geoid": "618577",
-        "name": "Bender",
+        "ids": {
+            "geonames": 618577
+        },
+        "long": {
+            "default": "Bender"
+        },
         "lat": 46.83156,
         "lng": 29.47769,
         "country": "MD",
@@ -36,8 +52,12 @@
         "population": 110175
     },
     "618605": {
-        "geoid": "618605",
-        "name": "Bălţi",
+        "ids": {
+            "geonames": 618605
+        },
+        "long": {
+            "default": "Bălţi"
+        },
         "lat": 47.76314,
         "lng": 27.92932,
         "country": "MD",

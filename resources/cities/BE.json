@@ -1,7 +1,11 @@
 {
     "2784821": {
-        "geoid": "2784821",
-        "name": "Verviers",
+        "ids": {
+            "geonames": 2784821
+        },
+        "long": {
+            "default": "Verviers"
+        },
         "lat": 50.58907,
         "lng": 5.86241,
         "country": "BE",
@@ -9,8 +13,12 @@
         "population": 52824
     },
     "2785341": {
-        "geoid": "2785341",
-        "name": "Tournai",
+        "ids": {
+            "geonames": 2785341
+        },
+        "long": {
+            "default": "Tournai"
+        },
         "lat": 50.60715,
         "lng": 3.38932,
         "country": "BE",
@@ -18,8 +26,12 @@
         "population": 67721
     },
     "2786578": {
-        "geoid": "2786578",
-        "name": "Sint-Niklaas",
+        "ids": {
+            "geonames": 2786578
+        },
+        "long": {
+            "default": "Sint-Niklaas"
+        },
         "lat": 51.16509,
         "lng": 4.1437,
         "country": "BE",
@@ -27,8 +39,12 @@
         "population": 69010
     },
     "2786824": {
-        "geoid": "2786824",
-        "name": "Seraing",
+        "ids": {
+            "geonames": 2786824
+        },
+        "long": {
+            "default": "Seraing"
+        },
         "lat": 50.58362,
         "lng": 5.50115,
         "country": "BE",
@@ -36,8 +52,12 @@
         "population": 60737
     },
     "2787889": {
-        "geoid": "2787889",
-        "name": "Roeselare",
+        "ids": {
+            "geonames": 2787889
+        },
+        "long": {
+            "default": "Roeselare"
+        },
         "lat": 50.94653,
         "lng": 3.12269,
         "country": "BE",
@@ -45,8 +65,12 @@
         "population": 56016
     },
     "2789786": {
-        "geoid": "2789786",
-        "name": "Ostend",
+        "ids": {
+            "geonames": 2789786
+        },
+        "long": {
+            "default": "Ostend"
+        },
         "lat": 51.21551,
         "lng": 2.927,
         "country": "BE",
@@ -54,8 +78,12 @@
         "population": 69011
     },
     "2790471": {
-        "geoid": "2790471",
-        "name": "Namur",
+        "ids": {
+            "geonames": 2790471
+        },
+        "long": {
+            "default": "Namur"
+        },
         "lat": 50.4669,
         "lng": 4.86746,
         "country": "BE",
@@ -63,8 +91,12 @@
         "population": 106284
     },
     "2790595": {
-        "geoid": "2790595",
-        "name": "Mouscron",
+        "ids": {
+            "geonames": 2790595
+        },
+        "long": {
+            "default": "Mouscron"
+        },
         "lat": 50.74497,
         "lng": 3.20639,
         "country": "BE",
@@ -72,8 +104,12 @@
         "population": 52069
     },
     "2790869": {
-        "geoid": "2790869",
-        "name": "Mons",
+        "ids": {
+            "geonames": 2790869
+        },
+        "long": {
+            "default": "Mons"
+        },
         "lat": 50.45413,
         "lng": 3.95229,
         "country": "BE",
@@ -81,8 +117,12 @@
         "population": 91277
     },
     "2791537": {
-        "geoid": "2791537",
-        "name": "Mechelen",
+        "ids": {
+            "geonames": 2791537
+        },
+        "long": {
+            "default": "Mechelen"
+        },
         "lat": 51.02574,
         "lng": 4.47762,
         "country": "BE",
@@ -90,8 +130,12 @@
         "population": 77530
     },
     "2792413": {
-        "geoid": "2792413",
-        "name": "Liège",
+        "ids": {
+            "geonames": 2792413
+        },
+        "long": {
+            "default": "Liège"
+        },
         "lat": 50.63373,
         "lng": 5.56749,
         "country": "BE",
@@ -99,8 +143,12 @@
         "population": 182597
     },
     "2792482": {
-        "geoid": "2792482",
-        "name": "Leuven",
+        "ids": {
+            "geonames": 2792482
+        },
+        "long": {
+            "default": "Leuven"
+        },
         "lat": 50.87959,
         "lng": 4.70093,
         "country": "BE",
@@ -108,8 +156,12 @@
         "population": 92892
     },
     "2793508": {
-        "geoid": "2793508",
-        "name": "La Louvière",
+        "ids": {
+            "geonames": 2793508
+        },
+        "long": {
+            "default": "La Louvière"
+        },
         "lat": 50.48657,
         "lng": 4.18785,
         "country": "BE",
@@ -117,8 +169,12 @@
         "population": 76668
     },
     "2794055": {
-        "geoid": "2794055",
-        "name": "Kortrijk",
+        "ids": {
+            "geonames": 2794055
+        },
+        "long": {
+            "default": "Kortrijk"
+        },
         "lat": 50.82803,
         "lng": 3.26487,
         "country": "BE",
@@ -126,8 +182,12 @@
         "population": 73879
     },
     "2796491": {
-        "geoid": "2796491",
-        "name": "Hasselt",
+        "ids": {
+            "geonames": 2796491
+        },
+        "long": {
+            "default": "Hasselt"
+        },
         "lat": 50.93106,
         "lng": 5.33781,
         "country": "BE",
@@ -135,8 +195,12 @@
         "population": 69222
     },
     "2797656": {
-        "geoid": "2797656",
-        "name": "Gent",
+        "ids": {
+            "geonames": 2797656
+        },
+        "long": {
+            "default": "Gent"
+        },
         "lat": 51.05,
         "lng": 3.71667,
         "country": "BE",
@@ -144,8 +208,12 @@
         "population": 231493
     },
     "2797670": {
-        "geoid": "2797670",
-        "name": "Genk",
+        "ids": {
+            "geonames": 2797670
+        },
+        "long": {
+            "default": "Genk"
+        },
         "lat": 50.965,
         "lng": 5.50082,
         "country": "BE",
@@ -153,8 +221,12 @@
         "population": 63666
     },
     "2800481": {
-        "geoid": "2800481",
-        "name": "Charleroi",
+        "ids": {
+            "geonames": 2800481
+        },
+        "long": {
+            "default": "Charleroi"
+        },
         "lat": 50.41136,
         "lng": 4.44448,
         "country": "BE",
@@ -162,8 +234,12 @@
         "population": 200132
     },
     "2800866": {
-        "geoid": "2800866",
-        "name": "Brussels",
+        "ids": {
+            "geonames": 2800866
+        },
+        "long": {
+            "default": "Brussels"
+        },
         "lat": 50.85045,
         "lng": 4.34878,
         "country": "BE",
@@ -171,8 +247,12 @@
         "population": 1019022
     },
     "2800931": {
-        "geoid": "2800931",
-        "name": "Brugge",
+        "ids": {
+            "geonames": 2800931
+        },
+        "long": {
+            "default": "Brugge"
+        },
         "lat": 51.20892,
         "lng": 3.22424,
         "country": "BE",
@@ -180,8 +260,12 @@
         "population": 116709
     },
     "2803138": {
-        "geoid": "2803138",
-        "name": "Antwerpen",
+        "ids": {
+            "geonames": 2803138
+        },
+        "long": {
+            "default": "Antwerpen"
+        },
         "lat": 51.21989,
         "lng": 4.40346,
         "country": "BE",
@@ -189,8 +273,12 @@
         "population": 459805
     },
     "2803448": {
-        "geoid": "2803448",
-        "name": "Aalst",
+        "ids": {
+            "geonames": 2803448
+        },
+        "long": {
+            "default": "Aalst"
+        },
         "lat": 50.93604,
         "lng": 4.0355,
         "country": "BE",

@@ -1,7 +1,11 @@
 {
     "2363534": {
-        "geoid": "2363534",
-        "name": "Tsévié",
+        "ids": {
+            "geonames": 2363534
+        },
+        "long": {
+            "default": "Tsévié"
+        },
         "lat": 6.42611,
         "lng": 1.21333,
         "country": "TG",
@@ -9,8 +13,12 @@
         "population": 55775
     },
     "2364104": {
-        "geoid": "2364104",
-        "name": "Sokodé",
+        "ids": {
+            "geonames": 2364104
+        },
+        "long": {
+            "default": "Sokodé"
+        },
         "lat": 8.98333,
         "lng": 1.13333,
         "country": "TG",
@@ -18,8 +26,12 @@
         "population": 117811
     },
     "2365267": {
-        "geoid": "2365267",
-        "name": "Lomé",
+        "ids": {
+            "geonames": 2365267
+        },
+        "long": {
+            "default": "Lomé"
+        },
         "lat": 6.13748,
         "lng": 1.21227,
         "country": "TG",
@@ -27,8 +39,12 @@
         "population": 749700
     },
     "2365560": {
-        "geoid": "2365560",
-        "name": "Kpalimé",
+        "ids": {
+            "geonames": 2365560
+        },
+        "long": {
+            "default": "Kpalimé"
+        },
         "lat": 6.9,
         "lng": 0.63333,
         "country": "TG",
@@ -36,8 +52,12 @@
         "population": 75084
     },
     "2366152": {
-        "geoid": "2366152",
-        "name": "Kara",
+        "ids": {
+            "geonames": 2366152
+        },
+        "long": {
+            "default": "Kara"
+        },
         "lat": 9.55111,
         "lng": 1.18611,
         "country": "TG",
@@ -45,8 +65,12 @@
         "population": 104207
     },
     "2367568": {
-        "geoid": "2367568",
-        "name": "Bassar",
+        "ids": {
+            "geonames": 2367568
+        },
+        "long": {
+            "default": "Bassar"
+        },
         "lat": 9.25025,
         "lng": 0.78213,
         "country": "TG",
@@ -54,8 +78,12 @@
         "population": 61845
     },
     "2367886": {
-        "geoid": "2367886",
-        "name": "Atakpamé",
+        "ids": {
+            "geonames": 2367886
+        },
+        "long": {
+            "default": "Atakpamé"
+        },
         "lat": 7.53333,
         "lng": 1.13333,
         "country": "TG",

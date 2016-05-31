@@ -4,8 +4,8 @@
             "fips": "6417213",
             "geonames": 6417213
         },
-        "names": {
-            "long": "St Pierre du Bois"
+        "long": {
+            "default": "St Pierre du Bois"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "6417214",
             "geonames": 6417214
         },
-        "names": {
-            "long": "Torteval"
+        "long": {
+            "default": "Torteval"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "6417215",
             "geonames": 6417215
         },
-        "names": {
-            "long": "Saint Saviour"
+        "long": {
+            "default": "Saint Saviour"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "6417223",
             "geonames": 6417223
         },
-        "names": {
-            "long": "Forest"
+        "long": {
+            "default": "Forest"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "6417224",
             "geonames": 6417224
         },
-        "names": {
-            "long": "St Martin"
+        "long": {
+            "default": "St Martin"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "6417226",
             "geonames": 6417226
         },
-        "names": {
-            "long": "Saint Andrew"
+        "long": {
+            "default": "Saint Andrew"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "6417228",
             "geonames": 6417228
         },
-        "names": {
-            "long": "St Peter Port"
+        "long": {
+            "default": "St Peter Port"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "6417229",
             "geonames": 6417229
         },
-        "names": {
-            "long": "Castel"
+        "long": {
+            "default": "Castel"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "6417230",
             "geonames": 6417230
         },
-        "names": {
-            "long": "Vale"
+        "long": {
+            "default": "Vale"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "6417233",
             "geonames": 6417233
         },
-        "names": {
-            "long": "St Sampson"
+        "long": {
+            "default": "St Sampson"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "8989934",
             "geonames": 8989934
         },
-        "names": {
-            "long": "Alderney"
+        "long": {
+            "default": "Alderney"
         }
     }
 ]

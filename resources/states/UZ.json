@@ -4,8 +4,8 @@
             "fips": "09",
             "geonames": 453752
         },
-        "names": {
-            "long": "Karakalpakstan"
+        "long": {
+            "default": "Karakalpakstan"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "12",
             "geonames": 1114926
         },
-        "names": {
-            "long": "Surxondaryo"
+        "long": {
+            "default": "Surxondaryo"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "10",
             "geonames": 1114927
         },
-        "names": {
-            "long": "Samarqand"
+        "long": {
+            "default": "Samarqand"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 1114928
         },
-        "names": {
-            "long": "Qashqadaryo"
+        "long": {
+            "default": "Qashqadaryo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "02",
             "geonames": 1114929
         },
-        "names": {
-            "long": "Bukhara"
+        "long": {
+            "default": "Bukhara"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 1484838
         },
-        "names": {
-            "long": "Toshkent"
+        "long": {
+            "default": "Toshkent"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 1484839
         },
-        "names": {
-            "long": "Toshkent Shahri"
+        "long": {
+            "default": "Toshkent Shahri"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "16",
             "geonames": 1484840
         },
-        "names": {
-            "long": "Sirdaryo"
+        "long": {
+            "default": "Sirdaryo"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "07",
             "geonames": 1484841
         },
-        "names": {
-            "long": "Navoiy"
+        "long": {
+            "default": "Navoiy"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "06",
             "geonames": 1484842
         },
-        "names": {
-            "long": "Namangan"
+        "long": {
+            "default": "Namangan"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "05",
             "geonames": 1484843
         },
-        "names": {
-            "long": "Xorazm"
+        "long": {
+            "default": "Xorazm"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "15",
             "geonames": 1484844
         },
-        "names": {
-            "long": "Jizzax"
+        "long": {
+            "default": "Jizzax"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "03",
             "geonames": 1484845
         },
-        "names": {
-            "long": "Fergana"
+        "long": {
+            "default": "Fergana"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "01",
             "geonames": 1484846
         },
-        "names": {
-            "long": "Andijon"
+        "long": {
+            "default": "Andijon"
         }
     }
 ]

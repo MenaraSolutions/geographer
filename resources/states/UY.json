@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 3439780
         },
-        "names": {
-            "long": "Treinta y Tres"
+        "long": {
+            "default": "Treinta y Tres"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 3440033
         },
-        "names": {
-            "long": "Tacuarembó"
+        "long": {
+            "default": "Tacuarembó"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 3440054
         },
-        "names": {
-            "long": "Soriano"
+        "long": {
+            "default": "Soriano"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "16",
             "geonames": 3440645
         },
-        "names": {
-            "long": "San José"
+        "long": {
+            "default": "San José"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 3440711
         },
-        "names": {
-            "long": "Salto"
+        "long": {
+            "default": "Salto"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 3440771
         },
-        "names": {
-            "long": "Rocha"
+        "long": {
+            "default": "Rocha"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 3440780
         },
-        "names": {
-            "long": "Rivera"
+        "long": {
+            "default": "Rivera"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 3440789
         },
-        "names": {
-            "long": "Río Negro"
+        "long": {
+            "default": "Río Negro"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 3441242
         },
-        "names": {
-            "long": "Paysandú"
+        "long": {
+            "default": "Paysandú"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 3441572
         },
-        "names": {
-            "long": "Montevideo"
+        "long": {
+            "default": "Montevideo"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "09",
             "geonames": 3441890
         },
-        "names": {
-            "long": "Maldonado"
+        "long": {
+            "default": "Maldonado"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "08",
             "geonames": 3442007
         },
-        "names": {
-            "long": "Lavalleja"
+        "long": {
+            "default": "Lavalleja"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "07",
             "geonames": 3442584
         },
-        "names": {
-            "long": "Florida"
+        "long": {
+            "default": "Florida"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "06",
             "geonames": 3442587
         },
-        "names": {
-            "long": "Flores"
+        "long": {
+            "default": "Flores"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "05",
             "geonames": 3442720
         },
-        "names": {
-            "long": "Durazno"
+        "long": {
+            "default": "Durazno"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "04",
             "geonames": 3443025
         },
-        "names": {
-            "long": "Colonia"
+        "long": {
+            "default": "Colonia"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "03",
             "geonames": 3443173
         },
-        "names": {
-            "long": "Cerro Largo"
+        "long": {
+            "default": "Cerro Largo"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "02",
             "geonames": 3443411
         },
-        "names": {
-            "long": "Canelones"
+        "long": {
+            "default": "Canelones"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "01",
             "geonames": 3443756
         },
-        "names": {
-            "long": "Artigas"
+        "long": {
+            "default": "Artigas"
         }
     }
 ]

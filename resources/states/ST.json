@@ -4,8 +4,8 @@
             "fips": "02",
             "geonames": 2410764
         },
-        "names": {
-            "long": "São Tomé Island"
+        "long": {
+            "default": "São Tomé Island"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "01",
             "geonames": 2410878
         },
-        "names": {
-            "long": "Príncipe"
+        "long": {
+            "default": "Príncipe"
         }
     }
 ]

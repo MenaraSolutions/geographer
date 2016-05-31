@@ -1,7 +1,11 @@
 {
     "3716667": {
-        "geoid": "3716667",
-        "name": "Thomazeau",
+        "ids": {
+            "geonames": 3716667
+        },
+        "long": {
+            "default": "Thomazeau"
+        },
         "lat": 18.65094,
         "lng": -72.09191,
         "country": "HT",
@@ -9,8 +13,12 @@
         "population": 52017
     },
     "3717588": {
-        "geoid": "3717588",
-        "name": "Saint-Marc",
+        "ids": {
+            "geonames": 3717588
+        },
+        "long": {
+            "default": "Saint-Marc"
+        },
         "lat": 19.10819,
         "lng": -72.69379,
         "country": "HT",
@@ -18,8 +26,12 @@
         "population": 66226
     },
     "3718420": {
-        "geoid": "3718420",
-        "name": "Port-de-Paix",
+        "ids": {
+            "geonames": 3718420
+        },
+        "long": {
+            "default": "Port-de-Paix"
+        },
         "lat": 19.9389,
         "lng": -72.83257,
         "country": "HT",
@@ -27,8 +39,12 @@
         "population": 250000
     },
     "3718426": {
-        "geoid": "3718426",
-        "name": "Port-au-Prince",
+        "ids": {
+            "geonames": 3718426
+        },
+        "long": {
+            "default": "Port-au-Prince"
+        },
         "lat": 18.53917,
         "lng": -72.335,
         "country": "HT",
@@ -36,8 +52,12 @@
         "population": 1234742
     },
     "3718962": {
-        "geoid": "3718962",
-        "name": "Tigwav",
+        "ids": {
+            "geonames": 3718962
+        },
+        "long": {
+            "default": "Tigwav"
+        },
         "lat": 18.42939,
         "lng": -72.86297,
         "country": "HT",
@@ -45,8 +65,12 @@
         "population": 117504
     },
     "3719028": {
-        "geoid": "3719028",
-        "name": "Pétionville",
+        "ids": {
+            "geonames": 3719028
+        },
+        "long": {
+            "default": "Pétionville"
+        },
         "lat": 18.5125,
         "lng": -72.28528,
         "country": "HT",
@@ -54,8 +78,12 @@
         "population": 283052
     },
     "3720824": {
-        "geoid": "3720824",
-        "name": "Miragoâne",
+        "ids": {
+            "geonames": 3720824
+        },
+        "long": {
+            "default": "Miragoâne"
+        },
         "lat": 18.44232,
         "lng": -73.08758,
         "country": "HT",
@@ -63,8 +91,12 @@
         "population": 89202
     },
     "3722286": {
-        "geoid": "3722286",
-        "name": "Léogâne",
+        "ids": {
+            "geonames": 3722286
+        },
+        "long": {
+            "default": "Léogâne"
+        },
         "lat": 18.50959,
         "lng": -72.63147,
         "country": "HT",
@@ -72,8 +104,12 @@
         "population": 134190
     },
     "3723593": {
-        "geoid": "3723593",
-        "name": "Jérémie",
+        "ids": {
+            "geonames": 3723593
+        },
+        "long": {
+            "default": "Jérémie"
+        },
         "lat": 18.65,
         "lng": -74.11667,
         "country": "HT",
@@ -81,8 +117,12 @@
         "population": 97503
     },
     "3723779": {
-        "geoid": "3723779",
-        "name": "Jacmel",
+        "ids": {
+            "geonames": 3723779
+        },
+        "long": {
+            "default": "Jacmel"
+        },
         "lat": 18.23427,
         "lng": -72.53539,
         "country": "HT",
@@ -90,8 +130,12 @@
         "population": 137966
     },
     "3724696": {
-        "geoid": "3724696",
-        "name": "Gonayiv",
+        "ids": {
+            "geonames": 3724696
+        },
+        "long": {
+            "default": "Gonayiv"
+        },
         "lat": 19.44749,
         "lng": -72.68903,
         "country": "HT",
@@ -99,8 +143,12 @@
         "population": 84961
     },
     "3726786": {
-        "geoid": "3726786",
-        "name": "Delmas 73",
+        "ids": {
+            "geonames": 3726786
+        },
+        "long": {
+            "default": "Delmas 73"
+        },
         "lat": 18.54472,
         "lng": -72.30278,
         "country": "HT",
@@ -108,8 +156,12 @@
         "population": 382920
     },
     "3727135": {
-        "geoid": "3727135",
-        "name": "Croix des Bouquets",
+        "ids": {
+            "geonames": 3727135
+        },
+        "long": {
+            "default": "Croix des Bouquets"
+        },
         "lat": 18.57512,
         "lng": -72.22302,
         "country": "HT",
@@ -117,8 +169,12 @@
         "population": 229127
     },
     "3728097": {
-        "geoid": "3728097",
-        "name": "Les Cayes",
+        "ids": {
+            "geonames": 3728097
+        },
+        "long": {
+            "default": "Les Cayes"
+        },
         "lat": 18.19331,
         "lng": -73.74601,
         "country": "HT",
@@ -126,8 +182,12 @@
         "population": 125799
     },
     "3728338": {
-        "geoid": "3728338",
-        "name": "Carrefour",
+        "ids": {
+            "geonames": 3728338
+        },
+        "long": {
+            "default": "Carrefour"
+        },
         "lat": 18.54114,
         "lng": -72.39922,
         "country": "HT",
@@ -135,8 +195,12 @@
         "population": 442156
     },
     "3728474": {
-        "geoid": "3728474",
-        "name": "Okap",
+        "ids": {
+            "geonames": 3728474
+        },
+        "long": {
+            "default": "Okap"
+        },
         "lat": 19.75938,
         "lng": -72.19815,
         "country": "HT",

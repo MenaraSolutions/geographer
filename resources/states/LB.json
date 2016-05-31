@@ -4,8 +4,8 @@
             "fips": "05",
             "geonames": 273607
         },
-        "names": {
-            "long": "Mont-Liban"
+        "long": {
+            "default": "Mont-Liban"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 276780
         },
-        "names": {
-            "long": "Beyrouth"
+        "long": {
+            "default": "Beyrouth"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "09",
             "geonames": 278297
         },
-        "names": {
-            "long": "Liban-Nord"
+        "long": {
+            "default": "Liban-Nord"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 279894
         },
-        "names": {
-            "long": "South Governorate"
+        "long": {
+            "default": "South Governorate"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "08",
             "geonames": 280282
         },
-        "names": {
-            "long": "Béqaa"
+        "long": {
+            "default": "Béqaa"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "07",
             "geonames": 444191
         },
-        "names": {
-            "long": "Nabatîyé"
+        "long": {
+            "default": "Nabatîyé"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "10",
             "geonames": 6201370
         },
-        "names": {
-            "long": "Aakkâr"
+        "long": {
+            "default": "Aakkâr"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "11",
             "geonames": 6201371
         },
-        "names": {
-            "long": "Baalbek-Hermel"
+        "long": {
+            "default": "Baalbek-Hermel"
         }
     }
 ]

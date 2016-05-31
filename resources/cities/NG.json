@@ -1,7 +1,11 @@
 {
     "2317765": {
-        "geoid": "2317765",
-        "name": "Zaria",
+        "ids": {
+            "geonames": 2317765
+        },
+        "long": {
+            "default": "Zaria"
+        },
         "lat": 11.11128,
         "lng": 7.7227,
         "country": "NG",
@@ -9,8 +13,12 @@
         "population": 975153
     },
     "2318044": {
-        "geoid": "2318044",
-        "name": "Yola",
+        "ids": {
+            "geonames": 2318044
+        },
+        "long": {
+            "default": "Yola"
+        },
         "lat": 9.20839,
         "lng": 12.48146,
         "country": "NG",
@@ -18,8 +26,12 @@
         "population": 96006
     },
     "2318921": {
-        "geoid": "2318921",
-        "name": "Wukari",
+        "ids": {
+            "geonames": 2318921
+        },
+        "long": {
+            "default": "Wukari"
+        },
         "lat": 7.87139,
         "lng": 9.77786,
         "country": "NG",
@@ -27,8 +39,12 @@
         "population": 92933
     },
     "2319133": {
-        "geoid": "2319133",
-        "name": "Warri",
+        "ids": {
+            "geonames": 2319133
+        },
+        "long": {
+            "default": "Warri"
+        },
         "lat": 5.51737,
         "lng": 5.75006,
         "country": "NG",
@@ -36,8 +52,12 @@
         "population": 536023
     },
     "2319480": {
-        "geoid": "2319480",
-        "name": "Uyo",
+        "ids": {
+            "geonames": 2319480
+        },
+        "long": {
+            "default": "Uyo"
+        },
         "lat": 5.05127,
         "lng": 7.9335,
         "country": "NG",
@@ -45,8 +65,12 @@
         "population": 436606
     },
     "2319668": {
-        "geoid": "2319668",
-        "name": "Uromi",
+        "ids": {
+            "geonames": 2319668
+        },
+        "long": {
+            "default": "Uromi"
+        },
         "lat": 6.7,
         "lng": 6.33333,
         "country": "NG",
@@ -54,8 +78,12 @@
         "population": 108608
     },
     "2320576": {
-        "geoid": "2320576",
-        "name": "Umuahia",
+        "ids": {
+            "geonames": 2320576
+        },
+        "long": {
+            "default": "Umuahia"
+        },
         "lat": 5.52491,
         "lng": 7.49461,
         "country": "NG",
@@ -63,8 +91,12 @@
         "population": 264662
     },
     "2320829": {
-        "geoid": "2320829",
-        "name": "Ughelli",
+        "ids": {
+            "geonames": 2320829
+        },
+        "long": {
+            "default": "Ughelli"
+        },
         "lat": 5.48956,
         "lng": 6.00407,
         "country": "NG",
@@ -72,8 +104,12 @@
         "population": 79986
     },
     "2320831": {
-        "geoid": "2320831",
-        "name": "Ugep",
+        "ids": {
+            "geonames": 2320831
+        },
+        "long": {
+            "default": "Ugep"
+        },
         "lat": 5.80865,
         "lng": 8.08098,
         "country": "NG",
@@ -81,8 +117,12 @@
         "population": 200276
     },
     "2320920": {
-        "geoid": "2320920",
-        "name": "Uga",
+        "ids": {
+            "geonames": 2320920
+        },
+        "long": {
+            "default": "Uga"
+        },
         "lat": 5.93576,
         "lng": 7.0793,
         "country": "NG",
@@ -90,8 +130,12 @@
         "population": 64179
     },
     "2322794": {
-        "geoid": "2322794",
-        "name": "Suleja",
+        "ids": {
+            "geonames": 2322794
+        },
+        "long": {
+            "default": "Suleja"
+        },
         "lat": 9.18059,
         "lng": 7.17939,
         "country": "NG",
@@ -99,8 +143,12 @@
         "population": 162135
     },
     "2322911": {
-        "geoid": "2322911",
-        "name": "Sokoto",
+        "ids": {
+            "geonames": 2322911
+        },
+        "long": {
+            "default": "Sokoto"
+        },
         "lat": 13.06269,
         "lng": 5.24322,
         "country": "NG",
@@ -108,8 +156,12 @@
         "population": 563861
     },
     "2323390": {
-        "geoid": "2323390",
-        "name": "Saki",
+        "ids": {
+            "geonames": 2323390
+        },
+        "long": {
+            "default": "Saki"
+        },
         "lat": 8.66762,
         "lng": 3.39393,
         "country": "NG",
@@ -117,8 +169,12 @@
         "population": 178677
     },
     "2323411": {
-        "geoid": "2323411",
-        "name": "Shagamu",
+        "ids": {
+            "geonames": 2323411
+        },
+        "long": {
+            "default": "Shagamu"
+        },
         "lat": 6.8485,
         "lng": 3.64633,
         "country": "NG",
@@ -126,8 +182,12 @@
         "population": 214558
     },
     "2323675": {
-        "geoid": "2323675",
-        "name": "Sapele",
+        "ids": {
+            "geonames": 2323675
+        },
+        "long": {
+            "default": "Sapele"
+        },
         "lat": 5.89405,
         "lng": 5.67666,
         "country": "NG",
@@ -135,8 +195,12 @@
         "population": 161686
     },
     "2324767": {
-        "geoid": "2324767",
-        "name": "Potiskum",
+        "ids": {
+            "geonames": 2324767
+        },
+        "long": {
+            "default": "Potiskum"
+        },
         "lat": 11.71391,
         "lng": 11.08108,
         "country": "NG",
@@ -144,8 +208,12 @@
         "population": 86002
     },
     "2324774": {
-        "geoid": "2324774",
-        "name": "Port Harcourt",
+        "ids": {
+            "geonames": 2324774
+        },
+        "long": {
+            "default": "Port Harcourt"
+        },
         "lat": 4.77742,
         "lng": 7.0134,
         "country": "NG",
@@ -153,8 +221,12 @@
         "population": 1148665
     },
     "2324857": {
-        "geoid": "2324857",
-        "name": "Pindiga",
+        "ids": {
+            "geonames": 2324857
+        },
+        "long": {
+            "default": "Pindiga"
+        },
         "lat": 9.98333,
         "lng": 10.93333,
         "country": "NG",
@@ -162,8 +234,12 @@
         "population": 106322
     },
     "2325161": {
-        "geoid": "2325161",
-        "name": "Ozubulu",
+        "ids": {
+            "geonames": 2325161
+        },
+        "long": {
+            "default": "Ozubulu"
+        },
         "lat": 5.95753,
         "lng": 6.85305,
         "country": "NG",
@@ -171,8 +247,12 @@
         "population": 73812
     },
     "2325200": {
-        "geoid": "2325200",
-        "name": "Oyo",
+        "ids": {
+            "geonames": 2325200
+        },
+        "long": {
+            "default": "Oyo"
+        },
         "lat": 7.85257,
         "lng": 3.93125,
         "country": "NG",
@@ -180,8 +260,12 @@
         "population": 736072
     },
     "2325249": {
-        "geoid": "2325249",
-        "name": "Oyan",
+        "ids": {
+            "geonames": 2325249
+        },
+        "long": {
+            "default": "Oyan"
+        },
         "lat": 8.05,
         "lng": 4.76667,
         "country": "NG",
@@ -189,8 +273,12 @@
         "population": 73622
     },
     "2325314": {
-        "geoid": "2325314",
-        "name": "Owo",
+        "ids": {
+            "geonames": 2325314
+        },
+        "long": {
+            "default": "Owo"
+        },
         "lat": 7.1962,
         "lng": 5.58681,
         "country": "NG",
@@ -198,8 +286,12 @@
         "population": 276574
     },
     "2325330": {
-        "geoid": "2325330",
-        "name": "Owerri",
+        "ids": {
+            "geonames": 2325330
+        },
+        "long": {
+            "default": "Owerri"
+        },
         "lat": 5.48363,
         "lng": 7.03325,
         "country": "NG",
@@ -207,8 +299,12 @@
         "population": 215038
     },
     "2325590": {
-        "geoid": "2325590",
-        "name": "Osogbo",
+        "ids": {
+            "geonames": 2325590
+        },
+        "long": {
+            "default": "Osogbo"
+        },
         "lat": 7.77104,
         "lng": 4.55698,
         "country": "NG",
@@ -216,8 +312,12 @@
         "population": 156694
     },
     "2325733": {
-        "geoid": "2325733",
-        "name": "Orita Eruwa",
+        "ids": {
+            "geonames": 2325733
+        },
+        "long": {
+            "default": "Orita Eruwa"
+        },
         "lat": 7.55,
         "lng": 3.43333,
         "country": "NG",
@@ -225,8 +325,12 @@
         "population": 71027
     },
     "2326016": {
-        "geoid": "2326016",
-        "name": "Onitsha",
+        "ids": {
+            "geonames": 2326016
+        },
+        "long": {
+            "default": "Onitsha"
+        },
         "lat": 6.14978,
         "lng": 6.78569,
         "country": "NG",
@@ -234,8 +338,12 @@
         "population": 561066
     },
     "2326171": {
-        "geoid": "2326171",
-        "name": "Ondo",
+        "ids": {
+            "geonames": 2326171
+        },
+        "long": {
+            "default": "Ondo"
+        },
         "lat": 7.09316,
         "lng": 4.83528,
         "country": "NG",
@@ -243,8 +351,12 @@
         "population": 257005
     },
     "2326302": {
-        "geoid": "2326302",
-        "name": "Olupona",
+        "ids": {
+            "geonames": 2326302
+        },
+        "long": {
+            "default": "Olupona"
+        },
         "lat": 7.6,
         "lng": 4.18333,
         "country": "NG",
@@ -252,8 +364,12 @@
         "population": 95002
     },
     "2326899": {
-        "geoid": "2326899",
-        "name": "Okrika",
+        "ids": {
+            "geonames": 2326899
+        },
+        "long": {
+            "default": "Okrika"
+        },
         "lat": 4.74215,
         "lng": 7.08368,
         "country": "NG",
@@ -261,8 +377,12 @@
         "population": 133271
     },
     "2327143": {
-        "geoid": "2327143",
-        "name": "Okigwe",
+        "ids": {
+            "geonames": 2327143
+        },
+        "long": {
+            "default": "Okigwe"
+        },
         "lat": 5.82917,
         "lng": 7.35056,
         "country": "NG",
@@ -270,8 +390,12 @@
         "population": 115499
     },
     "2327220": {
-        "geoid": "2327220",
-        "name": "Okene",
+        "ids": {
+            "geonames": 2327220
+        },
+        "long": {
+            "default": "Okene"
+        },
         "lat": 7.55122,
         "lng": 6.23589,
         "country": "NG",
@@ -279,8 +403,12 @@
         "population": 479178
     },
     "2327223": {
-        "geoid": "2327223",
-        "name": "Oke Mesi",
+        "ids": {
+            "geonames": 2327223
+        },
+        "long": {
+            "default": "Oke Mesi"
+        },
         "lat": 7.81667,
         "lng": 4.91667,
         "country": "NG",
@@ -288,8 +416,12 @@
         "population": 79563
     },
     "2327494": {
-        "geoid": "2327494",
-        "name": "Ohafia-Ifigh",
+        "ids": {
+            "geonames": 2327494
+        },
+        "long": {
+            "default": "Ohafia-Ifigh"
+        },
         "lat": 5.61455,
         "lng": 7.81191,
         "country": "NG",
@@ -297,8 +429,12 @@
         "population": 73355
     },
     "2327827": {
-        "geoid": "2327827",
-        "name": "Ogaminana",
+        "ids": {
+            "geonames": 2327827
+        },
+        "long": {
+            "default": "Ogaminana"
+        },
         "lat": 7.59383,
         "lng": 6.21798,
         "country": "NG",
@@ -306,8 +442,12 @@
         "population": 84373
     },
     "2327879": {
-        "geoid": "2327879",
-        "name": "Offa",
+        "ids": {
+            "geonames": 2327879
+        },
+        "long": {
+            "default": "Offa"
+        },
         "lat": 8.14911,
         "lng": 4.72074,
         "country": "NG",
@@ -315,8 +455,12 @@
         "population": 113830
     },
     "2328090": {
-        "geoid": "2328090",
-        "name": "Ode",
+        "ids": {
+            "geonames": 2328090
+        },
+        "long": {
+            "default": "Ode"
+        },
         "lat": 7.7899,
         "lng": 5.7117,
         "country": "NG",
@@ -324,8 +468,12 @@
         "population": 75463
     },
     "2328185": {
-        "geoid": "2328185",
-        "name": "Obonoma",
+        "ids": {
+            "geonames": 2328185
+        },
+        "long": {
+            "default": "Obonoma"
+        },
         "lat": 4.71131,
         "lng": 6.79084,
         "country": "NG",
@@ -333,8 +481,12 @@
         "population": 68584
     },
     "2328617": {
-        "geoid": "2328617",
-        "name": "Numan",
+        "ids": {
+            "geonames": 2328617
+        },
+        "long": {
+            "default": "Numan"
+        },
         "lat": 9.46374,
         "lng": 12.03062,
         "country": "NG",
@@ -342,8 +494,12 @@
         "population": 77617
     },
     "2328684": {
-        "geoid": "2328684",
-        "name": "Nsukka",
+        "ids": {
+            "geonames": 2328684
+        },
+        "long": {
+            "default": "Nsukka"
+        },
         "lat": 6.85783,
         "lng": 7.39577,
         "country": "NG",
@@ -351,8 +507,12 @@
         "population": 111017
     },
     "2328765": {
-        "geoid": "2328765",
-        "name": "Nnewi",
+        "ids": {
+            "geonames": 2328765
+        },
+        "long": {
+            "default": "Nnewi"
+        },
         "lat": 6.01962,
         "lng": 6.91729,
         "country": "NG",
@@ -360,8 +520,12 @@
         "population": 193987
     },
     "2328790": {
-        "geoid": "2328790",
-        "name": "Nkwerre",
+        "ids": {
+            "geonames": 2328790
+        },
+        "long": {
+            "default": "Nkwerre"
+        },
         "lat": 5.75917,
         "lng": 7.10384,
         "country": "NG",
@@ -369,8 +533,12 @@
         "population": 62973
     },
     "2328811": {
-        "geoid": "2328811",
-        "name": "Nkpor",
+        "ids": {
+            "geonames": 2328811
+        },
+        "long": {
+            "default": "Nkpor"
+        },
         "lat": 6.15038,
         "lng": 6.83042,
         "country": "NG",
@@ -378,8 +546,12 @@
         "population": 103733
     },
     "2328952": {
-        "geoid": "2328952",
-        "name": "Nguru",
+        "ids": {
+            "geonames": 2328952
+        },
+        "long": {
+            "default": "Nguru"
+        },
         "lat": 12.87695,
         "lng": 10.45536,
         "country": "NG",
@@ -387,8 +559,12 @@
         "population": 111014
     },
     "2329821": {
-        "geoid": "2329821",
-        "name": "Mubi",
+        "ids": {
+            "geonames": 2329821
+        },
+        "long": {
+            "default": "Mubi"
+        },
         "lat": 10.26858,
         "lng": 13.26701,
         "country": "NG",
@@ -396,8 +572,12 @@
         "population": 225705
     },
     "2330028": {
-        "geoid": "2330028",
-        "name": "Modakeke",
+        "ids": {
+            "geonames": 2330028
+        },
+        "long": {
+            "default": "Modakeke"
+        },
         "lat": 7.38333,
         "lng": 4.26667,
         "country": "NG",
@@ -405,8 +585,12 @@
         "population": 119529
     },
     "2330100": {
-        "geoid": "2330100",
-        "name": "Minna",
+        "ids": {
+            "geonames": 2330100
+        },
+        "long": {
+            "default": "Minna"
+        },
         "lat": 9.61524,
         "lng": 6.54776,
         "country": "NG",
@@ -414,8 +598,12 @@
         "population": 291905
     },
     "2331005": {
-        "geoid": "2331005",
-        "name": "Malumfashi",
+        "ids": {
+            "geonames": 2331005
+        },
+        "long": {
+            "default": "Malumfashi"
+        },
         "lat": 11.78935,
         "lng": 7.62061,
         "country": "NG",
@@ -423,8 +611,12 @@
         "population": 70709
     },
     "2331140": {
-        "geoid": "2331140",
-        "name": "Makurdi",
+        "ids": {
+            "geonames": 2331140
+        },
+        "long": {
+            "default": "Makurdi"
+        },
         "lat": 7.73375,
         "lng": 8.52139,
         "country": "NG",
@@ -432,8 +624,12 @@
         "population": 292645
     },
     "2331158": {
-        "geoid": "2331158",
-        "name": "Makoko",
+        "ids": {
+            "geonames": 2331158
+        },
+        "long": {
+            "default": "Makoko"
+        },
         "lat": 6.49611,
         "lng": 3.38778,
         "country": "NG",
@@ -441,8 +637,12 @@
         "population": 85840
     },
     "2331447": {
-        "geoid": "2331447",
-        "name": "Maiduguri",
+        "ids": {
+            "geonames": 2331447
+        },
+        "long": {
+            "default": "Maiduguri"
+        },
         "lat": 11.84692,
         "lng": 13.15712,
         "country": "NG",
@@ -450,8 +650,12 @@
         "population": 1112449
     },
     "2331939": {
-        "geoid": "2331939",
-        "name": "Lokoja",
+        "ids": {
+            "geonames": 2331939
+        },
+        "long": {
+            "default": "Lokoja"
+        },
         "lat": 7.79688,
         "lng": 6.74048,
         "country": "NG",
@@ -459,8 +663,12 @@
         "population": 60579
     },
     "2332079": {
-        "geoid": "2332079",
-        "name": "Lere",
+        "ids": {
+            "geonames": 2332079
+        },
+        "long": {
+            "default": "Lere"
+        },
         "lat": 10.38584,
         "lng": 8.57286,
         "country": "NG",
@@ -468,8 +676,12 @@
         "population": 93290
     },
     "2332357": {
-        "geoid": "2332357",
-        "name": "Lalupon",
+        "ids": {
+            "geonames": 2332357
+        },
+        "long": {
+            "default": "Lalupon"
+        },
         "lat": 7.46667,
         "lng": 4.06667,
         "country": "NG",
@@ -477,8 +689,12 @@
         "population": 81130
     },
     "2332459": {
-        "geoid": "2332459",
-        "name": "Lagos",
+        "ids": {
+            "geonames": 2332459
+        },
+        "long": {
+            "default": "Lagos"
+        },
         "lat": 6.45407,
         "lng": 3.39467,
         "country": "NG",
@@ -486,8 +702,12 @@
         "population": 9000000
     },
     "2332504": {
-        "geoid": "2332504",
-        "name": "Lafiagi",
+        "ids": {
+            "geonames": 2332504
+        },
+        "long": {
+            "default": "Lafiagi"
+        },
         "lat": 8.85299,
         "lng": 5.41641,
         "country": "NG",
@@ -495,8 +715,12 @@
         "population": 102779
     },
     "2332515": {
-        "geoid": "2332515",
-        "name": "Lafia",
+        "ids": {
+            "geonames": 2332515
+        },
+        "long": {
+            "default": "Lafia"
+        },
         "lat": 8.4939,
         "lng": 8.51532,
         "country": "NG",
@@ -504,8 +728,12 @@
         "population": 127236
     },
     "2333604": {
-        "geoid": "2333604",
-        "name": "Kuje",
+        "ids": {
+            "geonames": 2333604
+        },
+        "long": {
+            "default": "Kuje"
+        },
         "lat": 8.87952,
         "lng": 7.22756,
         "country": "NG",
@@ -513,8 +741,12 @@
         "population": 97367
     },
     "2334008": {
-        "geoid": "2334008",
-        "name": "Kontagora",
+        "ids": {
+            "geonames": 2334008
+        },
+        "long": {
+            "default": "Kontagora"
+        },
         "lat": 10.40319,
         "lng": 5.4708,
         "country": "NG",
@@ -522,8 +754,12 @@
         "population": 98754
     },
     "2334327": {
-        "geoid": "2334327",
-        "name": "Kisi",
+        "ids": {
+            "geonames": 2334327
+        },
+        "long": {
+            "default": "Kisi"
+        },
         "lat": 9.08297,
         "lng": 3.85196,
         "country": "NG",
@@ -531,8 +767,12 @@
         "population": 155510
     },
     "2334652": {
-        "geoid": "2334652",
-        "name": "Keffi",
+        "ids": {
+            "geonames": 2334652
+        },
+        "long": {
+            "default": "Keffi"
+        },
         "lat": 8.84651,
         "lng": 7.87354,
         "country": "NG",
@@ -540,8 +780,12 @@
         "population": 85911
     },
     "2334756": {
-        "geoid": "2334756",
-        "name": "Kaura Namoda",
+        "ids": {
+            "geonames": 2334756
+        },
+        "long": {
+            "default": "Kaura Namoda"
+        },
         "lat": 12.59371,
         "lng": 6.58648,
         "country": "NG",
@@ -549,8 +793,12 @@
         "population": 69725
     },
     "2334802": {
-        "geoid": "2334802",
-        "name": "Katsina",
+        "ids": {
+            "geonames": 2334802
+        },
+        "long": {
+            "default": "Katsina"
+        },
         "lat": 12.99082,
         "lng": 7.60177,
         "country": "NG",
@@ -558,8 +806,12 @@
         "population": 432149
     },
     "2335204": {
-        "geoid": "2335204",
-        "name": "Kano",
+        "ids": {
+            "geonames": 2335204
+        },
+        "long": {
+            "default": "Kano"
+        },
         "lat": 12.00012,
         "lng": 8.51672,
         "country": "NG",
@@ -567,8 +819,12 @@
         "population": 3626068
     },
     "2335614": {
-        "geoid": "2335614",
-        "name": "Kagoro",
+        "ids": {
+            "geonames": 2335614
+        },
+        "long": {
+            "default": "Kagoro"
+        },
         "lat": 9.60776,
         "lng": 8.39043,
         "country": "NG",
@@ -576,8 +832,12 @@
         "population": 77008
     },
     "2335713": {
-        "geoid": "2335713",
-        "name": "Kafanchan",
+        "ids": {
+            "geonames": 2335713
+        },
+        "long": {
+            "default": "Kafanchan"
+        },
         "lat": 9.58126,
         "lng": 8.2926,
         "country": "NG",
@@ -585,8 +845,12 @@
         "population": 79522
     },
     "2335727": {
-        "geoid": "2335727",
-        "name": "Kaduna",
+        "ids": {
+            "geonames": 2335727
+        },
+        "long": {
+            "default": "Kaduna"
+        },
         "lat": 10.52641,
         "lng": 7.43879,
         "country": "NG",
@@ -594,8 +858,12 @@
         "population": 1582102
     },
     "2335953": {
-        "geoid": "2335953",
-        "name": "Jos",
+        "ids": {
+            "geonames": 2335953
+        },
+        "long": {
+            "default": "Jos"
+        },
         "lat": 9.92849,
         "lng": 8.89212,
         "country": "NG",
@@ -603,8 +871,12 @@
         "population": 816824
     },
     "2336056": {
-        "geoid": "2336056",
-        "name": "Jimeta",
+        "ids": {
+            "geonames": 2336056
+        },
+        "long": {
+            "default": "Jimeta"
+        },
         "lat": 9.27949,
         "lng": 12.45819,
         "country": "NG",
@@ -612,8 +884,12 @@
         "population": 248148
     },
     "2336237": {
-        "geoid": "2336237",
-        "name": "Jega",
+        "ids": {
+            "geonames": 2336237
+        },
+        "long": {
+            "default": "Jega"
+        },
         "lat": 12.22219,
         "lng": 4.37963,
         "country": "NG",
@@ -621,8 +897,12 @@
         "population": 73495
     },
     "2336589": {
-        "geoid": "2336589",
-        "name": "Jalingo",
+        "ids": {
+            "geonames": 2336589
+        },
+        "long": {
+            "default": "Jalingo"
+        },
         "lat": 8.89367,
         "lng": 11.3596,
         "country": "NG",
@@ -630,8 +910,12 @@
         "population": 117757
     },
     "2336905": {
-        "geoid": "2336905",
-        "name": "Iwo",
+        "ids": {
+            "geonames": 2336905
+        },
+        "long": {
+            "default": "Iwo"
+        },
         "lat": 7.63527,
         "lng": 4.18156,
         "country": "NG",
@@ -639,8 +923,12 @@
         "population": 250443
     },
     "2337148": {
-        "geoid": "2337148",
-        "name": "Isieke",
+        "ids": {
+            "geonames": 2337148
+        },
+        "long": {
+            "default": "Isieke"
+        },
         "lat": 6.38186,
         "lng": 8.03736,
         "country": "NG",
@@ -648,8 +936,12 @@
         "population": 89990
     },
     "2337207": {
-        "geoid": "2337207",
-        "name": "Ise-Ekiti",
+        "ids": {
+            "geonames": 2337207
+        },
+        "long": {
+            "default": "Ise-Ekiti"
+        },
         "lat": 7.46478,
         "lng": 5.42333,
         "country": "NG",
@@ -657,8 +949,12 @@
         "population": 190063
     },
     "2337352": {
-        "geoid": "2337352",
-        "name": "Ipoti",
+        "ids": {
+            "geonames": 2337352
+        },
+        "long": {
+            "default": "Ipoti"
+        },
         "lat": 7.87377,
         "lng": 5.07691,
         "country": "NG",
@@ -666,8 +962,12 @@
         "population": 82113
     },
     "2337490": {
-        "geoid": "2337490",
-        "name": "Inisa",
+        "ids": {
+            "geonames": 2337490
+        },
+        "long": {
+            "default": "Inisa"
+        },
         "lat": 7.85,
         "lng": 4.33333,
         "country": "NG",
@@ -675,8 +975,12 @@
         "population": 164161
     },
     "2337639": {
-        "geoid": "2337639",
-        "name": "Ilorin",
+        "ids": {
+            "geonames": 2337639
+        },
+        "long": {
+            "default": "Ilorin"
+        },
         "lat": 8.49664,
         "lng": 4.54214,
         "country": "NG",
@@ -684,8 +988,12 @@
         "population": 814192
     },
     "2337659": {
-        "geoid": "2337659",
-        "name": "Ilobu",
+        "ids": {
+            "geonames": 2337659
+        },
+        "long": {
+            "default": "Ilobu"
+        },
         "lat": 7.84036,
         "lng": 4.48557,
         "country": "NG",
@@ -693,8 +1001,12 @@
         "population": 118089
     },
     "2337704": {
-        "geoid": "2337704",
-        "name": "Ilesa",
+        "ids": {
+            "geonames": 2337704
+        },
+        "long": {
+            "default": "Ilesa"
+        },
         "lat": 7.62789,
         "lng": 4.74161,
         "country": "NG",
@@ -702,8 +1014,12 @@
         "population": 277904
     },
     "2337765": {
-        "geoid": "2337765",
-        "name": "Ila Orangun",
+        "ids": {
+            "geonames": 2337765
+        },
+        "long": {
+            "default": "Ila Orangun"
+        },
         "lat": 8.01714,
         "lng": 4.90421,
         "country": "NG",
@@ -711,8 +1027,12 @@
         "population": 179192
     },
     "2338106": {
-        "geoid": "2338106",
-        "name": "Ikot Ekpene",
+        "ids": {
+            "geonames": 2338106
+        },
+        "long": {
+            "default": "Ikot Ekpene"
+        },
         "lat": 5.18194,
         "lng": 7.71481,
         "country": "NG",
@@ -720,8 +1040,12 @@
         "population": 254806
     },
     "2338242": {
-        "geoid": "2338242",
-        "name": "Ikom",
+        "ids": {
+            "geonames": 2338242
+        },
+        "long": {
+            "default": "Ikom"
+        },
         "lat": 5.96669,
         "lng": 8.70632,
         "country": "NG",
@@ -729,8 +1053,12 @@
         "population": 79103
     },
     "2338269": {
-        "geoid": "2338269",
-        "name": "Ikirun",
+        "ids": {
+            "geonames": 2338269
+        },
+        "long": {
+            "default": "Ikirun"
+        },
         "lat": 7.91283,
         "lng": 4.66741,
         "country": "NG",
@@ -738,8 +1066,12 @@
         "population": 134240
     },
     "2338273": {
-        "geoid": "2338273",
-        "name": "Ikire",
+        "ids": {
+            "geonames": 2338273
+        },
+        "long": {
+            "default": "Ikire"
+        },
         "lat": 7.37241,
         "lng": 4.18739,
         "country": "NG",
@@ -747,8 +1079,12 @@
         "population": 222160
     },
     "2338287": {
-        "geoid": "2338287",
-        "name": "Ikere-Ekiti",
+        "ids": {
+            "geonames": 2338287
+        },
+        "long": {
+            "default": "Ikere-Ekiti"
+        },
         "lat": 7.49748,
         "lng": 5.23041,
         "country": "NG",
@@ -756,8 +1092,12 @@
         "population": 103054
     },
     "2338313": {
-        "geoid": "2338313",
-        "name": "Ikeja",
+        "ids": {
+            "geonames": 2338313
+        },
+        "long": {
+            "default": "Ikeja"
+        },
         "lat": 6.59651,
         "lng": 3.34205,
         "country": "NG",
@@ -765,8 +1105,12 @@
         "population": 313196
     },
     "2338385": {
-        "geoid": "2338385",
-        "name": "Ijero-Ekiti",
+        "ids": {
+            "geonames": 2338385
+        },
+        "long": {
+            "default": "Ijero-Ekiti"
+        },
         "lat": 7.81514,
         "lng": 5.06716,
         "country": "NG",
@@ -774,8 +1118,12 @@
         "population": 167632
     },
     "2338400": {
-        "geoid": "2338400",
-        "name": "Ijebu-Ode",
+        "ids": {
+            "geonames": 2338400
+        },
+        "long": {
+            "default": "Ijebu-Ode"
+        },
         "lat": 6.81944,
         "lng": 3.91731,
         "country": "NG",
@@ -783,8 +1131,12 @@
         "population": 209175
     },
     "2338401": {
-        "geoid": "2338401",
-        "name": "Ijebu-Jesa",
+        "ids": {
+            "geonames": 2338401
+        },
+        "long": {
+            "default": "Ijebu-Jesa"
+        },
         "lat": 7.68267,
         "lng": 4.81436,
         "country": "NG",
@@ -792,8 +1144,12 @@
         "population": 51730
     },
     "2338403": {
-        "geoid": "2338403",
-        "name": "Ijebu-Igbo",
+        "ids": {
+            "geonames": 2338403
+        },
+        "long": {
+            "default": "Ijebu-Igbo"
+        },
         "lat": 6.97198,
         "lng": 3.99938,
         "country": "NG",
@@ -801,8 +1157,12 @@
         "population": 109261
     },
     "2338497": {
-        "geoid": "2338497",
-        "name": "Ihiala",
+        "ids": {
+            "geonames": 2338497
+        },
+        "long": {
+            "default": "Ihiala"
+        },
         "lat": 5.85475,
         "lng": 6.85944,
         "country": "NG",
@@ -810,8 +1170,12 @@
         "population": 83265
     },
     "2338630": {
-        "geoid": "2338630",
-        "name": "Igede-Ekiti",
+        "ids": {
+            "geonames": 2338630
+        },
+        "long": {
+            "default": "Igede-Ekiti"
+        },
         "lat": 7.6685,
         "lng": 5.12627,
         "country": "NG",
@@ -819,8 +1183,12 @@
         "population": 87282
     },
     "2338640": {
-        "geoid": "2338640",
-        "name": "Igbo-Ukwu",
+        "ids": {
+            "geonames": 2338640
+        },
+        "long": {
+            "default": "Igbo-Ukwu"
+        },
         "lat": 6.01798,
         "lng": 7.02027,
         "country": "NG",
@@ -828,8 +1196,12 @@
         "population": 75224
     },
     "2338669": {
-        "geoid": "2338669",
-        "name": "Igbo-Ora",
+        "ids": {
+            "geonames": 2338669
+        },
+        "long": {
+            "default": "Igbo-Ora"
+        },
         "lat": 7.43383,
         "lng": 3.28788,
         "country": "NG",
@@ -837,8 +1209,12 @@
         "population": 92719
     },
     "2338711": {
-        "geoid": "2338711",
-        "name": "Igboho",
+        "ids": {
+            "geonames": 2338711
+        },
+        "long": {
+            "default": "Igboho"
+        },
         "lat": 8.83784,
         "lng": 3.75628,
         "country": "NG",
@@ -846,8 +1222,12 @@
         "population": 136764
     },
     "2338810": {
-        "geoid": "2338810",
-        "name": "Igbara-Odo",
+        "ids": {
+            "geonames": 2338810
+        },
+        "long": {
+            "default": "Igbara-Odo"
+        },
         "lat": 7.50251,
         "lng": 5.06258,
         "country": "NG",
@@ -855,8 +1235,12 @@
         "population": 74121
     },
     "2338876": {
-        "geoid": "2338876",
-        "name": "Ifo",
+        "ids": {
+            "geonames": 2338876
+        },
+        "long": {
+            "default": "Ifo"
+        },
         "lat": 6.81491,
         "lng": 3.19518,
         "country": "NG",
@@ -864,8 +1248,12 @@
         "population": 88272
     },
     "2339150": {
-        "geoid": "2339150",
-        "name": "Idanre",
+        "ids": {
+            "geonames": 2339150
+        },
+        "long": {
+            "default": "Idanre"
+        },
         "lat": 7.1127,
         "lng": 5.1159,
         "country": "NG",
@@ -873,8 +1261,12 @@
         "population": 86468
     },
     "2339156": {
-        "geoid": "2339156",
-        "name": "Idah",
+        "ids": {
+            "geonames": 2339156
+        },
+        "long": {
+            "default": "Idah"
+        },
         "lat": 7.11345,
         "lng": 6.73866,
         "country": "NG",
@@ -882,8 +1274,12 @@
         "population": 68703
     },
     "2339354": {
-        "geoid": "2339354",
-        "name": "Ibadan",
+        "ids": {
+            "geonames": 2339354
+        },
+        "long": {
+            "default": "Ibadan"
+        },
         "lat": 7.37756,
         "lng": 3.90591,
         "country": "NG",
@@ -891,8 +1287,12 @@
         "population": 3565108
     },
     "2339631": {
-        "geoid": "2339631",
-        "name": "Hadejia",
+        "ids": {
+            "geonames": 2339631
+        },
+        "long": {
+            "default": "Hadejia"
+        },
         "lat": 12.45347,
         "lng": 10.04115,
         "country": "NG",
@@ -900,8 +1300,12 @@
         "population": 110753
     },
     "2339937": {
-        "geoid": "2339937",
-        "name": "Gusau",
+        "ids": {
+            "geonames": 2339937
+        },
+        "long": {
+            "default": "Gusau"
+        },
         "lat": 12.17024,
         "lng": 6.66412,
         "country": "NG",
@@ -909,8 +1313,12 @@
         "population": 226857
     },
     "2340451": {
-        "geoid": "2340451",
-        "name": "Gombe",
+        "ids": {
+            "geonames": 2340451
+        },
+        "long": {
+            "default": "Gombe"
+        },
         "lat": 10.28969,
         "lng": 11.16729,
         "country": "NG",
@@ -918,8 +1326,12 @@
         "population": 250258
     },
     "2341355": {
-        "geoid": "2341355",
-        "name": "Gbongan",
+        "ids": {
+            "geonames": 2341355
+        },
+        "long": {
+            "default": "Gbongan"
+        },
         "lat": 7.47734,
         "lng": 4.35351,
         "country": "NG",
@@ -927,8 +1339,12 @@
         "population": 139485
     },
     "2341656": {
-        "geoid": "2341656",
-        "name": "Gashua",
+        "ids": {
+            "geonames": 2341656
+        },
+        "long": {
+            "default": "Gashua"
+        },
         "lat": 12.87398,
         "lng": 11.04057,
         "country": "NG",
@@ -936,8 +1352,12 @@
         "population": 125817
     },
     "2342192": {
-        "geoid": "2342192",
-        "name": "Gamboru",
+        "ids": {
+            "geonames": 2342192
+        },
+        "long": {
+            "default": "Gamboru"
+        },
         "lat": 12.37299,
         "lng": 14.2069,
         "country": "NG",
@@ -945,8 +1365,12 @@
         "population": 84672
     },
     "2342490": {
-        "geoid": "2342490",
-        "name": "Funtua",
+        "ids": {
+            "geonames": 2342490
+        },
+        "long": {
+            "default": "Funtua"
+        },
         "lat": 11.52351,
         "lng": 7.31174,
         "country": "NG",
@@ -954,8 +1378,12 @@
         "population": 136811
     },
     "2342628": {
-        "geoid": "2342628",
-        "name": "Fiditi",
+        "ids": {
+            "geonames": 2342628
+        },
+        "long": {
+            "default": "Fiditi"
+        },
         "lat": 7.71361,
         "lng": 3.91722,
         "country": "NG",
@@ -963,8 +1391,12 @@
         "population": 71461
     },
     "2342883": {
-        "geoid": "2342883",
-        "name": "Ezza-Ohu",
+        "ids": {
+            "geonames": 2342883
+        },
+        "long": {
+            "default": "Ezza-Ohu"
+        },
         "lat": 6.44094,
         "lng": 8.08432,
         "country": "NG",
@@ -972,8 +1404,12 @@
         "population": 67414
     },
     "2343093": {
-        "geoid": "2343093",
-        "name": "Esuk Oron",
+        "ids": {
+            "geonames": 2343093
+        },
+        "long": {
+            "default": "Esuk Oron"
+        },
         "lat": 4.80293,
         "lng": 8.25341,
         "country": "NG",
@@ -981,8 +1417,12 @@
         "population": 112033
     },
     "2343252": {
-        "geoid": "2343252",
-        "name": "Epe",
+        "ids": {
+            "geonames": 2343252
+        },
+        "long": {
+            "default": "Epe"
+        },
         "lat": 6.58412,
         "lng": 3.98336,
         "country": "NG",
@@ -990,8 +1430,12 @@
         "population": 84711
     },
     "2343270": {
-        "geoid": "2343270",
-        "name": "Enugu-Ukwu",
+        "ids": {
+            "geonames": 2343270
+        },
+        "long": {
+            "default": "Enugu-Ukwu"
+        },
         "lat": 6.17146,
         "lng": 7.00525,
         "country": "NG",
@@ -999,8 +1443,12 @@
         "population": 68785
     },
     "2343279": {
-        "geoid": "2343279",
-        "name": "Enugu",
+        "ids": {
+            "geonames": 2343279
+        },
+        "long": {
+            "default": "Enugu"
+        },
         "lat": 6.44132,
         "lng": 7.49883,
         "country": "NG",
@@ -1008,8 +1456,12 @@
         "population": 688862
     },
     "2343299": {
-        "geoid": "2343299",
-        "name": "Emure-Ekiti",
+        "ids": {
+            "geonames": 2343299
+        },
+        "long": {
+            "default": "Emure-Ekiti"
+        },
         "lat": 7.43636,
         "lng": 5.45925,
         "country": "NG",
@@ -1017,8 +1469,12 @@
         "population": 90645
     },
     "2343641": {
-        "geoid": "2343641",
-        "name": "Ekpoma",
+        "ids": {
+            "geonames": 2343641
+        },
+        "long": {
+            "default": "Ekpoma"
+        },
         "lat": 6.743,
         "lng": 6.14029,
         "country": "NG",
@@ -1026,8 +1482,12 @@
         "population": 59618
     },
     "2343784": {
-        "geoid": "2343784",
-        "name": "Ejigbo",
+        "ids": {
+            "geonames": 2343784
+        },
+        "long": {
+            "default": "Ejigbo"
+        },
         "lat": 7.90292,
         "lng": 4.31419,
         "country": "NG",
@@ -1035,8 +1495,12 @@
         "population": 138357
     },
     "2343822": {
-        "geoid": "2343822",
-        "name": "Eha Amufu",
+        "ids": {
+            "geonames": 2343822
+        },
+        "long": {
+            "default": "Eha Amufu"
+        },
         "lat": 6.65915,
         "lng": 7.75961,
         "country": "NG",
@@ -1044,8 +1508,12 @@
         "population": 70779
     },
     "2343983": {
-        "geoid": "2343983",
-        "name": "Effon Alaiye",
+        "ids": {
+            "geonames": 2343983
+        },
+        "long": {
+            "default": "Effon Alaiye"
+        },
         "lat": 7.65,
         "lng": 4.91667,
         "country": "NG",
@@ -1053,8 +1521,12 @@
         "population": 279319
     },
     "2343985": {
-        "geoid": "2343985",
-        "name": "Effium",
+        "ids": {
+            "geonames": 2343985
+        },
+        "long": {
+            "default": "Effium"
+        },
         "lat": 6.63105,
         "lng": 8.05814,
         "country": "NG",
@@ -1062,8 +1534,12 @@
         "population": 86945
     },
     "2344082": {
-        "geoid": "2344082",
-        "name": "Ebute Ikorodu",
+        "ids": {
+            "geonames": 2344082
+        },
+        "long": {
+            "default": "Ebute Ikorodu"
+        },
         "lat": 6.60086,
         "lng": 3.48818,
         "country": "NG",
@@ -1071,8 +1547,12 @@
         "population": 535619
     },
     "2345096": {
-        "geoid": "2345096",
-        "name": "Daura",
+        "ids": {
+            "geonames": 2345096
+        },
+        "long": {
+            "default": "Daura"
+        },
         "lat": 11.5541,
         "lng": 11.406,
         "country": "NG",
@@ -1080,8 +1560,12 @@
         "population": 78277
     },
     "2346229": {
-        "geoid": "2346229",
-        "name": "Calabar",
+        "ids": {
+            "geonames": 2346229
+        },
+        "long": {
+            "default": "Calabar"
+        },
         "lat": 4.95893,
         "lng": 8.32695,
         "country": "NG",
@@ -1089,8 +1573,12 @@
         "population": 461796
     },
     "2346615": {
-        "geoid": "2346615",
-        "name": "Buguma",
+        "ids": {
+            "geonames": 2346615
+        },
+        "long": {
+            "default": "Buguma"
+        },
         "lat": 4.73614,
         "lng": 6.86236,
         "country": "NG",
@@ -1098,8 +1586,12 @@
         "population": 135404
     },
     "2346995": {
-        "geoid": "2346995",
-        "name": "Biu",
+        "ids": {
+            "geonames": 2346995
+        },
+        "long": {
+            "default": "Biu"
+        },
         "lat": 10.61285,
         "lng": 12.19458,
         "country": "NG",
@@ -1107,8 +1599,12 @@
         "population": 95005
     },
     "2347059": {
-        "geoid": "2347059",
-        "name": "Birnin Kebbi",
+        "ids": {
+            "geonames": 2347059
+        },
+        "long": {
+            "default": "Birnin Kebbi"
+        },
         "lat": 12.45389,
         "lng": 4.1975,
         "country": "NG",
@@ -1116,8 +1612,12 @@
         "population": 108164
     },
     "2347209": {
-        "geoid": "2347209",
-        "name": "Bida",
+        "ids": {
+            "geonames": 2347209
+        },
+        "long": {
+            "default": "Bida"
+        },
         "lat": 9.08044,
         "lng": 6.0099,
         "country": "NG",
@@ -1125,8 +1625,12 @@
         "population": 171656
     },
     "2347283": {
-        "geoid": "2347283",
-        "name": "Benin City",
+        "ids": {
+            "geonames": 2347283
+        },
+        "long": {
+            "default": "Benin City"
+        },
         "lat": 6.33815,
         "lng": 5.62575,
         "country": "NG",
@@ -1134,8 +1638,12 @@
         "population": 1125058
     },
     "2347303": {
-        "geoid": "2347303",
-        "name": "Bende",
+        "ids": {
+            "geonames": 2347303
+        },
+        "long": {
+            "default": "Bende"
+        },
         "lat": 5.55874,
         "lng": 7.63359,
         "country": "NG",
@@ -1143,8 +1651,12 @@
         "population": 79618
     },
     "2347470": {
-        "geoid": "2347470",
-        "name": "Bauchi",
+        "ids": {
+            "geonames": 2347470
+        },
+        "long": {
+            "default": "Bauchi"
+        },
         "lat": 10.31032,
         "lng": 9.84388,
         "country": "NG",
@@ -1152,8 +1664,12 @@
         "population": 316149
     },
     "2347954": {
-        "geoid": "2347954",
-        "name": "Bama",
+        "ids": {
+            "geonames": 2347954
+        },
+        "long": {
+            "default": "Bama"
+        },
         "lat": 11.52134,
         "lng": 13.68952,
         "country": "NG",
@@ -1161,8 +1677,12 @@
         "population": 118121
     },
     "2348595": {
-        "geoid": "2348595",
-        "name": "Azare",
+        "ids": {
+            "geonames": 2348595
+        },
+        "long": {
+            "default": "Azare"
+        },
         "lat": 11.67478,
         "lng": 10.19069,
         "country": "NG",
@@ -1170,8 +1690,12 @@
         "population": 105687
     },
     "2348773": {
-        "geoid": "2348773",
-        "name": "Awka",
+        "ids": {
+            "geonames": 2348773
+        },
+        "long": {
+            "default": "Awka"
+        },
         "lat": 6.21269,
         "lng": 7.07199,
         "country": "NG",
@@ -1179,8 +1703,12 @@
         "population": 167738
     },
     "2348892": {
-        "geoid": "2348892",
-        "name": "Auchi",
+        "ids": {
+            "geonames": 2348892
+        },
+        "long": {
+            "default": "Auchi"
+        },
         "lat": 7.06756,
         "lng": 6.2636,
         "country": "NG",
@@ -1188,8 +1716,12 @@
         "population": 62907
     },
     "2349276": {
-        "geoid": "2349276",
-        "name": "Asaba",
+        "ids": {
+            "geonames": 2349276
+        },
+        "long": {
+            "default": "Asaba"
+        },
         "lat": 6.19824,
         "lng": 6.73187,
         "country": "NG",
@@ -1197,8 +1729,12 @@
         "population": 73374
     },
     "2349529": {
-        "geoid": "2349529",
-        "name": "Aramoko-Ekiti",
+        "ids": {
+            "geonames": 2349529
+        },
+        "long": {
+            "default": "Aramoko-Ekiti"
+        },
         "lat": 7.70483,
         "lng": 5.04054,
         "country": "NG",
@@ -1206,8 +1742,12 @@
         "population": 74491
     },
     "2349558": {
-        "geoid": "2349558",
-        "name": "Apomu",
+        "ids": {
+            "geonames": 2349558
+        },
+        "long": {
+            "default": "Apomu"
+        },
         "lat": 7.35156,
         "lng": 4.18335,
         "country": "NG",
@@ -1215,8 +1755,12 @@
         "population": 71656
     },
     "2350249": {
-        "geoid": "2350249",
-        "name": "Amaigbo",
+        "ids": {
+            "geonames": 2350249
+        },
+        "long": {
+            "default": "Amaigbo"
+        },
         "lat": 5.78917,
         "lng": 7.83829,
         "country": "NG",
@@ -1224,8 +1768,12 @@
         "population": 127300
     },
     "2350841": {
-        "geoid": "2350841",
-        "name": "Akure",
+        "ids": {
+            "geonames": 2350841
+        },
+        "long": {
+            "default": "Akure"
+        },
         "lat": 7.25256,
         "lng": 5.19312,
         "country": "NG",
@@ -1233,8 +1781,12 @@
         "population": 420594
     },
     "2350886": {
-        "geoid": "2350886",
-        "name": "Aku",
+        "ids": {
+            "geonames": 2350886
+        },
+        "long": {
+            "default": "Aku"
+        },
         "lat": 6.70902,
         "lng": 7.31826,
         "country": "NG",
@@ -1242,8 +1794,12 @@
         "population": 73742
     },
     "2351740": {
-        "geoid": "2351740",
-        "name": "Agulu",
+        "ids": {
+            "geonames": 2351740
+        },
+        "long": {
+            "default": "Agulu"
+        },
         "lat": 6.10045,
         "lng": 7.061,
         "country": "NG",
@@ -1251,8 +1807,12 @@
         "population": 79021
     },
     "2351979": {
-        "geoid": "2351979",
-        "name": "Agbor",
+        "ids": {
+            "geonames": 2351979
+        },
+        "long": {
+            "default": "Agbor"
+        },
         "lat": 6.25375,
         "lng": 6.1942,
         "country": "NG",
@@ -1260,8 +1820,12 @@
         "population": 67610
     },
     "2352250": {
-        "geoid": "2352250",
-        "name": "Afikpo",
+        "ids": {
+            "geonames": 2352250
+        },
+        "long": {
+            "default": "Afikpo"
+        },
         "lat": 5.89258,
         "lng": 7.93534,
         "country": "NG",
@@ -1269,8 +1833,12 @@
         "population": 71866
     },
     "2352379": {
-        "geoid": "2352379",
-        "name": "Ado-Ekiti",
+        "ids": {
+            "geonames": 2352379
+        },
+        "long": {
+            "default": "Ado-Ekiti"
+        },
         "lat": 7.62329,
         "lng": 5.22087,
         "country": "NG",
@@ -1278,8 +1846,12 @@
         "population": 424340
     },
     "2352778": {
-        "geoid": "2352778",
-        "name": "Abuja",
+        "ids": {
+            "geonames": 2352778
+        },
+        "long": {
+            "default": "Abuja"
+        },
         "lat": 9.05785,
         "lng": 7.49508,
         "country": "NG",
@@ -1287,8 +1859,12 @@
         "population": 590400
     },
     "2352947": {
-        "geoid": "2352947",
-        "name": "Abeokuta",
+        "ids": {
+            "geonames": 2352947
+        },
+        "long": {
+            "default": "Abeokuta"
+        },
         "lat": 7.15571,
         "lng": 3.34509,
         "country": "NG",
@@ -1296,8 +1872,12 @@
         "population": 593100
     },
     "2353099": {
-        "geoid": "2353099",
-        "name": "Abakaliki",
+        "ids": {
+            "geonames": 2353099
+        },
+        "long": {
+            "default": "Abakaliki"
+        },
         "lat": 6.32485,
         "lng": 8.11368,
         "country": "NG",
@@ -1305,8 +1885,12 @@
         "population": 134102
     },
     "2353151": {
-        "geoid": "2353151",
-        "name": "Aba",
+        "ids": {
+            "geonames": 2353151
+        },
+        "long": {
+            "default": "Aba"
+        },
         "lat": 5.10658,
         "lng": 7.36667,
         "country": "NG",

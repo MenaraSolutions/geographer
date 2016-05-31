@@ -1,7 +1,11 @@
 {
     "3061370": {
-        "geoid": "3061370",
-        "name": "Zlín",
+        "ids": {
+            "geonames": 3061370
+        },
+        "long": {
+            "default": "Zlín"
+        },
         "lat": 49.22645,
         "lng": 17.67065,
         "country": "CZ",
@@ -9,8 +13,12 @@
         "population": 78759
     },
     "3063548": {
-        "geoid": "3063548",
-        "name": "Ústí nad Labem",
+        "ids": {
+            "geonames": 3063548
+        },
+        "long": {
+            "default": "Ústí nad Labem"
+        },
         "lat": 50.6607,
         "lng": 14.03227,
         "country": "CZ",
@@ -18,8 +26,12 @@
         "population": 94105
     },
     "3064288": {
-        "geoid": "3064288",
-        "name": "Teplice",
+        "ids": {
+            "geonames": 3064288
+        },
+        "long": {
+            "default": "Teplice"
+        },
         "lat": 50.6404,
         "lng": 13.82451,
         "country": "CZ",
@@ -27,8 +39,12 @@
         "population": 51223
     },
     "3067696": {
-        "geoid": "3067696",
-        "name": "Prague",
+        "ids": {
+            "geonames": 3067696
+        },
+        "long": {
+            "default": "Prague"
+        },
         "lat": 50.08804,
         "lng": 14.42076,
         "country": "CZ",
@@ -36,8 +52,12 @@
         "population": 1165581
     },
     "3068160": {
-        "geoid": "3068160",
-        "name": "Pilsen",
+        "ids": {
+            "geonames": 3068160
+        },
+        "long": {
+            "default": "Pilsen"
+        },
         "lat": 49.74747,
         "lng": 13.37759,
         "country": "CZ",
@@ -45,8 +65,12 @@
         "population": 164180
     },
     "3068582": {
-        "geoid": "3068582",
-        "name": "Pardubice",
+        "ids": {
+            "geonames": 3068582
+        },
+        "long": {
+            "default": "Pardubice"
+        },
         "lat": 50.04075,
         "lng": 15.77659,
         "country": "CZ",
@@ -54,8 +78,12 @@
         "population": 88741
     },
     "3068799": {
-        "geoid": "3068799",
-        "name": "Ostrava",
+        "ids": {
+            "geonames": 3068799
+        },
+        "long": {
+            "default": "Ostrava"
+        },
         "lat": 49.83465,
         "lng": 18.28204,
         "country": "CZ",
@@ -63,8 +91,12 @@
         "population": 313088
     },
     "3068927": {
-        "geoid": "3068927",
-        "name": "Opava",
+        "ids": {
+            "geonames": 3068927
+        },
+        "long": {
+            "default": "Opava"
+        },
         "lat": 49.93866,
         "lng": 17.90257,
         "country": "CZ",
@@ -72,8 +104,12 @@
         "population": 60252
     },
     "3069011": {
-        "geoid": "3069011",
-        "name": "Olomouc",
+        "ids": {
+            "geonames": 3069011
+        },
+        "long": {
+            "default": "Olomouc"
+        },
         "lat": 49.59552,
         "lng": 17.25175,
         "country": "CZ",
@@ -81,8 +117,12 @@
         "population": 101268
     },
     "3070291": {
-        "geoid": "3070291",
-        "name": "Most",
+        "ids": {
+            "geonames": 3070291
+        },
+        "long": {
+            "default": "Most"
+        },
         "lat": 50.50301,
         "lng": 13.63617,
         "country": "CZ",
@@ -90,8 +130,12 @@
         "population": 67905
     },
     "3071961": {
-        "geoid": "3071961",
-        "name": "Liberec",
+        "ids": {
+            "geonames": 3071961
+        },
+        "long": {
+            "default": "Liberec"
+        },
         "lat": 50.76711,
         "lng": 15.05619,
         "country": "CZ",
@@ -99,8 +143,12 @@
         "population": 97770
     },
     "3073699": {
-        "geoid": "3073699",
-        "name": "Kladno",
+        "ids": {
+            "geonames": 3073699
+        },
+        "long": {
+            "default": "Kladno"
+        },
         "lat": 50.14734,
         "lng": 14.10285,
         "country": "CZ",
@@ -108,8 +156,12 @@
         "population": 70003
     },
     "3073789": {
-        "geoid": "3073789",
-        "name": "Karviná",
+        "ids": {
+            "geonames": 3073789
+        },
+        "long": {
+            "default": "Karviná"
+        },
         "lat": 49.854,
         "lng": 18.54169,
         "country": "CZ",
@@ -117,8 +169,12 @@
         "population": 63677
     },
     "3073803": {
-        "geoid": "3073803",
-        "name": "Karlovy Vary",
+        "ids": {
+            "geonames": 3073803
+        },
+        "long": {
+            "default": "Karlovy Vary"
+        },
         "lat": 50.23271,
         "lng": 12.87117,
         "country": "CZ",
@@ -126,8 +182,12 @@
         "population": 51807
     },
     "3074199": {
-        "geoid": "3074199",
-        "name": "Jihlava",
+        "ids": {
+            "geonames": 3074199
+        },
+        "long": {
+            "default": "Jihlava"
+        },
         "lat": 49.3961,
         "lng": 15.59124,
         "country": "CZ",
@@ -135,8 +195,12 @@
         "population": 50100
     },
     "3074967": {
-        "geoid": "3074967",
-        "name": "Hradec Králové",
+        "ids": {
+            "geonames": 3074967
+        },
+        "long": {
+            "default": "Hradec Králové"
+        },
         "lat": 50.20923,
         "lng": 15.83277,
         "country": "CZ",
@@ -144,8 +208,12 @@
         "population": 95195
     },
     "3075921": {
-        "geoid": "3075921",
-        "name": "Havířov",
+        "ids": {
+            "geonames": 3075921
+        },
+        "long": {
+            "default": "Havířov"
+        },
         "lat": 49.77984,
         "lng": 18.43688,
         "country": "CZ",
@@ -153,8 +221,12 @@
         "population": 82768
     },
     "3076127": {
-        "geoid": "3076127",
-        "name": "Frýdek-Místek",
+        "ids": {
+            "geonames": 3076127
+        },
+        "long": {
+            "default": "Frýdek-Místek"
+        },
         "lat": 49.68333,
         "lng": 18.35,
         "country": "CZ",
@@ -162,8 +234,12 @@
         "population": 59416
     },
     "3077244": {
-        "geoid": "3077244",
-        "name": "Děčín",
+        "ids": {
+            "geonames": 3077244
+        },
+        "long": {
+            "default": "Děčín"
+        },
         "lat": 50.78215,
         "lng": 14.21478,
         "country": "CZ",
@@ -171,8 +247,12 @@
         "population": 52058
     },
     "3077685": {
-        "geoid": "3077685",
-        "name": "Chomutov",
+        "ids": {
+            "geonames": 3077685
+        },
+        "long": {
+            "default": "Chomutov"
+        },
         "lat": 50.46048,
         "lng": 13.41779,
         "country": "CZ",
@@ -180,8 +260,12 @@
         "population": 50251
     },
     "3077916": {
-        "geoid": "3077916",
-        "name": "České Budějovice",
+        "ids": {
+            "geonames": 3077916
+        },
+        "long": {
+            "default": "České Budějovice"
+        },
         "lat": 48.97447,
         "lng": 14.47434,
         "country": "CZ",
@@ -189,8 +273,12 @@
         "population": 96053
     },
     "3078610": {
-        "geoid": "3078610",
-        "name": "Brno",
+        "ids": {
+            "geonames": 3078610
+        },
+        "long": {
+            "default": "Brno"
+        },
         "lat": 49.19522,
         "lng": 16.60796,
         "country": "CZ",

@@ -1,7 +1,11 @@
 {
     "921815": {
-        "geoid": "921815",
-        "name": "Mamoudzou",
+        "ids": {
+            "geonames": 921815
+        },
+        "long": {
+            "default": "Mamoudzou"
+        },
         "lat": -12.78234,
         "lng": 45.22878,
         "country": "YT",

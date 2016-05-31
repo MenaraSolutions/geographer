@@ -1,7 +1,11 @@
 {
     "1821306": {
-        "geoid": "1821306",
-        "name": "Phnom Penh",
+        "ids": {
+            "geonames": 1821306
+        },
+        "long": {
+            "default": "Phnom Penh"
+        },
         "lat": 11.56245,
         "lng": 104.91601,
         "country": "KH",
@@ -9,8 +13,12 @@
         "population": 1573544
     },
     "1821935": {
-        "geoid": "1821935",
-        "name": "Ta Khmau",
+        "ids": {
+            "geonames": 1821935
+        },
+        "long": {
+            "default": "Ta Khmau"
+        },
         "lat": 11.48333,
         "lng": 104.95,
         "country": "KH",
@@ -18,8 +26,12 @@
         "population": 52066
     },
     "1821940": {
-        "geoid": "1821940",
-        "name": "Takeo",
+        "ids": {
+            "geonames": 1821940
+        },
+        "long": {
+            "default": "Takeo"
+        },
         "lat": 10.99081,
         "lng": 104.78498,
         "country": "KH",
@@ -27,8 +39,12 @@
         "population": 843931
     },
     "1822214": {
-        "geoid": "1822214",
-        "name": "Siem Reap",
+        "ids": {
+            "geonames": 1822214
+        },
+        "long": {
+            "default": "Siem Reap"
+        },
         "lat": 13.36179,
         "lng": 103.86056,
         "country": "KH",
@@ -36,8 +52,12 @@
         "population": 139458
     },
     "1822768": {
-        "geoid": "1822768",
-        "name": "Pursat",
+        "ids": {
+            "geonames": 1822768
+        },
+        "long": {
+            "default": "Pursat"
+        },
         "lat": 12.53878,
         "lng": 103.9192,
         "country": "KH",
@@ -45,8 +65,12 @@
         "population": 52476
     },
     "1830194": {
-        "geoid": "1830194",
-        "name": "Paôy Pêt",
+        "ids": {
+            "geonames": 1830194
+        },
+        "long": {
+            "default": "Paôy Pêt"
+        },
         "lat": 13.65611,
         "lng": 102.5625,
         "country": "KH",
@@ -54,8 +78,12 @@
         "population": 79000
     },
     "1831142": {
-        "geoid": "1831142",
-        "name": "Sihanoukville",
+        "ids": {
+            "geonames": 1831142
+        },
+        "long": {
+            "default": "Sihanoukville"
+        },
         "lat": 10.60932,
         "lng": 103.52958,
         "country": "KH",
@@ -63,8 +91,12 @@
         "population": 156691
     },
     "1831167": {
-        "geoid": "1831167",
-        "name": "Kampong Chhnang",
+        "ids": {
+            "geonames": 1831167
+        },
+        "long": {
+            "default": "Kampong Chhnang"
+        },
         "lat": 12.25,
         "lng": 104.66667,
         "country": "KH",
@@ -72,8 +104,12 @@
         "population": 75244
     },
     "1831173": {
-        "geoid": "1831173",
-        "name": "Kampong Cham",
+        "ids": {
+            "geonames": 1831173
+        },
+        "long": {
+            "default": "Kampong Cham"
+        },
         "lat": 11.99339,
         "lng": 105.4635,
         "country": "KH",
@@ -81,8 +117,12 @@
         "population": 61750
     },
     "1831797": {
-        "geoid": "1831797",
-        "name": "Battambang",
+        "ids": {
+            "geonames": 1831797
+        },
+        "long": {
+            "default": "Battambang"
+        },
         "lat": 13.10271,
         "lng": 103.19822,
         "country": "KH",

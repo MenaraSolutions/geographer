@@ -4,8 +4,8 @@
             "fips": "GF",
             "geonames": 6690605
         },
-        "names": {
-            "long": "Guyane"
+        "long": {
+            "default": "Guyane"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "007",
             "geonames": 7303491
         },
-        "names": {
-            "long": "Ailinginae Atoll"
+        "long": {
+            "default": "Ailinginae Atoll"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "010",
             "geonames": 7303492
         },
-        "names": {
-            "long": "Ailinglaplap Atoll"
+        "long": {
+            "default": "Ailinglaplap Atoll"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "030",
             "geonames": 7303493
         },
-        "names": {
-            "long": "Ailuk Atoll"
+        "long": {
+            "default": "Ailuk Atoll"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "040",
             "geonames": 7303494
         },
-        "names": {
-            "long": "Arno Atoll"
+        "long": {
+            "default": "Arno Atoll"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "050",
             "geonames": 7303495
         },
-        "names": {
-            "long": "Aur Atoll"
+        "long": {
+            "default": "Aur Atoll"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "060",
             "geonames": 7303496
         },
-        "names": {
-            "long": "Bikar Atoll"
+        "long": {
+            "default": "Bikar Atoll"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "070",
             "geonames": 7303497
         },
-        "names": {
-            "long": "Bikini Atoll"
+        "long": {
+            "default": "Bikini Atoll"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "080",
             "geonames": 7303498
         },
-        "names": {
-            "long": "Ebon Atoll"
+        "long": {
+            "default": "Ebon Atoll"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "090",
             "geonames": 7303499
         },
-        "names": {
-            "long": "Enewetak Atoll"
+        "long": {
+            "default": "Enewetak Atoll"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "100",
             "geonames": 7303500
         },
-        "names": {
-            "long": "Erikub Atoll"
+        "long": {
+            "default": "Erikub Atoll"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "120",
             "geonames": 7303501
         },
-        "names": {
-            "long": "Jaluit Atoll"
+        "long": {
+            "default": "Jaluit Atoll"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "150",
             "geonames": 7303502
         },
-        "names": {
-            "long": "Kwajalein Atoll"
+        "long": {
+            "default": "Kwajalein Atoll"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "160",
             "geonames": 7303503
         },
-        "names": {
-            "long": "Lae Atoll"
+        "long": {
+            "default": "Lae Atoll"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "180",
             "geonames": 7303504
         },
-        "names": {
-            "long": "Likiep Atoll"
+        "long": {
+            "default": "Likiep Atoll"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "190",
             "geonames": 7303505
         },
-        "names": {
-            "long": "Majuro Atoll"
+        "long": {
+            "default": "Majuro Atoll"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "300",
             "geonames": 7303506
         },
-        "names": {
-            "long": "Maloelap Atoll"
+        "long": {
+            "default": "Maloelap Atoll"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "320",
             "geonames": 7303507
         },
-        "names": {
-            "long": "Mili Atoll"
+        "long": {
+            "default": "Mili Atoll"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "330",
             "geonames": 7303508
         },
-        "names": {
-            "long": "Namdrik Atoll"
+        "long": {
+            "default": "Namdrik Atoll"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "340",
             "geonames": 7303509
         },
-        "names": {
-            "long": "Namu Atoll"
+        "long": {
+            "default": "Namu Atoll"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "350",
             "geonames": 7303510
         },
-        "names": {
-            "long": "Rongelap Atoll"
+        "long": {
+            "default": "Rongelap Atoll"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "360",
             "geonames": 7303511
         },
-        "names": {
-            "long": "Rongrik Atoll"
+        "long": {
+            "default": "Rongrik Atoll"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "385",
             "geonames": 7303512
         },
-        "names": {
-            "long": "Taka Atoll"
+        "long": {
+            "default": "Taka Atoll"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "073",
             "geonames": 7303513
         },
-        "names": {
-            "long": "Bokak Atoll"
+        "long": {
+            "default": "Bokak Atoll"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "390",
             "geonames": 7303514
         },
-        "names": {
-            "long": "Ujae Atoll"
+        "long": {
+            "default": "Ujae Atoll"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "400",
             "geonames": 7303515
         },
-        "names": {
-            "long": "Ujelang"
+        "long": {
+            "default": "Ujelang"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "410",
             "geonames": 7303516
         },
-        "names": {
-            "long": "Utrik Atoll"
+        "long": {
+            "default": "Utrik Atoll"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "420",
             "geonames": 7303517
         },
-        "names": {
-            "long": "Wotho Atoll"
+        "long": {
+            "default": "Wotho Atoll"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "430",
             "geonames": 7303518
         },
-        "names": {
-            "long": "Wotje Atoll"
+        "long": {
+            "default": "Wotje Atoll"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "110",
             "geonames": 7303519
         },
-        "names": {
-            "long": "Jabat Island"
+        "long": {
+            "default": "Jabat Island"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "130",
             "geonames": 7303520
         },
-        "names": {
-            "long": "Jemo Island"
+        "long": {
+            "default": "Jemo Island"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "140",
             "geonames": 7303521
         },
-        "names": {
-            "long": "Kili Island"
+        "long": {
+            "default": "Kili Island"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "170",
             "geonames": 7303522
         },
-        "names": {
-            "long": "Lib Island"
+        "long": {
+            "default": "Lib Island"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "310",
             "geonames": 7303523
         },
-        "names": {
-            "long": "Mejit Island"
+        "long": {
+            "default": "Mejit Island"
         }
     }
 ]

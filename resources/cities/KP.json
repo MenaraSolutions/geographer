@@ -1,7 +1,11 @@
 {
     "1866923": {
-        "geoid": "1866923",
-        "name": "Wŏnsan",
+        "ids": {
+            "geonames": 1866923
+        },
+        "long": {
+            "default": "Wŏnsan"
+        },
         "lat": 39.15278,
         "lng": 127.44361,
         "country": "KP",
@@ -9,8 +13,12 @@
         "population": 329207
     },
     "1869446": {
-        "geoid": "1869446",
-        "name": "Songnim",
+        "ids": {
+            "geonames": 1869446
+        },
+        "long": {
+            "default": "Songnim"
+        },
         "lat": 38.75417,
         "lng": 125.645,
         "country": "KP",
@@ -18,8 +26,12 @@
         "population": 152425
     },
     "1870883": {
-        "geoid": "1870883",
-        "name": "Sariwŏn",
+        "ids": {
+            "geonames": 1870883
+        },
+        "long": {
+            "default": "Sariwŏn"
+        },
         "lat": 38.50722,
         "lng": 125.75583,
         "country": "KP",
@@ -27,8 +39,12 @@
         "population": 310100
     },
     "1871859": {
-        "geoid": "1871859",
-        "name": "Pyongyang",
+        "ids": {
+            "geonames": 1871859
+        },
+        "long": {
+            "default": "Pyongyang"
+        },
         "lat": 39.03385,
         "lng": 125.75432,
         "country": "KP",
@@ -36,8 +52,12 @@
         "population": 3222000
     },
     "1871871": {
-        "geoid": "1871871",
-        "name": "P’yŏngsŏng",
+        "ids": {
+            "geonames": 1871871
+        },
+        "long": {
+            "default": "P’yŏngsŏng"
+        },
         "lat": 39.24639,
         "lng": 125.87194,
         "country": "KP",
@@ -45,8 +65,12 @@
         "population": 100000
     },
     "1873172": {
-        "geoid": "1873172",
-        "name": "Ongjin",
+        "ids": {
+            "geonames": 1873172
+        },
+        "long": {
+            "default": "Ongjin"
+        },
         "lat": 37.93472,
         "lng": 125.36194,
         "country": "KP",
@@ -54,8 +78,12 @@
         "population": 64247
     },
     "1873757": {
-        "geoid": "1873757",
-        "name": "Namp’o",
+        "ids": {
+            "geonames": 1873757
+        },
+        "long": {
+            "default": "Namp’o"
+        },
         "lat": 38.7375,
         "lng": 125.40778,
         "country": "KP",
@@ -63,8 +91,12 @@
         "population": 455000
     },
     "1876373": {
-        "geoid": "1876373",
-        "name": "Kaesŏng",
+        "ids": {
+            "geonames": 1876373
+        },
+        "long": {
+            "default": "Kaesŏng"
+        },
         "lat": 37.97083,
         "lng": 126.55444,
         "country": "KP",
@@ -72,8 +104,12 @@
         "population": 338155
     },
     "1877030": {
-        "geoid": "1877030",
-        "name": "Hŭngnam",
+        "ids": {
+            "geonames": 1877030
+        },
+        "long": {
+            "default": "Hŭngnam"
+        },
         "lat": 39.83167,
         "lng": 127.61861,
         "country": "KP",
@@ -81,8 +117,12 @@
         "population": 346082
     },
     "1877449": {
-        "geoid": "1877449",
-        "name": "Hamhŭng",
+        "ids": {
+            "geonames": 1877449
+        },
+        "long": {
+            "default": "Hamhŭng"
+        },
         "lat": 39.91833,
         "lng": 127.53639,
         "country": "KP",
@@ -90,8 +130,12 @@
         "population": 559056
     },
     "1877615": {
-        "geoid": "1877615",
-        "name": "Haeju",
+        "ids": {
+            "geonames": 1877615
+        },
+        "long": {
+            "default": "Haeju"
+        },
         "lat": 38.04056,
         "lng": 125.71472,
         "country": "KP",
@@ -99,8 +143,12 @@
         "population": 222396
     },
     "1879487": {
-        "geoid": "1879487",
-        "name": "Chaeryŏng-ŭp",
+        "ids": {
+            "geonames": 1879487
+        },
+        "long": {
+            "default": "Chaeryŏng-ŭp"
+        },
         "lat": 38.39917,
         "lng": 125.61556,
         "country": "KP",
@@ -108,8 +156,12 @@
         "population": 53330
     },
     "1879613": {
-        "geoid": "1879613",
-        "name": "Anju",
+        "ids": {
+            "geonames": 1879613
+        },
+        "long": {
+            "default": "Anju"
+        },
         "lat": 39.61778,
         "lng": 125.66472,
         "country": "KP",
@@ -117,8 +169,12 @@
         "population": 50196
     },
     "2038854": {
-        "geoid": "2038854",
-        "name": "Yuktae-dong",
+        "ids": {
+            "geonames": 2038854
+        },
+        "long": {
+            "default": "Yuktae-dong"
+        },
         "lat": 40.02472,
         "lng": 128.15972,
         "country": "KP",
@@ -126,8 +182,12 @@
         "population": 76427
     },
     "2039623": {
-        "geoid": "2039623",
-        "name": "Ŭiju",
+        "ids": {
+            "geonames": 2039623
+        },
+        "long": {
+            "default": "Ŭiju"
+        },
         "lat": 40.19944,
         "lng": 124.53167,
         "country": "KP",
@@ -135,8 +195,12 @@
         "population": 50081
     },
     "2040893": {
-        "geoid": "2040893",
-        "name": "Sinŭiju",
+        "ids": {
+            "geonames": 2040893
+        },
+        "long": {
+            "default": "Sinŭiju"
+        },
         "lat": 40.10056,
         "lng": 124.39806,
         "country": "KP",
@@ -144,8 +208,12 @@
         "population": 288112
     },
     "2042645": {
-        "geoid": "2042645",
-        "name": "Najin",
+        "ids": {
+            "geonames": 2042645
+        },
+        "long": {
+            "default": "Najin"
+        },
         "lat": 42.24889,
         "lng": 130.30028,
         "country": "KP",
@@ -153,8 +221,12 @@
         "population": 66224
     },
     "2043484": {
-        "geoid": "2043484",
-        "name": "Kilju",
+        "ids": {
+            "geonames": 2043484
+        },
+        "long": {
+            "default": "Kilju"
+        },
         "lat": 40.96417,
         "lng": 129.32778,
         "country": "KP",
@@ -162,8 +234,12 @@
         "population": 63652
     },
     "2043572": {
-        "geoid": "2043572",
-        "name": "Kanggye-si",
+        "ids": {
+            "geonames": 2043572
+        },
+        "long": {
+            "default": "Kanggye-si"
+        },
         "lat": 40.96946,
         "lng": 126.58523,
         "country": "KP",
@@ -171,8 +247,12 @@
         "population": 209530
     },
     "2043835": {
-        "geoid": "2043835",
-        "name": "Hyesan-dong",
+        "ids": {
+            "geonames": 2043835
+        },
+        "long": {
+            "default": "Hyesan-dong"
+        },
         "lat": 41.39756,
         "lng": 128.17873,
         "country": "KP",
@@ -180,8 +260,12 @@
         "population": 97794
     },
     "2043837": {
-        "geoid": "2043837",
-        "name": "Hyesan-si",
+        "ids": {
+            "geonames": 2043837
+        },
+        "long": {
+            "default": "Hyesan-si"
+        },
         "lat": 41.40167,
         "lng": 128.17778,
         "country": "KP",
@@ -189,8 +273,12 @@
         "population": 192680
     },
     "2044050": {
-        "geoid": "2044050",
-        "name": "Hongwŏn",
+        "ids": {
+            "geonames": 2044050
+        },
+        "long": {
+            "default": "Hongwŏn"
+        },
         "lat": 40.02528,
         "lng": 127.95583,
         "country": "KP",
@@ -198,8 +286,12 @@
         "population": 70923
     },
     "2044757": {
-        "geoid": "2044757",
-        "name": "Chongjin",
+        "ids": {
+            "geonames": 2044757
+        },
+        "long": {
+            "default": "Chongjin"
+        },
         "lat": 41.79556,
         "lng": 129.77583,
         "country": "KP",

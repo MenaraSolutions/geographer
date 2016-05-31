@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 2262961
         },
-        "names": {
-            "long": "Setúbal"
+        "long": {
+            "default": "Setúbal"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 2263478
         },
-        "names": {
-            "long": "Santarém"
+        "long": {
+            "default": "Santarém"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "16",
             "geonames": 2264507
         },
-        "names": {
-            "long": "Portalegre"
+        "long": {
+            "default": "Portalegre"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "14",
             "geonames": 2267056
         },
-        "names": {
-            "long": "Lisbon"
+        "long": {
+            "default": "Lisbon"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "13",
             "geonames": 2267094
         },
-        "names": {
-            "long": "Leiria"
+        "long": {
+            "default": "Leiria"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 2268337
         },
-        "names": {
-            "long": "Faro"
+        "long": {
+            "default": "Faro"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 2268404
         },
-        "names": {
-            "long": "Évora"
+        "long": {
+            "default": "Évora"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "06",
             "geonames": 2269513
         },
-        "names": {
-            "long": "Castelo Branco"
+        "long": {
+            "default": "Castelo Branco"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 2270984
         },
-        "names": {
-            "long": "Beja"
+        "long": {
+            "default": "Beja"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 2593105
         },
-        "names": {
-            "long": "Madeira"
+        "long": {
+            "default": "Madeira"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "22",
             "geonames": 2732264
         },
-        "names": {
-            "long": "Viseu"
+        "long": {
+            "default": "Viseu"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "21",
             "geonames": 2732437
         },
-        "names": {
-            "long": "Vila Real"
+        "long": {
+            "default": "Vila Real"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "20",
             "geonames": 2732772
         },
-        "names": {
-            "long": "Viana do Castelo"
+        "long": {
+            "default": "Viana do Castelo"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "17",
             "geonames": 2735941
         },
-        "names": {
-            "long": "Porto"
+        "long": {
+            "default": "Porto"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "11",
             "geonames": 2738782
         },
-        "names": {
-            "long": "Guarda"
+        "long": {
+            "default": "Guarda"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "07",
             "geonames": 2740636
         },
-        "names": {
-            "long": "Coimbra"
+        "long": {
+            "default": "Coimbra"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "05",
             "geonames": 2742026
         },
-        "names": {
-            "long": "Bragança"
+        "long": {
+            "default": "Bragança"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "04",
             "geonames": 2742031
         },
-        "names": {
-            "long": "Braga"
+        "long": {
+            "default": "Braga"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "02",
             "geonames": 2742610
         },
-        "names": {
-            "long": "Aveiro"
+        "long": {
+            "default": "Aveiro"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "23",
             "geonames": 3411865
         },
-        "names": {
-            "long": "Azores"
+        "long": {
+            "default": "Azores"
         }
     }
 ]

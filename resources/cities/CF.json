@@ -1,7 +1,11 @@
 {
     "2384770": {
-        "geoid": "2384770",
-        "name": "Mbaïki",
+        "ids": {
+            "geonames": 2384770
+        },
+        "long": {
+            "default": "Mbaïki"
+        },
         "lat": 3.86781,
         "lng": 17.98923,
         "country": "CF",
@@ -9,8 +13,12 @@
         "population": 67132
     },
     "2386012": {
-        "geoid": "2386012",
-        "name": "Kaga Bandoro",
+        "ids": {
+            "geonames": 2386012
+        },
+        "long": {
+            "default": "Kaga Bandoro"
+        },
         "lat": 6.98961,
         "lng": 19.18744,
         "country": "CF",
@@ -18,8 +26,12 @@
         "population": 56520
     },
     "2388873": {
-        "geoid": "2388873",
-        "name": "Bimbo",
+        "ids": {
+            "geonames": 2388873
+        },
+        "long": {
+            "default": "Bimbo"
+        },
         "lat": 4.25671,
         "lng": 18.41583,
         "country": "CF",
@@ -27,8 +39,12 @@
         "population": 129655
     },
     "2389086": {
-        "geoid": "2389086",
-        "name": "Berbérati",
+        "ids": {
+            "geonames": 2389086
+        },
+        "long": {
+            "default": "Berbérati"
+        },
         "lat": 4.26116,
         "lng": 15.79216,
         "country": "CF",
@@ -36,8 +52,12 @@
         "population": 61815
     },
     "2389853": {
-        "geoid": "2389853",
-        "name": "Bangui",
+        "ids": {
+            "geonames": 2389853
+        },
+        "long": {
+            "default": "Bangui"
+        },
         "lat": 4.36122,
         "lng": 18.55496,
         "country": "CF",

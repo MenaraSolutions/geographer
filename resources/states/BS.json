@@ -4,8 +4,8 @@
             "fips": "35",
             "geonames": 3571493
         },
-        "names": {
-            "long": "San Salvador"
+        "long": {
+            "default": "San Salvador"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 3571629
         },
-        "names": {
-            "long": "Ragged Island"
+        "long": {
+            "default": "Ragged Island"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "32",
             "geonames": 3571809
         },
-        "names": {
-            "long": "Berry Islands"
+        "long": {
+            "default": "Berry Islands"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "23",
             "geonames": 3571815
         },
-        "names": {
-            "long": "New Providence"
+        "long": {
+            "default": "New Providence"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "16",
             "geonames": 3571894
         },
-        "names": {
-            "long": "Mayaguana"
+        "long": {
+            "default": "Mayaguana"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "15",
             "geonames": 3572005
         },
-        "names": {
-            "long": "Long Island"
+        "long": {
+            "default": "Long Island"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 3572154
         },
-        "names": {
-            "long": "Inagua"
+        "long": {
+            "default": "Inagua"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "22",
             "geonames": 3572238
         },
-        "names": {
-            "long": "Harbour Island"
+        "long": {
+            "default": "Harbour Island"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "25",
             "geonames": 3572374
         },
-        "names": {
-            "long": "Freeport"
+        "long": {
+            "default": "Freeport"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 3572427
         },
-        "names": {
-            "long": "Exuma"
+        "long": {
+            "default": "Exuma"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "06",
             "geonames": 3572678
         },
-        "names": {
-            "long": "Cat Island"
+        "long": {
+            "default": "Cat Island"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "05",
             "geonames": 3572807
         },
-        "names": {
-            "long": "Bimini"
+        "long": {
+            "default": "Bimini"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "24",
             "geonames": 3572937
         },
-        "names": {
-            "long": "Acklins"
+        "long": {
+            "default": "Acklins"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "36",
             "geonames": 8030541
         },
-        "names": {
-            "long": "Black Point"
+        "long": {
+            "default": "Black Point"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "37",
             "geonames": 8030542
         },
-        "names": {
-            "long": "Central Abaco"
+        "long": {
+            "default": "Central Abaco"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "38",
             "geonames": 8030543
         },
-        "names": {
-            "long": "Central Andros"
+        "long": {
+            "default": "Central Andros"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "39",
             "geonames": 8030544
         },
-        "names": {
-            "long": "Central Eleuthera"
+        "long": {
+            "default": "Central Eleuthera"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "40",
             "geonames": 8030545
         },
-        "names": {
-            "long": "Crooked Island and Long Cay"
+        "long": {
+            "default": "Crooked Island and Long Cay"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "41",
             "geonames": 8030546
         },
-        "names": {
-            "long": "East Grand Bahama"
+        "long": {
+            "default": "East Grand Bahama"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "42",
             "geonames": 8030547
         },
-        "names": {
-            "long": "Grand Cay"
+        "long": {
+            "default": "Grand Cay"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "43",
             "geonames": 8030548
         },
-        "names": {
-            "long": "Hope Town"
+        "long": {
+            "default": "Hope Town"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "44",
             "geonames": 8030549
         },
-        "names": {
-            "long": "Mangrove Cay"
+        "long": {
+            "default": "Mangrove Cay"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "45",
             "geonames": 8030550
         },
-        "names": {
-            "long": "Moore’s Island"
+        "long": {
+            "default": "Moore’s Island"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "46",
             "geonames": 8030551
         },
-        "names": {
-            "long": "North Abaco"
+        "long": {
+            "default": "North Abaco"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "47",
             "geonames": 8030552
         },
-        "names": {
-            "long": "North Andros"
+        "long": {
+            "default": "North Andros"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "48",
             "geonames": 8030553
         },
-        "names": {
-            "long": "North Eleuthera"
+        "long": {
+            "default": "North Eleuthera"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "49",
             "geonames": 8030554
         },
-        "names": {
-            "long": "Rum Cay"
+        "long": {
+            "default": "Rum Cay"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "50",
             "geonames": 8030555
         },
-        "names": {
-            "long": "South Abaco"
+        "long": {
+            "default": "South Abaco"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "51",
             "geonames": 8030556
         },
-        "names": {
-            "long": "South Andros"
+        "long": {
+            "default": "South Andros"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "52",
             "geonames": 8030557
         },
-        "names": {
-            "long": "South Eleuthera"
+        "long": {
+            "default": "South Eleuthera"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "53",
             "geonames": 8030558
         },
-        "names": {
-            "long": "Spanish Wells"
+        "long": {
+            "default": "Spanish Wells"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "54",
             "geonames": 8030559
         },
-        "names": {
-            "long": "West Grand Bahama"
+        "long": {
+            "default": "West Grand Bahama"
         }
     }
 ]

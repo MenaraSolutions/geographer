@@ -1,7 +1,11 @@
 {
     "2464470": {
-        "geoid": "2464470",
-        "name": "Tunis",
+        "ids": {
+            "geonames": 2464470
+        },
+        "long": {
+            "default": "Tunis"
+        },
         "lat": 36.81897,
         "lng": 10.16579,
         "country": "TN",
@@ -9,8 +13,12 @@
         "population": 693210
     },
     "2464701": {
-        "geoid": "2464701",
-        "name": "Tataouine",
+        "ids": {
+            "geonames": 2464701
+        },
+        "long": {
+            "default": "Tataouine"
+        },
         "lat": 32.92967,
         "lng": 10.45177,
         "country": "TN",
@@ -18,8 +26,12 @@
         "population": 62577
     },
     "2464915": {
-        "geoid": "2464915",
-        "name": "Sousse",
+        "ids": {
+            "geonames": 2464915
+        },
+        "long": {
+            "default": "Sousse"
+        },
         "lat": 35.82539,
         "lng": 10.63699,
         "country": "TN",
@@ -27,8 +39,12 @@
         "population": 164123
     },
     "2467246": {
-        "geoid": "2467246",
-        "name": "Skanes",
+        "ids": {
+            "geonames": 2467246
+        },
+        "long": {
+            "default": "Skanes"
+        },
         "lat": 35.78333,
         "lng": 10.8,
         "country": "TN",
@@ -36,8 +52,12 @@
         "population": 64222
     },
     "2467454": {
-        "geoid": "2467454",
-        "name": "Sfax",
+        "ids": {
+            "geonames": 2467454
+        },
+        "long": {
+            "default": "Sfax"
+        },
         "lat": 34.74056,
         "lng": 10.76028,
         "country": "TN",
@@ -45,8 +65,12 @@
         "population": 277278
     },
     "2468353": {
-        "geoid": "2468353",
-        "name": "Gafsa",
+        "ids": {
+            "geonames": 2468353
+        },
+        "long": {
+            "default": "Gafsa"
+        },
         "lat": 34.425,
         "lng": 8.78417,
         "country": "TN",
@@ -54,8 +78,12 @@
         "population": 81232
     },
     "2468369": {
-        "geoid": "2468369",
-        "name": "Gabès",
+        "ids": {
+            "geonames": 2468369
+        },
+        "long": {
+            "default": "Gabès"
+        },
         "lat": 33.88146,
         "lng": 10.0982,
         "country": "TN",
@@ -63,8 +91,12 @@
         "population": 110075
     },
     "2468579": {
-        "geoid": "2468579",
-        "name": "Nabeul",
+        "ids": {
+            "geonames": 2468579
+        },
+        "long": {
+            "default": "Nabeul"
+        },
         "lat": 36.45606,
         "lng": 10.73763,
         "country": "TN",
@@ -72,8 +104,12 @@
         "population": 56387
     },
     "2468925": {
-        "geoid": "2468925",
-        "name": "Midoun",
+        "ids": {
+            "geonames": 2468925
+        },
+        "long": {
+            "default": "Midoun"
+        },
         "lat": 33.80813,
         "lng": 10.99228,
         "country": "TN",
@@ -81,8 +117,12 @@
         "population": 120000
     },
     "2469140": {
-        "geoid": "2469140",
-        "name": "Msaken",
+        "ids": {
+            "geonames": 2469140
+        },
+        "long": {
+            "default": "Msaken"
+        },
         "lat": 35.72917,
         "lng": 10.58082,
         "country": "TN",
@@ -90,8 +130,12 @@
         "population": 64563
     },
     "2469473": {
-        "geoid": "2469473",
-        "name": "Medenine",
+        "ids": {
+            "geonames": 2469473
+        },
+        "long": {
+            "default": "Medenine"
+        },
         "lat": 33.35495,
         "lng": 10.50548,
         "country": "TN",
@@ -99,8 +143,12 @@
         "population": 61705
     },
     "2470088": {
-        "geoid": "2470088",
-        "name": "Jendouba",
+        "ids": {
+            "geonames": 2470088
+        },
+        "long": {
+            "default": "Jendouba"
+        },
         "lat": 36.50114,
         "lng": 8.78024,
         "country": "TN",
@@ -108,8 +156,12 @@
         "population": 51408
     },
     "2470173": {
-        "geoid": "2470173",
-        "name": "Zarzis",
+        "ids": {
+            "geonames": 2470173
+        },
+        "long": {
+            "default": "Zarzis"
+        },
         "lat": 33.50398,
         "lng": 11.11215,
         "country": "TN",
@@ -117,8 +169,12 @@
         "population": 79316
     },
     "2470384": {
-        "geoid": "2470384",
-        "name": "Houmt Souk",
+        "ids": {
+            "geonames": 2470384
+        },
+        "long": {
+            "default": "Houmt Souk"
+        },
         "lat": 33.87576,
         "lng": 10.85745,
         "country": "TN",
@@ -126,8 +182,12 @@
         "population": 62583
     },
     "2470656": {
-        "geoid": "2470656",
-        "name": "La Goulette",
+        "ids": {
+            "geonames": 2470656
+        },
+        "long": {
+            "default": "La Goulette"
+        },
         "lat": 36.81806,
         "lng": 10.305,
         "country": "TN",
@@ -135,8 +195,12 @@
         "population": 79795
     },
     "2472479": {
-        "geoid": "2472479",
-        "name": "Ben Arous",
+        "ids": {
+            "geonames": 2472479
+        },
+        "long": {
+            "default": "Ben Arous"
+        },
         "lat": 36.75306,
         "lng": 10.21889,
         "country": "TN",
@@ -144,8 +208,12 @@
         "population": 74932
     },
     "2472706": {
-        "geoid": "2472706",
-        "name": "Bizerte",
+        "ids": {
+            "geonames": 2472706
+        },
+        "long": {
+            "default": "Bizerte"
+        },
         "lat": 37.27442,
         "lng": 9.87391,
         "country": "TN",
@@ -153,8 +221,12 @@
         "population": 115268
     },
     "2472774": {
-        "geoid": "2472774",
-        "name": "Béja",
+        "ids": {
+            "geonames": 2472774
+        },
+        "long": {
+            "default": "Béja"
+        },
         "lat": 36.72564,
         "lng": 9.18169,
         "country": "TN",
@@ -162,8 +234,12 @@
         "population": 57233
     },
     "2473247": {
-        "geoid": "2473247",
-        "name": "Ariana",
+        "ids": {
+            "geonames": 2473247
+        },
+        "long": {
+            "default": "Ariana"
+        },
         "lat": 36.86012,
         "lng": 10.19337,
         "country": "TN",
@@ -171,8 +247,12 @@
         "population": 97687
     },
     "2473449": {
-        "geoid": "2473449",
-        "name": "Kairouan",
+        "ids": {
+            "geonames": 2473449
+        },
+        "long": {
+            "default": "Kairouan"
+        },
         "lat": 35.6781,
         "lng": 10.09633,
         "country": "TN",
@@ -180,8 +260,12 @@
         "population": 119794
     },
     "2473457": {
-        "geoid": "2473457",
-        "name": "Kasserine",
+        "ids": {
+            "geonames": 2473457
+        },
+        "long": {
+            "default": "Kasserine"
+        },
         "lat": 35.16758,
         "lng": 8.83651,
         "country": "TN",
@@ -189,8 +273,12 @@
         "population": 81987
     },
     "2473493": {
-        "geoid": "2473493",
-        "name": "Monastir",
+        "ids": {
+            "geonames": 2473493
+        },
+        "long": {
+            "default": "Monastir"
+        },
         "lat": 35.77799,
         "lng": 10.82617,
         "country": "TN",
@@ -198,8 +286,12 @@
         "population": 71546
     },
     "2473499": {
-        "geoid": "2473499",
-        "name": "La Mohammedia",
+        "ids": {
+            "geonames": 2473499
+        },
+        "long": {
+            "default": "La Mohammedia"
+        },
         "lat": 36.67446,
         "lng": 10.15633,
         "country": "TN",
@@ -207,8 +299,12 @@
         "population": 66593
     },
     "2473540": {
-        "geoid": "2473540",
-        "name": "Al Marsá",
+        "ids": {
+            "geonames": 2473540
+        },
+        "long": {
+            "default": "Al Marsá"
+        },
         "lat": 36.87818,
         "lng": 10.32466,
         "country": "TN",
@@ -216,8 +312,12 @@
         "population": 65640
     },
     "2473744": {
-        "geoid": "2473744",
-        "name": "Hammamet",
+        "ids": {
+            "geonames": 2473744
+        },
+        "long": {
+            "default": "Hammamet"
+        },
         "lat": 36.4,
         "lng": 10.61667,
         "country": "TN",
@@ -225,8 +325,12 @@
         "population": 53733
     },
     "2473747": {
-        "geoid": "2473747",
-        "name": "El Hamma",
+        "ids": {
+            "geonames": 2473747
+        },
+        "long": {
+            "default": "El Hamma"
+        },
         "lat": 33.89152,
         "lng": 9.79629,
         "country": "TN",
@@ -234,8 +338,12 @@
         "population": 62000
     },
     "2581754": {
-        "geoid": "2581754",
-        "name": "Douane",
+        "ids": {
+            "geonames": 2581754
+        },
+        "long": {
+            "default": "Douane"
+        },
         "lat": 36.44766,
         "lng": 10.7557,
         "country": "TN",

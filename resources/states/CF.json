@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 236178
         },
-        "names": {
-            "long": "Vakaga"
+        "long": {
+            "default": "Vakaga"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "11",
             "geonames": 236887
         },
-        "names": {
-            "long": "Ouaka"
+        "long": {
+            "default": "Ouaka"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 237556
         },
-        "names": {
-            "long": "Mbomou"
+        "long": {
+            "default": "Mbomou"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "05",
             "geonames": 238639
         },
-        "names": {
-            "long": "Haut-Mbomou"
+        "long": {
+            "default": "Haut-Mbomou"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "03",
             "geonames": 238640
         },
-        "names": {
-            "long": "Haute-Kotto"
+        "long": {
+            "default": "Haute-Kotto"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "02",
             "geonames": 240396
         },
-        "names": {
-            "long": "Basse-Kotto"
+        "long": {
+            "default": "Basse-Kotto"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "01",
             "geonames": 240591
         },
-        "names": {
-            "long": "Bamingui-Bangoran"
+        "long": {
+            "default": "Bamingui-Bangoran"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "16",
             "geonames": 2383204
         },
-        "names": {
-            "long": "Sangha-Mbaéré"
+        "long": {
+            "default": "Sangha-Mbaéré"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "13",
             "geonames": 2383650
         },
-        "names": {
-            "long": "Ouham-Pendé"
+        "long": {
+            "default": "Ouham-Pendé"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "12",
             "geonames": 2383653
         },
-        "names": {
-            "long": "Ouham"
+        "long": {
+            "default": "Ouham"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "17",
             "geonames": 2383765
         },
-        "names": {
-            "long": "Ombella-M'Poko"
+        "long": {
+            "default": "Ombella-M'Poko"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "09",
             "geonames": 2384205
         },
-        "names": {
-            "long": "Nana-Mambéré"
+        "long": {
+            "default": "Nana-Mambéré"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "07",
             "geonames": 2385105
         },
-        "names": {
-            "long": "Lobaye"
+        "long": {
+            "default": "Lobaye"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "06",
             "geonames": 2385836
         },
-        "names": {
-            "long": "Kémo"
+        "long": {
+            "default": "Kémo"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "04",
             "geonames": 2386161
         },
-        "names": {
-            "long": "Mambéré-Kadéï"
+        "long": {
+            "default": "Mambéré-Kadéï"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "15",
             "geonames": 2386243
         },
-        "names": {
-            "long": "Nana-Grébizi"
+        "long": {
+            "default": "Nana-Grébizi"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "18",
             "geonames": 2596686
         },
-        "names": {
-            "long": "Bangui"
+        "long": {
+            "default": "Bangui"
         }
     }
 ]

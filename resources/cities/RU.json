@@ -1,7 +1,11 @@
 {
     "461698": {
-        "geoid": "461698",
-        "name": "Sosnovka",
+        "ids": {
+            "geonames": 461698
+        },
+        "long": {
+            "default": "Sosnovka"
+        },
         "lat": 60.01667,
         "lng": 30.35,
         "country": "RU",
@@ -9,8 +13,12 @@
         "population": 66227
     },
     "461740": {
-        "geoid": "461740",
-        "name": "Zyuzino",
+        "ids": {
+            "geonames": 461740
+        },
+        "long": {
+            "default": "Zyuzino"
+        },
         "lat": 55.65608,
         "lng": 37.56846,
         "country": "RU",
@@ -18,8 +26,12 @@
         "population": 121000
     },
     "461835": {
-        "geoid": "461835",
-        "name": "Zyablikovo",
+        "ids": {
+            "geonames": 461835
+        },
+        "long": {
+            "default": "Zyablikovo"
+        },
         "lat": 55.61667,
         "lng": 37.76667,
         "country": "RU",
@@ -27,8 +39,12 @@
         "population": 129000
     },
     "462444": {
-        "geoid": "462444",
-        "name": "Zlatoust",
+        "ids": {
+            "geonames": 462444
+        },
+        "long": {
+            "default": "Zlatoust"
+        },
         "lat": 55.17111,
         "lng": 59.65083,
         "country": "RU",
@@ -36,8 +52,12 @@
         "population": 191366
     },
     "462745": {
-        "geoid": "462745",
-        "name": "Zhulebino",
+        "ids": {
+            "geonames": 462745
+        },
+        "long": {
+            "default": "Zhulebino"
+        },
         "lat": 55.7,
         "lng": 37.85,
         "country": "RU",
@@ -45,8 +65,12 @@
         "population": 150000
     },
     "462755": {
-        "geoid": "462755",
-        "name": "Zhukovskiy",
+        "ids": {
+            "geonames": 462755
+        },
+        "long": {
+            "default": "Zhukovskiy"
+        },
         "lat": 55.59528,
         "lng": 38.12028,
         "country": "RU",
@@ -54,8 +78,12 @@
         "population": 97200
     },
     "463082": {
-        "geoid": "463082",
-        "name": "Zhigulevsk",
+        "ids": {
+            "geonames": 463082
+        },
+        "long": {
+            "default": "Zhigulevsk"
+        },
         "lat": 53.39972,
         "lng": 49.49528,
         "country": "RU",
@@ -63,8 +91,12 @@
         "population": 57094
     },
     "463343": {
-        "geoid": "463343",
-        "name": "Zheleznogorsk",
+        "ids": {
+            "geonames": 463343
+        },
+        "long": {
+            "default": "Zheleznogorsk"
+        },
         "lat": 52.331,
         "lng": 35.3711,
         "country": "RU",
@@ -72,8 +104,12 @@
         "population": 97900
     },
     "463355": {
-        "geoid": "463355",
-        "name": "Zheleznodorozhnyy",
+        "ids": {
+            "geonames": 463355
+        },
+        "long": {
+            "default": "Zheleznodorozhnyy"
+        },
         "lat": 55.744,
         "lng": 38.01684,
         "country": "RU",
@@ -81,8 +117,12 @@
         "population": 141648
     },
     "463829": {
-        "geoid": "463829",
-        "name": "Zelenograd",
+        "ids": {
+            "geonames": 463829
+        },
+        "long": {
+            "default": "Zelenograd"
+        },
         "lat": 55.9825,
         "lng": 37.18139,
         "country": "RU",
@@ -90,8 +130,12 @@
         "population": 215727
     },
     "463835": {
-        "geoid": "463835",
-        "name": "Zelenodolsk",
+        "ids": {
+            "geonames": 463835
+        },
+        "long": {
+            "default": "Zelenodolsk"
+        },
         "lat": 55.84376,
         "lng": 48.51784,
         "country": "RU",
@@ -99,8 +143,12 @@
         "population": 99600
     },
     "464625": {
-        "geoid": "464625",
-        "name": "Zarechnyy",
+        "ids": {
+            "geonames": 464625
+        },
+        "long": {
+            "default": "Zarechnyy"
+        },
         "lat": 53.20356,
         "lng": 45.19227,
         "country": "RU",
@@ -108,8 +156,12 @@
         "population": 63579
     },
     "465057": {
-        "geoid": "465057",
-        "name": "Zamoskvorech’ye",
+        "ids": {
+            "geonames": 465057
+        },
+        "long": {
+            "default": "Zamoskvorech’ye"
+        },
         "lat": 55.73333,
         "lng": 37.63333,
         "country": "RU",
@@ -117,8 +169,12 @@
         "population": 55000
     },
     "466806": {
-        "geoid": "466806",
-        "name": "Yoshkar-Ola",
+        "ids": {
+            "geonames": 466806
+        },
+        "long": {
+            "default": "Yoshkar-Ola"
+        },
         "lat": 56.63877,
         "lng": 47.89078,
         "country": "RU",
@@ -126,8 +182,12 @@
         "population": 279100
     },
     "466885": {
-        "geoid": "466885",
-        "name": "Yeysk",
+        "ids": {
+            "geonames": 466885
+        },
+        "long": {
+            "default": "Yeysk"
+        },
         "lat": 46.7055,
         "lng": 38.2739,
         "country": "RU",
@@ -135,8 +195,12 @@
         "population": 87814
     },
     "466990": {
-        "geoid": "466990",
-        "name": "Yessentuki",
+        "ids": {
+            "geonames": 466990
+        },
+        "long": {
+            "default": "Yessentuki"
+        },
         "lat": 44.04444,
         "lng": 42.86056,
         "country": "RU",
@@ -144,8 +208,12 @@
         "population": 81015
     },
     "467978": {
-        "geoid": "467978",
-        "name": "Yelets",
+        "ids": {
+            "geonames": 467978
+        },
+        "long": {
+            "default": "Yelets"
+        },
         "lat": 52.62366,
         "lng": 38.50169,
         "country": "RU",
@@ -153,8 +221,12 @@
         "population": 115688
     },
     "468082": {
-        "geoid": "468082",
-        "name": "Yelabuga",
+        "ids": {
+            "geonames": 468082
+        },
+        "long": {
+            "default": "Yelabuga"
+        },
         "lat": 55.76127,
         "lng": 52.06493,
         "country": "RU",
@@ -162,8 +234,12 @@
         "population": 72643
     },
     "468250": {
-        "geoid": "468250",
-        "name": "Yegor’yevsk",
+        "ids": {
+            "geonames": 468250
+        },
+        "long": {
+            "default": "Yegor’yevsk"
+        },
         "lat": 55.38283,
         "lng": 39.03233,
         "country": "RU",
@@ -171,8 +247,12 @@
         "population": 85200
     },
     "468809": {
-        "geoid": "468809",
-        "name": "Yasenevo",
+        "ids": {
+            "geonames": 468809
+        },
+        "long": {
+            "default": "Yasenevo"
+        },
         "lat": 55.60686,
         "lng": 37.51991,
         "country": "RU",
@@ -180,8 +260,12 @@
         "population": 180000
     },
     "468866": {
-        "geoid": "468866",
-        "name": "Yartsevo",
+        "ids": {
+            "geonames": 468866
+        },
+        "long": {
+            "default": "Yartsevo"
+        },
         "lat": 55.06667,
         "lng": 32.69639,
         "country": "RU",
@@ -189,8 +273,12 @@
         "population": 52706
     },
     "468902": {
-        "geoid": "468902",
-        "name": "Yaroslavl",
+        "ids": {
+            "geonames": 468902
+        },
+        "long": {
+            "default": "Yaroslavl"
+        },
         "lat": 57.62987,
         "lng": 39.87368,
         "country": "RU",
@@ -198,8 +286,12 @@
         "population": 606730
     },
     "470252": {
-        "geoid": "470252",
-        "name": "Vyshniy Volochëk",
+        "ids": {
+            "geonames": 470252
+        },
+        "long": {
+            "default": "Vyshniy Volochëk"
+        },
         "lat": 57.59125,
         "lng": 34.56453,
         "country": "RU",
@@ -207,8 +299,12 @@
         "population": 53800
     },
     "470444": {
-        "geoid": "470444",
-        "name": "Vyksa",
+        "ids": {
+            "geonames": 470444
+        },
+        "long": {
+            "default": "Vyksa"
+        },
         "lat": 55.3175,
         "lng": 42.17444,
         "country": "RU",
@@ -216,8 +312,12 @@
         "population": 61664
     },
     "470451": {
-        "geoid": "470451",
-        "name": "Vykhino-Zhulebino",
+        "ids": {
+            "geonames": 470451
+        },
+        "long": {
+            "default": "Vykhino-Zhulebino"
+        },
         "lat": 55.70196,
         "lng": 37.81178,
         "country": "RU",
@@ -225,8 +325,12 @@
         "population": 216000
     },
     "470546": {
-        "geoid": "470546",
-        "name": "Vyborg",
+        "ids": {
+            "geonames": 470546
+        },
+        "long": {
+            "default": "Vyborg"
+        },
         "lat": 60.70763,
         "lng": 28.75283,
         "country": "RU",
@@ -234,8 +338,12 @@
         "population": 78633
     },
     "470676": {
-        "geoid": "470676",
-        "name": "Vyaz’ma",
+        "ids": {
+            "geonames": 470676
+        },
+        "long": {
+            "default": "Vyaz’ma"
+        },
         "lat": 55.21039,
         "lng": 34.29508,
         "country": "RU",
@@ -243,8 +351,12 @@
         "population": 55500
     },
     "471430": {
-        "geoid": "471430",
-        "name": "Votkinsk",
+        "ids": {
+            "geonames": 471430
+        },
+        "long": {
+            "default": "Votkinsk"
+        },
         "lat": 57.04865,
         "lng": 53.98717,
         "country": "RU",
@@ -252,8 +364,12 @@
         "population": 98633
     },
     "471656": {
-        "geoid": "471656",
-        "name": "Voskresensk",
+        "ids": {
+            "geonames": 471656
+        },
+        "long": {
+            "default": "Voskresensk"
+        },
         "lat": 55.31733,
         "lng": 38.65264,
         "country": "RU",
@@ -261,8 +377,12 @@
         "population": 77086
     },
     "472045": {
-        "geoid": "472045",
-        "name": "Voronezh",
+        "ids": {
+            "geonames": 472045
+        },
+        "long": {
+            "default": "Voronezh"
+        },
         "lat": 51.67204,
         "lng": 39.1843,
         "country": "RU",
@@ -270,8 +390,12 @@
         "population": 848752
     },
     "472072": {
-        "geoid": "472072",
-        "name": "Altuf’yevskiy",
+        "ids": {
+            "geonames": 472072
+        },
+        "long": {
+            "default": "Altuf’yevskiy"
+        },
         "lat": 55.88333,
         "lng": 37.58333,
         "country": "RU",
@@ -279,8 +403,12 @@
         "population": 54000
     },
     "472231": {
-        "geoid": "472231",
-        "name": "Volzhskiy",
+        "ids": {
+            "geonames": 472231
+        },
+        "long": {
+            "default": "Volzhskiy"
+        },
         "lat": 48.78583,
         "lng": 44.77973,
         "country": "RU",
@@ -288,8 +416,12 @@
         "population": 323293
     },
     "472234": {
-        "geoid": "472234",
-        "name": "Volzhsk",
+        "ids": {
+            "geonames": 472234
+        },
+        "long": {
+            "default": "Volzhsk"
+        },
         "lat": 55.86638,
         "lng": 48.3594,
         "country": "RU",
@@ -297,8 +429,12 @@
         "population": 58000
     },
     "472278": {
-        "geoid": "472278",
-        "name": "Vol’sk",
+        "ids": {
+            "geonames": 472278
+        },
+        "long": {
+            "default": "Vol’sk"
+        },
         "lat": 52.04541,
         "lng": 47.37993,
         "country": "RU",
@@ -306,8 +442,12 @@
         "population": 70500
     },
     "472459": {
-        "geoid": "472459",
-        "name": "Vologda",
+        "ids": {
+            "geonames": 472459
+        },
+        "long": {
+            "default": "Vologda"
+        },
         "lat": 59.2239,
         "lng": 39.88398,
         "country": "RU",
@@ -315,8 +455,12 @@
         "population": 314900
     },
     "472732": {
-        "geoid": "472732",
-        "name": "Nagornyy",
+        "ids": {
+            "geonames": 472732
+        },
+        "long": {
+            "default": "Nagornyy"
+        },
         "lat": 55.65,
         "lng": 37.61667,
         "country": "RU",
@@ -324,8 +468,12 @@
         "population": 76000
     },
     "472757": {
-        "geoid": "472757",
-        "name": "Volgograd",
+        "ids": {
+            "geonames": 472757
+        },
+        "long": {
+            "default": "Volgograd"
+        },
         "lat": 48.71939,
         "lng": 44.50183,
         "country": "RU",
@@ -333,8 +481,12 @@
         "population": 1011417
     },
     "472761": {
-        "geoid": "472761",
-        "name": "Volgodonsk",
+        "ids": {
+            "geonames": 472761
+        },
+        "long": {
+            "default": "Volgodonsk"
+        },
         "lat": 47.51361,
         "lng": 42.15139,
         "country": "RU",
@@ -342,8 +494,12 @@
         "population": 167731
     },
     "473247": {
-        "geoid": "473247",
-        "name": "Vladimir",
+        "ids": {
+            "geonames": 473247
+        },
+        "long": {
+            "default": "Vladimir"
+        },
         "lat": 56.13655,
         "lng": 40.39658,
         "country": "RU",
@@ -351,8 +507,12 @@
         "population": 310024
     },
     "473249": {
-        "geoid": "473249",
-        "name": "Vladikavkaz",
+        "ids": {
+            "geonames": 473249
+        },
+        "long": {
+            "default": "Vladikavkaz"
+        },
         "lat": 43.03667,
         "lng": 44.66778,
         "country": "RU",
@@ -360,8 +520,12 @@
         "population": 317370
     },
     "473778": {
-        "geoid": "473778",
-        "name": "Vidnoye",
+        "ids": {
+            "geonames": 473778
+        },
+        "long": {
+            "default": "Vidnoye"
+        },
         "lat": 55.55239,
         "lng": 37.70967,
         "country": "RU",
@@ -369,8 +533,12 @@
         "population": 51721
     },
     "473972": {
-        "geoid": "473972",
-        "name": "Veshnyaki",
+        "ids": {
+            "geonames": 473972
+        },
+        "long": {
+            "default": "Veshnyaki"
+        },
         "lat": 55.72393,
         "lng": 37.81952,
         "country": "RU",
@@ -378,8 +546,12 @@
         "population": 122000
     },
     "476077": {
-        "geoid": "476077",
-        "name": "Velikiye Luki",
+        "ids": {
+            "geonames": 476077
+        },
+        "long": {
+            "default": "Velikiye Luki"
+        },
         "lat": 56.34,
         "lng": 30.54517,
         "country": "RU",
@@ -387,8 +559,12 @@
         "population": 103149
     },
     "477494": {
-        "geoid": "477494",
-        "name": "Uzlovaya",
+        "ids": {
+            "geonames": 477494
+        },
+        "long": {
+            "default": "Uzlovaya"
+        },
         "lat": 53.98179,
         "lng": 38.17118,
         "country": "RU",
@@ -396,8 +572,12 @@
         "population": 58458
     },
     "478724": {
-        "geoid": "478724",
-        "name": "Uritsk",
+        "ids": {
+            "geonames": 478724
+        },
+        "long": {
+            "default": "Uritsk"
+        },
         "lat": 59.83889,
         "lng": 30.17528,
         "country": "RU",
@@ -405,8 +585,12 @@
         "population": 55037
     },
     "479123": {
-        "geoid": "479123",
-        "name": "Ulyanovsk",
+        "ids": {
+            "geonames": 479123
+        },
+        "long": {
+            "default": "Ulyanovsk"
+        },
         "lat": 54.32824,
         "lng": 48.38657,
         "country": "RU",
@@ -414,8 +598,12 @@
         "population": 640680
     },
     "479411": {
-        "geoid": "479411",
-        "name": "Ukhta",
+        "ids": {
+            "geonames": 479411
+        },
+        "long": {
+            "default": "Ukhta"
+        },
         "lat": 63.56705,
         "lng": 53.68348,
         "country": "RU",
@@ -423,8 +611,12 @@
         "population": 102187
     },
     "479561": {
-        "geoid": "479561",
-        "name": "Ufa",
+        "ids": {
+            "geonames": 479561
+        },
+        "long": {
+            "default": "Ufa"
+        },
         "lat": 54.74306,
         "lng": 55.96779,
         "country": "RU",
@@ -432,8 +624,12 @@
         "population": 1033338
     },
     "480060": {
-        "geoid": "480060",
-        "name": "Tver",
+        "ids": {
+            "geonames": 480060
+        },
+        "long": {
+            "default": "Tver"
+        },
         "lat": 56.85836,
         "lng": 35.90057,
         "country": "RU",
@@ -441,8 +637,12 @@
         "population": 400212
     },
     "480089": {
-        "geoid": "480089",
-        "name": "Tuymazy",
+        "ids": {
+            "geonames": 480089
+        },
+        "long": {
+            "default": "Tuymazy"
+        },
         "lat": 54.60666,
         "lng": 53.7097,
         "country": "RU",
@@ -450,8 +650,12 @@
         "population": 68829
     },
     "480562": {
-        "geoid": "480562",
-        "name": "Tula",
+        "ids": {
+            "geonames": 480562
+        },
+        "long": {
+            "default": "Tula"
+        },
         "lat": 54.19609,
         "lng": 37.61822,
         "country": "RU",
@@ -459,8 +663,12 @@
         "population": 468825
     },
     "480716": {
-        "geoid": "480716",
-        "name": "Tuapse",
+        "ids": {
+            "geonames": 480716
+        },
+        "long": {
+            "default": "Tuapse"
+        },
         "lat": 44.1053,
         "lng": 39.0802,
         "country": "RU",
@@ -468,8 +676,12 @@
         "population": 64234
     },
     "481453": {
-        "geoid": "481453",
-        "name": "Troparëvo",
+        "ids": {
+            "geonames": 481453
+        },
+        "long": {
+            "default": "Troparëvo"
+        },
         "lat": 55.65625,
         "lng": 37.48496,
         "country": "RU",
@@ -477,8 +689,12 @@
         "population": 118000
     },
     "482283": {
-        "geoid": "482283",
-        "name": "Tol’yatti",
+        "ids": {
+            "geonames": 482283
+        },
+        "long": {
+            "default": "Tol’yatti"
+        },
         "lat": 53.5303,
         "lng": 49.3461,
         "country": "RU",
@@ -486,8 +702,12 @@
         "population": 702879
     },
     "482965": {
-        "geoid": "482965",
-        "name": "Timashëvsk",
+        "ids": {
+            "geonames": 482965
+        },
+        "long": {
+            "default": "Timashëvsk"
+        },
         "lat": 45.61694,
         "lng": 38.94528,
         "country": "RU",
@@ -495,8 +715,12 @@
         "population": 53940
     },
     "483019": {
-        "geoid": "483019",
-        "name": "Tikhvin",
+        "ids": {
+            "geonames": 483019
+        },
+        "long": {
+            "default": "Tikhvin"
+        },
         "lat": 59.64511,
         "lng": 33.52937,
         "country": "RU",
@@ -504,8 +728,12 @@
         "population": 62075
     },
     "483029": {
-        "geoid": "483029",
-        "name": "Tikhoretsk",
+        "ids": {
+            "geonames": 483029
+        },
+        "long": {
+            "default": "Tikhoretsk"
+        },
         "lat": 45.85472,
         "lng": 40.12528,
         "country": "RU",
@@ -513,8 +741,12 @@
         "population": 64387
     },
     "483551": {
-        "geoid": "483551",
-        "name": "Tyoply Stan",
+        "ids": {
+            "geonames": 483551
+        },
+        "long": {
+            "default": "Tyoply Stan"
+        },
         "lat": 55.62047,
         "lng": 37.49338,
         "country": "RU",
@@ -522,8 +754,12 @@
         "population": 125000
     },
     "483826": {
-        "geoid": "483826",
-        "name": "Tekstil’shchiki",
+        "ids": {
+            "geonames": 483826
+        },
+        "long": {
+            "default": "Tekstil’shchiki"
+        },
         "lat": 55.70033,
         "lng": 37.74271,
         "country": "RU",
@@ -531,8 +767,12 @@
         "population": 100000
     },
     "484646": {
-        "geoid": "484646",
-        "name": "Tambov",
+        "ids": {
+            "geonames": 484646
+        },
+        "long": {
+            "default": "Tambov"
+        },
         "lat": 52.73169,
         "lng": 41.44326,
         "country": "RU",
@@ -540,8 +780,12 @@
         "population": 290933
     },
     "484907": {
-        "geoid": "484907",
-        "name": "Taganrog",
+        "ids": {
+            "geonames": 484907
+        },
+        "long": {
+            "default": "Taganrog"
+        },
         "lat": 47.23617,
         "lng": 38.89688,
         "country": "RU",
@@ -549,8 +793,12 @@
         "population": 279056
     },
     "484912": {
-        "geoid": "484912",
-        "name": "Taganskiy",
+        "ids": {
+            "geonames": 484912
+        },
+        "long": {
+            "default": "Taganskiy"
+        },
         "lat": 55.73333,
         "lng": 37.66667,
         "country": "RU",
@@ -558,8 +806,12 @@
         "population": 116000
     },
     "484972": {
-        "geoid": "484972",
-        "name": "Syzran’",
+        "ids": {
+            "geonames": 484972
+        },
+        "long": {
+            "default": "Syzran’"
+        },
         "lat": 53.1585,
         "lng": 48.4681,
         "country": "RU",
@@ -567,8 +819,12 @@
         "population": 189338
     },
     "485239": {
-        "geoid": "485239",
-        "name": "Syktyvkar",
+        "ids": {
+            "geonames": 485239
+        },
+        "long": {
+            "default": "Syktyvkar"
+        },
         "lat": 61.67642,
         "lng": 50.80994,
         "country": "RU",
@@ -576,8 +832,12 @@
         "population": 230139
     },
     "485630": {
-        "geoid": "485630",
-        "name": "Sviblovo",
+        "ids": {
+            "geonames": 485630
+        },
+        "long": {
+            "default": "Sviblovo"
+        },
         "lat": 55.85,
         "lng": 37.63333,
         "country": "RU",
@@ -585,8 +845,12 @@
         "population": 60000
     },
     "486968": {
-        "geoid": "486968",
-        "name": "Stupino",
+        "ids": {
+            "geonames": 486968
+        },
+        "long": {
+            "default": "Stupino"
+        },
         "lat": 54.90083,
         "lng": 38.07083,
         "country": "RU",
@@ -594,8 +858,12 @@
         "population": 60999
     },
     "487150": {
-        "geoid": "487150",
-        "name": "Strogino",
+        "ids": {
+            "geonames": 487150
+        },
+        "long": {
+            "default": "Strogino"
+        },
         "lat": 55.81838,
         "lng": 37.41224,
         "country": "RU",
@@ -603,8 +871,12 @@
         "population": 152000
     },
     "487495": {
-        "geoid": "487495",
-        "name": "Sterlitamak",
+        "ids": {
+            "geonames": 487495
+        },
+        "long": {
+            "default": "Sterlitamak"
+        },
         "lat": 53.62462,
         "lng": 55.95015,
         "country": "RU",
@@ -612,8 +884,12 @@
         "population": 267231
     },
     "487846": {
-        "geoid": "487846",
-        "name": "Stavropol’",
+        "ids": {
+            "geonames": 487846
+        },
+        "long": {
+            "default": "Stavropol’"
+        },
         "lat": 45.0428,
         "lng": 41.9734,
         "country": "RU",
@@ -621,8 +897,12 @@
         "population": 363064
     },
     "487928": {
-        "geoid": "487928",
-        "name": "Staryy Oskol",
+        "ids": {
+            "geonames": 487928
+        },
+        "long": {
+            "default": "Staryy Oskol"
+        },
         "lat": 51.29667,
         "lng": 37.84167,
         "country": "RU",
@@ -630,8 +910,12 @@
         "population": 226977
     },
     "490172": {
-        "geoid": "490172",
-        "name": "Sosnovyy Bor",
+        "ids": {
+            "geonames": 490172
+        },
+        "long": {
+            "default": "Sosnovyy Bor"
+        },
         "lat": 59.8996,
         "lng": 29.08574,
         "country": "RU",
@@ -639,8 +923,12 @@
         "population": 68563
     },
     "490971": {
-        "geoid": "490971",
-        "name": "Solntsevo",
+        "ids": {
+            "geonames": 490971
+        },
+        "long": {
+            "default": "Solntsevo"
+        },
         "lat": 55.63711,
         "lng": 37.38115,
         "country": "RU",
@@ -648,8 +936,12 @@
         "population": 120000
     },
     "490996": {
-        "geoid": "490996",
-        "name": "Solnechnogorsk",
+        "ids": {
+            "geonames": 490996
+        },
+        "long": {
+            "default": "Solnechnogorsk"
+        },
         "lat": 56.18333,
         "lng": 36.98333,
         "country": "RU",
@@ -657,8 +949,12 @@
         "population": 58891
     },
     "491023": {
-        "geoid": "491023",
-        "name": "Solikamsk",
+        "ids": {
+            "geonames": 491023
+        },
+        "long": {
+            "default": "Solikamsk"
+        },
         "lat": 59.6316,
         "lng": 56.7685,
         "country": "RU",
@@ -666,8 +962,12 @@
         "population": 100812
     },
     "491250": {
-        "geoid": "491250",
-        "name": "Sokol’niki",
+        "ids": {
+            "geonames": 491250
+        },
+        "long": {
+            "default": "Sokol’niki"
+        },
         "lat": 55.80202,
         "lng": 37.67159,
         "country": "RU",
@@ -675,8 +975,12 @@
         "population": 57000
     },
     "491280": {
-        "geoid": "491280",
-        "name": "Sokol",
+        "ids": {
+            "geonames": 491280
+        },
+        "long": {
+            "default": "Sokol"
+        },
         "lat": 55.8,
         "lng": 37.51667,
         "country": "RU",
@@ -684,8 +988,12 @@
         "population": 57000
     },
     "491422": {
-        "geoid": "491422",
-        "name": "Sochi",
+        "ids": {
+            "geonames": 491422
+        },
+        "long": {
+            "default": "Sochi"
+        },
         "lat": 43.59917,
         "lng": 39.72569,
         "country": "RU",
@@ -693,8 +1001,12 @@
         "population": 327608
     },
     "491687": {
-        "geoid": "491687",
-        "name": "Smolensk",
+        "ids": {
+            "geonames": 491687
+        },
+        "long": {
+            "default": "Smolensk"
+        },
         "lat": 54.7818,
         "lng": 32.0401,
         "country": "RU",
@@ -702,8 +1014,12 @@
         "population": 320991
     },
     "492094": {
-        "geoid": "492094",
-        "name": "Slavyansk-na-Kubani",
+        "ids": {
+            "geonames": 492094
+        },
+        "long": {
+            "default": "Slavyansk-na-Kubani"
+        },
         "lat": 45.2558,
         "lng": 38.1256,
         "country": "RU",
@@ -711,8 +1027,12 @@
         "population": 65196
     },
     "493160": {
-        "geoid": "493160",
-        "name": "Sibay",
+        "ids": {
+            "geonames": 493160
+        },
+        "long": {
+            "default": "Sibay"
+        },
         "lat": 52.71806,
         "lng": 58.66583,
         "country": "RU",
@@ -720,8 +1040,12 @@
         "population": 61590
     },
     "493231": {
-        "geoid": "493231",
-        "name": "Shuya",
+        "ids": {
+            "geonames": 493231
+        },
+        "long": {
+            "default": "Shuya"
+        },
         "lat": 56.84865,
         "lng": 41.38833,
         "country": "RU",
@@ -729,8 +1053,12 @@
         "population": 60705
     },
     "493702": {
-        "geoid": "493702",
-        "name": "Mikhaylovsk",
+        "ids": {
+            "geonames": 493702
+        },
+        "long": {
+            "default": "Mikhaylovsk"
+        },
         "lat": 45.12833,
         "lng": 42.02556,
         "country": "RU",
@@ -738,8 +1066,12 @@
         "population": 59198
     },
     "495136": {
-        "geoid": "495136",
-        "name": "Shchukino",
+        "ids": {
+            "geonames": 495136
+        },
+        "long": {
+            "default": "Shchukino"
+        },
         "lat": 55.8,
         "lng": 37.45,
         "country": "RU",
@@ -747,8 +1079,12 @@
         "population": 102000
     },
     "495344": {
-        "geoid": "495344",
-        "name": "Shchelkovo",
+        "ids": {
+            "geonames": 495344
+        },
+        "long": {
+            "default": "Shchelkovo"
+        },
         "lat": 55.92497,
         "lng": 37.97218,
         "country": "RU",
@@ -756,8 +1092,12 @@
         "population": 113000
     },
     "495394": {
-        "geoid": "495394",
-        "name": "Shchëkino",
+        "ids": {
+            "geonames": 495394
+        },
+        "long": {
+            "default": "Shchëkino"
+        },
         "lat": 54.00513,
         "lng": 37.52194,
         "country": "RU",
@@ -765,8 +1105,12 @@
         "population": 60700
     },
     "496015": {
-        "geoid": "496015",
-        "name": "Shakhty",
+        "ids": {
+            "geonames": 496015
+        },
+        "long": {
+            "default": "Shakhty"
+        },
         "lat": 47.70911,
         "lng": 40.21443,
         "country": "RU",
@@ -774,8 +1118,12 @@
         "population": 221312
     },
     "496278": {
-        "geoid": "496278",
-        "name": "Severomorsk",
+        "ids": {
+            "geonames": 496278
+        },
+        "long": {
+            "default": "Severomorsk"
+        },
         "lat": 69.06889,
         "lng": 33.41622,
         "country": "RU",
@@ -783,8 +1131,12 @@
         "population": 53921
     },
     "496285": {
-        "geoid": "496285",
-        "name": "Severodvinsk",
+        "ids": {
+            "geonames": 496285
+        },
+        "long": {
+            "default": "Severodvinsk"
+        },
         "lat": 64.5635,
         "lng": 39.8302,
         "country": "RU",
@@ -792,8 +1144,12 @@
         "population": 194292
     },
     "496348": {
-        "geoid": "496348",
-        "name": "Severnyy",
+        "ids": {
+            "geonames": 496348
+        },
+        "long": {
+            "default": "Severnyy"
+        },
         "lat": 55.93583,
         "lng": 37.54889,
         "country": "RU",
@@ -801,8 +1157,12 @@
         "population": 200000
     },
     "496527": {
-        "geoid": "496527",
-        "name": "Serpukhov",
+        "ids": {
+            "geonames": 496527
+        },
+        "long": {
+            "default": "Serpukhov"
+        },
         "lat": 54.91578,
         "lng": 37.41114,
         "country": "RU",
@@ -810,8 +1170,12 @@
         "population": 128158
     },
     "496638": {
-        "geoid": "496638",
-        "name": "Sergiyev Posad",
+        "ids": {
+            "geonames": 496638
+        },
+        "long": {
+            "default": "Sergiyev Posad"
+        },
         "lat": 56.3,
         "lng": 38.13333,
         "country": "RU",
@@ -819,8 +1183,12 @@
         "population": 109252
     },
     "498525": {
-        "geoid": "498525",
-        "name": "Sarov",
+        "ids": {
+            "geonames": 498525
+        },
+        "long": {
+            "default": "Sarov"
+        },
         "lat": 54.93583,
         "lng": 43.32352,
         "country": "RU",
@@ -828,8 +1196,12 @@
         "population": 88000
     },
     "498677": {
-        "geoid": "498677",
-        "name": "Saratov",
+        "ids": {
+            "geonames": 498677
+        },
+        "long": {
+            "default": "Saratov"
+        },
         "lat": 51.54056,
         "lng": 46.00861,
         "country": "RU",
@@ -837,8 +1209,12 @@
         "population": 863725
     },
     "498687": {
-        "geoid": "498687",
-        "name": "Sarapul",
+        "ids": {
+            "geonames": 498687
+        },
+        "long": {
+            "default": "Sarapul"
+        },
         "lat": 56.47633,
         "lng": 53.79782,
         "country": "RU",
@@ -846,8 +1222,12 @@
         "population": 98830
     },
     "498698": {
-        "geoid": "498698",
-        "name": "Saransk",
+        "ids": {
+            "geonames": 498698
+        },
+        "long": {
+            "default": "Saransk"
+        },
         "lat": 54.1838,
         "lng": 45.1749,
         "country": "RU",
@@ -855,8 +1235,12 @@
         "population": 303394
     },
     "498817": {
-        "geoid": "498817",
-        "name": "Saint Petersburg",
+        "ids": {
+            "geonames": 498817
+        },
+        "long": {
+            "default": "Saint Petersburg"
+        },
         "lat": 59.93863,
         "lng": 30.31413,
         "country": "RU",
@@ -864,8 +1248,12 @@
         "population": 5028000
     },
     "499099": {
-        "geoid": "499099",
-        "name": "Samara",
+        "ids": {
+            "geonames": 499099
+        },
+        "long": {
+            "default": "Samara"
+        },
         "lat": 53.20007,
         "lng": 50.15,
         "country": "RU",
@@ -873,8 +1261,12 @@
         "population": 1134730
     },
     "499161": {
-        "geoid": "499161",
-        "name": "Sal’sk",
+        "ids": {
+            "geonames": 499161
+        },
+        "long": {
+            "default": "Sal’sk"
+        },
         "lat": 46.4747,
         "lng": 41.54114,
         "country": "RU",
@@ -882,8 +1274,12 @@
         "population": 61000
     },
     "499292": {
-        "geoid": "499292",
-        "name": "Salavat",
+        "ids": {
+            "geonames": 499292
+        },
+        "long": {
+            "default": "Salavat"
+        },
         "lat": 53.38365,
         "lng": 55.90773,
         "country": "RU",
@@ -891,8 +1287,12 @@
         "population": 159893
     },
     "499717": {
-        "geoid": "499717",
-        "name": "Rzhev",
+        "ids": {
+            "geonames": 499717
+        },
+        "long": {
+            "default": "Rzhev"
+        },
         "lat": 56.26241,
         "lng": 34.32817,
         "country": "RU",
@@ -900,8 +1300,12 @@
         "population": 62246
     },
     "500004": {
-        "geoid": "500004",
-        "name": "Rybinsk",
+        "ids": {
+            "geonames": 500004
+        },
+        "long": {
+            "default": "Rybinsk"
+        },
         "lat": 58.0446,
         "lng": 38.84259,
         "country": "RU",
@@ -909,8 +1313,12 @@
         "population": 216724
     },
     "500019": {
-        "geoid": "500019",
-        "name": "Rybatskoye",
+        "ids": {
+            "geonames": 500019
+        },
+        "long": {
+            "default": "Rybatskoye"
+        },
         "lat": 59.8393,
         "lng": 30.49873,
         "country": "RU",
@@ -918,8 +1326,12 @@
         "population": 55076
     },
     "500096": {
-        "geoid": "500096",
-        "name": "Ryazan’",
+        "ids": {
+            "geonames": 500096
+        },
+        "long": {
+            "default": "Ryazan’"
+        },
         "lat": 54.6269,
         "lng": 39.6916,
         "country": "RU",
@@ -927,8 +1339,12 @@
         "population": 520173
     },
     "501175": {
-        "geoid": "501175",
-        "name": "Rostov-na-Donu",
+        "ids": {
+            "geonames": 501175
+        },
+        "long": {
+            "default": "Rostov-na-Donu"
+        },
         "lat": 47.23135,
         "lng": 39.72328,
         "country": "RU",
@@ -936,8 +1352,12 @@
         "population": 1074482
     },
     "501215": {
-        "geoid": "501215",
-        "name": "Rossosh’",
+        "ids": {
+            "geonames": 501215
+        },
+        "long": {
+            "default": "Rossosh’"
+        },
         "lat": 51.1209,
         "lng": 38.5116,
         "country": "RU",
@@ -945,8 +1365,12 @@
         "population": 64323
     },
     "501231": {
-        "geoid": "501231",
-        "name": "Rossosh’",
+        "ids": {
+            "geonames": 501231
+        },
+        "long": {
+            "default": "Rossosh’"
+        },
         "lat": 50.19828,
         "lng": 39.56726,
         "country": "RU",
@@ -954,8 +1378,12 @@
         "population": 62000
     },
     "501283": {
-        "geoid": "501283",
-        "name": "Roslavl’",
+        "ids": {
+            "geonames": 501283
+        },
+        "long": {
+            "default": "Roslavl’"
+        },
         "lat": 53.95278,
         "lng": 32.86389,
         "country": "RU",
@@ -963,8 +1391,12 @@
         "population": 56971
     },
     "502011": {
-        "geoid": "502011",
-        "name": "Revda",
+        "ids": {
+            "geonames": 502011
+        },
+        "long": {
+            "default": "Revda"
+        },
         "lat": 56.80097,
         "lng": 59.93028,
         "country": "RU",
@@ -972,8 +1404,12 @@
         "population": 61785
     },
     "502018": {
-        "geoid": "502018",
-        "name": "Reutov",
+        "ids": {
+            "geonames": 502018
+        },
+        "long": {
+            "default": "Reutov"
+        },
         "lat": 55.76111,
         "lng": 37.8575,
         "country": "RU",
@@ -981,8 +1417,12 @@
         "population": 78370
     },
     "502971": {
-        "geoid": "502971",
-        "name": "Ramenki",
+        "ids": {
+            "geonames": 502971
+        },
+        "long": {
+            "default": "Ramenki"
+        },
         "lat": 55.7,
         "lng": 37.5,
         "country": "RU",
@@ -990,8 +1430,12 @@
         "population": 130000
     },
     "503550": {
-        "geoid": "503550",
-        "name": "Pyatigorsk",
+        "ids": {
+            "geonames": 503550
+        },
+        "long": {
+            "default": "Pyatigorsk"
+        },
         "lat": 44.04861,
         "lng": 43.05944,
         "country": "RU",
@@ -999,8 +1443,12 @@
         "population": 142865
     },
     "503977": {
-        "geoid": "503977",
-        "name": "Pushkino",
+        "ids": {
+            "geonames": 503977
+        },
+        "long": {
+            "default": "Pushkino"
+        },
         "lat": 56.01722,
         "lng": 37.86667,
         "country": "RU",
@@ -1008,8 +1456,12 @@
         "population": 102816
     },
     "504003": {
-        "geoid": "504003",
-        "name": "Pushkin",
+        "ids": {
+            "geonames": 504003
+        },
+        "long": {
+            "default": "Pushkin"
+        },
         "lat": 59.71417,
         "lng": 30.39642,
         "country": "RU",
@@ -1017,8 +1469,12 @@
         "population": 92889
     },
     "504341": {
-        "geoid": "504341",
-        "name": "Pskov",
+        "ids": {
+            "geonames": 504341
+        },
+        "long": {
+            "default": "Pskov"
+        },
         "lat": 57.8136,
         "lng": 28.3496,
         "country": "RU",
@@ -1026,8 +1482,12 @@
         "population": 201990
     },
     "504935": {
-        "geoid": "504935",
-        "name": "Prokhladnyy",
+        "ids": {
+            "geonames": 504935
+        },
+        "long": {
+            "default": "Prokhladnyy"
+        },
         "lat": 43.75741,
         "lng": 44.0297,
         "country": "RU",
@@ -1035,8 +1495,12 @@
         "population": 60800
     },
     "506043": {
-        "geoid": "506043",
-        "name": "Kotlovka",
+        "ids": {
+            "geonames": 506043
+        },
+        "long": {
+            "default": "Kotlovka"
+        },
         "lat": 55.65928,
         "lng": 37.60404,
         "country": "RU",
@@ -1044,8 +1508,12 @@
         "population": 64000
     },
     "507338": {
-        "geoid": "507338",
-        "name": "Pokrovskoye-Streshnëvo",
+        "ids": {
+            "geonames": 507338
+        },
+        "long": {
+            "default": "Pokrovskoye-Streshnëvo"
+        },
         "lat": 55.80797,
         "lng": 37.45814,
         "country": "RU",
@@ -1053,8 +1521,12 @@
         "population": 55000
     },
     "508101": {
-        "geoid": "508101",
-        "name": "Podol’sk",
+        "ids": {
+            "geonames": 508101
+        },
+        "long": {
+            "default": "Podol’sk"
+        },
         "lat": 55.42419,
         "lng": 37.55472,
         "country": "RU",
@@ -1062,8 +1534,12 @@
         "population": 179400
     },
     "508751": {
-        "geoid": "508751",
-        "name": "Ryazanskiy",
+        "ids": {
+            "geonames": 508751
+        },
+        "long": {
+            "default": "Ryazanskiy"
+        },
         "lat": 55.73333,
         "lng": 37.76667,
         "country": "RU",
@@ -1071,8 +1547,12 @@
         "population": 101000
     },
     "509820": {
-        "geoid": "509820",
-        "name": "Petrozavodsk",
+        "ids": {
+            "geonames": 509820
+        },
+        "long": {
+            "default": "Petrozavodsk"
+        },
         "lat": 61.78491,
         "lng": 34.34691,
         "country": "RU",
@@ -1080,8 +1560,12 @@
         "population": 265025
     },
     "510225": {
-        "geoid": "510225",
-        "name": "Petrodvorets",
+        "ids": {
+            "geonames": 510225
+        },
+        "long": {
+            "default": "Petrodvorets"
+        },
         "lat": 59.89565,
         "lng": 29.80145,
         "country": "RU",
@@ -1089,8 +1573,12 @@
         "population": 61973
     },
     "510291": {
-        "geoid": "510291",
-        "name": "Peterhof",
+        "ids": {
+            "geonames": 510291
+        },
+        "long": {
+            "default": "Peterhof"
+        },
         "lat": 59.88333,
         "lng": 29.9,
         "country": "RU",
@@ -1098,8 +1586,12 @@
         "population": 73199
     },
     "510808": {
-        "geoid": "510808",
-        "name": "Pervoural’sk",
+        "ids": {
+            "geonames": 510808
+        },
+        "long": {
+            "default": "Pervoural’sk"
+        },
         "lat": 56.90528,
         "lng": 59.94361,
         "country": "RU",
@@ -1107,8 +1599,12 @@
         "population": 133600
     },
     "511196": {
-        "geoid": "511196",
-        "name": "Perm",
+        "ids": {
+            "geonames": 511196
+        },
+        "long": {
+            "default": "Perm"
+        },
         "lat": 58.01046,
         "lng": 56.25017,
         "country": "RU",
@@ -1116,8 +1612,12 @@
         "population": 982419
     },
     "511510": {
-        "geoid": "511510",
-        "name": "Novo-Peredelkino",
+        "ids": {
+            "geonames": 511510
+        },
+        "long": {
+            "default": "Novo-Peredelkino"
+        },
         "lat": 55.64528,
         "lng": 37.33583,
         "country": "RU",
@@ -1125,8 +1625,12 @@
         "population": 115536
     },
     "511565": {
-        "geoid": "511565",
-        "name": "Penza",
+        "ids": {
+            "geonames": 511565
+        },
+        "long": {
+            "default": "Penza"
+        },
         "lat": 53.20066,
         "lng": 45.00464,
         "country": "RU",
@@ -1134,8 +1638,12 @@
         "population": 512602
     },
     "512023": {
-        "geoid": "512023",
-        "name": "Pavlovskiy Posad",
+        "ids": {
+            "geonames": 512023
+        },
+        "long": {
+            "default": "Pavlovskiy Posad"
+        },
         "lat": 55.78187,
         "lng": 38.65025,
         "country": "RU",
@@ -1143,8 +1651,12 @@
         "population": 60051
     },
     "513471": {
-        "geoid": "513471",
-        "name": "Ozerki",
+        "ids": {
+            "geonames": 513471
+        },
+        "long": {
+            "default": "Ozerki"
+        },
         "lat": 60.03947,
         "lng": 30.31128,
         "country": "RU",
@@ -1152,8 +1664,12 @@
         "population": 95000
     },
     "513883": {
-        "geoid": "513883",
-        "name": "Otradnyy",
+        "ids": {
+            "geonames": 513883
+        },
+        "long": {
+            "default": "Otradnyy"
+        },
         "lat": 53.37596,
         "lng": 51.3452,
         "country": "RU",
@@ -1161,8 +1677,12 @@
         "population": 50127
     },
     "514284": {
-        "geoid": "514284",
-        "name": "Ostankinskiy",
+        "ids": {
+            "geonames": 514284
+        },
+        "long": {
+            "default": "Ostankinskiy"
+        },
         "lat": 55.82957,
         "lng": 37.61604,
         "country": "RU",
@@ -1170,8 +1690,12 @@
         "population": 60000
     },
     "514734": {
-        "geoid": "514734",
-        "name": "Orsk",
+        "ids": {
+            "geonames": 514734
+        },
+        "long": {
+            "default": "Orsk"
+        },
         "lat": 51.20487,
         "lng": 58.56685,
         "country": "RU",
@@ -1179,8 +1703,12 @@
         "population": 246836
     },
     "515003": {
-        "geoid": "515003",
-        "name": "Orenburg",
+        "ids": {
+            "geonames": 515003
+        },
+        "long": {
+            "default": "Orenburg"
+        },
         "lat": 51.7727,
         "lng": 55.0988,
         "country": "RU",
@@ -1188,8 +1716,12 @@
         "population": 550204
     },
     "515012": {
-        "geoid": "515012",
-        "name": "Orël",
+        "ids": {
+            "geonames": 515012
+        },
+        "long": {
+            "default": "Orël"
+        },
         "lat": 52.96508,
         "lng": 36.07849,
         "country": "RU",
@@ -1197,8 +1729,12 @@
         "population": 324200
     },
     "515024": {
-        "geoid": "515024",
-        "name": "Orekhovo-Zuyevo",
+        "ids": {
+            "geonames": 515024
+        },
+        "long": {
+            "default": "Orekhovo-Zuyevo"
+        },
         "lat": 55.80672,
         "lng": 38.96178,
         "country": "RU",
@@ -1206,8 +1742,12 @@
         "population": 120000
     },
     "515027": {
-        "geoid": "515027",
-        "name": "Orekhovo-Borisovo Severnoye",
+        "ids": {
+            "geonames": 515027
+        },
+        "long": {
+            "default": "Orekhovo-Borisovo Severnoye"
+        },
         "lat": 55.61667,
         "lng": 37.68333,
         "country": "RU",
@@ -1215,8 +1755,12 @@
         "population": 128000
     },
     "515083": {
-        "geoid": "515083",
-        "name": "Ordzhonikidzevskaya",
+        "ids": {
+            "geonames": 515083
+        },
+        "long": {
+            "default": "Ordzhonikidzevskaya"
+        },
         "lat": 43.3195,
         "lng": 45.04911,
         "country": "RU",
@@ -1224,8 +1768,12 @@
         "population": 71841
     },
     "515879": {
-        "geoid": "515879",
-        "name": "Oktyabr’skiy",
+        "ids": {
+            "geonames": 515879
+        },
+        "long": {
+            "default": "Oktyabr’skiy"
+        },
         "lat": 54.48147,
         "lng": 53.47103,
         "country": "RU",
@@ -1233,8 +1781,12 @@
         "population": 108200
     },
     "516215": {
-        "geoid": "516215",
-        "name": "Odintsovo",
+        "ids": {
+            "geonames": 516215
+        },
+        "long": {
+            "default": "Odintsovo"
+        },
         "lat": 55.67798,
         "lng": 37.27773,
         "country": "RU",
@@ -1242,8 +1794,12 @@
         "population": 137041
     },
     "516264": {
-        "geoid": "516264",
-        "name": "Ochakovo-Matveyevskoye",
+        "ids": {
+            "geonames": 516264
+        },
+        "long": {
+            "default": "Ochakovo-Matveyevskoye"
+        },
         "lat": 55.68432,
         "lng": 37.44654,
         "country": "RU",
@@ -1251,8 +1807,12 @@
         "population": 114000
     },
     "516436": {
-        "geoid": "516436",
-        "name": "Obninsk",
+        "ids": {
+            "geonames": 516436
+        },
+        "long": {
+            "default": "Obninsk"
+        },
         "lat": 55.09681,
         "lng": 36.61006,
         "country": "RU",
@@ -1260,8 +1820,12 @@
         "population": 107392
     },
     "517121": {
-        "geoid": "517121",
-        "name": "Novyye Kuz’minki",
+        "ids": {
+            "geonames": 517121
+        },
+        "long": {
+            "default": "Novyye Kuz’minki"
+        },
         "lat": 55.7,
         "lng": 37.75,
         "country": "RU",
@@ -1269,8 +1833,12 @@
         "population": 143000
     },
     "517161": {
-        "geoid": "517161",
-        "name": "Novyye Cherëmushki",
+        "ids": {
+            "geonames": 517161
+        },
+        "long": {
+            "default": "Novyye Cherëmushki"
+        },
         "lat": 55.7,
         "lng": 37.58333,
         "country": "RU",
@@ -1278,8 +1846,12 @@
         "population": 101000
     },
     "517836": {
-        "geoid": "517836",
-        "name": "Novotroitsk",
+        "ids": {
+            "geonames": 517836
+        },
+        "long": {
+            "default": "Novotroitsk"
+        },
         "lat": 51.20301,
         "lng": 58.32665,
         "country": "RU",
@@ -1287,8 +1859,12 @@
         "population": 106186
     },
     "517963": {
-        "geoid": "517963",
-        "name": "Novoshakhtinsk",
+        "ids": {
+            "geonames": 517963
+        },
+        "long": {
+            "default": "Novoshakhtinsk"
+        },
         "lat": 47.76037,
         "lng": 39.93335,
         "country": "RU",
@@ -1296,8 +1872,12 @@
         "population": 99478
     },
     "518255": {
-        "geoid": "518255",
-        "name": "Novorossiysk",
+        "ids": {
+            "geonames": 518255
+        },
+        "long": {
+            "default": "Novorossiysk"
+        },
         "lat": 44.72439,
         "lng": 37.76752,
         "country": "RU",
@@ -1305,8 +1885,12 @@
         "population": 241856
     },
     "518557": {
-        "geoid": "518557",
-        "name": "Novomoskovsk",
+        "ids": {
+            "geonames": 518557
+        },
+        "long": {
+            "default": "Novomoskovsk"
+        },
         "lat": 54.0105,
         "lng": 38.2846,
         "country": "RU",
@@ -1314,8 +1898,12 @@
         "population": 130982
     },
     "518659": {
-        "geoid": "518659",
-        "name": "Novokuybyshevsk",
+        "ids": {
+            "geonames": 518659
+        },
+        "long": {
+            "default": "Novokuybyshevsk"
+        },
         "lat": 53.0959,
         "lng": 49.9462,
         "country": "RU",
@@ -1323,8 +1911,12 @@
         "population": 111800
     },
     "518879": {
-        "geoid": "518879",
-        "name": "Novogireyevo",
+        "ids": {
+            "geonames": 518879
+        },
+        "long": {
+            "default": "Novogireyevo"
+        },
         "lat": 55.75378,
         "lng": 37.81885,
         "country": "RU",
@@ -1332,8 +1924,12 @@
         "population": 95000
     },
     "518970": {
-        "geoid": "518970",
-        "name": "Novocherkassk",
+        "ids": {
+            "geonames": 518970
+        },
+        "long": {
+            "default": "Novocherkassk"
+        },
         "lat": 47.42018,
         "lng": 40.09132,
         "country": "RU",
@@ -1341,8 +1937,12 @@
         "population": 166974
     },
     "518976": {
-        "geoid": "518976",
-        "name": "Novocheboksarsk",
+        "ids": {
+            "geonames": 518976
+        },
+        "long": {
+            "default": "Novocheboksarsk"
+        },
         "lat": 56.11095,
         "lng": 47.47755,
         "country": "RU",
@@ -1350,8 +1950,12 @@
         "population": 128468
     },
     "519336": {
-        "geoid": "519336",
-        "name": "Velikiy Novgorod",
+        "ids": {
+            "geonames": 519336
+        },
+        "long": {
+            "default": "Velikiy Novgorod"
+        },
         "lat": 58.52131,
         "lng": 31.27104,
         "country": "RU",
@@ -1359,8 +1963,12 @@
         "population": 215062
     },
     "520068": {
-        "geoid": "520068",
-        "name": "Noginsk",
+        "ids": {
+            "geonames": 520068
+        },
+        "long": {
+            "default": "Noginsk"
+        },
         "lat": 55.86647,
         "lng": 38.4438,
         "country": "RU",
@@ -1368,8 +1976,12 @@
         "population": 115979
     },
     "520494": {
-        "geoid": "520494",
-        "name": "Nizhniy Tagil",
+        "ids": {
+            "geonames": 520494
+        },
+        "long": {
+            "default": "Nizhniy Tagil"
+        },
         "lat": 57.91944,
         "lng": 59.965,
         "country": "RU",
@@ -1377,8 +1989,12 @@
         "population": 381116
     },
     "520555": {
-        "geoid": "520555",
-        "name": "Nizhniy Novgorod",
+        "ids": {
+            "geonames": 520555
+        },
+        "long": {
+            "default": "Nizhniy Novgorod"
+        },
         "lat": 56.32867,
         "lng": 44.00205,
         "country": "RU",
@@ -1386,8 +2002,12 @@
         "population": 1284164
     },
     "521118": {
-        "geoid": "521118",
-        "name": "Nizhnekamsk",
+        "ids": {
+            "geonames": 521118
+        },
+        "long": {
+            "default": "Nizhnekamsk"
+        },
         "lat": 55.63657,
         "lng": 51.82447,
         "country": "RU",
@@ -1395,8 +2015,12 @@
         "population": 234297
     },
     "522377": {
-        "geoid": "522377",
-        "name": "Nevinnomyssk",
+        "ids": {
+            "geonames": 522377
+        },
+        "long": {
+            "default": "Nevinnomyssk"
+        },
         "lat": 44.6333,
         "lng": 41.9444,
         "country": "RU",
@@ -1404,8 +2028,12 @@
         "population": 134345
     },
     "522942": {
-        "geoid": "522942",
-        "name": "Neftekamsk",
+        "ids": {
+            "geonames": 522942
+        },
+        "long": {
+            "default": "Neftekamsk"
+        },
         "lat": 56.092,
         "lng": 54.2661,
         "country": "RU",
@@ -1413,8 +2041,12 @@
         "population": 126805
     },
     "523064": {
-        "geoid": "523064",
-        "name": "Nazran’",
+        "ids": {
+            "geonames": 523064
+        },
+        "long": {
+            "default": "Nazran’"
+        },
         "lat": 43.22597,
         "lng": 44.77323,
         "country": "RU",
@@ -1422,8 +2054,12 @@
         "population": 164131
     },
     "523426": {
-        "geoid": "523426",
-        "name": "Naro-Fominsk",
+        "ids": {
+            "geonames": 523426
+        },
+        "long": {
+            "default": "Naro-Fominsk"
+        },
         "lat": 55.38752,
         "lng": 36.73307,
         "country": "RU",
@@ -1431,8 +2067,12 @@
         "population": 72632
     },
     "523523": {
-        "geoid": "523523",
-        "name": "Nal’chik",
+        "ids": {
+            "geonames": 523523
+        },
+        "long": {
+            "default": "Nal’chik"
+        },
         "lat": 43.49806,
         "lng": 43.61889,
         "country": "RU",
@@ -1440,8 +2080,12 @@
         "population": 272800
     },
     "523750": {
-        "geoid": "523750",
-        "name": "Naberezhnyye Chelny",
+        "ids": {
+            "geonames": 523750
+        },
+        "long": {
+            "default": "Naberezhnyye Chelny"
+        },
         "lat": 55.72545,
         "lng": 52.41122,
         "country": "RU",
@@ -1449,8 +2093,12 @@
         "population": 509870
     },
     "523812": {
-        "geoid": "523812",
-        "name": "Mytishchi",
+        "ids": {
+            "geonames": 523812
+        },
+        "long": {
+            "default": "Mytishchi"
+        },
         "lat": 55.91163,
         "lng": 37.73076,
         "country": "RU",
@@ -1458,8 +2106,12 @@
         "population": 160542
     },
     "524294": {
-        "geoid": "524294",
-        "name": "Murom",
+        "ids": {
+            "geonames": 524294
+        },
+        "long": {
+            "default": "Murom"
+        },
         "lat": 55.575,
         "lng": 42.0426,
         "country": "RU",
@@ -1467,8 +2119,12 @@
         "population": 126931
     },
     "524305": {
-        "geoid": "524305",
-        "name": "Murmansk",
+        "ids": {
+            "geonames": 524305
+        },
+        "long": {
+            "default": "Murmansk"
+        },
         "lat": 68.97917,
         "lng": 33.09251,
         "country": "RU",
@@ -1476,8 +2132,12 @@
         "population": 319263
     },
     "524901": {
-        "geoid": "524901",
-        "name": "Moscow",
+        "ids": {
+            "geonames": 524901
+        },
+        "long": {
+            "default": "Moscow"
+        },
         "lat": 55.75222,
         "lng": 37.61556,
         "country": "RU",
@@ -1485,8 +2145,12 @@
         "population": 10381222
     },
     "526480": {
-        "geoid": "526480",
-        "name": "Mineralnye Vody",
+        "ids": {
+            "geonames": 526480
+        },
+        "long": {
+            "default": "Mineralnye Vody"
+        },
         "lat": 44.21028,
         "lng": 43.13528,
         "country": "RU",
@@ -1494,8 +2158,12 @@
         "population": 76280
     },
     "527012": {
-        "geoid": "527012",
-        "name": "Mikhaylovka",
+        "ids": {
+            "geonames": 527012
+        },
+        "long": {
+            "default": "Mikhaylovka"
+        },
         "lat": 50.06,
         "lng": 43.2379,
         "country": "RU",
@@ -1503,8 +2171,12 @@
         "population": 58898
     },
     "527191": {
-        "geoid": "527191",
-        "name": "Michurinsk",
+        "ids": {
+            "geonames": 527191
+        },
+        "long": {
+            "default": "Michurinsk"
+        },
         "lat": 52.8978,
         "lng": 40.4907,
         "country": "RU",
@@ -1512,8 +2184,12 @@
         "population": 93499
     },
     "527717": {
-        "geoid": "527717",
-        "name": "Meleuz",
+        "ids": {
+            "geonames": 527717
+        },
+        "long": {
+            "default": "Meleuz"
+        },
         "lat": 52.96467,
         "lng": 55.93277,
         "country": "RU",
@@ -1521,8 +2197,12 @@
         "population": 65362
     },
     "528293": {
-        "geoid": "528293",
-        "name": "Maykop",
+        "ids": {
+            "geonames": 528293
+        },
+        "long": {
+            "default": "Maykop"
+        },
         "lat": 44.60778,
         "lng": 40.10583,
         "country": "RU",
@@ -1530,8 +2210,12 @@
         "population": 158451
     },
     "529237": {
-        "geoid": "529237",
-        "name": "Mar’ino",
+        "ids": {
+            "geonames": 529237
+        },
+        "long": {
+            "default": "Mar’ino"
+        },
         "lat": 55.65,
         "lng": 37.71667,
         "country": "RU",
@@ -1539,8 +2223,12 @@
         "population": 243000
     },
     "529334": {
-        "geoid": "529334",
-        "name": "Mar’ina Roshcha",
+        "ids": {
+            "geonames": 529334
+        },
+        "long": {
+            "default": "Mar’ina Roshcha"
+        },
         "lat": 55.8,
         "lng": 37.61667,
         "country": "RU",
@@ -1548,8 +2236,12 @@
         "population": 66000
     },
     "530088": {
-        "geoid": "530088",
-        "name": "Yaroslavskiy",
+        "ids": {
+            "geonames": 530088
+        },
+        "long": {
+            "default": "Yaroslavskiy"
+        },
         "lat": 55.88333,
         "lng": 37.71667,
         "country": "RU",
@@ -1557,8 +2249,12 @@
         "population": 91000
     },
     "532096": {
-        "geoid": "532096",
-        "name": "Makhachkala",
+        "ids": {
+            "geonames": 532096
+        },
+        "long": {
+            "default": "Makhachkala"
+        },
         "lat": 42.97638,
         "lng": 47.50236,
         "country": "RU",
@@ -1566,8 +2262,12 @@
         "population": 497959
     },
     "532288": {
-        "geoid": "532288",
-        "name": "Magnitogorsk",
+        "ids": {
+            "geonames": 532288
+        },
+        "long": {
+            "default": "Magnitogorsk"
+        },
         "lat": 53.41861,
         "lng": 59.04722,
         "country": "RU",
@@ -1575,8 +2275,12 @@
         "population": 413351
     },
     "532535": {
-        "geoid": "532535",
-        "name": "Lyublino",
+        "ids": {
+            "geonames": 532535
+        },
+        "long": {
+            "default": "Lyublino"
+        },
         "lat": 55.67923,
         "lng": 37.7525,
         "country": "RU",
@@ -1584,8 +2288,12 @@
         "population": 172000
     },
     "532615": {
-        "geoid": "532615",
-        "name": "Lyubertsy",
+        "ids": {
+            "geonames": 532615
+        },
+        "long": {
+            "default": "Lyubertsy"
+        },
         "lat": 55.67719,
         "lng": 37.89322,
         "country": "RU",
@@ -1593,8 +2301,12 @@
         "population": 154650
     },
     "532657": {
-        "geoid": "532657",
-        "name": "Lytkarino",
+        "ids": {
+            "geonames": 532657
+        },
+        "long": {
+            "default": "Lytkarino"
+        },
         "lat": 55.58271,
         "lng": 37.90516,
         "country": "RU",
@@ -1602,8 +2314,12 @@
         "population": 50619
     },
     "532675": {
-        "geoid": "532675",
-        "name": "Lys’va",
+        "ids": {
+            "geonames": 532675
+        },
+        "long": {
+            "default": "Lys’va"
+        },
         "lat": 58.10861,
         "lng": 57.80528,
         "country": "RU",
@@ -1611,8 +2327,12 @@
         "population": 68660
     },
     "534595": {
-        "geoid": "534595",
-        "name": "Lobnya",
+        "ids": {
+            "geonames": 534595
+        },
+        "long": {
+            "default": "Lobnya"
+        },
         "lat": 56.00972,
         "lng": 37.48194,
         "country": "RU",
@@ -1620,8 +2340,12 @@
         "population": 61772
     },
     "534701": {
-        "geoid": "534701",
-        "name": "Livny",
+        "ids": {
+            "geonames": 534701
+        },
+        "long": {
+            "default": "Livny"
+        },
         "lat": 52.42534,
         "lng": 37.60689,
         "country": "RU",
@@ -1629,8 +2353,12 @@
         "population": 52915
     },
     "534838": {
-        "geoid": "534838",
-        "name": "Liski",
+        "ids": {
+            "geonames": 534838
+        },
+        "long": {
+            "default": "Liski"
+        },
         "lat": 50.98405,
         "lng": 39.51545,
         "country": "RU",
@@ -1638,8 +2366,12 @@
         "population": 55939
     },
     "535121": {
-        "geoid": "535121",
-        "name": "Lipetsk",
+        "ids": {
+            "geonames": 535121
+        },
+        "long": {
+            "default": "Lipetsk"
+        },
         "lat": 52.60311,
         "lng": 39.57076,
         "country": "RU",
@@ -1647,8 +2379,12 @@
         "population": 515655
     },
     "535330": {
-        "geoid": "535330",
-        "name": "Lianozovo",
+        "ids": {
+            "geonames": 535330
+        },
+        "long": {
+            "default": "Lianozovo"
+        },
         "lat": 55.89783,
         "lng": 37.5868,
         "country": "RU",
@@ -1656,8 +2392,12 @@
         "population": 86000
     },
     "535729": {
-        "geoid": "535729",
-        "name": "Komendantsky aerodrom",
+        "ids": {
+            "geonames": 535729
+        },
+        "long": {
+            "default": "Komendantsky aerodrom"
+        },
         "lat": 60.00448,
         "lng": 30.27523,
         "country": "RU",
@@ -1665,8 +2405,12 @@
         "population": 84052
     },
     "536162": {
-        "geoid": "536162",
-        "name": "Leninogorsk",
+        "ids": {
+            "geonames": 536162
+        },
+        "long": {
+            "default": "Leninogorsk"
+        },
         "lat": 54.60256,
         "lng": 52.46087,
         "country": "RU",
@@ -1674,8 +2418,12 @@
         "population": 66263
     },
     "536164": {
-        "geoid": "536164",
-        "name": "Tsaritsyno",
+        "ids": {
+            "geonames": 536164
+        },
+        "long": {
+            "default": "Tsaritsyno"
+        },
         "lat": 55.6254,
         "lng": 37.65032,
         "country": "RU",
@@ -1683,8 +2431,12 @@
         "population": 123000
     },
     "536398": {
-        "geoid": "536398",
-        "name": "Lefortovo",
+        "ids": {
+            "geonames": 536398
+        },
+        "long": {
+            "default": "Lefortovo"
+        },
         "lat": 55.76667,
         "lng": 37.7,
         "country": "RU",
@@ -1692,8 +2444,12 @@
         "population": 91000
     },
     "537281": {
-        "geoid": "537281",
-        "name": "Labinsk",
+        "ids": {
+            "geonames": 537281
+        },
+        "long": {
+            "default": "Labinsk"
+        },
         "lat": 44.63417,
         "lng": 40.73556,
         "country": "RU",
@@ -1701,8 +2457,12 @@
         "population": 61945
     },
     "537737": {
-        "geoid": "537737",
-        "name": "Kuznetsk",
+        "ids": {
+            "geonames": 537737
+        },
+        "long": {
+            "default": "Kuznetsk"
+        },
         "lat": 53.11675,
         "lng": 46.60037,
         "country": "RU",
@@ -1710,8 +2470,12 @@
         "population": 90480
     },
     "537832": {
-        "geoid": "537832",
-        "name": "Kuz’minki",
+        "ids": {
+            "geonames": 537832
+        },
+        "long": {
+            "default": "Kuz’minki"
+        },
         "lat": 55.7,
         "lng": 37.8,
         "country": "RU",
@@ -1719,8 +2483,12 @@
         "population": 143000
     },
     "538560": {
-        "geoid": "538560",
-        "name": "Kursk",
+        "ids": {
+            "geonames": 538560
+        },
+        "long": {
+            "default": "Kursk"
+        },
         "lat": 51.73733,
         "lng": 36.18735,
         "country": "RU",
@@ -1728,8 +2496,12 @@
         "population": 409431
     },
     "539061": {
-        "geoid": "539061",
-        "name": "Kupchino",
+        "ids": {
+            "geonames": 539061
+        },
+        "long": {
+            "default": "Kupchino"
+        },
         "lat": 59.85278,
         "lng": 30.35667,
         "country": "RU",
@@ -1737,8 +2509,12 @@
         "population": 54198
     },
     "539147": {
-        "geoid": "539147",
-        "name": "Kungur",
+        "ids": {
+            "geonames": 539147
+        },
+        "long": {
+            "default": "Kungur"
+        },
         "lat": 57.4368,
         "lng": 56.9593,
         "country": "RU",
@@ -1746,8 +2522,12 @@
         "population": 66389
     },
     "539283": {
-        "geoid": "539283",
-        "name": "Kumertau",
+        "ids": {
+            "geonames": 539283
+        },
+        "long": {
+            "default": "Kumertau"
+        },
         "lat": 52.76667,
         "lng": 55.78333,
         "country": "RU",
@@ -1755,8 +2535,12 @@
         "population": 65321
     },
     "540103": {
-        "geoid": "540103",
-        "name": "Kstovo",
+        "ids": {
+            "geonames": 540103
+        },
+        "long": {
+            "default": "Kstovo"
+        },
         "lat": 56.14733,
         "lng": 44.19787,
         "country": "RU",
@@ -1764,8 +2548,12 @@
         "population": 67242
     },
     "540251": {
-        "geoid": "540251",
-        "name": "Krymsk",
+        "ids": {
+            "geonames": 540251
+        },
+        "long": {
+            "default": "Krymsk"
+        },
         "lat": 44.92934,
         "lng": 37.99117,
         "country": "RU",
@@ -1773,8 +2561,12 @@
         "population": 57555
     },
     "540761": {
-        "geoid": "540761",
-        "name": "Kropotkin",
+        "ids": {
+            "geonames": 540761
+        },
+        "long": {
+            "default": "Kropotkin"
+        },
         "lat": 45.4375,
         "lng": 40.57556,
         "country": "RU",
@@ -1782,8 +2574,12 @@
         "population": 79599
     },
     "541406": {
-        "geoid": "541406",
-        "name": "Biryulëvo Zapadnoye",
+        "ids": {
+            "geonames": 541406
+        },
+        "long": {
+            "default": "Biryulëvo Zapadnoye"
+        },
         "lat": 55.58766,
         "lng": 37.64282,
         "country": "RU",
@@ -1791,8 +2587,12 @@
         "population": 89000
     },
     "542327": {
-        "geoid": "542327",
-        "name": "Krasnokamsk",
+        "ids": {
+            "geonames": 542327
+        },
+        "long": {
+            "default": "Krasnokamsk"
+        },
         "lat": 58.0796,
         "lng": 55.7552,
         "country": "RU",
@@ -1800,8 +2600,12 @@
         "population": 52689
     },
     "542374": {
-        "geoid": "542374",
-        "name": "Krasnogorsk",
+        "ids": {
+            "geonames": 542374
+        },
+        "long": {
+            "default": "Krasnogorsk"
+        },
         "lat": 55.82036,
         "lng": 37.33017,
         "country": "RU",
@@ -1809,8 +2613,12 @@
         "population": 92932
     },
     "542420": {
-        "geoid": "542420",
-        "name": "Krasnodar",
+        "ids": {
+            "geonames": 542420
+        },
+        "long": {
+            "default": "Krasnodar"
+        },
         "lat": 45.04484,
         "lng": 38.97603,
         "country": "RU",
@@ -1818,8 +2626,12 @@
         "population": 649851
     },
     "542634": {
-        "geoid": "542634",
-        "name": "Presnenskiy",
+        "ids": {
+            "geonames": 542634
+        },
+        "long": {
+            "default": "Presnenskiy"
+        },
         "lat": 55.75,
         "lng": 37.55,
         "country": "RU",
@@ -1827,8 +2639,12 @@
         "population": 122000
     },
     "543460": {
-        "geoid": "543460",
-        "name": "Kovrov",
+        "ids": {
+            "geonames": 543460
+        },
+        "long": {
+            "default": "Kovrov"
+        },
         "lat": 56.35722,
         "lng": 41.31917,
         "country": "RU",
@@ -1836,8 +2652,12 @@
         "population": 154224
     },
     "543704": {
-        "geoid": "543704",
-        "name": "Kotlas",
+        "ids": {
+            "geonames": 543704
+        },
+        "long": {
+            "default": "Kotlas"
+        },
         "lat": 61.25745,
         "lng": 46.64963,
         "country": "RU",
@@ -1845,8 +2665,12 @@
         "population": 59180
     },
     "543878": {
-        "geoid": "543878",
-        "name": "Kostroma",
+        "ids": {
+            "geonames": 543878
+        },
+        "long": {
+            "default": "Kostroma"
+        },
         "lat": 57.76647,
         "lng": 40.92686,
         "country": "RU",
@@ -1854,8 +2678,12 @@
         "population": 277656
     },
     "546105": {
-        "geoid": "546105",
-        "name": "Kolpino",
+        "ids": {
+            "geonames": 546105
+        },
+        "long": {
+            "default": "Kolpino"
+        },
         "lat": 59.75069,
         "lng": 30.58856,
         "country": "RU",
@@ -1863,8 +2691,12 @@
         "population": 138979
     },
     "546230": {
-        "geoid": "546230",
-        "name": "Kolomna",
+        "ids": {
+            "geonames": 546230
+        },
+        "long": {
+            "default": "Kolomna"
+        },
         "lat": 55.07944,
         "lng": 38.77833,
         "country": "RU",
@@ -1872,8 +2704,12 @@
         "population": 147690
     },
     "547475": {
-        "geoid": "547475",
-        "name": "Klintsy",
+        "ids": {
+            "geonames": 547475
+        },
+        "long": {
+            "default": "Klintsy"
+        },
         "lat": 52.76019,
         "lng": 32.23935,
         "country": "RU",
@@ -1881,8 +2717,12 @@
         "population": 66336
     },
     "547523": {
-        "geoid": "547523",
-        "name": "Klin",
+        "ids": {
+            "geonames": 547523
+        },
+        "long": {
+            "default": "Klin"
+        },
         "lat": 56.33333,
         "lng": 36.73333,
         "country": "RU",
@@ -1890,8 +2730,12 @@
         "population": 80778
     },
     "547560": {
-        "geoid": "547560",
-        "name": "Klimovsk",
+        "ids": {
+            "geonames": 547560
+        },
+        "long": {
+            "default": "Klimovsk"
+        },
         "lat": 55.36352,
         "lng": 37.52984,
         "country": "RU",
@@ -1899,8 +2743,12 @@
         "population": 55206
     },
     "547840": {
-        "geoid": "547840",
-        "name": "Kizlyar",
+        "ids": {
+            "geonames": 547840
+        },
+        "long": {
+            "default": "Kizlyar"
+        },
         "lat": 43.84712,
         "lng": 46.71445,
         "country": "RU",
@@ -1908,8 +2756,12 @@
         "population": 50564
     },
     "548114": {
-        "geoid": "548114",
-        "name": "Kislovodsk",
+        "ids": {
+            "geonames": 548114
+        },
+        "long": {
+            "default": "Kislovodsk"
+        },
         "lat": 43.91333,
         "lng": 42.72083,
         "country": "RU",
@@ -1917,8 +2769,12 @@
         "population": 132771
     },
     "548395": {
-        "geoid": "548395",
-        "name": "Kirovo-Chepetsk",
+        "ids": {
+            "geonames": 548395
+        },
+        "long": {
+            "default": "Kirovo-Chepetsk"
+        },
         "lat": 58.55386,
         "lng": 50.03986,
         "country": "RU",
@@ -1926,8 +2782,12 @@
         "population": 90252
     },
     "548408": {
-        "geoid": "548408",
-        "name": "Kirov",
+        "ids": {
+            "geonames": 548408
+        },
+        "long": {
+            "default": "Kirov"
+        },
         "lat": 58.59665,
         "lng": 49.66007,
         "country": "RU",
@@ -1935,8 +2795,12 @@
         "population": 457383
     },
     "548442": {
-        "geoid": "548442",
-        "name": "Kirishi",
+        "ids": {
+            "geonames": 548442
+        },
+        "long": {
+            "default": "Kirishi"
+        },
         "lat": 59.44712,
         "lng": 32.02049,
         "country": "RU",
@@ -1944,8 +2808,12 @@
         "population": 56190
     },
     "548602": {
-        "geoid": "548602",
-        "name": "Kingisepp",
+        "ids": {
+            "geonames": 548602
+        },
+        "long": {
+            "default": "Kingisepp"
+        },
         "lat": 59.37331,
         "lng": 28.61343,
         "country": "RU",
@@ -1953,8 +2821,12 @@
         "population": 50566
     },
     "548605": {
-        "geoid": "548605",
-        "name": "Kineshma",
+        "ids": {
+            "geonames": 548605
+        },
+        "long": {
+            "default": "Kineshma"
+        },
         "lat": 57.43914,
         "lng": 42.12894,
         "country": "RU",
@@ -1962,8 +2834,12 @@
         "population": 92983
     },
     "548652": {
-        "geoid": "548652",
-        "name": "Kimry",
+        "ids": {
+            "geonames": 548652
+        },
+        "long": {
+            "default": "Kimry"
+        },
         "lat": 56.86667,
         "lng": 37.35,
         "country": "RU",
@@ -1971,8 +2847,12 @@
         "population": 52070
     },
     "549479": {
-        "geoid": "549479",
-        "name": "Khoroshëvo-Mnevniki",
+        "ids": {
+            "geonames": 549479
+        },
+        "long": {
+            "default": "Khoroshëvo-Mnevniki"
+        },
         "lat": 55.78363,
         "lng": 37.47137,
         "country": "RU",
@@ -1980,8 +2860,12 @@
         "population": 159000
     },
     "550280": {
-        "geoid": "550280",
-        "name": "Khimki",
+        "ids": {
+            "geonames": 550280
+        },
+        "long": {
+            "default": "Khimki"
+        },
         "lat": 55.89704,
         "lng": 37.42969,
         "country": "RU",
@@ -1989,8 +2873,12 @@
         "population": 142618
     },
     "550478": {
-        "geoid": "550478",
-        "name": "Khasavyurt",
+        "ids": {
+            "geonames": 550478
+        },
+        "long": {
+            "default": "Khasavyurt"
+        },
         "lat": 43.2509,
         "lng": 46.58766,
         "country": "RU",
@@ -1998,8 +2886,12 @@
         "population": 126829
     },
     "551487": {
-        "geoid": "551487",
-        "name": "Kazan",
+        "ids": {
+            "geonames": 551487
+        },
+        "long": {
+            "default": "Kazan"
+        },
         "lat": 55.78874,
         "lng": 49.12214,
         "country": "RU",
@@ -2007,8 +2899,12 @@
         "population": 1104738
     },
     "551847": {
-        "geoid": "551847",
-        "name": "Kaspiysk",
+        "ids": {
+            "geonames": 551847
+        },
+        "long": {
+            "default": "Kaspiysk"
+        },
         "lat": 42.88165,
         "lng": 47.63919,
         "country": "RU",
@@ -2016,8 +2912,12 @@
         "population": 81752
     },
     "553287": {
-        "geoid": "553287",
-        "name": "Kamyshin",
+        "ids": {
+            "geonames": 553287
+        },
+        "long": {
+            "default": "Kamyshin"
+        },
         "lat": 50.09833,
         "lng": 45.41601,
         "country": "RU",
@@ -2025,8 +2925,12 @@
         "population": 128626
     },
     "553399": {
-        "geoid": "553399",
-        "name": "Kamensk-Shakhtinskiy",
+        "ids": {
+            "geonames": 553399
+        },
+        "long": {
+            "default": "Kamensk-Shakhtinskiy"
+        },
         "lat": 48.31779,
         "lng": 40.25948,
         "country": "RU",
@@ -2034,8 +2938,12 @@
         "population": 75814
     },
     "553915": {
-        "geoid": "553915",
-        "name": "Kaluga",
+        "ids": {
+            "geonames": 553915
+        },
+        "long": {
+            "default": "Kaluga"
+        },
         "lat": 54.5293,
         "lng": 36.27542,
         "country": "RU",
@@ -2043,8 +2951,12 @@
         "population": 338978
     },
     "554233": {
-        "geoid": "554233",
-        "name": "Korolev",
+        "ids": {
+            "geonames": 554233
+        },
+        "long": {
+            "default": "Korolev"
+        },
         "lat": 55.91417,
         "lng": 37.82556,
         "country": "RU",
@@ -2052,8 +2964,12 @@
         "population": 139798
     },
     "554234": {
-        "geoid": "554234",
-        "name": "Kaliningrad",
+        "ids": {
+            "geonames": 554234
+        },
+        "long": {
+            "default": "Kaliningrad"
+        },
         "lat": 54.70649,
         "lng": 20.51095,
         "country": "RU",
@@ -2061,8 +2977,12 @@
         "population": 434954
     },
     "554787": {
-        "geoid": "554787",
-        "name": "Izmaylovo",
+        "ids": {
+            "geonames": 554787
+        },
+        "long": {
+            "default": "Izmaylovo"
+        },
         "lat": 55.78677,
         "lng": 37.80165,
         "country": "RU",
@@ -2070,8 +2990,12 @@
         "population": 104000
     },
     "554840": {
-        "geoid": "554840",
-        "name": "Izhevsk",
+        "ids": {
+            "geonames": 554840
+        },
+        "long": {
+            "default": "Izhevsk"
+        },
         "lat": 56.84976,
         "lng": 53.20448,
         "country": "RU",
@@ -2079,8 +3003,12 @@
         "population": 631038
     },
     "555111": {
-        "geoid": "555111",
-        "name": "Ivanteyevka",
+        "ids": {
+            "geonames": 555111
+        },
+        "long": {
+            "default": "Ivanteyevka"
+        },
         "lat": 55.97111,
         "lng": 37.92083,
         "country": "RU",
@@ -2088,8 +3016,12 @@
         "population": 51085
     },
     "555129": {
-        "geoid": "555129",
-        "name": "Ivanovskoye",
+        "ids": {
+            "geonames": 555129
+        },
+        "long": {
+            "default": "Ivanovskoye"
+        },
         "lat": 55.76667,
         "lng": 37.83333,
         "country": "RU",
@@ -2097,8 +3029,12 @@
         "population": 128000
     },
     "555312": {
-        "geoid": "555312",
-        "name": "Ivanovo",
+        "ids": {
+            "geonames": 555312
+        },
+        "long": {
+            "default": "Ivanovo"
+        },
         "lat": 56.99719,
         "lng": 40.97139,
         "country": "RU",
@@ -2106,8 +3042,12 @@
         "population": 420839
     },
     "555980": {
-        "geoid": "555980",
-        "name": "Ishimbay",
+        "ids": {
+            "geonames": 555980
+        },
+        "long": {
+            "default": "Ishimbay"
+        },
         "lat": 53.45446,
         "lng": 56.04149,
         "country": "RU",
@@ -2115,8 +3055,12 @@
         "population": 70421
     },
     "557775": {
-        "geoid": "557775",
-        "name": "Gus’-Khrustal’nyy",
+        "ids": {
+            "geonames": 557775
+        },
+        "long": {
+            "default": "Gus’-Khrustal’nyy"
+        },
         "lat": 55.61113,
         "lng": 40.65186,
         "country": "RU",
@@ -2124,8 +3068,12 @@
         "population": 62746
     },
     "558082": {
-        "geoid": "558082",
-        "name": "Gukovo",
+        "ids": {
+            "geonames": 558082
+        },
+        "long": {
+            "default": "Gukovo"
+        },
         "lat": 48.06212,
         "lng": 39.9355,
         "country": "RU",
@@ -2133,8 +3081,12 @@
         "population": 66079
     },
     "558146": {
-        "geoid": "558146",
-        "name": "Gubkin",
+        "ids": {
+            "geonames": 558146
+        },
+        "long": {
+            "default": "Gubkin"
+        },
         "lat": 51.28167,
         "lng": 37.54583,
         "country": "RU",
@@ -2142,8 +3094,12 @@
         "population": 87000
     },
     "558418": {
-        "geoid": "558418",
-        "name": "Groznyy",
+        "ids": {
+            "geonames": 558418
+        },
+        "long": {
+            "default": "Groznyy"
+        },
         "lat": 43.31195,
         "lng": 45.68895,
         "country": "RU",
@@ -2151,8 +3107,12 @@
         "population": 226100
     },
     "559029": {
-        "geoid": "559029",
-        "name": "Grazhdanka",
+        "ids": {
+            "geonames": 559029
+        },
+        "long": {
+            "default": "Grazhdanka"
+        },
         "lat": 60.03587,
         "lng": 30.40518,
         "country": "RU",
@@ -2160,8 +3120,12 @@
         "population": 71128
     },
     "560465": {
-        "geoid": "560465",
-        "name": "Gol’yanovo",
+        "ids": {
+            "geonames": 560465
+        },
+        "long": {
+            "default": "Gol’yanovo"
+        },
         "lat": 55.82299,
         "lng": 37.81306,
         "country": "RU",
@@ -2169,8 +3133,12 @@
         "population": 158000
     },
     "561347": {
-        "geoid": "561347",
-        "name": "Glazov",
+        "ids": {
+            "geonames": 561347
+        },
+        "long": {
+            "default": "Glazov"
+        },
         "lat": 58.1393,
         "lng": 52.658,
         "country": "RU",
@@ -2178,8 +3146,12 @@
         "population": 100676
     },
     "561627": {
-        "geoid": "561627",
-        "name": "Georgiyevsk",
+        "ids": {
+            "geonames": 561627
+        },
+        "long": {
+            "default": "Georgiyevsk"
+        },
         "lat": 44.15194,
         "lng": 43.46972,
         "country": "RU",
@@ -2187,8 +3159,12 @@
         "population": 72649
     },
     "561667": {
-        "geoid": "561667",
-        "name": "Gelendzhik",
+        "ids": {
+            "geonames": 561667
+        },
+        "long": {
+            "default": "Gelendzhik"
+        },
         "lat": 44.5622,
         "lng": 38.0848,
         "country": "RU",
@@ -2196,8 +3172,12 @@
         "population": 50715
     },
     "561887": {
-        "geoid": "561887",
-        "name": "Gatchina",
+        "ids": {
+            "geonames": 561887
+        },
+        "long": {
+            "default": "Gatchina"
+        },
         "lat": 59.57639,
         "lng": 30.12833,
         "country": "RU",
@@ -2205,8 +3185,12 @@
         "population": 89761
     },
     "562319": {
-        "geoid": "562319",
-        "name": "Fryazino",
+        "ids": {
+            "geonames": 562319
+        },
+        "long": {
+            "default": "Fryazino"
+        },
         "lat": 55.96056,
         "lng": 38.04556,
         "country": "RU",
@@ -2214,8 +3198,12 @@
         "population": 52255
     },
     "562321": {
-        "geoid": "562321",
-        "name": "Fryazevo",
+        "ids": {
+            "geonames": 562321
+        },
+        "long": {
+            "default": "Fryazevo"
+        },
         "lat": 55.73321,
         "lng": 38.46458,
         "country": "RU",
@@ -2223,8 +3211,12 @@
         "population": 53212
     },
     "562820": {
-        "geoid": "562820",
-        "name": "Fili",
+        "ids": {
+            "geonames": 562820
+        },
+        "long": {
+            "default": "Fili"
+        },
         "lat": 55.74819,
         "lng": 37.47969,
         "country": "RU",
@@ -2232,8 +3224,12 @@
         "population": 80000
     },
     "563379": {
-        "geoid": "563379",
-        "name": "Ezhva",
+        "ids": {
+            "geonames": 563379
+        },
+        "long": {
+            "default": "Ezhva"
+        },
         "lat": 61.81281,
         "lng": 50.72834,
         "country": "RU",
@@ -2241,8 +3237,12 @@
         "population": 56000
     },
     "563464": {
-        "geoid": "563464",
-        "name": "Engel’s",
+        "ids": {
+            "geonames": 563464
+        },
+        "long": {
+            "default": "Engel’s"
+        },
         "lat": 51.48389,
         "lng": 46.10528,
         "country": "RU",
@@ -2250,8 +3250,12 @@
         "population": 196011
     },
     "563514": {
-        "geoid": "563514",
-        "name": "Elista",
+        "ids": {
+            "geonames": 563514
+        },
+        "long": {
+            "default": "Elista"
+        },
         "lat": 46.30778,
         "lng": 44.25583,
         "country": "RU",
@@ -2259,8 +3263,12 @@
         "population": 106971
     },
     "563523": {
-        "geoid": "563523",
-        "name": "Elektrostal’",
+        "ids": {
+            "geonames": 563523
+        },
+        "long": {
+            "default": "Elektrostal’"
+        },
         "lat": 55.78959,
         "lng": 38.44671,
         "country": "RU",
@@ -2268,8 +3276,12 @@
         "population": 144387
     },
     "563708": {
-        "geoid": "563708",
-        "name": "Dzerzhinsk",
+        "ids": {
+            "geonames": 563708
+        },
+        "long": {
+            "default": "Dzerzhinsk"
+        },
         "lat": 56.24143,
         "lng": 43.45539,
         "country": "RU",
@@ -2277,8 +3289,12 @@
         "population": 256537
     },
     "564719": {
-        "geoid": "564719",
-        "name": "Dubna",
+        "ids": {
+            "geonames": 564719
+        },
+        "long": {
+            "default": "Dubna"
+        },
         "lat": 56.73333,
         "lng": 37.16667,
         "country": "RU",
@@ -2286,8 +3302,12 @@
         "population": 60604
     },
     "565197": {
-        "geoid": "565197",
-        "name": "Dorogomilovo",
+        "ids": {
+            "geonames": 565197
+        },
+        "long": {
+            "default": "Dorogomilovo"
+        },
         "lat": 55.75,
         "lng": 37.56667,
         "country": "RU",
@@ -2295,8 +3315,12 @@
         "population": 68000
     },
     "565348": {
-        "geoid": "565348",
-        "name": "Donetsk",
+        "ids": {
+            "geonames": 565348
+        },
+        "long": {
+            "default": "Donetsk"
+        },
         "lat": 48.33487,
         "lng": 39.9459,
         "country": "RU",
@@ -2304,8 +3328,12 @@
         "population": 50850
     },
     "565381": {
-        "geoid": "565381",
-        "name": "Domodedovo",
+        "ids": {
+            "geonames": 565381
+        },
+        "long": {
+            "default": "Domodedovo"
+        },
         "lat": 55.4413,
         "lng": 37.75367,
         "country": "RU",
@@ -2313,8 +3341,12 @@
         "population": 53887
     },
     "565614": {
-        "geoid": "565614",
-        "name": "Dolgoprudnyy",
+        "ids": {
+            "geonames": 565614
+        },
+        "long": {
+            "default": "Dolgoprudnyy"
+        },
         "lat": 55.94958,
         "lng": 37.50183,
         "country": "RU",
@@ -2322,8 +3354,12 @@
         "population": 68259
     },
     "565955": {
-        "geoid": "565955",
-        "name": "Dmitrov",
+        "ids": {
+            "geonames": 565955
+        },
+        "long": {
+            "default": "Dmitrov"
+        },
         "lat": 56.34485,
         "lng": 37.52041,
         "country": "RU",
@@ -2331,8 +3367,12 @@
         "population": 61607
     },
     "566199": {
-        "geoid": "566199",
-        "name": "Dimitrovgrad",
+        "ids": {
+            "geonames": 566199
+        },
+        "long": {
+            "default": "Dimitrovgrad"
+        },
         "lat": 54.21386,
         "lng": 49.61838,
         "country": "RU",
@@ -2340,8 +3380,12 @@
         "population": 132226
     },
     "566532": {
-        "geoid": "566532",
-        "name": "Derbent",
+        "ids": {
+            "geonames": 566532
+        },
+        "long": {
+            "default": "Derbent"
+        },
         "lat": 42.06779,
         "lng": 48.28987,
         "country": "RU",
@@ -2349,8 +3393,12 @@
         "population": 105965
     },
     "566809": {
-        "geoid": "566809",
-        "name": "Zapadnoye Degunino",
+        "ids": {
+            "geonames": 566809
+        },
+        "long": {
+            "default": "Zapadnoye Degunino"
+        },
         "lat": 55.86667,
         "lng": 37.53333,
         "country": "RU",
@@ -2358,8 +3406,12 @@
         "population": 79000
     },
     "567311": {
-        "geoid": "567311",
-        "name": "Dachnoye",
+        "ids": {
+            "geonames": 567311
+        },
+        "long": {
+            "default": "Dachnoye"
+        },
         "lat": 59.84167,
         "lng": 30.25583,
         "country": "RU",
@@ -2367,8 +3419,12 @@
         "population": 72822
     },
     "567434": {
-        "geoid": "567434",
-        "name": "Chusovoy",
+        "ids": {
+            "geonames": 567434
+        },
+        "long": {
+            "default": "Chusovoy"
+        },
         "lat": 58.3013,
         "lng": 57.8131,
         "country": "RU",
@@ -2376,8 +3432,12 @@
         "population": 50205
     },
     "567990": {
-        "geoid": "567990",
-        "name": "Chistopol’",
+        "ids": {
+            "geonames": 567990
+        },
+        "long": {
+            "default": "Chistopol’"
+        },
         "lat": 55.36311,
         "lng": 50.64244,
         "country": "RU",
@@ -2385,8 +3445,12 @@
         "population": 62200
     },
     "569154": {
-        "geoid": "569154",
-        "name": "Cherkessk",
+        "ids": {
+            "geonames": 569154
+        },
+        "long": {
+            "default": "Cherkessk"
+        },
         "lat": 44.22333,
         "lng": 42.05778,
         "country": "RU",
@@ -2394,8 +3458,12 @@
         "population": 116224
     },
     "569223": {
-        "geoid": "569223",
-        "name": "Cherepovets",
+        "ids": {
+            "geonames": 569223
+        },
+        "long": {
+            "default": "Cherepovets"
+        },
         "lat": 59.13333,
         "lng": 37.9,
         "country": "RU",
@@ -2403,8 +3471,12 @@
         "population": 315738
     },
     "569273": {
-        "geoid": "569273",
-        "name": "Cherëmushki",
+        "ids": {
+            "geonames": 569273
+        },
+        "long": {
+            "default": "Cherëmushki"
+        },
         "lat": 55.66473,
         "lng": 37.56135,
         "country": "RU",
@@ -2412,8 +3484,12 @@
         "population": 106587
     },
     "569591": {
-        "geoid": "569591",
-        "name": "Chekhov",
+        "ids": {
+            "geonames": 569591
+        },
+        "long": {
+            "default": "Chekhov"
+        },
         "lat": 55.1477,
         "lng": 37.47728,
         "country": "RU",
@@ -2421,8 +3497,12 @@
         "population": 75643
     },
     "569696": {
-        "geoid": "569696",
-        "name": "Cheboksary",
+        "ids": {
+            "geonames": 569696
+        },
+        "long": {
+            "default": "Cheboksary"
+        },
         "lat": 56.13222,
         "lng": 47.25194,
         "country": "RU",
@@ -2430,8 +3510,12 @@
         "population": 446781
     },
     "569742": {
-        "geoid": "569742",
-        "name": "Chaykovskiy",
+        "ids": {
+            "geonames": 569742
+        },
+        "long": {
+            "default": "Chaykovskiy"
+        },
         "lat": 56.76864,
         "lng": 54.11484,
         "country": "RU",
@@ -2439,8 +3523,12 @@
         "population": 86712
     },
     "569955": {
-        "geoid": "569955",
-        "name": "Chapayevsk",
+        "ids": {
+            "geonames": 569955
+        },
+        "long": {
+            "default": "Chapayevsk"
+        },
         "lat": 52.9771,
         "lng": 49.7086,
         "country": "RU",
@@ -2448,8 +3536,12 @@
         "population": 70147
     },
     "570427": {
-        "geoid": "570427",
-        "name": "Buzuluk",
+        "ids": {
+            "geonames": 570427
+        },
+        "long": {
+            "default": "Buzuluk"
+        },
         "lat": 52.7807,
         "lng": 52.2635,
         "country": "RU",
@@ -2457,8 +3549,12 @@
         "population": 87714
     },
     "570479": {
-        "geoid": "570479",
-        "name": "Buynaksk",
+        "ids": {
+            "geonames": 570479
+        },
+        "long": {
+            "default": "Buynaksk"
+        },
         "lat": 42.819,
         "lng": 47.1192,
         "country": "RU",
@@ -2466,8 +3562,12 @@
         "population": 62689
     },
     "571159": {
-        "geoid": "571159",
-        "name": "Buguruslan",
+        "ids": {
+            "geonames": 571159
+        },
+        "long": {
+            "default": "Buguruslan"
+        },
         "lat": 53.6554,
         "lng": 52.442,
         "country": "RU",
@@ -2475,8 +3575,12 @@
         "population": 53511
     },
     "571170": {
-        "geoid": "571170",
-        "name": "Bugul’ma",
+        "ids": {
+            "geonames": 571170
+        },
+        "long": {
+            "default": "Bugul’ma"
+        },
         "lat": 54.5378,
         "lng": 52.7985,
         "country": "RU",
@@ -2484,8 +3588,12 @@
         "population": 91900
     },
     "571306": {
-        "geoid": "571306",
-        "name": "Budënnovsk",
+        "ids": {
+            "geonames": 571306
+        },
+        "long": {
+            "default": "Budënnovsk"
+        },
         "lat": 44.78389,
         "lng": 44.16583,
         "country": "RU",
@@ -2493,8 +3601,12 @@
         "population": 67962
     },
     "571476": {
-        "geoid": "571476",
-        "name": "Bryansk",
+        "ids": {
+            "geonames": 571476
+        },
+        "long": {
+            "default": "Bryansk"
+        },
         "lat": 53.25209,
         "lng": 34.37167,
         "country": "RU",
@@ -2502,8 +3614,12 @@
         "population": 427236
     },
     "571741": {
-        "geoid": "571741",
-        "name": "Brateyevo",
+        "ids": {
+            "geonames": 571741
+        },
+        "long": {
+            "default": "Brateyevo"
+        },
         "lat": 55.63755,
         "lng": 37.76438,
         "country": "RU",
@@ -2511,8 +3627,12 @@
         "population": 102000
     },
     "572154": {
-        "geoid": "572154",
-        "name": "Borovichi",
+        "ids": {
+            "geonames": 572154
+        },
+        "long": {
+            "default": "Borovichi"
+        },
         "lat": 58.38778,
         "lng": 33.91546,
         "country": "RU",
@@ -2520,8 +3640,12 @@
         "population": 56571
     },
     "572525": {
-        "geoid": "572525",
-        "name": "Borisoglebsk",
+        "ids": {
+            "geonames": 572525
+        },
+        "long": {
+            "default": "Borisoglebsk"
+        },
         "lat": 51.36713,
         "lng": 42.08494,
         "country": "RU",
@@ -2529,8 +3653,12 @@
         "population": 68597
     },
     "572665": {
-        "geoid": "572665",
-        "name": "Bor",
+        "ids": {
+            "geonames": 572665
+        },
+        "long": {
+            "default": "Bor"
+        },
         "lat": 56.35808,
         "lng": 44.07477,
         "country": "RU",
@@ -2538,8 +3666,12 @@
         "population": 60647
     },
     "575505": {
-        "geoid": "575505",
-        "name": "Bogorodskoye",
+        "ids": {
+            "geonames": 575505
+        },
+        "long": {
+            "default": "Bogorodskoye"
+        },
         "lat": 55.81353,
         "lng": 37.71617,
         "country": "RU",
@@ -2547,8 +3679,12 @@
         "population": 103000
     },
     "576279": {
-        "geoid": "576279",
-        "name": "Biryulëvo",
+        "ids": {
+            "geonames": 576279
+        },
+        "long": {
+            "default": "Biryulëvo"
+        },
         "lat": 55.58635,
         "lng": 37.67781,
         "country": "RU",
@@ -2556,8 +3692,12 @@
         "population": 144000
     },
     "576432": {
-        "geoid": "576432",
-        "name": "Bibirevo",
+        "ids": {
+            "geonames": 576432
+        },
+        "long": {
+            "default": "Bibirevo"
+        },
         "lat": 55.88333,
         "lng": 37.6,
         "country": "RU",
@@ -2565,8 +3705,12 @@
         "population": 159000
     },
     "577206": {
-        "geoid": "577206",
-        "name": "Berezniki",
+        "ids": {
+            "geonames": 577206
+        },
+        "long": {
+            "default": "Berezniki"
+        },
         "lat": 59.4091,
         "lng": 56.8204,
         "country": "RU",
@@ -2574,8 +3718,12 @@
         "population": 167748
     },
     "577881": {
-        "geoid": "577881",
-        "name": "Beloretsk",
+        "ids": {
+            "geonames": 577881
+        },
+        "long": {
+            "default": "Beloretsk"
+        },
         "lat": 53.96306,
         "lng": 58.39806,
         "country": "RU",
@@ -2583,8 +3731,12 @@
         "population": 70468
     },
     "577893": {
-        "geoid": "577893",
-        "name": "Belorechensk",
+        "ids": {
+            "geonames": 577893
+        },
+        "long": {
+            "default": "Belorechensk"
+        },
         "lat": 44.77127,
         "lng": 39.87879,
         "country": "RU",
@@ -2592,8 +3744,12 @@
         "population": 54526
     },
     "578072": {
-        "geoid": "578072",
-        "name": "Belgorod",
+        "ids": {
+            "geonames": 578072
+        },
+        "long": {
+            "default": "Belgorod"
+        },
         "lat": 50.61074,
         "lng": 36.58015,
         "country": "RU",
@@ -2601,8 +3757,12 @@
         "population": 345289
     },
     "578120": {
-        "geoid": "578120",
-        "name": "Belebey",
+        "ids": {
+            "geonames": 578120
+        },
+        "long": {
+            "default": "Belebey"
+        },
         "lat": 54.11667,
         "lng": 54.11667,
         "country": "RU",
@@ -2610,8 +3770,12 @@
         "population": 62582
     },
     "578740": {
-        "geoid": "578740",
-        "name": "Bataysk",
+        "ids": {
+            "geonames": 578740
+        },
+        "long": {
+            "default": "Bataysk"
+        },
         "lat": 47.13975,
         "lng": 39.75181,
         "country": "RU",
@@ -2619,8 +3783,12 @@
         "population": 109962
     },
     "579460": {
-        "geoid": "579460",
-        "name": "Balashov",
+        "ids": {
+            "geonames": 579460
+        },
+        "long": {
+            "default": "Balashov"
+        },
         "lat": 51.5502,
         "lng": 43.1667,
         "country": "RU",
@@ -2628,8 +3796,12 @@
         "population": 98107
     },
     "579464": {
-        "geoid": "579464",
-        "name": "Balashikha",
+        "ids": {
+            "geonames": 579464
+        },
+        "long": {
+            "default": "Balashikha"
+        },
         "lat": 55.80945,
         "lng": 37.95806,
         "country": "RU",
@@ -2637,8 +3809,12 @@
         "population": 150103
     },
     "579492": {
-        "geoid": "579492",
-        "name": "Balakovo",
+        "ids": {
+            "geonames": 579492
+        },
+        "long": {
+            "default": "Balakovo"
+        },
         "lat": 52.02782,
         "lng": 47.8007,
         "country": "RU",
@@ -2646,8 +3822,12 @@
         "population": 199572
     },
     "579514": {
-        "geoid": "579514",
-        "name": "Novaya Balakhna",
+        "ids": {
+            "geonames": 579514
+        },
+        "long": {
+            "default": "Novaya Balakhna"
+        },
         "lat": 56.48989,
         "lng": 43.60114,
         "country": "RU",
@@ -2655,8 +3835,12 @@
         "population": 63083
     },
     "579870": {
-        "geoid": "579870",
-        "name": "Babushkin",
+        "ids": {
+            "geonames": 579870
+        },
+        "long": {
+            "default": "Babushkin"
+        },
         "lat": 55.86931,
         "lng": 37.72966,
         "country": "RU",
@@ -2664,8 +3848,12 @@
         "population": 86000
     },
     "580054": {
-        "geoid": "580054",
-        "name": "Azov",
+        "ids": {
+            "geonames": 580054
+        },
+        "long": {
+            "default": "Azov"
+        },
         "lat": 47.10779,
         "lng": 39.41648,
         "country": "RU",
@@ -2673,8 +3861,12 @@
         "population": 82133
     },
     "580497": {
-        "geoid": "580497",
-        "name": "Astrakhan",
+        "ids": {
+            "geonames": 580497
+        },
+        "long": {
+            "default": "Astrakhan"
+        },
         "lat": 46.34968,
         "lng": 48.04076,
         "country": "RU",
@@ -2682,8 +3874,12 @@
         "population": 502533
     },
     "580724": {
-        "geoid": "580724",
-        "name": "Arzamas",
+        "ids": {
+            "geonames": 580724
+        },
+        "long": {
+            "default": "Arzamas"
+        },
         "lat": 55.39485,
         "lng": 43.83992,
         "country": "RU",
@@ -2691,8 +3887,12 @@
         "population": 109479
     },
     "580922": {
-        "geoid": "580922",
-        "name": "Armavir",
+        "ids": {
+            "geonames": 580922
+        },
+        "long": {
+            "default": "Armavir"
+        },
         "lat": 44.9892,
         "lng": 41.1234,
         "country": "RU",
@@ -2700,8 +3900,12 @@
         "population": 199548
     },
     "581049": {
-        "geoid": "581049",
-        "name": "Arkhangel’sk",
+        "ids": {
+            "geonames": 581049
+        },
+        "long": {
+            "default": "Arkhangel’sk"
+        },
         "lat": 64.5401,
         "lng": 40.5433,
         "country": "RU",
@@ -2709,8 +3913,12 @@
         "population": 356051
     },
     "581357": {
-        "geoid": "581357",
-        "name": "Apatity",
+        "ids": {
+            "geonames": 581357
+        },
+        "long": {
+            "default": "Apatity"
+        },
         "lat": 67.56414,
         "lng": 33.4031,
         "country": "RU",
@@ -2718,8 +3926,12 @@
         "population": 61186
     },
     "582182": {
-        "geoid": "582182",
-        "name": "Anapa",
+        "ids": {
+            "geonames": 582182
+        },
+        "long": {
+            "default": "Anapa"
+        },
         "lat": 44.89084,
         "lng": 37.3239,
         "country": "RU",
@@ -2727,8 +3939,12 @@
         "population": 53600
     },
     "582432": {
-        "geoid": "582432",
-        "name": "Al’met’yevsk",
+        "ids": {
+            "geonames": 582432
+        },
+        "long": {
+            "default": "Al’met’yevsk"
+        },
         "lat": 54.90442,
         "lng": 52.3154,
         "country": "RU",
@@ -2736,8 +3952,12 @@
         "population": 140437
     },
     "582750": {
-        "geoid": "582750",
-        "name": "Aleksin",
+        "ids": {
+            "geonames": 582750
+        },
+        "long": {
+            "default": "Aleksin"
+        },
         "lat": 54.50503,
         "lng": 37.0674,
         "country": "RU",
@@ -2745,8 +3965,12 @@
         "population": 66885
     },
     "582846": {
-        "geoid": "582846",
-        "name": "Alekseyevka",
+        "ids": {
+            "geonames": 582846
+        },
+        "long": {
+            "default": "Alekseyevka"
+        },
         "lat": 55.63,
         "lng": 37.8,
         "country": "RU",
@@ -2754,8 +3978,12 @@
         "population": 78000
     },
     "583350": {
-        "geoid": "583350",
-        "name": "Aleksandrov",
+        "ids": {
+            "geonames": 583350
+        },
+        "long": {
+            "default": "Aleksandrov"
+        },
         "lat": 56.39516,
         "lng": 38.71216,
         "country": "RU",
@@ -2763,8 +3991,12 @@
         "population": 64088
     },
     "583589": {
-        "geoid": "583589",
-        "name": "Levoberezhnyy",
+        "ids": {
+            "geonames": 583589
+        },
+        "long": {
+            "default": "Levoberezhnyy"
+        },
         "lat": 55.85,
         "lng": 37.48333,
         "country": "RU",
@@ -2772,8 +4004,12 @@
         "population": 52000
     },
     "584243": {
-        "geoid": "584243",
-        "name": "Adler",
+        "ids": {
+            "geonames": 584243
+        },
+        "long": {
+            "default": "Adler"
+        },
         "lat": 43.42896,
         "lng": 39.92391,
         "country": "RU",
@@ -2781,8 +4017,12 @@
         "population": 70200
     },
     "827329": {
-        "geoid": "827329",
-        "name": "Pavlovo",
+        "ids": {
+            "geonames": 827329
+        },
+        "long": {
+            "default": "Pavlovo"
+        },
         "lat": 55.9686,
         "lng": 43.0912,
         "country": "RU",
@@ -2790,8 +4030,12 @@
         "population": 63338
     },
     "831165": {
-        "geoid": "831165",
-        "name": "Zarechnyy",
+        "ids": {
+            "geonames": 831165
+        },
+        "long": {
+            "default": "Zarechnyy"
+        },
         "lat": 53.13333,
         "lng": 46.58333,
         "country": "RU",
@@ -2799,8 +4043,12 @@
         "population": 62139
     },
     "1485439": {
-        "geoid": "1485439",
-        "name": "Zarinsk",
+        "ids": {
+            "geonames": 1485439
+        },
+        "long": {
+            "default": "Zarinsk"
+        },
         "lat": 53.7074,
         "lng": 84.9493,
         "country": "RU",
@@ -2808,8 +4056,12 @@
         "population": 52209
     },
     "1485724": {
-        "geoid": "1485724",
-        "name": "Yurga",
+        "ids": {
+            "geonames": 1485724
+        },
+        "long": {
+            "default": "Yurga"
+        },
         "lat": 55.72306,
         "lng": 84.88611,
         "country": "RU",
@@ -2817,8 +4069,12 @@
         "population": 84220
     },
     "1486209": {
-        "geoid": "1486209",
-        "name": "Yekaterinburg",
+        "ids": {
+            "geonames": 1486209
+        },
+        "long": {
+            "default": "Yekaterinburg"
+        },
         "lat": 56.8519,
         "lng": 60.6122,
         "country": "RU",
@@ -2826,8 +4082,12 @@
         "population": 1349772
     },
     "1486910": {
-        "geoid": "1486910",
-        "name": "Vorkuta",
+        "ids": {
+            "geonames": 1486910
+        },
+        "long": {
+            "default": "Vorkuta"
+        },
         "lat": 67.49884,
         "lng": 64.05253,
         "country": "RU",
@@ -2835,8 +4095,12 @@
         "population": 80039
     },
     "1487281": {
-        "geoid": "1487281",
-        "name": "Verkhnyaya Pyshma",
+        "ids": {
+            "geonames": 1487281
+        },
+        "long": {
+            "default": "Verkhnyaya Pyshma"
+        },
         "lat": 56.97047,
         "lng": 60.58219,
         "country": "RU",
@@ -2844,8 +4108,12 @@
         "population": 59061
     },
     "1488253": {
-        "geoid": "1488253",
-        "name": "Zelenogorsk",
+        "ids": {
+            "geonames": 1488253
+        },
+        "long": {
+            "default": "Zelenogorsk"
+        },
         "lat": 56.1124,
         "lng": 94.5985,
         "country": "RU",
@@ -2853,8 +4121,12 @@
         "population": 71354
     },
     "1488754": {
-        "geoid": "1488754",
-        "name": "Tyumen",
+        "ids": {
+            "geonames": 1488754
+        },
+        "long": {
+            "default": "Tyumen"
+        },
         "lat": 57.15222,
         "lng": 65.52722,
         "country": "RU",
@@ -2862,8 +4134,12 @@
         "population": 519119
     },
     "1489246": {
-        "geoid": "1489246",
-        "name": "Troitsk",
+        "ids": {
+            "geonames": 1489246
+        },
+        "long": {
+            "default": "Troitsk"
+        },
         "lat": 54.0979,
         "lng": 61.5773,
         "country": "RU",
@@ -2871,8 +4147,12 @@
         "population": 82338
     },
     "1489425": {
-        "geoid": "1489425",
-        "name": "Tomsk",
+        "ids": {
+            "geonames": 1489425
+        },
+        "long": {
+            "default": "Tomsk"
+        },
         "lat": 56.49771,
         "lng": 84.97437,
         "country": "RU",
@@ -2880,8 +4160,12 @@
         "population": 485519
     },
     "1489530": {
-        "geoid": "1489530",
-        "name": "Tobol’sk",
+        "ids": {
+            "geonames": 1489530
+        },
+        "long": {
+            "default": "Tobol’sk"
+        },
         "lat": 58.19807,
         "lng": 68.25457,
         "country": "RU",
@@ -2889,8 +4173,12 @@
         "population": 113800
     },
     "1490256": {
-        "geoid": "1490256",
-        "name": "Talnakh",
+        "ids": {
+            "geonames": 1490256
+        },
+        "long": {
+            "default": "Talnakh"
+        },
         "lat": 69.4865,
         "lng": 88.3972,
         "country": "RU",
@@ -2898,8 +4186,12 @@
         "population": 59051
     },
     "1490624": {
-        "geoid": "1490624",
-        "name": "Surgut",
+        "ids": {
+            "geonames": 1490624
+        },
+        "long": {
+            "default": "Surgut"
+        },
         "lat": 61.25,
         "lng": 73.41667,
         "country": "RU",
@@ -2907,8 +4199,12 @@
         "population": 300367
     },
     "1492517": {
-        "geoid": "1492517",
-        "name": "Shadrinsk",
+        "ids": {
+            "geonames": 1492517
+        },
+        "long": {
+            "default": "Shadrinsk"
+        },
         "lat": 56.0852,
         "lng": 63.6335,
         "country": "RU",
@@ -2916,8 +4212,12 @@
         "population": 79479
     },
     "1492663": {
-        "geoid": "1492663",
-        "name": "Serov",
+        "ids": {
+            "geonames": 1492663
+        },
+        "long": {
+            "default": "Serov"
+        },
         "lat": 59.60334,
         "lng": 60.5787,
         "country": "RU",
@@ -2925,8 +4225,12 @@
         "population": 98438
     },
     "1493467": {
-        "geoid": "1493467",
-        "name": "Rubtsovsk",
+        "ids": {
+            "geonames": 1493467
+        },
+        "long": {
+            "default": "Rubtsovsk"
+        },
         "lat": 51.51473,
         "lng": 81.20613,
         "country": "RU",
@@ -2934,8 +4238,12 @@
         "population": 161065
     },
     "1494114": {
-        "geoid": "1494114",
-        "name": "Prokop’yevsk",
+        "ids": {
+            "geonames": 1494114
+        },
+        "long": {
+            "default": "Prokop’yevsk"
+        },
         "lat": 53.9059,
         "lng": 86.719,
         "country": "RU",
@@ -2943,8 +4251,12 @@
         "population": 219000
     },
     "1494573": {
-        "geoid": "1494573",
-        "name": "Polevskoy",
+        "ids": {
+            "geonames": 1494573
+        },
+        "long": {
+            "default": "Polevskoy"
+        },
         "lat": 56.44222,
         "lng": 60.18778,
         "country": "RU",
@@ -2952,8 +4264,12 @@
         "population": 65770
     },
     "1496153": {
-        "geoid": "1496153",
-        "name": "Omsk",
+        "ids": {
+            "geonames": 1496153
+        },
+        "long": {
+            "default": "Omsk"
+        },
         "lat": 54.99244,
         "lng": 73.36859,
         "country": "RU",
@@ -2961,8 +4277,12 @@
         "population": 1129281
     },
     "1496476": {
-        "geoid": "1496476",
-        "name": "Nyagan",
+        "ids": {
+            "geonames": 1496476
+        },
+        "long": {
+            "default": "Nyagan"
+        },
         "lat": 62.14056,
         "lng": 65.39361,
         "country": "RU",
@@ -2970,8 +4290,12 @@
         "population": 52137
     },
     "1496503": {
-        "geoid": "1496503",
-        "name": "Noyabrsk",
+        "ids": {
+            "geonames": 1496503
+        },
+        "long": {
+            "default": "Noyabrsk"
+        },
         "lat": 63.19309,
         "lng": 75.43728,
         "country": "RU",
@@ -2979,8 +4303,12 @@
         "population": 110000
     },
     "1496511": {
-        "geoid": "1496511",
-        "name": "Novyy Urengoy",
+        "ids": {
+            "geonames": 1496511
+        },
+        "long": {
+            "default": "Novyy Urengoy"
+        },
         "lat": 66.08333,
         "lng": 76.63333,
         "country": "RU",
@@ -2988,8 +4316,12 @@
         "population": 94212
     },
     "1496747": {
-        "geoid": "1496747",
-        "name": "Novosibirsk",
+        "ids": {
+            "geonames": 1496747
+        },
+        "long": {
+            "default": "Novosibirsk"
+        },
         "lat": 55.0415,
         "lng": 82.9346,
         "country": "RU",
@@ -2997,8 +4329,12 @@
         "population": 1419007
     },
     "1496990": {
-        "geoid": "1496990",
-        "name": "Novokuznetsk",
+        "ids": {
+            "geonames": 1496990
+        },
+        "long": {
+            "default": "Novokuznetsk"
+        },
         "lat": 53.7557,
         "lng": 87.1099,
         "country": "RU",
@@ -3006,8 +4342,12 @@
         "population": 539616
     },
     "1497173": {
-        "geoid": "1497173",
-        "name": "Novoaltaysk",
+        "ids": {
+            "geonames": 1497173
+        },
+        "long": {
+            "default": "Novoaltaysk"
+        },
         "lat": 53.3917,
         "lng": 83.9363,
         "country": "RU",
@@ -3015,8 +4355,12 @@
         "population": 61050
     },
     "1497337": {
-        "geoid": "1497337",
-        "name": "Norilsk",
+        "ids": {
+            "geonames": 1497337
+        },
+        "long": {
+            "default": "Norilsk"
+        },
         "lat": 69.3535,
         "lng": 88.2027,
         "country": "RU",
@@ -3024,8 +4368,12 @@
         "population": 140800
     },
     "1497543": {
-        "geoid": "1497543",
-        "name": "Nizhnevartovsk",
+        "ids": {
+            "geonames": 1497543
+        },
+        "long": {
+            "default": "Nizhnevartovsk"
+        },
         "lat": 60.9344,
         "lng": 76.5531,
         "country": "RU",
@@ -3033,8 +4381,12 @@
         "population": 244937
     },
     "1497917": {
-        "geoid": "1497917",
-        "name": "Nefteyugansk",
+        "ids": {
+            "geonames": 1497917
+        },
+        "long": {
+            "default": "Nefteyugansk"
+        },
         "lat": 61.09979,
         "lng": 72.60349,
         "country": "RU",
@@ -3042,8 +4394,12 @@
         "population": 112632
     },
     "1497951": {
-        "geoid": "1497951",
-        "name": "Nazarovo",
+        "ids": {
+            "geonames": 1497951
+        },
+        "long": {
+            "default": "Nazarovo"
+        },
         "lat": 56.0104,
         "lng": 90.4011,
         "country": "RU",
@@ -3051,8 +4407,12 @@
         "population": 55252
     },
     "1498693": {
-        "geoid": "1498693",
-        "name": "Minusinsk",
+        "ids": {
+            "geonames": 1498693
+        },
+        "long": {
+            "default": "Minusinsk"
+        },
         "lat": 53.71028,
         "lng": 91.6875,
         "country": "RU",
@@ -3060,8 +4420,12 @@
         "population": 72781
     },
     "1498894": {
-        "geoid": "1498894",
-        "name": "Miass",
+        "ids": {
+            "geonames": 1498894
+        },
+        "long": {
+            "default": "Miass"
+        },
         "lat": 55.045,
         "lng": 60.10833,
         "country": "RU",
@@ -3069,8 +4433,12 @@
         "population": 167500
     },
     "1498920": {
-        "geoid": "1498920",
-        "name": "Mezhdurechensk",
+        "ids": {
+            "geonames": 1498920
+        },
+        "long": {
+            "default": "Mezhdurechensk"
+        },
         "lat": 53.69417,
         "lng": 88.06028,
         "country": "RU",
@@ -3078,8 +4446,12 @@
         "population": 101026
     },
     "1500607": {
-        "geoid": "1500607",
-        "name": "Lesosibirsk",
+        "ids": {
+            "geonames": 1500607
+        },
+        "long": {
+            "default": "Lesosibirsk"
+        },
         "lat": 58.23583,
         "lng": 92.48278,
         "country": "RU",
@@ -3087,8 +4459,12 @@
         "population": 65945
     },
     "1500665": {
-        "geoid": "1500665",
-        "name": "Leninsk-Kuznetsky",
+        "ids": {
+            "geonames": 1500665
+        },
+        "long": {
+            "default": "Leninsk-Kuznetsky"
+        },
         "lat": 54.6567,
         "lng": 86.1737,
         "country": "RU",
@@ -3096,8 +4472,12 @@
         "population": 109023
     },
     "1500973": {
-        "geoid": "1500973",
-        "name": "Kyzyl",
+        "ids": {
+            "geonames": 1500973
+        },
+        "long": {
+            "default": "Kyzyl"
+        },
         "lat": 51.71472,
         "lng": 94.45338,
         "country": "RU",
@@ -3105,8 +4485,12 @@
         "population": 108240
     },
     "1501321": {
-        "geoid": "1501321",
-        "name": "Kurgan",
+        "ids": {
+            "geonames": 1501321
+        },
+        "long": {
+            "default": "Kurgan"
+        },
         "lat": 55.45,
         "lng": 65.33333,
         "country": "RU",
@@ -3114,8 +4498,12 @@
         "population": 343129
     },
     "1502026": {
-        "geoid": "1502026",
-        "name": "Krasnoyarsk",
+        "ids": {
+            "geonames": 1502026
+        },
+        "long": {
+            "default": "Krasnoyarsk"
+        },
         "lat": 56.01839,
         "lng": 92.86717,
         "country": "RU",
@@ -3123,8 +4511,12 @@
         "population": 927200
     },
     "1502061": {
-        "geoid": "1502061",
-        "name": "Krasnotur’insk",
+        "ids": {
+            "geonames": 1502061
+        },
+        "long": {
+            "default": "Krasnotur’insk"
+        },
         "lat": 59.7666,
         "lng": 60.2086,
         "country": "RU",
@@ -3132,8 +4524,12 @@
         "population": 62600
     },
     "1502603": {
-        "geoid": "1502603",
-        "name": "Kopeysk",
+        "ids": {
+            "geonames": 1502603
+        },
+        "long": {
+            "default": "Kopeysk"
+        },
         "lat": 55.11722,
         "lng": 61.62823,
         "country": "RU",
@@ -3141,8 +4537,12 @@
         "population": 70780
     },
     "1503277": {
-        "geoid": "1503277",
-        "name": "Kiselëvsk",
+        "ids": {
+            "geonames": 1503277
+        },
+        "long": {
+            "default": "Kiselëvsk"
+        },
         "lat": 53.99,
         "lng": 86.6621,
         "country": "RU",
@@ -3150,8 +4550,12 @@
         "population": 104000
     },
     "1503772": {
-        "geoid": "1503772",
-        "name": "Khanty-Mansiysk",
+        "ids": {
+            "geonames": 1503772
+        },
+        "long": {
+            "default": "Khanty-Mansiysk"
+        },
         "lat": 61.00417,
         "lng": 69.00194,
         "country": "RU",
@@ -3159,8 +4563,12 @@
         "population": 67800
     },
     "1503901": {
-        "geoid": "1503901",
-        "name": "Kemerovo",
+        "ids": {
+            "geonames": 1503901
+        },
+        "long": {
+            "default": "Kemerovo"
+        },
         "lat": 55.33333,
         "lng": 86.08333,
         "country": "RU",
@@ -3168,8 +4576,12 @@
         "population": 477090
     },
     "1504682": {
-        "geoid": "1504682",
-        "name": "Kansk",
+        "ids": {
+            "geonames": 1504682
+        },
+        "long": {
+            "default": "Kansk"
+        },
         "lat": 56.20167,
         "lng": 95.7175,
         "country": "RU",
@@ -3177,8 +4589,12 @@
         "population": 101502
     },
     "1504826": {
-        "geoid": "1504826",
-        "name": "Kamensk-Ural’skiy",
+        "ids": {
+            "geonames": 1504826
+        },
+        "long": {
+            "default": "Kamensk-Ural’skiy"
+        },
         "lat": 56.4185,
         "lng": 61.9329,
         "country": "RU",
@@ -3186,8 +4602,12 @@
         "population": 182500
     },
     "1505429": {
-        "geoid": "1505429",
-        "name": "Iskitim",
+        "ids": {
+            "geonames": 1505429
+        },
+        "long": {
+            "default": "Iskitim"
+        },
         "lat": 54.6366,
         "lng": 83.3045,
         "country": "RU",
@@ -3195,8 +4615,12 @@
         "population": 61827
     },
     "1505453": {
-        "geoid": "1505453",
-        "name": "Ishim",
+        "ids": {
+            "geonames": 1505453
+        },
+        "long": {
+            "default": "Ishim"
+        },
         "lat": 56.11281,
         "lng": 69.49015,
         "country": "RU",
@@ -3204,8 +4628,12 @@
         "population": 67762
     },
     "1506271": {
-        "geoid": "1506271",
-        "name": "Gorno-Altaysk",
+        "ids": {
+            "geonames": 1506271
+        },
+        "long": {
+            "default": "Gorno-Altaysk"
+        },
         "lat": 51.96056,
         "lng": 85.91892,
         "country": "RU",
@@ -3213,8 +4641,12 @@
         "population": 54917
     },
     "1508054": {
-        "geoid": "1508054",
-        "name": "Chernogorsk",
+        "ids": {
+            "geonames": 1508054
+        },
+        "long": {
+            "default": "Chernogorsk"
+        },
         "lat": 53.82361,
         "lng": 91.28417,
         "country": "RU",
@@ -3222,8 +4654,12 @@
         "population": 71582
     },
     "1508291": {
-        "geoid": "1508291",
-        "name": "Chelyabinsk",
+        "ids": {
+            "geonames": 1508291
+        },
+        "long": {
+            "default": "Chelyabinsk"
+        },
         "lat": 55.15402,
         "lng": 61.42915,
         "country": "RU",
@@ -3231,8 +4667,12 @@
         "population": 1062919
     },
     "1510018": {
-        "geoid": "1510018",
-        "name": "Biysk",
+        "ids": {
+            "geonames": 1510018
+        },
+        "long": {
+            "default": "Biysk"
+        },
         "lat": 52.53639,
         "lng": 85.20722,
         "country": "RU",
@@ -3240,8 +4680,12 @@
         "population": 215430
     },
     "1510205": {
-        "geoid": "1510205",
-        "name": "Berëzovskiy",
+        "ids": {
+            "geonames": 1510205
+        },
+        "long": {
+            "default": "Berëzovskiy"
+        },
         "lat": 55.6,
         "lng": 86.2,
         "country": "RU",
@@ -3249,8 +4693,12 @@
         "population": 55000
     },
     "1510350": {
-        "geoid": "1510350",
-        "name": "Berdsk",
+        "ids": {
+            "geonames": 1510350
+        },
+        "long": {
+            "default": "Berdsk"
+        },
         "lat": 54.7551,
         "lng": 83.0967,
         "country": "RU",
@@ -3258,8 +4706,12 @@
         "population": 90250
     },
     "1510469": {
-        "geoid": "1510469",
-        "name": "Belovo",
+        "ids": {
+            "geonames": 1510469
+        },
+        "long": {
+            "default": "Belovo"
+        },
         "lat": 54.4165,
         "lng": 86.2976,
         "country": "RU",
@@ -3267,8 +4719,12 @@
         "population": 75764
     },
     "1510853": {
-        "geoid": "1510853",
-        "name": "Barnaul",
+        "ids": {
+            "geonames": 1510853
+        },
+        "long": {
+            "default": "Barnaul"
+        },
         "lat": 53.36056,
         "lng": 83.76361,
         "country": "RU",
@@ -3276,8 +4732,12 @@
         "population": 599579
     },
     "1511330": {
-        "geoid": "1511330",
-        "name": "Asbest",
+        "ids": {
+            "geonames": 1511330
+        },
+        "long": {
+            "default": "Asbest"
+        },
         "lat": 57.00993,
         "lng": 61.45776,
         "country": "RU",
@@ -3285,8 +4745,12 @@
         "population": 74583
     },
     "1511494": {
-        "geoid": "1511494",
-        "name": "Anzhero-Sudzhensk",
+        "ids": {
+            "geonames": 1511494
+        },
+        "long": {
+            "default": "Anzhero-Sudzhensk"
+        },
         "lat": 56.081,
         "lng": 86.0285,
         "country": "RU",
@@ -3294,8 +4758,12 @@
         "population": 82526
     },
     "1512165": {
-        "geoid": "1512165",
-        "name": "Achinsk",
+        "ids": {
+            "geonames": 1512165
+        },
+        "long": {
+            "default": "Achinsk"
+        },
         "lat": 56.2694,
         "lng": 90.4993,
         "country": "RU",
@@ -3303,8 +4771,12 @@
         "population": 117634
     },
     "1512236": {
-        "geoid": "1512236",
-        "name": "Abakan",
+        "ids": {
+            "geonames": 1512236
+        },
+        "long": {
+            "default": "Abakan"
+        },
         "lat": 53.71556,
         "lng": 91.42917,
         "country": "RU",
@@ -3312,8 +4784,12 @@
         "population": 167289
     },
     "1536289": {
-        "geoid": "1536289",
-        "name": "Snezhinsk",
+        "ids": {
+            "geonames": 1536289
+        },
+        "long": {
+            "default": "Snezhinsk"
+        },
         "lat": 56.085,
         "lng": 60.73139,
         "country": "RU",
@@ -3321,8 +4797,12 @@
         "population": 50086
     },
     "1538634": {
-        "geoid": "1538634",
-        "name": "Ozersk",
+        "ids": {
+            "geonames": 1538634
+        },
+        "long": {
+            "default": "Ozersk"
+        },
         "lat": 55.75556,
         "lng": 60.70278,
         "country": "RU",
@@ -3330,8 +4810,12 @@
         "population": 81023
     },
     "1538635": {
-        "geoid": "1538635",
-        "name": "Zheleznogorsk",
+        "ids": {
+            "geonames": 1538635
+        },
+        "long": {
+            "default": "Zheleznogorsk"
+        },
         "lat": 56.25111,
         "lng": 93.53194,
         "country": "RU",
@@ -3339,8 +4823,12 @@
         "population": 93834
     },
     "1538636": {
-        "geoid": "1538636",
-        "name": "Novoural’sk",
+        "ids": {
+            "geonames": 1538636
+        },
+        "long": {
+            "default": "Novoural’sk"
+        },
         "lat": 57.24389,
         "lng": 60.08389,
         "country": "RU",
@@ -3348,8 +4836,12 @@
         "population": 93849
     },
     "1538637": {
-        "geoid": "1538637",
-        "name": "Seversk",
+        "ids": {
+            "geonames": 1538637
+        },
+        "long": {
+            "default": "Seversk"
+        },
         "lat": 56.60056,
         "lng": 84.88639,
         "country": "RU",
@@ -3357,8 +4849,12 @@
         "population": 109844
     },
     "2013159": {
-        "geoid": "2013159",
-        "name": "Yakutsk",
+        "ids": {
+            "geonames": 2013159
+        },
+        "long": {
+            "default": "Yakutsk"
+        },
         "lat": 62.03389,
         "lng": 129.73306,
         "country": "RU",
@@ -3366,8 +4862,12 @@
         "population": 235600
     },
     "2013348": {
-        "geoid": "2013348",
-        "name": "Vladivostok",
+        "ids": {
+            "geonames": 2013348
+        },
+        "long": {
+            "default": "Vladivostok"
+        },
         "lat": 43.10562,
         "lng": 131.87353,
         "country": "RU",
@@ -3375,8 +4875,12 @@
         "population": 587022
     },
     "2013952": {
-        "geoid": "2013952",
-        "name": "Ust’-Ilimsk",
+        "ids": {
+            "geonames": 2013952
+        },
+        "long": {
+            "default": "Ust’-Ilimsk"
+        },
         "lat": 58.00056,
         "lng": 102.66194,
         "country": "RU",
@@ -3384,8 +4888,12 @@
         "population": 100271
     },
     "2014006": {
-        "geoid": "2014006",
-        "name": "Ussuriysk",
+        "ids": {
+            "geonames": 2014006
+        },
+        "long": {
+            "default": "Ussuriysk"
+        },
         "lat": 43.80291,
         "lng": 131.94578,
         "country": "RU",
@@ -3393,8 +4901,12 @@
         "population": 157068
     },
     "2014022": {
-        "geoid": "2014022",
-        "name": "Usol’ye-Sibirskoye",
+        "ids": {
+            "geonames": 2014022
+        },
+        "long": {
+            "default": "Usol’ye-Sibirskoye"
+        },
         "lat": 52.75194,
         "lng": 103.64528,
         "country": "RU",
@@ -3402,8 +4914,12 @@
         "population": 85900
     },
     "2014407": {
-        "geoid": "2014407",
-        "name": "Ulan-Ude",
+        "ids": {
+            "geonames": 2014407
+        },
+        "long": {
+            "default": "Ulan-Ude"
+        },
         "lat": 51.82721,
         "lng": 107.60627,
         "country": "RU",
@@ -3411,8 +4927,12 @@
         "population": 360278
     },
     "2014927": {
-        "geoid": "2014927",
-        "name": "Tulun",
+        "ids": {
+            "geonames": 2014927
+        },
+        "long": {
+            "default": "Tulun"
+        },
         "lat": 54.56358,
         "lng": 100.58143,
         "country": "RU",
@@ -3420,8 +4940,12 @@
         "population": 51330
     },
     "2015833": {
-        "geoid": "2015833",
-        "name": "Svobodnyy",
+        "ids": {
+            "geonames": 2015833
+        },
+        "long": {
+            "default": "Svobodnyy"
+        },
         "lat": 51.37525,
         "lng": 128.14097,
         "country": "RU",
@@ -3429,8 +4953,12 @@
         "population": 61017
     },
     "2019309": {
-        "geoid": "2019309",
-        "name": "Neryungri",
+        "ids": {
+            "geonames": 2019309
+        },
+        "long": {
+            "default": "Neryungri"
+        },
         "lat": 56.66637,
         "lng": 124.63825,
         "country": "RU",
@@ -3438,8 +4966,12 @@
         "population": 66320
     },
     "2019528": {
-        "geoid": "2019528",
-        "name": "Nakhodka",
+        "ids": {
+            "geonames": 2019528
+        },
+        "long": {
+            "default": "Nakhodka"
+        },
         "lat": 42.81384,
         "lng": 132.87348,
         "country": "RU",
@@ -3447,8 +4979,12 @@
         "population": 146920
     },
     "2021618": {
-        "geoid": "2021618",
-        "name": "Krasnokamensk",
+        "ids": {
+            "geonames": 2021618
+        },
+        "long": {
+            "default": "Krasnokamensk"
+        },
         "lat": 50.0979,
         "lng": 118.0369,
         "country": "RU",
@@ -3456,8 +4992,12 @@
         "population": 54316
     },
     "2021851": {
-        "geoid": "2021851",
-        "name": "Komsomolsk-on-Amur",
+        "ids": {
+            "geonames": 2021851
+        },
+        "long": {
+            "default": "Komsomolsk-on-Amur"
+        },
         "lat": 50.55034,
         "lng": 137.00995,
         "country": "RU",
@@ -3465,8 +5005,12 @@
         "population": 275908
     },
     "2022890": {
-        "geoid": "2022890",
-        "name": "Khabarovsk",
+        "ids": {
+            "geonames": 2022890
+        },
+        "long": {
+            "default": "Khabarovsk"
+        },
         "lat": 48.48271,
         "lng": 135.08379,
         "country": "RU",
@@ -3474,8 +5018,12 @@
         "population": 579000
     },
     "2023469": {
-        "geoid": "2023469",
-        "name": "Irkutsk",
+        "ids": {
+            "geonames": 2023469
+        },
+        "long": {
+            "default": "Irkutsk"
+        },
         "lat": 52.29778,
         "lng": 104.29639,
         "country": "RU",
@@ -3483,8 +5031,12 @@
         "population": 586695
     },
     "2025339": {
-        "geoid": "2025339",
-        "name": "Chita",
+        "ids": {
+            "geonames": 2025339
+        },
+        "long": {
+            "default": "Chita"
+        },
         "lat": 52.03171,
         "lng": 113.50087,
         "country": "RU",
@@ -3492,8 +5044,12 @@
         "population": 308500
     },
     "2025527": {
-        "geoid": "2025527",
-        "name": "Cheremkhovo",
+        "ids": {
+            "geonames": 2025527
+        },
+        "long": {
+            "default": "Cheremkhovo"
+        },
         "lat": 53.15611,
         "lng": 103.0675,
         "country": "RU",
@@ -3501,8 +5057,12 @@
         "population": 57395
     },
     "2026609": {
-        "geoid": "2026609",
-        "name": "Blagoveshchensk",
+        "ids": {
+            "geonames": 2026609
+        },
+        "long": {
+            "default": "Blagoveshchensk"
+        },
         "lat": 50.27961,
         "lng": 127.5405,
         "country": "RU",
@@ -3510,8 +5070,12 @@
         "population": 221296
     },
     "2026643": {
-        "geoid": "2026643",
-        "name": "Birobidzhan",
+        "ids": {
+            "geonames": 2026643
+        },
+        "long": {
+            "default": "Birobidzhan"
+        },
         "lat": 48.79284,
         "lng": 132.92386,
         "country": "RU",
@@ -3519,8 +5083,12 @@
         "population": 76146
     },
     "2026895": {
-        "geoid": "2026895",
-        "name": "Belogorsk",
+        "ids": {
+            "geonames": 2026895
+        },
+        "long": {
+            "default": "Belogorsk"
+        },
         "lat": 50.91644,
         "lng": 128.47726,
         "country": "RU",
@@ -3528,8 +5096,12 @@
         "population": 67911
     },
     "2027456": {
-        "geoid": "2027456",
-        "name": "Artëm",
+        "ids": {
+            "geonames": 2027456
+        },
+        "long": {
+            "default": "Artëm"
+        },
         "lat": 43.3595,
         "lng": 132.18887,
         "country": "RU",
@@ -3537,8 +5109,12 @@
         "population": 102300
     },
     "2027468": {
-        "geoid": "2027468",
-        "name": "Arsen’yev",
+        "ids": {
+            "geonames": 2027468
+        },
+        "long": {
+            "default": "Arsen’yev"
+        },
         "lat": 44.15254,
         "lng": 133.27791,
         "country": "RU",
@@ -3546,8 +5122,12 @@
         "population": 58700
     },
     "2027667": {
-        "geoid": "2027667",
-        "name": "Angarsk",
+        "ids": {
+            "geonames": 2027667
+        },
+        "long": {
+            "default": "Angarsk"
+        },
         "lat": 52.53667,
         "lng": 103.88639,
         "country": "RU",
@@ -3555,8 +5135,12 @@
         "population": 243158
     },
     "2051523": {
-        "geoid": "2051523",
-        "name": "Bratsk",
+        "ids": {
+            "geonames": 2051523
+        },
+        "long": {
+            "default": "Bratsk"
+        },
         "lat": 56.1325,
         "lng": 101.61417,
         "country": "RU",
@@ -3564,8 +5148,12 @@
         "population": 256600
     },
     "2056752": {
-        "geoid": "2056752",
-        "name": "Khabarovsk Vtoroy",
+        "ids": {
+            "geonames": 2056752
+        },
+        "long": {
+            "default": "Khabarovsk Vtoroy"
+        },
         "lat": 48.43776,
         "lng": 135.13329,
         "country": "RU",
@@ -3573,8 +5161,12 @@
         "population": 578303
     },
     "2119441": {
-        "geoid": "2119441",
-        "name": "Yuzhno-Sakhalinsk",
+        "ids": {
+            "geonames": 2119441
+        },
+        "long": {
+            "default": "Yuzhno-Sakhalinsk"
+        },
         "lat": 46.95407,
         "lng": 142.73603,
         "country": "RU",
@@ -3582,8 +5174,12 @@
         "population": 176484
     },
     "2122104": {
-        "geoid": "2122104",
-        "name": "Petropavlovsk-Kamchatsky",
+        "ids": {
+            "geonames": 2122104
+        },
+        "long": {
+            "default": "Petropavlovsk-Kamchatsky"
+        },
         "lat": 53.04444,
         "lng": 158.65076,
         "country": "RU",
@@ -3591,8 +5187,12 @@
         "population": 187282
     },
     "2123628": {
-        "geoid": "2123628",
-        "name": "Magadan",
+        "ids": {
+            "geonames": 2123628
+        },
+        "long": {
+            "default": "Magadan"
+        },
         "lat": 59.5638,
         "lng": 150.80347,
         "country": "RU",
@@ -3600,8 +5200,12 @@
         "population": 95282
     },
     "6418146": {
-        "geoid": "6418146",
-        "name": "Chertanovo Yuzhnoye",
+        "ids": {
+            "geonames": 6418146
+        },
+        "long": {
+            "default": "Chertanovo Yuzhnoye"
+        },
         "lat": 55.59072,
         "lng": 37.59519,
         "country": "RU",
@@ -3609,8 +5213,12 @@
         "population": 142000
     },
     "6418220": {
-        "geoid": "6418220",
-        "name": "Orekhovo-Borisovo",
+        "ids": {
+            "geonames": 6418220
+        },
+        "long": {
+            "default": "Orekhovo-Borisovo"
+        },
         "lat": 55.61252,
         "lng": 37.72639,
         "country": "RU",
@@ -3618,8 +5226,12 @@
         "population": 144000
     },
     "6695754": {
-        "geoid": "6695754",
-        "name": "Kogalym",
+        "ids": {
+            "geonames": 6695754
+        },
+        "long": {
+            "default": "Kogalym"
+        },
         "lat": 62.26537,
         "lng": 74.47906,
         "country": "RU",
@@ -3627,8 +5239,12 @@
         "population": 57800
     },
     "6853140": {
-        "geoid": "6853140",
-        "name": "Lesnoy",
+        "ids": {
+            "geonames": 6853140
+        },
+        "long": {
+            "default": "Lesnoy"
+        },
         "lat": 57.6198,
         "lng": 63.0784,
         "country": "RU",
@@ -3636,8 +5252,12 @@
         "population": 55100
     },
     "8436165": {
-        "geoid": "8436165",
-        "name": "Kurortnyy",
+        "ids": {
+            "geonames": 8436165
+        },
+        "long": {
+            "default": "Kurortnyy"
+        },
         "lat": 60.16562,
         "lng": 29.908,
         "country": "RU",
@@ -3645,8 +5265,12 @@
         "population": 70589
     },
     "8504946": {
-        "geoid": "8504946",
-        "name": "Chernaya Rechka",
+        "ids": {
+            "geonames": 8504946
+        },
+        "long": {
+            "default": "Chernaya Rechka"
+        },
         "lat": 59.98594,
         "lng": 30.30338,
         "country": "RU",
@@ -3654,8 +5278,12 @@
         "population": 56429
     },
     "8504948": {
-        "geoid": "8504948",
-        "name": "Petrogradka",
+        "ids": {
+            "geonames": 8504948
+        },
+        "long": {
+            "default": "Petrogradka"
+        },
         "lat": 59.96567,
         "lng": 30.31154,
         "country": "RU",
@@ -3663,8 +5291,12 @@
         "population": 130455
     },
     "8504949": {
-        "geoid": "8504949",
-        "name": "Vasyl'evsky Ostrov",
+        "ids": {
+            "geonames": 8504949
+        },
+        "long": {
+            "default": "Vasyl'evsky Ostrov"
+        },
         "lat": 59.94091,
         "lng": 30.25377,
         "country": "RU",
@@ -3672,8 +5304,12 @@
         "population": 203058
     },
     "8504950": {
-        "geoid": "8504950",
-        "name": "Parnas",
+        "ids": {
+            "geonames": 8504950
+        },
+        "long": {
+            "default": "Parnas"
+        },
         "lat": 60.06964,
         "lng": 30.3487,
         "country": "RU",
@@ -3681,8 +5317,12 @@
         "population": 66693
     },
     "8504951": {
-        "geoid": "8504951",
-        "name": "Kalininskiy",
+        "ids": {
+            "geonames": 8504951
+        },
+        "long": {
+            "default": "Kalininskiy"
+        },
         "lat": 59.99675,
         "lng": 30.3899,
         "country": "RU",
@@ -3690,8 +5330,12 @@
         "population": 504641
     },
     "8504952": {
-        "geoid": "8504952",
-        "name": "Krasnogvargeisky",
+        "ids": {
+            "geonames": 8504952
+        },
+        "long": {
+            "default": "Krasnogvargeisky"
+        },
         "lat": 59.97305,
         "lng": 30.47607,
         "country": "RU",
@@ -3699,8 +5343,12 @@
         "population": 337091
     },
     "8504953": {
-        "geoid": "8504953",
-        "name": "Admiralteisky",
+        "ids": {
+            "geonames": 8504953
+        },
+        "long": {
+            "default": "Admiralteisky"
+        },
         "lat": 59.90839,
         "lng": 30.28484,
         "country": "RU",
@@ -3708,8 +5356,12 @@
         "population": 157897
     },
     "8504958": {
-        "geoid": "8504958",
-        "name": "Akademicheskoe",
+        "ids": {
+            "geonames": 8504958
+        },
+        "long": {
+            "default": "Akademicheskoe"
+        },
         "lat": 60.01375,
         "lng": 30.39471,
         "country": "RU",
@@ -3717,8 +5369,12 @@
         "population": 103304
     },
     "8504959": {
-        "geoid": "8504959",
-        "name": "Finlyandskiy",
+        "ids": {
+            "geonames": 8504959
+        },
+        "long": {
+            "default": "Finlyandskiy"
+        },
         "lat": 59.96824,
         "lng": 30.36415,
         "country": "RU",
@@ -3726,8 +5382,12 @@
         "population": 72292
     },
     "8504960": {
-        "geoid": "8504960",
-        "name": "Centralniy",
+        "ids": {
+            "geonames": 8504960
+        },
+        "long": {
+            "default": "Centralniy"
+        },
         "lat": 59.93111,
         "lng": 30.36072,
         "country": "RU",
@@ -3735,8 +5395,12 @@
         "population": 214625
     },
     "8504964": {
-        "geoid": "8504964",
-        "name": "Svetlanovskiy",
+        "ids": {
+            "geonames": 8504964
+        },
+        "long": {
+            "default": "Svetlanovskiy"
+        },
         "lat": 60.00276,
         "lng": 30.33051,
         "country": "RU",
@@ -3744,8 +5408,12 @@
         "population": 85508
     },
     "8505053": {
-        "geoid": "8505053",
-        "name": "Vostochnoe Degunino",
+        "ids": {
+            "geonames": 8505053
+        },
+        "long": {
+            "default": "Vostochnoe Degunino"
+        },
         "lat": 55.8801,
         "lng": 37.55758,
         "country": "RU",

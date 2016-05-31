@@ -4,8 +4,8 @@
             "fips": "83",
             "geonames": 1337166
         },
-        "names": {
-            "long": "Rājshāhi"
+        "long": {
+            "default": "Rājshāhi"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "81",
             "geonames": 1337179
         },
-        "names": {
-            "long": "Dhaka"
+        "long": {
+            "default": "Dhaka"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "84",
             "geonames": 1337200
         },
-        "names": {
-            "long": "Chittagong"
+        "long": {
+            "default": "Chittagong"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "82",
             "geonames": 1337210
         },
-        "names": {
-            "long": "Khulna"
+        "long": {
+            "default": "Khulna"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "85",
             "geonames": 1337229
         },
-        "names": {
-            "long": "Barisāl"
+        "long": {
+            "default": "Barisāl"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "86",
             "geonames": 1477362
         },
-        "names": {
-            "long": "Sylhet"
+        "long": {
+            "default": "Sylhet"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "87",
             "geonames": 7671048
         },
-        "names": {
-            "long": "Rangpur Division"
+        "long": {
+            "default": "Rangpur Division"
         }
     }
 ]

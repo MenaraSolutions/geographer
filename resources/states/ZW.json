@@ -4,8 +4,8 @@
             "fips": "02",
             "geonames": 886119
         },
-        "names": {
-            "long": "Midlands"
+        "long": {
+            "default": "Midlands"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "07",
             "geonames": 886747
         },
-        "names": {
-            "long": "Matabeleland South"
+        "long": {
+            "default": "Matabeleland South"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "06",
             "geonames": 886748
         },
-        "names": {
-            "long": "Matabeleland North"
+        "long": {
+            "default": "Matabeleland North"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 886761
         },
-        "names": {
-            "long": "Masvingo"
+        "long": {
+            "default": "Masvingo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "05",
             "geonames": 886841
         },
-        "names": {
-            "long": "Mashonaland West"
+        "long": {
+            "default": "Mashonaland West"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "04",
             "geonames": 886842
         },
-        "names": {
-            "long": "Mashonaland East"
+        "long": {
+            "default": "Mashonaland East"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "03",
             "geonames": 886843
         },
-        "names": {
-            "long": "Mashonaland Central"
+        "long": {
+            "default": "Mashonaland Central"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "01",
             "geonames": 887358
         },
-        "names": {
-            "long": "Manicaland"
+        "long": {
+            "default": "Manicaland"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "09",
             "geonames": 1105843
         },
-        "names": {
-            "long": "Bulawayo"
+        "long": {
+            "default": "Bulawayo"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 1105844
         },
-        "names": {
-            "long": "Harare"
+        "long": {
+            "default": "Harare"
         }
     }
 ]

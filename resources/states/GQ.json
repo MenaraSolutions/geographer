@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 2310307
         },
-        "names": {
-            "long": "Annobón Province"
+        "long": {
+            "default": "Annobón Province"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 2566978
         },
-        "names": {
-            "long": "Bioko Norte"
+        "long": {
+            "default": "Bioko Norte"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 2566979
         },
-        "names": {
-            "long": "Bioko Sur"
+        "long": {
+            "default": "Bioko Sur"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 2566980
         },
-        "names": {
-            "long": "Centro Sur"
+        "long": {
+            "default": "Centro Sur"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 2566981
         },
-        "names": {
-            "long": "Kié-Ntem"
+        "long": {
+            "default": "Kié-Ntem"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "08",
             "geonames": 2566982
         },
-        "names": {
-            "long": "Litoral"
+        "long": {
+            "default": "Litoral"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 2566983
         },
-        "names": {
-            "long": "Wele-Nzas"
+        "long": {
+            "default": "Wele-Nzas"
         }
     }
 ]

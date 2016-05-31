@@ -4,8 +4,8 @@
             "fips": "04",
             "geonames": 4019991
         },
-        "names": {
-            "long": "Îles Marquises"
+        "long": {
+            "default": "Îles Marquises"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 4030621
         },
-        "names": {
-            "long": "Îles Tuamotu-Gambier"
+        "long": {
+            "default": "Îles Tuamotu-Gambier"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "02",
             "geonames": 4034364
         },
-        "names": {
-            "long": "Leeward Islands"
+        "long": {
+            "default": "Leeward Islands"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 4034365
         },
-        "names": {
-            "long": "Îles du Vent"
+        "long": {
+            "default": "Îles du Vent"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "05",
             "geonames": 4034366
         },
-        "names": {
-            "long": "Îles Australes"
+        "long": {
+            "default": "Îles Australes"
         }
     }
 ]

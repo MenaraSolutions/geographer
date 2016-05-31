@@ -4,8 +4,8 @@
             "fips": "05",
             "geonames": 2411683
         },
-        "names": {
-            "long": "Western"
+        "long": {
+            "default": "Western"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 2411711
         },
-        "names": {
-            "long": "Upper River"
+        "long": {
+            "default": "Upper River"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 2412353
         },
-        "names": {
-            "long": "North Bank"
+        "long": {
+            "default": "North Bank"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 2412707
         },
-        "names": {
-            "long": "Central River"
+        "long": {
+            "default": "Central River"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "02",
             "geonames": 2412716
         },
-        "names": {
-            "long": "Lower River"
+        "long": {
+            "default": "Lower River"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 2413875
         },
-        "names": {
-            "long": "Banjul"
+        "long": {
+            "default": "Banjul"
         }
     }
 ]

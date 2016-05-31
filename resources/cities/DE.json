@@ -1,7 +1,11 @@
 {
     "2803560": {
-        "geoid": "2803560",
-        "name": "Zwickau",
+        "ids": {
+            "geonames": 2803560
+        },
+        "long": {
+            "default": "Zwickau"
+        },
         "lat": 50.72724,
         "lng": 12.48839,
         "country": "DE",
@@ -9,8 +13,12 @@
         "population": 98796
     },
     "2805059": {
-        "geoid": "2805059",
-        "name": "Zehlendorf",
+        "ids": {
+            "geonames": 2805059
+        },
+        "long": {
+            "default": "Zehlendorf"
+        },
         "lat": 52.43333,
         "lng": 13.25,
         "country": "DE",
@@ -18,8 +26,12 @@
         "population": 58469
     },
     "2805615": {
-        "geoid": "2805615",
-        "name": "Würzburg",
+        "ids": {
+            "geonames": 2805615
+        },
+        "long": {
+            "default": "Würzburg"
+        },
         "lat": 49.79391,
         "lng": 9.95121,
         "country": "DE",
@@ -27,8 +39,12 @@
         "population": 133731
     },
     "2805753": {
-        "geoid": "2805753",
-        "name": "Wuppertal",
+        "ids": {
+            "geonames": 2805753
+        },
+        "long": {
+            "default": "Wuppertal"
+        },
         "lat": 51.27027,
         "lng": 7.16755,
         "country": "DE",
@@ -36,8 +52,12 @@
         "population": 360797
     },
     "2806142": {
-        "geoid": "2806142",
-        "name": "Worms",
+        "ids": {
+            "geonames": 2806142
+        },
+        "long": {
+            "default": "Worms"
+        },
         "lat": 49.63278,
         "lng": 8.35916,
         "country": "DE",
@@ -45,8 +65,12 @@
         "population": 81099
     },
     "2806654": {
-        "geoid": "2806654",
-        "name": "Wolfsburg",
+        "ids": {
+            "geonames": 2806654
+        },
+        "long": {
+            "default": "Wolfsburg"
+        },
         "lat": 52.42452,
         "lng": 10.7815,
         "country": "DE",
@@ -54,8 +78,12 @@
         "population": 123064
     },
     "2806914": {
-        "geoid": "2806914",
-        "name": "Wolfenbüttel",
+        "ids": {
+            "geonames": 2806914
+        },
+        "long": {
+            "default": "Wolfenbüttel"
+        },
         "lat": 52.16442,
         "lng": 10.54095,
         "country": "DE",
@@ -63,8 +91,12 @@
         "population": 54740
     },
     "2807363": {
-        "geoid": "2807363",
-        "name": "Witten",
+        "ids": {
+            "geonames": 2807363
+        },
+        "long": {
+            "default": "Witten"
+        },
         "lat": 51.44362,
         "lng": 7.35258,
         "country": "DE",
@@ -72,8 +104,12 @@
         "population": 101247
     },
     "2807748": {
-        "geoid": "2807748",
-        "name": "Winterhude",
+        "ids": {
+            "geonames": 2807748
+        },
+        "long": {
+            "default": "Winterhude"
+        },
         "lat": 53.6,
         "lng": 10,
         "country": "DE",
@@ -81,8 +117,12 @@
         "population": 51297
     },
     "2808473": {
-        "geoid": "2808473",
-        "name": "Wilmersdorf",
+        "ids": {
+            "geonames": 2808473
+        },
+        "long": {
+            "default": "Wilmersdorf"
+        },
         "lat": 52.48333,
         "lng": 13.31667,
         "country": "DE",
@@ -90,8 +130,12 @@
         "population": 94113
     },
     "2808559": {
-        "geoid": "2808559",
-        "name": "Willich",
+        "ids": {
+            "geonames": 2808559
+        },
+        "long": {
+            "default": "Willich"
+        },
         "lat": 51.26371,
         "lng": 6.54734,
         "country": "DE",
@@ -99,8 +143,12 @@
         "population": 51843
     },
     "2808720": {
-        "geoid": "2808720",
-        "name": "Wilhelmshaven",
+        "ids": {
+            "geonames": 2808720
+        },
+        "long": {
+            "default": "Wilhelmshaven"
+        },
         "lat": 53.52998,
         "lng": 8.11253,
         "country": "DE",
@@ -108,8 +156,12 @@
         "population": 84393
     },
     "2809346": {
-        "geoid": "2809346",
-        "name": "Wiesbaden",
+        "ids": {
+            "geonames": 2809346
+        },
+        "long": {
+            "default": "Wiesbaden"
+        },
         "lat": 50.08258,
         "lng": 8.24932,
         "country": "DE",
@@ -117,8 +169,12 @@
         "population": 272432
     },
     "2809889": {
-        "geoid": "2809889",
-        "name": "Wetzlar",
+        "ids": {
+            "geonames": 2809889
+        },
+        "long": {
+            "default": "Wetzlar"
+        },
         "lat": 50.56109,
         "lng": 8.50495,
         "country": "DE",
@@ -126,8 +182,12 @@
         "population": 52656
     },
     "2810678": {
-        "geoid": "2810678",
-        "name": "Wesel",
+        "ids": {
+            "geonames": 2810678
+        },
+        "long": {
+            "default": "Wesel"
+        },
         "lat": 51.6669,
         "lng": 6.62037,
         "country": "DE",
@@ -135,8 +195,12 @@
         "population": 61685
     },
     "2812482": {
-        "geoid": "2812482",
-        "name": "Weimar",
+        "ids": {
+            "geonames": 2812482
+        },
+        "long": {
+            "default": "Weimar"
+        },
         "lat": 50.9803,
         "lng": 11.32903,
         "country": "DE",
@@ -144,8 +208,12 @@
         "population": 64727
     },
     "2813472": {
-        "geoid": "2813472",
-        "name": "Wedding",
+        "ids": {
+            "geonames": 2813472
+        },
+        "long": {
+            "default": "Wedding"
+        },
         "lat": 52.54734,
         "lng": 13.35594,
         "country": "DE",
@@ -153,8 +221,12 @@
         "population": 78290
     },
     "2815330": {
-        "geoid": "2815330",
-        "name": "Waiblingen",
+        "ids": {
+            "geonames": 2815330
+        },
+        "long": {
+            "default": "Waiblingen"
+        },
         "lat": 48.83241,
         "lng": 9.31641,
         "country": "DE",
@@ -162,8 +234,12 @@
         "population": 52945
     },
     "2817220": {
-        "geoid": "2817220",
-        "name": "Villingen-Schwenningen",
+        "ids": {
+            "geonames": 2817220
+        },
+        "long": {
+            "default": "Villingen-Schwenningen"
+        },
         "lat": 48.06226,
         "lng": 8.49358,
         "country": "DE",
@@ -171,8 +247,12 @@
         "population": 81770
     },
     "2817311": {
-        "geoid": "2817311",
-        "name": "Viersen",
+        "ids": {
+            "geonames": 2817311
+        },
+        "long": {
+            "default": "Viersen"
+        },
         "lat": 51.25435,
         "lng": 6.39441,
         "country": "DE",
@@ -180,8 +260,12 @@
         "population": 76153
     },
     "2817724": {
-        "geoid": "2817724",
-        "name": "Velbert",
+        "ids": {
+            "geonames": 2817724
+        },
+        "long": {
+            "default": "Velbert"
+        },
         "lat": 51.33537,
         "lng": 7.04348,
         "country": "DE",
@@ -189,8 +273,12 @@
         "population": 87669
     },
     "2820087": {
-        "geoid": "2820087",
-        "name": "Unna",
+        "ids": {
+            "geonames": 2820087
+        },
+        "long": {
+            "default": "Unna"
+        },
         "lat": 51.53795,
         "lng": 7.68969,
         "country": "DE",
@@ -198,8 +286,12 @@
         "population": 66734
     },
     "2820256": {
-        "geoid": "2820256",
-        "name": "Ulm",
+        "ids": {
+            "geonames": 2820256
+        },
+        "long": {
+            "default": "Ulm"
+        },
         "lat": 48.39841,
         "lng": 9.99155,
         "country": "DE",
@@ -207,8 +299,12 @@
         "population": 120451
     },
     "2820860": {
-        "geoid": "2820860",
-        "name": "Tübingen",
+        "ids": {
+            "geonames": 2820860
+        },
+        "long": {
+            "default": "Tübingen"
+        },
         "lat": 48.52266,
         "lng": 9.05222,
         "country": "DE",
@@ -216,8 +312,12 @@
         "population": 83416
     },
     "2821029": {
-        "geoid": "2821029",
-        "name": "Troisdorf",
+        "ids": {
+            "geonames": 2821029
+        },
+        "long": {
+            "default": "Troisdorf"
+        },
         "lat": 50.80901,
         "lng": 7.14968,
         "country": "DE",
@@ -225,8 +325,12 @@
         "population": 74749
     },
     "2821164": {
-        "geoid": "2821164",
-        "name": "Trier",
+        "ids": {
+            "geonames": 2821164
+        },
+        "long": {
+            "default": "Trier"
+        },
         "lat": 49.75565,
         "lng": 6.63935,
         "country": "DE",
@@ -234,8 +338,12 @@
         "population": 100129
     },
     "2823538": {
-        "geoid": "2823538",
-        "name": "Tempelhof",
+        "ids": {
+            "geonames": 2823538
+        },
+        "long": {
+            "default": "Tempelhof"
+        },
         "lat": 52.46667,
         "lng": 13.4,
         "country": "DE",
@@ -243,8 +351,12 @@
         "population": 56669
     },
     "2825297": {
-        "geoid": "2825297",
-        "name": "Stuttgart",
+        "ids": {
+            "geonames": 2825297
+        },
+        "long": {
+            "default": "Stuttgart"
+        },
         "lat": 48.78232,
         "lng": 9.17702,
         "country": "DE",
@@ -252,8 +364,12 @@
         "population": 589793
     },
     "2826287": {
-        "geoid": "2826287",
-        "name": "Stralsund",
+        "ids": {
+            "geonames": 2826287
+        },
+        "long": {
+            "default": "Stralsund"
+        },
         "lat": 54.30911,
         "lng": 13.0818,
         "country": "DE",
@@ -261,8 +377,12 @@
         "population": 58976
     },
     "2826595": {
-        "geoid": "2826595",
-        "name": "Stolberg",
+        "ids": {
+            "geonames": 2826595
+        },
+        "long": {
+            "default": "Stolberg"
+        },
         "lat": 50.77368,
         "lng": 6.22595,
         "country": "DE",
@@ -270,8 +390,12 @@
         "population": 58874
     },
     "2829109": {
-        "geoid": "2829109",
-        "name": "Steglitz",
+        "ids": {
+            "geonames": 2829109
+        },
+        "long": {
+            "default": "Steglitz"
+        },
         "lat": 52.45606,
         "lng": 13.332,
         "country": "DE",
@@ -279,8 +403,12 @@
         "population": 72464
     },
     "2830582": {
-        "geoid": "2830582",
-        "name": "Speyer",
+        "ids": {
+            "geonames": 2830582
+        },
+        "long": {
+            "default": "Speyer"
+        },
         "lat": 49.32083,
         "lng": 8.43111,
         "country": "DE",
@@ -288,8 +416,12 @@
         "population": 50343
     },
     "2831580": {
-        "geoid": "2831580",
-        "name": "Solingen",
+        "ids": {
+            "geonames": 2831580
+        },
+        "long": {
+            "default": "Solingen"
+        },
         "lat": 51.17343,
         "lng": 7.0845,
         "country": "DE",
@@ -297,8 +429,12 @@
         "population": 164359
     },
     "2831948": {
-        "geoid": "2831948",
-        "name": "Sindelfingen",
+        "ids": {
+            "geonames": 2831948
+        },
+        "long": {
+            "default": "Sindelfingen"
+        },
         "lat": 48.7,
         "lng": 9.01667,
         "country": "DE",
@@ -306,8 +442,12 @@
         "population": 61311
     },
     "2832495": {
-        "geoid": "2832495",
-        "name": "Siegen",
+        "ids": {
+            "geonames": 2832495
+        },
+        "long": {
+            "default": "Siegen"
+        },
         "lat": 50.87481,
         "lng": 8.02431,
         "country": "DE",
@@ -315,8 +455,12 @@
         "population": 107242
     },
     "2834265": {
-        "geoid": "2834265",
-        "name": "Schwerte",
+        "ids": {
+            "geonames": 2834265
+        },
+        "long": {
+            "default": "Schwerte"
+        },
         "lat": 51.44387,
         "lng": 7.5675,
         "country": "DE",
@@ -324,8 +468,12 @@
         "population": 50399
     },
     "2834282": {
-        "geoid": "2834282",
-        "name": "Schwerin",
+        "ids": {
+            "geonames": 2834282
+        },
+        "long": {
+            "default": "Schwerin"
+        },
         "lat": 53.62937,
         "lng": 11.41316,
         "country": "DE",
@@ -333,8 +481,12 @@
         "population": 96641
     },
     "2834498": {
-        "geoid": "2834498",
-        "name": "Schweinfurt",
+        "ids": {
+            "geonames": 2834498
+        },
+        "long": {
+            "default": "Schweinfurt"
+        },
         "lat": 50.04937,
         "lng": 10.22175,
         "country": "DE",
@@ -342,8 +494,12 @@
         "population": 54012
     },
     "2835482": {
-        "geoid": "2835482",
-        "name": "Schwäbisch Gmünd",
+        "ids": {
+            "geonames": 2835482
+        },
+        "long": {
+            "default": "Schwäbisch Gmünd"
+        },
         "lat": 48.79947,
         "lng": 9.79809,
         "country": "DE",
@@ -351,8 +507,12 @@
         "population": 61338
     },
     "2836788": {
-        "geoid": "2836788",
-        "name": "Schöneberg",
+        "ids": {
+            "geonames": 2836788
+        },
+        "long": {
+            "default": "Schöneberg"
+        },
         "lat": 52.46667,
         "lng": 13.35,
         "country": "DE",
@@ -360,8 +520,12 @@
         "population": 115976
     },
     "2841648": {
-        "geoid": "2841648",
-        "name": "Sankt Augustin",
+        "ids": {
+            "geonames": 2841648
+        },
+        "long": {
+            "default": "Sankt Augustin"
+        },
         "lat": 50.77538,
         "lng": 7.197,
         "country": "DE",
@@ -369,8 +533,12 @@
         "population": 56094
     },
     "2842647": {
-        "geoid": "2842647",
-        "name": "Saarbrücken",
+        "ids": {
+            "geonames": 2842647
+        },
+        "long": {
+            "default": "Saarbrücken"
+        },
         "lat": 49.2354,
         "lng": 6.98165,
         "country": "DE",
@@ -378,8 +546,12 @@
         "population": 181227
     },
     "2842884": {
-        "geoid": "2842884",
-        "name": "Rüsselsheim",
+        "ids": {
+            "geonames": 2842884
+        },
+        "long": {
+            "default": "Rüsselsheim"
+        },
         "lat": 49.98955,
         "lng": 8.42251,
         "country": "DE",
@@ -387,8 +559,12 @@
         "population": 59730
     },
     "2844588": {
-        "geoid": "2844588",
-        "name": "Rostock",
+        "ids": {
+            "geonames": 2844588
+        },
+        "long": {
+            "default": "Rostock"
+        },
         "lat": 54.0887,
         "lng": 12.14049,
         "country": "DE",
@@ -396,8 +572,12 @@
         "population": 198293
     },
     "2844988": {
-        "geoid": "2844988",
-        "name": "Rosenheim",
+        "ids": {
+            "geonames": 2844988
+        },
+        "long": {
+            "default": "Rosenheim"
+        },
         "lat": 47.85637,
         "lng": 12.12247,
         "country": "DE",
@@ -405,8 +585,12 @@
         "population": 60167
     },
     "2847645": {
-        "geoid": "2847645",
-        "name": "Rheine",
+        "ids": {
+            "geonames": 2847645
+        },
+        "long": {
+            "default": "Rheine"
+        },
         "lat": 52.28509,
         "lng": 7.44055,
         "country": "DE",
@@ -414,8 +598,12 @@
         "population": 76491
     },
     "2847736": {
-        "geoid": "2847736",
-        "name": "Reutlingen",
+        "ids": {
+            "geonames": 2847736
+        },
+        "long": {
+            "default": "Reutlingen"
+        },
         "lat": 48.49144,
         "lng": 9.20427,
         "country": "DE",
@@ -423,8 +611,12 @@
         "population": 112627
     },
     "2848273": {
-        "geoid": "2848273",
-        "name": "Remscheid",
+        "ids": {
+            "geonames": 2848273
+        },
+        "long": {
+            "default": "Remscheid"
+        },
         "lat": 51.17983,
         "lng": 7.1925,
         "country": "DE",
@@ -432,8 +624,12 @@
         "population": 117118
     },
     "2848756": {
-        "geoid": "2848756",
-        "name": "Reinickendorf",
+        "ids": {
+            "geonames": 2848756
+        },
+        "long": {
+            "default": "Reinickendorf"
+        },
         "lat": 52.56667,
         "lng": 13.33333,
         "country": "DE",
@@ -441,8 +637,12 @@
         "population": 75414
     },
     "2849483": {
-        "geoid": "2849483",
-        "name": "Regensburg",
+        "ids": {
+            "geonames": 2849483
+        },
+        "long": {
+            "default": "Regensburg"
+        },
         "lat": 49.01513,
         "lng": 12.10161,
         "country": "DE",
@@ -450,8 +650,12 @@
         "population": 129151
     },
     "2849647": {
-        "geoid": "2849647",
-        "name": "Recklinghausen",
+        "ids": {
+            "geonames": 2849647
+        },
+        "long": {
+            "default": "Recklinghausen"
+        },
         "lat": 51.61379,
         "lng": 7.19738,
         "country": "DE",
@@ -459,8 +663,12 @@
         "population": 122438
     },
     "2850174": {
-        "geoid": "2850174",
-        "name": "Ratingen",
+        "ids": {
+            "geonames": 2850174
+        },
+        "long": {
+            "default": "Ratingen"
+        },
         "lat": 51.29724,
         "lng": 6.84929,
         "country": "DE",
@@ -468,8 +676,12 @@
         "population": 91606
     },
     "2851746": {
-        "geoid": "2851746",
-        "name": "Pulheim",
+        "ids": {
+            "geonames": 2851746
+        },
+        "long": {
+            "default": "Pulheim"
+        },
         "lat": 50.99965,
         "lng": 6.80632,
         "country": "DE",
@@ -477,8 +689,12 @@
         "population": 53762
     },
     "2852217": {
-        "geoid": "2852217",
-        "name": "Prenzlauer Berg",
+        "ids": {
+            "geonames": 2852217
+        },
+        "long": {
+            "default": "Prenzlauer Berg"
+        },
         "lat": 52.53878,
         "lng": 13.42443,
         "country": "DE",
@@ -486,8 +702,12 @@
         "population": 148878
     },
     "2852458": {
-        "geoid": "2852458",
-        "name": "Potsdam",
+        "ids": {
+            "geonames": 2852458
+        },
+        "long": {
+            "default": "Potsdam"
+        },
         "lat": 52.39886,
         "lng": 13.06566,
         "country": "DE",
@@ -495,8 +715,12 @@
         "population": 145292
     },
     "2853292": {
-        "geoid": "2853292",
-        "name": "Plauen",
+        "ids": {
+            "geonames": 2853292
+        },
+        "long": {
+            "default": "Plauen"
+        },
         "lat": 50.4973,
         "lng": 12.13782,
         "country": "DE",
@@ -504,8 +728,12 @@
         "population": 66412
     },
     "2853969": {
-        "geoid": "2853969",
-        "name": "Pforzheim",
+        "ids": {
+            "geonames": 2853969
+        },
+        "long": {
+            "default": "Pforzheim"
+        },
         "lat": 48.88436,
         "lng": 8.69892,
         "country": "DE",
@@ -513,8 +741,12 @@
         "population": 119313
     },
     "2855328": {
-        "geoid": "2855328",
-        "name": "Passau",
+        "ids": {
+            "geonames": 2855328
+        },
+        "long": {
+            "default": "Passau"
+        },
         "lat": 48.5665,
         "lng": 13.43122,
         "country": "DE",
@@ -522,8 +754,12 @@
         "population": 50560
     },
     "2855598": {
-        "geoid": "2855598",
-        "name": "Pankow",
+        "ids": {
+            "geonames": 2855598
+        },
+        "long": {
+            "default": "Pankow"
+        },
         "lat": 52.56926,
         "lng": 13.40186,
         "country": "DE",
@@ -531,8 +767,12 @@
         "population": 57113
     },
     "2855745": {
-        "geoid": "2855745",
-        "name": "Paderborn",
+        "ids": {
+            "geonames": 2855745
+        },
+        "long": {
+            "default": "Paderborn"
+        },
         "lat": 51.71905,
         "lng": 8.75439,
         "country": "DE",
@@ -540,8 +780,12 @@
         "population": 142161
     },
     "2856883": {
-        "geoid": "2856883",
-        "name": "Osnabrück",
+        "ids": {
+            "geonames": 2856883
+        },
+        "long": {
+            "default": "Osnabrück"
+        },
         "lat": 52.27264,
         "lng": 8.0498,
         "country": "DE",
@@ -549,8 +793,12 @@
         "population": 166462
     },
     "2857458": {
-        "geoid": "2857458",
-        "name": "Oldenburg",
+        "ids": {
+            "geonames": 2857458
+        },
+        "long": {
+            "default": "Oldenburg"
+        },
         "lat": 53.14118,
         "lng": 8.21467,
         "country": "DE",
@@ -558,8 +806,12 @@
         "population": 159218
     },
     "2857798": {
-        "geoid": "2857798",
-        "name": "Offenburg",
+        "ids": {
+            "geonames": 2857798
+        },
+        "long": {
+            "default": "Offenburg"
+        },
         "lat": 48.47377,
         "lng": 7.94495,
         "country": "DE",
@@ -567,8 +819,12 @@
         "population": 59238
     },
     "2857807": {
-        "geoid": "2857807",
-        "name": "Offenbach",
+        "ids": {
+            "geonames": 2857807
+        },
+        "long": {
+            "default": "Offenbach"
+        },
         "lat": 50.10061,
         "lng": 8.76647,
         "country": "DE",
@@ -576,8 +832,12 @@
         "population": 119192
     },
     "2860410": {
-        "geoid": "2860410",
-        "name": "Oberhausen",
+        "ids": {
+            "geonames": 2860410
+        },
+        "long": {
+            "default": "Oberhausen"
+        },
         "lat": 51.47311,
         "lng": 6.88074,
         "country": "DE",
@@ -585,8 +845,12 @@
         "population": 219176
     },
     "2861650": {
-        "geoid": "2861650",
-        "name": "Nürnberg",
+        "ids": {
+            "geonames": 2861650
+        },
+        "long": {
+            "default": "Nürnberg"
+        },
         "lat": 49.45421,
         "lng": 11.07752,
         "country": "DE",
@@ -594,8 +858,12 @@
         "population": 499237
     },
     "2861934": {
-        "geoid": "2861934",
-        "name": "Nordhorn",
+        "ids": {
+            "geonames": 2861934
+        },
+        "long": {
+            "default": "Nordhorn"
+        },
         "lat": 52.43081,
         "lng": 7.06833,
         "country": "DE",
@@ -603,8 +871,12 @@
         "population": 52803
     },
     "2862026": {
-        "geoid": "2862026",
-        "name": "Norderstedt",
+        "ids": {
+            "geonames": 2862026
+        },
+        "long": {
+            "default": "Norderstedt"
+        },
         "lat": 53.6859,
         "lng": 9.98041,
         "country": "DE",
@@ -612,8 +884,12 @@
         "population": 71439
     },
     "2862375": {
-        "geoid": "2862375",
-        "name": "Nippes",
+        "ids": {
+            "geonames": 2862375
+        },
+        "long": {
+            "default": "Nippes"
+        },
         "lat": 50.96545,
         "lng": 6.95314,
         "country": "DE",
@@ -621,8 +897,12 @@
         "population": 113487
     },
     "2863840": {
-        "geoid": "2863840",
-        "name": "Neuwied",
+        "ids": {
+            "geonames": 2863840
+        },
+        "long": {
+            "default": "Neuwied"
+        },
         "lat": 50.4336,
         "lng": 7.47057,
         "country": "DE",
@@ -630,8 +910,12 @@
         "population": 66805
     },
     "2863941": {
-        "geoid": "2863941",
-        "name": "Neu-Ulm",
+        "ids": {
+            "geonames": 2863941
+        },
+        "long": {
+            "default": "Neu-Ulm"
+        },
         "lat": 48.39279,
         "lng": 10.01112,
         "country": "DE",
@@ -639,8 +923,12 @@
         "population": 51389
     },
     "2864054": {
-        "geoid": "2864054",
-        "name": "Neustadt",
+        "ids": {
+            "geonames": 2864054
+        },
+        "long": {
+            "default": "Neustadt"
+        },
         "lat": 49.35009,
         "lng": 8.13886,
         "country": "DE",
@@ -648,8 +936,12 @@
         "population": 53984
     },
     "2864072": {
-        "geoid": "2864072",
-        "name": "Neue Neustadt",
+        "ids": {
+            "geonames": 2864072
+        },
+        "long": {
+            "default": "Neue Neustadt"
+        },
         "lat": 52.15,
         "lng": 11.63333,
         "country": "DE",
@@ -657,8 +949,12 @@
         "population": 226851
     },
     "2864118": {
-        "geoid": "2864118",
-        "name": "Neuss",
+        "ids": {
+            "geonames": 2864118
+        },
+        "long": {
+            "default": "Neuss"
+        },
         "lat": 51.19807,
         "lng": 6.68504,
         "country": "DE",
@@ -666,8 +962,12 @@
         "population": 152457
     },
     "2864475": {
-        "geoid": "2864475",
-        "name": "Neumünster",
+        "ids": {
+            "geonames": 2864475
+        },
+        "long": {
+            "default": "Neumünster"
+        },
         "lat": 54.07477,
         "lng": 9.98195,
         "country": "DE",
@@ -675,8 +975,12 @@
         "population": 78383
     },
     "2866110": {
-        "geoid": "2866110",
-        "name": "Neubrück",
+        "ids": {
+            "geonames": 2866110
+        },
+        "long": {
+            "default": "Neubrück"
+        },
         "lat": 51.13434,
         "lng": 6.63857,
         "country": "DE",
@@ -684,8 +988,12 @@
         "population": 51109
     },
     "2866135": {
-        "geoid": "2866135",
-        "name": "Neubrandenburg",
+        "ids": {
+            "geonames": 2866135
+        },
+        "long": {
+            "default": "Neubrandenburg"
+        },
         "lat": 53.56414,
         "lng": 13.27532,
         "country": "DE",
@@ -693,8 +1001,12 @@
         "population": 68082
     },
     "2867543": {
-        "geoid": "2867543",
-        "name": "Münster",
+        "ids": {
+            "geonames": 2867543
+        },
+        "long": {
+            "default": "Münster"
+        },
         "lat": 51.96236,
         "lng": 7.62571,
         "country": "DE",
@@ -702,8 +1014,12 @@
         "population": 270184
     },
     "2867714": {
-        "geoid": "2867714",
-        "name": "Munich",
+        "ids": {
+            "geonames": 2867714
+        },
+        "long": {
+            "default": "Munich"
+        },
         "lat": 48.13743,
         "lng": 11.57549,
         "country": "DE",
@@ -711,8 +1027,12 @@
         "population": 1260391
     },
     "2867838": {
-        "geoid": "2867838",
-        "name": "Mülheim",
+        "ids": {
+            "geonames": 2867838
+        },
+        "long": {
+            "default": "Mülheim"
+        },
         "lat": 51.43218,
         "lng": 6.87967,
         "country": "DE",
@@ -720,8 +1040,12 @@
         "population": 171000
     },
     "2869894": {
-        "geoid": "2869894",
-        "name": "Mönchengladbach",
+        "ids": {
+            "geonames": 2869894
+        },
+        "long": {
+            "default": "Mönchengladbach"
+        },
         "lat": 51.18539,
         "lng": 6.44172,
         "country": "DE",
@@ -729,8 +1053,12 @@
         "population": 261742
     },
     "2870221": {
-        "geoid": "2870221",
-        "name": "Moers",
+        "ids": {
+            "geonames": 2870221
+        },
+        "long": {
+            "default": "Moers"
+        },
         "lat": 51.45342,
         "lng": 6.6326,
         "country": "DE",
@@ -738,8 +1066,12 @@
         "population": 107816
     },
     "2870310": {
-        "geoid": "2870310",
-        "name": "Moabit",
+        "ids": {
+            "geonames": 2870310
+        },
+        "long": {
+            "default": "Moabit"
+        },
         "lat": 52.52635,
         "lng": 13.33903,
         "country": "DE",
@@ -747,8 +1079,12 @@
         "population": 70911
     },
     "2871039": {
-        "geoid": "2871039",
-        "name": "Minden",
+        "ids": {
+            "geonames": 2871039
+        },
+        "long": {
+            "default": "Minden"
+        },
         "lat": 52.28953,
         "lng": 8.91455,
         "country": "DE",
@@ -756,8 +1092,12 @@
         "population": 82879
     },
     "2871983": {
-        "geoid": "2871983",
-        "name": "Menden",
+        "ids": {
+            "geonames": 2871983
+        },
+        "long": {
+            "default": "Menden"
+        },
         "lat": 51.44337,
         "lng": 7.77825,
         "country": "DE",
@@ -765,8 +1105,12 @@
         "population": 58451
     },
     "2872504": {
-        "geoid": "2872504",
-        "name": "Meerbusch",
+        "ids": {
+            "geonames": 2872504
+        },
+        "long": {
+            "default": "Meerbusch"
+        },
         "lat": 51.26118,
         "lng": 6.6717,
         "country": "DE",
@@ -774,8 +1118,12 @@
         "population": 54826
     },
     "2873074": {
-        "geoid": "2873074",
-        "name": "Marzahn",
+        "ids": {
+            "geonames": 2873074
+        },
+        "long": {
+            "default": "Marzahn"
+        },
         "lat": 52.54525,
         "lng": 13.56983,
         "country": "DE",
@@ -783,8 +1131,12 @@
         "population": 103768
     },
     "2873263": {
-        "geoid": "2873263",
-        "name": "Marl",
+        "ids": {
+            "geonames": 2873263
+        },
+        "long": {
+            "default": "Marl"
+        },
         "lat": 51.65671,
         "lng": 7.09038,
         "country": "DE",
@@ -792,8 +1144,12 @@
         "population": 91398
     },
     "2873759": {
-        "geoid": "2873759",
-        "name": "Marburg an der Lahn",
+        "ids": {
+            "geonames": 2873759
+        },
+        "long": {
+            "default": "Marburg an der Lahn"
+        },
         "lat": 50.80904,
         "lng": 8.77069,
         "country": "DE",
@@ -801,8 +1157,12 @@
         "population": 78895
     },
     "2873891": {
-        "geoid": "2873891",
-        "name": "Mannheim",
+        "ids": {
+            "geonames": 2873891
+        },
+        "long": {
+            "default": "Mannheim"
+        },
         "lat": 49.49671,
         "lng": 8.47955,
         "country": "DE",
@@ -810,8 +1170,12 @@
         "population": 307960
     },
     "2874225": {
-        "geoid": "2874225",
-        "name": "Mainz",
+        "ids": {
+            "geonames": 2874225
+        },
+        "long": {
+            "default": "Mainz"
+        },
         "lat": 49.98419,
         "lng": 8.2791,
         "country": "DE",
@@ -819,8 +1183,12 @@
         "population": 184997
     },
     "2874545": {
-        "geoid": "2874545",
-        "name": "Magdeburg",
+        "ids": {
+            "geonames": 2874545
+        },
+        "long": {
+            "default": "Magdeburg"
+        },
         "lat": 52.12773,
         "lng": 11.62916,
         "country": "DE",
@@ -828,8 +1196,12 @@
         "population": 229826
     },
     "2875107": {
-        "geoid": "2875107",
-        "name": "Lünen",
+        "ids": {
+            "geonames": 2875107
+        },
+        "long": {
+            "default": "Lünen"
+        },
         "lat": 51.61634,
         "lng": 7.52872,
         "country": "DE",
@@ -837,8 +1209,12 @@
         "population": 91009
     },
     "2875115": {
-        "geoid": "2875115",
-        "name": "Lüneburg",
+        "ids": {
+            "geonames": 2875115
+        },
+        "long": {
+            "default": "Lüneburg"
+        },
         "lat": 53.2509,
         "lng": 10.41409,
         "country": "DE",
@@ -846,8 +1222,12 @@
         "population": 71260
     },
     "2875376": {
-        "geoid": "2875376",
-        "name": "Ludwigshafen am Rhein",
+        "ids": {
+            "geonames": 2875376
+        },
+        "long": {
+            "default": "Ludwigshafen am Rhein"
+        },
         "lat": 49.48121,
         "lng": 8.44641,
         "country": "DE",
@@ -855,8 +1235,12 @@
         "population": 163196
     },
     "2875392": {
-        "geoid": "2875392",
-        "name": "Ludwigsburg",
+        "ids": {
+            "geonames": 2875392
+        },
+        "long": {
+            "default": "Ludwigsburg"
+        },
         "lat": 48.89731,
         "lng": 9.19161,
         "country": "DE",
@@ -864,8 +1248,12 @@
         "population": 87603
     },
     "2875457": {
-        "geoid": "2875457",
-        "name": "Lüdenscheid",
+        "ids": {
+            "geonames": 2875457
+        },
+        "long": {
+            "default": "Lüdenscheid"
+        },
         "lat": 51.21977,
         "lng": 7.6273,
         "country": "DE",
@@ -873,8 +1261,12 @@
         "population": 79386
     },
     "2875601": {
-        "geoid": "2875601",
-        "name": "Lübeck",
+        "ids": {
+            "geonames": 2875601
+        },
+        "long": {
+            "default": "Lübeck"
+        },
         "lat": 53.86893,
         "lng": 10.68729,
         "country": "DE",
@@ -882,8 +1274,12 @@
         "population": 212207
     },
     "2876865": {
-        "geoid": "2876865",
-        "name": "Lippstadt",
+        "ids": {
+            "geonames": 2876865
+        },
+        "long": {
+            "default": "Lippstadt"
+        },
         "lat": 51.67369,
         "lng": 8.34482,
         "country": "DE",
@@ -891,8 +1287,12 @@
         "population": 67219
     },
     "2877088": {
-        "geoid": "2877088",
-        "name": "Lingen",
+        "ids": {
+            "geonames": 2877088
+        },
+        "long": {
+            "default": "Lingen"
+        },
         "lat": 52.52143,
         "lng": 7.31845,
         "country": "DE",
@@ -900,8 +1300,12 @@
         "population": 51310
     },
     "2878018": {
-        "geoid": "2878018",
-        "name": "Lichterfelde",
+        "ids": {
+            "geonames": 2878018
+        },
+        "long": {
+            "default": "Lichterfelde"
+        },
         "lat": 52.4333,
         "lng": 13.30762,
         "country": "DE",
@@ -909,8 +1313,12 @@
         "population": 80149
     },
     "2878234": {
-        "geoid": "2878234",
-        "name": "Leverkusen",
+        "ids": {
+            "geonames": 2878234
+        },
+        "long": {
+            "default": "Leverkusen"
+        },
         "lat": 51.0303,
         "lng": 6.98432,
         "country": "DE",
@@ -918,8 +1326,12 @@
         "population": 162738
     },
     "2879139": {
-        "geoid": "2879139",
-        "name": "Leipzig",
+        "ids": {
+            "geonames": 2879139
+        },
+        "long": {
+            "default": "Leipzig"
+        },
         "lat": 51.33962,
         "lng": 12.37129,
         "country": "DE",
@@ -927,8 +1339,12 @@
         "population": 504971
     },
     "2881062": {
-        "geoid": "2881062",
-        "name": "Langenhagen",
+        "ids": {
+            "geonames": 2881062
+        },
+        "long": {
+            "default": "Langenhagen"
+        },
         "lat": 52.44758,
         "lng": 9.73741,
         "country": "DE",
@@ -936,8 +1352,12 @@
         "population": 50439
     },
     "2881085": {
-        "geoid": "2881085",
-        "name": "Langenfeld",
+        "ids": {
+            "geonames": 2881085
+        },
+        "long": {
+            "default": "Langenfeld"
+        },
         "lat": 51.10821,
         "lng": 6.94831,
         "country": "DE",
@@ -945,8 +1365,12 @@
         "population": 59378
     },
     "2881485": {
-        "geoid": "2881485",
-        "name": "Landshut",
+        "ids": {
+            "geonames": 2881485
+        },
+        "long": {
+            "default": "Landshut"
+        },
         "lat": 48.52961,
         "lng": 12.16179,
         "country": "DE",
@@ -954,8 +1378,12 @@
         "population": 60488
     },
     "2884161": {
-        "geoid": "2884161",
-        "name": "Kreuzberg",
+        "ids": {
+            "geonames": 2884161
+        },
+        "long": {
+            "default": "Kreuzberg"
+        },
         "lat": 52.49973,
         "lng": 13.40338,
         "country": "DE",
@@ -963,8 +1391,12 @@
         "population": 147532
     },
     "2884509": {
-        "geoid": "2884509",
-        "name": "Krefeld",
+        "ids": {
+            "geonames": 2884509
+        },
+        "long": {
+            "default": "Krefeld"
+        },
         "lat": 51.33921,
         "lng": 6.58615,
         "country": "DE",
@@ -972,8 +1404,12 @@
         "population": 237984
     },
     "2885656": {
-        "geoid": "2885656",
-        "name": "Köpenick",
+        "ids": {
+            "geonames": 2885656
+        },
+        "long": {
+            "default": "Köpenick"
+        },
         "lat": 52.4455,
         "lng": 13.57455,
         "country": "DE",
@@ -981,8 +1417,12 @@
         "population": 60128
     },
     "2885657": {
-        "geoid": "2885657",
-        "name": "Berlin Köpenick",
+        "ids": {
+            "geonames": 2885657
+        },
+        "long": {
+            "default": "Berlin Köpenick"
+        },
         "lat": 52.44254,
         "lng": 13.58228,
         "country": "DE",
@@ -990,8 +1430,12 @@
         "population": 59561
     },
     "2885679": {
-        "geoid": "2885679",
-        "name": "Konstanz",
+        "ids": {
+            "geonames": 2885679
+        },
+        "long": {
+            "default": "Konstanz"
+        },
         "lat": 47.66033,
         "lng": 9.17582,
         "country": "DE",
@@ -999,8 +1443,12 @@
         "population": 81275
     },
     "2886242": {
-        "geoid": "2886242",
-        "name": "Köln",
+        "ids": {
+            "geonames": 2886242
+        },
+        "long": {
+            "default": "Köln"
+        },
         "lat": 50.93333,
         "lng": 6.95,
         "country": "DE",
@@ -1008,8 +1456,12 @@
         "population": 963395
     },
     "2886946": {
-        "geoid": "2886946",
-        "name": "Koblenz",
+        "ids": {
+            "geonames": 2886946
+        },
+        "long": {
+            "default": "Koblenz"
+        },
         "lat": 50.35357,
         "lng": 7.57883,
         "country": "DE",
@@ -1017,8 +1469,12 @@
         "population": 107319
     },
     "2891122": {
-        "geoid": "2891122",
-        "name": "Kiel",
+        "ids": {
+            "geonames": 2891122
+        },
+        "long": {
+            "default": "Kiel"
+        },
         "lat": 54.32133,
         "lng": 10.13489,
         "country": "DE",
@@ -1026,8 +1482,12 @@
         "population": 232758
     },
     "2891524": {
-        "geoid": "2891524",
-        "name": "Kerpen",
+        "ids": {
+            "geonames": 2891524
+        },
+        "long": {
+            "default": "Kerpen"
+        },
         "lat": 50.86991,
         "lng": 6.69691,
         "country": "DE",
@@ -1035,8 +1495,12 @@
         "population": 64226
     },
     "2891621": {
-        "geoid": "2891621",
-        "name": "Kempten (Allgäu)",
+        "ids": {
+            "geonames": 2891621
+        },
+        "long": {
+            "default": "Kempten (Allgäu)"
+        },
         "lat": 47.72674,
         "lng": 10.31389,
         "country": "DE",
@@ -1044,8 +1508,12 @@
         "population": 61399
     },
     "2892518": {
-        "geoid": "2892518",
-        "name": "Kassel",
+        "ids": {
+            "geonames": 2892518
+        },
+        "long": {
+            "default": "Kassel"
+        },
         "lat": 51.31667,
         "lng": 9.5,
         "country": "DE",
@@ -1053,8 +1521,12 @@
         "population": 194501
     },
     "2892794": {
-        "geoid": "2892794",
-        "name": "Karlsruhe",
+        "ids": {
+            "geonames": 2892794
+        },
+        "long": {
+            "default": "Karlsruhe"
+        },
         "lat": 49.00937,
         "lng": 8.40444,
         "country": "DE",
@@ -1062,8 +1534,12 @@
         "population": 283799
     },
     "2894003": {
-        "geoid": "2894003",
-        "name": "Kaiserslautern",
+        "ids": {
+            "geonames": 2894003
+        },
+        "long": {
+            "default": "Kaiserslautern"
+        },
         "lat": 49.443,
         "lng": 7.77161,
         "country": "DE",
@@ -1071,8 +1547,12 @@
         "population": 98732
     },
     "2895044": {
-        "geoid": "2895044",
-        "name": "Jena",
+        "ids": {
+            "geonames": 2895044
+        },
+        "long": {
+            "default": "Jena"
+        },
         "lat": 50.92878,
         "lng": 11.5899,
         "country": "DE",
@@ -1080,8 +1560,12 @@
         "population": 104712
     },
     "2895669": {
-        "geoid": "2895669",
-        "name": "Iserlohn",
+        "ids": {
+            "geonames": 2895669
+        },
+        "long": {
+            "default": "Iserlohn"
+        },
         "lat": 51.37547,
         "lng": 7.70281,
         "country": "DE",
@@ -1089,8 +1573,12 @@
         "population": 97910
     },
     "2895992": {
-        "geoid": "2895992",
-        "name": "Ingolstadt",
+        "ids": {
+            "geonames": 2895992
+        },
+        "long": {
+            "default": "Ingolstadt"
+        },
         "lat": 48.76508,
         "lng": 11.42372,
         "country": "DE",
@@ -1098,8 +1586,12 @@
         "population": 120658
     },
     "2896817": {
-        "geoid": "2896817",
-        "name": "Ibbenbüren",
+        "ids": {
+            "geonames": 2896817
+        },
+        "long": {
+            "default": "Ibbenbüren"
+        },
         "lat": 52.27964,
         "lng": 7.71457,
         "country": "DE",
@@ -1107,8 +1599,12 @@
         "population": 50577
     },
     "2897216": {
-        "geoid": "2897216",
-        "name": "Hürth",
+        "ids": {
+            "geonames": 2897216
+        },
+        "long": {
+            "default": "Hürth"
+        },
         "lat": 50.87079,
         "lng": 6.86761,
         "country": "DE",
@@ -1116,8 +1612,12 @@
         "population": 54678
     },
     "2904789": {
-        "geoid": "2904789",
-        "name": "Hildesheim",
+        "ids": {
+            "geonames": 2904789
+        },
+        "long": {
+            "default": "Hildesheim"
+        },
         "lat": 52.15077,
         "lng": 9.95112,
         "country": "DE",
@@ -1125,8 +1625,12 @@
         "population": 103052
     },
     "2904795": {
-        "geoid": "2904795",
-        "name": "Hilden",
+        "ids": {
+            "geonames": 2904795
+        },
+        "long": {
+            "default": "Hilden"
+        },
         "lat": 51.16818,
         "lng": 6.93093,
         "country": "DE",
@@ -1134,8 +1638,12 @@
         "population": 56565
     },
     "2905560": {
-        "geoid": "2905560",
-        "name": "Herten",
+        "ids": {
+            "geonames": 2905560
+        },
+        "long": {
+            "default": "Herten"
+        },
         "lat": 51.59638,
         "lng": 7.14387,
         "country": "DE",
@@ -1143,8 +1651,12 @@
         "population": 65306
     },
     "2905891": {
-        "geoid": "2905891",
-        "name": "Herne",
+        "ids": {
+            "geonames": 2905891
+        },
+        "long": {
+            "default": "Herne"
+        },
         "lat": 51.5388,
         "lng": 7.22572,
         "country": "DE",
@@ -1152,8 +1664,12 @@
         "population": 172108
     },
     "2906121": {
-        "geoid": "2906121",
-        "name": "Herford",
+        "ids": {
+            "geonames": 2906121
+        },
+        "long": {
+            "default": "Herford"
+        },
         "lat": 52.11457,
         "lng": 8.67343,
         "country": "DE",
@@ -1161,8 +1677,12 @@
         "population": 64879
     },
     "2906809": {
-        "geoid": "2906809",
-        "name": "Hellersdorf",
+        "ids": {
+            "geonames": 2906809
+        },
+        "long": {
+            "default": "Hellersdorf"
+        },
         "lat": 52.53319,
         "lng": 13.6088,
         "country": "DE",
@@ -1170,8 +1690,12 @@
         "population": 74847
     },
     "2907669": {
-        "geoid": "2907669",
-        "name": "Heilbronn",
+        "ids": {
+            "geonames": 2907669
+        },
+        "long": {
+            "default": "Heilbronn"
+        },
         "lat": 49.13995,
         "lng": 9.22054,
         "country": "DE",
@@ -1179,8 +1703,12 @@
         "population": 120733
     },
     "2907851": {
-        "geoid": "2907851",
-        "name": "Heidenheim an der Brenz",
+        "ids": {
+            "geonames": 2907851
+        },
+        "long": {
+            "default": "Heidenheim an der Brenz"
+        },
         "lat": 48.67798,
         "lng": 10.15162,
         "country": "DE",
@@ -1188,8 +1716,12 @@
         "population": 50067
     },
     "2907911": {
-        "geoid": "2907911",
-        "name": "Heidelberg",
+        "ids": {
+            "geonames": 2907911
+        },
+        "long": {
+            "default": "Heidelberg"
+        },
         "lat": 49.40768,
         "lng": 8.69079,
         "country": "DE",
@@ -1197,8 +1729,12 @@
         "population": 143345
     },
     "2909230": {
-        "geoid": "2909230",
-        "name": "Hattingen",
+        "ids": {
+            "geonames": 2909230
+        },
+        "long": {
+            "default": "Hattingen"
+        },
         "lat": 51.39894,
         "lng": 7.18557,
         "country": "DE",
@@ -1206,8 +1742,12 @@
         "population": 56866
     },
     "2910685": {
-        "geoid": "2910685",
-        "name": "Harburg",
+        "ids": {
+            "geonames": 2910685
+        },
+        "long": {
+            "default": "Harburg"
+        },
         "lat": 53.46057,
         "lng": 9.98388,
         "country": "DE",
@@ -1215,8 +1755,12 @@
         "population": 202571
     },
     "2910831": {
-        "geoid": "2910831",
-        "name": "Hannover",
+        "ids": {
+            "geonames": 2910831
+        },
+        "long": {
+            "default": "Hannover"
+        },
         "lat": 52.37052,
         "lng": 9.73322,
         "country": "DE",
@@ -1224,8 +1768,12 @@
         "population": 515140
     },
     "2911007": {
-        "geoid": "2911007",
-        "name": "Hanau am Main",
+        "ids": {
+            "geonames": 2911007
+        },
+        "long": {
+            "default": "Hanau am Main"
+        },
         "lat": 50.13423,
         "lng": 8.91418,
         "country": "DE",
@@ -1233,8 +1781,12 @@
         "population": 88648
     },
     "2911240": {
-        "geoid": "2911240",
-        "name": "Hamm",
+        "ids": {
+            "geonames": 2911240
+        },
+        "long": {
+            "default": "Hamm"
+        },
         "lat": 51.68033,
         "lng": 7.82089,
         "country": "DE",
@@ -1242,8 +1794,12 @@
         "population": 185327
     },
     "2911271": {
-        "geoid": "2911271",
-        "name": "Hameln",
+        "ids": {
+            "geonames": 2911271
+        },
+        "long": {
+            "default": "Hameln"
+        },
         "lat": 52.10397,
         "lng": 9.35623,
         "country": "DE",
@@ -1251,8 +1807,12 @@
         "population": 58666
     },
     "2911285": {
-        "geoid": "2911285",
-        "name": "Wandsbek",
+        "ids": {
+            "geonames": 2911285
+        },
+        "long": {
+            "default": "Wandsbek"
+        },
         "lat": 53.56667,
         "lng": 10.1,
         "country": "DE",
@@ -1260,8 +1820,12 @@
         "population": 411422
     },
     "2911287": {
-        "geoid": "2911287",
-        "name": "Marienthal",
+        "ids": {
+            "geonames": 2911287
+        },
+        "long": {
+            "default": "Marienthal"
+        },
         "lat": 53.56667,
         "lng": 10.08333,
         "country": "DE",
@@ -1269,8 +1833,12 @@
         "population": 287101
     },
     "2911288": {
-        "geoid": "2911288",
-        "name": "Hamburg-Mitte",
+        "ids": {
+            "geonames": 2911288
+        },
+        "long": {
+            "default": "Hamburg-Mitte"
+        },
         "lat": 53.55,
         "lng": 10.01667,
         "country": "DE",
@@ -1278,8 +1846,12 @@
         "population": 233144
     },
     "2911293": {
-        "geoid": "2911293",
-        "name": "Eimsbüttel",
+        "ids": {
+            "geonames": 2911293
+        },
+        "long": {
+            "default": "Eimsbüttel"
+        },
         "lat": 53.56667,
         "lng": 9.98333,
         "country": "DE",
@@ -1287,8 +1859,12 @@
         "population": 251907
     },
     "2911296": {
-        "geoid": "2911296",
-        "name": "Altona",
+        "ids": {
+            "geonames": 2911296
+        },
+        "long": {
+            "default": "Altona"
+        },
         "lat": 53.55,
         "lng": 9.93333,
         "country": "DE",
@@ -1296,8 +1872,12 @@
         "population": 250192
     },
     "2911298": {
-        "geoid": "2911298",
-        "name": "Hamburg",
+        "ids": {
+            "geonames": 2911298
+        },
+        "long": {
+            "default": "Hamburg"
+        },
         "lat": 53.57532,
         "lng": 10.01534,
         "country": "DE",
@@ -1305,8 +1885,12 @@
         "population": 1739117
     },
     "2911522": {
-        "geoid": "2911522",
-        "name": "Halle (Saale)",
+        "ids": {
+            "geonames": 2911522
+        },
+        "long": {
+            "default": "Halle (Saale)"
+        },
         "lat": 51.5,
         "lng": 12,
         "country": "DE",
@@ -1314,8 +1898,12 @@
         "population": 234107
     },
     "2912621": {
-        "geoid": "2912621",
-        "name": "Hagen",
+        "ids": {
+            "geonames": 2912621
+        },
+        "long": {
+            "default": "Hagen"
+        },
         "lat": 51.36081,
         "lng": 7.47168,
         "country": "DE",
@@ -1323,8 +1911,12 @@
         "population": 198972
     },
     "2913366": {
-        "geoid": "2913366",
-        "name": "Gütersloh",
+        "ids": {
+            "geonames": 2913366
+        },
+        "long": {
+            "default": "Gütersloh"
+        },
         "lat": 51.90693,
         "lng": 8.37853,
         "country": "DE",
@@ -1332,8 +1924,12 @@
         "population": 96180
     },
     "2913761": {
-        "geoid": "2913761",
-        "name": "Gummersbach",
+        "ids": {
+            "geonames": 2913761
+        },
+        "long": {
+            "default": "Gummersbach"
+        },
         "lat": 51.02608,
         "lng": 7.56473,
         "country": "DE",
@@ -1341,8 +1937,12 @@
         "population": 53131
     },
     "2917540": {
-        "geoid": "2917540",
-        "name": "Grevenbroich",
+        "ids": {
+            "geonames": 2917540
+        },
+        "long": {
+            "default": "Grevenbroich"
+        },
         "lat": 51.09102,
         "lng": 6.5827,
         "country": "DE",
@@ -1350,8 +1950,12 @@
         "population": 64779
     },
     "2917788": {
-        "geoid": "2917788",
-        "name": "Greifswald",
+        "ids": {
+            "geonames": 2917788
+        },
+        "long": {
+            "default": "Greifswald"
+        },
         "lat": 54.09311,
         "lng": 13.38786,
         "country": "DE",
@@ -1359,8 +1963,12 @@
         "population": 52731
     },
     "2918632": {
-        "geoid": "2918632",
-        "name": "Göttingen",
+        "ids": {
+            "geonames": 2918632
+        },
+        "long": {
+            "default": "Göttingen"
+        },
         "lat": 51.53443,
         "lng": 9.93228,
         "country": "DE",
@@ -1368,8 +1976,12 @@
         "population": 122149
     },
     "2918987": {
-        "geoid": "2918987",
-        "name": "Görlitz",
+        "ids": {
+            "geonames": 2918987
+        },
+        "long": {
+            "default": "Görlitz"
+        },
         "lat": 51.15518,
         "lng": 14.98853,
         "country": "DE",
@@ -1377,8 +1989,12 @@
         "population": 57751
     },
     "2919054": {
-        "geoid": "2919054",
-        "name": "Göppingen",
+        "ids": {
+            "geonames": 2919054
+        },
+        "long": {
+            "default": "Göppingen"
+        },
         "lat": 48.70354,
         "lng": 9.65209,
         "country": "DE",
@@ -1386,8 +2002,12 @@
         "population": 58040
     },
     "2920236": {
-        "geoid": "2920236",
-        "name": "Gladbeck",
+        "ids": {
+            "geonames": 2920236
+        },
+        "long": {
+            "default": "Gladbeck"
+        },
         "lat": 51.57077,
         "lng": 6.98593,
         "country": "DE",
@@ -1395,8 +2015,12 @@
         "population": 76940
     },
     "2920512": {
-        "geoid": "2920512",
-        "name": "Gießen",
+        "ids": {
+            "geonames": 2920512
+        },
+        "long": {
+            "default": "Gießen"
+        },
         "lat": 50.58727,
         "lng": 8.67554,
         "country": "DE",
@@ -1404,8 +2028,12 @@
         "population": 74411
     },
     "2920789": {
-        "geoid": "2920789",
-        "name": "Gesundbrunnen",
+        "ids": {
+            "geonames": 2920789
+        },
+        "long": {
+            "default": "Gesundbrunnen"
+        },
         "lat": 52.55035,
         "lng": 13.39139,
         "country": "DE",
@@ -1413,8 +2041,12 @@
         "population": 84789
     },
     "2921232": {
-        "geoid": "2921232",
-        "name": "Gera",
+        "ids": {
+            "geonames": 2921232
+        },
+        "long": {
+            "default": "Gera"
+        },
         "lat": 50.88029,
         "lng": 12.08187,
         "country": "DE",
@@ -1422,8 +2054,12 @@
         "population": 104659
     },
     "2921466": {
-        "geoid": "2921466",
-        "name": "Gelsenkirchen",
+        "ids": {
+            "geonames": 2921466
+        },
+        "long": {
+            "default": "Gelsenkirchen"
+        },
         "lat": 51.5075,
         "lng": 7.12283,
         "country": "DE",
@@ -1431,8 +2067,12 @@
         "population": 270028
     },
     "2922586": {
-        "geoid": "2922586",
-        "name": "Garbsen",
+        "ids": {
+            "geonames": 2922586
+        },
+        "long": {
+            "default": "Garbsen"
+        },
         "lat": 52.41371,
         "lng": 9.5899,
         "country": "DE",
@@ -1440,8 +2080,12 @@
         "population": 63355
     },
     "2923544": {
-        "geoid": "2923544",
-        "name": "Fürth",
+        "ids": {
+            "geonames": 2923544
+        },
+        "long": {
+            "default": "Fürth"
+        },
         "lat": 49.47593,
         "lng": 10.98856,
         "country": "DE",
@@ -1449,8 +2093,12 @@
         "population": 112025
     },
     "2923822": {
-        "geoid": "2923822",
-        "name": "Fulda",
+        "ids": {
+            "geonames": 2923822
+        },
+        "long": {
+            "default": "Fulda"
+        },
         "lat": 50.55162,
         "lng": 9.67518,
         "country": "DE",
@@ -1458,8 +2106,12 @@
         "population": 63760
     },
     "2924573": {
-        "geoid": "2924573",
-        "name": "Friedrichshain",
+        "ids": {
+            "geonames": 2924573
+        },
+        "long": {
+            "default": "Friedrichshain"
+        },
         "lat": 52.51559,
         "lng": 13.45482,
         "country": "DE",
@@ -1467,8 +2119,12 @@
         "population": 117829
     },
     "2924585": {
-        "geoid": "2924585",
-        "name": "Friedrichshafen",
+        "ids": {
+            "geonames": 2924585
+        },
+        "long": {
+            "default": "Friedrichshafen"
+        },
         "lat": 47.65689,
         "lng": 9.47554,
         "country": "DE",
@@ -1476,8 +2132,12 @@
         "population": 58403
     },
     "2925177": {
-        "geoid": "2925177",
-        "name": "Freiburg",
+        "ids": {
+            "geonames": 2925177
+        },
+        "long": {
+            "default": "Freiburg"
+        },
         "lat": 47.9959,
         "lng": 7.85222,
         "country": "DE",
@@ -1485,8 +2145,12 @@
         "population": 215966
     },
     "2925533": {
-        "geoid": "2925533",
-        "name": "Frankfurt am Main",
+        "ids": {
+            "geonames": 2925533
+        },
+        "long": {
+            "default": "Frankfurt am Main"
+        },
         "lat": 50.11552,
         "lng": 8.68417,
         "country": "DE",
@@ -1494,8 +2158,12 @@
         "population": 650000
     },
     "2925535": {
-        "geoid": "2925535",
-        "name": "Frankfurt (Oder)",
+        "ids": {
+            "geonames": 2925535
+        },
+        "long": {
+            "default": "Frankfurt (Oder)"
+        },
         "lat": 52.34714,
         "lng": 14.55062,
         "country": "DE",
@@ -1503,8 +2171,12 @@
         "population": 51691
     },
     "2926271": {
-        "geoid": "2926271",
-        "name": "Flensburg",
+        "ids": {
+            "geonames": 2926271
+        },
+        "long": {
+            "default": "Flensburg"
+        },
         "lat": 54.78431,
         "lng": 9.43961,
         "country": "DE",
@@ -1512,8 +2184,12 @@
         "population": 85838
     },
     "2928396": {
-        "geoid": "2928396",
-        "name": "Euskirchen",
+        "ids": {
+            "geonames": 2928396
+        },
+        "long": {
+            "default": "Euskirchen"
+        },
         "lat": 50.66057,
         "lng": 6.78722,
         "country": "DE",
@@ -1521,8 +2197,12 @@
         "population": 54889
     },
     "2928751": {
-        "geoid": "2928751",
-        "name": "Esslingen",
+        "ids": {
+            "geonames": 2928751
+        },
+        "long": {
+            "default": "Esslingen"
+        },
         "lat": 48.73961,
         "lng": 9.30473,
         "country": "DE",
@@ -1530,8 +2210,12 @@
         "population": 92390
     },
     "2928810": {
-        "geoid": "2928810",
-        "name": "Essen",
+        "ids": {
+            "geonames": 2928810
+        },
+        "long": {
+            "default": "Essen"
+        },
         "lat": 51.45657,
         "lng": 7.01228,
         "country": "DE",
@@ -1539,8 +2223,12 @@
         "population": 593085
     },
     "2928963": {
-        "geoid": "2928963",
-        "name": "Eschweiler",
+        "ids": {
+            "geonames": 2928963
+        },
+        "long": {
+            "default": "Eschweiler"
+        },
         "lat": 50.81854,
         "lng": 6.27184,
         "country": "DE",
@@ -1548,8 +2236,12 @@
         "population": 55778
     },
     "2929567": {
-        "geoid": "2929567",
-        "name": "Erlangen",
+        "ids": {
+            "geonames": 2929567
+        },
+        "long": {
+            "default": "Erlangen"
+        },
         "lat": 49.59099,
         "lng": 11.00783,
         "country": "DE",
@@ -1557,8 +2249,12 @@
         "population": 102675
     },
     "2929670": {
-        "geoid": "2929670",
-        "name": "Erfurt",
+        "ids": {
+            "geonames": 2929670
+        },
+        "long": {
+            "default": "Erfurt"
+        },
         "lat": 50.9787,
         "lng": 11.03283,
         "country": "DE",
@@ -1566,8 +2262,12 @@
         "population": 203254
     },
     "2929671": {
-        "geoid": "2929671",
-        "name": "Erftstadt",
+        "ids": {
+            "geonames": 2929671
+        },
+        "long": {
+            "default": "Erftstadt"
+        },
         "lat": 50.81481,
         "lng": 6.79387,
         "country": "DE",
@@ -1575,8 +2275,12 @@
         "population": 51207
     },
     "2930596": {
-        "geoid": "2930596",
-        "name": "Emden",
+        "ids": {
+            "geonames": 2930596
+        },
+        "long": {
+            "default": "Emden"
+        },
         "lat": 53.36745,
         "lng": 7.20778,
         "country": "DE",
@@ -1584,8 +2288,12 @@
         "population": 51526
     },
     "2934246": {
-        "geoid": "2934246",
-        "name": "Düsseldorf",
+        "ids": {
+            "geonames": 2934246
+        },
+        "long": {
+            "default": "Düsseldorf"
+        },
         "lat": 51.22172,
         "lng": 6.77616,
         "country": "DE",
@@ -1593,8 +2301,12 @@
         "population": 573057
     },
     "2934486": {
-        "geoid": "2934486",
-        "name": "Düren",
+        "ids": {
+            "geonames": 2934486
+        },
+        "long": {
+            "default": "Düren"
+        },
         "lat": 50.80434,
         "lng": 6.49299,
         "country": "DE",
@@ -1602,8 +2314,12 @@
         "population": 93440
     },
     "2934691": {
-        "geoid": "2934691",
-        "name": "Duisburg",
+        "ids": {
+            "geonames": 2934691
+        },
+        "long": {
+            "default": "Duisburg"
+        },
         "lat": 51.43247,
         "lng": 6.76516,
         "country": "DE",
@@ -1611,8 +2327,12 @@
         "population": 504358
     },
     "2935022": {
-        "geoid": "2935022",
-        "name": "Dresden",
+        "ids": {
+            "geonames": 2935022
+        },
+        "long": {
+            "default": "Dresden"
+        },
         "lat": 51.05089,
         "lng": 13.73832,
         "country": "DE",
@@ -1620,8 +2340,12 @@
         "population": 486854
     },
     "2935517": {
-        "geoid": "2935517",
-        "name": "Dortmund",
+        "ids": {
+            "geonames": 2935517
+        },
+        "long": {
+            "default": "Dortmund"
+        },
         "lat": 51.51494,
         "lng": 7.466,
         "country": "DE",
@@ -1629,8 +2353,12 @@
         "population": 588462
     },
     "2935530": {
-        "geoid": "2935530",
-        "name": "Dorsten",
+        "ids": {
+            "geonames": 2935530
+        },
+        "long": {
+            "default": "Dorsten"
+        },
         "lat": 51.66166,
         "lng": 6.96514,
         "country": "DE",
@@ -1638,8 +2366,12 @@
         "population": 79981
     },
     "2935825": {
-        "geoid": "2935825",
-        "name": "Dormagen",
+        "ids": {
+            "geonames": 2935825
+        },
+        "long": {
+            "default": "Dormagen"
+        },
         "lat": 51.09683,
         "lng": 6.83167,
         "country": "DE",
@@ -1647,8 +2379,12 @@
         "population": 63582
     },
     "2936871": {
-        "geoid": "2936871",
-        "name": "Dinslaken",
+        "ids": {
+            "geonames": 2936871
+        },
+        "long": {
+            "default": "Dinslaken"
+        },
         "lat": 51.56227,
         "lng": 6.7434,
         "country": "DE",
@@ -1656,8 +2392,12 @@
         "population": 70573
     },
     "2937936": {
-        "geoid": "2937936",
-        "name": "Detmold",
+        "ids": {
+            "geonames": 2937936
+        },
+        "long": {
+            "default": "Detmold"
+        },
         "lat": 51.93855,
         "lng": 8.87318,
         "country": "DE",
@@ -1665,8 +2405,12 @@
         "population": 73680
     },
     "2937959": {
-        "geoid": "2937959",
-        "name": "Dessau",
+        "ids": {
+            "geonames": 2937959
+        },
+        "long": {
+            "default": "Dessau"
+        },
         "lat": 51.83864,
         "lng": 12.24555,
         "country": "DE",
@@ -1674,8 +2418,12 @@
         "population": 77315
     },
     "2938323": {
-        "geoid": "2938323",
-        "name": "Delmenhorst",
+        "ids": {
+            "geonames": 2938323
+        },
+        "long": {
+            "default": "Delmenhorst"
+        },
         "lat": 53.0511,
         "lng": 8.63091,
         "country": "DE",
@@ -1683,8 +2431,12 @@
         "population": 75893
     },
     "2938913": {
-        "geoid": "2938913",
-        "name": "Darmstadt",
+        "ids": {
+            "geonames": 2938913
+        },
+        "long": {
+            "default": "Darmstadt"
+        },
         "lat": 49.87167,
         "lng": 8.65027,
         "country": "DE",
@@ -1692,8 +2444,12 @@
         "population": 140385
     },
     "2939658": {
-        "geoid": "2939658",
-        "name": "Cuxhaven",
+        "ids": {
+            "geonames": 2939658
+        },
+        "long": {
+            "default": "Cuxhaven"
+        },
         "lat": 53.87176,
         "lng": 8.69087,
         "country": "DE",
@@ -1701,8 +2457,12 @@
         "population": 52677
     },
     "2939811": {
-        "geoid": "2939811",
-        "name": "Cottbus",
+        "ids": {
+            "geonames": 2939811
+        },
+        "long": {
+            "default": "Cottbus"
+        },
         "lat": 51.75769,
         "lng": 14.32888,
         "country": "DE",
@@ -1710,8 +2470,12 @@
         "population": 84754
     },
     "2940132": {
-        "geoid": "2940132",
-        "name": "Chemnitz",
+        "ids": {
+            "geonames": 2940132
+        },
+        "long": {
+            "default": "Chemnitz"
+        },
         "lat": 50.8357,
         "lng": 12.92922,
         "country": "DE",
@@ -1719,8 +2483,12 @@
         "population": 247220
     },
     "2940187": {
-        "geoid": "2940187",
-        "name": "Charlottenburg",
+        "ids": {
+            "geonames": 2940187
+        },
+        "long": {
+            "default": "Charlottenburg"
+        },
         "lat": 52.51667,
         "lng": 13.28333,
         "country": "DE",
@@ -1728,8 +2496,12 @@
         "population": 119857
     },
     "2940213": {
-        "geoid": "2940213",
-        "name": "Celle",
+        "ids": {
+            "geonames": 2940213
+        },
+        "long": {
+            "default": "Celle"
+        },
         "lat": 52.62264,
         "lng": 10.08047,
         "country": "DE",
@@ -1737,8 +2509,12 @@
         "population": 71010
     },
     "2940231": {
-        "geoid": "2940231",
-        "name": "Castrop-Rauxel",
+        "ids": {
+            "geonames": 2940231
+        },
+        "long": {
+            "default": "Castrop-Rauxel"
+        },
         "lat": 51.55657,
         "lng": 7.31155,
         "country": "DE",
@@ -1746,8 +2522,12 @@
         "population": 77924
     },
     "2944368": {
-        "geoid": "2944368",
-        "name": "Bremerhaven",
+        "ids": {
+            "geonames": 2944368
+        },
+        "long": {
+            "default": "Bremerhaven"
+        },
         "lat": 53.55021,
         "lng": 8.57673,
         "country": "DE",
@@ -1755,8 +2535,12 @@
         "population": 117446
     },
     "2944388": {
-        "geoid": "2944388",
-        "name": "Bremen",
+        "ids": {
+            "geonames": 2944388
+        },
+        "long": {
+            "default": "Bremen"
+        },
         "lat": 53.07516,
         "lng": 8.80777,
         "country": "DE",
@@ -1764,8 +2548,12 @@
         "population": 546501
     },
     "2945024": {
-        "geoid": "2945024",
-        "name": "Braunschweig",
+        "ids": {
+            "geonames": 2945024
+        },
+        "long": {
+            "default": "Braunschweig"
+        },
         "lat": 52.26594,
         "lng": 10.52673,
         "country": "DE",
@@ -1773,8 +2561,12 @@
         "population": 244715
     },
     "2945358": {
-        "geoid": "2945358",
-        "name": "Brandenburg an der Havel",
+        "ids": {
+            "geonames": 2945358
+        },
+        "long": {
+            "default": "Brandenburg an der Havel"
+        },
         "lat": 52.41667,
         "lng": 12.55,
         "country": "DE",
@@ -1782,8 +2574,12 @@
         "population": 59826
     },
     "2945756": {
-        "geoid": "2945756",
-        "name": "Bottrop",
+        "ids": {
+            "geonames": 2945756
+        },
+        "long": {
+            "default": "Bottrop"
+        },
         "lat": 51.52392,
         "lng": 6.9285,
         "country": "DE",
@@ -1791,8 +2587,12 @@
         "population": 119909
     },
     "2946447": {
-        "geoid": "2946447",
-        "name": "Bonn",
+        "ids": {
+            "geonames": 2946447
+        },
+        "long": {
+            "default": "Bonn"
+        },
         "lat": 50.73438,
         "lng": 7.09549,
         "country": "DE",
@@ -1800,8 +2600,12 @@
         "population": 313125
     },
     "2947022": {
-        "geoid": "2947022",
-        "name": "Bogenhausen",
+        "ids": {
+            "geonames": 2947022
+        },
+        "long": {
+            "default": "Bogenhausen"
+        },
         "lat": 48.15221,
         "lng": 11.61585,
         "country": "DE",
@@ -1809,8 +2613,12 @@
         "population": 77542
     },
     "2947416": {
-        "geoid": "2947416",
-        "name": "Bochum",
+        "ids": {
+            "geonames": 2947416
+        },
+        "long": {
+            "default": "Bochum"
+        },
         "lat": 51.48165,
         "lng": 7.21648,
         "country": "DE",
@@ -1818,8 +2626,12 @@
         "population": 385729
     },
     "2947421": {
-        "geoid": "2947421",
-        "name": "Bocholt",
+        "ids": {
+            "geonames": 2947421
+        },
+        "long": {
+            "default": "Bocholt"
+        },
         "lat": 51.83879,
         "lng": 6.61531,
         "country": "DE",
@@ -1827,8 +2639,12 @@
         "population": 73943
     },
     "2949186": {
-        "geoid": "2949186",
-        "name": "Bielefeld",
+        "ids": {
+            "geonames": 2949186
+        },
+        "long": {
+            "default": "Bielefeld"
+        },
         "lat": 52.03333,
         "lng": 8.53333,
         "country": "DE",
@@ -1836,8 +2652,12 @@
         "population": 331906
     },
     "2950159": {
-        "geoid": "2950159",
-        "name": "Berlin",
+        "ids": {
+            "geonames": 2950159
+        },
+        "long": {
+            "default": "Berlin"
+        },
         "lat": 52.52437,
         "lng": 13.41053,
         "country": "DE",
@@ -1845,8 +2665,12 @@
         "population": 3426354
     },
     "2950344": {
-        "geoid": "2950344",
-        "name": "Bergkamen",
+        "ids": {
+            "geonames": 2950344
+        },
+        "long": {
+            "default": "Bergkamen"
+        },
         "lat": 51.61633,
         "lng": 7.64451,
         "country": "DE",
@@ -1854,8 +2678,12 @@
         "population": 52329
     },
     "2950349": {
-        "geoid": "2950349",
-        "name": "Bergisch Gladbach",
+        "ids": {
+            "geonames": 2950349
+        },
+        "long": {
+            "default": "Bergisch Gladbach"
+        },
         "lat": 50.9856,
         "lng": 7.13298,
         "country": "DE",
@@ -1863,8 +2691,12 @@
         "population": 106184
     },
     "2950438": {
-        "geoid": "2950438",
-        "name": "Bergheim",
+        "ids": {
+            "geonames": 2950438
+        },
+        "long": {
+            "default": "Bergheim"
+        },
         "lat": 50.95572,
         "lng": 6.63986,
         "country": "DE",
@@ -1872,8 +2704,12 @@
         "population": 63558
     },
     "2951825": {
-        "geoid": "2951825",
-        "name": "Bayreuth",
+        "ids": {
+            "geonames": 2951825
+        },
+        "long": {
+            "default": "Bayreuth"
+        },
         "lat": 49.94782,
         "lng": 11.57893,
         "country": "DE",
@@ -1881,8 +2717,12 @@
         "population": 75061
     },
     "2952984": {
-        "geoid": "2952984",
-        "name": "Bamberg",
+        "ids": {
+            "geonames": 2952984
+        },
+        "long": {
+            "default": "Bamberg"
+        },
         "lat": 49.89873,
         "lng": 10.90067,
         "country": "DE",
@@ -1890,8 +2730,12 @@
         "population": 70047
     },
     "2953358": {
-        "geoid": "2953358",
-        "name": "Bad Salzuflen",
+        "ids": {
+            "geonames": 2953358
+        },
+        "long": {
+            "default": "Bad Salzuflen"
+        },
         "lat": 52.0862,
         "lng": 8.74434,
         "country": "DE",
@@ -1899,8 +2743,12 @@
         "population": 54899
     },
     "2953436": {
-        "geoid": "2953436",
-        "name": "Bad Homburg vor der Höhe",
+        "ids": {
+            "geonames": 2953436
+        },
+        "long": {
+            "default": "Bad Homburg vor der Höhe"
+        },
         "lat": 50.22683,
         "lng": 8.61816,
         "country": "DE",
@@ -1908,8 +2756,12 @@
         "population": 51859
     },
     "2953504": {
-        "geoid": "2953504",
-        "name": "Baden-Baden",
+        "ids": {
+            "geonames": 2953504
+        },
+        "long": {
+            "default": "Baden-Baden"
+        },
         "lat": 48.7606,
         "lng": 8.23975,
         "country": "DE",
@@ -1917,8 +2769,12 @@
         "population": 54239
     },
     "2954172": {
-        "geoid": "2954172",
-        "name": "Augsburg",
+        "ids": {
+            "geonames": 2954172
+        },
+        "long": {
+            "default": "Augsburg"
+        },
         "lat": 48.37154,
         "lng": 10.89851,
         "country": "DE",
@@ -1926,8 +2782,12 @@
         "population": 259196
     },
     "2955272": {
-        "geoid": "2955272",
-        "name": "Aschaffenburg",
+        "ids": {
+            "geonames": 2955272
+        },
+        "long": {
+            "default": "Aschaffenburg"
+        },
         "lat": 49.97704,
         "lng": 9.15214,
         "country": "DE",
@@ -1935,8 +2795,12 @@
         "population": 68551
     },
     "2955471": {
-        "geoid": "2955471",
-        "name": "Arnsberg",
+        "ids": {
+            "geonames": 2955471
+        },
+        "long": {
+            "default": "Arnsberg"
+        },
         "lat": 51.38333,
         "lng": 8.08333,
         "country": "DE",
@@ -1944,8 +2808,12 @@
         "population": 76612
     },
     "2959223": {
-        "geoid": "2959223",
-        "name": "Ahlen",
+        "ids": {
+            "geonames": 2959223
+        },
+        "long": {
+            "default": "Ahlen"
+        },
         "lat": 51.76338,
         "lng": 7.8887,
         "country": "DE",
@@ -1953,8 +2821,12 @@
         "population": 55280
     },
     "2959927": {
-        "geoid": "2959927",
-        "name": "Aalen",
+        "ids": {
+            "geonames": 2959927
+        },
+        "long": {
+            "default": "Aalen"
+        },
         "lat": 48.83777,
         "lng": 10.0933,
         "country": "DE",
@@ -1962,8 +2834,12 @@
         "population": 67085
     },
     "3247449": {
-        "geoid": "3247449",
-        "name": "Aachen",
+        "ids": {
+            "geonames": 3247449
+        },
+        "long": {
+            "default": "Aachen"
+        },
         "lat": 50.77664,
         "lng": 6.08342,
         "country": "DE",
@@ -1971,8 +2847,12 @@
         "population": 265208
     },
     "6545310": {
-        "geoid": "6545310",
-        "name": "Mitte",
+        "ids": {
+            "geonames": 6545310
+        },
+        "long": {
+            "default": "Mitte"
+        },
         "lat": 52.52003,
         "lng": 13.40489,
         "country": "DE",
@@ -1980,8 +2860,12 @@
         "population": 81205
     },
     "6941055": {
-        "geoid": "6941055",
-        "name": "Bochum-Hordel",
+        "ids": {
+            "geonames": 6941055
+        },
+        "long": {
+            "default": "Bochum-Hordel"
+        },
         "lat": 51.50168,
         "lng": 7.1756,
         "country": "DE",
@@ -1989,8 +2873,12 @@
         "population": 380000
     },
     "7289614": {
-        "geoid": "7289614",
-        "name": "Halle Neustadt",
+        "ids": {
+            "geonames": 7289614
+        },
+        "long": {
+            "default": "Halle Neustadt"
+        },
         "lat": 51.47924,
         "lng": 11.91605,
         "country": "DE",
@@ -1998,8 +2886,12 @@
         "population": 240000
     },
     "7290243": {
-        "geoid": "7290243",
-        "name": "Bergedorf",
+        "ids": {
+            "geonames": 7290243
+        },
+        "long": {
+            "default": "Bergedorf"
+        },
         "lat": 53.48462,
         "lng": 10.22904,
         "country": "DE",
@@ -2007,8 +2899,12 @@
         "population": 119665
     },
     "7290254": {
-        "geoid": "7290254",
-        "name": "Berlin Schöneberg",
+        "ids": {
+            "geonames": 7290254
+        },
+        "long": {
+            "default": "Berlin Schöneberg"
+        },
         "lat": 52.48388,
         "lng": 13.3477,
         "country": "DE",
@@ -2016,8 +2912,12 @@
         "population": 116286
     },
     "8334622": {
-        "geoid": "8334622",
-        "name": "Neu-Hohenschönhausen",
+        "ids": {
+            "geonames": 8334622
+        },
+        "long": {
+            "default": "Neu-Hohenschönhausen"
+        },
         "lat": 52.56681,
         "lng": 13.51255,
         "country": "DE",
@@ -2025,8 +2925,12 @@
         "population": 53374
     },
     "8354626": {
-        "geoid": "8354626",
-        "name": "Hamburg-Nord",
+        "ids": {
+            "geonames": 8354626
+        },
+        "long": {
+            "default": "Hamburg-Nord"
+        },
         "lat": 53.58935,
         "lng": 9.984,
         "country": "DE",

@@ -4,8 +4,8 @@
             "fips": "23",
             "geonames": 241151
         },
-        "names": {
-            "long": "Takamaka"
+        "long": {
+            "default": "Takamaka"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "22",
             "geonames": 241181
         },
-        "names": {
-            "long": "Saint Louis"
+        "long": {
+            "default": "Saint Louis"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "27",
             "geonames": 241215
         },
-        "names": {
-            "long": "Port Glaud"
+        "long": {
+            "default": "Port Glaud"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "20",
             "geonames": 241221
         },
-        "names": {
-            "long": "Pointe Larue"
+        "long": {
+            "default": "Pointe Larue"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "19",
             "geonames": 241224
         },
-        "names": {
-            "long": "Plaisance"
+        "long": {
+            "default": "Plaisance"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "18",
             "geonames": 241251
         },
-        "names": {
-            "long": "Mont Fleuri"
+        "long": {
+            "default": "Mont Fleuri"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "17",
             "geonames": 241252
         },
-        "names": {
-            "long": "Mont Buxton"
+        "long": {
+            "default": "Mont Buxton"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "26",
             "geonames": 241302
         },
-        "names": {
-            "long": "English River"
+        "long": {
+            "default": "English River"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "25",
             "geonames": 241311
         },
-        "names": {
-            "long": "Inner Islands"
+        "long": {
+            "default": "Inner Islands"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "24",
             "geonames": 241330
         },
-        "names": {
-            "long": "Grand Anse Mahe"
+        "long": {
+            "default": "Grand Anse Mahe"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "14",
             "geonames": 241331
         },
-        "names": {
-            "long": "Grand Anse Praslin"
+        "long": {
+            "default": "Grand Anse Praslin"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "12",
             "geonames": 241336
         },
-        "names": {
-            "long": "Glacis"
+        "long": {
+            "default": "Glacis"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "11",
             "geonames": 241396
         },
-        "names": {
-            "long": "Cascade"
+        "long": {
+            "default": "Cascade"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "10",
             "geonames": 241424
         },
-        "names": {
-            "long": "Bel Ombre"
+        "long": {
+            "default": "Bel Ombre"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "09",
             "geonames": 241426
         },
-        "names": {
-            "long": "Bel Air"
+        "long": {
+            "default": "Bel Air"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "08",
             "geonames": 241428
         },
-        "names": {
-            "long": "Beau Vallon"
+        "long": {
+            "default": "Beau Vallon"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "07",
             "geonames": 241438
         },
-        "names": {
-            "long": "Baie Sainte Anne"
+        "long": {
+            "default": "Baie Sainte Anne"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "06",
             "geonames": 241439
         },
-        "names": {
-            "long": "Baie Lazare"
+        "long": {
+            "default": "Baie Lazare"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "05",
             "geonames": 241444
         },
-        "names": {
-            "long": "Anse Royale"
+        "long": {
+            "default": "Anse Royale"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "03",
             "geonames": 241447
         },
-        "names": {
-            "long": "Anse Etoile"
+        "long": {
+            "default": "Anse Etoile"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "02",
             "geonames": 241449
         },
-        "names": {
-            "long": "Anse Boileau"
+        "long": {
+            "default": "Anse Boileau"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "01",
             "geonames": 241450
         },
-        "names": {
-            "long": "Anse-aux-Pins"
+        "long": {
+            "default": "Anse-aux-Pins"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "29",
             "geonames": 448408
         },
-        "names": {
-            "long": "Les Mamelles"
+        "long": {
+            "default": "Les Mamelles"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "30",
             "geonames": 448409
         },
-        "names": {
-            "long": "Roche Caiman"
+        "long": {
+            "default": "Roche Caiman"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "28",
             "geonames": 448410
         },
-        "names": {
-            "long": "Au Cap"
+        "long": {
+            "default": "Au Cap"
         }
     }
 ]

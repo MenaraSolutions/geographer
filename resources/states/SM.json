@@ -4,8 +4,8 @@
             "fips": "09",
             "geonames": 3166650
         },
-        "names": {
-            "long": "Serravalle"
+        "long": {
+            "default": "Serravalle"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 3178807
         },
-        "names": {
-            "long": "Chiesanuova"
+        "long": {
+            "default": "Chiesanuova"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 3345302
         },
-        "names": {
-            "long": "San Marino"
+        "long": {
+            "default": "San Marino"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 3345303
         },
-        "names": {
-            "long": "Acquaviva"
+        "long": {
+            "default": "Acquaviva"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 3345304
         },
-        "names": {
-            "long": "Borgo Maggiore"
+        "long": {
+            "default": "Borgo Maggiore"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "03",
             "geonames": 3345305
         },
-        "names": {
-            "long": "Domagnano"
+        "long": {
+            "default": "Domagnano"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "04",
             "geonames": 3345306
         },
-        "names": {
-            "long": "Faetano"
+        "long": {
+            "default": "Faetano"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "05",
             "geonames": 3345307
         },
-        "names": {
-            "long": "Fiorentino"
+        "long": {
+            "default": "Fiorentino"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "08",
             "geonames": 3345308
         },
-        "names": {
-            "long": "Montegiardino"
+        "long": {
+            "default": "Montegiardino"
         }
     }
 ]

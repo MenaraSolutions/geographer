@@ -4,8 +4,8 @@
             "fips": "12",
             "geonames": 1293118
         },
-        "names": {
-            "long": "Tanintharyi"
+        "long": {
+            "default": "Tanintharyi"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "11",
             "geonames": 1297099
         },
-        "names": {
-            "long": "Shan"
+        "long": {
+            "default": "Shan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "10",
             "geonames": 1298480
         },
-        "names": {
-            "long": "Sagain"
+        "long": {
+            "default": "Sagain"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "17",
             "geonames": 1298822
         },
-        "names": {
-            "long": "Yangon"
+        "long": {
+            "default": "Yangon"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "01",
             "geonames": 1298852
         },
-        "names": {
-            "long": "Rakhine"
+        "long": {
+            "default": "Rakhine"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "16",
             "geonames": 1300463
         },
-        "names": {
-            "long": "Bago"
+        "long": {
+            "default": "Bago"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 1308528
         },
-        "names": {
-            "long": "Mon"
+        "long": {
+            "default": "Mon"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 1311871
         },
-        "names": {
-            "long": "Mandalay"
+        "long": {
+            "default": "Mandalay"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "15",
             "geonames": 1312604
         },
-        "names": {
-            "long": "Magway"
+        "long": {
+            "default": "Magway"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "06",
             "geonames": 1319539
         },
-        "names": {
-            "long": "Kayah"
+        "long": {
+            "default": "Kayah"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "05",
             "geonames": 1320233
         },
-        "names": {
-            "long": "Kayin"
+        "long": {
+            "default": "Kayin"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "04",
             "geonames": 1321702
         },
-        "names": {
-            "long": "Kachin"
+        "long": {
+            "default": "Kachin"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "03",
             "geonames": 1321850
         },
-        "names": {
-            "long": "Ayeyarwady"
+        "long": {
+            "default": "Ayeyarwady"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "02",
             "geonames": 1327132
         },
-        "names": {
-            "long": "Chin"
+        "long": {
+            "default": "Chin"
         }
     }
 ]

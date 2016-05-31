@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 285628
         },
-        "names": {
-            "long": "Muḩāfaz̧at Ḩawallī"
+        "long": {
+            "default": "Muḩāfaz̧at Ḩawallī"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 285788
         },
-        "names": {
-            "long": "Al Asimah"
+        "long": {
+            "default": "Al Asimah"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 285798
         },
-        "names": {
-            "long": "Al Jahrāʼ"
+        "long": {
+            "default": "Al Jahrāʼ"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 285816
         },
-        "names": {
-            "long": "Al Farwaniyah"
+        "long": {
+            "default": "Al Farwaniyah"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "04",
             "geonames": 285841
         },
-        "names": {
-            "long": "Al Aḩmadī"
+        "long": {
+            "default": "Al Aḩmadī"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 7733358
         },
-        "names": {
-            "long": "Mubārak al Kabīr"
+        "long": {
+            "default": "Mubārak al Kabīr"
         }
     }
 ]

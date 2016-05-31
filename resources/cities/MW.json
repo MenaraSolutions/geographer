@@ -1,7 +1,11 @@
 {
     "923295": {
-        "geoid": "923295",
-        "name": "Zomba",
+        "ids": {
+            "geonames": 923295
+        },
+        "long": {
+            "default": "Zomba"
+        },
         "lat": -15.38596,
         "lng": 35.3188,
         "country": "MW",
@@ -9,8 +13,12 @@
         "population": 80932
     },
     "925475": {
-        "geoid": "925475",
-        "name": "Mzuzu",
+        "ids": {
+            "geonames": 925475
+        },
+        "long": {
+            "default": "Mzuzu"
+        },
         "lat": -11.46556,
         "lng": 34.02071,
         "country": "MW",
@@ -18,8 +26,12 @@
         "population": 175345
     },
     "927967": {
-        "geoid": "927967",
-        "name": "Lilongwe",
+        "ids": {
+            "geonames": 927967
+        },
+        "long": {
+            "default": "Lilongwe"
+        },
         "lat": -13.96692,
         "lng": 33.78725,
         "country": "MW",
@@ -27,8 +39,12 @@
         "population": 646750
     },
     "931755": {
-        "geoid": "931755",
-        "name": "Blantyre",
+        "ids": {
+            "geonames": 931755
+        },
+        "long": {
+            "default": "Blantyre"
+        },
         "lat": -15.78499,
         "lng": 35.00854,
         "country": "MW",

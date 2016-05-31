@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 3868621
         },
-        "names": {
-            "long": "Valparaíso"
+        "long": {
+            "default": "Valparaíso"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "15",
             "geonames": 3870116
         },
-        "names": {
-            "long": "Tarapacá"
+        "long": {
+            "default": "Tarapacá"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "12",
             "geonames": 3873544
         },
-        "names": {
-            "long": "Santiago Metropolitan"
+        "long": {
+            "default": "Santiago Metropolitan"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 3880306
         },
-        "names": {
-            "long": "Maule"
+        "long": {
+            "default": "Maule"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "14",
             "geonames": 3881974
         },
-        "names": {
-            "long": "Los Lagos"
+        "long": {
+            "default": "Los Lagos"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "08",
             "geonames": 3883281
         },
-        "names": {
-            "long": "O'Higgins"
+        "long": {
+            "default": "O'Higgins"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 3893623
         },
-        "names": {
-            "long": "Coquimbo"
+        "long": {
+            "default": "Coquimbo"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "06",
             "geonames": 3898380
         },
-        "names": {
-            "long": "Biobío"
+        "long": {
+            "default": "Biobío"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "05",
             "geonames": 3899191
         },
-        "names": {
-            "long": "Atacama"
+        "long": {
+            "default": "Atacama"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "04",
             "geonames": 3899463
         },
-        "names": {
-            "long": "Araucanía"
+        "long": {
+            "default": "Araucanía"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "03",
             "geonames": 3899537
         },
-        "names": {
-            "long": "Antofagasta"
+        "long": {
+            "default": "Antofagasta"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "02",
             "geonames": 3900333
         },
-        "names": {
-            "long": "Aisén"
+        "long": {
+            "default": "Aisén"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "10",
             "geonames": 4036650
         },
-        "names": {
-            "long": "Magallanes"
+        "long": {
+            "default": "Magallanes"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "16",
             "geonames": 6693562
         },
-        "names": {
-            "long": "Arica y Parinacota"
+        "long": {
+            "default": "Arica y Parinacota"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "17",
             "geonames": 6693563
         },
-        "names": {
-            "long": "Los Ríos"
+        "long": {
+            "default": "Los Ríos"
         }
     }
 ]

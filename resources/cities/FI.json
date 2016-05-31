@@ -1,7 +1,11 @@
 {
     "632453": {
-        "geoid": "632453",
-        "name": "Vantaa",
+        "ids": {
+            "geonames": 632453
+        },
+        "long": {
+            "default": "Vantaa"
+        },
         "lat": 60.29414,
         "lng": 25.04099,
         "country": "FI",
@@ -9,8 +13,12 @@
         "population": 190058
     },
     "632978": {
-        "geoid": "632978",
-        "name": "Vaasa",
+        "ids": {
+            "geonames": 632978
+        },
+        "long": {
+            "default": "Vaasa"
+        },
         "lat": 63.096,
         "lng": 21.61577,
         "country": "FI",
@@ -18,8 +26,12 @@
         "population": 57014
     },
     "633679": {
-        "geoid": "633679",
-        "name": "Turku",
+        "ids": {
+            "geonames": 633679
+        },
+        "long": {
+            "default": "Turku"
+        },
         "lat": 60.45148,
         "lng": 22.26869,
         "country": "FI",
@@ -27,8 +39,12 @@
         "population": 175945
     },
     "634963": {
-        "geoid": "634963",
-        "name": "Tampere",
+        "ids": {
+            "geonames": 634963
+        },
+        "long": {
+            "default": "Tampere"
+        },
         "lat": 61.49911,
         "lng": 23.78712,
         "country": "FI",
@@ -36,8 +52,12 @@
         "population": 202687
     },
     "640999": {
-        "geoid": "640999",
-        "name": "Pori",
+        "ids": {
+            "geonames": 640999
+        },
+        "long": {
+            "default": "Pori"
+        },
         "lat": 61.48333,
         "lng": 21.78333,
         "country": "FI",
@@ -45,8 +65,12 @@
         "population": 76772
     },
     "643492": {
-        "geoid": "643492",
-        "name": "Oulu",
+        "ids": {
+            "geonames": 643492
+        },
+        "long": {
+            "default": "Oulu"
+        },
         "lat": 65.01236,
         "lng": 25.46816,
         "country": "FI",
@@ -54,8 +78,12 @@
         "population": 128618
     },
     "648900": {
-        "geoid": "648900",
-        "name": "Lappeenranta",
+        "ids": {
+            "geonames": 648900
+        },
+        "long": {
+            "default": "Lappeenranta"
+        },
         "lat": 61.05871,
         "lng": 28.18871,
         "country": "FI",
@@ -63,8 +91,12 @@
         "population": 59276
     },
     "649360": {
-        "geoid": "649360",
-        "name": "Lahti",
+        "ids": {
+            "geonames": 649360
+        },
+        "long": {
+            "default": "Lahti"
+        },
         "lat": 60.98267,
         "lng": 25.66151,
         "country": "FI",
@@ -72,8 +104,12 @@
         "population": 98826
     },
     "650224": {
-        "geoid": "650224",
-        "name": "Kuopio",
+        "ids": {
+            "geonames": 650224
+        },
+        "long": {
+            "default": "Kuopio"
+        },
         "lat": 62.89238,
         "lng": 27.67703,
         "country": "FI",
@@ -81,8 +117,12 @@
         "population": 89104
     },
     "650946": {
-        "geoid": "650946",
-        "name": "Kotka",
+        "ids": {
+            "geonames": 650946
+        },
+        "long": {
+            "default": "Kotka"
+        },
         "lat": 60.46667,
         "lng": 26.91667,
         "country": "FI",
@@ -90,8 +130,12 @@
         "population": 54616
     },
     "655194": {
-        "geoid": "655194",
-        "name": "Jyväskylä",
+        "ids": {
+            "geonames": 655194
+        },
+        "long": {
+            "default": "Jyväskylä"
+        },
         "lat": 62.24147,
         "lng": 25.72088,
         "country": "FI",
@@ -99,8 +143,12 @@
         "population": 85026
     },
     "655808": {
-        "geoid": "655808",
-        "name": "Joensuu",
+        "ids": {
+            "geonames": 655808
+        },
+        "long": {
+            "default": "Joensuu"
+        },
         "lat": 62.60118,
         "lng": 29.76316,
         "country": "FI",
@@ -108,8 +156,12 @@
         "population": 53388
     },
     "658225": {
-        "geoid": "658225",
-        "name": "Helsinki",
+        "ids": {
+            "geonames": 658225
+        },
+        "long": {
+            "default": "Helsinki"
+        },
         "lat": 60.16952,
         "lng": 24.93545,
         "country": "FI",
@@ -117,8 +169,12 @@
         "population": 558457
     },
     "660158": {
-        "geoid": "660158",
-        "name": "Espoo",
+        "ids": {
+            "geonames": 660158
+        },
+        "long": {
+            "default": "Espoo"
+        },
         "lat": 60.2052,
         "lng": 24.6522,
         "country": "FI",

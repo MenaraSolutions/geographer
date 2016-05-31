@@ -4,8 +4,8 @@
             "fips": "07",
             "geonames": 620134
         },
-        "names": {
-            "long": "Vitebsk"
+        "long": {
+            "default": "Vitebsk"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "06",
             "geonames": 625073
         },
-        "names": {
-            "long": "Mogilev"
+        "long": {
+            "default": "Mogilev"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 625142
         },
-        "names": {
-            "long": "Minsk"
+        "long": {
+            "default": "Minsk"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 625143
         },
-        "names": {
-            "long": "Minsk City"
+        "long": {
+            "default": "Minsk City"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "03",
             "geonames": 628035
         },
-        "names": {
-            "long": "Grodnenskaya"
+        "long": {
+            "default": "Grodnenskaya"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "02",
             "geonames": 628281
         },
-        "names": {
-            "long": "Gomel"
+        "long": {
+            "default": "Gomel"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "01",
             "geonames": 629631
         },
-        "names": {
-            "long": "Brest"
+        "long": {
+            "default": "Brest"
         }
     }
 ]

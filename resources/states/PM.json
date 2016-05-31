@@ -4,8 +4,8 @@
             "fips": "97502",
             "geonames": 3424935
         },
-        "names": {
-            "long": "Saint-Pierre"
+        "long": {
+            "default": "Saint-Pierre"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "97501",
             "geonames": 3424938
         },
-        "names": {
-            "long": "Miquelon-Langlade"
+        "long": {
+            "default": "Miquelon-Langlade"
         }
     }
 ]

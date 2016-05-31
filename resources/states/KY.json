@@ -4,8 +4,8 @@
             "fips": "10346796",
             "geonames": 10346796
         },
-        "names": {
-            "long": "George Town"
+        "long": {
+            "default": "George Town"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10375968",
             "geonames": 10375968
         },
-        "names": {
-            "long": "West Bay"
+        "long": {
+            "default": "West Bay"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "10375969",
             "geonames": 10375969
         },
-        "names": {
-            "long": "Bodden Town"
+        "long": {
+            "default": "Bodden Town"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "10375970",
             "geonames": 10375970
         },
-        "names": {
-            "long": "North Side"
+        "long": {
+            "default": "North Side"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10375971",
             "geonames": 10375971
         },
-        "names": {
-            "long": "East End"
+        "long": {
+            "default": "East End"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "10375972",
             "geonames": 10375972
         },
-        "names": {
-            "long": "Sister Island"
+        "long": {
+            "default": "Sister Island"
         }
     }
 ]

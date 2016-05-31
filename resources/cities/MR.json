@@ -1,7 +1,11 @@
 {
     "2377450": {
-        "geoid": "2377450",
-        "name": "Nouakchott",
+        "ids": {
+            "geonames": 2377450
+        },
+        "long": {
+            "default": "Nouakchott"
+        },
         "lat": 18.08581,
         "lng": -15.9785,
         "country": "MR",
@@ -9,8 +13,12 @@
         "population": 661400
     },
     "2377457": {
-        "geoid": "2377457",
-        "name": "Nouâdhibou",
+        "ids": {
+            "geonames": 2377457
+        },
+        "long": {
+            "default": "Nouâdhibou"
+        },
         "lat": 20.93098,
         "lng": -17.03465,
         "country": "MR",
@@ -18,8 +26,12 @@
         "population": 72337
     },
     "2377539": {
-        "geoid": "2377539",
-        "name": "Néma",
+        "ids": {
+            "geonames": 2377539
+        },
+        "long": {
+            "default": "Néma"
+        },
         "lat": 16.61702,
         "lng": -7.25649,
         "country": "MR",
@@ -27,8 +39,12 @@
         "population": 60000
     },
     "2378736": {
-        "geoid": "2378736",
-        "name": "Kaédi",
+        "ids": {
+            "geonames": 2378736
+        },
+        "long": {
+            "default": "Kaédi"
+        },
         "lat": 16.15027,
         "lng": -13.5037,
         "country": "MR",

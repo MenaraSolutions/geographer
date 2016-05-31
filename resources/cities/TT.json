@@ -1,7 +1,11 @@
 {
     "3573738": {
-        "geoid": "3573738",
-        "name": "San Fernando",
+        "ids": {
+            "geonames": 3573738
+        },
+        "long": {
+            "default": "San Fernando"
+        },
         "lat": 10.28333,
         "lng": -61.46667,
         "country": "TT",
@@ -9,8 +13,12 @@
         "population": 55419
     },
     "3574116": {
-        "geoid": "3574116",
-        "name": "Mon Repos",
+        "ids": {
+            "geonames": 3574116
+        },
+        "long": {
+            "default": "Mon Repos"
+        },
         "lat": 10.27979,
         "lng": -61.4459,
         "country": "TT",
@@ -18,8 +26,12 @@
         "population": 56380
     },
     "3574309": {
-        "geoid": "3574309",
-        "name": "Laventille",
+        "ids": {
+            "geonames": 3574309
+        },
+        "long": {
+            "default": "Laventille"
+        },
         "lat": 10.64917,
         "lng": -61.49889,
         "country": "TT",
@@ -27,8 +39,12 @@
         "population": 157258
     },
     "3574810": {
-        "geoid": "3574810",
-        "name": "Chaguanas",
+        "ids": {
+            "geonames": 3574810
+        },
+        "long": {
+            "default": "Chaguanas"
+        },
         "lat": 10.51667,
         "lng": -61.41667,
         "country": "TT",

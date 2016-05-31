@@ -4,8 +4,8 @@
             "fips": "18",
             "geonames": 715593
         },
-        "names": {
-            "long": "Szabolcs-Szatmár-Bereg"
+        "long": {
+            "default": "Szabolcs-Szatmár-Bereg"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "20",
             "geonames": 719637
         },
-        "names": {
-            "long": "Jász-Nagykun-Szolnok"
+        "long": {
+            "default": "Jász-Nagykun-Szolnok"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "11",
             "geonames": 720002
         },
-        "names": {
-            "long": "Heves"
+        "long": {
+            "default": "Heves"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "10",
             "geonames": 720293
         },
-        "names": {
-            "long": "Hajdú-Bihar"
+        "long": {
+            "default": "Hajdú-Bihar"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 721589
         },
-        "names": {
-            "long": "Csongrád"
+        "long": {
+            "default": "Csongrád"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "04",
             "geonames": 722064
         },
-        "names": {
-            "long": "Borsod-Abaúj-Zemplén"
+        "long": {
+            "default": "Borsod-Abaúj-Zemplén"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "03",
             "geonames": 722433
         },
-        "names": {
-            "long": "Bekes"
+        "long": {
+            "default": "Bekes"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "24",
             "geonames": 3042613
         },
-        "names": {
-            "long": "Zala"
+        "long": {
+            "default": "Zala"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "23",
             "geonames": 3042925
         },
-        "names": {
-            "long": "Veszprém"
+        "long": {
+            "default": "Veszprém"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "22",
             "geonames": 3043047
         },
-        "names": {
-            "long": "Vas"
+        "long": {
+            "default": "Vas"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "21",
             "geonames": 3043845
         },
-        "names": {
-            "long": "Tolna"
+        "long": {
+            "default": "Tolna"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "17",
             "geonames": 3045226
         },
-        "names": {
-            "long": "Somogy"
+        "long": {
+            "default": "Somogy"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "16",
             "geonames": 3046431
         },
-        "names": {
-            "long": "Pest"
+        "long": {
+            "default": "Pest"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "14",
             "geonames": 3047348
         },
-        "names": {
-            "long": "Nógrád"
+        "long": {
+            "default": "Nógrád"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "12",
             "geonames": 3049518
         },
-        "names": {
-            "long": "Komárom-Esztergom"
+        "long": {
+            "default": "Komárom-Esztergom"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "09",
             "geonames": 3051977
         },
-        "names": {
-            "long": "Győr-Moson-Sopron"
+        "long": {
+            "default": "Győr-Moson-Sopron"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "08",
             "geonames": 3053028
         },
-        "names": {
-            "long": "Fejér"
+        "long": {
+            "default": "Fejér"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "05",
             "geonames": 3054638
         },
-        "names": {
-            "long": "Budapest"
+        "long": {
+            "default": "Budapest"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "02",
             "geonames": 3055399
         },
-        "names": {
-            "long": "Baranya"
+        "long": {
+            "default": "Baranya"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "01",
             "geonames": 3055744
         },
-        "names": {
-            "long": "Bács-Kiskun"
+        "long": {
+            "default": "Bács-Kiskun"
         }
     }
 ]

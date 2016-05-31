@@ -1,7 +1,11 @@
 {
     "89570": {
-        "geoid": "89570",
-        "name": "Zaxo",
+        "ids": {
+            "geonames": 89570
+        },
+        "long": {
+            "default": "Zaxo"
+        },
         "lat": 37.14871,
         "lng": 42.68591,
         "country": "IQ",
@@ -9,8 +13,12 @@
         "population": 95052
     },
     "89824": {
-        "geoid": "89824",
-        "name": "Umm Qaşr",
+        "ids": {
+            "geonames": 89824
+        },
+        "long": {
+            "default": "Umm Qaşr"
+        },
         "lat": 30.0362,
         "lng": 47.91951,
         "country": "IQ",
@@ -18,8 +26,12 @@
         "population": 107620
     },
     "90026": {
-        "geoid": "90026",
-        "name": "Tozkhurmato",
+        "ids": {
+            "geonames": 90026
+        },
+        "long": {
+            "default": "Tozkhurmato"
+        },
         "lat": 34.88808,
         "lng": 44.63256,
         "country": "IQ",
@@ -27,8 +39,12 @@
         "population": 59886
     },
     "90708": {
-        "geoid": "90708",
-        "name": "Sīnah",
+        "ids": {
+            "geonames": 90708
+        },
+        "long": {
+            "default": "Sīnah"
+        },
         "lat": 36.80752,
         "lng": 43.03831,
         "country": "IQ",
@@ -36,8 +52,12 @@
         "population": 128776
     },
     "91597": {
-        "geoid": "91597",
-        "name": "Sāmarrā’",
+        "ids": {
+            "geonames": 91597
+        },
+        "long": {
+            "default": "Sāmarrā’"
+        },
         "lat": 34.1959,
         "lng": 43.88568,
         "country": "IQ",
@@ -45,8 +65,12 @@
         "population": 158508
     },
     "94787": {
-        "geoid": "94787",
-        "name": "Kirkuk",
+        "ids": {
+            "geonames": 94787
+        },
+        "long": {
+            "default": "Kirkuk"
+        },
         "lat": 35.46806,
         "lng": 44.39222,
         "country": "IQ",
@@ -54,8 +78,12 @@
         "population": 601433
     },
     "94824": {
-        "geoid": "94824",
-        "name": "Karbala",
+        "ids": {
+            "geonames": 94824
+        },
+        "long": {
+            "default": "Karbala"
+        },
         "lat": 32.61603,
         "lng": 44.02488,
         "country": "IQ",
@@ -63,8 +91,12 @@
         "population": 434450
     },
     "95446": {
-        "geoid": "95446",
-        "name": "Erbil",
+        "ids": {
+            "geonames": 95446
+        },
+        "long": {
+            "default": "Erbil"
+        },
         "lat": 36.19257,
         "lng": 44.01062,
         "country": "IQ",
@@ -72,8 +104,12 @@
         "population": 932800
     },
     "96205": {
-        "geoid": "96205",
-        "name": "Ḩalabjah",
+        "ids": {
+            "geonames": 96205
+        },
+        "long": {
+            "default": "Ḩalabjah"
+        },
         "lat": 35.17778,
         "lng": 45.98611,
         "country": "IQ",
@@ -81,8 +117,12 @@
         "population": 57333
     },
     "96994": {
-        "geoid": "96994",
-        "name": "Dihok",
+        "ids": {
+            "geonames": 96994
+        },
+        "long": {
+            "default": "Dihok"
+        },
         "lat": 36.86709,
         "lng": 42.98845,
         "country": "IQ",
@@ -90,8 +130,12 @@
         "population": 284000
     },
     "97417": {
-        "geoid": "97417",
-        "name": "Jamjamāl",
+        "ids": {
+            "geonames": 97417
+        },
+        "long": {
+            "default": "Jamjamāl"
+        },
         "lat": 35.53356,
         "lng": 44.8343,
         "country": "IQ",
@@ -99,8 +143,12 @@
         "population": 75634
     },
     "97990": {
-        "geoid": "97990",
-        "name": "Baqubah",
+        "ids": {
+            "geonames": 97990
+        },
+        "long": {
+            "default": "Baqubah"
+        },
         "lat": 33.75403,
         "lng": 44.60518,
         "country": "IQ",
@@ -108,8 +156,12 @@
         "population": 152550
     },
     "98182": {
-        "geoid": "98182",
-        "name": "Baghdad",
+        "ids": {
+            "geonames": 98182
+        },
+        "long": {
+            "default": "Baghdad"
+        },
         "lat": 33.34058,
         "lng": 44.40088,
         "country": "IQ",
@@ -117,8 +169,12 @@
         "population": 7216000
     },
     "98245": {
-        "geoid": "98245",
-        "name": "Az Zubayr",
+        "ids": {
+            "geonames": 98245
+        },
+        "long": {
+            "default": "Az Zubayr"
+        },
         "lat": 30.39213,
         "lng": 47.70175,
         "country": "IQ",
@@ -126,8 +182,12 @@
         "population": 122676
     },
     "98463": {
-        "geoid": "98463",
-        "name": "As Sulaymānīyah",
+        "ids": {
+            "geonames": 98463
+        },
+        "long": {
+            "default": "As Sulaymānīyah"
+        },
         "lat": 35.56496,
         "lng": 45.4329,
         "country": "IQ",
@@ -135,8 +195,12 @@
         "population": 723170
     },
     "98530": {
-        "geoid": "98530",
-        "name": "As Samawah",
+        "ids": {
+            "geonames": 98530
+        },
+        "long": {
+            "default": "As Samawah"
+        },
         "lat": 31.33198,
         "lng": 45.2944,
         "country": "IQ",
@@ -144,8 +208,12 @@
         "population": 152890
     },
     "98622": {
-        "geoid": "98622",
-        "name": "Ash Shaţrah",
+        "ids": {
+            "geonames": 98622
+        },
+        "long": {
+            "default": "Ash Shaţrah"
+        },
         "lat": 31.40906,
         "lng": 46.1727,
         "country": "IQ",
@@ -153,8 +221,12 @@
         "population": 82732
     },
     "98629": {
-        "geoid": "98629",
-        "name": "Ash Shāmīyah",
+        "ids": {
+            "geonames": 98629
+        },
+        "long": {
+            "default": "Ash Shāmīyah"
+        },
         "lat": 31.96257,
         "lng": 44.60075,
         "country": "IQ",
@@ -162,8 +234,12 @@
         "population": 57661
     },
     "98717": {
-        "geoid": "98717",
-        "name": "Ramadi",
+        "ids": {
+            "geonames": 98717
+        },
+        "long": {
+            "default": "Ramadi"
+        },
         "lat": 33.42056,
         "lng": 43.30778,
         "country": "IQ",
@@ -171,8 +247,12 @@
         "population": 274539
     },
     "98854": {
-        "geoid": "98854",
-        "name": "An Nāşirīyah",
+        "ids": {
+            "geonames": 98854
+        },
+        "long": {
+            "default": "An Nāşirīyah"
+        },
         "lat": 31.05799,
         "lng": 46.25726,
         "country": "IQ",
@@ -180,8 +260,12 @@
         "population": 400249
     },
     "98860": {
-        "geoid": "98860",
-        "name": "Najaf",
+        "ids": {
+            "geonames": 98860
+        },
+        "long": {
+            "default": "Najaf"
+        },
         "lat": 32.02594,
         "lng": 44.34625,
         "country": "IQ",
@@ -189,8 +273,12 @@
         "population": 482576
     },
     "99062": {
-        "geoid": "99062",
-        "name": "Al Miqdādīyah",
+        "ids": {
+            "geonames": 99062
+        },
+        "long": {
+            "default": "Al Miqdādīyah"
+        },
         "lat": 33.97861,
         "lng": 44.93694,
         "country": "IQ",
@@ -198,8 +286,12 @@
         "population": 50698
     },
     "99071": {
-        "geoid": "99071",
-        "name": "Al Mawşil al Jadīdah",
+        "ids": {
+            "geonames": 99071
+        },
+        "long": {
+            "default": "Al Mawşil al Jadīdah"
+        },
         "lat": 36.33271,
         "lng": 43.10555,
         "country": "IQ",
@@ -207,8 +299,12 @@
         "population": 2065597
     },
     "99072": {
-        "geoid": "99072",
-        "name": "Mosul",
+        "ids": {
+            "geonames": 99072
+        },
+        "long": {
+            "default": "Mosul"
+        },
         "lat": 36.335,
         "lng": 43.11889,
         "country": "IQ",
@@ -216,8 +312,12 @@
         "population": 1739800
     },
     "99131": {
-        "geoid": "99131",
-        "name": "Al Kūt",
+        "ids": {
+            "geonames": 99131
+        },
+        "long": {
+            "default": "Al Kūt"
+        },
         "lat": 32.5128,
         "lng": 45.81817,
         "country": "IQ",
@@ -225,8 +325,12 @@
         "population": 315162
     },
     "99135": {
-        "geoid": "99135",
-        "name": "Kufa",
+        "ids": {
+            "geonames": 99135
+        },
+        "long": {
+            "default": "Kufa"
+        },
         "lat": 32.05114,
         "lng": 44.44017,
         "country": "IQ",
@@ -234,8 +338,12 @@
         "population": 110000
     },
     "99169": {
-        "geoid": "99169",
-        "name": "Khāliş",
+        "ids": {
+            "geonames": 99169
+        },
+        "long": {
+            "default": "Khāliş"
+        },
         "lat": 33.80809,
         "lng": 44.53343,
         "country": "IQ",
@@ -243,8 +351,12 @@
         "population": 70046
     },
     "99344": {
-        "geoid": "99344",
-        "name": "Al Hindīyah",
+        "ids": {
+            "geonames": 99344
+        },
+        "long": {
+            "default": "Al Hindīyah"
+        },
         "lat": 32.54671,
         "lng": 44.22765,
         "country": "IQ",
@@ -252,8 +364,12 @@
         "population": 57490
     },
     "99347": {
-        "geoid": "99347",
-        "name": "Al Ḩillah",
+        "ids": {
+            "geonames": 99347
+        },
+        "long": {
+            "default": "Al Ḩillah"
+        },
         "lat": 32.46367,
         "lng": 44.41963,
         "country": "IQ",
@@ -261,8 +377,12 @@
         "population": 289709
     },
     "99350": {
-        "geoid": "99350",
-        "name": "Al Ḩayy",
+        "ids": {
+            "geonames": 99350
+        },
+        "long": {
+            "default": "Al Ḩayy"
+        },
         "lat": 32.17419,
         "lng": 46.04345,
         "country": "IQ",
@@ -270,8 +390,12 @@
         "population": 78272
     },
     "99369": {
-        "geoid": "99369",
-        "name": "Al Hārithah",
+        "ids": {
+            "geonames": 99369
+        },
+        "long": {
+            "default": "Al Hārithah"
+        },
         "lat": 30.58481,
         "lng": 47.76114,
         "country": "IQ",
@@ -279,8 +403,12 @@
         "population": 92395
     },
     "99446": {
-        "geoid": "99446",
-        "name": "Al Fāw",
+        "ids": {
+            "geonames": 99446
+        },
+        "long": {
+            "default": "Al Fāw"
+        },
         "lat": 29.97421,
         "lng": 48.47309,
         "country": "IQ",
@@ -288,8 +416,12 @@
         "population": 104569
     },
     "99454": {
-        "geoid": "99454",
-        "name": "Al Fallūjah",
+        "ids": {
+            "geonames": 99454
+        },
+        "long": {
+            "default": "Al Fallūjah"
+        },
         "lat": 33.34913,
         "lng": 43.78599,
         "country": "IQ",
@@ -297,8 +429,12 @@
         "population": 190159
     },
     "99532": {
-        "geoid": "99532",
-        "name": "Basrah",
+        "ids": {
+            "geonames": 99532
+        },
+        "long": {
+            "default": "Basrah"
+        },
         "lat": 30.50852,
         "lng": 47.7804,
         "country": "IQ",
@@ -306,8 +442,12 @@
         "population": 2600000
     },
     "99608": {
-        "geoid": "99608",
-        "name": "Al ‘Amārah",
+        "ids": {
+            "geonames": 99608
+        },
+        "long": {
+            "default": "Al ‘Amārah"
+        },
         "lat": 31.83561,
         "lng": 47.14483,
         "country": "IQ",
@@ -315,8 +455,12 @@
         "population": 323302
     },
     "99762": {
-        "geoid": "99762",
-        "name": "Ad Dīwānīyah",
+        "ids": {
+            "geonames": 99762
+        },
+        "long": {
+            "default": "Ad Dīwānīyah"
+        },
         "lat": 31.99289,
         "lng": 44.92552,
         "country": "IQ",
@@ -324,8 +468,12 @@
         "population": 318801
     },
     "100077": {
-        "geoid": "100077",
-        "name": "Abū Ghurayb",
+        "ids": {
+            "geonames": 100077
+        },
+        "long": {
+            "default": "Abū Ghurayb"
+        },
         "lat": 33.30563,
         "lng": 44.18477,
         "country": "IQ",
@@ -333,8 +481,12 @@
         "population": 900000
     },
     "388349": {
-        "geoid": "388349",
-        "name": "Al Başrah al Qadīmah",
+        "ids": {
+            "geonames": 388349
+        },
+        "long": {
+            "default": "Al Başrah al Qadīmah"
+        },
         "lat": 30.50316,
         "lng": 47.81507,
         "country": "IQ",

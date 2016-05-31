@@ -4,8 +4,8 @@
             "fips": "56",
             "geonames": 864389
         },
-        "names": {
-            "long": "Alytaus apskritis"
+        "long": {
+            "default": "Alytaus apskritis"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "57",
             "geonames": 864477
         },
-        "names": {
-            "long": "Kauno apskritis"
+        "long": {
+            "default": "Kauno apskritis"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "58",
             "geonames": 864478
         },
-        "names": {
-            "long": "Klaipėdos apskritis"
+        "long": {
+            "default": "Klaipėdos apskritis"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "59",
             "geonames": 864479
         },
-        "names": {
-            "long": "Marijampolės apskritis"
+        "long": {
+            "default": "Marijampolės apskritis"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "60",
             "geonames": 864480
         },
-        "names": {
-            "long": "Panevėžys"
+        "long": {
+            "default": "Panevėžys"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "61",
             "geonames": 864481
         },
-        "names": {
-            "long": "Siauliai"
+        "long": {
+            "default": "Siauliai"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "62",
             "geonames": 864482
         },
-        "names": {
-            "long": "Tauragės apskritis"
+        "long": {
+            "default": "Tauragės apskritis"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "63",
             "geonames": 864483
         },
-        "names": {
-            "long": "Telšių apskritis"
+        "long": {
+            "default": "Telšių apskritis"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "64",
             "geonames": 864484
         },
-        "names": {
-            "long": "Utena"
+        "long": {
+            "default": "Utena"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "65",
             "geonames": 864485
         },
-        "names": {
-            "long": "Vilnius County"
+        "long": {
+            "default": "Vilnius County"
         }
     }
 ]

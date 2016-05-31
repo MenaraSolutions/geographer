@@ -4,8 +4,8 @@
             "iso_3166": "BRU",
             "geonames": 2800867
         },
-        "names": {
-            "long": "Brussels Capital"
+        "long": {
+            "default": "Brussels Capital"
         }
     },
     {
@@ -13,8 +13,8 @@
             "iso_3166": "WAL",
             "geonames": 3337387
         },
-        "names": {
-            "long": "Wallonia"
+        "long": {
+            "default": "Wallonia"
         }
     },
     {
@@ -22,8 +22,8 @@
             "iso_3166": "VLG",
             "geonames": 3337388
         },
-        "names": {
-            "long": "Flanders"
+        "long": {
+            "default": "Flanders"
         }
     }
 ]

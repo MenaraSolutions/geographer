@@ -4,8 +4,8 @@
             "fips": "82",
             "geonames": 2597316
         },
-        "names": {
-            "long": "Lagunes"
+        "long": {
+            "default": "Lagunes"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "89",
             "geonames": 2597317
         },
-        "names": {
-            "long": "Sud-Comoé"
+        "long": {
+            "default": "Sud-Comoé"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "74",
             "geonames": 2597318
         },
-        "names": {
-            "long": "Agnéby"
+        "long": {
+            "default": "Agnéby"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "80",
             "geonames": 2597319
         },
-        "names": {
-            "long": "Haut-Sassandra"
+        "long": {
+            "default": "Haut-Sassandra"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "87",
             "geonames": 2597320
         },
-        "names": {
-            "long": "Savanes"
+        "long": {
+            "default": "Savanes"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "90",
             "geonames": 2597321
         },
-        "names": {
-            "long": "Vallée du Bandama"
+        "long": {
+            "default": "Vallée du Bandama"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "85",
             "geonames": 2597322
         },
-        "names": {
-            "long": "Moyen-Comoé"
+        "long": {
+            "default": "Moyen-Comoé"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "78",
             "geonames": 2597323
         },
-        "names": {
-            "long": "Dix-Huit Montagnes"
+        "long": {
+            "default": "Dix-Huit Montagnes"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "81",
             "geonames": 2597324
         },
-        "names": {
-            "long": "Lacs"
+        "long": {
+            "default": "Lacs"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "92",
             "geonames": 2597325
         },
-        "names": {
-            "long": "Zanzan"
+        "long": {
+            "default": "Zanzan"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "76",
             "geonames": 2597326
         },
-        "names": {
-            "long": "Bas-Sassandra"
+        "long": {
+            "default": "Bas-Sassandra"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "91",
             "geonames": 2597327
         },
-        "names": {
-            "long": "Worodougou"
+        "long": {
+            "default": "Worodougou"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "77",
             "geonames": 2597328
         },
-        "names": {
-            "long": "Denguélé"
+        "long": {
+            "default": "Denguélé"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "88",
             "geonames": 2597329
         },
-        "names": {
-            "long": "Sud-Bandama"
+        "long": {
+            "default": "Sud-Bandama"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "79",
             "geonames": 2597330
         },
-        "names": {
-            "long": "Fromager"
+        "long": {
+            "default": "Fromager"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "86",
             "geonames": 2597331
         },
-        "names": {
-            "long": "Nʼzi-Comoé"
+        "long": {
+            "default": "Nʼzi-Comoé"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "83",
             "geonames": 2597332
         },
-        "names": {
-            "long": "Marahoué"
+        "long": {
+            "default": "Marahoué"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "84",
             "geonames": 2597333
         },
-        "names": {
-            "long": "Moyen-Cavally"
+        "long": {
+            "default": "Moyen-Cavally"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "75",
             "geonames": 2597334
         },
-        "names": {
-            "long": "Bafing"
+        "long": {
+            "default": "Bafing"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "58",
             "geonames": 10629377
         },
-        "names": {
-            "long": "Yamoussoukro Autonomous District"
+        "long": {
+            "default": "Yamoussoukro Autonomous District"
         }
     }
 ]

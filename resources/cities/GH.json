@@ -1,7 +1,11 @@
 {
     "2294206": {
-        "geoid": "2294206",
-        "name": "Wa",
+        "ids": {
+            "geonames": 2294206
+        },
+        "long": {
+            "default": "Wa"
+        },
         "lat": 10.06069,
         "lng": -2.50192,
         "country": "GH",
@@ -9,8 +13,12 @@
         "population": 78107
     },
     "2294665": {
-        "geoid": "2294665",
-        "name": "Teshi Old Town",
+        "ids": {
+            "geonames": 2294665
+        },
+        "long": {
+            "default": "Teshi Old Town"
+        },
         "lat": 5.58365,
         "lng": -0.10722,
         "country": "GH",
@@ -18,8 +26,12 @@
         "population": 144013
     },
     "2294700": {
-        "geoid": "2294700",
-        "name": "Tema",
+        "ids": {
+            "geonames": 2294700
+        },
+        "long": {
+            "default": "Tema"
+        },
         "lat": 5.6698,
         "lng": -0.01657,
         "country": "GH",
@@ -27,8 +39,12 @@
         "population": 155782
     },
     "2294727": {
-        "geoid": "2294727",
-        "name": "Techiman",
+        "ids": {
+            "geonames": 2294727
+        },
+        "long": {
+            "default": "Techiman"
+        },
         "lat": 7.58617,
         "lng": -1.94137,
         "country": "GH",
@@ -36,8 +52,12 @@
         "population": 69720
     },
     "2294877": {
-        "geoid": "2294877",
-        "name": "Tamale",
+        "ids": {
+            "geonames": 2294877
+        },
+        "long": {
+            "default": "Tamale"
+        },
         "lat": 9.40079,
         "lng": -0.8393,
         "country": "GH",
@@ -45,8 +65,12 @@
         "population": 360579
     },
     "2294915": {
-        "geoid": "2294915",
-        "name": "Takoradi",
+        "ids": {
+            "geonames": 2294915
+        },
+        "long": {
+            "default": "Takoradi"
+        },
         "lat": 4.88447,
         "lng": -1.75536,
         "country": "GH",
@@ -54,8 +78,12 @@
         "population": 232919
     },
     "2294938": {
-        "geoid": "2294938",
-        "name": "Tafo",
+        "ids": {
+            "geonames": 2294938
+        },
+        "long": {
+            "default": "Tafo"
+        },
         "lat": 6.73453,
         "lng": -1.61275,
         "country": "GH",
@@ -63,8 +91,12 @@
         "population": 50457
     },
     "2294962": {
-        "geoid": "2294962",
-        "name": "Swedru",
+        "ids": {
+            "geonames": 2294962
+        },
+        "long": {
+            "default": "Swedru"
+        },
         "lat": 5.53711,
         "lng": -0.69984,
         "country": "GH",
@@ -72,8 +104,12 @@
         "population": 50293
     },
     "2295021": {
-        "geoid": "2295021",
-        "name": "Sunyani",
+        "ids": {
+            "geonames": 2295021
+        },
+        "long": {
+            "default": "Sunyani"
+        },
         "lat": 7.33991,
         "lng": -2.32676,
         "country": "GH",
@@ -81,8 +117,12 @@
         "population": 70299
     },
     "2295458": {
-        "geoid": "2295458",
-        "name": "Sekondi-Takoradi",
+        "ids": {
+            "geonames": 2295458
+        },
+        "long": {
+            "default": "Sekondi-Takoradi"
+        },
         "lat": 4.934,
         "lng": -1.7137,
         "country": "GH",
@@ -90,8 +130,12 @@
         "population": 138872
     },
     "2296564": {
-        "geoid": "2296564",
-        "name": "Akim Oda",
+        "ids": {
+            "geonames": 2296564
+        },
+        "long": {
+            "default": "Akim Oda"
+        },
         "lat": 5.92665,
         "lng": -0.98577,
         "country": "GH",
@@ -99,8 +143,12 @@
         "population": 60604
     },
     "2296606": {
-        "geoid": "2296606",
-        "name": "Obuasi",
+        "ids": {
+            "geonames": 2296606
+        },
+        "long": {
+            "default": "Obuasi"
+        },
         "lat": 6.20602,
         "lng": -1.66191,
         "country": "GH",
@@ -108,8 +156,12 @@
         "population": 137856
     },
     "2296969": {
-        "geoid": "2296969",
-        "name": "Nungua",
+        "ids": {
+            "geonames": 2296969
+        },
+        "long": {
+            "default": "Nungua"
+        },
         "lat": 5.60105,
         "lng": -0.07713,
         "country": "GH",
@@ -117,8 +169,12 @@
         "population": 70483
     },
     "2297313": {
-        "geoid": "2297313",
-        "name": "Nkawkaw",
+        "ids": {
+            "geonames": 2297313
+        },
+        "long": {
+            "default": "Nkawkaw"
+        },
         "lat": 6.55121,
         "lng": -0.7662,
         "country": "GH",
@@ -126,8 +182,12 @@
         "population": 61785
     },
     "2298330": {
-        "geoid": "2298330",
-        "name": "Medina Estates",
+        "ids": {
+            "geonames": 2298330
+        },
+        "long": {
+            "default": "Medina Estates"
+        },
         "lat": 5.6658,
         "lng": -0.16307,
         "country": "GH",
@@ -135,8 +195,12 @@
         "population": 101207
     },
     "2298890": {
-        "geoid": "2298890",
-        "name": "Kumasi",
+        "ids": {
+            "geonames": 2298890
+        },
+        "long": {
+            "default": "Kumasi"
+        },
         "lat": 6.68848,
         "lng": -1.62443,
         "country": "GH",
@@ -144,8 +208,12 @@
         "population": 1468609
     },
     "2299522": {
-        "geoid": "2299522",
-        "name": "Koforidua",
+        "ids": {
+            "geonames": 2299522
+        },
+        "long": {
+            "default": "Koforidua"
+        },
         "lat": 6.09408,
         "lng": -0.25913,
         "country": "GH",
@@ -153,8 +221,12 @@
         "population": 96266
     },
     "2300372": {
-        "geoid": "2300372",
-        "name": "Hohoe",
+        "ids": {
+            "geonames": 2300372
+        },
+        "long": {
+            "default": "Hohoe"
+        },
         "lat": 7.15181,
         "lng": 0.47362,
         "country": "GH",
@@ -162,8 +234,12 @@
         "population": 56202
     },
     "2300379": {
-        "geoid": "2300379",
-        "name": "Ho",
+        "ids": {
+            "geonames": 2300379
+        },
+        "long": {
+            "default": "Ho"
+        },
         "lat": 6.60084,
         "lng": 0.4713,
         "country": "GH",
@@ -171,8 +247,12 @@
         "population": 69998
     },
     "2301217": {
-        "geoid": "2301217",
-        "name": "Ejura",
+        "ids": {
+            "geonames": 2301217
+        },
+        "long": {
+            "default": "Ejura"
+        },
         "lat": 7.38558,
         "lng": -1.35617,
         "country": "GH",
@@ -180,8 +260,12 @@
         "population": 70807
     },
     "2302357": {
-        "geoid": "2302357",
-        "name": "Cape Coast",
+        "ids": {
+            "geonames": 2302357
+        },
+        "long": {
+            "default": "Cape Coast"
+        },
         "lat": 5.10535,
         "lng": -1.2466,
         "country": "GH",
@@ -189,8 +273,12 @@
         "population": 143015
     },
     "2302821": {
-        "geoid": "2302821",
-        "name": "Bolgatanga",
+        "ids": {
+            "geonames": 2302821
+        },
+        "long": {
+            "default": "Bolgatanga"
+        },
         "lat": 10.78556,
         "lng": -0.85139,
         "country": "GH",
@@ -198,8 +286,12 @@
         "population": 54430
     },
     "2303125": {
-        "geoid": "2303125",
-        "name": "Berekum",
+        "ids": {
+            "geonames": 2303125
+        },
+        "long": {
+            "default": "Berekum"
+        },
         "lat": 7.4534,
         "lng": -2.58404,
         "country": "GH",
@@ -207,8 +299,12 @@
         "population": 62364
     },
     "2303287": {
-        "geoid": "2303287",
-        "name": "Bawku",
+        "ids": {
+            "geonames": 2303287
+        },
+        "long": {
+            "default": "Bawku"
+        },
         "lat": 11.0616,
         "lng": -0.24169,
         "country": "GH",
@@ -216,8 +312,12 @@
         "population": 56830
     },
     "2306079": {
-        "geoid": "2306079",
-        "name": "Achiaman",
+        "ids": {
+            "geonames": 2306079
+        },
+        "long": {
+            "default": "Achiaman"
+        },
         "lat": 5.7,
         "lng": -0.33333,
         "country": "GH",
@@ -225,8 +325,12 @@
         "population": 202932
     },
     "2306104": {
-        "geoid": "2306104",
-        "name": "Accra",
+        "ids": {
+            "geonames": 2306104
+        },
+        "long": {
+            "default": "Accra"
+        },
         "lat": 5.55602,
         "lng": -0.1969,
         "country": "GH",

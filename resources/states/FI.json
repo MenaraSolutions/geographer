@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 830603
         },
-        "names": {
-            "long": "Lapland"
+        "long": {
+            "default": "Lapland"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 830664
         },
-        "names": {
-            "long": "Kainuu"
+        "long": {
+            "default": "Kainuu"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 830667
         },
-        "names": {
-            "long": "Northern Ostrobothnia"
+        "long": {
+            "default": "Northern Ostrobothnia"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "16",
             "geonames": 830675
         },
-        "names": {
-            "long": "Central Ostrobothnia"
+        "long": {
+            "default": "Central Ostrobothnia"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 830676
         },
-        "names": {
-            "long": "Ostrobothnia"
+        "long": {
+            "default": "Ostrobothnia"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 830682
         },
-        "names": {
-            "long": "Southern Ostrobothnia"
+        "long": {
+            "default": "Southern Ostrobothnia"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 830685
         },
-        "names": {
-            "long": "Central Finland"
+        "long": {
+            "default": "Central Finland"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 830686
         },
-        "names": {
-            "long": "North Karelia"
+        "long": {
+            "default": "North Karelia"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 830690
         },
-        "names": {
-            "long": "Northern Savo"
+        "long": {
+            "default": "Northern Savo"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 830695
         },
-        "names": {
-            "long": "Southern Savonia"
+        "long": {
+            "default": "Southern Savonia"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "09",
             "geonames": 830699
         },
-        "names": {
-            "long": "South Karelia"
+        "long": {
+            "default": "South Karelia"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "08",
             "geonames": 830703
         },
-        "names": {
-            "long": "Kymenlaakso"
+        "long": {
+            "default": "Kymenlaakso"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "06",
             "geonames": 830704
         },
-        "names": {
-            "long": "Pirkanmaa"
+        "long": {
+            "default": "Pirkanmaa"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "05",
             "geonames": 830705
         },
-        "names": {
-            "long": "Häme"
+        "long": {
+            "default": "Häme"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "02",
             "geonames": 830708
         },
-        "names": {
-            "long": "Southwest Finland"
+        "long": {
+            "default": "Southwest Finland"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "01",
             "geonames": 830709
         },
-        "names": {
-            "long": "Uusimaa"
+        "long": {
+            "default": "Uusimaa"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "07",
             "geonames": 831040
         },
-        "names": {
-            "long": "Päijänne Tavastia"
+        "long": {
+            "default": "Päijänne Tavastia"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "04",
             "geonames": 831041
         },
-        "names": {
-            "long": "Satakunta"
+        "long": {
+            "default": "Satakunta"
         }
     }
 ]

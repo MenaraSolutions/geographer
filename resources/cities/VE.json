@@ -1,7 +1,11 @@
 {
     "3486270": {
-        "geoid": "3486270",
-        "name": "Anaco",
+        "ids": {
+            "geonames": 3486270
+        },
+        "long": {
+            "default": "Anaco"
+        },
         "lat": 9.43889,
         "lng": -64.47278,
         "country": "VE",
@@ -9,8 +13,12 @@
         "population": 117596
     },
     "3487903": {
-        "geoid": "3487903",
-        "name": "Alto Barinas",
+        "ids": {
+            "geonames": 3487903
+        },
+        "long": {
+            "default": "Alto Barinas"
+        },
         "lat": 8.5931,
         "lng": -70.2261,
         "country": "VE",
@@ -18,8 +26,12 @@
         "population": 284289
     },
     "3625207": {
-        "geoid": "3625207",
-        "name": "Yaritagua",
+        "ids": {
+            "geonames": 3625207
+        },
+        "long": {
+            "default": "Yaritagua"
+        },
         "lat": 10.08,
         "lng": -69.12611,
         "country": "VE",
@@ -27,8 +39,12 @@
         "population": 89662
     },
     "3625341": {
-        "geoid": "3625341",
-        "name": "Villa de Cura",
+        "ids": {
+            "geonames": 3625341
+        },
+        "long": {
+            "default": "Villa de Cura"
+        },
         "lat": 10.03863,
         "lng": -67.48938,
         "country": "VE",
@@ -36,8 +52,12 @@
         "population": 76614
     },
     "3625515": {
-        "geoid": "3625515",
-        "name": "Valle de La Pascua",
+        "ids": {
+            "geonames": 3625515
+        },
+        "long": {
+            "default": "Valle de La Pascua"
+        },
         "lat": 9.21554,
         "lng": -66.00734,
         "country": "VE",
@@ -45,8 +65,12 @@
         "population": 89080
     },
     "3625542": {
-        "geoid": "3625542",
-        "name": "Valera",
+        "ids": {
+            "geonames": 3625542
+        },
+        "long": {
+            "default": "Valera"
+        },
         "lat": 9.31778,
         "lng": -70.60361,
         "country": "VE",
@@ -54,8 +78,12 @@
         "population": 93756
     },
     "3625549": {
-        "geoid": "3625549",
-        "name": "Valencia",
+        "ids": {
+            "geonames": 3625549
+        },
+        "long": {
+            "default": "Valencia"
+        },
         "lat": 10.16202,
         "lng": -68.00765,
         "country": "VE",
@@ -63,8 +91,12 @@
         "population": 1385083
     },
     "3625710": {
-        "geoid": "3625710",
-        "name": "Upata",
+        "ids": {
+            "geonames": 3625710
+        },
+        "long": {
+            "default": "Upata"
+        },
         "lat": 8.00861,
         "lng": -62.39889,
         "country": "VE",
@@ -72,8 +104,12 @@
         "population": 53685
     },
     "3625829": {
-        "geoid": "3625829",
-        "name": "Turmero",
+        "ids": {
+            "geonames": 3625829
+        },
+        "long": {
+            "default": "Turmero"
+        },
         "lat": 10.22856,
         "lng": -67.47421,
         "country": "VE",
@@ -81,8 +117,12 @@
         "population": 344700
     },
     "3625929": {
-        "geoid": "3625929",
-        "name": "Tucupita",
+        "ids": {
+            "geonames": 3625929
+        },
+        "long": {
+            "default": "Tucupita"
+        },
         "lat": 9.05806,
         "lng": -62.05,
         "country": "VE",
@@ -90,8 +130,12 @@
         "population": 51534
     },
     "3626219": {
-        "geoid": "3626219",
-        "name": "Tinaquillo",
+        "ids": {
+            "geonames": 3626219
+        },
+        "long": {
+            "default": "Tinaquillo"
+        },
         "lat": 9.91861,
         "lng": -68.30472,
         "country": "VE",
@@ -99,8 +143,12 @@
         "population": 82145
     },
     "3627047": {
-        "geoid": "3627047",
-        "name": "Santa Teresa",
+        "ids": {
+            "geonames": 3627047
+        },
+        "long": {
+            "default": "Santa Teresa"
+        },
         "lat": 10.23409,
         "lng": -66.66308,
         "country": "VE",
@@ -108,8 +156,12 @@
         "population": 278890
     },
     "3627968": {
-        "geoid": "3627968",
-        "name": "San Mateo",
+        "ids": {
+            "geonames": 3627968
+        },
+        "long": {
+            "default": "San Mateo"
+        },
         "lat": 10.21302,
         "lng": -67.42365,
         "country": "VE",
@@ -117,8 +169,12 @@
         "population": 50401
     },
     "3628053": {
-        "geoid": "3628053",
-        "name": "San Juan de los Morros",
+        "ids": {
+            "geonames": 3628053
+        },
+        "long": {
+            "default": "San Juan de los Morros"
+        },
         "lat": 9.91152,
         "lng": -67.35381,
         "country": "VE",
@@ -126,8 +182,12 @@
         "population": 87739
     },
     "3628142": {
-        "geoid": "3628142",
-        "name": "San José de Guanipa",
+        "ids": {
+            "geonames": 3628142
+        },
+        "long": {
+            "default": "San José de Guanipa"
+        },
         "lat": 8.88724,
         "lng": -64.16512,
         "country": "VE",
@@ -135,8 +195,12 @@
         "population": 62128
     },
     "3628423": {
-        "geoid": "3628423",
-        "name": "San Felipe",
+        "ids": {
+            "geonames": 3628423
+        },
+        "long": {
+            "default": "San Felipe"
+        },
         "lat": 10.33991,
         "lng": -68.74247,
         "country": "VE",
@@ -144,8 +208,12 @@
         "population": 76766
     },
     "3628473": {
-        "geoid": "3628473",
-        "name": "San Cristóbal",
+        "ids": {
+            "geonames": 3628473
+        },
+        "long": {
+            "default": "San Cristóbal"
+        },
         "lat": 7.76694,
         "lng": -72.225,
         "country": "VE",
@@ -153,8 +221,12 @@
         "population": 246583
     },
     "3628489": {
-        "geoid": "3628489",
-        "name": "San Carlos del Zulia",
+        "ids": {
+            "geonames": 3628489
+        },
+        "long": {
+            "default": "San Carlos del Zulia"
+        },
         "lat": 9.00003,
         "lng": -71.91352,
         "country": "VE",
@@ -162,8 +234,12 @@
         "population": 56582
     },
     "3628503": {
-        "geoid": "3628503",
-        "name": "San Carlos",
+        "ids": {
+            "geonames": 3628503
+        },
+        "long": {
+            "default": "San Carlos"
+        },
         "lat": 9.66124,
         "lng": -68.58268,
         "country": "VE",
@@ -171,8 +247,12 @@
         "population": 77192
     },
     "3628550": {
-        "geoid": "3628550",
-        "name": "San Antonio de Los Altos",
+        "ids": {
+            "geonames": 3628550
+        },
+        "long": {
+            "default": "San Antonio de Los Altos"
+        },
         "lat": 10.38853,
         "lng": -66.95179,
         "country": "VE",
@@ -180,8 +260,12 @@
         "population": 63873
     },
     "3628952": {
-        "geoid": "3628952",
-        "name": "Rubio",
+        "ids": {
+            "geonames": 3628952
+        },
+        "long": {
+            "default": "Rubio"
+        },
         "lat": 7.70131,
         "lng": -72.35569,
         "country": "VE",
@@ -189,8 +273,12 @@
         "population": 51568
     },
     "3628966": {
-        "geoid": "3628966",
-        "name": "La Villa del Rosario",
+        "ids": {
+            "geonames": 3628966
+        },
+        "long": {
+            "default": "La Villa del Rosario"
+        },
         "lat": 10.3258,
         "lng": -72.31343,
         "country": "VE",
@@ -198,8 +286,12 @@
         "population": 65011
     },
     "3629576": {
-        "geoid": "3629576",
-        "name": "Punto Fijo",
+        "ids": {
+            "geonames": 3629576
+        },
+        "long": {
+            "default": "Punto Fijo"
+        },
         "lat": 11.6956,
         "lng": -70.19957,
         "country": "VE",
@@ -207,8 +299,12 @@
         "population": 131784
     },
     "3629614": {
-        "geoid": "3629614",
-        "name": "Punta Cardón",
+        "ids": {
+            "geonames": 3629614
+        },
+        "long": {
+            "default": "Punta Cardón"
+        },
         "lat": 11.65806,
         "lng": -70.215,
         "country": "VE",
@@ -216,8 +312,12 @@
         "population": 58926
     },
     "3629672": {
-        "geoid": "3629672",
-        "name": "Puerto La Cruz",
+        "ids": {
+            "geonames": 3629672
+        },
+        "long": {
+            "default": "Puerto La Cruz"
+        },
         "lat": 10.21667,
         "lng": -64.61667,
         "country": "VE",
@@ -225,8 +325,12 @@
         "population": 370000
     },
     "3629706": {
-        "geoid": "3629706",
-        "name": "Puerto Cabello",
+        "ids": {
+            "geonames": 3629706
+        },
+        "long": {
+            "default": "Puerto Cabello"
+        },
         "lat": 10.47051,
         "lng": -68.02958,
         "country": "VE",
@@ -234,8 +338,12 @@
         "population": 174000
     },
     "3629710": {
-        "geoid": "3629710",
-        "name": "Puerto Ayacucho",
+        "ids": {
+            "geonames": 3629710
+        },
+        "long": {
+            "default": "Puerto Ayacucho"
+        },
         "lat": 5.66049,
         "lng": -67.58343,
         "country": "VE",
@@ -243,8 +351,12 @@
         "population": 52526
     },
     "3629965": {
-        "geoid": "3629965",
-        "name": "Porlamar",
+        "ids": {
+            "geonames": 3629965
+        },
+        "long": {
+            "default": "Porlamar"
+        },
         "lat": 10.95796,
         "lng": -63.84906,
         "country": "VE",
@@ -252,8 +364,12 @@
         "population": 87120
     },
     "3630297": {
-        "geoid": "3630297",
-        "name": "Petare",
+        "ids": {
+            "geonames": 3630297
+        },
+        "long": {
+            "default": "Petare"
+        },
         "lat": 10.47226,
         "lng": -66.80155,
         "country": "VE",
@@ -261,8 +377,12 @@
         "population": 364684
     },
     "3630932": {
-        "geoid": "3630932",
-        "name": "Palo Negro",
+        "ids": {
+            "geonames": 3630932
+        },
+        "long": {
+            "default": "Palo Negro"
+        },
         "lat": 10.17389,
         "lng": -67.54194,
         "country": "VE",
@@ -270,8 +390,12 @@
         "population": 128875
     },
     "3631412": {
-        "geoid": "3631412",
-        "name": "Ocumare del Tuy",
+        "ids": {
+            "geonames": 3631412
+        },
+        "long": {
+            "default": "Ocumare del Tuy"
+        },
         "lat": 10.11649,
         "lng": -66.77609,
         "country": "VE",
@@ -279,8 +403,12 @@
         "population": 166072
     },
     "3631741": {
-        "geoid": "3631741",
-        "name": "Mucumpiz",
+        "ids": {
+            "geonames": 3631741
+        },
+        "long": {
+            "default": "Mucumpiz"
+        },
         "lat": 8.41667,
         "lng": -71.13333,
         "country": "VE",
@@ -288,8 +416,12 @@
         "population": 215259
     },
     "3632308": {
-        "geoid": "3632308",
-        "name": "Mérida",
+        "ids": {
+            "geonames": 3632308
+        },
+        "long": {
+            "default": "Mérida"
+        },
         "lat": 8.58972,
         "lng": -71.15611,
         "country": "VE",
@@ -297,8 +429,12 @@
         "population": 300000
     },
     "3632929": {
-        "geoid": "3632929",
-        "name": "Mariara",
+        "ids": {
+            "geonames": 3632929
+        },
+        "long": {
+            "default": "Mariara"
+        },
         "lat": 10.29644,
         "lng": -67.71813,
         "country": "VE",
@@ -306,8 +442,12 @@
         "population": 105486
     },
     "3632998": {
-        "geoid": "3632998",
-        "name": "Maracay",
+        "ids": {
+            "geonames": 3632998
+        },
+        "long": {
+            "default": "Maracay"
+        },
         "lat": 10.23535,
         "lng": -67.59113,
         "country": "VE",
@@ -315,8 +455,12 @@
         "population": 1754256
     },
     "3633009": {
-        "geoid": "3633009",
-        "name": "Maracaibo",
+        "ids": {
+            "geonames": 3633009
+        },
+        "long": {
+            "default": "Maracaibo"
+        },
         "lat": 10.66663,
         "lng": -71.61245,
         "country": "VE",
@@ -324,8 +468,12 @@
         "population": 2225000
     },
     "3633341": {
-        "geoid": "3633341",
-        "name": "Maiquetía",
+        "ids": {
+            "geonames": 3633341
+        },
+        "long": {
+            "default": "Maiquetía"
+        },
         "lat": 10.59621,
         "lng": -66.95485,
         "country": "VE",
@@ -333,8 +481,12 @@
         "population": 52564
     },
     "3633444": {
-        "geoid": "3633444",
-        "name": "Machiques",
+        "ids": {
+            "geonames": 3633444
+        },
+        "long": {
+            "default": "Machiques"
+        },
         "lat": 10.06077,
         "lng": -72.55212,
         "country": "VE",
@@ -342,8 +494,12 @@
         "population": 62968
     },
     "3633622": {
-        "geoid": "3633622",
-        "name": "Los Teques",
+        "ids": {
+            "geonames": 3633622
+        },
+        "long": {
+            "default": "Los Teques"
+        },
         "lat": 10.34447,
         "lng": -67.04325,
         "country": "VE",
@@ -351,8 +507,12 @@
         "population": 140617
     },
     "3634184": {
-        "geoid": "3634184",
-        "name": "Los Dos Caminos",
+        "ids": {
+            "geonames": 3634184
+        },
+        "long": {
+            "default": "Los Dos Caminos"
+        },
         "lat": 10.49389,
         "lng": -66.82863,
         "country": "VE",
@@ -360,8 +520,12 @@
         "population": 58168
     },
     "3634922": {
-        "geoid": "3634922",
-        "name": "La Victoria",
+        "ids": {
+            "geonames": 3634922
+        },
+        "long": {
+            "default": "La Victoria"
+        },
         "lat": 10.21844,
         "lng": -67.33017,
         "country": "VE",
@@ -369,8 +533,12 @@
         "population": 87045
     },
     "3639747": {
-        "geoid": "3639747",
-        "name": "Güigüe",
+        "ids": {
+            "geonames": 3639747
+        },
+        "long": {
+            "default": "Güigüe"
+        },
         "lat": 10.08528,
         "lng": -67.77917,
         "country": "VE",
@@ -378,8 +546,12 @@
         "population": 71530
     },
     "3639898": {
-        "geoid": "3639898",
-        "name": "Guatire",
+        "ids": {
+            "geonames": 3639898
+        },
+        "long": {
+            "default": "Guatire"
+        },
         "lat": 10.4762,
         "lng": -66.54266,
         "country": "VE",
@@ -387,8 +559,12 @@
         "population": 191903
     },
     "3640049": {
-        "geoid": "3640049",
-        "name": "Guarenas",
+        "ids": {
+            "geonames": 3640049
+        },
+        "long": {
+            "default": "Guarenas"
+        },
         "lat": 10.46736,
         "lng": -66.60663,
         "country": "VE",
@@ -396,8 +572,12 @@
         "population": 181612
     },
     "3640226": {
-        "geoid": "3640226",
-        "name": "Guanare",
+        "ids": {
+            "geonames": 3640226
+        },
+        "long": {
+            "default": "Guanare"
+        },
         "lat": 9.04183,
         "lng": -69.74206,
         "country": "VE",
@@ -405,8 +585,12 @@
         "population": 112286
     },
     "3640465": {
-        "geoid": "3640465",
-        "name": "Guacara",
+        "ids": {
+            "geonames": 3640465
+        },
+        "long": {
+            "default": "Guacara"
+        },
         "lat": 10.22609,
         "lng": -67.877,
         "country": "VE",
@@ -414,8 +598,12 @@
         "population": 151752
     },
     "3641099": {
-        "geoid": "3641099",
-        "name": "El Vigía",
+        "ids": {
+            "geonames": 3641099
+        },
+        "long": {
+            "default": "El Vigía"
+        },
         "lat": 8.61366,
         "lng": -71.65284,
         "country": "VE",
@@ -423,8 +611,12 @@
         "population": 59092
     },
     "3641275": {
-        "geoid": "3641275",
-        "name": "El Tocuyo",
+        "ids": {
+            "geonames": 3641275
+        },
+        "long": {
+            "default": "El Tocuyo"
+        },
         "lat": 9.78734,
         "lng": -69.7937,
         "country": "VE",
@@ -432,8 +624,12 @@
         "population": 53099
     },
     "3641351": {
-        "geoid": "3641351",
-        "name": "El Tigre",
+        "ids": {
+            "geonames": 3641351
+        },
+        "long": {
+            "default": "El Tigre"
+        },
         "lat": 8.88752,
         "lng": -64.24544,
         "country": "VE",
@@ -441,8 +637,12 @@
         "population": 150999
     },
     "3642833": {
-        "geoid": "3642833",
-        "name": "El Limón",
+        "ids": {
+            "geonames": 3642833
+        },
+        "long": {
+            "default": "El Limón"
+        },
         "lat": 10.30589,
         "lng": -67.63212,
         "country": "VE",
@@ -450,8 +650,12 @@
         "population": 148247
     },
     "3643031": {
-        "geoid": "3643031",
-        "name": "El Hatillo",
+        "ids": {
+            "geonames": 3643031
+        },
+        "long": {
+            "default": "El Hatillo"
+        },
         "lat": 10.42994,
         "lng": -66.8161,
         "country": "VE",
@@ -459,8 +663,12 @@
         "population": 57591
     },
     "3644417": {
-        "geoid": "3644417",
-        "name": "Ejido",
+        "ids": {
+            "geonames": 3644417
+        },
+        "long": {
+            "default": "Ejido"
+        },
         "lat": 8.54665,
         "lng": -71.24087,
         "country": "VE",
@@ -468,8 +676,12 @@
         "population": 106915
     },
     "3644768": {
-        "geoid": "3644768",
-        "name": "Cumaná",
+        "ids": {
+            "geonames": 3644768
+        },
+        "long": {
+            "default": "Cumaná"
+        },
         "lat": 10.45397,
         "lng": -64.18256,
         "country": "VE",
@@ -477,8 +689,12 @@
         "population": 257783
     },
     "3644918": {
-        "geoid": "3644918",
-        "name": "Cúa",
+        "ids": {
+            "geonames": 3644918
+        },
+        "long": {
+            "default": "Cúa"
+        },
         "lat": 10.15892,
         "lng": -66.88575,
         "country": "VE",
@@ -486,8 +702,12 @@
         "population": 182558
     },
     "3645213": {
-        "geoid": "3645213",
-        "name": "Coro",
+        "ids": {
+            "geonames": 3645213
+        },
+        "long": {
+            "default": "Coro"
+        },
         "lat": 11.4045,
         "lng": -69.67344,
         "country": "VE",
@@ -495,8 +715,12 @@
         "population": 195227
     },
     "3645528": {
-        "geoid": "3645528",
-        "name": "Ciudad Guayana",
+        "ids": {
+            "geonames": 3645528
+        },
+        "long": {
+            "default": "Ciudad Guayana"
+        },
         "lat": 8.35122,
         "lng": -62.64102,
         "country": "VE",
@@ -504,8 +728,12 @@
         "population": 746535
     },
     "3645532": {
-        "geoid": "3645532",
-        "name": "Ciudad Bolívar",
+        "ids": {
+            "geonames": 3645532
+        },
+        "long": {
+            "default": "Ciudad Bolívar"
+        },
         "lat": 8.12923,
         "lng": -63.54086,
         "country": "VE",
@@ -513,8 +741,12 @@
         "population": 338000
     },
     "3645854": {
-        "geoid": "3645854",
-        "name": "Charallave",
+        "ids": {
+            "geonames": 3645854
+        },
+        "long": {
+            "default": "Charallave"
+        },
         "lat": 10.24247,
         "lng": -66.85723,
         "country": "VE",
@@ -522,8 +754,12 @@
         "population": 129182
     },
     "3645981": {
-        "geoid": "3645981",
-        "name": "Chacao",
+        "ids": {
+            "geonames": 3645981
+        },
+        "long": {
+            "default": "Chacao"
+        },
         "lat": 10.49598,
         "lng": -66.85347,
         "country": "VE",
@@ -531,8 +767,12 @@
         "population": 64609
     },
     "3646169": {
-        "geoid": "3646169",
-        "name": "Caucagüito",
+        "ids": {
+            "geonames": 3646169
+        },
+        "long": {
+            "default": "Caucagüito"
+        },
         "lat": 10.48666,
         "lng": -66.73799,
         "country": "VE",
@@ -540,8 +780,12 @@
         "population": 52556
     },
     "3646190": {
-        "geoid": "3646190",
-        "name": "Catia La Mar",
+        "ids": {
+            "geonames": 3646190
+        },
+        "long": {
+            "default": "Catia La Mar"
+        },
         "lat": 10.60383,
         "lng": -67.03034,
         "country": "VE",
@@ -549,8 +793,12 @@
         "population": 106822
     },
     "3646382": {
-        "geoid": "3646382",
-        "name": "Carúpano",
+        "ids": {
+            "geonames": 3646382
+        },
+        "long": {
+            "default": "Carúpano"
+        },
         "lat": 10.66516,
         "lng": -63.25387,
         "country": "VE",
@@ -558,8 +806,12 @@
         "population": 112082
     },
     "3646487": {
-        "geoid": "3646487",
-        "name": "Carora",
+        "ids": {
+            "geonames": 3646487
+        },
+        "long": {
+            "default": "Carora"
+        },
         "lat": 10.17554,
         "lng": -70.08275,
         "country": "VE",
@@ -567,8 +819,12 @@
         "population": 93788
     },
     "3646738": {
-        "geoid": "3646738",
-        "name": "Caracas",
+        "ids": {
+            "geonames": 3646738
+        },
+        "long": {
+            "default": "Caracas"
+        },
         "lat": 10.48801,
         "lng": -66.87919,
         "country": "VE",
@@ -576,8 +832,12 @@
         "population": 3000000
     },
     "3647444": {
-        "geoid": "3647444",
-        "name": "Calabozo",
+        "ids": {
+            "geonames": 3647444
+        },
+        "long": {
+            "default": "Calabozo"
+        },
         "lat": 8.92416,
         "lng": -67.42929,
         "country": "VE",
@@ -585,8 +845,12 @@
         "population": 117132
     },
     "3647549": {
-        "geoid": "3647549",
-        "name": "Cagua",
+        "ids": {
+            "geonames": 3647549
+        },
+        "long": {
+            "default": "Cagua"
+        },
         "lat": 10.18634,
         "lng": -67.45935,
         "country": "VE",
@@ -594,8 +858,12 @@
         "population": 119033
     },
     "3647651": {
-        "geoid": "3647651",
-        "name": "Cabimas",
+        "ids": {
+            "geonames": 3647651
+        },
+        "long": {
+            "default": "Cabimas"
+        },
         "lat": 10.38828,
         "lng": -71.43993,
         "country": "VE",
@@ -603,8 +871,12 @@
         "population": 200818
     },
     "3648439": {
-        "geoid": "3648439",
-        "name": "Baruta",
+        "ids": {
+            "geonames": 3648439
+        },
+        "long": {
+            "default": "Baruta"
+        },
         "lat": 10.43398,
         "lng": -66.87662,
         "country": "VE",
@@ -612,8 +884,12 @@
         "population": 244216
     },
     "3648522": {
-        "geoid": "3648522",
-        "name": "Barquisimeto",
+        "ids": {
+            "geonames": 3648522
+        },
+        "long": {
+            "default": "Barquisimeto"
+        },
         "lat": 10.0647,
         "lng": -69.35703,
         "country": "VE",
@@ -621,8 +897,12 @@
         "population": 809490
     },
     "3648546": {
-        "geoid": "3648546",
-        "name": "Barinas",
+        "ids": {
+            "geonames": 3648546
+        },
+        "long": {
+            "default": "Barinas"
+        },
         "lat": 8.62261,
         "lng": -70.20749,
         "country": "VE",
@@ -630,8 +910,12 @@
         "population": 353442
     },
     "3648559": {
-        "geoid": "3648559",
-        "name": "Barcelona",
+        "ids": {
+            "geonames": 3648559
+        },
+        "long": {
+            "default": "Barcelona"
+        },
         "lat": 10.13625,
         "lng": -64.68618,
         "country": "VE",
@@ -639,8 +923,12 @@
         "population": 424795
     },
     "3649017": {
-        "geoid": "3649017",
-        "name": "Araure",
+        "ids": {
+            "geonames": 3649017
+        },
+        "long": {
+            "default": "Araure"
+        },
         "lat": 9.56009,
         "lng": -69.21475,
         "country": "VE",
@@ -648,8 +936,12 @@
         "population": 73054
     },
     "3649833": {
-        "geoid": "3649833",
-        "name": "Acarigua",
+        "ids": {
+            "geonames": 3649833
+        },
+        "long": {
+            "default": "Acarigua"
+        },
         "lat": 9.55451,
         "lng": -69.19564,
         "country": "VE",
@@ -657,8 +949,12 @@
         "population": 143704
     },
     "3778045": {
-        "geoid": "3778045",
-        "name": "Maturín",
+        "ids": {
+            "geonames": 3778045
+        },
+        "long": {
+            "default": "Maturín"
+        },
         "lat": 9.74569,
         "lng": -63.18323,
         "country": "VE",
@@ -666,8 +962,12 @@
         "population": 410972
     },
     "3803449": {
-        "geoid": "3803449",
-        "name": "El Cafetal",
+        "ids": {
+            "geonames": 3803449
+        },
+        "long": {
+            "default": "El Cafetal"
+        },
         "lat": 10.46941,
         "lng": -66.83063,
         "country": "VE",
@@ -675,8 +975,12 @@
         "population": 80029
     },
     "3803515": {
-        "geoid": "3803515",
-        "name": "Caucaguita",
+        "ids": {
+            "geonames": 3803515
+        },
+        "long": {
+            "default": "Caucaguita"
+        },
         "lat": 10.35782,
         "lng": -66.80252,
         "country": "VE",
@@ -684,8 +988,12 @@
         "population": 59000
     },
     "3803651": {
-        "geoid": "3803651",
-        "name": "La Dolorita",
+        "ids": {
+            "geonames": 3803651
+        },
+        "long": {
+            "default": "La Dolorita"
+        },
         "lat": 10.4883,
         "lng": -66.78608,
         "country": "VE",
@@ -693,8 +1001,12 @@
         "population": 56846
     },
     "3805673": {
-        "geoid": "3805673",
-        "name": "San Fernando de Apure",
+        "ids": {
+            "geonames": 3805673
+        },
+        "long": {
+            "default": "San Fernando de Apure"
+        },
         "lat": 7.88782,
         "lng": -67.47236,
         "country": "VE",

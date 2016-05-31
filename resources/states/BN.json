@@ -4,8 +4,8 @@
             "fips": "04",
             "geonames": 1820068
         },
-        "names": {
-            "long": "Tutong"
+        "long": {
+            "default": "Tutong"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 1820106
         },
-        "names": {
-            "long": "Temburong"
+        "long": {
+            "default": "Temburong"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "02",
             "geonames": 1820818
         },
-        "names": {
-            "long": "Brunei and Muara"
+        "long": {
+            "default": "Brunei and Muara"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 1820869
         },
-        "names": {
-            "long": "Belait"
+        "long": {
+            "default": "Belait"
         }
     }
 ]

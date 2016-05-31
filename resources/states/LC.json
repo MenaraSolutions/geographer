@@ -4,8 +4,8 @@
             "fips": "10",
             "geonames": 3576413
         },
-        "names": {
-            "long": "Vieux-Fort"
+        "long": {
+            "default": "Vieux-Fort"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "09",
             "geonames": 3576441
         },
-        "names": {
-            "long": "Soufrière"
+        "long": {
+            "default": "Soufrière"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "11",
             "geonames": 3576507
         },
-        "names": {
-            "long": "Praslin"
+        "long": {
+            "default": "Praslin"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 3576567
         },
-        "names": {
-            "long": "Micoud Quarter"
+        "long": {
+            "default": "Micoud Quarter"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 3576662
         },
-        "names": {
-            "long": "Laborie Quarter"
+        "long": {
+            "default": "Laborie Quarter"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 3576685
         },
-        "names": {
-            "long": "Gros-Islet"
+        "long": {
+            "default": "Gros-Islet"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 3576764
         },
-        "names": {
-            "long": "Dennery Quarter"
+        "long": {
+            "default": "Dennery Quarter"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "02",
             "geonames": 3576771
         },
-        "names": {
-            "long": "Dauphin"
+        "long": {
+            "default": "Dauphin"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "04",
             "geonames": 3576794
         },
-        "names": {
-            "long": "Choiseul Quarter"
+        "long": {
+            "default": "Choiseul Quarter"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "03",
             "geonames": 3576810
         },
-        "names": {
-            "long": "Castries Quarter"
+        "long": {
+            "default": "Castries Quarter"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "01",
             "geonames": 3576891
         },
-        "names": {
-            "long": "Anse-la-Raye"
+        "long": {
+            "default": "Anse-la-Raye"
         }
     }
 ]

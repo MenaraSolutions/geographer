@@ -4,8 +4,8 @@
             "fips": "WLS",
             "geonames": 2634895
         },
-        "names": {
-            "long": "Wales"
+        "long": {
+            "default": "Wales"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "SCT",
             "geonames": 2638360
         },
-        "names": {
-            "long": "Scotland"
+        "long": {
+            "default": "Scotland"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "NIR",
             "geonames": 2641364
         },
-        "names": {
-            "long": "Northern Ireland"
+        "long": {
+            "default": "Northern Ireland"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "ENG",
             "geonames": 6269131
         },
-        "names": {
-            "long": "England"
+        "long": {
+            "default": "England"
         }
     }
 ]

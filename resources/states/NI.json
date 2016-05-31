@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 3617051
         },
-        "names": {
-            "long": "Rivas"
+        "long": {
+            "default": "Rivas"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "14",
             "geonames": 3617056
         },
-        "names": {
-            "long": "Río San Juan"
+        "long": {
+            "default": "Río San Juan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "13",
             "geonames": 3617458
         },
-        "names": {
-            "long": "Nueva Segovia"
+        "long": {
+            "default": "Nueva Segovia"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "12",
             "geonames": 3617707
         },
-        "names": {
-            "long": "Matagalpa"
+        "long": {
+            "default": "Matagalpa"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "11",
             "geonames": 3617722
         },
-        "names": {
-            "long": "Masaya"
+        "long": {
+            "default": "Masaya"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "10",
             "geonames": 3617762
         },
-        "names": {
-            "long": "Managua"
+        "long": {
+            "default": "Managua"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 3617796
         },
-        "names": {
-            "long": "Madriz"
+        "long": {
+            "default": "Madriz"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 3618029
         },
-        "names": {
-            "long": "León"
+        "long": {
+            "default": "León"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "07",
             "geonames": 3618928
         },
-        "names": {
-            "long": "Jinotega"
+        "long": {
+            "default": "Jinotega"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "06",
             "geonames": 3619135
         },
-        "names": {
-            "long": "Granada"
+        "long": {
+            "default": "Granada"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "05",
             "geonames": 3619193
         },
-        "names": {
-            "long": "Estelí"
+        "long": {
+            "default": "Estelí"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "04",
             "geonames": 3620368
         },
-        "names": {
-            "long": "Chontales"
+        "long": {
+            "default": "Chontales"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "03",
             "geonames": 3620380
         },
-        "names": {
-            "long": "Chinandega"
+        "long": {
+            "default": "Chinandega"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "02",
             "geonames": 3620481
         },
-        "names": {
-            "long": "Carazo"
+        "long": {
+            "default": "Carazo"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "01",
             "geonames": 3620673
         },
-        "names": {
-            "long": "Boaco"
+        "long": {
+            "default": "Boaco"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "17",
             "geonames": 3830307
         },
-        "names": {
-            "long": "Atlántico Norte (RAAN)"
+        "long": {
+            "default": "Atlántico Norte (RAAN)"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "18",
             "geonames": 3830308
         },
-        "names": {
-            "long": "Atlántico Sur"
+        "long": {
+            "default": "Atlántico Sur"
         }
     }
 ]

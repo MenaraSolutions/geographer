@@ -1,7 +1,11 @@
 {
     "286245": {
-        "geoid": "286245",
-        "name": "Sur",
+        "ids": {
+            "geonames": 286245
+        },
+        "long": {
+            "default": "Sur"
+        },
         "lat": 22.56667,
         "lng": 59.52889,
         "country": "OM",
@@ -9,8 +13,12 @@
         "population": 71152
     },
     "286282": {
-        "geoid": "286282",
-        "name": "Sohar",
+        "ids": {
+            "geonames": 286282
+        },
+        "long": {
+            "default": "Sohar"
+        },
         "lat": 24.35022,
         "lng": 56.70765,
         "country": "OM",
@@ -18,8 +26,12 @@
         "population": 108274
     },
     "286621": {
-        "geoid": "286621",
-        "name": "Şalālah",
+        "ids": {
+            "geonames": 286621
+        },
+        "long": {
+            "default": "Şalālah"
+        },
         "lat": 17.01505,
         "lng": 54.09237,
         "country": "OM",
@@ -27,8 +39,12 @@
         "population": 163140
     },
     "286647": {
-        "geoid": "286647",
-        "name": "Şaḩam",
+        "ids": {
+            "geonames": 286647
+        },
+        "long": {
+            "default": "Şaḩam"
+        },
         "lat": 24.17222,
         "lng": 56.88861,
         "country": "OM",
@@ -36,8 +52,12 @@
         "population": 89327
     },
     "286987": {
-        "geoid": "286987",
-        "name": "Nizwá",
+        "ids": {
+            "geonames": 286987
+        },
+        "long": {
+            "default": "Nizwá"
+        },
         "lat": 22.93333,
         "lng": 57.53333,
         "country": "OM",
@@ -45,8 +65,12 @@
         "population": 72076
     },
     "287286": {
-        "geoid": "287286",
-        "name": "Muscat",
+        "ids": {
+            "geonames": 287286
+        },
+        "long": {
+            "default": "Muscat"
+        },
         "lat": 23.58413,
         "lng": 58.40778,
         "country": "OM",
@@ -54,8 +78,12 @@
         "population": 797000
     },
     "287830": {
-        "geoid": "287830",
-        "name": "‘Ibrī",
+        "ids": {
+            "geonames": 287830
+        },
+        "long": {
+            "default": "‘Ibrī"
+        },
         "lat": 23.22573,
         "lng": 56.51572,
         "country": "OM",
@@ -63,8 +91,12 @@
         "population": 101640
     },
     "288764": {
-        "geoid": "288764",
-        "name": "Bawshar",
+        "ids": {
+            "geonames": 288764
+        },
+        "long": {
+            "default": "Bawshar"
+        },
         "lat": 23.55563,
         "lng": 58.3989,
         "country": "OM",
@@ -72,8 +104,12 @@
         "population": 159487
     },
     "288789": {
-        "geoid": "288789",
-        "name": "Barkā’",
+        "ids": {
+            "geonames": 288789
+        },
+        "long": {
+            "default": "Barkā’"
+        },
         "lat": 23.70739,
         "lng": 57.88908,
         "country": "OM",
@@ -81,8 +117,12 @@
         "population": 81647
     },
     "288899": {
-        "geoid": "288899",
-        "name": "Bahlā’",
+        "ids": {
+            "geonames": 288899
+        },
+        "long": {
+            "default": "Bahlā’"
+        },
         "lat": 22.97339,
         "lng": 57.29958,
         "country": "OM",
@@ -90,8 +130,12 @@
         "population": 54338
     },
     "288955": {
-        "geoid": "288955",
-        "name": "As Suwayq",
+        "ids": {
+            "geonames": 288955
+        },
+        "long": {
+            "default": "As Suwayq"
+        },
         "lat": 23.84944,
         "lng": 57.43861,
         "country": "OM",
@@ -99,8 +143,12 @@
         "population": 107143
     },
     "288967": {
-        "geoid": "288967",
-        "name": "Seeb",
+        "ids": {
+            "geonames": 288967
+        },
+        "long": {
+            "default": "Seeb"
+        },
         "lat": 23.67027,
         "lng": 58.18911,
         "country": "OM",
@@ -108,8 +156,12 @@
         "population": 237816
     },
     "289011": {
-        "geoid": "289011",
-        "name": "Rustaq",
+        "ids": {
+            "geonames": 289011
+        },
+        "long": {
+            "default": "Rustaq"
+        },
         "lat": 23.39083,
         "lng": 57.42444,
         "country": "OM",
@@ -117,8 +169,12 @@
         "population": 79383
     },
     "289199": {
-        "geoid": "289199",
-        "name": "Al Khābūrah",
+        "ids": {
+            "geonames": 289199
+        },
+        "long": {
+            "default": "Al Khābūrah"
+        },
         "lat": 23.98864,
         "lng": 57.09838,
         "country": "OM",
@@ -126,8 +182,12 @@
         "population": 50223
     },
     "289317": {
-        "geoid": "289317",
-        "name": "Al Buraymī",
+        "ids": {
+            "geonames": 289317
+        },
+        "long": {
+            "default": "Al Buraymī"
+        },
         "lat": 24.25088,
         "lng": 55.79312,
         "country": "OM",

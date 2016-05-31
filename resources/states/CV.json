@@ -4,8 +4,8 @@
             "fips": "20",
             "geonames": 3374161
         },
-        "names": {
-            "long": "Tarrafal"
+        "long": {
+            "default": "Tarrafal"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "11",
             "geonames": 3374198
         },
-        "names": {
-            "long": "São Vicente"
+        "long": {
+            "default": "São Vicente"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "15",
             "geonames": 3374226
         },
-        "names": {
-            "long": "Santa Catarina"
+        "long": {
+            "default": "Santa Catarina"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 3374249
         },
-        "names": {
-            "long": "Sal"
+        "long": {
+            "default": "Sal"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 3374274
         },
-        "names": {
-            "long": "Ribeira Grande"
+        "long": {
+            "default": "Ribeira Grande"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 3374332
         },
-        "names": {
-            "long": "Praia"
+        "long": {
+            "default": "Praia"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 3374391
         },
-        "names": {
-            "long": "Paul"
+        "long": {
+            "default": "Paul"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 3374487
         },
-        "names": {
-            "long": "Maio"
+        "long": {
+            "default": "Maio"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "02",
             "geonames": 3374832
         },
-        "names": {
-            "long": "Brava"
+        "long": {
+            "default": "Brava"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "01",
             "geonames": 3374855
         },
-        "names": {
-            "long": "Boa Vista"
+        "long": {
+            "default": "Boa Vista"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "13",
             "geonames": 3411924
         },
-        "names": {
-            "long": "Mosteiros"
+        "long": {
+            "default": "Mosteiros"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "16",
             "geonames": 3411925
         },
-        "names": {
-            "long": "Santa Cruz"
+        "long": {
+            "default": "Santa Cruz"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "17",
             "geonames": 3411926
         },
-        "names": {
-            "long": "São Domingos"
+        "long": {
+            "default": "São Domingos"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "18",
             "geonames": 3411927
         },
-        "names": {
-            "long": "São Filipe"
+        "long": {
+            "default": "São Filipe"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "19",
             "geonames": 3411928
         },
-        "names": {
-            "long": "São Miguel"
+        "long": {
+            "default": "São Miguel"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "21",
             "geonames": 7602868
         },
-        "names": {
-            "long": "Porto Novo"
+        "long": {
+            "default": "Porto Novo"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "22",
             "geonames": 7602869
         },
-        "names": {
-            "long": "Ribeira Brava"
+        "long": {
+            "default": "Ribeira Brava"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "24",
             "geonames": 7602870
         },
-        "names": {
-            "long": "Santa Catarina do Fogo"
+        "long": {
+            "default": "Santa Catarina do Fogo"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "26",
             "geonames": 7602871
         },
-        "names": {
-            "long": "São Salvador do Mundo"
+        "long": {
+            "default": "São Salvador do Mundo"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "27",
             "geonames": 7602872
         },
-        "names": {
-            "long": "Tarrafal de São Nicolau"
+        "long": {
+            "default": "Tarrafal de São Nicolau"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "25",
             "geonames": 7602873
         },
-        "names": {
-            "long": "São Lourenço dos Órgãos"
+        "long": {
+            "default": "São Lourenço dos Órgãos"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "23",
             "geonames": 7603281
         },
-        "names": {
-            "long": "Ribeira Grande de Santiago"
+        "long": {
+            "default": "Ribeira Grande de Santiago"
         }
     }
 ]

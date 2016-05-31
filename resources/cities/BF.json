@@ -1,7 +1,11 @@
 {
     "2357043": {
-        "geoid": "2357043",
-        "name": "Ouahigouya",
+        "ids": {
+            "geonames": 2357043
+        },
+        "long": {
+            "default": "Ouahigouya"
+        },
         "lat": 13.58278,
         "lng": -2.42158,
         "country": "BF",
@@ -9,8 +13,12 @@
         "population": 61096
     },
     "2357048": {
-        "geoid": "2357048",
-        "name": "Ouagadougou",
+        "ids": {
+            "geonames": 2357048
+        },
+        "long": {
+            "default": "Ouagadougou"
+        },
         "lat": 12.36566,
         "lng": -1.53388,
         "country": "BF",
@@ -18,8 +26,12 @@
         "population": 1086505
     },
     "2358946": {
-        "geoid": "2358946",
-        "name": "Koudougou",
+        "ids": {
+            "geonames": 2358946
+        },
+        "long": {
+            "default": "Koudougou"
+        },
         "lat": 12.25263,
         "lng": -2.36272,
         "country": "BF",
@@ -27,8 +39,12 @@
         "population": 87347
     },
     "2362344": {
-        "geoid": "2362344",
-        "name": "Bobo-Dioulasso",
+        "ids": {
+            "geonames": 2362344
+        },
+        "long": {
+            "default": "Bobo-Dioulasso"
+        },
         "lat": 11.17715,
         "lng": -4.2979,
         "country": "BF",
@@ -36,8 +52,12 @@
         "population": 360106
     },
     "2362909": {
-        "geoid": "2362909",
-        "name": "Banfora",
+        "ids": {
+            "geonames": 2362909
+        },
+        "long": {
+            "default": "Banfora"
+        },
         "lat": 10.63333,
         "lng": -4.76667,
         "country": "BF",

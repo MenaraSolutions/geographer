@@ -4,8 +4,8 @@
             "fips": "22",
             "geonames": 3041964
         },
-        "names": {
-            "long": "Jan Mayen"
+        "long": {
+            "default": "Jan Mayen"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "21",
             "geonames": 7521757
         },
-        "names": {
-            "long": "Svalbard"
+        "long": {
+            "default": "Svalbard"
         }
     }
 ]

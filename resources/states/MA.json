@@ -4,8 +4,8 @@
             "fips": "49",
             "geonames": 2538470
         },
-        "names": {
-            "long": "Rabat-Salé-Zemmour-Zaër"
+        "long": {
+            "default": "Rabat-Salé-Zemmour-Zaër"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "48",
             "geonames": 2542710
         },
-        "names": {
-            "long": "Meknès-Tafilalet"
+        "long": {
+            "default": "Meknès-Tafilalet"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "47",
             "geonames": 2542995
         },
-        "names": {
-            "long": "Marrakech-Tensift-Al Haouz"
+        "long": {
+            "default": "Marrakech-Tensift-Al Haouz"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "46",
             "geonames": 2548882
         },
-        "names": {
-            "long": "Fès-Boulemane"
+        "long": {
+            "default": "Fès-Boulemane"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "45",
             "geonames": 2553603
         },
-        "names": {
-            "long": "Grand Casablanca"
+        "long": {
+            "default": "Grand Casablanca"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "50",
             "geonames": 2597548
         },
-        "names": {
-            "long": "Chaouia-Ouardigha"
+        "long": {
+            "default": "Chaouia-Ouardigha"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "51",
             "geonames": 2597549
         },
-        "names": {
-            "long": "Doukkala-Abda"
+        "long": {
+            "default": "Doukkala-Abda"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "52",
             "geonames": 2597550
         },
-        "names": {
-            "long": "Gharb-Chrarda-Beni Hssen"
+        "long": {
+            "default": "Gharb-Chrarda-Beni Hssen"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "53",
             "geonames": 2597551
         },
-        "names": {
-            "long": "Guelmim-Es Smara"
+        "long": {
+            "default": "Guelmim-Es Smara"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "54",
             "geonames": 2597553
         },
-        "names": {
-            "long": "Oriental"
+        "long": {
+            "default": "Oriental"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "55",
             "geonames": 2597554
         },
-        "names": {
-            "long": "Souss-Massa-Drâa"
+        "long": {
+            "default": "Souss-Massa-Drâa"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "56",
             "geonames": 2597555
         },
-        "names": {
-            "long": "Tadla-Azilal"
+        "long": {
+            "default": "Tadla-Azilal"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "57",
             "geonames": 2597556
         },
-        "names": {
-            "long": "Tanger-Tétouan"
+        "long": {
+            "default": "Tanger-Tétouan"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "58",
             "geonames": 2597557
         },
-        "names": {
-            "long": "Taza-Al Hoceima-Taounate"
+        "long": {
+            "default": "Taza-Al Hoceima-Taounate"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "59",
             "geonames": 6545402
         },
-        "names": {
-            "long": "Laâyoune-Boujdour-Sakia El Hamra"
+        "long": {
+            "default": "Laâyoune-Boujdour-Sakia El Hamra"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "EH",
             "geonames": 7627603
         },
-        "names": {
-            "long": "Oued ed Dahab-Lagouira"
+        "long": {
+            "default": "Oued ed Dahab-Lagouira"
         }
     }
 ]

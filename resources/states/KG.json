@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 1346798
         },
-        "names": {
-            "long": "Osh"
+        "long": {
+            "default": "Osh"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "09",
             "geonames": 1463580
         },
-        "names": {
-            "long": "Batken"
+        "long": {
+            "default": "Batken"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "06",
             "geonames": 1527297
         },
-        "names": {
-            "long": "Talas"
+        "long": {
+            "default": "Talas"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 1527590
         },
-        "names": {
-            "long": "Naryn"
+        "long": {
+            "default": "Naryn"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 1528260
         },
-        "names": {
-            "long": "Ysyk-Köl"
+        "long": {
+            "default": "Ysyk-Köl"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 1528334
         },
-        "names": {
-            "long": "Bishkek"
+        "long": {
+            "default": "Bishkek"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "03",
             "geonames": 1529778
         },
-        "names": {
-            "long": "Jalal-Abad"
+        "long": {
+            "default": "Jalal-Abad"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "02",
             "geonames": 1538652
         },
-        "names": {
-            "long": "Chüy"
+        "long": {
+            "default": "Chüy"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "10",
             "geonames": 10300944
         },
-        "names": {
-            "long": "Osh City"
+        "long": {
+            "default": "Osh City"
         }
     }
 ]

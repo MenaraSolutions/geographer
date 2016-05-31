@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 2110418
         },
-        "names": {
-            "long": "Yaren"
+        "long": {
+            "default": "Yaren"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "13",
             "geonames": 2110420
         },
-        "names": {
-            "long": "Uaboe"
+        "long": {
+            "default": "Uaboe"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "12",
             "geonames": 2110423
         },
-        "names": {
-            "long": "Nibok"
+        "long": {
+            "default": "Nibok"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 2110431
         },
-        "names": {
-            "long": "Meneng"
+        "long": {
+            "default": "Meneng"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 2110432
         },
-        "names": {
-            "long": "Ijuw"
+        "long": {
+            "default": "Ijuw"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 2110435
         },
-        "names": {
-            "long": "Ewa"
+        "long": {
+            "default": "Ewa"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 2110437
         },
-        "names": {
-            "long": "Denigomodu"
+        "long": {
+            "default": "Denigomodu"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "07",
             "geonames": 2110440
         },
-        "names": {
-            "long": "Buada"
+        "long": {
+            "default": "Buada"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 2110441
         },
-        "names": {
-            "long": "Boe"
+        "long": {
+            "default": "Boe"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "05",
             "geonames": 2110442
         },
-        "names": {
-            "long": "Baiti"
+        "long": {
+            "default": "Baiti"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "04",
             "geonames": 2110445
         },
-        "names": {
-            "long": "Anibare"
+        "long": {
+            "default": "Anibare"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "03",
             "geonames": 2110448
         },
-        "names": {
-            "long": "Anetan"
+        "long": {
+            "default": "Anetan"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "02",
             "geonames": 2110449
         },
-        "names": {
-            "long": "Anabar"
+        "long": {
+            "default": "Anabar"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "01",
             "geonames": 2110451
         },
-        "names": {
-            "long": "Aiwo"
+        "long": {
+            "default": "Aiwo"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "245785": {
-        "geoid": "245785",
-        "name": "Abéché",
+        "ids": {
+            "geonames": 245785
+        },
+        "long": {
+            "default": "Abéché"
+        },
         "lat": 13.82916,
         "lng": 20.8324,
         "country": "TD",
@@ -9,8 +13,12 @@
         "population": 74188
     },
     "2425791": {
-        "geoid": "2425791",
-        "name": "Sagh",
+        "ids": {
+            "geonames": 2425791
+        },
+        "long": {
+            "default": "Sagh"
+        },
         "lat": 9.1429,
         "lng": 18.3923,
         "country": "TD",
@@ -18,8 +26,12 @@
         "population": 102528
     },
     "2427123": {
-        "geoid": "2427123",
-        "name": "N'Djamena",
+        "ids": {
+            "geonames": 2427123
+        },
+        "long": {
+            "default": "N'Djamena"
+        },
         "lat": 12.10672,
         "lng": 15.0444,
         "country": "TD",
@@ -27,8 +39,12 @@
         "population": 721081
     },
     "2427455": {
-        "geoid": "2427455",
-        "name": "Moundou",
+        "ids": {
+            "geonames": 2427455
+        },
+        "long": {
+            "default": "Moundou"
+        },
         "lat": 8.56667,
         "lng": 16.08333,
         "country": "TD",

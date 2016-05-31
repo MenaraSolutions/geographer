@@ -1,7 +1,11 @@
 {
     "3600949": {
-        "geoid": "3600949",
-        "name": "Tegucigalpa",
+        "ids": {
+            "geonames": 3600949
+        },
+        "long": {
+            "default": "Tegucigalpa"
+        },
         "lat": 14.0818,
         "lng": -87.20681,
         "country": "HN",
@@ -9,8 +13,12 @@
         "population": 850848
     },
     "3601782": {
-        "geoid": "3601782",
-        "name": "San Pedro Sula",
+        "ids": {
+            "geonames": 3601782
+        },
+        "long": {
+            "default": "San Pedro Sula"
+        },
         "lat": 15.50417,
         "lng": -88.025,
         "country": "HN",
@@ -18,8 +26,12 @@
         "population": 489466
     },
     "3608248": {
-        "geoid": "3608248",
-        "name": "La Ceiba",
+        "ids": {
+            "geonames": 3608248
+        },
+        "long": {
+            "default": "La Ceiba"
+        },
         "lat": 15.75971,
         "lng": -86.78221,
         "country": "HN",
@@ -27,8 +39,12 @@
         "population": 130218
     },
     "3610613": {
-        "geoid": "3610613",
-        "name": "El Progreso",
+        "ids": {
+            "geonames": 3610613
+        },
+        "long": {
+            "default": "El Progreso"
+        },
         "lat": 15.4,
         "lng": -87.8,
         "country": "HN",
@@ -36,8 +52,12 @@
         "population": 100810
     },
     "3613321": {
-        "geoid": "3613321",
-        "name": "Comayagua",
+        "ids": {
+            "geonames": 3613321
+        },
+        "long": {
+            "default": "Comayagua"
+        },
         "lat": 14.45139,
         "lng": -87.6375,
         "country": "HN",
@@ -45,8 +65,12 @@
         "population": 58784
     },
     "3613528": {
-        "geoid": "3613528",
-        "name": "Ciudad Choluteca",
+        "ids": {
+            "geonames": 3613528
+        },
+        "long": {
+            "default": "Ciudad Choluteca"
+        },
         "lat": 13.30028,
         "lng": -87.19083,
         "country": "HN",
@@ -54,8 +78,12 @@
         "population": 75872
     },
     "3613533": {
-        "geoid": "3613533",
-        "name": "Choloma",
+        "ids": {
+            "geonames": 3613533
+        },
+        "long": {
+            "default": "Choloma"
+        },
         "lat": 15.61444,
         "lng": -87.95302,
         "country": "HN",

@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 389462
         },
-        "names": {
-            "long": "Madīnat ash Shamāl"
+        "long": {
+            "default": "Madīnat ash Shamāl"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 389465
         },
-        "names": {
-            "long": "Al Khawr"
+        "long": {
+            "default": "Al Khawr"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "09",
             "geonames": 389467
         },
-        "names": {
-            "long": "Baladīyat Umm Şalāl"
+        "long": {
+            "default": "Baladīyat Umm Şalāl"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 389469
         },
-        "names": {
-            "long": "Baladīyat ar Rayyān"
+        "long": {
+            "default": "Baladīyat ar Rayyān"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "01",
             "geonames": 389470
         },
-        "names": {
-            "long": "Baladīyat ad Dawḩah"
+        "long": {
+            "default": "Baladīyat ad Dawḩah"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "10",
             "geonames": 389472
         },
-        "names": {
-            "long": "Al Wakrah"
+        "long": {
+            "default": "Al Wakrah"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 8030540
         },
-        "names": {
-            "long": "Baladīyat az̧ Z̧a‘āyin"
+        "long": {
+            "default": "Baladīyat az̧ Z̧a‘āyin"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "783814": {
-        "geoid": "783814",
-        "name": "Zrenjanin",
+        "ids": {
+            "geonames": 783814
+        },
+        "long": {
+            "default": "Zrenjanin"
+        },
         "lat": 45.38361,
         "lng": 20.38194,
         "country": "RS",
@@ -9,8 +13,12 @@
         "population": 79773
     },
     "783920": {
-        "geoid": "783920",
-        "name": "Zemun",
+        "ids": {
+            "geonames": 783920
+        },
+        "long": {
+            "default": "Zemun"
+        },
         "lat": 44.84306,
         "lng": 20.40111,
         "country": "RS",
@@ -18,8 +26,12 @@
         "population": 155591
     },
     "784227": {
-        "geoid": "784227",
-        "name": "Vranje",
+        "ids": {
+            "geonames": 784227
+        },
+        "long": {
+            "default": "Vranje"
+        },
         "lat": 42.55139,
         "lng": 21.90028,
         "country": "RS",
@@ -27,8 +39,12 @@
         "population": 56199
     },
     "785756": {
-        "geoid": "785756",
-        "name": "Smederevo",
+        "ids": {
+            "geonames": 785756
+        },
+        "long": {
+            "default": "Smederevo"
+        },
         "lat": 44.66278,
         "lng": 20.93,
         "country": "RS",
@@ -36,8 +52,12 @@
         "population": 62000
     },
     "787237": {
-        "geoid": "787237",
-        "name": "Pančevo",
+        "ids": {
+            "geonames": 787237
+        },
+        "long": {
+            "default": "Pančevo"
+        },
         "lat": 44.87083,
         "lng": 20.64028,
         "country": "RS",
@@ -45,8 +65,12 @@
         "population": 76654
     },
     "787595": {
-        "geoid": "787595",
-        "name": "Novi Pazar",
+        "ids": {
+            "geonames": 787595
+        },
+        "long": {
+            "default": "Novi Pazar"
+        },
         "lat": 43.13667,
         "lng": 20.51222,
         "country": "RS",
@@ -54,8 +78,12 @@
         "population": 85996
     },
     "787657": {
-        "geoid": "787657",
-        "name": "Niš",
+        "ids": {
+            "geonames": 787657
+        },
+        "long": {
+            "default": "Niš"
+        },
         "lat": 43.32472,
         "lng": 21.90333,
         "country": "RS",
@@ -63,8 +91,12 @@
         "population": 250000
     },
     "788709": {
-        "geoid": "788709",
-        "name": "Leskovac",
+        "ids": {
+            "geonames": 788709
+        },
+        "long": {
+            "default": "Leskovac"
+        },
         "lat": 42.99806,
         "lng": 21.94611,
         "country": "RS",
@@ -72,8 +104,12 @@
         "population": 94758
     },
     "788975": {
-        "geoid": "788975",
-        "name": "Kruševac",
+        "ids": {
+            "geonames": 788975
+        },
+        "long": {
+            "default": "Kruševac"
+        },
         "lat": 43.58,
         "lng": 21.33389,
         "country": "RS",
@@ -81,8 +117,12 @@
         "population": 75256
     },
     "789107": {
-        "geoid": "789107",
-        "name": "Kraljevo",
+        "ids": {
+            "geonames": 789107
+        },
+        "long": {
+            "default": "Kraljevo"
+        },
         "lat": 43.72583,
         "lng": 20.68944,
         "country": "RS",
@@ -90,8 +130,12 @@
         "population": 82846
     },
     "789128": {
-        "geoid": "789128",
-        "name": "Kragujevac",
+        "ids": {
+            "geonames": 789128
+        },
+        "long": {
+            "default": "Kragujevac"
+        },
         "lat": 44.01667,
         "lng": 20.91667,
         "country": "RS",
@@ -99,8 +143,12 @@
         "population": 147473
     },
     "792078": {
-        "geoid": "792078",
-        "name": "Čačak",
+        "ids": {
+            "geonames": 792078
+        },
+        "long": {
+            "default": "Čačak"
+        },
         "lat": 43.89139,
         "lng": 20.34972,
         "country": "RS",
@@ -108,8 +156,12 @@
         "population": 117072
     },
     "792680": {
-        "geoid": "792680",
-        "name": "Belgrade",
+        "ids": {
+            "geonames": 792680
+        },
+        "long": {
+            "default": "Belgrade"
+        },
         "lat": 44.80401,
         "lng": 20.46513,
         "country": "RS",
@@ -117,8 +169,12 @@
         "population": 1273651
     },
     "3188402": {
-        "geoid": "3188402",
-        "name": "Valjevo",
+        "ids": {
+            "geonames": 3188402
+        },
+        "long": {
+            "default": "Valjevo"
+        },
         "lat": 44.27513,
         "lng": 19.89821,
         "country": "RS",
@@ -126,8 +182,12 @@
         "population": 61035
     },
     "3188434": {
-        "geoid": "3188434",
-        "name": "Užice",
+        "ids": {
+            "geonames": 3188434
+        },
+        "long": {
+            "default": "Užice"
+        },
         "lat": 43.85861,
         "lng": 19.84878,
         "country": "RS",
@@ -135,8 +195,12 @@
         "population": 63577
     },
     "3189595": {
-        "geoid": "3189595",
-        "name": "Subotica",
+        "ids": {
+            "geonames": 3189595
+        },
+        "long": {
+            "default": "Subotica"
+        },
         "lat": 46.1,
         "lng": 19.66667,
         "country": "RS",
@@ -144,8 +208,12 @@
         "population": 100000
     },
     "3191376": {
-        "geoid": "3191376",
-        "name": "Šabac",
+        "ids": {
+            "geonames": 3191376
+        },
+        "long": {
+            "default": "Šabac"
+        },
         "lat": 44.74667,
         "lng": 19.69,
         "country": "RS",
@@ -153,8 +221,12 @@
         "population": 55114
     },
     "3194360": {
-        "geoid": "3194360",
-        "name": "Novi Sad",
+        "ids": {
+            "geonames": 3194360
+        },
+        "long": {
+            "default": "Novi Sad"
+        },
         "lat": 45.25167,
         "lng": 19.83694,
         "country": "RS",

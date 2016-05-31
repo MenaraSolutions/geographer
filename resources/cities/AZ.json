@@ -1,7 +1,11 @@
 {
     "146970": {
-        "geoid": "146970",
-        "name": "Xankandi",
+        "ids": {
+            "geonames": 146970
+        },
+        "long": {
+            "default": "Xankandi"
+        },
         "lat": 39.8177,
         "lng": 46.7528,
         "country": "AZ",
@@ -9,8 +13,12 @@
         "population": 53100
     },
     "147288": {
-        "geoid": "147288",
-        "name": "Saatlı",
+        "ids": {
+            "geonames": 147288
+        },
+        "long": {
+            "default": "Saatlı"
+        },
         "lat": 39.93214,
         "lng": 48.36892,
         "country": "AZ",
@@ -18,8 +26,12 @@
         "population": 87000
     },
     "147429": {
-        "geoid": "147429",
-        "name": "Nakhchivan",
+        "ids": {
+            "geonames": 147429
+        },
+        "long": {
+            "default": "Nakhchivan"
+        },
         "lat": 39.20889,
         "lng": 45.41222,
         "country": "AZ",
@@ -27,8 +39,12 @@
         "population": 64754
     },
     "147622": {
-        "geoid": "147622",
-        "name": "Lankaran",
+        "ids": {
+            "geonames": 147622
+        },
+        "long": {
+            "default": "Lankaran"
+        },
         "lat": 38.75428,
         "lng": 48.85062,
         "country": "AZ",
@@ -36,8 +52,12 @@
         "population": 240300
     },
     "148565": {
-        "geoid": "148565",
-        "name": "Şirvan",
+        "ids": {
+            "geonames": 148565
+        },
+        "long": {
+            "default": "Şirvan"
+        },
         "lat": 39.93778,
         "lng": 48.929,
         "country": "AZ",
@@ -45,8 +65,12 @@
         "population": 70220
     },
     "584649": {
-        "geoid": "584649",
-        "name": "Yevlakh",
+        "ids": {
+            "geonames": 584649
+        },
+        "long": {
+            "default": "Yevlakh"
+        },
         "lat": 40.61832,
         "lng": 47.15014,
         "country": "AZ",
@@ -54,8 +78,12 @@
         "population": 59036
     },
     "584923": {
-        "geoid": "584923",
-        "name": "Sumqayıt",
+        "ids": {
+            "geonames": 584923
+        },
+        "long": {
+            "default": "Sumqayıt"
+        },
         "lat": 40.58972,
         "lng": 49.66861,
         "country": "AZ",
@@ -63,8 +91,12 @@
         "population": 265150
     },
     "585103": {
-        "geoid": "585103",
-        "name": "Qaraçuxur",
+        "ids": {
+            "geonames": 585103
+        },
+        "long": {
+            "default": "Qaraçuxur"
+        },
         "lat": 40.39667,
         "lng": 49.97361,
         "country": "AZ",
@@ -72,8 +104,12 @@
         "population": 72989
     },
     "585170": {
-        "geoid": "585170",
-        "name": "Sheki",
+        "ids": {
+            "geonames": 585170
+        },
+        "long": {
+            "default": "Sheki"
+        },
         "lat": 41.19194,
         "lng": 47.17056,
         "country": "AZ",
@@ -81,8 +117,12 @@
         "population": 63000
     },
     "585514": {
-        "geoid": "585514",
-        "name": "Mingelchaur",
+        "ids": {
+            "geonames": 585514
+        },
+        "long": {
+            "default": "Mingelchaur"
+        },
         "lat": 40.76395,
         "lng": 47.05953,
         "country": "AZ",
@@ -90,8 +130,12 @@
         "population": 95453
     },
     "586523": {
-        "geoid": "586523",
-        "name": "Ganja",
+        "ids": {
+            "geonames": 586523
+        },
+        "long": {
+            "default": "Ganja"
+        },
         "lat": 40.68278,
         "lng": 46.36056,
         "country": "AZ",
@@ -99,8 +143,12 @@
         "population": 313300
     },
     "587084": {
-        "geoid": "587084",
-        "name": "Baku",
+        "ids": {
+            "geonames": 587084
+        },
+        "long": {
+            "default": "Baku"
+        },
         "lat": 40.37767,
         "lng": 49.89201,
         "country": "AZ",
@@ -108,8 +156,12 @@
         "population": 1116513
     },
     "824003": {
-        "geoid": "824003",
-        "name": "Bakıxanov",
+        "ids": {
+            "geonames": 824003
+        },
+        "long": {
+            "default": "Bakıxanov"
+        },
         "lat": 40.41894,
         "lng": 49.96693,
         "country": "AZ",

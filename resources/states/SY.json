@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 163342
         },
-        "names": {
-            "long": "Tartus"
+        "long": {
+            "default": "Tartus"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "13",
             "geonames": 167541
         },
-        "names": {
-            "long": "Dimashq"
+        "long": {
+            "default": "Dimashq"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "12",
             "geonames": 169387
         },
-        "names": {
-            "long": "Idlib"
+        "long": {
+            "default": "Idlib"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 169575
         },
-        "names": {
-            "long": "Homs"
+        "long": {
+            "default": "Homs"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 170015
         },
-        "names": {
-            "long": "Hama"
+        "long": {
+            "default": "Hama"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 170062
         },
-        "names": {
-            "long": "Aleppo"
+        "long": {
+            "default": "Aleppo"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 170652
         },
-        "names": {
-            "long": "Rif-dimashq"
+        "long": {
+            "default": "Rif-dimashq"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "07",
             "geonames": 170792
         },
-        "names": {
-            "long": "Deir ez-Zor"
+        "long": {
+            "default": "Deir ez-Zor"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 170903
         },
-        "names": {
-            "long": "Daraa"
+        "long": {
+            "default": "Daraa"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "05",
             "geonames": 172410
         },
-        "names": {
-            "long": "As-Suwayda"
+        "long": {
+            "default": "As-Suwayda"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "04",
             "geonames": 172957
         },
-        "names": {
-            "long": "Ar-Raqqah"
+        "long": {
+            "default": "Ar-Raqqah"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "03",
             "geonames": 173336
         },
-        "names": {
-            "long": "Quneitra"
+        "long": {
+            "default": "Quneitra"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "02",
             "geonames": 173578
         },
-        "names": {
-            "long": "Latakia"
+        "long": {
+            "default": "Latakia"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "01",
             "geonames": 173813
         },
-        "names": {
-            "long": "Al-Hasakah"
+        "long": {
+            "default": "Al-Hasakah"
         }
     }
 ]

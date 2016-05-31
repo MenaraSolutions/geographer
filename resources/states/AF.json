@@ -4,8 +4,8 @@
             "fips": "28",
             "geonames": 1121143
         },
-        "names": {
-            "long": "Zabul"
+        "long": {
+            "default": "Zabul"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "27",
             "geonames": 1121863
         },
-        "names": {
-            "long": "Vardak"
+        "long": {
+            "default": "Vardak"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "26",
             "geonames": 1123230
         },
-        "names": {
-            "long": "Takhar"
+        "long": {
+            "default": "Takhar"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "33",
             "geonames": 1127106
         },
-        "names": {
-            "long": "Sar-e Pol"
+        "long": {
+            "default": "Sar-e Pol"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "32",
             "geonames": 1127766
         },
-        "names": {
-            "long": "Samangan"
+        "long": {
+            "default": "Samangan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "40",
             "geonames": 1131054
         },
-        "names": {
-            "long": "Parwan"
+        "long": {
+            "default": "Parwan"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "29",
             "geonames": 1131256
         },
-        "names": {
-            "long": "Paktika"
+        "long": {
+            "default": "Paktika"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "36",
             "geonames": 1131257
         },
-        "names": {
-            "long": "Paktia"
+        "long": {
+            "default": "Paktia"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "39",
             "geonames": 1131461
         },
-        "names": {
-            "long": "Oruzgan"
+        "long": {
+            "default": "Oruzgan"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "19",
             "geonames": 1131821
         },
-        "names": {
-            "long": "Nimroz"
+        "long": {
+            "default": "Nimroz"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "18",
             "geonames": 1132366
         },
-        "names": {
-            "long": "Nangarhar"
+        "long": {
+            "default": "Nangarhar"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "17",
             "geonames": 1134561
         },
-        "names": {
-            "long": "Logar"
+        "long": {
+            "default": "Logar"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "35",
             "geonames": 1135022
         },
-        "names": {
-            "long": "Laghman"
+        "long": {
+            "default": "Laghman"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "24",
             "geonames": 1135690
         },
-        "names": {
-            "long": "Kunduz"
+        "long": {
+            "default": "Kunduz"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "34",
             "geonames": 1135702
         },
-        "names": {
-            "long": "Kunar"
+        "long": {
+            "default": "Kunar"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "14",
             "geonames": 1138255
         },
-        "names": {
-            "long": "Kapisa"
+        "long": {
+            "default": "Kapisa"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "23",
             "geonames": 1138335
         },
-        "names": {
-            "long": "Kandahar"
+        "long": {
+            "default": "Kandahar"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "13",
             "geonames": 1138957
         },
-        "names": {
-            "long": "Kabul"
+        "long": {
+            "default": "Kabul"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "31",
             "geonames": 1139049
         },
-        "names": {
-            "long": "Jowzjan"
+        "long": {
+            "default": "Jowzjan"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "11",
             "geonames": 1140025
         },
-        "names": {
-            "long": "Herat"
+        "long": {
+            "default": "Herat"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "10",
             "geonames": 1140043
         },
-        "names": {
-            "long": "Helmand"
+        "long": {
+            "default": "Helmand"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "09",
             "geonames": 1141103
         },
-        "names": {
-            "long": "Ghowr"
+        "long": {
+            "default": "Ghowr"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "08",
             "geonames": 1141268
         },
-        "names": {
-            "long": "Ghazni"
+        "long": {
+            "default": "Ghazni"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "07",
             "geonames": 1142226
         },
-        "names": {
-            "long": "Faryab"
+        "long": {
+            "default": "Faryab"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "06",
             "geonames": 1142263
         },
-        "names": {
-            "long": "Farah"
+        "long": {
+            "default": "Farah"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "05",
             "geonames": 1147239
         },
-        "names": {
-            "long": "Bamyan"
+        "long": {
+            "default": "Bamyan"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "30",
             "geonames": 1147288
         },
-        "names": {
-            "long": "Balkh"
+        "long": {
+            "default": "Balkh"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "03",
             "geonames": 1147537
         },
-        "names": {
-            "long": "Baghlan"
+        "long": {
+            "default": "Baghlan"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "02",
             "geonames": 1147707
         },
-        "names": {
-            "long": "Badghis"
+        "long": {
+            "default": "Badghis"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "01",
             "geonames": 1147745
         },
-        "names": {
-            "long": "Badakhshan"
+        "long": {
+            "default": "Badakhshan"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "37",
             "geonames": 1444362
         },
-        "names": {
-            "long": "Khowst"
+        "long": {
+            "default": "Khowst"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "38",
             "geonames": 1444363
         },
-        "names": {
-            "long": "Nuristan"
+        "long": {
+            "default": "Nuristan"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "41",
             "geonames": 6957553
         },
-        "names": {
-            "long": "Daykundi"
+        "long": {
+            "default": "Daykundi"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "42",
             "geonames": 6957555
         },
-        "names": {
-            "long": "Panjshir"
+        "long": {
+            "default": "Panjshir"
         }
     }
 ]

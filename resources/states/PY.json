@@ -4,8 +4,8 @@
             "fips": "17",
             "geonames": 3437027
         },
-        "names": {
-            "long": "San Pedro"
+        "long": {
+            "default": "San Pedro"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "16",
             "geonames": 3437443
         },
-        "names": {
-            "long": "Presidente Hayes"
+        "long": {
+            "default": "Presidente Hayes"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "15",
             "geonames": 3437599
         },
-        "names": {
-            "long": "Paraguarí"
+        "long": {
+            "default": "Paraguarí"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "13",
             "geonames": 3437677
         },
-        "names": {
-            "long": "Ñeembucú"
+        "long": {
+            "default": "Ñeembucú"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "12",
             "geonames": 3437727
         },
-        "names": {
-            "long": "Misiones"
+        "long": {
+            "default": "Misiones"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "11",
             "geonames": 3437923
         },
-        "names": {
-            "long": "Itapúa"
+        "long": {
+            "default": "Itapúa"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "10",
             "geonames": 3438049
         },
-        "names": {
-            "long": "Guairá"
+        "long": {
+            "default": "Guairá"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 3438827
         },
-        "names": {
-            "long": "Cordillera"
+        "long": {
+            "default": "Cordillera"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "07",
             "geonames": 3438833
         },
-        "names": {
-            "long": "Concepción"
+        "long": {
+            "default": "Concepción"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "06",
             "geonames": 3439137
         },
-        "names": {
-            "long": "Central"
+        "long": {
+            "default": "Central"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "19",
             "geonames": 3439216
         },
-        "names": {
-            "long": "Canindeyú"
+        "long": {
+            "default": "Canindeyú"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "05",
             "geonames": 3439296
         },
-        "names": {
-            "long": "Caazapá"
+        "long": {
+            "default": "Caazapá"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "04",
             "geonames": 3439312
         },
-        "names": {
-            "long": "Caaguazú"
+        "long": {
+            "default": "Caaguazú"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "02",
             "geonames": 3439433
         },
-        "names": {
-            "long": "Amambay"
+        "long": {
+            "default": "Amambay"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "01",
             "geonames": 3439440
         },
-        "names": {
-            "long": "Alto Paraná"
+        "long": {
+            "default": "Alto Paraná"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "23",
             "geonames": 3439441
         },
-        "names": {
-            "long": "Alto Paraguay"
+        "long": {
+            "default": "Alto Paraguay"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "22",
             "geonames": 3474570
         },
-        "names": {
-            "long": "Asunción"
+        "long": {
+            "default": "Asunción"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "24",
             "geonames": 3867442
         },
-        "names": {
-            "long": "Boquerón"
+        "long": {
+            "default": "Boquerón"
         }
     }
 ]

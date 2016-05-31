@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 1652077
         },
-        "names": {
-            "long": "Xiangkhoang"
+        "long": {
+            "default": "Xiangkhoang"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "13",
             "geonames": 1652210
         },
-        "names": {
-            "long": "Xiagnabouli"
+        "long": {
+            "default": "Xiagnabouli"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "27",
             "geonames": 1652238
         },
-        "names": {
-            "long": "Vientiane Province"
+        "long": {
+            "default": "Vientiane Province"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "20",
             "geonames": 1653315
         },
-        "names": {
-            "long": "Savannahkhét"
+        "long": {
+            "default": "Savannahkhét"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "19",
             "geonames": 1653333
         },
-        "names": {
-            "long": "Salavan"
+        "long": {
+            "default": "Salavan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "18",
             "geonames": 1653893
         },
-        "names": {
-            "long": "Phôngsali"
+        "long": {
+            "default": "Phôngsali"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 1654491
         },
-        "names": {
-            "long": "Oudômxai"
+        "long": {
+            "default": "Oudômxai"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "17",
             "geonames": 1655558
         },
-        "names": {
-            "long": "Louangphabang"
+        "long": {
+            "default": "Louangphabang"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "16",
             "geonames": 1655561
         },
-        "names": {
-            "long": "Loungnamtha"
+        "long": {
+            "default": "Loungnamtha"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "15",
             "geonames": 1656538
         },
-        "names": {
-            "long": "Khammouan"
+        "long": {
+            "default": "Khammouan"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "03",
             "geonames": 1657114
         },
-        "names": {
-            "long": "Houaphan"
+        "long": {
+            "default": "Houaphan"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "02",
             "geonames": 1657818
         },
-        "names": {
-            "long": "Champasak"
+        "long": {
+            "default": "Champasak"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "01",
             "geonames": 1665045
         },
-        "names": {
-            "long": "Attapu"
+        "long": {
+            "default": "Attapu"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "26",
             "geonames": 1904615
         },
-        "names": {
-            "long": "Xékong"
+        "long": {
+            "default": "Xékong"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "22",
             "geonames": 1904616
         },
-        "names": {
-            "long": "Bokeo Province"
+        "long": {
+            "default": "Bokeo Province"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "23",
             "geonames": 1904617
         },
-        "names": {
-            "long": "Bolikhamsai Province"
+        "long": {
+            "default": "Bolikhamsai Province"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "24",
             "geonames": 1904618
         },
-        "names": {
-            "long": "Vientiane"
+        "long": {
+            "default": "Vientiane"
         }
     }
 ]

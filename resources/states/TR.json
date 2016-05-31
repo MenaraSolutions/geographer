@@ -4,8 +4,8 @@
             "fips": "66",
             "geonames": 296560
         },
-        "names": {
-            "long": "Yozgat"
+        "long": {
+            "default": "Yozgat"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "65",
             "geonames": 298113
         },
-        "names": {
-            "long": "Van"
+        "long": {
+            "default": "Van"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "64",
             "geonames": 298298
         },
-        "names": {
-            "long": "Uşak"
+        "long": {
+            "default": "Uşak"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "63",
             "geonames": 298332
         },
-        "names": {
-            "long": "Şanlıurfa"
+        "long": {
+            "default": "Şanlıurfa"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "62",
             "geonames": 298845
         },
-        "names": {
-            "long": "Tunceli"
+        "long": {
+            "default": "Tunceli"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "58",
             "geonames": 300617
         },
-        "names": {
-            "long": "Sivas"
+        "long": {
+            "default": "Sivas"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "74",
             "geonames": 300821
         },
-        "names": {
-            "long": "Siirt"
+        "long": {
+            "default": "Siirt"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "73",
             "geonames": 303826
         },
-        "names": {
-            "long": "Niğde"
+        "long": {
+            "default": "Niğde"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "50",
             "geonames": 303830
         },
-        "names": {
-            "long": "Nevşehir"
+        "long": {
+            "default": "Nevşehir"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "49",
             "geonames": 304041
         },
-        "names": {
-            "long": "Muş"
+        "long": {
+            "default": "Muş"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "48",
             "geonames": 304183
         },
-        "names": {
-            "long": "Muğla"
+        "long": {
+            "default": "Muğla"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "72",
             "geonames": 304794
         },
-        "names": {
-            "long": "Mardin"
+        "long": {
+            "default": "Mardin"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "45",
             "geonames": 304825
         },
-        "names": {
-            "long": "Manisa"
+        "long": {
+            "default": "Manisa"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "44",
             "geonames": 304919
         },
-        "names": {
-            "long": "Malatya"
+        "long": {
+            "default": "Malatya"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "43",
             "geonames": 305267
         },
-        "names": {
-            "long": "Kütahya"
+        "long": {
+            "default": "Kütahya"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "71",
             "geonames": 306569
         },
-        "names": {
-            "long": "Konya"
+        "long": {
+            "default": "Konya"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "40",
             "geonames": 307513
         },
-        "names": {
-            "long": "Kırşehir"
+        "long": {
+            "default": "Kırşehir"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "38",
             "geonames": 308463
         },
-        "names": {
-            "long": "Kayseri"
+        "long": {
+            "default": "Kayseri"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "46",
             "geonames": 310858
         },
-        "names": {
-            "long": "Kahramanmaraş"
+        "long": {
+            "default": "Kahramanmaraş"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "35",
             "geonames": 311044
         },
-        "names": {
-            "long": "İzmir"
+        "long": {
+            "default": "İzmir"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "33",
             "geonames": 311071
         },
-        "names": {
-            "long": "Isparta"
+        "long": {
+            "default": "Isparta"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "32",
             "geonames": 311728
         },
-        "names": {
-            "long": "Mersin"
+        "long": {
+            "default": "Mersin"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "31",
             "geonames": 312394
         },
-        "names": {
-            "long": "Hatay"
+        "long": {
+            "default": "Hatay"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "70",
             "geonames": 312888
         },
-        "names": {
-            "long": "Hakkâri"
+        "long": {
+            "default": "Hakkâri"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "83",
             "geonames": 314829
         },
-        "names": {
-            "long": "Gaziantep"
+        "long": {
+            "default": "Gaziantep"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "26",
             "geonames": 315201
         },
-        "names": {
-            "long": "Eskişehir"
+        "long": {
+            "default": "Eskişehir"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "25",
             "geonames": 315367
         },
-        "names": {
-            "long": "Erzurum"
+        "long": {
+            "default": "Erzurum"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "24",
             "geonames": 315372
         },
-        "names": {
-            "long": "Erzincan"
+        "long": {
+            "default": "Erzincan"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "23",
             "geonames": 315807
         },
-        "names": {
-            "long": "Elazığ"
+        "long": {
+            "default": "Elazığ"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "21",
             "geonames": 316540
         },
-        "names": {
-            "long": "Diyarbakır"
+        "long": {
+            "default": "Diyarbakır"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "20",
             "geonames": 317106
         },
-        "names": {
-            "long": "Denizli"
+        "long": {
+            "default": "Denizli"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "15",
             "geonames": 320390
         },
-        "names": {
-            "long": "Burdur"
+        "long": {
+            "default": "Burdur"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "13",
             "geonames": 321022
         },
-        "names": {
-            "long": "Bitlis"
+        "long": {
+            "default": "Bitlis"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "12",
             "geonames": 321079
         },
-        "names": {
-            "long": "Bingöl"
+        "long": {
+            "default": "Bingöl"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "11",
             "geonames": 321122
         },
-        "names": {
-            "long": "Bilecik"
+        "long": {
+            "default": "Bilecik"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "10",
             "geonames": 322164
         },
-        "names": {
-            "long": "Balıkesir"
+        "long": {
+            "default": "Balıkesir"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "09",
             "geonames": 322819
         },
-        "names": {
-            "long": "Aydın"
+        "long": {
+            "default": "Aydın"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "07",
             "geonames": 323776
         },
-        "names": {
-            "long": "Antalya"
+        "long": {
+            "default": "Antalya"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "68",
             "geonames": 323784
         },
-        "names": {
-            "long": "Ankara"
+        "long": {
+            "default": "Ankara"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "04",
             "geonames": 325163
         },
-        "names": {
-            "long": "Ağrı"
+        "long": {
+            "default": "Ağrı"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "03",
             "geonames": 325302
         },
-        "names": {
-            "long": "Afyonkarahisar"
+        "long": {
+            "default": "Afyonkarahisar"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "02",
             "geonames": 325329
         },
-        "names": {
-            "long": "Adıyaman"
+        "long": {
+            "default": "Adıyaman"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "81",
             "geonames": 325361
         },
-        "names": {
-            "long": "Adana"
+        "long": {
+            "default": "Adana"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "91",
             "geonames": 443183
         },
-        "names": {
-            "long": "Osmaniye"
+        "long": {
+            "default": "Osmaniye"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "88",
             "geonames": 443184
         },
-        "names": {
-            "long": "Iğdır"
+        "long": {
+            "default": "Iğdır"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "75",
             "geonames": 443185
         },
-        "names": {
-            "long": "Aksaray"
+        "long": {
+            "default": "Aksaray"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "76",
             "geonames": 443186
         },
-        "names": {
-            "long": "Batman"
+        "long": {
+            "default": "Batman"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "78",
             "geonames": 443187
         },
-        "names": {
-            "long": "Karaman"
+        "long": {
+            "default": "Karaman"
         }
     },
     {
@@ -436,8 +436,8 @@
             "fips": "79",
             "geonames": 443188
         },
-        "names": {
-            "long": "Kırıkkale"
+        "long": {
+            "default": "Kırıkkale"
         }
     },
     {
@@ -445,8 +445,8 @@
             "fips": "80",
             "geonames": 443189
         },
-        "names": {
-            "long": "Şırnak"
+        "long": {
+            "default": "Şırnak"
         }
     },
     {
@@ -454,8 +454,8 @@
             "fips": "90",
             "geonames": 443213
         },
-        "names": {
-            "long": "Kilis"
+        "long": {
+            "default": "Kilis"
         }
     },
     {
@@ -463,8 +463,8 @@
             "fips": "85",
             "geonames": 737021
         },
-        "names": {
-            "long": "Zonguldak"
+        "long": {
+            "default": "Zonguldak"
         }
     },
     {
@@ -472,8 +472,8 @@
             "fips": "61",
             "geonames": 738647
         },
-        "names": {
-            "long": "Trabzon"
+        "long": {
+            "default": "Trabzon"
         }
     },
     {
@@ -481,8 +481,8 @@
             "fips": "60",
             "geonames": 738742
         },
-        "names": {
-            "long": "Tokat"
+        "long": {
+            "default": "Tokat"
         }
     },
     {
@@ -490,8 +490,8 @@
             "fips": "59",
             "geonames": 738926
         },
-        "names": {
-            "long": "Tekirdağ"
+        "long": {
+            "default": "Tekirdağ"
         }
     },
     {
@@ -499,8 +499,8 @@
             "fips": "57",
             "geonames": 739598
         },
-        "names": {
-            "long": "Sinop"
+        "long": {
+            "default": "Sinop"
         }
     },
     {
@@ -508,8 +508,8 @@
             "fips": "55",
             "geonames": 740263
         },
-        "names": {
-            "long": "Samsun"
+        "long": {
+            "default": "Samsun"
         }
     },
     {
@@ -517,8 +517,8 @@
             "fips": "54",
             "geonames": 740352
         },
-        "names": {
-            "long": "Sakarya"
+        "long": {
+            "default": "Sakarya"
         }
     },
     {
@@ -526,8 +526,8 @@
             "fips": "53",
             "geonames": 740481
         },
-        "names": {
-            "long": "Rize"
+        "long": {
+            "default": "Rize"
         }
     },
     {
@@ -535,8 +535,8 @@
             "fips": "52",
             "geonames": 741098
         },
-        "names": {
-            "long": "Ordu"
+        "long": {
+            "default": "Ordu"
         }
     },
     {
@@ -544,8 +544,8 @@
             "fips": "41",
             "geonames": 742865
         },
-        "names": {
-            "long": "Kocaeli"
+        "long": {
+            "default": "Kocaeli"
         }
     },
     {
@@ -553,8 +553,8 @@
             "fips": "39",
             "geonames": 743165
         },
-        "names": {
-            "long": "Kırklareli"
+        "long": {
+            "default": "Kırklareli"
         }
     },
     {
@@ -562,8 +562,8 @@
             "fips": "37",
             "geonames": 743881
         },
-        "names": {
-            "long": "Kastamonu"
+        "long": {
+            "default": "Kastamonu"
         }
     },
     {
@@ -571,8 +571,8 @@
             "fips": "84",
             "geonames": 743942
         },
-        "names": {
-            "long": "Kars"
+        "long": {
+            "default": "Kars"
         }
     },
     {
@@ -580,8 +580,8 @@
             "fips": "34",
             "geonames": 745042
         },
-        "names": {
-            "long": "Istanbul"
+        "long": {
+            "default": "Istanbul"
         }
     },
     {
@@ -589,8 +589,8 @@
             "fips": "69",
             "geonames": 746423
         },
-        "names": {
-            "long": "Gümüşhane"
+        "long": {
+            "default": "Gümüşhane"
         }
     },
     {
@@ -598,8 +598,8 @@
             "fips": "28",
             "geonames": 746878
         },
-        "names": {
-            "long": "Giresun"
+        "long": {
+            "default": "Giresun"
         }
     },
     {
@@ -607,8 +607,8 @@
             "fips": "22",
             "geonames": 747711
         },
-        "names": {
-            "long": "Edirne"
+        "long": {
+            "default": "Edirne"
         }
     },
     {
@@ -616,8 +616,8 @@
             "fips": "19",
             "geonames": 748877
         },
-        "names": {
-            "long": "Çorum"
+        "long": {
+            "default": "Çorum"
         }
     },
     {
@@ -625,8 +625,8 @@
             "fips": "82",
             "geonames": 749747
         },
-        "names": {
-            "long": "Çankırı"
+        "long": {
+            "default": "Çankırı"
         }
     },
     {
@@ -634,8 +634,8 @@
             "fips": "17",
             "geonames": 749778
         },
-        "names": {
-            "long": "Çanakkale Province"
+        "long": {
+            "default": "Çanakkale Province"
         }
     },
     {
@@ -643,8 +643,8 @@
             "fips": "16",
             "geonames": 750268
         },
-        "names": {
-            "long": "Bursa"
+        "long": {
+            "default": "Bursa"
         }
     },
     {
@@ -652,8 +652,8 @@
             "fips": "14",
             "geonames": 750510
         },
-        "names": {
-            "long": "Bolu"
+        "long": {
+            "default": "Bolu"
         }
     },
     {
@@ -661,8 +661,8 @@
             "fips": "08",
             "geonames": 751816
         },
-        "names": {
-            "long": "Artvin"
+        "long": {
+            "default": "Artvin"
         }
     },
     {
@@ -670,8 +670,8 @@
             "fips": "05",
             "geonames": 752014
         },
-        "names": {
-            "long": "Amasya"
+        "long": {
+            "default": "Amasya"
         }
     },
     {
@@ -679,8 +679,8 @@
             "fips": "87",
             "geonames": 862467
         },
-        "names": {
-            "long": "Bartın"
+        "long": {
+            "default": "Bartın"
         }
     },
     {
@@ -688,8 +688,8 @@
             "fips": "89",
             "geonames": 862468
         },
-        "names": {
-            "long": "Karabük"
+        "long": {
+            "default": "Karabük"
         }
     },
     {
@@ -697,8 +697,8 @@
             "fips": "92",
             "geonames": 862469
         },
-        "names": {
-            "long": "Yalova"
+        "long": {
+            "default": "Yalova"
         }
     },
     {
@@ -706,8 +706,8 @@
             "fips": "86",
             "geonames": 862470
         },
-        "names": {
-            "long": "Ardahan"
+        "long": {
+            "default": "Ardahan"
         }
     },
     {
@@ -715,8 +715,8 @@
             "fips": "77",
             "geonames": 862471
         },
-        "names": {
-            "long": "Bayburt"
+        "long": {
+            "default": "Bayburt"
         }
     },
     {
@@ -724,8 +724,8 @@
             "fips": "93",
             "geonames": 865521
         },
-        "names": {
-            "long": "Düzce"
+        "long": {
+            "default": "Düzce"
         }
     }
 ]

@@ -58,6 +58,7 @@ abstract class Base implements PoliglottaInterface
      * @param string $form
      * @param bool $preposition
      * @return string
+     * @throws MisconfigurationException
      */
     public function translate(IdentifiableInterface $subject, $form = 'default', $preposition = true)
     {   
@@ -66,16 +67,14 @@ abstract class Base implements PoliglottaInterface
         }
 
         $meta = $this->fromCache($subject);
-        if (! $meta) return false;
-        
         $result = $this->extract($meta, $subject->expectsLongNames(), $form);
 
         if (! $result) {
             $template = $this->inflictDefault($meta, $subject->expectsLongNames());
-            $result = $this->defaultPrepositions[$form] . ' ' . $this->{'inflict' . ucfirst($form)}($template);
-        }
-
-        if (! $preposition) {
+            $result = $this->{'inflict' . ucfirst($form)}($template);
+            
+            if ($preposition) $result = $this->defaultPrepositions[$form] . ' ' . $result;
+        } else if ($result && ! $preposition) {
             $result = mb_substr($result, mb_strpos($result, ' '));
         }
 
@@ -102,7 +101,7 @@ abstract class Base implements PoliglottaInterface
     public function getStoragePath($class, $memberId)
     {
         switch ($class) {
-	    case State::class:
+	        case State::class:
             case Country::class:
                 return $this->basePath . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
 
@@ -137,8 +136,8 @@ abstract class Base implements PoliglottaInterface
         $this->loadDictionaries($subject);
 
         $meta = isset($this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()]) ?
-            $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()] : false;
-        
+            $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()] : $subject->getMeta();
+
         return $meta;
     }
 
@@ -158,7 +157,7 @@ abstract class Base implements PoliglottaInterface
      */
     protected function inflictIn($template)
     {
-	return $template;
+	    return $template;
     }
 
     /**

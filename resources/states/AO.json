@@ -4,8 +4,8 @@
             "fips": "18",
             "geonames": 145701
         },
-        "names": {
-            "long": "Lunda Sul"
+        "long": {
+            "default": "Lunda Sul"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "17",
             "geonames": 145702
         },
-        "names": {
-            "long": "Luanda Norte"
+        "long": {
+            "default": "Luanda Norte"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 875996
         },
-        "names": {
-            "long": "Moxico"
+        "long": {
+            "default": "Moxico"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 876337
         },
-        "names": {
-            "long": "Cuando Cobango"
+        "long": {
+            "default": "Cuando Cobango"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "16",
             "geonames": 2236355
         },
-        "names": {
-            "long": "Zaire"
+        "long": {
+            "default": "Zaire"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "15",
             "geonames": 2236566
         },
-        "names": {
-            "long": "Uíge"
+        "long": {
+            "default": "Uíge"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "12",
             "geonames": 2239858
         },
-        "names": {
-            "long": "Malanje"
+        "long": {
+            "default": "Malanje"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "20",
             "geonames": 2240444
         },
-        "names": {
-            "long": "Luanda"
+        "long": {
+            "default": "Luanda"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "05",
             "geonames": 2241660
         },
-        "names": {
-            "long": "Cuanza Norte"
+        "long": {
+            "default": "Cuanza Norte"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "03",
             "geonames": 2243266
         },
-        "names": {
-            "long": "Cabinda"
+        "long": {
+            "default": "Cabinda"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "19",
             "geonames": 2243598
         },
-        "names": {
-            "long": "Bengo"
+        "long": {
+            "default": "Bengo"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "13",
             "geonames": 3347016
         },
-        "names": {
-            "long": "Namibe"
+        "long": {
+            "default": "Namibe"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "09",
             "geonames": 3348303
         },
-        "names": {
-            "long": "Huíla"
+        "long": {
+            "default": "Huíla"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "08",
             "geonames": 3348310
         },
-        "names": {
-            "long": "Huambo"
+        "long": {
+            "default": "Huambo"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "07",
             "geonames": 3349096
         },
-        "names": {
-            "long": "Cunene"
+        "long": {
+            "default": "Cunene"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "06",
             "geonames": 3349234
         },
-        "names": {
-            "long": "Kwanza Sul"
+        "long": {
+            "default": "Kwanza Sul"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "02",
             "geonames": 3351640
         },
-        "names": {
-            "long": "Bíe"
+        "long": {
+            "default": "Bíe"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "01",
             "geonames": 3351660
         },
-        "names": {
-            "long": "Benguela Province"
+        "long": {
+            "default": "Benguela Province"
         }
     }
 ]

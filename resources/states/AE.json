@@ -4,8 +4,8 @@
             "fips": "07",
             "geonames": 290595
         },
-        "names": {
-            "long": "Umm al Qaywayn"
+        "long": {
+            "default": "Umm al Qaywayn"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "05",
             "geonames": 291075
         },
-        "names": {
-            "long": "Raʼs al Khaymah"
+        "long": {
+            "default": "Raʼs al Khaymah"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 292224
         },
-        "names": {
-            "long": "Dubai"
+        "long": {
+            "default": "Dubai"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 292673
         },
-        "names": {
-            "long": "Ash Shāriqah"
+        "long": {
+            "default": "Ash Shāriqah"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "04",
             "geonames": 292879
         },
-        "names": {
-            "long": "Al Fujayrah"
+        "long": {
+            "default": "Al Fujayrah"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "02",
             "geonames": 292933
         },
-        "names": {
-            "long": "Ajman"
+        "long": {
+            "default": "Ajman"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "01",
             "geonames": 292969
         },
-        "names": {
-            "long": "Abu Dhabi"
+        "long": {
+            "default": "Abu Dhabi"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "9782164",
             "geonames": 9782164
         },
-        "names": {
-            "long": "Andreas"
+        "long": {
+            "default": "Andreas"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "9782165",
             "geonames": 9782165
         },
-        "names": {
-            "long": "Arbory"
+        "long": {
+            "default": "Arbory"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "9782166",
             "geonames": 9782166
         },
-        "names": {
-            "long": "Ballaugh"
+        "long": {
+            "default": "Ballaugh"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "9782167",
             "geonames": 9782167
         },
-        "names": {
-            "long": "Braddan"
+        "long": {
+            "default": "Braddan"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "9782168",
             "geonames": 9782168
         },
-        "names": {
-            "long": "Bride"
+        "long": {
+            "default": "Bride"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "9782169",
             "geonames": 9782169
         },
-        "names": {
-            "long": "Castletown"
+        "long": {
+            "default": "Castletown"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "9782170",
             "geonames": 9782170
         },
-        "names": {
-            "long": "Douglas"
+        "long": {
+            "default": "Douglas"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "9782171",
             "geonames": 9782171
         },
-        "names": {
-            "long": "German"
+        "long": {
+            "default": "German"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "9782172",
             "geonames": 9782172
         },
-        "names": {
-            "long": "Jurby"
+        "long": {
+            "default": "Jurby"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "9782173",
             "geonames": 9782173
         },
-        "names": {
-            "long": "Laxey"
+        "long": {
+            "default": "Laxey"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "9782176",
             "geonames": 9782176
         },
-        "names": {
-            "long": "Lezayre"
+        "long": {
+            "default": "Lezayre"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "9782180",
             "geonames": 9782180
         },
-        "names": {
-            "long": "Lonan"
+        "long": {
+            "default": "Lonan"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "9782182",
             "geonames": 9782182
         },
-        "names": {
-            "long": "Malew"
+        "long": {
+            "default": "Malew"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "9782183",
             "geonames": 9782183
         },
-        "names": {
-            "long": "Marown"
+        "long": {
+            "default": "Marown"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "9782184",
             "geonames": 9782184
         },
-        "names": {
-            "long": "Maughold"
+        "long": {
+            "default": "Maughold"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "9782185",
             "geonames": 9782185
         },
-        "names": {
-            "long": "Michael"
+        "long": {
+            "default": "Michael"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "9782186",
             "geonames": 9782186
         },
-        "names": {
-            "long": "Onchan"
+        "long": {
+            "default": "Onchan"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "9782187",
             "geonames": 9782187
         },
-        "names": {
-            "long": "Patrick"
+        "long": {
+            "default": "Patrick"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "9782188",
             "geonames": 9782188
         },
-        "names": {
-            "long": "Peel"
+        "long": {
+            "default": "Peel"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "9782189",
             "geonames": 9782189
         },
-        "names": {
-            "long": "Port Erin"
+        "long": {
+            "default": "Port Erin"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "9782190",
             "geonames": 9782190
         },
-        "names": {
-            "long": "Port St Mary"
+        "long": {
+            "default": "Port St Mary"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "9782191",
             "geonames": 9782191
         },
-        "names": {
-            "long": "Ramsey"
+        "long": {
+            "default": "Ramsey"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "9782192",
             "geonames": 9782192
         },
-        "names": {
-            "long": "Rushen"
+        "long": {
+            "default": "Rushen"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "9782193",
             "geonames": 9782193
         },
-        "names": {
-            "long": "Santon"
+        "long": {
+            "default": "Santon"
         }
     }
 ]

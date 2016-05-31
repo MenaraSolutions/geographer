@@ -1,7 +1,11 @@
 {
     "1282898": {
-        "geoid": "1282898",
-        "name": "Pokhara",
+        "ids": {
+            "geonames": 1282898
+        },
+        "long": {
+            "default": "Pokhara"
+        },
         "lat": 28.26689,
         "lng": 83.96851,
         "country": "NP",
@@ -9,8 +13,12 @@
         "population": 200000
     },
     "1282931": {
-        "geoid": "1282931",
-        "name": "Pātan",
+        "ids": {
+            "geonames": 1282931
+        },
+        "long": {
+            "default": "Pātan"
+        },
         "lat": 27.67658,
         "lng": 85.31417,
         "country": "NP",
@@ -18,8 +26,12 @@
         "population": 183310
     },
     "1283095": {
-        "geoid": "1283095",
-        "name": "Mahendranagar",
+        "ids": {
+            "geonames": 1283095
+        },
+        "long": {
+            "default": "Mahendranagar"
+        },
         "lat": 28.91667,
         "lng": 80.33333,
         "country": "NP",
@@ -27,8 +39,12 @@
         "population": 88381
     },
     "1283240": {
-        "geoid": "1283240",
-        "name": "Kathmandu",
+        "ids": {
+            "geonames": 1283240
+        },
+        "long": {
+            "default": "Kathmandu"
+        },
         "lat": 27.70169,
         "lng": 85.3206,
         "country": "NP",
@@ -36,8 +52,12 @@
         "population": 1442271
     },
     "1283318": {
-        "geoid": "1283318",
-        "name": "Janakpur",
+        "ids": {
+            "geonames": 1283318
+        },
+        "long": {
+            "default": "Janakpur"
+        },
         "lat": 26.71828,
         "lng": 85.90646,
         "country": "NP",
@@ -45,8 +65,12 @@
         "population": 93767
     },
     "1283339": {
-        "geoid": "1283339",
-        "name": "Hetauda",
+        "ids": {
+            "geonames": 1283339
+        },
+        "long": {
+            "default": "Hetauda"
+        },
         "lat": 27.42839,
         "lng": 85.03219,
         "country": "NP",
@@ -54,8 +78,12 @@
         "population": 84775
     },
     "1283368": {
-        "geoid": "1283368",
-        "name": "Gulariyā",
+        "ids": {
+            "geonames": 1283368
+        },
+        "long": {
+            "default": "Gulariyā"
+        },
         "lat": 28.23333,
         "lng": 81.33333,
         "country": "NP",
@@ -63,8 +91,12 @@
         "population": 53107
     },
     "1283460": {
-        "geoid": "1283460",
-        "name": "Dharān Bāzār",
+        "ids": {
+            "geonames": 1283460
+        },
+        "long": {
+            "default": "Dharān Bāzār"
+        },
         "lat": 26.81248,
         "lng": 87.28355,
         "country": "NP",
@@ -72,8 +104,12 @@
         "population": 108600
     },
     "1283467": {
-        "geoid": "1283467",
-        "name": "Dhangarhi",
+        "ids": {
+            "geonames": 1283467
+        },
+        "long": {
+            "default": "Dhangarhi"
+        },
         "lat": 28.70792,
         "lng": 80.59611,
         "country": "NP",
@@ -81,8 +117,12 @@
         "population": 92294
     },
     "1283562": {
-        "geoid": "1283562",
-        "name": "Butwāl",
+        "ids": {
+            "geonames": 1283562
+        },
+        "long": {
+            "default": "Butwāl"
+        },
         "lat": 27.70055,
         "lng": 83.44836,
         "country": "NP",
@@ -90,8 +130,12 @@
         "population": 91733
     },
     "1283581": {
-        "geoid": "1283581",
-        "name": "Bīrganj",
+        "ids": {
+            "geonames": 1283581
+        },
+        "long": {
+            "default": "Bīrganj"
+        },
         "lat": 27.01043,
         "lng": 84.87735,
         "country": "NP",
@@ -99,8 +143,12 @@
         "population": 133238
     },
     "1283582": {
-        "geoid": "1283582",
-        "name": "Biratnagar",
+        "ids": {
+            "geonames": 1283582
+        },
+        "long": {
+            "default": "Biratnagar"
+        },
         "lat": 26.45505,
         "lng": 87.27007,
         "country": "NP",
@@ -108,8 +156,12 @@
         "population": 182324
     },
     "1283613": {
-        "geoid": "1283613",
-        "name": "Bharatpur",
+        "ids": {
+            "geonames": 1283613
+        },
+        "long": {
+            "default": "Bharatpur"
+        },
         "lat": 27.68333,
         "lng": 84.43333,
         "country": "NP",
@@ -117,8 +169,12 @@
         "population": 107157
     },
     "1283621": {
-        "geoid": "1283621",
-        "name": "Bhairāhawā",
+        "ids": {
+            "geonames": 1283621
+        },
+        "long": {
+            "default": "Bhairāhawā"
+        },
         "lat": 27.5,
         "lng": 83.45,
         "country": "NP",
@@ -126,8 +182,12 @@
         "population": 63367
     },
     "6941099": {
-        "geoid": "6941099",
-        "name": "Nepalgunj",
+        "ids": {
+            "geonames": 6941099
+        },
+        "long": {
+            "default": "Nepalgunj"
+        },
         "lat": 28.05,
         "lng": 81.61667,
         "country": "NP",

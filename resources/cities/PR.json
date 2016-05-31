@@ -1,7 +1,11 @@
 {
     "4562831": {
-        "geoid": "4562831",
-        "name": "Bayamón",
+        "ids": {
+            "geonames": 4562831
+        },
+        "long": {
+            "default": "Bayamón"
+        },
         "lat": 18.39856,
         "lng": -66.15572,
         "country": "PR",
@@ -9,8 +13,12 @@
         "population": 203499
     },
     "4563008": {
-        "geoid": "4563008",
-        "name": "Caguas",
+        "ids": {
+            "geonames": 4563008
+        },
+        "long": {
+            "default": "Caguas"
+        },
         "lat": 18.23412,
         "lng": -66.0485,
         "country": "PR",
@@ -18,8 +26,12 @@
         "population": 86804
     },
     "4563243": {
-        "geoid": "4563243",
-        "name": "Carolina",
+        "ids": {
+            "geonames": 4563243
+        },
+        "long": {
+            "default": "Carolina"
+        },
         "lat": 18.38078,
         "lng": -65.95739,
         "country": "PR",
@@ -27,8 +39,12 @@
         "population": 170404
     },
     "4565119": {
-        "geoid": "4565119",
-        "name": "Guaynabo",
+        "ids": {
+            "geonames": 4565119
+        },
+        "long": {
+            "default": "Guaynabo"
+        },
         "lat": 18.35745,
         "lng": -66.111,
         "country": "PR",
@@ -36,8 +52,12 @@
         "population": 81360
     },
     "4566385": {
-        "geoid": "4566385",
-        "name": "Mayagüez",
+        "ids": {
+            "geonames": 4566385
+        },
+        "long": {
+            "default": "Mayagüez"
+        },
         "lat": 18.20107,
         "lng": -67.13962,
         "country": "PR",
@@ -45,8 +65,12 @@
         "population": 78647
     },
     "4566880": {
-        "geoid": "4566880",
-        "name": "Ponce",
+        "ids": {
+            "geonames": 4566880
+        },
+        "long": {
+            "default": "Ponce"
+        },
         "lat": 18.01108,
         "lng": -66.61406,
         "country": "PR",
@@ -54,8 +78,12 @@
         "population": 152634
     },
     "4568127": {
-        "geoid": "4568127",
-        "name": "San Juan",
+        "ids": {
+            "geonames": 4568127
+        },
+        "long": {
+            "default": "San Juan"
+        },
         "lat": 18.46633,
         "lng": -66.10572,
         "country": "PR",
@@ -63,8 +91,12 @@
         "population": 418140
     },
     "4568451": {
-        "geoid": "4568451",
-        "name": "Trujillo Alto",
+        "ids": {
+            "geonames": 4568451
+        },
+        "long": {
+            "default": "Trujillo Alto"
+        },
         "lat": 18.35467,
         "lng": -66.00739,
         "country": "PR",

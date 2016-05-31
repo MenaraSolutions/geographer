@@ -1,7 +1,11 @@
 {
     "3195506": {
-        "geoid": "3195506",
-        "name": "Maribor",
+        "ids": {
+            "geonames": 3195506
+        },
+        "long": {
+            "default": "Maribor"
+        },
         "lat": 46.55472,
         "lng": 15.64667,
         "country": "SI",
@@ -9,8 +13,12 @@
         "population": 95171
     },
     "3196359": {
-        "geoid": "3196359",
-        "name": "Ljubljana",
+        "ids": {
+            "geonames": 3196359
+        },
+        "long": {
+            "default": "Ljubljana"
+        },
         "lat": 46.05108,
         "lng": 14.50513,
         "country": "SI",

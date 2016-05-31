@@ -4,8 +4,8 @@
             "fips": "26",
             "geonames": 1213642
         },
-        "names": {
-            "long": "North Sumatra"
+        "long": {
+            "default": "North Sumatra"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "01",
             "geonames": 1215638
         },
-        "names": {
-            "long": "Aceh"
+        "long": {
+            "default": "Aceh"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "10",
             "geonames": 1621176
         },
-        "names": {
-            "long": "Yogyakarta"
+        "long": {
+            "default": "Yogyakarta"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "32",
             "geonames": 1626196
         },
-        "names": {
-            "long": "South Sumatra"
+        "long": {
+            "default": "South Sumatra"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "24",
             "geonames": 1626197
         },
-        "names": {
-            "long": "West Sumatra"
+        "long": {
+            "default": "West Sumatra"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "31",
             "geonames": 1626229
         },
-        "names": {
-            "long": "North Sulawesi"
+        "long": {
+            "default": "North Sulawesi"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "22",
             "geonames": 1626230
         },
-        "names": {
-            "long": "Southeast Sulawesi"
+        "long": {
+            "default": "Southeast Sulawesi"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "21",
             "geonames": 1626231
         },
-        "names": {
-            "long": "Central Sulawesi"
+        "long": {
+            "default": "Central Sulawesi"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "38",
             "geonames": 1626232
         },
-        "names": {
-            "long": "South Sulawesi"
+        "long": {
+            "default": "South Sulawesi"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "37",
             "geonames": 1629652
         },
-        "names": {
-            "long": "Riau"
+        "long": {
+            "default": "Riau"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "18",
             "geonames": 1633791
         },
-        "names": {
-            "long": "East Nusa Tenggara"
+        "long": {
+            "default": "East Nusa Tenggara"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "17",
             "geonames": 1633792
         },
-        "names": {
-            "long": "West Nusa Tenggara"
+        "long": {
+            "default": "West Nusa Tenggara"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "28",
             "geonames": 1636627
         },
-        "names": {
-            "long": "Maluku"
+        "long": {
+            "default": "Maluku"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "15",
             "geonames": 1638535
         },
-        "names": {
-            "long": "Lampung"
+        "long": {
+            "default": "Lampung"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "14",
             "geonames": 1641897
         },
-        "names": {
-            "long": "East Kalimantan"
+        "long": {
+            "default": "East Kalimantan"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "13",
             "geonames": 1641898
         },
-        "names": {
-            "long": "Central Kalimantan"
+        "long": {
+            "default": "Central Kalimantan"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "12",
             "geonames": 1641899
         },
-        "names": {
-            "long": "South Kalimantan"
+        "long": {
+            "default": "South Kalimantan"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "11",
             "geonames": 1641900
         },
-        "names": {
-            "long": "West Kalimantan"
+        "long": {
+            "default": "West Kalimantan"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "08",
             "geonames": 1642668
         },
-        "names": {
-            "long": "East Java"
+        "long": {
+            "default": "East Java"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "07",
             "geonames": 1642669
         },
-        "names": {
-            "long": "Central Java"
+        "long": {
+            "default": "Central Java"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "30",
             "geonames": 1642672
         },
-        "names": {
-            "long": "West Java"
+        "long": {
+            "default": "West Java"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "05",
             "geonames": 1642856
         },
-        "names": {
-            "long": "Jambi"
+        "long": {
+            "default": "Jambi"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "04",
             "geonames": 1642907
         },
-        "names": {
-            "long": "Jakarta"
+        "long": {
+            "default": "Jakarta"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "36",
             "geonames": 1643012
         },
-        "names": {
-            "long": "Papua"
+        "long": {
+            "default": "Papua"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "03",
             "geonames": 1649147
         },
-        "names": {
-            "long": "Bengkulu"
+        "long": {
+            "default": "Bengkulu"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "02",
             "geonames": 1650535
         },
-        "names": {
-            "long": "Bali"
+        "long": {
+            "default": "Bali"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "33",
             "geonames": 1923045
         },
-        "names": {
-            "long": "Banten"
+        "long": {
+            "default": "Banten"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "34",
             "geonames": 1923046
         },
-        "names": {
-            "long": "Gorontalo"
+        "long": {
+            "default": "Gorontalo"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "35",
             "geonames": 1923047
         },
-        "names": {
-            "long": "Bangka–Belitung Islands"
+        "long": {
+            "default": "Bangka–Belitung Islands"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "29",
             "geonames": 1958070
         },
-        "names": {
-            "long": "North Maluku"
+        "long": {
+            "default": "North Maluku"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "39",
             "geonames": 1996549
         },
-        "names": {
-            "long": "West Papua"
+        "long": {
+            "default": "West Papua"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "41",
             "geonames": 1996550
         },
-        "names": {
-            "long": "West Sulawesi"
+        "long": {
+            "default": "West Sulawesi"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "40",
             "geonames": 1996551
         },
-        "names": {
-            "long": "Riau Islands"
+        "long": {
+            "default": "Riau Islands"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "42",
             "geonames": 8604684
         },
-        "names": {
-            "long": "North Kalimantan"
+        "long": {
+            "default": "North Kalimantan"
         }
     }
 ]

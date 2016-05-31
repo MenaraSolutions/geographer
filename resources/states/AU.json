@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 2058645
         },
-        "names": {
-            "long": "Western Australia"
+        "long": {
+            "default": "Western Australia"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "05",
             "geonames": 2061327
         },
-        "names": {
-            "long": "South Australia"
+        "long": {
+            "default": "South Australia"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 2064513
         },
-        "names": {
-            "long": "Northern Territory"
+        "long": {
+            "default": "Northern Territory"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 2145234
         },
-        "names": {
-            "long": "Victoria"
+        "long": {
+            "default": "Victoria"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 2147291
         },
-        "names": {
-            "long": "Tasmania"
+        "long": {
+            "default": "Tasmania"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "04",
             "geonames": 2152274
         },
-        "names": {
-            "long": "Queensland"
+        "long": {
+            "default": "Queensland"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "02",
             "geonames": 2155400
         },
-        "names": {
-            "long": "New South Wales"
+        "long": {
+            "default": "New South Wales"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "01",
             "geonames": 2177478
         },
-        "names": {
-            "long": "Australian Capital Territory"
+        "long": {
+            "default": "Australian Capital Territory"
         }
     }
 ]

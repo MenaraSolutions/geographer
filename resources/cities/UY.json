@@ -1,7 +1,11 @@
 {
     "3440034": {
-        "geoid": "3440034",
-        "name": "Tacuarembó",
+        "ids": {
+            "geonames": 3440034
+        },
+        "long": {
+            "default": "Tacuarembó"
+        },
         "lat": -31.71694,
         "lng": -55.98111,
         "country": "UY",
@@ -9,8 +13,12 @@
         "population": 51854
     },
     "3440714": {
-        "geoid": "3440714",
-        "name": "Salto",
+        "ids": {
+            "geonames": 3440714
+        },
+        "long": {
+            "default": "Salto"
+        },
         "lat": -31.38333,
         "lng": -57.96667,
         "country": "UY",
@@ -18,8 +26,12 @@
         "population": 99823
     },
     "3440781": {
-        "geoid": "3440781",
-        "name": "Rivera",
+        "ids": {
+            "geonames": 3440781
+        },
+        "long": {
+            "default": "Rivera"
+        },
         "lat": -30.90534,
         "lng": -55.55076,
         "country": "UY",
@@ -27,8 +39,12 @@
         "population": 64631
     },
     "3441243": {
-        "geoid": "3441243",
-        "name": "Paysandú",
+        "ids": {
+            "geonames": 3441243
+        },
+        "long": {
+            "default": "Paysandú"
+        },
         "lat": -32.32139,
         "lng": -58.07556,
         "country": "UY",
@@ -36,8 +52,12 @@
         "population": 73249
     },
     "3441575": {
-        "geoid": "3441575",
-        "name": "Montevideo",
+        "ids": {
+            "geonames": 3441575
+        },
+        "long": {
+            "default": "Montevideo"
+        },
         "lat": -34.90328,
         "lng": -56.18816,
         "country": "UY",
@@ -45,8 +65,12 @@
         "population": 1270737
     },
     "3441702": {
-        "geoid": "3441702",
-        "name": "Melo",
+        "ids": {
+            "geonames": 3441702
+        },
+        "long": {
+            "default": "Melo"
+        },
         "lat": -32.37028,
         "lng": -54.1675,
         "country": "UY",
@@ -54,8 +78,12 @@
         "population": 51023
     },
     "3441894": {
-        "geoid": "3441894",
-        "name": "Maldonado",
+        "ids": {
+            "geonames": 3441894
+        },
+        "long": {
+            "default": "Maldonado"
+        },
         "lat": -34.9,
         "lng": -54.95,
         "country": "UY",
@@ -63,8 +91,12 @@
         "population": 55478
     },
     "3442057": {
-        "geoid": "3442057",
-        "name": "Las Piedras",
+        "ids": {
+            "geonames": 3442057
+        },
+        "long": {
+            "default": "Las Piedras"
+        },
         "lat": -34.7302,
         "lng": -56.21915,
         "country": "UY",

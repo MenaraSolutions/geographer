@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 2475683
         },
-        "names": {
-            "long": "Tlemcen"
+        "long": {
+            "default": "Tlemcen"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "14",
             "geonames": 2475741
         },
-        "names": {
-            "long": "Tizi Ouzou"
+        "long": {
+            "default": "Tizi Ouzou"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "56",
             "geonames": 2475858
         },
-        "names": {
-            "long": "Tissemsilt"
+        "long": {
+            "default": "Tissemsilt"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "55",
             "geonames": 2476027
         },
-        "names": {
-            "long": "Tipaza"
+        "long": {
+            "default": "Tipaza"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "54",
             "geonames": 2476302
         },
-        "names": {
-            "long": "Tindouf"
+        "long": {
+            "default": "Tindouf"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 2476893
         },
-        "names": {
-            "long": "Tiaret"
+        "long": {
+            "default": "Tiaret"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "33",
             "geonames": 2477457
         },
-        "names": {
-            "long": "Tébessa"
+        "long": {
+            "default": "Tébessa"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "53",
             "geonames": 2478217
         },
-        "names": {
-            "long": "Tamanrasset"
+        "long": {
+            "default": "Tamanrasset"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "52",
             "geonames": 2479213
         },
-        "names": {
-            "long": "Souk Ahras"
+        "long": {
+            "default": "Souk Ahras"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "31",
             "geonames": 2479532
         },
-        "names": {
-            "long": "Skikda"
+        "long": {
+            "default": "Skikda"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "30",
             "geonames": 2481001
         },
-        "names": {
-            "long": "Sidi Bel Abbès"
+        "long": {
+            "default": "Sidi Bel Abbès"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "12",
             "geonames": 2481696
         },
-        "names": {
-            "long": "Sétif"
+        "long": {
+            "default": "Sétif"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "10",
             "geonames": 2482557
         },
-        "names": {
-            "long": "Saida"
+        "long": {
+            "default": "Saida"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "51",
             "geonames": 2483666
         },
-        "names": {
-            "long": "Relizane"
+        "long": {
+            "default": "Relizane"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "29",
             "geonames": 2484618
         },
-        "names": {
-            "long": "Oum el Bouaghi"
+        "long": {
+            "default": "Oum el Bouaghi"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "50",
             "geonames": 2485794
         },
-        "names": {
-            "long": "Ouargla"
+        "long": {
+            "default": "Ouargla"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "09",
             "geonames": 2485920
         },
-        "names": {
-            "long": "Oran"
+        "long": {
+            "default": "Oran"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "49",
             "geonames": 2486512
         },
-        "names": {
-            "long": "Naama"
+        "long": {
+            "default": "Naama"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "27",
             "geonames": 2486682
         },
-        "names": {
-            "long": "M'Sila"
+        "long": {
+            "default": "M'Sila"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "07",
             "geonames": 2487130
         },
-        "names": {
-            "long": "Mostaganem"
+        "long": {
+            "default": "Mostaganem"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "48",
             "geonames": 2487449
         },
-        "names": {
-            "long": "Mila"
+        "long": {
+            "default": "Mila"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "06",
             "geonames": 2488831
         },
-        "names": {
-            "long": "Medea"
+        "long": {
+            "default": "Medea"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "26",
             "geonames": 2490095
         },
-        "names": {
-            "long": "Mascara"
+        "long": {
+            "default": "Mascara"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "25",
             "geonames": 2491188
         },
-        "names": {
-            "long": "Laghouat"
+        "long": {
+            "default": "Laghouat"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "47",
             "geonames": 2491887
         },
-        "names": {
-            "long": "Khenchela"
+        "long": {
+            "default": "Khenchela"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "24",
             "geonames": 2492910
         },
-        "names": {
-            "long": "Jijel"
+        "long": {
+            "default": "Jijel"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "46",
             "geonames": 2493455
         },
-        "names": {
-            "long": "Illizi"
+        "long": {
+            "default": "Illizi"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "23",
             "geonames": 2495659
         },
-        "names": {
-            "long": "Guelma"
+        "long": {
+            "default": "Guelma"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "45",
             "geonames": 2496045
         },
-        "names": {
-            "long": "Ghardaia"
+        "long": {
+            "default": "Ghardaia"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "44",
             "geonames": 2497322
         },
-        "names": {
-            "long": "El Tarf"
+        "long": {
+            "default": "El Tarf"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "43",
             "geonames": 2497406
         },
-        "names": {
-            "long": "El Oued"
+        "long": {
+            "default": "El Oued"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "42",
             "geonames": 2498541
         },
-        "names": {
-            "long": "El Bayadh"
+        "long": {
+            "default": "El Bayadh"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "22",
             "geonames": 2500013
         },
-        "names": {
-            "long": "Djelfa"
+        "long": {
+            "default": "Djelfa"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "04",
             "geonames": 2501147
         },
-        "names": {
-            "long": "Constantine"
+        "long": {
+            "default": "Constantine"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "41",
             "geonames": 2501296
         },
-        "names": {
-            "long": "Chlef"
+        "long": {
+            "default": "Chlef"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "40",
             "geonames": 2502638
         },
-        "names": {
-            "long": "Boumerdes"
+        "long": {
+            "default": "Boumerdes"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "21",
             "geonames": 2502951
         },
-        "names": {
-            "long": "Bouira"
+        "long": {
+            "default": "Bouira"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "39",
             "geonames": 2503699
         },
-        "names": {
-            "long": "Bordj Bou Arréridj"
+        "long": {
+            "default": "Bordj Bou Arréridj"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "20",
             "geonames": 2503765
         },
-        "names": {
-            "long": "Blida"
+        "long": {
+            "default": "Blida"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "19",
             "geonames": 2503822
         },
-        "names": {
-            "long": "Biskra"
+        "long": {
+            "default": "Biskra"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "18",
             "geonames": 2505325
         },
-        "names": {
-            "long": "Béjaïa"
+        "long": {
+            "default": "Béjaïa"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "38",
             "geonames": 2505525
         },
-        "names": {
-            "long": "Béchar"
+        "long": {
+            "default": "Béchar"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "03",
             "geonames": 2505569
         },
-        "names": {
-            "long": "Batna"
+        "long": {
+            "default": "Batna"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "37",
             "geonames": 2506994
         },
-        "names": {
-            "long": "Annaba"
+        "long": {
+            "default": "Annaba"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "01",
             "geonames": 2507475
         },
-        "names": {
-            "long": "Algiers"
+        "long": {
+            "default": "Algiers"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "36",
             "geonames": 2507899
         },
-        "names": {
-            "long": "Aïn Témouchent"
+        "long": {
+            "default": "Aïn Témouchent"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "35",
             "geonames": 2508226
         },
-        "names": {
-            "long": "Aïn Defla"
+        "long": {
+            "default": "Aïn Defla"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "34",
             "geonames": 2508807
         },
-        "names": {
-            "long": "Adrar"
+        "long": {
+            "default": "Adrar"
         }
     }
 ]

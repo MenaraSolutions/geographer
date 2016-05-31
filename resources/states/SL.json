@@ -4,8 +4,8 @@
             "fips": "04",
             "geonames": 2403068
         },
-        "names": {
-            "long": "Western Area"
+        "long": {
+            "default": "Western Area"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 2403745
         },
-        "names": {
-            "long": "Southern Province"
+        "long": {
+            "default": "Southern Province"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "02",
             "geonames": 2404798
         },
-        "names": {
-            "long": "Northern Province"
+        "long": {
+            "default": "Northern Province"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 2409543
         },
-        "names": {
-            "long": "Eastern Province"
+        "long": {
+            "default": "Eastern Province"
         }
     }
 ]

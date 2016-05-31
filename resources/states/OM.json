@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 411735
         },
-        "names": {
-            "long": "Muḩāfaz̧at ad Dākhilīyah"
+        "long": {
+            "default": "Muḩāfaz̧at ad Dākhilīyah"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 411736
         },
-        "names": {
-            "long": "Al Batinah South Governorate"
+        "long": {
+            "default": "Al Batinah South Governorate"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 411737
         },
-        "names": {
-            "long": "Al Wusţá"
+        "long": {
+            "default": "Al Wusţá"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 411738
         },
-        "names": {
-            "long": "Ash Sharqiyah South Governorate"
+        "long": {
+            "default": "Ash Sharqiyah South Governorate"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "09",
             "geonames": 411739
         },
-        "names": {
-            "long": "Az̧ Z̧āhirah"
+        "long": {
+            "default": "Az̧ Z̧āhirah"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 411740
         },
-        "names": {
-            "long": "Muḩāfaz̧at Masqaţ"
+        "long": {
+            "default": "Muḩāfaz̧at Masqaţ"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 411741
         },
-        "names": {
-            "long": "Musandam"
+        "long": {
+            "default": "Musandam"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 411742
         },
-        "names": {
-            "long": "Z̧ufār"
+        "long": {
+            "default": "Z̧ufār"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "10",
             "geonames": 7110710
         },
-        "names": {
-            "long": "Al Buraimi"
+        "long": {
+            "default": "Al Buraimi"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "12",
             "geonames": 8394433
         },
-        "names": {
-            "long": "Ash Sharqiyah North Governorate"
+        "long": {
+            "default": "Ash Sharqiyah North Governorate"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 8394434
         },
-        "names": {
-            "long": "Al Batinah North Governorate"
+        "long": {
+            "default": "Al Batinah North Governorate"
         }
     }
 ]

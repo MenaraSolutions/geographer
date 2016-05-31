@@ -4,8 +4,8 @@
             "fips": "20",
             "geonames": 50360
         },
-        "names": {
-            "long": "Woqooyi Galbeed"
+        "long": {
+            "default": "Woqooyi Galbeed"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "19",
             "geonames": 51230
         },
-        "names": {
-            "long": "Togdheer"
+        "long": {
+            "default": "Togdheer"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 51966
         },
-        "names": {
-            "long": "Lower Shabeelle"
+        "long": {
+            "default": "Lower Shabeelle"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "13",
             "geonames": 51967
         },
-        "names": {
-            "long": "Middle Shabele"
+        "long": {
+            "default": "Middle Shabele"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "12",
             "geonames": 52187
         },
-        "names": {
-            "long": "Sanaag"
+        "long": {
+            "default": "Sanaag"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "18",
             "geonames": 53477
         },
-        "names": {
-            "long": "Nugaal"
+        "long": {
+            "default": "Nugaal"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "10",
             "geonames": 53707
         },
-        "names": {
-            "long": "Mudug"
+        "long": {
+            "default": "Mudug"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "09",
             "geonames": 56083
         },
-        "names": {
-            "long": "Lower Juba"
+        "long": {
+            "default": "Lower Juba"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "08",
             "geonames": 56084
         },
-        "names": {
-            "long": "Middle Juba"
+        "long": {
+            "default": "Middle Juba"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "07",
             "geonames": 57060
         },
-        "names": {
-            "long": "Hiiraan"
+        "long": {
+            "default": "Hiiraan"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "06",
             "geonames": 58802
         },
-        "names": {
-            "long": "Gedo"
+        "long": {
+            "default": "Gedo"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "05",
             "geonames": 59362
         },
-        "names": {
-            "long": "Galguduud"
+        "long": {
+            "default": "Galguduud"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "04",
             "geonames": 64538
         },
-        "names": {
-            "long": "Bay"
+        "long": {
+            "default": "Bay"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "03",
             "geonames": 64661
         },
-        "names": {
-            "long": "Bari"
+        "long": {
+            "default": "Bari"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "02",
             "geonames": 64833
         },
-        "names": {
-            "long": "Banaadir"
+        "long": {
+            "default": "Banaadir"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "01",
             "geonames": 64982
         },
-        "names": {
-            "long": "Bakool"
+        "long": {
+            "default": "Bakool"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "21",
             "geonames": 6268943
         },
-        "names": {
-            "long": "Awdal"
+        "long": {
+            "default": "Awdal"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "22",
             "geonames": 6268947
         },
-        "names": {
-            "long": "Sool"
+        "long": {
+            "default": "Sool"
         }
     }
 ]

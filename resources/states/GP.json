@@ -4,8 +4,8 @@
             "fips": "GP",
             "geonames": 6690363
         },
-        "names": {
-            "long": "Guadeloupe"
+        "long": {
+            "default": "Guadeloupe"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "2961284": {
-        "geoid": "2961284",
-        "name": "Tallaght",
+        "ids": {
+            "geonames": 2961284
+        },
+        "long": {
+            "default": "Tallaght"
+        },
         "lat": 53.2859,
         "lng": -6.37344,
         "country": "IE",
@@ -9,8 +13,12 @@
         "population": 64282
     },
     "2962943": {
-        "geoid": "2962943",
-        "name": "Luimneach",
+        "ids": {
+            "geonames": 2962943
+        },
+        "long": {
+            "default": "Luimneach"
+        },
         "lat": 52.66472,
         "lng": -8.62306,
         "country": "IE",
@@ -18,8 +26,12 @@
         "population": 90054
     },
     "2964180": {
-        "geoid": "2964180",
-        "name": "Gaillimh",
+        "ids": {
+            "geonames": 2964180
+        },
+        "long": {
+            "default": "Gaillimh"
+        },
         "lat": 53.27194,
         "lng": -9.04889,
         "country": "IE",
@@ -27,8 +39,12 @@
         "population": 70686
     },
     "2964506": {
-        "geoid": "2964506",
-        "name": "Dún Laoghaire",
+        "ids": {
+            "geonames": 2964506
+        },
+        "long": {
+            "default": "Dún Laoghaire"
+        },
         "lat": 53.29395,
         "lng": -6.13586,
         "country": "IE",
@@ -36,8 +52,12 @@
         "population": 185400
     },
     "2964574": {
-        "geoid": "2964574",
-        "name": "Dublin",
+        "ids": {
+            "geonames": 2964574
+        },
+        "long": {
+            "default": "Dublin"
+        },
         "lat": 53.33306,
         "lng": -6.24889,
         "country": "IE",
@@ -45,8 +65,12 @@
         "population": 1024027
     },
     "2965140": {
-        "geoid": "2965140",
-        "name": "Cork",
+        "ids": {
+            "geonames": 2965140
+        },
+        "long": {
+            "default": "Cork"
+        },
         "lat": 51.89797,
         "lng": -8.47061,
         "country": "IE",

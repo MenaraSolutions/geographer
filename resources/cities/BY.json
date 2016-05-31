@@ -1,7 +1,11 @@
 {
     "618800": {
-        "geoid": "618800",
-        "name": "Horad Zhodzina",
+        "ids": {
+            "geonames": 618800
+        },
+        "long": {
+            "default": "Horad Zhodzina"
+        },
         "lat": 54.0985,
         "lng": 28.3331,
         "country": "BY",
@@ -9,8 +13,12 @@
         "population": 61007
     },
     "618806": {
-        "geoid": "618806",
-        "name": "Zhlobin",
+        "ids": {
+            "geonames": 618806
+        },
+        "long": {
+            "default": "Zhlobin"
+        },
         "lat": 52.8926,
         "lng": 30.024,
         "country": "BY",
@@ -18,8 +26,12 @@
         "population": 73089
     },
     "620127": {
-        "geoid": "620127",
-        "name": "Vitebsk",
+        "ids": {
+            "geonames": 620127
+        },
+        "long": {
+            "default": "Vitebsk"
+        },
         "lat": 55.1904,
         "lng": 30.2049,
         "country": "BY",
@@ -27,8 +39,12 @@
         "population": 342700
     },
     "621074": {
-        "geoid": "621074",
-        "name": "Svyetlahorsk",
+        "ids": {
+            "geonames": 621074
+        },
+        "long": {
+            "default": "Svyetlahorsk"
+        },
         "lat": 52.6329,
         "lng": 29.7389,
         "country": "BY",
@@ -36,8 +52,12 @@
         "population": 71250
     },
     "621741": {
-        "geoid": "621741",
-        "name": "Slutsk",
+        "ids": {
+            "geonames": 621741
+        },
+        "long": {
+            "default": "Slutsk"
+        },
         "lat": 53.0274,
         "lng": 27.5597,
         "country": "BY",
@@ -45,8 +65,12 @@
         "population": 62228
     },
     "621754": {
-        "geoid": "621754",
-        "name": "Slonim",
+        "ids": {
+            "geonames": 621754
+        },
+        "long": {
+            "default": "Slonim"
+        },
         "lat": 53.0869,
         "lng": 25.3163,
         "country": "BY",
@@ -54,8 +78,12 @@
         "population": 51434
     },
     "622428": {
-        "geoid": "622428",
-        "name": "Salihorsk",
+        "ids": {
+            "geonames": 622428
+        },
+        "long": {
+            "default": "Salihorsk"
+        },
         "lat": 52.7876,
         "lng": 27.5415,
         "country": "BY",
@@ -63,8 +91,12 @@
         "population": 101614
     },
     "622794": {
-        "geoid": "622794",
-        "name": "Rechytsa",
+        "ids": {
+            "geonames": 622794
+        },
+        "long": {
+            "default": "Rechytsa"
+        },
         "lat": 52.3617,
         "lng": 30.3916,
         "country": "BY",
@@ -72,8 +104,12 @@
         "population": 65400
     },
     "623317": {
-        "geoid": "623317",
-        "name": "Polatsk",
+        "ids": {
+            "geonames": 623317
+        },
+        "long": {
+            "default": "Polatsk"
+        },
         "lat": 55.4879,
         "lng": 28.7856,
         "country": "BY",
@@ -81,8 +117,12 @@
         "population": 82258
     },
     "623549": {
-        "geoid": "623549",
-        "name": "Pinsk",
+        "ids": {
+            "geonames": 623549
+        },
+        "long": {
+            "default": "Pinsk"
+        },
         "lat": 52.1229,
         "lng": 26.0951,
         "country": "BY",
@@ -90,8 +130,12 @@
         "population": 130777
     },
     "624079": {
-        "geoid": "624079",
-        "name": "Orsha",
+        "ids": {
+            "geonames": 624079
+        },
+        "long": {
+            "default": "Orsha"
+        },
         "lat": 54.5081,
         "lng": 30.4172,
         "country": "BY",
@@ -99,8 +143,12 @@
         "population": 125347
     },
     "624400": {
-        "geoid": "624400",
-        "name": "Novoye Medvezhino",
+        "ids": {
+            "geonames": 624400
+        },
+        "long": {
+            "default": "Novoye Medvezhino"
+        },
         "lat": 53.88333,
         "lng": 27.45,
         "country": "BY",
@@ -108,8 +156,12 @@
         "population": 120000
     },
     "624784": {
-        "geoid": "624784",
-        "name": "Navapolatsk",
+        "ids": {
+            "geonames": 624784
+        },
+        "long": {
+            "default": "Navapolatsk"
+        },
         "lat": 55.5318,
         "lng": 28.5987,
         "country": "BY",
@@ -117,8 +169,12 @@
         "population": 100885
     },
     "625144": {
-        "geoid": "625144",
-        "name": "Minsk",
+        "ids": {
+            "geonames": 625144
+        },
+        "long": {
+            "default": "Minsk"
+        },
         "lat": 53.9,
         "lng": 27.56667,
         "country": "BY",
@@ -126,8 +182,12 @@
         "population": 1742124
     },
     "625324": {
-        "geoid": "625324",
-        "name": "Mazyr",
+        "ids": {
+            "geonames": 625324
+        },
+        "long": {
+            "default": "Mazyr"
+        },
         "lat": 52.0495,
         "lng": 29.2456,
         "country": "BY",
@@ -135,8 +195,12 @@
         "population": 112137
     },
     "625625": {
-        "geoid": "625625",
-        "name": "Maladzyechna",
+        "ids": {
+            "geonames": 625625
+        },
+        "long": {
+            "default": "Maladzyechna"
+        },
         "lat": 54.3167,
         "lng": 26.854,
         "country": "BY",
@@ -144,8 +208,12 @@
         "population": 101300
     },
     "625665": {
-        "geoid": "625665",
-        "name": "Mahilyow",
+        "ids": {
+            "geonames": 625665
+        },
+        "long": {
+            "default": "Mahilyow"
+        },
         "lat": 53.9168,
         "lng": 30.3449,
         "country": "BY",
@@ -153,8 +221,12 @@
         "population": 369200
     },
     "626081": {
-        "geoid": "626081",
-        "name": "Lida",
+        "ids": {
+            "geonames": 626081
+        },
+        "long": {
+            "default": "Lida"
+        },
         "lat": 53.88333,
         "lng": 25.29972,
         "country": "BY",
@@ -162,8 +234,12 @@
         "population": 98036
     },
     "627145": {
-        "geoid": "627145",
-        "name": "Kobryn",
+        "ids": {
+            "geonames": 627145
+        },
+        "long": {
+            "default": "Kobryn"
+        },
         "lat": 52.2138,
         "lng": 24.3564,
         "country": "BY",
@@ -171,8 +247,12 @@
         "population": 50691
     },
     "627904": {
-        "geoid": "627904",
-        "name": "Hrodna",
+        "ids": {
+            "geonames": 627904
+        },
+        "long": {
+            "default": "Hrodna"
+        },
         "lat": 53.6884,
         "lng": 23.8258,
         "country": "BY",
@@ -180,8 +260,12 @@
         "population": 317365
     },
     "627907": {
-        "geoid": "627907",
-        "name": "Gomel",
+        "ids": {
+            "geonames": 627907
+        },
+        "long": {
+            "default": "Gomel"
+        },
         "lat": 52.4345,
         "lng": 30.9754,
         "country": "BY",
@@ -189,8 +273,12 @@
         "population": 480951
     },
     "629634": {
-        "geoid": "629634",
-        "name": "Brest",
+        "ids": {
+            "geonames": 629634
+        },
+        "long": {
+            "default": "Brest"
+        },
         "lat": 52.09755,
         "lng": 23.68775,
         "country": "BY",
@@ -198,8 +286,12 @@
         "population": 300715
     },
     "630376": {
-        "geoid": "630376",
-        "name": "Horad Barysaw",
+        "ids": {
+            "geonames": 630376
+        },
+        "long": {
+            "default": "Horad Barysaw"
+        },
         "lat": 54.2279,
         "lng": 28.505,
         "country": "BY",
@@ -207,8 +299,12 @@
         "population": 100000
     },
     "630429": {
-        "geoid": "630429",
-        "name": "Baranovichi",
+        "ids": {
+            "geonames": 630429
+        },
+        "long": {
+            "default": "Baranovichi"
+        },
         "lat": 53.1327,
         "lng": 26.0139,
         "country": "BY",
@@ -216,8 +312,12 @@
         "population": 168772
     },
     "630468": {
-        "geoid": "630468",
-        "name": "Babruysk",
+        "ids": {
+            "geonames": 630468
+        },
+        "long": {
+            "default": "Babruysk"
+        },
         "lat": 53.1384,
         "lng": 29.2214,
         "country": "BY",
@@ -225,8 +325,12 @@
         "population": 220517
     },
     "8020218": {
-        "geoid": "8020218",
-        "name": "Malinovka",
+        "ids": {
+            "geonames": 8020218
+        },
+        "long": {
+            "default": "Malinovka"
+        },
         "lat": 53.8579,
         "lng": 27.4374,
         "country": "BY",

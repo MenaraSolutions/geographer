@@ -1,7 +1,11 @@
 {
     "81302": {
-        "geoid": "81302",
-        "name": "Tobruk",
+        "ids": {
+            "geonames": 81302
+        },
+        "long": {
+            "default": "Tobruk"
+        },
         "lat": 32.08361,
         "lng": 23.97639,
         "country": "LY",
@@ -9,8 +13,12 @@
         "population": 121052
     },
     "87205": {
-        "geoid": "87205",
-        "name": "Darnah",
+        "ids": {
+            "geonames": 87205
+        },
+        "long": {
+            "default": "Darnah"
+        },
         "lat": 32.76704,
         "lng": 22.63669,
         "country": "LY",
@@ -18,8 +26,12 @@
         "population": 78782
     },
     "88319": {
-        "geoid": "88319",
-        "name": "Benghazi",
+        "ids": {
+            "geonames": 88319
+        },
+        "long": {
+            "default": "Benghazi"
+        },
         "lat": 32.11486,
         "lng": 20.06859,
         "country": "LY",
@@ -27,8 +39,12 @@
         "population": 650629
     },
     "88903": {
-        "geoid": "88903",
-        "name": "Al Marj",
+        "ids": {
+            "geonames": 88903
+        },
+        "long": {
+            "default": "Al Marj"
+        },
         "lat": 32.48798,
         "lng": 20.83174,
         "country": "LY",
@@ -36,8 +52,12 @@
         "population": 85315
     },
     "89055": {
-        "geoid": "89055",
-        "name": "Al Bayḑā’",
+        "ids": {
+            "geonames": 89055
+        },
+        "long": {
+            "default": "Al Bayḑā’"
+        },
         "lat": 32.76272,
         "lng": 21.75506,
         "country": "LY",
@@ -45,8 +65,12 @@
         "population": 74594
     },
     "89113": {
-        "geoid": "89113",
-        "name": "Ajdabiya",
+        "ids": {
+            "geonames": 89113
+        },
+        "long": {
+            "default": "Ajdabiya"
+        },
         "lat": 30.75545,
         "lng": 20.22625,
         "country": "LY",
@@ -54,8 +78,12 @@
         "population": 134358
     },
     "2208485": {
-        "geoid": "2208485",
-        "name": "Zliten",
+        "ids": {
+            "geonames": 2208485
+        },
+        "long": {
+            "default": "Zliten"
+        },
         "lat": 32.46739,
         "lng": 14.56874,
         "country": "LY",
@@ -63,8 +91,12 @@
         "population": 109972
     },
     "2208791": {
-        "geoid": "2208791",
-        "name": "Yafran",
+        "ids": {
+            "geonames": 2208791
+        },
+        "long": {
+            "default": "Yafran"
+        },
         "lat": 32.06329,
         "lng": 12.52859,
         "country": "LY",
@@ -72,8 +104,12 @@
         "population": 67638
     },
     "2210221": {
-        "geoid": "2210221",
-        "name": "Tarhuna",
+        "ids": {
+            "geonames": 2210221
+        },
+        "long": {
+            "default": "Tarhuna"
+        },
         "lat": 32.43501,
         "lng": 13.6332,
         "country": "LY",
@@ -81,8 +117,12 @@
         "population": 210697
     },
     "2210247": {
-        "geoid": "2210247",
-        "name": "Tripoli",
+        "ids": {
+            "geonames": 2210247
+        },
+        "long": {
+            "default": "Tripoli"
+        },
         "lat": 32.87519,
         "lng": 13.18746,
         "country": "LY",
@@ -90,8 +130,12 @@
         "population": 1150989
     },
     "2210394": {
-        "geoid": "2210394",
-        "name": "Tagiura",
+        "ids": {
+            "geonames": 2210394
+        },
+        "long": {
+            "default": "Tagiura"
+        },
         "lat": 32.88167,
         "lng": 13.35056,
         "country": "LY",
@@ -99,8 +143,12 @@
         "population": 100000
     },
     "2210554": {
-        "geoid": "2210554",
-        "name": "Sirte",
+        "ids": {
+            "geonames": 2210554
+        },
+        "long": {
+            "default": "Sirte"
+        },
         "lat": 31.20892,
         "lng": 16.58866,
         "country": "LY",
@@ -108,8 +156,12 @@
         "population": 128123
     },
     "2212771": {
-        "geoid": "2212771",
-        "name": "Şabrātah",
+        "ids": {
+            "geonames": 2212771
+        },
+        "long": {
+            "default": "Şabrātah"
+        },
         "lat": 32.79335,
         "lng": 12.48845,
         "country": "LY",
@@ -117,8 +169,12 @@
         "population": 102038
     },
     "2212775": {
-        "geoid": "2212775",
-        "name": "Sabhā",
+        "ids": {
+            "geonames": 2212775
+        },
+        "long": {
+            "default": "Sabhā"
+        },
         "lat": 27.03766,
         "lng": 14.42832,
         "country": "LY",
@@ -126,8 +182,12 @@
         "population": 130000
     },
     "2214846": {
-        "geoid": "2214846",
-        "name": "Mişrātah",
+        "ids": {
+            "geonames": 2214846
+        },
+        "long": {
+            "default": "Mişrātah"
+        },
         "lat": 32.37535,
         "lng": 15.09254,
         "country": "LY",
@@ -135,8 +195,12 @@
         "population": 386120
     },
     "2216885": {
-        "geoid": "2216885",
-        "name": "Zawiya",
+        "ids": {
+            "geonames": 2216885
+        },
+        "long": {
+            "default": "Zawiya"
+        },
         "lat": 32.75222,
         "lng": 12.72778,
         "country": "LY",
@@ -144,8 +208,12 @@
         "population": 186123
     },
     "2217362": {
-        "geoid": "2217362",
-        "name": "Gharyan",
+        "ids": {
+            "geonames": 2217362
+        },
+        "long": {
+            "default": "Gharyan"
+        },
         "lat": 32.17222,
         "lng": 13.02028,
         "country": "LY",
@@ -153,8 +221,12 @@
         "population": 85219
     },
     "2218970": {
-        "geoid": "2218970",
-        "name": "Az Zāwīyah",
+        "ids": {
+            "geonames": 2218970
+        },
+        "long": {
+            "default": "Az Zāwīyah"
+        },
         "lat": 32.7571,
         "lng": 12.72764,
         "country": "LY",
@@ -162,8 +234,12 @@
         "population": 200000
     },
     "2219905": {
-        "geoid": "2219905",
-        "name": "Al Khums",
+        "ids": {
+            "geonames": 2219905
+        },
+        "long": {
+            "default": "Al Khums"
+        },
         "lat": 32.64861,
         "lng": 14.26191,
         "country": "LY",
@@ -171,8 +247,12 @@
         "population": 201943
     },
     "2219960": {
-        "geoid": "2219960",
-        "name": "Al Jadīd",
+        "ids": {
+            "geonames": 2219960
+        },
+        "long": {
+            "default": "Al Jadīd"
+        },
         "lat": 27.05,
         "lng": 14.4,
         "country": "LY",

@@ -1,7 +1,11 @@
 {
     "161616": {
-        "geoid": "161616",
-        "name": "Balkanabat",
+        "ids": {
+            "geonames": 161616
+        },
+        "long": {
+            "default": "Balkanabat"
+        },
         "lat": 39.51075,
         "lng": 54.36713,
         "country": "TM",
@@ -9,8 +13,12 @@
         "population": 87822
     },
     "162183": {
-        "geoid": "162183",
-        "name": "Ashgabat",
+        "ids": {
+            "geonames": 162183
+        },
+        "long": {
+            "default": "Ashgabat"
+        },
         "lat": 37.95,
         "lng": 58.38333,
         "country": "TM",
@@ -18,8 +26,12 @@
         "population": 727700
     },
     "601594": {
-        "geoid": "601594",
-        "name": "Türkmenbaşy",
+        "ids": {
+            "geonames": 601594
+        },
+        "long": {
+            "default": "Türkmenbaşy"
+        },
         "lat": 40.02216,
         "lng": 52.95517,
         "country": "TM",
@@ -27,8 +39,12 @@
         "population": 68292
     },
     "601734": {
-        "geoid": "601734",
-        "name": "Daşoguz",
+        "ids": {
+            "geonames": 601734
+        },
+        "long": {
+            "default": "Daşoguz"
+        },
         "lat": 41.83625,
         "lng": 59.96661,
         "country": "TM",
@@ -36,8 +52,12 @@
         "population": 166500
     },
     "1218239": {
-        "geoid": "1218239",
-        "name": "Tejen",
+        "ids": {
+            "geonames": 1218239
+        },
+        "long": {
+            "default": "Tejen"
+        },
         "lat": 37.38338,
         "lng": 60.50545,
         "country": "TM",
@@ -45,8 +65,12 @@
         "population": 67294
     },
     "1218667": {
-        "geoid": "1218667",
-        "name": "Mary",
+        "ids": {
+            "geonames": 1218667
+        },
+        "long": {
+            "default": "Mary"
+        },
         "lat": 37.59378,
         "lng": 61.83031,
         "country": "TM",
@@ -54,8 +78,12 @@
         "population": 114680
     },
     "1219649": {
-        "geoid": "1219649",
-        "name": "Türkmenabat",
+        "ids": {
+            "geonames": 1219649
+        },
+        "long": {
+            "default": "Türkmenabat"
+        },
         "lat": 39.07328,
         "lng": 63.57861,
         "country": "TM",
@@ -63,8 +91,12 @@
         "population": 234817
     },
     "1219762": {
-        "geoid": "1219762",
-        "name": "Bayramaly",
+        "ids": {
+            "geonames": 1219762
+        },
+        "long": {
+            "default": "Bayramaly"
+        },
         "lat": 37.61852,
         "lng": 62.16715,
         "country": "TM",

@@ -4,8 +4,8 @@
             "fips": "58",
             "geonames": 1559969
         },
-        "names": {
-            "long": "Nghệ An"
+        "long": {
+            "default": "Nghệ An"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "59",
             "geonames": 1559970
         },
-        "names": {
-            "long": "Ninh Bình"
+        "long": {
+            "default": "Ninh Bình"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "60",
             "geonames": 1559971
         },
-        "names": {
-            "long": "Ninh Thuận"
+        "long": {
+            "default": "Ninh Thuận"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "65",
             "geonames": 1559972
         },
-        "names": {
-            "long": "Sóc Trăng"
+        "long": {
+            "default": "Sóc Trăng"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "67",
             "geonames": 1559975
         },
-        "names": {
-            "long": "Trà Vinh"
+        "long": {
+            "default": "Trà Vinh"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "68",
             "geonames": 1559976
         },
-        "names": {
-            "long": "Tuyên Quang"
+        "long": {
+            "default": "Tuyên Quang"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "69",
             "geonames": 1559977
         },
-        "names": {
-            "long": "Vĩnh Long"
+        "long": {
+            "default": "Vĩnh Long"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "70",
             "geonames": 1559978
         },
-        "names": {
-            "long": "Yên Bái"
+        "long": {
+            "default": "Yên Bái"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "90",
             "geonames": 1562412
         },
-        "names": {
-            "long": "Lào Cai"
+        "long": {
+            "default": "Lào Cai"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "37",
             "geonames": 1564676
         },
-        "names": {
-            "long": "Tiền Giang"
+        "long": {
+            "default": "Tiền Giang"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "66",
             "geonames": 1565033
         },
-        "names": {
-            "long": "Thừa Thiên-Huế"
+        "long": {
+            "default": "Thừa Thiên-Huế"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "55",
             "geonames": 1565088
         },
-        "names": {
-            "long": "Kon Tum"
+        "long": {
+            "default": "Kon Tum"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "34",
             "geonames": 1566165
         },
-        "names": {
-            "long": "Thanh Hóa"
+        "long": {
+            "default": "Thanh Hóa"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "35",
             "geonames": 1566338
         },
-        "names": {
-            "long": "Thái Bình"
+        "long": {
+            "default": "Thái Bình"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "33",
             "geonames": 1566557
         },
-        "names": {
-            "long": "Tây Ninh"
+        "long": {
+            "default": "Tây Ninh"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "32",
             "geonames": 1567643
         },
-        "names": {
-            "long": "Sơn La"
+        "long": {
+            "default": "Sơn La"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "64",
             "geonames": 1568733
         },
-        "names": {
-            "long": "Quảng Trị"
+        "long": {
+            "default": "Quảng Trị"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "30",
             "geonames": 1568758
         },
-        "names": {
-            "long": "Quảng Ninh"
+        "long": {
+            "default": "Quảng Ninh"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "63",
             "geonames": 1568769
         },
-        "names": {
-            "long": "Quảng Ngãi"
+        "long": {
+            "default": "Quảng Ngãi"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "62",
             "geonames": 1568839
         },
-        "names": {
-            "long": "Quảng Bình"
+        "long": {
+            "default": "Quảng Bình"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "61",
             "geonames": 1569805
         },
-        "names": {
-            "long": "Phú Yên"
+        "long": {
+            "default": "Phú Yên"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "53",
             "geonames": 1572594
         },
-        "names": {
-            "long": "Hòa Bình"
+        "long": {
+            "default": "Hòa Bình"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "24",
             "geonames": 1575788
         },
-        "names": {
-            "long": "Long An"
+        "long": {
+            "default": "Long An"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "39",
             "geonames": 1576632
         },
-        "names": {
-            "long": "Lạng Sơn"
+        "long": {
+            "default": "Lạng Sơn"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "23",
             "geonames": 1577882
         },
-        "names": {
-            "long": "Lâm Đồng"
+        "long": {
+            "default": "Lâm Đồng"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "89",
             "geonames": 1577954
         },
-        "names": {
-            "long": "Lai Châu"
+        "long": {
+            "default": "Lai Châu"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "21",
             "geonames": 1579008
         },
-        "names": {
-            "long": "Kiến Giang"
+        "long": {
+            "default": "Kiến Giang"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "54",
             "geonames": 1579634
         },
-        "names": {
-            "long": "Khánh Hòa"
+        "long": {
+            "default": "Khánh Hòa"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "20",
             "geonames": 1580578
         },
-        "names": {
-            "long": "Ho Chi Minh City"
+        "long": {
+            "default": "Ho Chi Minh City"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "52",
             "geonames": 1580700
         },
-        "names": {
-            "long": "Hà Tĩnh"
+        "long": {
+            "default": "Hà Tĩnh"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "50",
             "geonames": 1581030
         },
-        "names": {
-            "long": "Hà Giang"
+        "long": {
+            "default": "Hà Giang"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "49",
             "geonames": 1581088
         },
-        "names": {
-            "long": "Gia Lai"
+        "long": {
+            "default": "Gia Lai"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "44",
             "geonames": 1581129
         },
-        "names": {
-            "long": "Ha Nội"
+        "long": {
+            "default": "Ha Nội"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "87",
             "geonames": 1581188
         },
-        "names": {
-            "long": "Cần Thơ"
+        "long": {
+            "default": "Cần Thơ"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "13",
             "geonames": 1581297
         },
-        "names": {
-            "long": "Hải Phòng"
+        "long": {
+            "default": "Hải Phòng"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "47",
             "geonames": 1581882
         },
-        "names": {
-            "long": "Bình Thuận"
+        "long": {
+            "default": "Bình Thuận"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "09",
             "geonames": 1582562
         },
-        "names": {
-            "long": "Đồng Tháp"
+        "long": {
+            "default": "Đồng Tháp"
         }
     },
     {
@@ -337,8 +337,8 @@
             "fips": "43",
             "geonames": 1582720
         },
-        "names": {
-            "long": "Đồng Nai"
+        "long": {
+            "default": "Đồng Nai"
         }
     },
     {
@@ -346,8 +346,8 @@
             "fips": "88",
             "geonames": 1584169
         },
-        "names": {
-            "long": "Ðắc Lắk"
+        "long": {
+            "default": "Ðắc Lắk"
         }
     },
     {
@@ -355,8 +355,8 @@
             "fips": "45",
             "geonames": 1584534
         },
-        "names": {
-            "long": "Bà Rịa-Vũng Tàu"
+        "long": {
+            "default": "Bà Rịa-Vũng Tàu"
         }
     },
     {
@@ -364,8 +364,8 @@
             "fips": "05",
             "geonames": 1586182
         },
-        "names": {
-            "long": "Cao Bằng"
+        "long": {
+            "default": "Cao Bằng"
         }
     },
     {
@@ -373,8 +373,8 @@
             "fips": "46",
             "geonames": 1587871
         },
-        "names": {
-            "long": "Bình Định"
+        "long": {
+            "default": "Bình Định"
         }
     },
     {
@@ -382,8 +382,8 @@
             "fips": "03",
             "geonames": 1587974
         },
-        "names": {
-            "long": "Bến Tre"
+        "long": {
+            "default": "Bến Tre"
         }
     },
     {
@@ -391,8 +391,8 @@
             "fips": "01",
             "geonames": 1594446
         },
-        "names": {
-            "long": "An Giang"
+        "long": {
+            "default": "An Giang"
         }
     },
     {
@@ -400,8 +400,8 @@
             "fips": "91",
             "geonames": 1904987
         },
-        "names": {
-            "long": "Ðắk Nông"
+        "long": {
+            "default": "Ðắk Nông"
         }
     },
     {
@@ -409,8 +409,8 @@
             "fips": "92",
             "geonames": 1905099
         },
-        "names": {
-            "long": "Tỉnh Ðiện Biên"
+        "long": {
+            "default": "Tỉnh Ðiện Biên"
         }
     },
     {
@@ -418,8 +418,8 @@
             "fips": "74",
             "geonames": 1905412
         },
-        "names": {
-            "long": "Bắc Ninh"
+        "long": {
+            "default": "Bắc Ninh"
         }
     },
     {
@@ -427,8 +427,8 @@
             "fips": "71",
             "geonames": 1905419
         },
-        "names": {
-            "long": "Bắc Giang"
+        "long": {
+            "default": "Bắc Giang"
         }
     },
     {
@@ -436,8 +436,8 @@
             "fips": "78",
             "geonames": 1905468
         },
-        "names": {
-            "long": "Đà Nẵng"
+        "long": {
+            "default": "Đà Nẵng"
         }
     },
     {
@@ -445,8 +445,8 @@
             "fips": "75",
             "geonames": 1905475
         },
-        "names": {
-            "long": "Bình Dương"
+        "long": {
+            "default": "Bình Dương"
         }
     },
     {
@@ -454,8 +454,8 @@
             "fips": "76",
             "geonames": 1905480
         },
-        "names": {
-            "long": "Bình Phước"
+        "long": {
+            "default": "Bình Phước"
         }
     },
     {
@@ -463,8 +463,8 @@
             "fips": "85",
             "geonames": 1905497
         },
-        "names": {
-            "long": "Thái Nguyên"
+        "long": {
+            "default": "Thái Nguyên"
         }
     },
     {
@@ -472,8 +472,8 @@
             "fips": "84",
             "geonames": 1905516
         },
-        "names": {
-            "long": "Quảng Nam"
+        "long": {
+            "default": "Quảng Nam"
         }
     },
     {
@@ -481,8 +481,8 @@
             "fips": "83",
             "geonames": 1905577
         },
-        "names": {
-            "long": "Phú Thọ"
+        "long": {
+            "default": "Phú Thọ"
         }
     },
     {
@@ -490,8 +490,8 @@
             "fips": "82",
             "geonames": 1905626
         },
-        "names": {
-            "long": "Nam Định"
+        "long": {
+            "default": "Nam Định"
         }
     },
     {
@@ -499,8 +499,8 @@
             "fips": "80",
             "geonames": 1905637
         },
-        "names": {
-            "long": "Hà Nam"
+        "long": {
+            "default": "Hà Nam"
         }
     },
     {
@@ -508,8 +508,8 @@
             "fips": "72",
             "geonames": 1905669
         },
-        "names": {
-            "long": "Bắc Kạn"
+        "long": {
+            "default": "Bắc Kạn"
         }
     },
     {
@@ -517,8 +517,8 @@
             "fips": "73",
             "geonames": 1905675
         },
-        "names": {
-            "long": "Bạc Liêu"
+        "long": {
+            "default": "Bạc Liêu"
         }
     },
     {
@@ -526,8 +526,8 @@
             "fips": "77",
             "geonames": 1905678
         },
-        "names": {
-            "long": "Cà Mau"
+        "long": {
+            "default": "Cà Mau"
         }
     },
     {
@@ -535,8 +535,8 @@
             "fips": "79",
             "geonames": 1905686
         },
-        "names": {
-            "long": "Hải Dương"
+        "long": {
+            "default": "Hải Dương"
         }
     },
     {
@@ -544,8 +544,8 @@
             "fips": "81",
             "geonames": 1905699
         },
-        "names": {
-            "long": "Hưng Yên"
+        "long": {
+            "default": "Hưng Yên"
         }
     },
     {
@@ -553,8 +553,8 @@
             "fips": "86",
             "geonames": 1905856
         },
-        "names": {
-            "long": "Vĩnh Phúc"
+        "long": {
+            "default": "Vĩnh Phúc"
         }
     },
     {
@@ -562,8 +562,8 @@
             "fips": "93",
             "geonames": 7506719
         },
-        "names": {
-            "long": "Hau Giang"
+        "long": {
+            "default": "Hau Giang"
         }
     }
 ]

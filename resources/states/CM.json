@@ -4,8 +4,8 @@
             "fips": "09",
             "geonames": 2221788
         },
-        "names": {
-            "long": "South-West"
+        "long": {
+            "default": "South-West"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "14",
             "geonames": 2221789
         },
-        "names": {
-            "long": "South"
+        "long": {
+            "default": "South"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 2222934
         },
-        "names": {
-            "long": "West"
+        "long": {
+            "default": "West"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 2223602
         },
-        "names": {
-            "long": "North-West"
+        "long": {
+            "default": "North-West"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "13",
             "geonames": 2223603
         },
-        "names": {
-            "long": "North"
+        "long": {
+            "default": "North"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "05",
             "geonames": 2229336
         },
-        "names": {
-            "long": "Littoral"
+        "long": {
+            "default": "Littoral"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "12",
             "geonames": 2231755
         },
-        "names": {
-            "long": "Far North"
+        "long": {
+            "default": "Far North"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 2231835
         },
-        "names": {
-            "long": "East"
+        "long": {
+            "default": "East"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 2233376
         },
-        "names": {
-            "long": "Centre"
+        "long": {
+            "default": "Centre"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 2236015
         },
-        "names": {
-            "long": "Adamaoua"
+        "long": {
+            "default": "Adamaoua"
         }
     }
 ]

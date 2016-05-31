@@ -4,8 +4,8 @@
             "fips": "07",
             "geonames": 2437797
         },
-        "names": {
-            "long": "Zinder"
+        "long": {
+            "default": "Zinder"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "06",
             "geonames": 2439374
         },
-        "names": {
-            "long": "Tahoua"
+        "long": {
+            "default": "Tahoua"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "04",
             "geonames": 2441289
         },
-        "names": {
-            "long": "Maradi"
+        "long": {
+            "default": "Maradi"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 2445486
         },
-        "names": {
-            "long": "Dosso"
+        "long": {
+            "default": "Dosso"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "02",
             "geonames": 2445702
         },
-        "names": {
-            "long": "Diffa"
+        "long": {
+            "default": "Diffa"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 2448083
         },
-        "names": {
-            "long": "Agadez"
+        "long": {
+            "default": "Agadez"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 2595293
         },
-        "names": {
-            "long": "Tillabéri"
+        "long": {
+            "default": "Tillabéri"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 2595294
         },
-        "names": {
-            "long": "Niamey"
+        "long": {
+            "default": "Niamey"
         }
     }
 ]

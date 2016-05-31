@@ -4,8 +4,8 @@
             "fips": "09",
             "geonames": 3903319
         },
-        "names": {
-            "long": "Tarija"
+        "long": {
+            "default": "Tarija"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "08",
             "geonames": 3904907
         },
-        "names": {
-            "long": "Santa Cruz"
+        "long": {
+            "default": "Santa Cruz"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 3907580
         },
-        "names": {
-            "long": "Potosí"
+        "long": {
+            "default": "Potosí"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "06",
             "geonames": 3908600
         },
-        "names": {
-            "long": "Pando"
+        "long": {
+            "default": "Pando"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "05",
             "geonames": 3909233
         },
-        "names": {
-            "long": "Oruro"
+        "long": {
+            "default": "Oruro"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "04",
             "geonames": 3911924
         },
-        "names": {
-            "long": "La Paz"
+        "long": {
+            "default": "La Paz"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "02",
             "geonames": 3919966
         },
-        "names": {
-            "long": "Cochabamba"
+        "long": {
+            "default": "Cochabamba"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "01",
             "geonames": 3920177
         },
-        "names": {
-            "long": "Chuquisaca"
+        "long": {
+            "default": "Chuquisaca"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 3923172
         },
-        "names": {
-            "long": "El Beni"
+        "long": {
+            "default": "El Beni"
         }
     }
 ]

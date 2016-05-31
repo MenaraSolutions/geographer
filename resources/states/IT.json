@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 2523119
         },
-        "names": {
-            "long": "Sicily"
+        "long": {
+            "default": "Sicily"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "14",
             "geonames": 2523228
         },
-        "names": {
-            "long": "Sardinia"
+        "long": {
+            "default": "Sardinia"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 2525468
         },
-        "names": {
-            "long": "Calabria"
+        "long": {
+            "default": "Calabria"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "20",
             "geonames": 3164604
         },
-        "names": {
-            "long": "Veneto"
+        "long": {
+            "default": "Veneto"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "19",
             "geonames": 3164857
         },
-        "names": {
-            "long": "Aosta Valley"
+        "long": {
+            "default": "Aosta Valley"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "18",
             "geonames": 3165048
         },
-        "names": {
-            "long": "Umbria"
+        "long": {
+            "default": "Umbria"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "17",
             "geonames": 3165244
         },
-        "names": {
-            "long": "Trentino-Alto Adige"
+        "long": {
+            "default": "Trentino-Alto Adige"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "16",
             "geonames": 3165361
         },
-        "names": {
-            "long": "Tuscany"
+        "long": {
+            "default": "Tuscany"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "13",
             "geonames": 3169778
         },
-        "names": {
-            "long": "Apulia"
+        "long": {
+            "default": "Apulia"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "12",
             "geonames": 3170831
         },
-        "names": {
-            "long": "Piedmont"
+        "long": {
+            "default": "Piedmont"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 3173222
         },
-        "names": {
-            "long": "Molise"
+        "long": {
+            "default": "Molise"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "10",
             "geonames": 3174004
         },
-        "names": {
-            "long": "The Marches"
+        "long": {
+            "default": "The Marches"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "09",
             "geonames": 3174618
         },
-        "names": {
-            "long": "Lombardy"
+        "long": {
+            "default": "Lombardy"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "08",
             "geonames": 3174725
         },
-        "names": {
-            "long": "Liguria"
+        "long": {
+            "default": "Liguria"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "07",
             "geonames": 3174976
         },
-        "names": {
-            "long": "Latium"
+        "long": {
+            "default": "Latium"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "06",
             "geonames": 3176525
         },
-        "names": {
-            "long": "Friuli Venezia Giulia"
+        "long": {
+            "default": "Friuli Venezia Giulia"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "05",
             "geonames": 3177401
         },
-        "names": {
-            "long": "Emilia-Romagna"
+        "long": {
+            "default": "Emilia-Romagna"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "04",
             "geonames": 3181042
         },
-        "names": {
-            "long": "Campania"
+        "long": {
+            "default": "Campania"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "02",
             "geonames": 3182306
         },
-        "names": {
-            "long": "Basilicate"
+        "long": {
+            "default": "Basilicate"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "01",
             "geonames": 3183560
         },
-        "names": {
-            "long": "Abruzzo"
+        "long": {
+            "default": "Abruzzo"
         }
     }
 ]

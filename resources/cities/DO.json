@@ -1,7 +1,11 @@
 {
     "3491941": {
-        "geoid": "3491941",
-        "name": "Villa Francisca",
+        "ids": {
+            "geonames": 3491941
+        },
+        "long": {
+            "default": "Villa Francisca"
+        },
         "lat": 18.46667,
         "lng": -69.9,
         "country": "DO",
@@ -9,8 +13,12 @@
         "population": 50185
     },
     "3492908": {
-        "geoid": "3492908",
-        "name": "Santo Domingo",
+        "ids": {
+            "geonames": 3492908
+        },
+        "long": {
+            "default": "Santo Domingo"
+        },
         "lat": 18.50012,
         "lng": -69.98857,
         "country": "DO",
@@ -18,8 +26,12 @@
         "population": 2201941
     },
     "3492914": {
-        "geoid": "3492914",
-        "name": "Santiago de los Caballeros",
+        "ids": {
+            "geonames": 3492914
+        },
+        "long": {
+            "default": "Santiago de los Caballeros"
+        },
         "lat": 19.4517,
         "lng": -70.69703,
         "country": "DO",
@@ -27,8 +39,12 @@
         "population": 1200000
     },
     "3492985": {
-        "geoid": "3492985",
-        "name": "Santa Cruz de Barahona",
+        "ids": {
+            "geonames": 3492985
+        },
+        "long": {
+            "default": "Santa Cruz de Barahona"
+        },
         "lat": 18.20854,
         "lng": -71.10077,
         "country": "DO",
@@ -36,8 +52,12 @@
         "population": 77160
     },
     "3493032": {
-        "geoid": "3493032",
-        "name": "San Pedro de Macorís",
+        "ids": {
+            "geonames": 3493032
+        },
+        "long": {
+            "default": "San Pedro de Macorís"
+        },
         "lat": 18.46156,
         "lng": -69.29718,
         "country": "DO",
@@ -45,8 +65,12 @@
         "population": 217899
     },
     "3493081": {
-        "geoid": "3493081",
-        "name": "San Juan de la Maguana",
+        "ids": {
+            "geonames": 3493081
+        },
+        "long": {
+            "default": "San Juan de la Maguana"
+        },
         "lat": 18.80588,
         "lng": -71.22991,
         "country": "DO",
@@ -54,8 +78,12 @@
         "population": 72950
     },
     "3493146": {
-        "geoid": "3493146",
-        "name": "San Francisco de Macorís",
+        "ids": {
+            "geonames": 3493146
+        },
+        "long": {
+            "default": "San Francisco de Macorís"
+        },
         "lat": 19.30099,
         "lng": -70.25259,
         "country": "DO",
@@ -63,8 +91,12 @@
         "population": 124763
     },
     "3493175": {
-        "geoid": "3493175",
-        "name": "Puerto Plata",
+        "ids": {
+            "geonames": 3493175
+        },
+        "long": {
+            "default": "Puerto Plata"
+        },
         "lat": 19.79344,
         "lng": -70.6884,
         "country": "DO",
@@ -72,8 +104,12 @@
         "population": 146000
     },
     "3493240": {
-        "geoid": "3493240",
-        "name": "Salvaleón de Higüey",
+        "ids": {
+            "geonames": 3493240
+        },
+        "long": {
+            "default": "Salvaleón de Higüey"
+        },
         "lat": 18.61501,
         "lng": -68.70798,
         "country": "DO",
@@ -81,8 +117,12 @@
         "population": 123787
     },
     "3494242": {
-        "geoid": "3494242",
-        "name": "Punta Cana",
+        "ids": {
+            "geonames": 3494242
+        },
+        "long": {
+            "default": "Punta Cana"
+        },
         "lat": 18.58182,
         "lng": -68.40431,
         "country": "DO",
@@ -90,8 +130,12 @@
         "population": 100023
     },
     "3496331": {
-        "geoid": "3496331",
-        "name": "Moca",
+        "ids": {
+            "geonames": 3496331
+        },
+        "long": {
+            "default": "Moca"
+        },
         "lat": 19.39352,
         "lng": -70.52598,
         "country": "DO",
@@ -99,8 +143,12 @@
         "population": 61834
     },
     "3500957": {
-        "geoid": "3500957",
-        "name": "La Romana",
+        "ids": {
+            "geonames": 3500957
+        },
+        "long": {
+            "default": "La Romana"
+        },
         "lat": 18.42733,
         "lng": -68.97285,
         "country": "DO",
@@ -108,8 +156,12 @@
         "population": 208437
     },
     "3509382": {
-        "geoid": "3509382",
-        "name": "Concepción de La Vega",
+        "ids": {
+            "geonames": 3509382
+        },
+        "long": {
+            "default": "Concepción de La Vega"
+        },
         "lat": 19.22207,
         "lng": -70.52956,
         "country": "DO",
@@ -117,8 +169,12 @@
         "population": 102426
     },
     "3511233": {
-        "geoid": "3511233",
-        "name": "Bonao",
+        "ids": {
+            "geonames": 3511233
+        },
+        "long": {
+            "default": "Bonao"
+        },
         "lat": 18.93687,
         "lng": -70.40923,
         "country": "DO",
@@ -126,8 +182,12 @@
         "population": 73269
     },
     "3511540": {
-        "geoid": "3511540",
-        "name": "San Cristóbal",
+        "ids": {
+            "geonames": 3511540
+        },
+        "long": {
+            "default": "San Cristóbal"
+        },
         "lat": 18.41667,
         "lng": -70.1,
         "country": "DO",
@@ -135,8 +195,12 @@
         "population": 154040
     },
     "3511550": {
-        "geoid": "3511550",
-        "name": "Bella Vista",
+        "ids": {
+            "geonames": 3511550
+        },
+        "long": {
+            "default": "Bella Vista"
+        },
         "lat": 18.45539,
         "lng": -69.9454,
         "country": "DO",
@@ -144,8 +208,12 @@
         "population": 175683
     },
     "3512067": {
-        "geoid": "3512067",
-        "name": "Baní",
+        "ids": {
+            "geonames": 3512067
+        },
+        "long": {
+            "default": "Baní"
+        },
         "lat": 18.27964,
         "lng": -70.33185,
         "country": "DO",
@@ -153,8 +221,12 @@
         "population": 66709
     },
     "3512128": {
-        "geoid": "3512128",
-        "name": "Bajos de Haina",
+        "ids": {
+            "geonames": 3512128
+        },
+        "long": {
+            "default": "Bajos de Haina"
+        },
         "lat": 18.41538,
         "lng": -70.03317,
         "country": "DO",
@@ -162,8 +234,12 @@
         "population": 66784
     },
     "3512208": {
-        "geoid": "3512208",
-        "name": "Azua",
+        "ids": {
+            "geonames": 3512208
+        },
+        "long": {
+            "default": "Azua"
+        },
         "lat": 18.45319,
         "lng": -70.7349,
         "country": "DO",
@@ -171,8 +247,12 @@
         "population": 59139
     },
     "7874116": {
-        "geoid": "7874116",
-        "name": "Santo Domingo Oeste",
+        "ids": {
+            "geonames": 7874116
+        },
+        "long": {
+            "default": "Santo Domingo Oeste"
+        },
         "lat": 18.5,
         "lng": -70,
         "country": "DO",

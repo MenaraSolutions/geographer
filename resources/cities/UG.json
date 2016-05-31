@@ -1,7 +1,11 @@
 {
     "226234": {
-        "geoid": "226234",
-        "name": "Soroti",
+        "ids": {
+            "geonames": 226234
+        },
+        "long": {
+            "default": "Soroti"
+        },
         "lat": 1.71464,
         "lng": 33.61113,
         "country": "UG",
@@ -9,8 +13,12 @@
         "population": 56400
     },
     "227812": {
-        "geoid": "227812",
-        "name": "Njeru",
+        "ids": {
+            "geonames": 227812
+        },
+        "long": {
+            "default": "Njeru"
+        },
         "lat": 0.41861,
         "lng": 33.17306,
         "country": "UG",
@@ -18,8 +26,12 @@
         "population": 61952
     },
     "228853": {
-        "geoid": "228853",
-        "name": "Mukono",
+        "ids": {
+            "geonames": 228853
+        },
+        "long": {
+            "default": "Mukono"
+        },
         "lat": 0.35333,
         "lng": 32.75528,
         "country": "UG",
@@ -27,8 +39,12 @@
         "population": 67290
     },
     "229268": {
-        "geoid": "229268",
-        "name": "Mbarara",
+        "ids": {
+            "geonames": 229268
+        },
+        "long": {
+            "default": "Mbarara"
+        },
         "lat": -0.60467,
         "lng": 30.64851,
         "country": "UG",
@@ -36,8 +52,12 @@
         "population": 97500
     },
     "229278": {
-        "geoid": "229278",
-        "name": "Mbale",
+        "ids": {
+            "geonames": 229278
+        },
+        "long": {
+            "default": "Mbale"
+        },
         "lat": 1.08209,
         "lng": 34.17503,
         "country": "UG",
@@ -45,8 +65,12 @@
         "population": 76493
     },
     "229380": {
-        "geoid": "229380",
-        "name": "Masaka",
+        "ids": {
+            "geonames": 229380
+        },
+        "long": {
+            "default": "Masaka"
+        },
         "lat": -0.33379,
         "lng": 31.73409,
         "country": "UG",
@@ -54,8 +78,12 @@
         "population": 65373
     },
     "230166": {
-        "geoid": "230166",
-        "name": "Lira",
+        "ids": {
+            "geonames": 230166
+        },
+        "long": {
+            "default": "Lira"
+        },
         "lat": 2.2499,
         "lng": 32.89985,
         "country": "UG",
@@ -63,8 +91,12 @@
         "population": 119323
     },
     "230893": {
-        "geoid": "230893",
-        "name": "Kitgum",
+        "ids": {
+            "geonames": 230893
+        },
+        "long": {
+            "default": "Kitgum"
+        },
         "lat": 3.27833,
         "lng": 32.88667,
         "country": "UG",
@@ -72,8 +104,12 @@
         "population": 56891
     },
     "232066": {
-        "geoid": "232066",
-        "name": "Kasese",
+        "ids": {
+            "geonames": 232066
+        },
+        "long": {
+            "default": "Kasese"
+        },
         "lat": 0.18333,
         "lng": 30.08333,
         "country": "UG",
@@ -81,8 +117,12 @@
         "population": 67269
     },
     "232422": {
-        "geoid": "232422",
-        "name": "Kampala",
+        "ids": {
+            "geonames": 232422
+        },
+        "long": {
+            "default": "Kampala"
+        },
         "lat": 0.31628,
         "lng": 32.58219,
         "country": "UG",
@@ -90,8 +130,12 @@
         "population": 1353189
     },
     "233114": {
-        "geoid": "233114",
-        "name": "Jinja",
+        "ids": {
+            "geonames": 233114
+        },
+        "long": {
+            "default": "Jinja"
+        },
         "lat": 0.43902,
         "lng": 33.20317,
         "country": "UG",
@@ -99,8 +143,12 @@
         "population": 93061
     },
     "233346": {
-        "geoid": "233346",
-        "name": "Gulu",
+        "ids": {
+            "geonames": 233346
+        },
+        "long": {
+            "default": "Gulu"
+        },
         "lat": 2.77457,
         "lng": 32.29899,
         "country": "UG",
@@ -108,8 +156,12 @@
         "population": 146858
     },
     "233508": {
-        "geoid": "233508",
-        "name": "Entebbe",
+        "ids": {
+            "geonames": 233508
+        },
+        "long": {
+            "default": "Entebbe"
+        },
         "lat": 0.06444,
         "lng": 32.44694,
         "country": "UG",
@@ -117,8 +169,12 @@
         "population": 62969
     },
     "233730": {
-        "geoid": "233730",
-        "name": "Bwizibwera",
+        "ids": {
+            "geonames": 233730
+        },
+        "long": {
+            "default": "Bwizibwera"
+        },
         "lat": -0.59167,
         "lng": 30.62861,
         "country": "UG",
@@ -126,8 +182,12 @@
         "population": 79157
     },
     "235039": {
-        "geoid": "235039",
-        "name": "Arua",
+        "ids": {
+            "geonames": 235039
+        },
+        "long": {
+            "default": "Arua"
+        },
         "lat": 3.02013,
         "lng": 30.91105,
         "country": "UG",

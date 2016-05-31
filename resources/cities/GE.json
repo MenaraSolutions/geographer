@@ -1,7 +1,11 @@
 {
     "610824": {
-        "geoid": "610824",
-        "name": "Zugdidi",
+        "ids": {
+            "geonames": 610824
+        },
+        "long": {
+            "default": "Zugdidi"
+        },
         "lat": 42.5088,
         "lng": 41.87088,
         "country": "GE",
@@ -9,8 +13,12 @@
         "population": 73006
     },
     "611717": {
-        "geoid": "611717",
-        "name": "Tbilisi",
+        "ids": {
+            "geonames": 611717
+        },
+        "long": {
+            "default": "Tbilisi"
+        },
         "lat": 41.69411,
         "lng": 44.83368,
         "country": "GE",
@@ -18,8 +26,12 @@
         "population": 1049498
     },
     "611847": {
-        "geoid": "611847",
-        "name": "Sokhumi",
+        "ids": {
+            "geonames": 611847
+        },
+        "long": {
+            "default": "Sokhumi"
+        },
         "lat": 43.00697,
         "lng": 40.9893,
         "country": "GE",
@@ -27,8 +39,12 @@
         "population": 81546
     },
     "613607": {
-        "geoid": "613607",
-        "name": "Kutaisi",
+        "ids": {
+            "geonames": 613607
+        },
+        "long": {
+            "default": "Kutaisi"
+        },
         "lat": 42.26791,
         "lng": 42.69459,
         "country": "GE",
@@ -36,8 +52,12 @@
         "population": 178338
     },
     "615532": {
-        "geoid": "615532",
-        "name": "Batumi",
+        "ids": {
+            "geonames": 615532
+        },
+        "long": {
+            "default": "Batumi"
+        },
         "lat": 41.64228,
         "lng": 41.63392,
         "country": "GE",

@@ -4,8 +4,8 @@
             "fips": "52",
             "geonames": 453751
         },
-        "names": {
-            "long": "Razgrad"
+        "long": {
+            "default": "Razgrad"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "47",
             "geonames": 453753
         },
-        "names": {
-            "long": "Montana"
+        "long": {
+            "default": "Montana"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "64",
             "geonames": 725713
         },
-        "names": {
-            "long": "Vratsa"
+        "long": {
+            "default": "Vratsa"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "61",
             "geonames": 726051
         },
-        "names": {
-            "long": "Varna"
+        "long": {
+            "default": "Varna"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "40",
             "geonames": 726419
         },
-        "names": {
-            "long": "Dobrich"
+        "long": {
+            "default": "Dobrich"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "58",
             "geonames": 727012
         },
-        "names": {
-            "long": "Sofia Province"
+        "long": {
+            "default": "Sofia Province"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "53",
             "geonames": 727524
         },
-        "names": {
-            "long": "Ruse"
+        "long": {
+            "default": "Ruse"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "51",
             "geonames": 728194
         },
-        "names": {
-            "long": "Plovdiv"
+        "long": {
+            "default": "Plovdiv"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "50",
             "geonames": 728204
         },
-        "names": {
-            "long": "Pleven"
+        "long": {
+            "default": "Pleven"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "49",
             "geonames": 728331
         },
-        "names": {
-            "long": "Pernik"
+        "long": {
+            "default": "Pernik"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "48",
             "geonames": 728379
         },
-        "names": {
-            "long": "Pazardzhik"
+        "long": {
+            "default": "Pazardzhik"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "46",
             "geonames": 729560
         },
-        "names": {
-            "long": "Lovech"
+        "long": {
+            "default": "Lovech"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "43",
             "geonames": 730436
         },
-        "names": {
-            "long": "Khaskovo"
+        "long": {
+            "default": "Khaskovo"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "42",
             "geonames": 731061
         },
-        "names": {
-            "long": "Sofia-Capital"
+        "long": {
+            "default": "Sofia-Capital"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "39",
             "geonames": 732771
         },
-        "names": {
-            "long": "Burgas"
+        "long": {
+            "default": "Burgas"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "38",
             "geonames": 733192
         },
-        "names": {
-            "long": "Blagoevgrad"
+        "long": {
+            "default": "Blagoevgrad"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "41",
             "geonames": 864552
         },
-        "names": {
-            "long": "Gabrovo"
+        "long": {
+            "default": "Gabrovo"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "44",
             "geonames": 864553
         },
-        "names": {
-            "long": "Kŭrdzhali"
+        "long": {
+            "default": "Kŭrdzhali"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "45",
             "geonames": 864554
         },
-        "names": {
-            "long": "Kyustendil"
+        "long": {
+            "default": "Kyustendil"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "54",
             "geonames": 864555
         },
-        "names": {
-            "long": "Shumen"
+        "long": {
+            "default": "Shumen"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "55",
             "geonames": 864556
         },
-        "names": {
-            "long": "Silistra"
+        "long": {
+            "default": "Silistra"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "56",
             "geonames": 864557
         },
-        "names": {
-            "long": "Sliven"
+        "long": {
+            "default": "Sliven"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "57",
             "geonames": 864558
         },
-        "names": {
-            "long": "Smolyan"
+        "long": {
+            "default": "Smolyan"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "59",
             "geonames": 864559
         },
-        "names": {
-            "long": "Stara Zagora"
+        "long": {
+            "default": "Stara Zagora"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "60",
             "geonames": 864560
         },
-        "names": {
-            "long": "Tŭrgovishte"
+        "long": {
+            "default": "Tŭrgovishte"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "62",
             "geonames": 864561
         },
-        "names": {
-            "long": "Veliko Tŭrnovo"
+        "long": {
+            "default": "Veliko Tŭrnovo"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "63",
             "geonames": 864562
         },
-        "names": {
-            "long": "Vidin"
+        "long": {
+            "default": "Vidin"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "65",
             "geonames": 864563
         },
-        "names": {
-            "long": "Yambol"
+        "long": {
+            "default": "Yambol"
         }
     }
 ]

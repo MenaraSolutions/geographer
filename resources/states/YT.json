@@ -4,8 +4,8 @@
             "fips": "97601",
             "geonames": 7521421
         },
-        "names": {
-            "long": "Acoua"
+        "long": {
+            "default": "Acoua"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "97602",
             "geonames": 7521422
         },
-        "names": {
-            "long": "Bandraboua"
+        "long": {
+            "default": "Bandraboua"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "97603",
             "geonames": 7521423
         },
-        "names": {
-            "long": "Bandrele"
+        "long": {
+            "default": "Bandrele"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "97604",
             "geonames": 7521424
         },
-        "names": {
-            "long": "Bouéni"
+        "long": {
+            "default": "Bouéni"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "97605",
             "geonames": 7521425
         },
-        "names": {
-            "long": "Chiconi"
+        "long": {
+            "default": "Chiconi"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "97606",
             "geonames": 7521426
         },
-        "names": {
-            "long": "Chirongui"
+        "long": {
+            "default": "Chirongui"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "97607",
             "geonames": 7521427
         },
-        "names": {
-            "long": "Dembeni"
+        "long": {
+            "default": "Dembeni"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "97608",
             "geonames": 7521428
         },
-        "names": {
-            "long": "Dzaoudzi"
+        "long": {
+            "default": "Dzaoudzi"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "97609",
             "geonames": 7521429
         },
-        "names": {
-            "long": "Kani-Kéli"
+        "long": {
+            "default": "Kani-Kéli"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "97610",
             "geonames": 7521430
         },
-        "names": {
-            "long": "Koungou"
+        "long": {
+            "default": "Koungou"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "97611",
             "geonames": 7521431
         },
-        "names": {
-            "long": "Mamoudzou"
+        "long": {
+            "default": "Mamoudzou"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "97612",
             "geonames": 7521432
         },
-        "names": {
-            "long": "Mtsamboro"
+        "long": {
+            "default": "Mtsamboro"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "97613",
             "geonames": 7521433
         },
-        "names": {
-            "long": "M'Tsangamouji"
+        "long": {
+            "default": "M'Tsangamouji"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "97614",
             "geonames": 7521434
         },
-        "names": {
-            "long": "Ouangani"
+        "long": {
+            "default": "Ouangani"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "97615",
             "geonames": 7521435
         },
-        "names": {
-            "long": "Pamandzi"
+        "long": {
+            "default": "Pamandzi"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "97616",
             "geonames": 7521436
         },
-        "names": {
-            "long": "Sada"
+        "long": {
+            "default": "Sada"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "97617",
             "geonames": 7521437
         },
-        "names": {
-            "long": "Tsingoni"
+        "long": {
+            "default": "Tsingoni"
         }
     }
 ]

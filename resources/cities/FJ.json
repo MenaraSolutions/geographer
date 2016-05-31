@@ -1,7 +1,11 @@
 {
     "2198148": {
-        "geoid": "2198148",
-        "name": "Suva",
+        "ids": {
+            "geonames": 2198148
+        },
+        "long": {
+            "default": "Suva"
+        },
         "lat": -18.14161,
         "lng": 178.44149,
         "country": "FJ",
@@ -9,8 +13,12 @@
         "population": 77366
     },
     "2204506": {
-        "geoid": "2204506",
-        "name": "Lautoka",
+        "ids": {
+            "geonames": 2204506
+        },
+        "long": {
+            "default": "Lautoka"
+        },
         "lat": -17.61667,
         "lng": 177.46667,
         "country": "FJ",

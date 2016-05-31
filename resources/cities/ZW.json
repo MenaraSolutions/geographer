@@ -1,7 +1,11 @@
 {
     "884141": {
-        "geoid": "884141",
-        "name": "Norton",
+        "ids": {
+            "geonames": 884141
+        },
+        "long": {
+            "default": "Norton"
+        },
         "lat": -17.88333,
         "lng": 30.7,
         "country": "ZW",
@@ -9,8 +13,12 @@
         "population": 52054
     },
     "884979": {
-        "geoid": "884979",
-        "name": "Mutare",
+        "ids": {
+            "geonames": 884979
+        },
+        "long": {
+            "default": "Mutare"
+        },
         "lat": -18.9707,
         "lng": 32.67086,
         "country": "ZW",
@@ -18,8 +26,12 @@
         "population": 184205
     },
     "886763": {
-        "geoid": "886763",
-        "name": "Masvingo",
+        "ids": {
+            "geonames": 886763
+        },
+        "long": {
+            "default": "Masvingo"
+        },
         "lat": -20.06373,
         "lng": 30.82766,
         "country": "ZW",
@@ -27,8 +39,12 @@
         "population": 76290
     },
     "886990": {
-        "geoid": "886990",
-        "name": "Marondera",
+        "ids": {
+            "geonames": 886990
+        },
+        "long": {
+            "default": "Marondera"
+        },
         "lat": -18.18527,
         "lng": 31.55193,
         "country": "ZW",
@@ -36,8 +52,12 @@
         "population": 57082
     },
     "888710": {
-        "geoid": "888710",
-        "name": "Kwekwe",
+        "ids": {
+            "geonames": 888710
+        },
+        "long": {
+            "default": "Kwekwe"
+        },
         "lat": -18.92809,
         "lng": 29.81486,
         "country": "ZW",
@@ -45,8 +65,12 @@
         "population": 99149
     },
     "889453": {
-        "geoid": "889453",
-        "name": "Kadoma",
+        "ids": {
+            "geonames": 889453
+        },
+        "long": {
+            "default": "Kadoma"
+        },
         "lat": -18.33328,
         "lng": 29.91534,
         "country": "ZW",
@@ -54,8 +78,12 @@
         "population": 79174
     },
     "890299": {
-        "geoid": "890299",
-        "name": "Harare",
+        "ids": {
+            "geonames": 890299
+        },
+        "long": {
+            "default": "Harare"
+        },
         "lat": -17.82772,
         "lng": 31.05337,
         "country": "ZW",
@@ -63,8 +91,12 @@
         "population": 1542813
     },
     "890422": {
-        "geoid": "890422",
-        "name": "Gweru",
+        "ids": {
+            "geonames": 890422
+        },
+        "long": {
+            "default": "Gweru"
+        },
         "lat": -19.45,
         "lng": 29.81667,
         "country": "ZW",
@@ -72,8 +104,12 @@
         "population": 146073
     },
     "893697": {
-        "geoid": "893697",
-        "name": "Chinhoyi",
+        "ids": {
+            "geonames": 893697
+        },
+        "long": {
+            "default": "Chinhoyi"
+        },
         "lat": -17.36667,
         "lng": 30.2,
         "country": "ZW",
@@ -81,8 +117,12 @@
         "population": 61739
     },
     "894701": {
-        "geoid": "894701",
-        "name": "Bulawayo",
+        "ids": {
+            "geonames": 894701
+        },
+        "long": {
+            "default": "Bulawayo"
+        },
         "lat": -20.15,
         "lng": 28.58333,
         "country": "ZW",
@@ -90,8 +130,12 @@
         "population": 699385
     },
     "1085510": {
-        "geoid": "1085510",
-        "name": "Epworth",
+        "ids": {
+            "geonames": 1085510
+        },
+        "long": {
+            "default": "Epworth"
+        },
         "lat": -17.89,
         "lng": 31.1475,
         "country": "ZW",
@@ -99,8 +143,12 @@
         "population": 123250
     },
     "1106542": {
-        "geoid": "1106542",
-        "name": "Chitungwiza",
+        "ids": {
+            "geonames": 1106542
+        },
+        "long": {
+            "default": "Chitungwiza"
+        },
         "lat": -18.01274,
         "lng": 31.07555,
         "country": "ZW",

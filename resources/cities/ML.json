@@ -1,7 +1,11 @@
 {
     "2451185": {
-        "geoid": "2451185",
-        "name": "Sikasso",
+        "ids": {
+            "geonames": 2451185
+        },
+        "long": {
+            "default": "Sikasso"
+        },
         "lat": 11.31755,
         "lng": -5.66654,
         "country": "ML",
@@ -9,8 +13,12 @@
         "population": 144786
     },
     "2451478": {
-        "geoid": "2451478",
-        "name": "Ségou",
+        "ids": {
+            "geonames": 2451478
+        },
+        "long": {
+            "default": "Ségou"
+        },
         "lat": 13.4317,
         "lng": -6.2157,
         "country": "ML",
@@ -18,8 +26,12 @@
         "population": 92552
     },
     "2453348": {
-        "geoid": "2453348",
-        "name": "Mopti",
+        "ids": {
+            "geonames": 2453348
+        },
+        "long": {
+            "default": "Mopti"
+        },
         "lat": 14.4843,
         "lng": -4.18296,
         "country": "ML",
@@ -27,8 +39,12 @@
         "population": 108456
     },
     "2453662": {
-        "geoid": "2453662",
-        "name": "Markala",
+        "ids": {
+            "geonames": 2453662
+        },
+        "long": {
+            "default": "Markala"
+        },
         "lat": 13.7021,
         "lng": -6.0659,
         "country": "ML",
@@ -36,8 +52,12 @@
         "population": 53738
     },
     "2454268": {
-        "geoid": "2454268",
-        "name": "Koutiala",
+        "ids": {
+            "geonames": 2454268
+        },
+        "long": {
+            "default": "Koutiala"
+        },
         "lat": 12.39173,
         "lng": -5.46421,
         "country": "ML",
@@ -45,8 +65,12 @@
         "population": 99353
     },
     "2455518": {
-        "geoid": "2455518",
-        "name": "Kayes",
+        "ids": {
+            "geonames": 2455518
+        },
+        "long": {
+            "default": "Kayes"
+        },
         "lat": 14.44693,
         "lng": -11.44448,
         "country": "ML",
@@ -54,8 +78,12 @@
         "population": 78406
     },
     "2457163": {
-        "geoid": "2457163",
-        "name": "Gao",
+        "ids": {
+            "geonames": 2457163
+        },
+        "long": {
+            "default": "Gao"
+        },
         "lat": 16.27167,
         "lng": -0.04472,
         "country": "ML",
@@ -63,8 +91,12 @@
         "population": 87000
     },
     "2460596": {
-        "geoid": "2460596",
-        "name": "Bamako",
+        "ids": {
+            "geonames": 2460596
+        },
+        "long": {
+            "default": "Bamako"
+        },
         "lat": 12.65,
         "lng": -8,
         "country": "ML",

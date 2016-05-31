@@ -1,7 +1,11 @@
 {
     "454432": {
-        "geoid": "454432",
-        "name": "Vec-Liepāja",
+        "ids": {
+            "geonames": 454432
+        },
+        "long": {
+            "default": "Vec-Liepāja"
+        },
         "lat": 56.53333,
         "lng": 21.01667,
         "country": "LV",
@@ -9,8 +13,12 @@
         "population": 85260
     },
     "456172": {
-        "geoid": "456172",
-        "name": "Riga",
+        "ids": {
+            "geonames": 456172
+        },
+        "long": {
+            "default": "Riga"
+        },
         "lat": 56.946,
         "lng": 24.10589,
         "country": "LV",
@@ -18,8 +26,12 @@
         "population": 742572
     },
     "457954": {
-        "geoid": "457954",
-        "name": "Liepāja",
+        "ids": {
+            "geonames": 457954
+        },
+        "long": {
+            "default": "Liepāja"
+        },
         "lat": 56.51667,
         "lng": 21.01667,
         "country": "LV",
@@ -27,8 +39,12 @@
         "population": 85132
     },
     "459201": {
-        "geoid": "459201",
-        "name": "Jūrmala",
+        "ids": {
+            "geonames": 459201
+        },
+        "long": {
+            "default": "Jūrmala"
+        },
         "lat": 56.968,
         "lng": 23.77038,
         "country": "LV",
@@ -36,8 +52,12 @@
         "population": 54088
     },
     "459279": {
-        "geoid": "459279",
-        "name": "Jelgava",
+        "ids": {
+            "geonames": 459279
+        },
+        "long": {
+            "default": "Jelgava"
+        },
         "lat": 56.65,
         "lng": 23.71278,
         "country": "LV",
@@ -45,8 +65,12 @@
         "population": 61791
     },
     "460413": {
-        "geoid": "460413",
-        "name": "Daugavpils",
+        "ids": {
+            "geonames": 460413
+        },
+        "long": {
+            "default": "Daugavpils"
+        },
         "lat": 55.88333,
         "lng": 26.53333,
         "country": "LV",

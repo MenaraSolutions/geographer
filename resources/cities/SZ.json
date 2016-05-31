@@ -1,7 +1,11 @@
 {
     "934985": {
-        "geoid": "934985",
-        "name": "Mbabane",
+        "ids": {
+            "geonames": 934985
+        },
+        "long": {
+            "default": "Mbabane"
+        },
         "lat": -26.31667,
         "lng": 31.13333,
         "country": "SZ",
@@ -9,8 +13,12 @@
         "population": 76218
     },
     "934995": {
-        "geoid": "934995",
-        "name": "Manzini",
+        "ids": {
+            "geonames": 934995
+        },
+        "long": {
+            "default": "Manzini"
+        },
         "lat": -26.49884,
         "lng": 31.38004,
         "country": "SZ",

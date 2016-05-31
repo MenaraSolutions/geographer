@@ -1,7 +1,11 @@
 {
     "246013": {
-        "geoid": "246013",
-        "name": "Wādī as Sīr",
+        "ids": {
+            "geonames": 246013
+        },
+        "long": {
+            "default": "Wādī as Sīr"
+        },
         "lat": 31.9545,
         "lng": 35.81831,
         "country": "JO",
@@ -9,8 +13,12 @@
         "population": 181212
     },
     "248370": {
-        "geoid": "248370",
-        "name": "Mādabā",
+        "ids": {
+            "geonames": 248370
+        },
+        "long": {
+            "default": "Mādabā"
+        },
         "lat": 31.71599,
         "lng": 35.79392,
         "country": "JO",
@@ -18,8 +26,12 @@
         "population": 82335
     },
     "248382": {
-        "geoid": "248382",
-        "name": "Ma'an",
+        "ids": {
+            "geonames": 248382
+        },
+        "long": {
+            "default": "Ma'an"
+        },
         "lat": 30.19624,
         "lng": 35.73405,
         "country": "JO",
@@ -27,8 +39,12 @@
         "population": 50350
     },
     "248946": {
-        "geoid": "248946",
-        "name": "Irbid",
+        "ids": {
+            "geonames": 248946
+        },
+        "long": {
+            "default": "Irbid"
+        },
         "lat": 32.55556,
         "lng": 35.85,
         "country": "JO",
@@ -36,8 +52,12 @@
         "population": 307480
     },
     "250090": {
-        "geoid": "250090",
-        "name": "Zarqa",
+        "ids": {
+            "geonames": 250090
+        },
+        "long": {
+            "default": "Zarqa"
+        },
         "lat": 32.07275,
         "lng": 36.08796,
         "country": "JO",
@@ -45,8 +65,12 @@
         "population": 792665
     },
     "250258": {
-        "geoid": "250258",
-        "name": "As Salţ",
+        "ids": {
+            "geonames": 250258
+        },
+        "long": {
+            "default": "As Salţ"
+        },
         "lat": 32.03917,
         "lng": 35.72722,
         "country": "JO",
@@ -54,8 +78,12 @@
         "population": 80189
     },
     "250336": {
-        "geoid": "250336",
-        "name": "Ar Ramthā",
+        "ids": {
+            "geonames": 250336
+        },
+        "long": {
+            "default": "Ar Ramthā"
+        },
         "lat": 32.55873,
         "lng": 36.00816,
         "country": "JO",
@@ -63,8 +91,12 @@
         "population": 74901
     },
     "250441": {
-        "geoid": "250441",
-        "name": "Amman",
+        "ids": {
+            "geonames": 250441
+        },
+        "long": {
+            "default": "Amman"
+        },
         "lat": 31.95522,
         "lng": 35.94503,
         "country": "JO",
@@ -72,8 +104,12 @@
         "population": 1275857
     },
     "250582": {
-        "geoid": "250582",
-        "name": "Mafraq",
+        "ids": {
+            "geonames": 250582
+        },
+        "long": {
+            "default": "Mafraq"
+        },
         "lat": 32.34289,
         "lng": 36.20804,
         "country": "JO",
@@ -81,8 +117,12 @@
         "population": 57118
     },
     "250774": {
-        "geoid": "250774",
-        "name": "Aqaba",
+        "ids": {
+            "geonames": 250774
+        },
+        "long": {
+            "default": "Aqaba"
+        },
         "lat": 29.52667,
         "lng": 35.00778,
         "country": "JO",
@@ -90,8 +130,12 @@
         "population": 95048
     },
     "250799": {
-        "geoid": "250799",
-        "name": "‘Ajlūn",
+        "ids": {
+            "geonames": 250799
+        },
+        "long": {
+            "default": "‘Ajlūn"
+        },
         "lat": 32.33326,
         "lng": 35.75279,
         "country": "JO",
@@ -99,8 +143,12 @@
         "population": 125557
     },
     "7838895": {
-        "geoid": "7838895",
-        "name": "Russeifa",
+        "ids": {
+            "geonames": 7838895
+        },
+        "long": {
+            "default": "Russeifa"
+        },
         "lat": 32.01778,
         "lng": 36.04639,
         "country": "JO",

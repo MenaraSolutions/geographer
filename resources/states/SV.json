@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 3582882
         },
-        "names": {
-            "long": "Usulután"
+        "long": {
+            "default": "Usulután"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "13",
             "geonames": 3583101
         },
-        "names": {
-            "long": "Sonsonate"
+        "long": {
+            "default": "Sonsonate"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "12",
             "geonames": 3583176
         },
-        "names": {
-            "long": "San Vicente"
+        "long": {
+            "default": "San Vicente"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 3583332
         },
-        "names": {
-            "long": "Santa Ana"
+        "long": {
+            "default": "Santa Ana"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 3583360
         },
-        "names": {
-            "long": "San Salvador"
+        "long": {
+            "default": "San Salvador"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 3583462
         },
-        "names": {
-            "long": "San Miguel"
+        "long": {
+            "default": "San Miguel"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 3584317
         },
-        "names": {
-            "long": "Morazán"
+        "long": {
+            "default": "Morazán"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "07",
             "geonames": 3584767
         },
-        "names": {
-            "long": "La Unión"
+        "long": {
+            "default": "La Unión"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 3585087
         },
-        "names": {
-            "long": "La Paz"
+        "long": {
+            "default": "La Paz"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "05",
             "geonames": 3585155
         },
-        "names": {
-            "long": "La Libertad"
+        "long": {
+            "default": "La Libertad"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "04",
             "geonames": 3586831
         },
-        "names": {
-            "long": "Cuscatlán"
+        "long": {
+            "default": "Cuscatlán"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "03",
             "geonames": 3587090
         },
-        "names": {
-            "long": "Chalatenango"
+        "long": {
+            "default": "Chalatenango"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "02",
             "geonames": 3587217
         },
-        "names": {
-            "long": "Cabañas"
+        "long": {
+            "default": "Cabañas"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "01",
             "geonames": 3587425
         },
-        "names": {
-            "long": "Ahuachapán"
+        "long": {
+            "default": "Ahuachapán"
         }
     }
 ]

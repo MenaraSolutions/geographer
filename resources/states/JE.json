@@ -4,8 +4,8 @@
             "fips": "3237072",
             "geonames": 3237072
         },
-        "names": {
-            "long": "St Clement"
+        "long": {
+            "default": "St Clement"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "3237073",
             "geonames": 3237073
         },
-        "names": {
-            "long": "St Saviour"
+        "long": {
+            "default": "St Saviour"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "3237200",
             "geonames": 3237200
         },
-        "names": {
-            "long": "St. Brelade"
+        "long": {
+            "default": "St. Brelade"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "3237203",
             "geonames": 3237203
         },
-        "names": {
-            "long": "Grouville"
+        "long": {
+            "default": "Grouville"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "3237212",
             "geonames": 3237212
         },
-        "names": {
-            "long": "St Mary"
+        "long": {
+            "default": "St Mary"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "3237214",
             "geonames": 3237214
         },
-        "names": {
-            "long": "St Lawrence"
+        "long": {
+            "default": "St Lawrence"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "3237221",
             "geonames": 3237221
         },
-        "names": {
-            "long": "St Peter"
+        "long": {
+            "default": "St Peter"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "3237229",
             "geonames": 3237229
         },
-        "names": {
-            "long": "St Ouen"
+        "long": {
+            "default": "St Ouen"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "3237497",
             "geonames": 3237497
         },
-        "names": {
-            "long": "St John"
+        "long": {
+            "default": "St John"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "3237530",
             "geonames": 3237530
         },
-        "names": {
-            "long": "Trinity"
+        "long": {
+            "default": "Trinity"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "3237716",
             "geonames": 3237716
         },
-        "names": {
-            "long": "St Martîn"
+        "long": {
+            "default": "St Martîn"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "3237864",
             "geonames": 3237864
         },
-        "names": {
-            "long": "St Helier"
+        "long": {
+            "default": "St Helier"
         }
     }
 ]

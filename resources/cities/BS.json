@@ -1,7 +1,11 @@
 {
     "3571824": {
-        "geoid": "3571824",
-        "name": "Nassau",
+        "ids": {
+            "geonames": 3571824
+        },
+        "long": {
+            "default": "Nassau"
+        },
         "lat": 25.05823,
         "lng": -77.34306,
         "country": "BS",

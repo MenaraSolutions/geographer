@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 3573606
         },
-        "names": {
-            "long": "Tobago"
+        "long": {
+            "default": "Tobago"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 3573739
         },
-        "names": {
-            "long": "City of San Fernando"
+        "long": {
+            "default": "City of San Fernando"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 3573891
         },
-        "names": {
-            "long": "City of Port of Spain"
+        "long": {
+            "default": "City of Port of Spain"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 3574155
         },
-        "names": {
-            "long": "Mayaro"
+        "long": {
+            "default": "Mayaro"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "01",
             "geonames": 3575052
         },
-        "names": {
-            "long": "Borough of Arima"
+        "long": {
+            "default": "Borough of Arima"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "CHA",
             "geonames": 7521937
         },
-        "names": {
-            "long": "Chaguanas"
+        "long": {
+            "default": "Chaguanas"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "CTT",
             "geonames": 7521938
         },
-        "names": {
-            "long": "Couva-Tabaquite-Talparo"
+        "long": {
+            "default": "Couva-Tabaquite-Talparo"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "DMN",
             "geonames": 7521939
         },
-        "names": {
-            "long": "Diego Martin"
+        "long": {
+            "default": "Diego Martin"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "ETO",
             "geonames": 7521940
         },
-        "names": {
-            "long": "Eastern Tobago"
+        "long": {
+            "default": "Eastern Tobago"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "PED",
             "geonames": 7521941
         },
-        "names": {
-            "long": "Penal\/Debe"
+        "long": {
+            "default": "Penal\/Debe"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "PRT",
             "geonames": 7521942
         },
-        "names": {
-            "long": "Princes Town"
+        "long": {
+            "default": "Princes Town"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "PTF",
             "geonames": 7521943
         },
-        "names": {
-            "long": "Point Fortin"
+        "long": {
+            "default": "Point Fortin"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "SGE",
             "geonames": 7521944
         },
-        "names": {
-            "long": "Sangre Grande"
+        "long": {
+            "default": "Sangre Grande"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "SIP",
             "geonames": 7521945
         },
-        "names": {
-            "long": "Siparia"
+        "long": {
+            "default": "Siparia"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "SJL",
             "geonames": 7521946
         },
-        "names": {
-            "long": "San Juan\/Laventille"
+        "long": {
+            "default": "San Juan\/Laventille"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "TUP",
             "geonames": 7521947
         },
-        "names": {
-            "long": "Tunapuna\/Piarco"
+        "long": {
+            "default": "Tunapuna\/Piarco"
         }
     }
 ]

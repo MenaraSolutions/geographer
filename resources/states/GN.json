@@ -4,8 +4,8 @@
             "fips": "04",
             "geonames": 2422464
         },
-        "names": {
-            "long": "Conakry"
+        "long": {
+            "default": "Conakry"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "B",
             "geonames": 8335085
         },
-        "names": {
-            "long": "Boke"
+        "long": {
+            "default": "Boke"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "F",
             "geonames": 8335086
         },
-        "names": {
-            "long": "Faranah"
+        "long": {
+            "default": "Faranah"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "K",
             "geonames": 8335087
         },
-        "names": {
-            "long": "Kankan"
+        "long": {
+            "default": "Kankan"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "D",
             "geonames": 8335088
         },
-        "names": {
-            "long": "Kindia"
+        "long": {
+            "default": "Kindia"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "L",
             "geonames": 8335089
         },
-        "names": {
-            "long": "Labe"
+        "long": {
+            "default": "Labe"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "M",
             "geonames": 8335090
         },
-        "names": {
-            "long": "Mamou"
+        "long": {
+            "default": "Mamou"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "N",
             "geonames": 8335091
         },
-        "names": {
-            "long": "Nzerekore"
+        "long": {
+            "default": "Nzerekore"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "3352136": {
-        "geoid": "3352136",
-        "name": "Windhoek",
+        "ids": {
+            "geonames": 3352136
+        },
+        "long": {
+            "default": "Windhoek"
+        },
         "lat": -22.55941,
         "lng": 17.08323,
         "country": "NA",
@@ -9,8 +13,12 @@
         "population": 268132
     },
     "3353383": {
-        "geoid": "3353383",
-        "name": "Rundu",
+        "ids": {
+            "geonames": 3353383
+        },
+        "long": {
+            "default": "Rundu"
+        },
         "lat": -17.93333,
         "lng": 19.76667,
         "country": "NA",
@@ -18,8 +26,12 @@
         "population": 58172
     },
     "3359638": {
-        "geoid": "3359638",
-        "name": "Walvis Bay",
+        "ids": {
+            "geonames": 3359638
+        },
+        "long": {
+            "default": "Walvis Bay"
+        },
         "lat": -22.9575,
         "lng": 14.50528,
         "country": "NA",

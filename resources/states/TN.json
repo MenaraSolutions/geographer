@@ -4,8 +4,8 @@
             "fips": "37",
             "geonames": 2464038
         },
-        "names": {
-            "long": "Zaghwān"
+        "long": {
+            "default": "Zaghwān"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "36",
             "geonames": 2464464
         },
-        "names": {
-            "long": "Tūnis"
+        "long": {
+            "default": "Tūnis"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "35",
             "geonames": 2464645
         },
-        "names": {
-            "long": "Tawzar"
+        "long": {
+            "default": "Tawzar"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "34",
             "geonames": 2464698
         },
-        "names": {
-            "long": "Tataouine"
+        "long": {
+            "default": "Tataouine"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "23",
             "geonames": 2464912
         },
-        "names": {
-            "long": "Sūsah"
+        "long": {
+            "default": "Sūsah"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "22",
             "geonames": 2465027
         },
-        "names": {
-            "long": "Silyānah"
+        "long": {
+            "default": "Silyānah"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "33",
             "geonames": 2465837
         },
-        "names": {
-            "long": "Sīdī Bū Zayd"
+        "long": {
+            "default": "Sīdī Bū Zayd"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "32",
             "geonames": 2467450
         },
-        "names": {
-            "long": "Şafāqis"
+        "long": {
+            "default": "Şafāqis"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "31",
             "geonames": 2468014
         },
-        "names": {
-            "long": "Qibilī"
+        "long": {
+            "default": "Qibilī"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "30",
             "geonames": 2468351
         },
-        "names": {
-            "long": "Gafsa"
+        "long": {
+            "default": "Gafsa"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "29",
             "geonames": 2468365
         },
-        "names": {
-            "long": "Qābis"
+        "long": {
+            "default": "Qābis"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "19",
             "geonames": 2468576
         },
-        "names": {
-            "long": "Nābul"
+        "long": {
+            "default": "Nābul"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "28",
             "geonames": 2469470
         },
-        "names": {
-            "long": "Madanīn"
+        "long": {
+            "default": "Madanīn"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "06",
             "geonames": 2470085
         },
-        "names": {
-            "long": "Jundūbah"
+        "long": {
+            "default": "Jundūbah"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "27",
             "geonames": 2472477
         },
-        "names": {
-            "long": "Bin ‘Arūs"
+        "long": {
+            "default": "Bin ‘Arūs"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "18",
             "geonames": 2472699
         },
-        "names": {
-            "long": "Banzart"
+        "long": {
+            "default": "Banzart"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "17",
             "geonames": 2472770
         },
-        "names": {
-            "long": "Bājah"
+        "long": {
+            "default": "Bājah"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "38",
             "geonames": 2473245
         },
-        "names": {
-            "long": "Ariana"
+        "long": {
+            "default": "Ariana"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "03",
             "geonames": 2473451
         },
-        "names": {
-            "long": "Al Qayrawān"
+        "long": {
+            "default": "Al Qayrawān"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "02",
             "geonames": 2473460
         },
-        "names": {
-            "long": "Al Qaşrayn"
+        "long": {
+            "default": "Al Qaşrayn"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "16",
             "geonames": 2473495
         },
-        "names": {
-            "long": "Al Munastīr"
+        "long": {
+            "default": "Al Munastīr"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "15",
             "geonames": 2473574
         },
-        "names": {
-            "long": "Al Mahdīyah"
+        "long": {
+            "default": "Al Mahdīyah"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "14",
             "geonames": 2473637
         },
-        "names": {
-            "long": "Kef"
+        "long": {
+            "default": "Kef"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "39",
             "geonames": 6201192
         },
-        "names": {
-            "long": "Manouba"
+        "long": {
+            "default": "Manouba"
         }
     }
 ]

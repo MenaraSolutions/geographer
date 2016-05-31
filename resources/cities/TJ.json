@@ -1,7 +1,11 @@
 {
     "1220253": {
-        "geoid": "1220253",
-        "name": "Istaravshan",
+        "ids": {
+            "geonames": 1220253
+        },
+        "long": {
+            "default": "Istaravshan"
+        },
         "lat": 39.9142,
         "lng": 69.00328,
         "country": "TJ",
@@ -9,8 +13,12 @@
         "population": 52851
     },
     "1220747": {
-        "geoid": "1220747",
-        "name": "Qŭrghonteppa",
+        "ids": {
+            "geonames": 1220747
+        },
+        "long": {
+            "default": "Qŭrghonteppa"
+        },
         "lat": 37.83399,
         "lng": 68.78186,
         "country": "TJ",
@@ -18,8 +26,12 @@
         "population": 65000
     },
     "1221194": {
-        "geoid": "1221194",
-        "name": "Kŭlob",
+        "ids": {
+            "geonames": 1221194
+        },
+        "long": {
+            "default": "Kŭlob"
+        },
         "lat": 37.91459,
         "lng": 69.78454,
         "country": "TJ",
@@ -27,8 +39,12 @@
         "population": 78786
     },
     "1221874": {
-        "geoid": "1221874",
-        "name": "Dushanbe",
+        "ids": {
+            "geonames": 1221874
+        },
+        "long": {
+            "default": "Dushanbe"
+        },
         "lat": 38.53575,
         "lng": 68.77905,
         "country": "TJ",
@@ -36,8 +52,12 @@
         "population": 679400
     },
     "1514879": {
-        "geoid": "1514879",
-        "name": "Khŭjand",
+        "ids": {
+            "geonames": 1514879
+        },
+        "long": {
+            "default": "Khŭjand"
+        },
         "lat": 40.28256,
         "lng": 69.62216,
         "country": "TJ",
@@ -45,8 +65,12 @@
         "population": 144865
     },
     "1514891": {
-        "geoid": "1514891",
-        "name": "Konibodom",
+        "ids": {
+            "geonames": 1514891
+        },
+        "long": {
+            "default": "Konibodom"
+        },
         "lat": 40.29414,
         "lng": 70.43122,
         "country": "TJ",

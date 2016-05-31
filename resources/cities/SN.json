@@ -1,7 +1,11 @@
 {
     "2243940": {
-        "geoid": "2243940",
-        "name": "Ziguinchor",
+        "ids": {
+            "geonames": 2243940
+        },
+        "long": {
+            "default": "Ziguinchor"
+        },
         "lat": 12.58333,
         "lng": -16.27194,
         "country": "SN",
@@ -9,8 +13,12 @@
         "population": 159778
     },
     "2244322": {
-        "geoid": "2244322",
-        "name": "Touba",
+        "ids": {
+            "geonames": 2244322
+        },
+        "long": {
+            "default": "Touba"
+        },
         "lat": 14.85,
         "lng": -15.88333,
         "country": "SN",
@@ -18,8 +26,12 @@
         "population": 529176
     },
     "2244616": {
-        "geoid": "2244616",
-        "name": "Tiébo",
+        "ids": {
+            "geonames": 2244616
+        },
+        "long": {
+            "default": "Tiébo"
+        },
         "lat": 14.63333,
         "lng": -16.23333,
         "country": "SN",
@@ -27,8 +39,12 @@
         "population": 100289
     },
     "2244799": {
-        "geoid": "2244799",
-        "name": "Thiès Nones",
+        "ids": {
+            "geonames": 2244799
+        },
+        "long": {
+            "default": "Thiès Nones"
+        },
         "lat": 14.78333,
         "lng": -16.96667,
         "country": "SN",
@@ -36,8 +52,12 @@
         "population": 252320
     },
     "2244991": {
-        "geoid": "2244991",
-        "name": "Tambacounda",
+        "ids": {
+            "geonames": 2244991
+        },
+        "long": {
+            "default": "Tambacounda"
+        },
         "lat": 13.77073,
         "lng": -13.66734,
         "country": "SN",
@@ -45,8 +65,12 @@
         "population": 78800
     },
     "2246452": {
-        "geoid": "2246452",
-        "name": "Saint-Louis",
+        "ids": {
+            "geonames": 2246452
+        },
+        "long": {
+            "default": "Saint-Louis"
+        },
         "lat": 16.01793,
         "lng": -16.48962,
         "country": "SN",
@@ -54,8 +78,12 @@
         "population": 176000
     },
     "2246678": {
-        "geoid": "2246678",
-        "name": "Pikine",
+        "ids": {
+            "geonames": 2246678
+        },
+        "long": {
+            "default": "Pikine"
+        },
         "lat": 14.76457,
         "lng": -17.39071,
         "country": "SN",
@@ -63,8 +91,12 @@
         "population": 874062
     },
     "2248698": {
-        "geoid": "2248698",
-        "name": "Mbaké",
+        "ids": {
+            "geonames": 2248698
+        },
+        "long": {
+            "default": "Mbaké"
+        },
         "lat": 14.79032,
         "lng": -15.90803,
         "country": "SN",
@@ -72,8 +104,12 @@
         "population": 74100
     },
     "2249222": {
-        "geoid": "2249222",
-        "name": "Louga",
+        "ids": {
+            "geonames": 2249222
+        },
+        "long": {
+            "default": "Louga"
+        },
         "lat": 15.61867,
         "lng": -16.22436,
         "country": "SN",
@@ -81,8 +117,12 @@
         "population": 67154
     },
     "2249782": {
-        "geoid": "2249782",
-        "name": "Kolda",
+        "ids": {
+            "geonames": 2249782
+        },
+        "long": {
+            "default": "Kolda"
+        },
         "lat": 12.88333,
         "lng": -14.95,
         "country": "SN",
@@ -90,8 +130,12 @@
         "population": 58809
     },
     "2250805": {
-        "geoid": "2250805",
-        "name": "Kaolack",
+        "ids": {
+            "geonames": 2250805
+        },
+        "long": {
+            "default": "Kaolack"
+        },
         "lat": 14.1825,
         "lng": -16.25333,
         "country": "SN",
@@ -99,8 +143,12 @@
         "population": 172305
     },
     "2253354": {
-        "geoid": "2253354",
-        "name": "Dakar",
+        "ids": {
+            "geonames": 2253354
+        },
+        "long": {
+            "default": "Dakar"
+        },
         "lat": 14.6937,
         "lng": -17.44406,
         "country": "SN",

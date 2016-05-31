@@ -1,7 +1,11 @@
 {
     "2274895": {
-        "geoid": "2274895",
-        "name": "Monrovia",
+        "ids": {
+            "geonames": 2274895
+        },
+        "long": {
+            "default": "Monrovia"
+        },
         "lat": 6.30054,
         "lng": -10.7969,
         "country": "LR",

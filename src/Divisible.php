@@ -190,7 +190,7 @@ abstract class Divisible implements IdentifiableInterface
     public function parent()
     {
         if (! $this->parent) {
-            $this->parent = new $this->parentClass([], null, $this->config);
+            $this->parent = new $this->parentClass([], $this->getCode(), $this->config);
         }
 
         return $this->parent;

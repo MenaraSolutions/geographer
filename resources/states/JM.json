@@ -4,8 +4,8 @@
             "fips": "16",
             "geonames": 3488081
         },
-        "names": {
-            "long": "Westmoreland"
+        "long": {
+            "default": "Westmoreland"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "15",
             "geonames": 3488222
         },
-        "names": {
-            "long": "Trelawny"
+        "long": {
+            "default": "Trelawny"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 3488688
         },
-        "names": {
-            "long": "Saint Thomas"
+        "long": {
+            "default": "Saint Thomas"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "13",
             "geonames": 3488693
         },
-        "names": {
-            "long": "Saint Mary"
+        "long": {
+            "default": "Saint Mary"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "12",
             "geonames": 3488700
         },
-        "names": {
-            "long": "Saint James"
+        "long": {
+            "default": "Saint James"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "11",
             "geonames": 3488708
         },
-        "names": {
-            "long": "St. Elizabeth"
+        "long": {
+            "default": "St. Elizabeth"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "10",
             "geonames": 3488711
         },
-        "names": {
-            "long": "Saint Catherine"
+        "long": {
+            "default": "Saint Catherine"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "09",
             "geonames": 3488715
         },
-        "names": {
-            "long": "Saint Ann"
+        "long": {
+            "default": "Saint Ann"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "08",
             "geonames": 3488716
         },
-        "names": {
-            "long": "Saint Andrew"
+        "long": {
+            "default": "Saint Andrew"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "07",
             "geonames": 3488997
         },
-        "names": {
-            "long": "Portland"
+        "long": {
+            "default": "Portland"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "04",
             "geonames": 3489586
         },
-        "names": {
-            "long": "Manchester"
+        "long": {
+            "default": "Manchester"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "17",
             "geonames": 3489853
         },
-        "names": {
-            "long": "Kingston"
+        "long": {
+            "default": "Kingston"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "02",
             "geonames": 3490145
         },
-        "names": {
-            "long": "Hanover"
+        "long": {
+            "default": "Hanover"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "01",
             "geonames": 3490952
         },
-        "names": {
-            "long": "Clarendon"
+        "long": {
+            "default": "Clarendon"
         }
     }
 ]

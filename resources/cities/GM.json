@@ -1,7 +1,11 @@
 {
     "2413753": {
-        "geoid": "2413753",
-        "name": "Brikama",
+        "ids": {
+            "geonames": 2413753
+        },
+        "long": {
+            "default": "Brikama"
+        },
         "lat": 13.27136,
         "lng": -16.64944,
         "country": "GM",

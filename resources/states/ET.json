@@ -4,8 +4,8 @@
             "fips": "44",
             "geonames": 444178
         },
-        "names": {
-            "long": "Addis Ababa"
+        "long": {
+            "default": "Addis Ababa"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "45",
             "geonames": 444179
         },
-        "names": {
-            "long": "Āfar"
+        "long": {
+            "default": "Āfar"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "46",
             "geonames": 444180
         },
-        "names": {
-            "long": "Amhara"
+        "long": {
+            "default": "Amhara"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "47",
             "geonames": 444181
         },
-        "names": {
-            "long": "Bīnshangul Gumuz"
+        "long": {
+            "default": "Bīnshangul Gumuz"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "48",
             "geonames": 444182
         },
-        "names": {
-            "long": "Dire Dawa"
+        "long": {
+            "default": "Dire Dawa"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "49",
             "geonames": 444183
         },
-        "names": {
-            "long": "Gambela"
+        "long": {
+            "default": "Gambela"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "50",
             "geonames": 444184
         },
-        "names": {
-            "long": "Harari"
+        "long": {
+            "default": "Harari"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "51",
             "geonames": 444185
         },
-        "names": {
-            "long": "Oromiya"
+        "long": {
+            "default": "Oromiya"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "52",
             "geonames": 444186
         },
-        "names": {
-            "long": "Somali"
+        "long": {
+            "default": "Somali"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "53",
             "geonames": 444187
         },
-        "names": {
-            "long": "Tigray"
+        "long": {
+            "default": "Tigray"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "54",
             "geonames": 444188
         },
-        "names": {
-            "long": "Southern Nations, Nationalities, and People's Region"
+        "long": {
+            "default": "Southern Nations, Nationalities, and People's Region"
         }
     }
 ]

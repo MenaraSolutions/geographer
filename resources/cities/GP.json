@@ -1,7 +1,11 @@
 {
     "3578959": {
-        "geoid": "3578959",
-        "name": "Les Abymes",
+        "ids": {
+            "geonames": 3578959
+        },
+        "long": {
+            "default": "Les Abymes"
+        },
         "lat": 16.27095,
         "lng": -61.50451,
         "country": "GP",

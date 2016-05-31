@@ -1,7 +1,11 @@
 {
     "1679432": {
-        "geoid": "1679432",
-        "name": "Zamboanga",
+        "ids": {
+            "geonames": 1679432
+        },
+        "long": {
+            "default": "Zamboanga"
+        },
         "lat": 6.91028,
         "lng": 122.07389,
         "country": "PH",
@@ -9,8 +13,12 @@
         "population": 457623
     },
     "1680007": {
-        "geoid": "1680007",
-        "name": "Victorias",
+        "ids": {
+            "geonames": 1680007
+        },
+        "long": {
+            "default": "Victorias"
+        },
         "lat": 10.90154,
         "lng": 123.0705,
         "country": "PH",
@@ -18,8 +26,12 @@
         "population": 86510
     },
     "1680116": {
-        "geoid": "1680116",
-        "name": "Valencia",
+        "ids": {
+            "geonames": 1680116
+        },
+        "long": {
+            "default": "Valencia"
+        },
         "lat": 7.90639,
         "lng": 125.09417,
         "country": "PH",
@@ -27,8 +39,12 @@
         "population": 83591
     },
     "1680197": {
-        "geoid": "1680197",
-        "name": "Urdaneta",
+        "ids": {
+            "geonames": 1680197
+        },
+        "long": {
+            "default": "Urdaneta"
+        },
         "lat": 15.97611,
         "lng": 120.57111,
         "country": "PH",
@@ -36,8 +52,12 @@
         "population": 101037
     },
     "1680505": {
-        "geoid": "1680505",
-        "name": "Ualog",
+        "ids": {
+            "geonames": 1680505
+        },
+        "long": {
+            "default": "Ualog"
+        },
         "lat": 10.57396,
         "lng": 123.3933,
         "country": "PH",
@@ -45,8 +65,12 @@
         "population": 60548
     },
     "1680932": {
-        "geoid": "1680932",
-        "name": "Tuguegarao City",
+        "ids": {
+            "geonames": 1680932
+        },
+        "long": {
+            "default": "Tuguegarao City"
+        },
         "lat": 17.61306,
         "lng": 121.72694,
         "country": "PH",
@@ -54,8 +78,12 @@
         "population": 115105
     },
     "1681602": {
-        "geoid": "1681602",
-        "name": "Toledo",
+        "ids": {
+            "geonames": 1681602
+        },
+        "long": {
+            "default": "Toledo"
+        },
         "lat": 10.3773,
         "lng": 123.6386,
         "country": "PH",
@@ -63,8 +91,12 @@
         "population": 156916
     },
     "1682598": {
-        "geoid": "1682598",
-        "name": "Taytay",
+        "ids": {
+            "geonames": 1682598
+        },
+        "long": {
+            "default": "Taytay"
+        },
         "lat": 14.55883,
         "lng": 121.13285,
         "country": "PH",
@@ -72,8 +104,12 @@
         "population": 231460
     },
     "1682812": {
-        "geoid": "1682812",
-        "name": "Tarlac City",
+        "ids": {
+            "geonames": 1682812
+        },
+        "long": {
+            "default": "Tarlac City"
+        },
         "lat": 15.48017,
         "lng": 120.59794,
         "country": "PH",
@@ -81,8 +117,12 @@
         "population": 183930
     },
     "1683013": {
-        "geoid": "1683013",
-        "name": "Tanza",
+        "ids": {
+            "geonames": 1683013
+        },
+        "long": {
+            "default": "Tanza"
+        },
         "lat": 14.6753,
         "lng": 120.9389,
         "country": "PH",
@@ -90,8 +130,12 @@
         "population": 105510
     },
     "1683319": {
-        "geoid": "1683319",
-        "name": "Tanay",
+        "ids": {
+            "geonames": 1683319
+        },
+        "long": {
+            "default": "Tanay"
+        },
         "lat": 14.4968,
         "lng": 121.2846,
         "country": "PH",
@@ -99,8 +143,12 @@
         "population": 59950
     },
     "1683340": {
-        "geoid": "1683340",
-        "name": "Tanauan",
+        "ids": {
+            "geonames": 1683340
+        },
+        "long": {
+            "default": "Tanauan"
+        },
         "lat": 14.08627,
         "lng": 121.14975,
         "country": "PH",
@@ -108,8 +156,12 @@
         "population": 68456
     },
     "1683877": {
-        "geoid": "1683877",
-        "name": "Talisay",
+        "ids": {
+            "geonames": 1683877
+        },
+        "long": {
+            "default": "Talisay"
+        },
         "lat": 10.7375,
         "lng": 122.9666,
         "country": "PH",
@@ -117,8 +169,12 @@
         "population": 65265
     },
     "1683881": {
-        "geoid": "1683881",
-        "name": "Talisay",
+        "ids": {
+            "geonames": 1683881
+        },
+        "long": {
+            "default": "Talisay"
+        },
         "lat": 10.24472,
         "lng": 123.84944,
         "country": "PH",
@@ -126,8 +182,12 @@
         "population": 133148
     },
     "1684016": {
-        "geoid": "1684016",
-        "name": "Talavera",
+        "ids": {
+            "geonames": 1684016
+        },
+        "long": {
+            "default": "Talavera"
+        },
         "lat": 15.5883,
         "lng": 120.9192,
         "country": "PH",
@@ -135,8 +195,12 @@
         "population": 64610
     },
     "1684269": {
-        "geoid": "1684269",
-        "name": "Tagum",
+        "ids": {
+            "geonames": 1684269
+        },
+        "long": {
+            "default": "Tagum"
+        },
         "lat": 7.44778,
         "lng": 125.80778,
         "country": "PH",
@@ -144,8 +208,12 @@
         "population": 233254
     },
     "1684308": {
-        "geoid": "1684308",
-        "name": "Taguig",
+        "ids": {
+            "geonames": 1684308
+        },
+        "long": {
+            "default": "Taguig"
+        },
         "lat": 14.5243,
         "lng": 121.0792,
         "country": "PH",
@@ -153,8 +221,12 @@
         "population": 644473
     },
     "1684497": {
-        "geoid": "1684497",
-        "name": "Tagbilaran City",
+        "ids": {
+            "geonames": 1684497
+        },
+        "long": {
+            "default": "Tagbilaran City"
+        },
         "lat": 9.65556,
         "lng": 123.85219,
         "country": "PH",
@@ -162,8 +234,12 @@
         "population": 86411
     },
     "1684681": {
-        "geoid": "1684681",
-        "name": "Tacurong",
+        "ids": {
+            "geonames": 1684681
+        },
+        "long": {
+            "default": "Tacurong"
+        },
         "lat": 6.6925,
         "lng": 124.67639,
         "country": "PH",
@@ -171,8 +247,12 @@
         "population": 54648
     },
     "1685117": {
-        "geoid": "1685117",
-        "name": "Tabaco",
+        "ids": {
+            "geonames": 1685117
+        },
+        "long": {
+            "default": "Tabaco"
+        },
         "lat": 13.35861,
         "lng": 123.73361,
         "country": "PH",
@@ -180,8 +260,12 @@
         "population": 57860
     },
     "1685218": {
-        "geoid": "1685218",
-        "name": "Surigao",
+        "ids": {
+            "geonames": 1685218
+        },
+        "long": {
+            "default": "Surigao"
+        },
         "lat": 9.789,
         "lng": 125.495,
         "country": "PH",
@@ -189,8 +273,12 @@
         "population": 87832
     },
     "1685577": {
-        "geoid": "1685577",
-        "name": "Subic",
+        "ids": {
+            "geonames": 1685577
+        },
+        "long": {
+            "default": "Subic"
+        },
         "lat": 14.87999,
         "lng": 120.23433,
         "country": "PH",
@@ -198,8 +286,12 @@
         "population": 67664
     },
     "1685755": {
-        "geoid": "1685755",
-        "name": "Sorsogon",
+        "ids": {
+            "geonames": 1685755
+        },
+        "long": {
+            "default": "Sorsogon"
+        },
         "lat": 12.97389,
         "lng": 123.99333,
         "country": "PH",
@@ -207,8 +299,12 @@
         "population": 82730
     },
     "1685880": {
-        "geoid": "1685880",
-        "name": "Solana",
+        "ids": {
+            "geonames": 1685880
+        },
+        "long": {
+            "default": "Solana"
+        },
         "lat": 17.6528,
         "lng": 121.691,
         "country": "PH",
@@ -216,8 +312,12 @@
         "population": 71475
     },
     "1686547": {
-        "geoid": "1686547",
-        "name": "Silang",
+        "ids": {
+            "geonames": 1686547
+        },
+        "long": {
+            "default": "Silang"
+        },
         "lat": 14.21567,
         "lng": 120.97137,
         "country": "PH",
@@ -225,8 +325,12 @@
         "population": 119475
     },
     "1687534": {
-        "geoid": "1687534",
-        "name": "Santo Tomas",
+        "ids": {
+            "geonames": 1687534
+        },
+        "long": {
+            "default": "Santo Tomas"
+        },
         "lat": 14.1079,
         "lng": 121.14136,
         "country": "PH",
@@ -234,8 +338,12 @@
         "population": 57438
     },
     "1687687": {
-        "geoid": "1687687",
-        "name": "Santol",
+        "ids": {
+            "geonames": 1687687
+        },
+        "long": {
+            "default": "Santol"
+        },
         "lat": 15.16222,
         "lng": 120.5675,
         "country": "PH",
@@ -243,8 +351,12 @@
         "population": 298976
     },
     "1687801": {
-        "geoid": "1687801",
-        "name": "Santiago",
+        "ids": {
+            "geonames": 1687801
+        },
+        "long": {
+            "default": "Santiago"
+        },
         "lat": 16.68808,
         "lng": 121.5487,
         "country": "PH",
@@ -252,8 +364,12 @@
         "population": 108414
     },
     "1687894": {
-        "geoid": "1687894",
-        "name": "Santa Rosa",
+        "ids": {
+            "geonames": 1687894
+        },
+        "long": {
+            "default": "Santa Rosa"
+        },
         "lat": 14.31222,
         "lng": 121.11139,
         "country": "PH",
@@ -261,8 +377,12 @@
         "population": 216650
     },
     "1688253": {
-        "geoid": "1688253",
-        "name": "Santa Cruz",
+        "ids": {
+            "geonames": 1688253
+        },
+        "long": {
+            "default": "Santa Cruz"
+        },
         "lat": 14.2814,
         "lng": 121.4161,
         "country": "PH",
@@ -270,8 +390,12 @@
         "population": 108145
     },
     "1688749": {
-        "geoid": "1688749",
-        "name": "San Pedro",
+        "ids": {
+            "geonames": 1688749
+        },
+        "long": {
+            "default": "San Pedro"
+        },
         "lat": 14.3595,
         "lng": 121.0473,
         "country": "PH",
@@ -279,8 +403,12 @@
         "population": 270216
     },
     "1688830": {
-        "geoid": "1688830",
-        "name": "San Pablo",
+        "ids": {
+            "geonames": 1688830
+        },
+        "long": {
+            "default": "San Pablo"
+        },
         "lat": 14.0683,
         "lng": 121.3256,
         "country": "PH",
@@ -288,8 +416,12 @@
         "population": 207577
     },
     "1688954": {
-        "geoid": "1688954",
-        "name": "San Miguel",
+        "ids": {
+            "geonames": 1688954
+        },
+        "long": {
+            "default": "San Miguel"
+        },
         "lat": 15.1423,
         "lng": 120.97568,
         "country": "PH",
@@ -297,8 +429,12 @@
         "population": 65661
     },
     "1689056": {
-        "geoid": "1689056",
-        "name": "San Mateo",
+        "ids": {
+            "geonames": 1689056
+        },
+        "long": {
+            "default": "San Mateo"
+        },
         "lat": 14.6982,
         "lng": 121.1236,
         "country": "PH",
@@ -306,8 +442,12 @@
         "population": 134327
     },
     "1689286": {
-        "geoid": "1689286",
-        "name": "San Juan",
+        "ids": {
+            "geonames": 1689286
+        },
+        "long": {
+            "default": "San Juan"
+        },
         "lat": 14.6,
         "lng": 121.0333,
         "country": "PH",
@@ -315,8 +455,12 @@
         "population": 121430
     },
     "1689395": {
-        "geoid": "1689395",
-        "name": "San Jose del Monte",
+        "ids": {
+            "geonames": 1689395
+        },
+        "long": {
+            "default": "San Jose del Monte"
+        },
         "lat": 14.81389,
         "lng": 121.04528,
         "country": "PH",
@@ -324,8 +468,12 @@
         "population": 357828
     },
     "1689510": {
-        "geoid": "1689510",
-        "name": "San Jose",
+        "ids": {
+            "geonames": 1689510
+        },
+        "long": {
+            "default": "San Jose"
+        },
         "lat": 12.35275,
         "lng": 121.06761,
         "country": "PH",
@@ -333,8 +481,12 @@
         "population": 118807
     },
     "1689832": {
-        "geoid": "1689832",
-        "name": "San Ildefonso",
+        "ids": {
+            "geonames": 1689832
+        },
+        "long": {
+            "default": "San Ildefonso"
+        },
         "lat": 15.0809,
         "lng": 120.941,
         "country": "PH",
@@ -342,8 +494,12 @@
         "population": 65669
     },
     "1690033": {
-        "geoid": "1690033",
-        "name": "San Fernando",
+        "ids": {
+            "geonames": 1690033
+        },
+        "long": {
+            "default": "San Fernando"
+        },
         "lat": 16.61591,
         "lng": 120.31663,
         "country": "PH",
@@ -351,8 +507,12 @@
         "population": 83003
     },
     "1690039": {
-        "geoid": "1690039",
-        "name": "San Fernando",
+        "ids": {
+            "geonames": 1690039
+        },
+        "long": {
+            "default": "San Fernando"
+        },
         "lat": 15.0286,
         "lng": 120.6898,
         "country": "PH",
@@ -360,8 +520,12 @@
         "population": 251248
     },
     "1690315": {
-        "geoid": "1690315",
-        "name": "San Antonio",
+        "ids": {
+            "geonames": 1690315
+        },
+        "long": {
+            "default": "San Antonio"
+        },
         "lat": 15.24226,
         "lng": 120.83924,
         "country": "PH",
@@ -369,8 +533,12 @@
         "population": 67446
     },
     "1691150": {
-        "geoid": "1691150",
-        "name": "Sagay",
+        "ids": {
+            "geonames": 1691150
+        },
+        "long": {
+            "default": "Sagay"
+        },
         "lat": 10.94472,
         "lng": 123.42417,
         "country": "PH",
@@ -378,8 +546,12 @@
         "population": 72153
     },
     "1691444": {
-        "geoid": "1691444",
-        "name": "Roxas City",
+        "ids": {
+            "geonames": 1691444
+        },
+        "long": {
+            "default": "Roxas City"
+        },
         "lat": 11.58528,
         "lng": 122.75111,
         "country": "PH",
@@ -387,8 +559,12 @@
         "population": 102688
     },
     "1692192": {
-        "geoid": "1692192",
-        "name": "Quezon City",
+        "ids": {
+            "geonames": 1692192
+        },
+        "long": {
+            "default": "Quezon City"
+        },
         "lat": 14.6488,
         "lng": 121.0509,
         "country": "PH",
@@ -396,8 +572,12 @@
         "population": 2761720
     },
     "1692520": {
-        "geoid": "1692520",
-        "name": "Pulong Santa Cruz",
+        "ids": {
+            "geonames": 1692520
+        },
+        "long": {
+            "default": "Pulong Santa Cruz"
+        },
         "lat": 14.27324,
         "lng": 121.07643,
         "country": "PH",
@@ -405,8 +585,12 @@
         "population": 101914
     },
     "1692565": {
-        "geoid": "1692565",
-        "name": "Pulilan",
+        "ids": {
+            "geonames": 1692565
+        },
+        "long": {
+            "default": "Pulilan"
+        },
         "lat": 14.90167,
         "lng": 120.84917,
         "country": "PH",
@@ -414,8 +598,12 @@
         "population": 77186
     },
     "1692685": {
-        "geoid": "1692685",
-        "name": "Puerto Princesa",
+        "ids": {
+            "geonames": 1692685
+        },
+        "long": {
+            "default": "Puerto Princesa"
+        },
         "lat": 9.73917,
         "lng": 118.73528,
         "country": "PH",
@@ -423,8 +611,12 @@
         "population": 222673
     },
     "1693077": {
-        "geoid": "1693077",
-        "name": "Polomolok",
+        "ids": {
+            "geonames": 1693077
+        },
+        "long": {
+            "default": "Polomolok"
+        },
         "lat": 6.22167,
         "lng": 125.06398,
         "country": "PH",
@@ -432,8 +624,12 @@
         "population": 63987
     },
     "1693136": {
-        "geoid": "1693136",
-        "name": "Polangui",
+        "ids": {
+            "geonames": 1693136
+        },
+        "long": {
+            "default": "Polangui"
+        },
         "lat": 13.2923,
         "lng": 123.4855,
         "country": "PH",
@@ -441,8 +637,12 @@
         "population": 77122
     },
     "1693239": {
-        "geoid": "1693239",
-        "name": "Plaridel",
+        "ids": {
+            "geonames": 1693239
+        },
+        "long": {
+            "default": "Plaridel"
+        },
         "lat": 14.88722,
         "lng": 120.85722,
         "country": "PH",
@@ -450,8 +650,12 @@
         "population": 70781
     },
     "1694290": {
-        "geoid": "1694290",
-        "name": "Patuto",
+        "ids": {
+            "geonames": 1694290
+        },
+        "long": {
+            "default": "Patuto"
+        },
         "lat": 14.11667,
         "lng": 120.96667,
         "country": "PH",
@@ -459,8 +663,12 @@
         "population": 52883
     },
     "1695743": {
-        "geoid": "1695743",
-        "name": "Panalanoy",
+        "ids": {
+            "geonames": 1695743
+        },
+        "long": {
+            "default": "Panalanoy"
+        },
         "lat": 11.25111,
         "lng": 125.00639,
         "country": "PH",
@@ -468,8 +676,12 @@
         "population": 189090
     },
     "1695804": {
-        "geoid": "1695804",
-        "name": "Panabo",
+        "ids": {
+            "geonames": 1695804
+        },
+        "long": {
+            "default": "Panabo"
+        },
         "lat": 7.30806,
         "lng": 125.68417,
         "country": "PH",
@@ -477,8 +689,12 @@
         "population": 84749
     },
     "1696710": {
-        "geoid": "1696710",
-        "name": "Pagadian",
+        "ids": {
+            "geonames": 1696710
+        },
+        "long": {
+            "default": "Pagadian"
+        },
         "lat": 7.8257,
         "lng": 123.437,
         "country": "PH",
@@ -486,8 +702,12 @@
         "population": 186852
     },
     "1696899": {
-        "geoid": "1696899",
-        "name": "Ozamiz City",
+        "ids": {
+            "geonames": 1696899
+        },
+        "long": {
+            "default": "Ozamiz City"
+        },
         "lat": 8.1481,
         "lng": 123.8405,
         "country": "PH",
@@ -495,8 +715,12 @@
         "population": 93082
     },
     "1697018": {
-        "geoid": "1697018",
-        "name": "Ormoc",
+        "ids": {
+            "geonames": 1697018
+        },
+        "long": {
+            "default": "Ormoc"
+        },
         "lat": 11.00639,
         "lng": 124.6075,
         "country": "PH",
@@ -504,8 +728,12 @@
         "population": 191200
     },
     "1697175": {
-        "geoid": "1697175",
-        "name": "Olongapo",
+        "ids": {
+            "geonames": 1697175
+        },
+        "long": {
+            "default": "Olongapo"
+        },
         "lat": 14.82917,
         "lng": 120.28278,
         "country": "PH",
@@ -513,8 +741,12 @@
         "population": 221178
     },
     "1697376": {
-        "geoid": "1697376",
-        "name": "Obando",
+        "ids": {
+            "geonames": 1697376
+        },
+        "long": {
+            "default": "Obando"
+        },
         "lat": 14.7098,
         "lng": 120.9362,
         "country": "PH",
@@ -522,8 +754,12 @@
         "population": 59929
     },
     "1697497": {
-        "geoid": "1697497",
-        "name": "Norzagaray",
+        "ids": {
+            "geonames": 1697497
+        },
+        "long": {
+            "default": "Norzagaray"
+        },
         "lat": 14.9109,
         "lng": 121.0493,
         "country": "PH",
@@ -531,8 +767,12 @@
         "population": 79508
     },
     "1698030": {
-        "geoid": "1698030",
-        "name": "Nasugbu",
+        "ids": {
+            "geonames": 1698030
+        },
+        "long": {
+            "default": "Nasugbu"
+        },
         "lat": 14.06694,
         "lng": 120.63181,
         "country": "PH",
@@ -540,8 +780,12 @@
         "population": 62857
     },
     "1698548": {
-        "geoid": "1698548",
-        "name": "Naic",
+        "ids": {
+            "geonames": 1698548
+        },
+        "long": {
+            "default": "Naic"
+        },
         "lat": 14.31812,
         "lng": 120.76609,
         "country": "PH",
@@ -549,8 +793,12 @@
         "population": 55195
     },
     "1698829": {
-        "geoid": "1698829",
-        "name": "Naga",
+        "ids": {
+            "geonames": 1698829
+        },
+        "long": {
+            "default": "Naga"
+        },
         "lat": 13.61917,
         "lng": 123.18139,
         "country": "PH",
@@ -558,8 +806,12 @@
         "population": 174931
     },
     "1699054": {
-        "geoid": "1699054",
-        "name": "Muricay",
+        "ids": {
+            "geonames": 1699054
+        },
+        "long": {
+            "default": "Muricay"
+        },
         "lat": 7.8275,
         "lng": 123.4782,
         "country": "PH",
@@ -567,8 +819,12 @@
         "population": 132094
     },
     "1699296": {
-        "geoid": "1699296",
-        "name": "Rodriguez",
+        "ids": {
+            "geonames": 1699296
+        },
+        "long": {
+            "default": "Rodriguez"
+        },
         "lat": 14.76011,
         "lng": 121.19993,
         "country": "PH",
@@ -576,8 +832,12 @@
         "population": 134432
     },
     "1699323": {
-        "geoid": "1699323",
-        "name": "Monkayo",
+        "ids": {
+            "geonames": 1699323
+        },
+        "long": {
+            "default": "Monkayo"
+        },
         "lat": 7.81528,
         "lng": 126.05444,
         "country": "PH",
@@ -585,8 +845,12 @@
         "population": 51393
     },
     "1699572": {
-        "geoid": "1699572",
-        "name": "Minglanilla",
+        "ids": {
+            "geonames": 1699572
+        },
+        "long": {
+            "default": "Minglanilla"
+        },
         "lat": 10.24498,
         "lng": 123.7964,
         "country": "PH",
@@ -594,8 +858,12 @@
         "population": 62058
     },
     "1699802": {
-        "geoid": "1699802",
-        "name": "Meycauayan",
+        "ids": {
+            "geonames": 1699802
+        },
+        "long": {
+            "default": "Meycauayan"
+        },
         "lat": 14.73694,
         "lng": 120.96083,
         "country": "PH",
@@ -603,8 +871,12 @@
         "population": 184839
     },
     "1700360": {
-        "geoid": "1700360",
-        "name": "Mati",
+        "ids": {
+            "geonames": 1700360
+        },
+        "long": {
+            "default": "Mati"
+        },
         "lat": 6.95508,
         "lng": 126.21655,
         "country": "PH",
@@ -612,8 +884,12 @@
         "population": 105908
     },
     "1700868": {
-        "geoid": "1700868",
-        "name": "Mariveles",
+        "ids": {
+            "geonames": 1700868
+        },
+        "long": {
+            "default": "Mariveles"
+        },
         "lat": 14.43385,
         "lng": 120.48569,
         "country": "PH",
@@ -621,8 +897,12 @@
         "population": 84567
     },
     "1700917": {
-        "geoid": "1700917",
-        "name": "Marilao",
+        "ids": {
+            "geonames": 1700917
+        },
+        "long": {
+            "default": "Marilao"
+        },
         "lat": 14.75778,
         "lng": 120.94833,
         "country": "PH",
@@ -630,8 +910,12 @@
         "population": 83276
     },
     "1700980": {
-        "geoid": "1700980",
-        "name": "Mariano",
+        "ids": {
+            "geonames": 1700980
+        },
+        "long": {
+            "default": "Mariano"
+        },
         "lat": 8.83333,
         "lng": 125.11667,
         "country": "PH",
@@ -639,8 +923,12 @@
         "population": 70516
     },
     "1701053": {
-        "geoid": "1701053",
-        "name": "Marawi City",
+        "ids": {
+            "geonames": 1701053
+        },
+        "long": {
+            "default": "Marawi City"
+        },
         "lat": 8.0034,
         "lng": 124.28395,
         "country": "PH",
@@ -648,8 +936,12 @@
         "population": 143627
     },
     "1701472": {
-        "geoid": "1701472",
-        "name": "Mantampay",
+        "ids": {
+            "geonames": 1701472
+        },
+        "long": {
+            "default": "Mantampay"
+        },
         "lat": 8.16667,
         "lng": 124.21667,
         "country": "PH",
@@ -657,8 +949,12 @@
         "population": 265032
     },
     "1701500": {
-        "geoid": "1701500",
-        "name": "Mansilingan",
+        "ids": {
+            "geonames": 1701500
+        },
+        "long": {
+            "default": "Mansilingan"
+        },
         "lat": 10.63111,
         "lng": 122.97889,
         "country": "PH",
@@ -666,8 +962,12 @@
         "population": 454150
     },
     "1701668": {
-        "geoid": "1701668",
-        "name": "Manila",
+        "ids": {
+            "geonames": 1701668
+        },
+        "long": {
+            "default": "Manila"
+        },
         "lat": 14.6042,
         "lng": 120.9822,
         "country": "PH",
@@ -675,8 +975,12 @@
         "population": 1600000
     },
     "1701872": {
-        "geoid": "1701872",
-        "name": "Mangaldan",
+        "ids": {
+            "geonames": 1701872
+        },
+        "long": {
+            "default": "Mangaldan"
+        },
         "lat": 16.07,
         "lng": 120.4025,
         "country": "PH",
@@ -684,8 +988,12 @@
         "population": 88818
     },
     "1701947": {
-        "geoid": "1701947",
-        "name": "Mandaue City",
+        "ids": {
+            "geonames": 1701947
+        },
+        "long": {
+            "default": "Mandaue City"
+        },
         "lat": 10.32361,
         "lng": 123.92222,
         "country": "PH",
@@ -693,8 +1001,12 @@
         "population": 331320
     },
     "1701966": {
-        "geoid": "1701966",
-        "name": "Mandaluyong City",
+        "ids": {
+            "geonames": 1701966
+        },
+        "long": {
+            "default": "Mandaluyong City"
+        },
         "lat": 14.5832,
         "lng": 121.0409,
         "country": "PH",
@@ -702,8 +1014,12 @@
         "population": 305576
     },
     "1702096": {
-        "geoid": "1702096",
-        "name": "Manaoag",
+        "ids": {
+            "geonames": 1702096
+        },
+        "long": {
+            "default": "Manaoag"
+        },
         "lat": 16.0438,
         "lng": 120.4861,
         "country": "PH",
@@ -711,8 +1027,12 @@
         "population": 59115
     },
     "1702442": {
-        "geoid": "1702442",
-        "name": "Maluñgun",
+        "ids": {
+            "geonames": 1702442
+        },
+        "long": {
+            "default": "Maluñgun"
+        },
         "lat": 6.27917,
         "lng": 125.28167,
         "country": "PH",
@@ -720,8 +1040,12 @@
         "population": 52248
     },
     "1702540": {
-        "geoid": "1702540",
-        "name": "Malolos",
+        "ids": {
+            "geonames": 1702540
+        },
+        "long": {
+            "default": "Malolos"
+        },
         "lat": 14.8443,
         "lng": 120.81039,
         "country": "PH",
@@ -729,8 +1053,12 @@
         "population": 198748
     },
     "1702934": {
-        "geoid": "1702934",
-        "name": "Malaybalay",
+        "ids": {
+            "geonames": 1702934
+        },
+        "long": {
+            "default": "Malaybalay"
+        },
         "lat": 8.1575,
         "lng": 125.12778,
         "country": "PH",
@@ -738,8 +1066,12 @@
         "population": 61524
     },
     "1703417": {
-        "geoid": "1703417",
-        "name": "Makati City",
+        "ids": {
+            "geonames": 1703417
+        },
+        "long": {
+            "default": "Makati City"
+        },
         "lat": 14.55027,
         "lng": 121.03269,
         "country": "PH",
@@ -747,8 +1079,12 @@
         "population": 510383
     },
     "1704067": {
-        "geoid": "1704067",
-        "name": "Magalang",
+        "ids": {
+            "geonames": 1704067
+        },
+        "long": {
+            "default": "Magalang"
+        },
         "lat": 15.2151,
         "lng": 120.6596,
         "country": "PH",
@@ -756,8 +1092,12 @@
         "population": 68988
     },
     "1704703": {
-        "geoid": "1704703",
-        "name": "Mabalacat City",
+        "ids": {
+            "geonames": 1704703
+        },
+        "long": {
+            "default": "Mabalacat City"
+        },
         "lat": 15.22303,
         "lng": 120.57117,
         "country": "PH",
@@ -765,8 +1105,12 @@
         "population": 188050
     },
     "1705357": {
-        "geoid": "1705357",
-        "name": "Lucena",
+        "ids": {
+            "geonames": 1705357
+        },
+        "long": {
+            "default": "Lucena"
+        },
         "lat": 13.93139,
         "lng": 121.61722,
         "country": "PH",
@@ -774,8 +1118,12 @@
         "population": 228758
     },
     "1705440": {
-        "geoid": "1705440",
-        "name": "Lubao",
+        "ids": {
+            "geonames": 1705440
+        },
+        "long": {
+            "default": "Lubao"
+        },
         "lat": 14.9405,
         "lng": 120.6011,
         "country": "PH",
@@ -783,8 +1131,12 @@
         "population": 55645
     },
     "1705536": {
-        "geoid": "1705536",
-        "name": "Los Baños",
+        "ids": {
+            "geonames": 1705536
+        },
+        "long": {
+            "default": "Los Baños"
+        },
         "lat": 14.17025,
         "lng": 121.24181,
         "country": "PH",
@@ -792,8 +1144,12 @@
         "population": 95750
     },
     "1706090": {
-        "geoid": "1706090",
-        "name": "Lipa City",
+        "ids": {
+            "geonames": 1706090
+        },
+        "long": {
+            "default": "Lipa City"
+        },
         "lat": 13.9411,
         "lng": 121.1631,
         "country": "PH",
@@ -801,8 +1157,12 @@
         "population": 212287
     },
     "1706188": {
-        "geoid": "1706188",
-        "name": "Lingayen",
+        "ids": {
+            "geonames": 1706188
+        },
+        "long": {
+            "default": "Lingayen"
+        },
         "lat": 16.02182,
         "lng": 120.23194,
         "country": "PH",
@@ -810,8 +1170,12 @@
         "population": 56580
     },
     "1706361": {
-        "geoid": "1706361",
-        "name": "Limay",
+        "ids": {
+            "geonames": 1706361
+        },
+        "long": {
+            "default": "Limay"
+        },
         "lat": 14.56194,
         "lng": 120.59833,
         "country": "PH",
@@ -819,8 +1183,12 @@
         "population": 52824
     },
     "1706609": {
-        "geoid": "1706609",
-        "name": "Libon",
+        "ids": {
+            "geonames": 1706609
+        },
+        "long": {
+            "default": "Libon"
+        },
         "lat": 13.2997,
         "lng": 123.4386,
         "country": "PH",
@@ -828,8 +1196,12 @@
         "population": 68846
     },
     "1706684": {
-        "geoid": "1706684",
-        "name": "Libertad",
+        "ids": {
+            "geonames": 1706684
+        },
+        "long": {
+            "default": "Libertad"
+        },
         "lat": 8.94417,
         "lng": 125.50194,
         "country": "PH",
@@ -837,8 +1209,12 @@
         "population": 250353
     },
     "1706889": {
-        "geoid": "1706889",
-        "name": "Legaspi",
+        "ids": {
+            "geonames": 1706889
+        },
+        "long": {
+            "default": "Legaspi"
+        },
         "lat": 13.14125,
         "lng": 123.74073,
         "country": "PH",
@@ -846,8 +1222,12 @@
         "population": 179481
     },
     "1707267": {
-        "geoid": "1707267",
-        "name": "Lapu-Lapu City",
+        "ids": {
+            "geonames": 1707267
+        },
+        "long": {
+            "default": "Lapu-Lapu City"
+        },
         "lat": 10.31028,
         "lng": 123.94944,
         "country": "PH",
@@ -855,8 +1235,12 @@
         "population": 350467
     },
     "1707404": {
-        "geoid": "1707404",
-        "name": "Laoag",
+        "ids": {
+            "geonames": 1707404
+        },
+        "long": {
+            "default": "Laoag"
+        },
         "lat": 18.1978,
         "lng": 120.5957,
         "country": "PH",
@@ -864,8 +1248,12 @@
         "population": 102105
     },
     "1707944": {
-        "geoid": "1707944",
-        "name": "Lala",
+        "ids": {
+            "geonames": 1707944
+        },
+        "long": {
+            "default": "Lala"
+        },
         "lat": 7.9745,
         "lng": 123.7458,
         "country": "PH",
@@ -873,8 +1261,12 @@
         "population": 61845
     },
     "1708522": {
-        "geoid": "1708522",
-        "name": "Koronadal",
+        "ids": {
+            "geonames": 1708522
+        },
+        "long": {
+            "default": "Koronadal"
+        },
         "lat": 6.50306,
         "lng": 124.84694,
         "country": "PH",
@@ -882,8 +1274,12 @@
         "population": 125502
     },
     "1708824": {
-        "geoid": "1708824",
-        "name": "Kidapawan",
+        "ids": {
+            "geonames": 1708824
+        },
+        "long": {
+            "default": "Kidapawan"
+        },
         "lat": 7.00833,
         "lng": 125.08944,
         "country": "PH",
@@ -891,8 +1287,12 @@
         "population": 79652
     },
     "1709003": {
-        "geoid": "1709003",
-        "name": "Kawit",
+        "ids": {
+            "geonames": 1709003
+        },
+        "long": {
+            "default": "Kawit"
+        },
         "lat": 14.44426,
         "lng": 120.90164,
         "country": "PH",
@@ -900,8 +1300,12 @@
         "population": 73210
     },
     "1709632": {
-        "geoid": "1709632",
-        "name": "Kalibo (poblacion)",
+        "ids": {
+            "geonames": 1709632
+        },
+        "long": {
+            "default": "Kalibo (poblacion)"
+        },
         "lat": 11.70611,
         "lng": 122.36444,
         "country": "PH",
@@ -909,8 +1313,12 @@
         "population": 56845
     },
     "1709968": {
-        "geoid": "1709968",
-        "name": "Kabankalan",
+        "ids": {
+            "geonames": 1709968
+        },
+        "long": {
+            "default": "Kabankalan"
+        },
         "lat": 9.9839,
         "lng": 122.81423,
         "country": "PH",
@@ -918,8 +1326,12 @@
         "population": 136483
     },
     "1710141": {
-        "geoid": "1710141",
-        "name": "Jolo",
+        "ids": {
+            "geonames": 1710141
+        },
+        "long": {
+            "default": "Jolo"
+        },
         "lat": 6.05222,
         "lng": 121.00222,
         "country": "PH",
@@ -927,8 +1339,12 @@
         "population": 101002
     },
     "1710519": {
-        "geoid": "1710519",
-        "name": "City of Isabela",
+        "ids": {
+            "geonames": 1710519
+        },
+        "long": {
+            "default": "City of Isabela"
+        },
         "lat": 6.70407,
         "lng": 121.97117,
         "country": "PH",
@@ -936,8 +1352,12 @@
         "population": 67336
     },
     "1710544": {
-        "geoid": "1710544",
-        "name": "Iriga City",
+        "ids": {
+            "geonames": 1710544
+        },
+        "long": {
+            "default": "Iriga City"
+        },
         "lat": 13.4324,
         "lng": 123.4115,
         "country": "PH",
@@ -945,8 +1365,12 @@
         "population": 94846
     },
     "1710914": {
-        "geoid": "1710914",
-        "name": "Imus",
+        "ids": {
+            "geonames": 1710914
+        },
+        "long": {
+            "default": "Imus"
+        },
         "lat": 14.42972,
         "lng": 120.93667,
         "country": "PH",
@@ -954,8 +1378,12 @@
         "population": 216099
     },
     "1711005": {
-        "geoid": "1711005",
-        "name": "Iloilo",
+        "ids": {
+            "geonames": 1711005
+        },
+        "long": {
+            "default": "Iloilo"
+        },
         "lat": 10.69694,
         "lng": 122.56444,
         "country": "PH",
@@ -963,8 +1391,12 @@
         "population": 387681
     },
     "1711082": {
-        "geoid": "1711082",
-        "name": "Iligan City",
+        "ids": {
+            "geonames": 1711082
+        },
+        "long": {
+            "default": "Iligan City"
+        },
         "lat": 8.25,
         "lng": 124.4,
         "country": "PH",
@@ -972,8 +1404,12 @@
         "population": 312323
     },
     "1711146": {
-        "geoid": "1711146",
-        "name": "Ilagan",
+        "ids": {
+            "geonames": 1711146
+        },
+        "long": {
+            "default": "Ilagan"
+        },
         "lat": 17.14854,
         "lng": 121.88924,
         "country": "PH",
@@ -981,8 +1417,12 @@
         "population": 72363
     },
     "1711982": {
-        "geoid": "1711982",
-        "name": "Hagonoy",
+        "ids": {
+            "geonames": 1711982
+        },
+        "long": {
+            "default": "Hagonoy"
+        },
         "lat": 14.83413,
         "lng": 120.73271,
         "country": "PH",
@@ -990,8 +1430,12 @@
         "population": 123531
     },
     "1712051": {
-        "geoid": "1712051",
-        "name": "Guyong",
+        "ids": {
+            "geonames": 1712051
+        },
+        "long": {
+            "default": "Guyong"
+        },
         "lat": 14.8361,
         "lng": 120.97844,
         "country": "PH",
@@ -999,8 +1443,12 @@
         "population": 155391
     },
     "1712531": {
-        "geoid": "1712531",
-        "name": "Guiguinto",
+        "ids": {
+            "geonames": 1712531
+        },
+        "long": {
+            "default": "Guiguinto"
+        },
         "lat": 14.83333,
         "lng": 120.88333,
         "country": "PH",
@@ -1008,8 +1456,12 @@
         "population": 76613
     },
     "1713014": {
-        "geoid": "1713014",
-        "name": "General Trias",
+        "ids": {
+            "geonames": 1713014
+        },
+        "long": {
+            "default": "General Trias"
+        },
         "lat": 14.38694,
         "lng": 120.88167,
         "country": "PH",
@@ -1017,8 +1469,12 @@
         "population": 96022
     },
     "1713022": {
-        "geoid": "1713022",
-        "name": "General Santos",
+        "ids": {
+            "geonames": 1713022
+        },
+        "long": {
+            "default": "General Santos"
+        },
         "lat": 6.11278,
         "lng": 125.17167,
         "country": "PH",
@@ -1026,8 +1482,12 @@
         "population": 679588
     },
     "1713226": {
-        "geoid": "1713226",
-        "name": "Gapan",
+        "ids": {
+            "geonames": 1713226
+        },
+        "long": {
+            "default": "Gapan"
+        },
         "lat": 15.3072,
         "lng": 120.9464,
         "country": "PH",
@@ -1035,8 +1495,12 @@
         "population": 79064
     },
     "1714201": {
-        "geoid": "1714201",
-        "name": "Dumaguete",
+        "ids": {
+            "geonames": 1714201
+        },
+        "long": {
+            "default": "Dumaguete"
+        },
         "lat": 9.30722,
         "lng": 123.30261,
         "country": "PH",
@@ -1044,8 +1508,12 @@
         "population": 113541
     },
     "1714674": {
-        "geoid": "1714674",
-        "name": "Dipolog",
+        "ids": {
+            "geonames": 1714674
+        },
+        "long": {
+            "default": "Dipolog"
+        },
         "lat": 8.56697,
         "lng": 123.33471,
         "country": "PH",
@@ -1053,8 +1521,12 @@
         "population": 93549
     },
     "1714766": {
-        "geoid": "1714766",
-        "name": "Dinalupihan",
+        "ids": {
+            "geonames": 1714766
+        },
+        "long": {
+            "default": "Dinalupihan"
+        },
         "lat": 14.87827,
         "lng": 120.45221,
         "country": "PH",
@@ -1062,8 +1534,12 @@
         "population": 66670
     },
     "1714956": {
-        "geoid": "1714956",
-        "name": "Digos",
+        "ids": {
+            "geonames": 1714956
+        },
+        "long": {
+            "default": "Digos"
+        },
         "lat": 6.74972,
         "lng": 125.35722,
         "country": "PH",
@@ -1071,8 +1547,12 @@
         "population": 116122
     },
     "1715348": {
-        "geoid": "1715348",
-        "name": "Davao",
+        "ids": {
+            "geonames": 1715348
+        },
+        "long": {
+            "default": "Davao"
+        },
         "lat": 7.07306,
         "lng": 125.61278,
         "country": "PH",
@@ -1080,8 +1560,12 @@
         "population": 1212504
     },
     "1715430": {
-        "geoid": "1715430",
-        "name": "Dasmariñas",
+        "ids": {
+            "geonames": 1715430
+        },
+        "long": {
+            "default": "Dasmariñas"
+        },
         "lat": 14.32944,
         "lng": 120.93667,
         "country": "PH",
@@ -1089,8 +1573,12 @@
         "population": 441876
     },
     "1715542": {
-        "geoid": "1715542",
-        "name": "Dapitan",
+        "ids": {
+            "geonames": 1715542
+        },
+        "long": {
+            "default": "Dapitan"
+        },
         "lat": 8.6561,
         "lng": 123.4227,
         "country": "PH",
@@ -1098,8 +1586,12 @@
         "population": 50514
     },
     "1715804": {
-        "geoid": "1715804",
-        "name": "Danao",
+        "ids": {
+            "geonames": 1715804
+        },
+        "long": {
+            "default": "Danao"
+        },
         "lat": 10.52083,
         "lng": 124.02722,
         "country": "PH",
@@ -1107,8 +1599,12 @@
         "population": 70270
     },
     "1716287": {
-        "geoid": "1716287",
-        "name": "Daet",
+        "ids": {
+            "geonames": 1716287
+        },
+        "long": {
+            "default": "Daet"
+        },
         "lat": 14.1122,
         "lng": 122.9553,
         "country": "PH",
@@ -1116,8 +1612,12 @@
         "population": 78142
     },
     "1716771": {
-        "geoid": "1716771",
-        "name": "Cotabato",
+        "ids": {
+            "geonames": 1716771
+        },
+        "long": {
+            "default": "Cotabato"
+        },
         "lat": 7.22361,
         "lng": 124.24639,
         "country": "PH",
@@ -1125,8 +1625,12 @@
         "population": 179433
     },
     "1716995": {
-        "geoid": "1716995",
-        "name": "Concepcion",
+        "ids": {
+            "geonames": 1716995
+        },
+        "long": {
+            "default": "Concepcion"
+        },
         "lat": 15.32546,
         "lng": 120.65723,
         "country": "PH",
@@ -1134,8 +1638,12 @@
         "population": 64402
     },
     "1717512": {
-        "geoid": "1717512",
-        "name": "Cebu City",
+        "ids": {
+            "geonames": 1717512
+        },
+        "long": {
+            "default": "Cebu City"
+        },
         "lat": 10.31672,
         "lng": 123.89071,
         "country": "PH",
@@ -1143,8 +1651,12 @@
         "population": 798634
     },
     "1717641": {
-        "geoid": "1717641",
-        "name": "Cavite City",
+        "ids": {
+            "geonames": 1717641
+        },
+        "long": {
+            "default": "Cavite City"
+        },
         "lat": 14.48369,
         "lng": 120.89878,
         "country": "PH",
@@ -1152,8 +1664,12 @@
         "population": 115932
     },
     "1717911": {
-        "geoid": "1717911",
-        "name": "Catbalogan",
+        "ids": {
+            "geonames": 1717911
+        },
+        "long": {
+            "default": "Catbalogan"
+        },
         "lat": 11.77528,
         "lng": 124.88611,
         "country": "PH",
@@ -1161,8 +1677,12 @@
         "population": 68081
     },
     "1718306": {
-        "geoid": "1718306",
-        "name": "Carmona",
+        "ids": {
+            "geonames": 1718306
+        },
+        "long": {
+            "default": "Carmona"
+        },
         "lat": 14.3132,
         "lng": 121.0576,
         "country": "PH",
@@ -1170,8 +1690,12 @@
         "population": 55887
     },
     "1718722": {
-        "geoid": "1718722",
-        "name": "Capas",
+        "ids": {
+            "geonames": 1718722
+        },
+        "long": {
+            "default": "Capas"
+        },
         "lat": 15.33117,
         "lng": 120.5898,
         "country": "PH",
@@ -1179,8 +1703,12 @@
         "population": 72070
     },
     "1719274": {
-        "geoid": "1719274",
-        "name": "Candelaria",
+        "ids": {
+            "geonames": 1719274
+        },
+        "long": {
+            "default": "Candelaria"
+        },
         "lat": 13.93111,
         "lng": 121.42333,
         "country": "PH",
@@ -1188,8 +1716,12 @@
         "population": 60881
     },
     "1720034": {
-        "geoid": "1720034",
-        "name": "Calumpit",
+        "ids": {
+            "geonames": 1720034
+        },
+        "long": {
+            "default": "Calumpit"
+        },
         "lat": 14.91639,
         "lng": 120.76583,
         "country": "PH",
@@ -1197,8 +1729,12 @@
         "population": 91815
     },
     "1720402": {
-        "geoid": "1720402",
-        "name": "Calbayog City",
+        "ids": {
+            "geonames": 1720402
+        },
+        "long": {
+            "default": "Calbayog City"
+        },
         "lat": 12.0668,
         "lng": 124.5962,
         "country": "PH",
@@ -1206,8 +1742,12 @@
         "population": 67921
     },
     "1720561": {
-        "geoid": "1720561",
-        "name": "Calapan",
+        "ids": {
+            "geonames": 1720561
+        },
+        "long": {
+            "default": "Calapan"
+        },
         "lat": 13.4117,
         "lng": 121.1803,
         "country": "PH",
@@ -1215,8 +1755,12 @@
         "population": 66008
     },
     "1720681": {
-        "geoid": "1720681",
-        "name": "Calamba",
+        "ids": {
+            "geonames": 1720681
+        },
+        "long": {
+            "default": "Calamba"
+        },
         "lat": 14.21167,
         "lng": 121.16528,
         "country": "PH",
@@ -1224,8 +1768,12 @@
         "population": 316612
     },
     "1720840": {
-        "geoid": "1720840",
-        "name": "Cainta",
+        "ids": {
+            "geonames": 1720840
+        },
+        "long": {
+            "default": "Cainta"
+        },
         "lat": 14.5786,
         "lng": 121.1222,
         "country": "PH",
@@ -1233,8 +1781,12 @@
         "population": 283172
     },
     "1721080": {
-        "geoid": "1721080",
-        "name": "Cagayan de Oro",
+        "ids": {
+            "geonames": 1721080
+        },
+        "long": {
+            "default": "Cagayan de Oro"
+        },
         "lat": 8.48222,
         "lng": 124.64722,
         "country": "PH",
@@ -1242,8 +1794,12 @@
         "population": 445103
     },
     "1721168": {
-        "geoid": "1721168",
-        "name": "Cadiz",
+        "ids": {
+            "geonames": 1721168
+        },
+        "long": {
+            "default": "Cadiz"
+        },
         "lat": 10.9465,
         "lng": 123.288,
         "country": "PH",
@@ -1251,8 +1807,12 @@
         "population": 129053
     },
     "1721906": {
-        "geoid": "1721906",
-        "name": "Cabanatuan City",
+        "ids": {
+            "geonames": 1721906
+        },
+        "long": {
+            "default": "Cabanatuan City"
+        },
         "lat": 15.48586,
         "lng": 120.96648,
         "country": "PH",
@@ -1260,8 +1820,12 @@
         "population": 220250
     },
     "1722186": {
-        "geoid": "1722186",
-        "name": "Butuan",
+        "ids": {
+            "geonames": 1722186
+        },
+        "long": {
+            "default": "Butuan"
+        },
         "lat": 8.94917,
         "lng": 125.54361,
         "country": "PH",
@@ -1269,8 +1833,12 @@
         "population": 309709
     },
     "1722930": {
-        "geoid": "1722930",
-        "name": "Bulaon",
+        "ids": {
+            "geonames": 1722930
+        },
+        "long": {
+            "default": "Bulaon"
+        },
         "lat": 15.08262,
         "lng": 120.66288,
         "country": "PH",
@@ -1278,8 +1846,12 @@
         "population": 131818
     },
     "1723066": {
-        "geoid": "1723066",
-        "name": "Bulacan",
+        "ids": {
+            "geonames": 1723066
+        },
+        "long": {
+            "default": "Bulacan"
+        },
         "lat": 14.79278,
         "lng": 120.87889,
         "country": "PH",
@@ -1287,8 +1859,12 @@
         "population": 71274
     },
     "1723510": {
-        "geoid": "1723510",
-        "name": "Budta",
+        "ids": {
+            "geonames": 1723510
+        },
+        "long": {
+            "default": "Budta"
+        },
         "lat": 7.20417,
         "lng": 124.43972,
         "country": "PH",
@@ -1296,8 +1872,12 @@
         "population": 1273715
     },
     "1724489": {
-        "geoid": "1724489",
-        "name": "Bocaue",
+        "ids": {
+            "geonames": 1724489
+        },
+        "long": {
+            "default": "Bocaue"
+        },
         "lat": 14.79833,
         "lng": 120.92611,
         "country": "PH",
@@ -1305,8 +1885,12 @@
         "population": 98649
     },
     "1724767": {
-        "geoid": "1724767",
-        "name": "Bislig",
+        "ids": {
+            "geonames": 1724767
+        },
+        "long": {
+            "default": "Bislig"
+        },
         "lat": 8.21528,
         "lng": 126.31639,
         "country": "PH",
@@ -1314,8 +1898,12 @@
         "population": 67567
     },
     "1724933": {
-        "geoid": "1724933",
-        "name": "Binonga",
+        "ids": {
+            "geonames": 1724933
+        },
+        "long": {
+            "default": "Binonga"
+        },
         "lat": 10.7719,
         "lng": 122.9817,
         "country": "PH",
@@ -1323,8 +1911,12 @@
         "population": 83980
     },
     "1725094": {
-        "geoid": "1725094",
-        "name": "Binangonan",
+        "ids": {
+            "geonames": 1725094
+        },
+        "long": {
+            "default": "Binangonan"
+        },
         "lat": 14.4646,
         "lng": 121.1929,
         "country": "PH",
@@ -1332,8 +1924,12 @@
         "population": 219204
     },
     "1726280": {
-        "geoid": "1726280",
-        "name": "Batangas",
+        "ids": {
+            "geonames": 1726280
+        },
+        "long": {
+            "default": "Batangas"
+        },
         "lat": 13.7567,
         "lng": 121.0584,
         "country": "PH",
@@ -1341,8 +1937,12 @@
         "population": 237370
     },
     "1726339": {
-        "geoid": "1726339",
-        "name": "Batac City",
+        "ids": {
+            "geonames": 1726339
+        },
+        "long": {
+            "default": "Batac City"
+        },
         "lat": 18.0554,
         "lng": 120.56489,
         "country": "PH",
@@ -1350,8 +1950,12 @@
         "population": 53542
     },
     "1727400": {
-        "geoid": "1727400",
-        "name": "Bañga",
+        "ids": {
+            "geonames": 1727400
+        },
+        "long": {
+            "default": "Bañga"
+        },
         "lat": 6.42389,
         "lng": 124.77833,
         "country": "PH",
@@ -1359,8 +1963,12 @@
         "population": 58855
     },
     "1727995": {
-        "geoid": "1727995",
-        "name": "Baliuag",
+        "ids": {
+            "geonames": 1727995
+        },
+        "long": {
+            "default": "Baliuag"
+        },
         "lat": 14.95472,
         "lng": 120.89694,
         "country": "PH",
@@ -1368,8 +1976,12 @@
         "population": 135679
     },
     "1728336": {
-        "geoid": "1728336",
-        "name": "Balayan",
+        "ids": {
+            "geonames": 1728336
+        },
+        "long": {
+            "default": "Balayan"
+        },
         "lat": 13.93714,
         "lng": 120.73224,
         "country": "PH",
@@ -1377,8 +1989,12 @@
         "population": 50115
     },
     "1728523": {
-        "geoid": "1728523",
-        "name": "Balanga",
+        "ids": {
+            "geonames": 1728523
+        },
+        "long": {
+            "default": "Balanga"
+        },
         "lat": 14.67611,
         "lng": 120.53611,
         "country": "PH",
@@ -1386,8 +2002,12 @@
         "population": 72954
     },
     "1728584": {
-        "geoid": "1728584",
-        "name": "Balagtas",
+        "ids": {
+            "geonames": 1728584
+        },
+        "long": {
+            "default": "Balagtas"
+        },
         "lat": 14.81667,
         "lng": 120.86667,
         "country": "PH",
@@ -1395,8 +2015,12 @@
         "population": 59826
     },
     "1728772": {
-        "geoid": "1728772",
-        "name": "Bais",
+        "ids": {
+            "geonames": 1728772
+        },
+        "long": {
+            "default": "Bais"
+        },
         "lat": 9.59111,
         "lng": 123.12278,
         "country": "PH",
@@ -1404,8 +2028,12 @@
         "population": 65594
     },
     "1728930": {
-        "geoid": "1728930",
-        "name": "Baguio",
+        "ids": {
+            "geonames": 1728930
+        },
+        "long": {
+            "default": "Baguio"
+        },
         "lat": 16.41639,
         "lng": 120.59306,
         "country": "PH",
@@ -1413,8 +2041,12 @@
         "population": 272714
     },
     "1729085": {
-        "geoid": "1729085",
-        "name": "Bago City",
+        "ids": {
+            "geonames": 1729085
+        },
+        "long": {
+            "default": "Bago City"
+        },
         "lat": 10.53333,
         "lng": 122.83333,
         "country": "PH",
@@ -1422,8 +2054,12 @@
         "population": 150250
     },
     "1729524": {
-        "geoid": "1729524",
-        "name": "Bacoor",
+        "ids": {
+            "geonames": 1729524
+        },
+        "long": {
+            "default": "Bacoor"
+        },
         "lat": 14.45903,
         "lng": 120.92903,
         "country": "PH",
@@ -1431,8 +2067,12 @@
         "population": 356974
     },
     "1729564": {
-        "geoid": "1729564",
-        "name": "Bacolod City",
+        "ids": {
+            "geonames": 1729564
+        },
+        "long": {
+            "default": "Bacolod City"
+        },
         "lat": 10.66667,
         "lng": 122.95,
         "country": "PH",
@@ -1440,8 +2080,12 @@
         "population": 454898
     },
     "1730225": {
-        "geoid": "1730225",
-        "name": "Arayat",
+        "ids": {
+            "geonames": 1730225
+        },
+        "long": {
+            "default": "Arayat"
+        },
         "lat": 15.1505,
         "lng": 120.7697,
         "country": "PH",
@@ -1449,8 +2093,12 @@
         "population": 87987
     },
     "1730413": {
-        "geoid": "1730413",
-        "name": "Apalit",
+        "ids": {
+            "geonames": 1730413
+        },
+        "long": {
+            "default": "Apalit"
+        },
         "lat": 14.95333,
         "lng": 120.77,
         "country": "PH",
@@ -1458,8 +2106,12 @@
         "population": 77418
     },
     "1730501": {
-        "geoid": "1730501",
-        "name": "Antipolo",
+        "ids": {
+            "geonames": 1730501
+        },
+        "long": {
+            "default": "Antipolo"
+        },
         "lat": 14.62578,
         "lng": 121.12251,
         "country": "PH",
@@ -1467,8 +2119,12 @@
         "population": 549543
     },
     "1730713": {
-        "geoid": "1730713",
-        "name": "Angono",
+        "ids": {
+            "geonames": 1730713
+        },
+        "long": {
+            "default": "Angono"
+        },
         "lat": 14.5266,
         "lng": 121.1536,
         "country": "PH",
@@ -1476,8 +2132,12 @@
         "population": 87199
     },
     "1730737": {
-        "geoid": "1730737",
-        "name": "Angeles City",
+        "ids": {
+            "geonames": 1730737
+        },
+        "long": {
+            "default": "Angeles City"
+        },
         "lat": 15.15,
         "lng": 120.58333,
         "country": "PH",
@@ -1485,8 +2145,12 @@
         "population": 299391
     },
     "1978681": {
-        "geoid": "1978681",
-        "name": "Malingao",
+        "ids": {
+            "geonames": 1978681
+        },
+        "long": {
+            "default": "Malingao"
+        },
         "lat": 7.16083,
         "lng": 124.475,
         "country": "PH",
@@ -1494,8 +2158,12 @@
         "population": 1121974
     },
     "7290466": {
-        "geoid": "7290466",
-        "name": "Pasig City",
+        "ids": {
+            "geonames": 7290466
+        },
+        "long": {
+            "default": "Pasig City"
+        },
         "lat": 14.58691,
         "lng": 121.0614,
         "country": "PH",

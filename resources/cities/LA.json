@@ -1,7 +1,11 @@
 {
     "1651944": {
-        "geoid": "1651944",
-        "name": "Vientiane",
+        "ids": {
+            "geonames": 1651944
+        },
+        "long": {
+            "default": "Vientiane"
+        },
         "lat": 17.96667,
         "lng": 102.6,
         "country": "LA",
@@ -9,8 +13,12 @@
         "population": 196731
     },
     "1653316": {
-        "geoid": "1653316",
-        "name": "Savannakhét",
+        "ids": {
+            "geonames": 1653316
+        },
+        "long": {
+            "default": "Savannakhét"
+        },
         "lat": 16.56505,
         "lng": 104.75273,
         "country": "LA",
@@ -18,8 +26,12 @@
         "population": 66553
     },
     "1654379": {
-        "geoid": "1654379",
-        "name": "Pakse",
+        "ids": {
+            "geonames": 1654379
+        },
+        "long": {
+            "default": "Pakse"
+        },
         "lat": 15.12022,
         "lng": 105.79898,
         "country": "LA",

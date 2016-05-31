@@ -4,8 +4,8 @@
             "fips": "28",
             "geonames": 1090052
         },
-        "names": {
-            "long": "Zambezi"
+        "long": {
+            "default": "Zambezi"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "21",
             "geonames": 3352137
         },
-        "names": {
-            "long": "Khomas"
+        "long": {
+            "default": "Khomas"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "29",
             "geonames": 3371199
         },
-        "names": {
-            "long": "Erongo"
+        "long": {
+            "default": "Erongo"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "30",
             "geonames": 3371200
         },
-        "names": {
-            "long": "Hardap"
+        "long": {
+            "default": "Hardap"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "31",
             "geonames": 3371201
         },
-        "names": {
-            "long": "Karas"
+        "long": {
+            "default": "Karas"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "32",
             "geonames": 3371202
         },
-        "names": {
-            "long": "Kunene"
+        "long": {
+            "default": "Kunene"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "33",
             "geonames": 3371203
         },
-        "names": {
-            "long": "Ohangwena"
+        "long": {
+            "default": "Ohangwena"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "35",
             "geonames": 3371205
         },
-        "names": {
-            "long": "Omaheke"
+        "long": {
+            "default": "Omaheke"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "36",
             "geonames": 3371206
         },
-        "names": {
-            "long": "Omusati"
+        "long": {
+            "default": "Omusati"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "37",
             "geonames": 3371207
         },
-        "names": {
-            "long": "Oshana"
+        "long": {
+            "default": "Oshana"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "38",
             "geonames": 3371208
         },
-        "names": {
-            "long": "Oshikoto"
+        "long": {
+            "default": "Oshikoto"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "39",
             "geonames": 3371209
         },
-        "names": {
-            "long": "Otjozondjupa"
+        "long": {
+            "default": "Otjozondjupa"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "40",
             "geonames": 8693188
         },
-        "names": {
-            "long": "Kavango East"
+        "long": {
+            "default": "Kavango East"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "41",
             "geonames": 8693189
         },
-        "names": {
-            "long": "Kavango West"
+        "long": {
+            "default": "Kavango West"
         }
     }
 ]

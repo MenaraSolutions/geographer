@@ -4,8 +4,8 @@
             "fips": "050",
             "geonames": 5880873
         },
-        "names": {
-            "long": "Western District"
+        "long": {
+            "default": "Western District"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "040",
             "geonames": 5881199
         },
-        "names": {
-            "long": "Swains Island"
+        "long": {
+            "default": "Swains Island"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "010",
             "geonames": 5881219
         },
-        "names": {
-            "long": "Eastern District"
+        "long": {
+            "default": "Eastern District"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "020",
             "geonames": 5881436
         },
-        "names": {
-            "long": "Manu'a"
+        "long": {
+            "default": "Manu'a"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "030",
             "geonames": 7309441
         },
-        "names": {
-            "long": "Rose Island"
+        "long": {
+            "default": "Rose Island"
         }
     }
 ]

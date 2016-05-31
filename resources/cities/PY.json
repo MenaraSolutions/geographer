@@ -1,7 +1,11 @@
 {
     "3436725": {
-        "geoid": "3436725",
-        "name": "Villa Hayes",
+        "ids": {
+            "geonames": 3436725
+        },
+        "long": {
+            "default": "Villa Hayes"
+        },
         "lat": -25.09306,
         "lng": -57.52361,
         "country": "PY",
@@ -9,8 +13,12 @@
         "population": 57217
     },
     "3436728": {
-        "geoid": "3436728",
-        "name": "Villa Elisa",
+        "ids": {
+            "geonames": 3436728
+        },
+        "long": {
+            "default": "Villa Elisa"
+        },
         "lat": -25.3676,
         "lng": -57.59274,
         "country": "PY",
@@ -18,8 +26,12 @@
         "population": 64099
     },
     "3437056": {
-        "geoid": "3437056",
-        "name": "San Lorenzo",
+        "ids": {
+            "geonames": 3437056
+        },
+        "long": {
+            "default": "San Lorenzo"
+        },
         "lat": -25.33968,
         "lng": -57.50879,
         "country": "PY",
@@ -27,8 +39,12 @@
         "population": 227876
     },
     "3437127": {
-        "geoid": "3437127",
-        "name": "San Antonio",
+        "ids": {
+            "geonames": 3437127
+        },
+        "long": {
+            "default": "San Antonio"
+        },
         "lat": -25.42126,
         "lng": -57.54725,
         "country": "PY",
@@ -36,8 +52,12 @@
         "population": 55754
     },
     "3437444": {
-        "geoid": "3437444",
-        "name": "Presidente Franco",
+        "ids": {
+            "geonames": 3437444
+        },
+        "long": {
+            "default": "Presidente Franco"
+        },
         "lat": -25.53333,
         "lng": -54.61667,
         "country": "PY",
@@ -45,8 +65,12 @@
         "population": 54292
     },
     "3437547": {
-        "geoid": "3437547",
-        "name": "Pedro Juan Caballero",
+        "ids": {
+            "geonames": 3437547
+        },
+        "long": {
+            "default": "Pedro Juan Caballero"
+        },
         "lat": -22.54722,
         "lng": -55.73333,
         "country": "PY",
@@ -54,8 +78,12 @@
         "population": 75109
     },
     "3437665": {
-        "geoid": "3437665",
-        "name": "Nemby",
+        "ids": {
+            "geonames": 3437665
+        },
+        "long": {
+            "default": "Nemby"
+        },
         "lat": -25.3949,
         "lng": -57.53574,
         "country": "PY",
@@ -63,8 +91,12 @@
         "population": 94641
     },
     "3437842": {
-        "geoid": "3437842",
-        "name": "Limpio",
+        "ids": {
+            "geonames": 3437842
+        },
+        "long": {
+            "default": "Limpio"
+        },
         "lat": -25.16611,
         "lng": -57.48562,
         "country": "PY",
@@ -72,8 +104,12 @@
         "population": 96143
     },
     "3437863": {
-        "geoid": "3437863",
-        "name": "Lambaré",
+        "ids": {
+            "geonames": 3437863
+        },
+        "long": {
+            "default": "Lambaré"
+        },
         "lat": -25.34682,
         "lng": -57.60647,
         "country": "PY",
@@ -81,8 +117,12 @@
         "population": 126377
     },
     "3437918": {
-        "geoid": "3437918",
-        "name": "Itauguá",
+        "ids": {
+            "geonames": 3437918
+        },
+        "long": {
+            "default": "Itauguá"
+        },
         "lat": -25.38333,
         "lng": -57.33333,
         "country": "PY",
@@ -90,8 +130,12 @@
         "population": 64997
     },
     "3438115": {
-        "geoid": "3438115",
-        "name": "Fernando de la Mora",
+        "ids": {
+            "geonames": 3438115
+        },
+        "long": {
+            "default": "Fernando de la Mora"
+        },
         "lat": -25.3386,
         "lng": -57.52167,
         "country": "PY",
@@ -99,8 +143,12 @@
         "population": 120167
     },
     "3438735": {
-        "geoid": "3438735",
-        "name": "Encarnación",
+        "ids": {
+            "geonames": 3438735
+        },
+        "long": {
+            "default": "Encarnación"
+        },
         "lat": -27.33056,
         "lng": -55.86667,
         "country": "PY",
@@ -108,8 +156,12 @@
         "population": 74983
     },
     "3438819": {
-        "geoid": "3438819",
-        "name": "Coronel Oviedo",
+        "ids": {
+            "geonames": 3438819
+        },
+        "long": {
+            "default": "Coronel Oviedo"
+        },
         "lat": -25.44444,
         "lng": -56.44028,
         "country": "PY",
@@ -117,8 +169,12 @@
         "population": 51286
     },
     "3438995": {
-        "geoid": "3438995",
-        "name": "Colonia Mariano Roque Alonso",
+        "ids": {
+            "geonames": 3438995
+        },
+        "long": {
+            "default": "Colonia Mariano Roque Alonso"
+        },
         "lat": -25.16667,
         "lng": -57.55,
         "country": "PY",
@@ -126,8 +182,12 @@
         "population": 72008
     },
     "3439101": {
-        "geoid": "3439101",
-        "name": "Ciudad del Este",
+        "ids": {
+            "geonames": 3439101
+        },
+        "long": {
+            "default": "Ciudad del Este"
+        },
         "lat": -25.50972,
         "lng": -54.61111,
         "country": "PY",
@@ -135,8 +195,12 @@
         "population": 320782
     },
     "3439214": {
-        "geoid": "3439214",
-        "name": "Capiatá",
+        "ids": {
+            "geonames": 3439214
+        },
+        "long": {
+            "default": "Capiatá"
+        },
         "lat": -25.3552,
         "lng": -57.44545,
         "country": "PY",
@@ -144,8 +208,12 @@
         "population": 198553
     },
     "3439317": {
-        "geoid": "3439317",
-        "name": "Caaguazú",
+        "ids": {
+            "geonames": 3439317
+        },
+        "long": {
+            "default": "Caaguazú"
+        },
         "lat": -25.45,
         "lng": -56.01667,
         "country": "PY",
@@ -153,8 +221,12 @@
         "population": 54808
     },
     "3439389": {
-        "geoid": "3439389",
-        "name": "Asunción",
+        "ids": {
+            "geonames": 3439389
+        },
+        "long": {
+            "default": "Asunción"
+        },
         "lat": -25.30066,
         "lng": -57.63591,
         "country": "PY",

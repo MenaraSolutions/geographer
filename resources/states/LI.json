@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 3042031
         },
-        "names": {
-            "long": "Vaduz"
+        "long": {
+            "default": "Vaduz"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 3042034
         },
-        "names": {
-            "long": "Triesenberg"
+        "long": {
+            "default": "Triesenberg"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "09",
             "geonames": 3042036
         },
-        "names": {
-            "long": "Triesen"
+        "long": {
+            "default": "Triesen"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 3042038
         },
-        "names": {
-            "long": "Schellenberg"
+        "long": {
+            "default": "Schellenberg"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 3042042
         },
-        "names": {
-            "long": "Schaan"
+        "long": {
+            "default": "Schaan"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 3042047
         },
-        "names": {
-            "long": "Ruggell"
+        "long": {
+            "default": "Ruggell"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 3042050
         },
-        "names": {
-            "long": "Planken"
+        "long": {
+            "default": "Planken"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 3042056
         },
-        "names": {
-            "long": "Mauren"
+        "long": {
+            "default": "Mauren"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 3042063
         },
-        "names": {
-            "long": "Gamprin"
+        "long": {
+            "default": "Gamprin"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "02",
             "geonames": 3042069
         },
-        "names": {
-            "long": "Eschen"
+        "long": {
+            "default": "Eschen"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "01",
             "geonames": 3042074
         },
-        "names": {
-            "long": "Balzers"
+        "long": {
+            "default": "Balzers"
         }
     }
 ]

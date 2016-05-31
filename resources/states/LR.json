@@ -4,8 +4,8 @@
             "fips": "10",
             "geonames": 2273898
         },
-        "names": {
-            "long": "Sinoe"
+        "long": {
+            "default": "Sinoe"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "09",
             "geonames": 2274688
         },
-        "names": {
-            "long": "Nimba"
+        "long": {
+            "default": "Nimba"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 2274890
         },
-        "names": {
-            "long": "Montserrado"
+        "long": {
+            "default": "Montserrado"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "13",
             "geonames": 2275099
         },
-        "names": {
-            "long": "Maryland"
+        "long": {
+            "default": "Maryland"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "20",
             "geonames": 2275344
         },
-        "names": {
-            "long": "Lofa"
+        "long": {
+            "default": "Lofa"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "19",
             "geonames": 2276622
         },
-        "names": {
-            "long": "Grand Gedeh"
+        "long": {
+            "default": "Grand Gedeh"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "12",
             "geonames": 2276627
         },
-        "names": {
-            "long": "Grand Cape Mount"
+        "long": {
+            "default": "Grand Cape Mount"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "11",
             "geonames": 2276630
         },
-        "names": {
-            "long": "Grand Bassa"
+        "long": {
+            "default": "Grand Bassa"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "01",
             "geonames": 2278292
         },
-        "names": {
-            "long": "Bong"
+        "long": {
+            "default": "Bong"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "15",
             "geonames": 2278324
         },
-        "names": {
-            "long": "Bomi"
+        "long": {
+            "default": "Bomi"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "16",
             "geonames": 2588490
         },
-        "names": {
-            "long": "Grand Kru"
+        "long": {
+            "default": "Grand Kru"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "17",
             "geonames": 2588491
         },
-        "names": {
-            "long": "Margibi"
+        "long": {
+            "default": "Margibi"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "18",
             "geonames": 2588492
         },
-        "names": {
-            "long": "River Cess"
+        "long": {
+            "default": "River Cess"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "21",
             "geonames": 2593119
         },
-        "names": {
-            "long": "Gbarpolu"
+        "long": {
+            "default": "Gbarpolu"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "22",
             "geonames": 2593120
         },
-        "names": {
-            "long": "River Gee"
+        "long": {
+            "default": "River Gee"
         }
     }
 ]

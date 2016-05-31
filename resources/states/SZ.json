@@ -4,8 +4,8 @@
             "fips": "04",
             "geonames": 934867
         },
-        "names": {
-            "long": "Shiselweni"
+        "long": {
+            "default": "Shiselweni"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 934994
         },
-        "names": {
-            "long": "Manzini"
+        "long": {
+            "default": "Manzini"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "02",
             "geonames": 935042
         },
-        "names": {
-            "long": "Lubombo"
+        "long": {
+            "default": "Lubombo"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 935085
         },
-        "names": {
-            "long": "Hhohho"
+        "long": {
+            "default": "Hhohho"
         }
     }
 ]

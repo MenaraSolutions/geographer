@@ -4,8 +4,8 @@
             "fips": "05",
             "geonames": 3577818
         },
-        "names": {
-            "long": "Saint Patrick"
+        "long": {
+            "default": "Saint Patrick"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 3577819
         },
-        "names": {
-            "long": "Saint George"
+        "long": {
+            "default": "Saint George"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 3577821
         },
-        "names": {
-            "long": "Saint David"
+        "long": {
+            "default": "Saint David"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "02",
             "geonames": 3577822
         },
-        "names": {
-            "long": "Saint Andrew"
+        "long": {
+            "default": "Saint Andrew"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 3577892
         },
-        "names": {
-            "long": "Grenadines"
+        "long": {
+            "default": "Grenadines"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 3577934
         },
-        "names": {
-            "long": "Charlotte"
+        "long": {
+            "default": "Charlotte"
         }
     }
 ]

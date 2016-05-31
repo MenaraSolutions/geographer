@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 101627
         },
-        "names": {
-            "long": "Tabuk"
+        "long": {
+            "default": "Tabuk"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "16",
             "geonames": 103628
         },
-        "names": {
-            "long": "Najran"
+        "long": {
+            "default": "Najran"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 104514
         },
-        "names": {
-            "long": "Makkah"
+        "long": {
+            "default": "Makkah"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "17",
             "geonames": 105298
         },
-        "names": {
-            "long": "Jizan"
+        "long": {
+            "default": "Jizan"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "13",
             "geonames": 106280
         },
-        "names": {
-            "long": "Ḩāʼil"
+        "long": {
+            "default": "Ḩāʼil"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "11",
             "geonames": 108179
         },
-        "names": {
-            "long": "'Asir"
+        "long": {
+            "default": "'Asir"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "06",
             "geonames": 108241
         },
-        "names": {
-            "long": "Eastern Province"
+        "long": {
+            "default": "Eastern Province"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "10",
             "geonames": 108411
         },
-        "names": {
-            "long": "Ar Riyāḑ"
+        "long": {
+            "default": "Ar Riyāḑ"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "08",
             "geonames": 108933
         },
-        "names": {
-            "long": "Al-Qassim"
+        "long": {
+            "default": "Al-Qassim"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "05",
             "geonames": 109224
         },
-        "names": {
-            "long": "Al Madīnah al Munawwarah"
+        "long": {
+            "default": "Al Madīnah al Munawwarah"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "20",
             "geonames": 109470
         },
-        "names": {
-            "long": "Al Jawf"
+        "long": {
+            "default": "Al Jawf"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "15",
             "geonames": 109579
         },
-        "names": {
-            "long": "Northern Borders"
+        "long": {
+            "default": "Northern Borders"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "02",
             "geonames": 109954
         },
-        "names": {
-            "long": "Al Bahah"
+        "long": {
+            "default": "Al Bahah"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "3513090": {
-        "geoid": "3513090",
-        "name": "Willemstad",
+        "ids": {
+            "geonames": 3513090
+        },
+        "long": {
+            "default": "Willemstad"
+        },
         "lat": 12.1084,
         "lng": -68.93354,
         "country": "CW",

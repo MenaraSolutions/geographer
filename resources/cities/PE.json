@@ -1,7 +1,11 @@
 {
     "3691148": {
-        "geoid": "3691148",
-        "name": "Tumbes",
+        "ids": {
+            "geonames": 3691148
+        },
+        "long": {
+            "default": "Tumbes"
+        },
         "lat": -3.56694,
         "lng": -80.45153,
         "country": "PE",
@@ -9,8 +13,12 @@
         "population": 109223
     },
     "3691175": {
-        "geoid": "3691175",
-        "name": "Trujillo",
+        "ids": {
+            "geonames": 3691175
+        },
+        "long": {
+            "default": "Trujillo"
+        },
         "lat": -8.11599,
         "lng": -79.02998,
         "country": "PE",
@@ -18,8 +26,12 @@
         "population": 747450
     },
     "3691348": {
-        "geoid": "3691348",
-        "name": "Tingo María",
+        "ids": {
+            "geonames": 3691348
+        },
+        "long": {
+            "default": "Tingo María"
+        },
         "lat": -9.29616,
         "lng": -75.99831,
         "country": "PE",
@@ -27,8 +39,12 @@
         "population": 53177
     },
     "3691582": {
-        "geoid": "3691582",
-        "name": "Talara",
+        "ids": {
+            "geonames": 3691582
+        },
+        "long": {
+            "default": "Talara"
+        },
         "lat": -4.57722,
         "lng": -81.27194,
         "country": "PE",
@@ -36,8 +52,12 @@
         "population": 99074
     },
     "3691674": {
-        "geoid": "3691674",
-        "name": "Sullana",
+        "ids": {
+            "geonames": 3691674
+        },
+        "long": {
+            "default": "Sullana"
+        },
         "lat": -4.90389,
         "lng": -80.68528,
         "country": "PE",
@@ -45,8 +65,12 @@
         "population": 160789
     },
     "3693345": {
-        "geoid": "3693345",
-        "name": "Pucallpa",
+        "ids": {
+            "geonames": 3693345
+        },
+        "long": {
+            "default": "Pucallpa"
+        },
         "lat": -8.37915,
         "lng": -74.55387,
         "country": "PE",
@@ -54,8 +78,12 @@
         "population": 310750
     },
     "3693528": {
-        "geoid": "3693528",
-        "name": "Piura",
+        "ids": {
+            "geonames": 3693528
+        },
+        "long": {
+            "default": "Piura"
+        },
         "lat": -5.19449,
         "lng": -80.63282,
         "country": "PE",
@@ -63,8 +91,12 @@
         "population": 325466
     },
     "3694112": {
-        "geoid": "3694112",
-        "name": "Paita",
+        "ids": {
+            "geonames": 3694112
+        },
+        "long": {
+            "default": "Paita"
+        },
         "lat": -5.08917,
         "lng": -81.11444,
         "country": "PE",
@@ -72,8 +104,12 @@
         "population": 56151
     },
     "3696150": {
-        "geoid": "3696150",
-        "name": "Jaén",
+        "ids": {
+            "geonames": 3696150
+        },
+        "long": {
+            "default": "Jaén"
+        },
         "lat": -5.70729,
         "lng": -78.80785,
         "country": "PE",
@@ -81,8 +117,12 @@
         "population": 52493
     },
     "3696183": {
-        "geoid": "3696183",
-        "name": "Iquitos",
+        "ids": {
+            "geonames": 3696183
+        },
+        "long": {
+            "default": "Iquitos"
+        },
         "lat": -3.74912,
         "lng": -73.25383,
         "country": "PE",
@@ -90,8 +130,12 @@
         "population": 437620
     },
     "3696378": {
-        "geoid": "3696378",
-        "name": "Huaraz",
+        "ids": {
+            "geonames": 3696378
+        },
+        "long": {
+            "default": "Huaraz"
+        },
         "lat": -9.52779,
         "lng": -77.52778,
         "country": "PE",
@@ -99,8 +143,12 @@
         "population": 86934
     },
     "3696417": {
-        "geoid": "3696417",
-        "name": "Huánuco",
+        "ids": {
+            "geonames": 3696417
+        },
+        "long": {
+            "default": "Huánuco"
+        },
         "lat": -9.93062,
         "lng": -76.24223,
         "country": "PE",
@@ -108,8 +156,12 @@
         "population": 147959
     },
     "3698105": {
-        "geoid": "3698105",
-        "name": "Chulucanas",
+        "ids": {
+            "geonames": 3698105
+        },
+        "long": {
+            "default": "Chulucanas"
+        },
         "lat": -5.0925,
         "lng": -80.1625,
         "country": "PE",
@@ -117,8 +169,12 @@
         "population": 68835
     },
     "3698304": {
-        "geoid": "3698304",
-        "name": "Chimbote",
+        "ids": {
+            "geonames": 3698304
+        },
+        "long": {
+            "default": "Chimbote"
+        },
         "lat": -9.08528,
         "lng": -78.57833,
         "country": "PE",
@@ -126,8 +182,12 @@
         "population": 316966
     },
     "3698350": {
-        "geoid": "3698350",
-        "name": "Chiclayo",
+        "ids": {
+            "geonames": 3698350
+        },
+        "long": {
+            "default": "Chiclayo"
+        },
         "lat": -6.77137,
         "lng": -79.84088,
         "country": "PE",
@@ -135,8 +195,12 @@
         "population": 577375
     },
     "3698658": {
-        "geoid": "3698658",
-        "name": "Catacaos",
+        "ids": {
+            "geonames": 3698658
+        },
+        "long": {
+            "default": "Catacaos"
+        },
         "lat": -5.26667,
         "lng": -80.68333,
         "country": "PE",
@@ -144,8 +208,12 @@
         "population": 57304
     },
     "3699088": {
-        "geoid": "3699088",
-        "name": "Cajamarca",
+        "ids": {
+            "geonames": 3699088
+        },
+        "long": {
+            "default": "Cajamarca"
+        },
         "lat": -7.16378,
         "lng": -78.50027,
         "country": "PE",
@@ -153,8 +221,12 @@
         "population": 135000
     },
     "3927758": {
-        "geoid": "3927758",
-        "name": "Tarma",
+        "ids": {
+            "geonames": 3927758
+        },
+        "long": {
+            "default": "Tarma"
+        },
         "lat": -11.41899,
         "lng": -75.68992,
         "country": "PE",
@@ -162,8 +234,12 @@
         "population": 51350
     },
     "3928128": {
-        "geoid": "3928128",
-        "name": "Tacna",
+        "ids": {
+            "geonames": 3928128
+        },
+        "long": {
+            "default": "Tacna"
+        },
         "lat": -18.01465,
         "lng": -70.25362,
         "country": "PE",
@@ -171,8 +247,12 @@
         "population": 280098
     },
     "3928245": {
-        "geoid": "3928245",
-        "name": "Santiago de Surco",
+        "ids": {
+            "geonames": 3928245
+        },
+        "long": {
+            "default": "Santiago de Surco"
+        },
         "lat": -12.13588,
         "lng": -77.00742,
         "country": "PE",
@@ -180,8 +260,12 @@
         "population": 251648
     },
     "3929631": {
-        "geoid": "3929631",
-        "name": "San Isidro",
+        "ids": {
+            "geonames": 3929631
+        },
+        "long": {
+            "default": "San Isidro"
+        },
         "lat": -12.11667,
         "lng": -77.05,
         "country": "PE",
@@ -189,8 +273,12 @@
         "population": 68309
     },
     "3931276": {
-        "geoid": "3931276",
-        "name": "Puno",
+        "ids": {
+            "geonames": 3931276
+        },
+        "long": {
+            "default": "Puno"
+        },
         "lat": -15.8422,
         "lng": -70.0199,
         "country": "PE",
@@ -198,8 +286,12 @@
         "population": 116552
     },
     "3932145": {
-        "geoid": "3932145",
-        "name": "Pisco",
+        "ids": {
+            "geonames": 3932145
+        },
+        "long": {
+            "default": "Pisco"
+        },
         "lat": -13.71029,
         "lng": -76.20538,
         "country": "PE",
@@ -207,8 +299,12 @@
         "population": 61869
     },
     "3934608": {
-        "geoid": "3934608",
-        "name": "Moquegua",
+        "ids": {
+            "geonames": 3934608
+        },
+        "long": {
+            "default": "Moquegua"
+        },
         "lat": -17.19832,
         "lng": -70.93567,
         "country": "PE",
@@ -216,8 +312,12 @@
         "population": 54517
     },
     "3936456": {
-        "geoid": "3936456",
-        "name": "Lima",
+        "ids": {
+            "geonames": 3936456
+        },
+        "long": {
+            "default": "Lima"
+        },
         "lat": -12.04318,
         "lng": -77.02824,
         "country": "PE",
@@ -225,8 +325,12 @@
         "population": 7737002
     },
     "3937513": {
-        "geoid": "3937513",
-        "name": "Juliaca",
+        "ids": {
+            "geonames": 3937513
+        },
+        "long": {
+            "default": "Juliaca"
+        },
         "lat": -15.5,
         "lng": -70.13333,
         "country": "PE",
@@ -234,8 +338,12 @@
         "population": 245675
     },
     "3938415": {
-        "geoid": "3938415",
-        "name": "Ilo",
+        "ids": {
+            "geonames": 3938415
+        },
+        "long": {
+            "default": "Ilo"
+        },
         "lat": -17.63944,
         "lng": -71.3375,
         "country": "PE",
@@ -243,8 +351,12 @@
         "population": 53476
     },
     "3938527": {
-        "geoid": "3938527",
-        "name": "Ica",
+        "ids": {
+            "geonames": 3938527
+        },
+        "long": {
+            "default": "Ica"
+        },
         "lat": -14.06777,
         "lng": -75.72861,
         "country": "PE",
@@ -252,8 +364,12 @@
         "population": 246844
     },
     "3939285": {
-        "geoid": "3939285",
-        "name": "Huaral",
+        "ids": {
+            "geonames": 3939285
+        },
+        "long": {
+            "default": "Huaral"
+        },
         "lat": -11.495,
         "lng": -77.20778,
         "country": "PE",
@@ -261,8 +377,12 @@
         "population": 62174
     },
     "3939459": {
-        "geoid": "3939459",
-        "name": "Huancayo",
+        "ids": {
+            "geonames": 3939459
+        },
+        "long": {
+            "default": "Huancayo"
+        },
         "lat": -12.06513,
         "lng": -75.20486,
         "country": "PE",
@@ -270,8 +390,12 @@
         "population": 376657
     },
     "3940002": {
-        "geoid": "3940002",
-        "name": "Huacho",
+        "ids": {
+            "geonames": 3940002
+        },
+        "long": {
+            "default": "Huacho"
+        },
         "lat": -11.10667,
         "lng": -77.605,
         "country": "PE",
@@ -279,8 +403,12 @@
         "population": 54545
     },
     "3941584": {
-        "geoid": "3941584",
-        "name": "Cusco",
+        "ids": {
+            "geonames": 3941584
+        },
+        "long": {
+            "default": "Cusco"
+        },
         "lat": -13.52264,
         "lng": -71.96734,
         "country": "PE",
@@ -288,8 +416,12 @@
         "population": 312140
     },
     "3943423": {
-        "geoid": "3943423",
-        "name": "Chosica",
+        "ids": {
+            "geonames": 3943423
+        },
+        "long": {
+            "default": "Chosica"
+        },
         "lat": -11.94306,
         "lng": -76.70944,
         "country": "PE",
@@ -297,8 +429,12 @@
         "population": 88606
     },
     "3943789": {
-        "geoid": "3943789",
-        "name": "Chincha Alta",
+        "ids": {
+            "geonames": 3943789
+        },
+        "long": {
+            "default": "Chincha Alta"
+        },
         "lat": -13.40985,
         "lng": -76.13235,
         "country": "PE",
@@ -306,8 +442,12 @@
         "population": 153076
     },
     "3944797": {
-        "geoid": "3944797",
-        "name": "Cerro de Pasco",
+        "ids": {
+            "geonames": 3944797
+        },
+        "long": {
+            "default": "Cerro de Pasco"
+        },
         "lat": -10.66748,
         "lng": -76.25668,
         "country": "PE",
@@ -315,8 +455,12 @@
         "population": 78910
     },
     "3946083": {
-        "geoid": "3946083",
-        "name": "Callao",
+        "ids": {
+            "geonames": 3946083
+        },
+        "long": {
+            "default": "Callao"
+        },
         "lat": -12.05659,
         "lng": -77.11814,
         "country": "PE",
@@ -324,8 +468,12 @@
         "population": 813264
     },
     "3947019": {
-        "geoid": "3947019",
-        "name": "Ayacucho",
+        "ids": {
+            "geonames": 3947019
+        },
+        "long": {
+            "default": "Ayacucho"
+        },
         "lat": -13.15878,
         "lng": -74.22321,
         "country": "PE",
@@ -333,8 +481,12 @@
         "population": 140033
     },
     "3947322": {
-        "geoid": "3947322",
-        "name": "Arequipa",
+        "ids": {
+            "geonames": 3947322
+        },
+        "long": {
+            "default": "Arequipa"
+        },
         "lat": -16.39889,
         "lng": -71.535,
         "country": "PE",
@@ -342,8 +494,12 @@
         "population": 841130
     },
     "3948642": {
-        "geoid": "3948642",
-        "name": "Abancay",
+        "ids": {
+            "geonames": 3948642
+        },
+        "long": {
+            "default": "Abancay"
+        },
         "lat": -13.63389,
         "lng": -72.88139,
         "country": "PE",

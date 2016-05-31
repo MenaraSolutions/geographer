@@ -1,7 +1,11 @@
 {
     "1185092": {
-        "geoid": "1185092",
-        "name": "Thākurgaon",
+        "ids": {
+            "geonames": 1185092
+        },
+        "long": {
+            "default": "Thākurgaon"
+        },
         "lat": 26.03097,
         "lng": 88.46989,
         "country": "BD",
@@ -9,8 +13,12 @@
         "population": 71096
     },
     "1185098": {
-        "geoid": "1185098",
-        "name": "Tungi",
+        "ids": {
+            "geonames": 1185098
+        },
+        "long": {
+            "default": "Tungi"
+        },
         "lat": 23.89154,
         "lng": 90.40232,
         "country": "BD",
@@ -18,8 +26,12 @@
         "population": 337579
     },
     "1185099": {
-        "geoid": "1185099",
-        "name": "Sylhet",
+        "ids": {
+            "geonames": 1185099
+        },
+        "long": {
+            "default": "Sylhet"
+        },
         "lat": 24.89904,
         "lng": 91.87198,
         "country": "BD",
@@ -27,8 +39,12 @@
         "population": 237000
     },
     "1185106": {
-        "geoid": "1185106",
-        "name": "Jamālpur",
+        "ids": {
+            "geonames": 1185106
+        },
+        "long": {
+            "default": "Jamālpur"
+        },
         "lat": 24.91965,
         "lng": 89.94812,
         "country": "BD",
@@ -36,8 +52,12 @@
         "population": 167900
     },
     "1185111": {
-        "geoid": "1185111",
-        "name": "Sātkhira",
+        "ids": {
+            "geonames": 1185111
+        },
+        "long": {
+            "default": "Sātkhira"
+        },
         "lat": 22.70817,
         "lng": 89.07185,
         "country": "BD",
@@ -45,8 +65,12 @@
         "population": 128918
     },
     "1185115": {
-        "geoid": "1185115",
-        "name": "Sirājganj",
+        "ids": {
+            "geonames": 1185115
+        },
+        "long": {
+            "default": "Sirājganj"
+        },
         "lat": 24.45771,
         "lng": 89.70802,
         "country": "BD",
@@ -54,8 +78,12 @@
         "population": 127481
     },
     "1185116": {
-        "geoid": "1185116",
-        "name": "Netrakona",
+        "ids": {
+            "geonames": 1185116
+        },
+        "long": {
+            "default": "Netrakona"
+        },
         "lat": 24.88352,
         "lng": 90.72898,
         "country": "BD",
@@ -63,8 +91,12 @@
         "population": 79016
     },
     "1185117": {
-        "geoid": "1185117",
-        "name": "Narsingdi",
+        "ids": {
+            "geonames": 1185117
+        },
+        "long": {
+            "default": "Narsingdi"
+        },
         "lat": 23.92298,
         "lng": 90.71768,
         "country": "BD",
@@ -72,8 +104,12 @@
         "population": 281080
     },
     "1185120": {
-        "geoid": "1185120",
-        "name": "Sandwīp",
+        "ids": {
+            "geonames": 1185120
+        },
+        "long": {
+            "default": "Sandwīp"
+        },
         "lat": 22.51409,
         "lng": 91.45491,
         "country": "BD",
@@ -81,8 +117,12 @@
         "population": 52152
     },
     "1185121": {
-        "geoid": "1185121",
-        "name": "Shāhzādpur",
+        "ids": {
+            "geonames": 1185121
+        },
+        "long": {
+            "default": "Shāhzādpur"
+        },
         "lat": 24.17687,
         "lng": 89.5988,
         "country": "BD",
@@ -90,8 +130,12 @@
         "population": 102420
     },
     "1185127": {
-        "geoid": "1185127",
-        "name": "Rāmganj",
+        "ids": {
+            "geonames": 1185127
+        },
+        "long": {
+            "default": "Rāmganj"
+        },
         "lat": 23.1006,
         "lng": 90.84989,
         "country": "BD",
@@ -99,8 +143,12 @@
         "population": 55241
     },
     "1185128": {
-        "geoid": "1185128",
-        "name": "Rājshāhi",
+        "ids": {
+            "geonames": 1185128
+        },
+        "long": {
+            "default": "Rājshāhi"
+        },
         "lat": 24.374,
         "lng": 88.60114,
         "country": "BD",
@@ -108,8 +156,12 @@
         "population": 700133
     },
     "1185138": {
-        "geoid": "1185138",
-        "name": "Pirojpur",
+        "ids": {
+            "geonames": 1185138
+        },
+        "long": {
+            "default": "Pirojpur"
+        },
         "lat": 22.57965,
         "lng": 89.97521,
         "country": "BD",
@@ -117,8 +169,12 @@
         "population": 54418
     },
     "1185148": {
-        "geoid": "1185148",
-        "name": "Patiya",
+        "ids": {
+            "geonames": 1185148
+        },
+        "long": {
+            "default": "Patiya"
+        },
         "lat": 22.29543,
         "lng": 91.979,
         "country": "BD",
@@ -126,8 +182,12 @@
         "population": 51360
     },
     "1185155": {
-        "geoid": "1185155",
-        "name": "Nārāyanganj",
+        "ids": {
+            "geonames": 1185155
+        },
+        "long": {
+            "default": "Nārāyanganj"
+        },
         "lat": 23.61352,
         "lng": 90.50298,
         "country": "BD",
@@ -135,8 +195,12 @@
         "population": 223622
     },
     "1185159": {
-        "geoid": "1185159",
-        "name": "Nāgarpur",
+        "ids": {
+            "geonames": 1185159
+        },
+        "long": {
+            "default": "Nāgarpur"
+        },
         "lat": 24.05783,
         "lng": 89.87696,
         "country": "BD",
@@ -144,8 +208,12 @@
         "population": 238422
     },
     "1185162": {
-        "geoid": "1185162",
-        "name": "Mymensingh",
+        "ids": {
+            "geonames": 1185162
+        },
+        "long": {
+            "default": "Mymensingh"
+        },
         "lat": 24.75636,
         "lng": 90.40646,
         "country": "BD",
@@ -153,8 +221,12 @@
         "population": 225126
     },
     "1185166": {
-        "geoid": "1185166",
-        "name": "Maulavi Bāzār",
+        "ids": {
+            "geonames": 1185166
+        },
+        "long": {
+            "default": "Maulavi Bāzār"
+        },
         "lat": 24.48888,
         "lng": 91.77075,
         "country": "BD",
@@ -162,8 +234,12 @@
         "population": 57441
     },
     "1185181": {
-        "geoid": "1185181",
-        "name": "Lalmanirhat",
+        "ids": {
+            "geonames": 1185181
+        },
+        "long": {
+            "default": "Lalmanirhat"
+        },
         "lat": 25.91719,
         "lng": 89.44595,
         "country": "BD",
@@ -171,8 +247,12 @@
         "population": 65127
     },
     "1185183": {
-        "geoid": "1185183",
-        "name": "Lākshām",
+        "ids": {
+            "geonames": 1185183
+        },
+        "long": {
+            "default": "Lākshām"
+        },
         "lat": 23.24018,
         "lng": 91.12143,
         "country": "BD",
@@ -180,8 +260,12 @@
         "population": 82290
     },
     "1185186": {
-        "geoid": "1185186",
-        "name": "Comilla",
+        "ids": {
+            "geonames": 1185186
+        },
+        "long": {
+            "default": "Comilla"
+        },
         "lat": 23.46186,
         "lng": 91.18503,
         "country": "BD",
@@ -189,8 +273,12 @@
         "population": 389411
     },
     "1185188": {
-        "geoid": "1185188",
-        "name": "Rangpur",
+        "ids": {
+            "geonames": 1185188
+        },
+        "long": {
+            "default": "Rangpur"
+        },
         "lat": 25.74664,
         "lng": 89.25166,
         "country": "BD",
@@ -198,8 +286,12 @@
         "population": 343122
     },
     "1185191": {
-        "geoid": "1185191",
-        "name": "Kushtia",
+        "ids": {
+            "geonames": 1185191
+        },
+        "long": {
+            "default": "Kushtia"
+        },
         "lat": 23.9028,
         "lng": 89.11943,
         "country": "BD",
@@ -207,8 +299,12 @@
         "population": 135724
     },
     "1185206": {
-        "geoid": "1185206",
-        "name": "Joypur Hāt",
+        "ids": {
+            "geonames": 1185206
+        },
+        "long": {
+            "default": "Joypur Hāt"
+        },
         "lat": 25.10147,
         "lng": 89.02734,
         "country": "BD",
@@ -216,8 +312,12 @@
         "population": 73068
     },
     "1185207": {
-        "geoid": "1185207",
-        "name": "Ishurdi",
+        "ids": {
+            "geonames": 1185207
+        },
+        "long": {
+            "default": "Ishurdi"
+        },
         "lat": 24.12858,
         "lng": 89.06573,
         "country": "BD",
@@ -225,8 +325,12 @@
         "population": 81995
     },
     "1185209": {
-        "geoid": "1185209",
-        "name": "Habiganj",
+        "ids": {
+            "geonames": 1185209
+        },
+        "long": {
+            "default": "Habiganj"
+        },
         "lat": 24.38044,
         "lng": 91.41299,
         "country": "BD",
@@ -234,8 +338,12 @@
         "population": 88760
     },
     "1185224": {
-        "geoid": "1185224",
-        "name": "Feni",
+        "ids": {
+            "geonames": 1185224
+        },
+        "long": {
+            "default": "Feni"
+        },
         "lat": 23.0144,
         "lng": 91.3966,
         "country": "BD",
@@ -243,8 +351,12 @@
         "population": 84028
     },
     "1185236": {
-        "geoid": "1185236",
-        "name": "Rāipur",
+        "ids": {
+            "geonames": 1185236
+        },
+        "long": {
+            "default": "Rāipur"
+        },
         "lat": 23.0391,
         "lng": 90.76808,
         "country": "BD",
@@ -252,8 +364,12 @@
         "population": 64652
     },
     "1185241": {
-        "geoid": "1185241",
-        "name": "Dhaka",
+        "ids": {
+            "geonames": 1185241
+        },
+        "long": {
+            "default": "Dhaka"
+        },
         "lat": 23.7104,
         "lng": 90.40744,
         "country": "BD",
@@ -261,8 +377,12 @@
         "population": 10356500
     },
     "1185252": {
-        "geoid": "1185252",
-        "name": "Khagrachhari",
+        "ids": {
+            "geonames": 1185252
+        },
+        "long": {
+            "default": "Khagrachhari"
+        },
         "lat": 23.10787,
         "lng": 91.97007,
         "country": "BD",
@@ -270,8 +390,12 @@
         "population": 50364
     },
     "1185263": {
-        "geoid": "1185263",
-        "name": "Bhairab Bāzār",
+        "ids": {
+            "geonames": 1185263
+        },
+        "long": {
+            "default": "Bhairab Bāzār"
+        },
         "lat": 24.0524,
         "lng": 90.9764,
         "country": "BD",
@@ -279,8 +403,12 @@
         "population": 105457
     },
     "1185293": {
-        "geoid": "1185293",
-        "name": "Narail",
+        "ids": {
+            "geonames": 1185293
+        },
+        "long": {
+            "default": "Narail"
+        },
         "lat": 23.15509,
         "lng": 89.49515,
         "country": "BD",
@@ -288,8 +416,12 @@
         "population": 55112
     },
     "1185920": {
-        "geoid": "1185920",
-        "name": "Tungipāra",
+        "ids": {
+            "geonames": 1185920
+        },
+        "long": {
+            "default": "Tungipāra"
+        },
         "lat": 22.89983,
         "lng": 89.90326,
         "country": "BD",
@@ -297,8 +429,12 @@
         "population": 62210
     },
     "1188569": {
-        "geoid": "1188569",
-        "name": "Sarishābāri",
+        "ids": {
+            "geonames": 1188569
+        },
+        "long": {
+            "default": "Sarishābāri"
+        },
         "lat": 24.75127,
         "lng": 89.83126,
         "country": "BD",
@@ -306,8 +442,12 @@
         "population": 81325
     },
     "1191368": {
-        "geoid": "1191368",
-        "name": "Pālang",
+        "ids": {
+            "geonames": 1191368
+        },
+        "long": {
+            "default": "Pālang"
+        },
         "lat": 23.21824,
         "lng": 90.35076,
         "country": "BD",
@@ -315,8 +455,12 @@
         "population": 67652
     },
     "1192366": {
-        "geoid": "1192366",
-        "name": "Pār Naogaon",
+        "ids": {
+            "geonames": 1192366
+        },
+        "long": {
+            "default": "Pār Naogaon"
+        },
         "lat": 24.80418,
         "lng": 88.94875,
         "country": "BD",
@@ -324,8 +468,12 @@
         "population": 192464
     },
     "1196292": {
-        "geoid": "1196292",
-        "name": "Lakshmīpur",
+        "ids": {
+            "geonames": 1196292
+        },
+        "long": {
+            "default": "Lakshmīpur"
+        },
         "lat": 22.9443,
         "lng": 90.83005,
         "country": "BD",
@@ -333,8 +481,12 @@
         "population": 61703
     },
     "1203344": {
-        "geoid": "1203344",
-        "name": "Farīdpur",
+        "ids": {
+            "geonames": 1203344
+        },
+        "long": {
+            "default": "Farīdpur"
+        },
         "lat": 23.60612,
         "lng": 89.84064,
         "country": "BD",
@@ -342,8 +494,12 @@
         "population": 112187
     },
     "1203891": {
-        "geoid": "1203891",
-        "name": "Dinājpur",
+        "ids": {
+            "geonames": 1203891
+        },
+        "long": {
+            "default": "Dinājpur"
+        },
         "lat": 25.62745,
         "lng": 88.63779,
         "country": "BD",
@@ -351,8 +507,12 @@
         "population": 206234
     },
     "1205733": {
-        "geoid": "1205733",
-        "name": "Chittagong",
+        "ids": {
+            "geonames": 1205733
+        },
+        "long": {
+            "default": "Chittagong"
+        },
         "lat": 22.3384,
         "lng": 91.83168,
         "country": "BD",
@@ -360,8 +520,12 @@
         "population": 3920222
     },
     "1336133": {
-        "geoid": "1336133",
-        "name": "Sātkania",
+        "ids": {
+            "geonames": 1336133
+        },
+        "long": {
+            "default": "Sātkania"
+        },
         "lat": 22.07639,
         "lng": 92.04955,
         "country": "BD",
@@ -369,8 +533,12 @@
         "population": 52005
     },
     "1336134": {
-        "geoid": "1336134",
-        "name": "Cox’s Bāzār",
+        "ids": {
+            "geonames": 1336134
+        },
+        "long": {
+            "default": "Cox’s Bāzār"
+        },
         "lat": 21.45388,
         "lng": 91.96765,
         "country": "BD",
@@ -378,8 +546,12 @@
         "population": 253788
     },
     "1336135": {
-        "geoid": "1336135",
-        "name": "Khulna",
+        "ids": {
+            "geonames": 1336135
+        },
+        "long": {
+            "default": "Khulna"
+        },
         "lat": 22.80979,
         "lng": 89.56439,
         "country": "BD",
@@ -387,8 +559,12 @@
         "population": 1342339
     },
     "1336136": {
-        "geoid": "1336136",
-        "name": "Bhola",
+        "ids": {
+            "geonames": 1336136
+        },
+        "long": {
+            "default": "Bhola"
+        },
         "lat": 22.68759,
         "lng": 90.64403,
         "country": "BD",
@@ -396,8 +572,12 @@
         "population": 99079
     },
     "1336137": {
-        "geoid": "1336137",
-        "name": "Barisāl",
+        "ids": {
+            "geonames": 1336137
+        },
+        "long": {
+            "default": "Barisāl"
+        },
         "lat": 22.70497,
         "lng": 90.37013,
         "country": "BD",
@@ -405,8 +585,12 @@
         "population": 202242
     },
     "1336140": {
-        "geoid": "1336140",
-        "name": "Jessore",
+        "ids": {
+            "geonames": 1336140
+        },
+        "long": {
+            "default": "Jessore"
+        },
         "lat": 23.16971,
         "lng": 89.21371,
         "country": "BD",
@@ -414,8 +598,12 @@
         "population": 243987
     },
     "1336143": {
-        "geoid": "1336143",
-        "name": "Pābna",
+        "ids": {
+            "geonames": 1336143
+        },
+        "long": {
+            "default": "Pābna"
+        },
         "lat": 24.00644,
         "lng": 89.2372,
         "country": "BD",
@@ -423,8 +611,12 @@
         "population": 186781
     },
     "1336144": {
-        "geoid": "1336144",
-        "name": "Tāngāil",
+        "ids": {
+            "geonames": 1336144
+        },
+        "long": {
+            "default": "Tāngāil"
+        },
         "lat": 24.24984,
         "lng": 89.91655,
         "country": "BD",
@@ -432,8 +624,12 @@
         "population": 180144
     },
     "1337233": {
-        "geoid": "1337233",
-        "name": "Bogra",
+        "ids": {
+            "geonames": 1337233
+        },
+        "long": {
+            "default": "Bogra"
+        },
         "lat": 24.85098,
         "lng": 89.37108,
         "country": "BD",
@@ -441,8 +637,12 @@
         "population": 210000
     },
     "1337240": {
-        "geoid": "1337240",
-        "name": "Nawābganj",
+        "ids": {
+            "geonames": 1337240
+        },
+        "long": {
+            "default": "Nawābganj"
+        },
         "lat": 24.59025,
         "lng": 88.27444,
         "country": "BD",
@@ -450,8 +650,12 @@
         "population": 142361
     },
     "1337245": {
-        "geoid": "1337245",
-        "name": "Mādārīpur",
+        "ids": {
+            "geonames": 1337245
+        },
+        "long": {
+            "default": "Mādārīpur"
+        },
         "lat": 23.17097,
         "lng": 90.20935,
         "country": "BD",
@@ -459,8 +663,12 @@
         "population": 84789
     },
     "1337248": {
-        "geoid": "1337248",
-        "name": "Sherpur",
+        "ids": {
+            "geonames": 1337248
+        },
+        "long": {
+            "default": "Sherpur"
+        },
         "lat": 25.01881,
         "lng": 90.01751,
         "country": "BD",
@@ -468,8 +676,12 @@
         "population": 107419
     },
     "1337249": {
-        "geoid": "1337249",
-        "name": "Kishorganj",
+        "ids": {
+            "geonames": 1337249
+        },
+        "long": {
+            "default": "Kishorganj"
+        },
         "lat": 24.43944,
         "lng": 90.78291,
         "country": "BD",
@@ -477,8 +689,12 @@
         "population": 90690
     },
     "6545349": {
-        "geoid": "6545349",
-        "name": "Saidpur",
+        "ids": {
+            "geonames": 6545349
+        },
+        "long": {
+            "default": "Saidpur"
+        },
         "lat": 25.77769,
         "lng": 88.89169,
         "country": "BD",
@@ -486,8 +702,12 @@
         "population": 199422
     },
     "7701354": {
-        "geoid": "7701354",
-        "name": "Azimpur",
+        "ids": {
+            "geonames": 7701354
+        },
+        "long": {
+            "default": "Azimpur"
+        },
         "lat": 23.7298,
         "lng": 90.3854,
         "country": "BD",
@@ -495,8 +715,12 @@
         "population": 96641
     },
     "9827976": {
-        "geoid": "9827976",
-        "name": "Paltan",
+        "ids": {
+            "geonames": 9827976
+        },
+        "long": {
+            "default": "Paltan"
+        },
         "lat": 23.73625,
         "lng": 90.41426,
         "country": "BD",

@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 2822542
         },
-        "names": {
-            "long": "Thuringia"
+        "long": {
+            "default": "Thuringia"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 2838632
         },
-        "names": {
-            "long": "Schleswig-Holstein"
+        "long": {
+            "default": "Schleswig-Holstein"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "14",
             "geonames": 2842565
         },
-        "names": {
-            "long": "Saxony-Anhalt"
+        "long": {
+            "default": "Saxony-Anhalt"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "13",
             "geonames": 2842566
         },
-        "names": {
-            "long": "Saxony"
+        "long": {
+            "default": "Saxony"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "09",
             "geonames": 2842635
         },
-        "names": {
-            "long": "Saarland"
+        "long": {
+            "default": "Saarland"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "08",
             "geonames": 2847618
         },
-        "names": {
-            "long": "Rheinland-Pfalz"
+        "long": {
+            "default": "Rheinland-Pfalz"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "07",
             "geonames": 2861876
         },
-        "names": {
-            "long": "North Rhine-Westphalia"
+        "long": {
+            "default": "North Rhine-Westphalia"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "06",
             "geonames": 2862926
         },
-        "names": {
-            "long": "Lower Saxony"
+        "long": {
+            "default": "Lower Saxony"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "12",
             "geonames": 2872567
         },
-        "names": {
-            "long": "Mecklenburg-Vorpommern"
+        "long": {
+            "default": "Mecklenburg-Vorpommern"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "05",
             "geonames": 2905330
         },
-        "names": {
-            "long": "Hesse"
+        "long": {
+            "default": "Hesse"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "04",
             "geonames": 2911297
         },
-        "names": {
-            "long": "Hamburg"
+        "long": {
+            "default": "Hamburg"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "03",
             "geonames": 2944387
         },
-        "names": {
-            "long": "Bremen"
+        "long": {
+            "default": "Bremen"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "11",
             "geonames": 2945356
         },
-        "names": {
-            "long": "Brandenburg"
+        "long": {
+            "default": "Brandenburg"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "16",
             "geonames": 2950157
         },
-        "names": {
-            "long": "Berlin"
+        "long": {
+            "default": "Berlin"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "02",
             "geonames": 2951839
         },
-        "names": {
-            "long": "Bavaria"
+        "long": {
+            "default": "Bavaria"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "01",
             "geonames": 2953481
         },
-        "names": {
-            "long": "Baden-Württemberg"
+        "long": {
+            "default": "Baden-Württemberg"
         }
     }
 ]

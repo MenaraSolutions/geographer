@@ -1,7 +1,11 @@
 {
     "1880252": {
-        "geoid": "1880252",
-        "name": "Singapore",
+        "ids": {
+            "geonames": 1880252
+        },
+        "long": {
+            "default": "Singapore"
+        },
         "lat": 1.28967,
         "lng": 103.85007,
         "country": "SG",

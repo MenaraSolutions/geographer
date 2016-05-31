@@ -4,8 +4,8 @@
             "fips": "BO",
             "geonames": 7609816
         },
-        "names": {
-            "long": "Bonaire"
+        "long": {
+            "default": "Bonaire"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "SB",
             "geonames": 7610358
         },
-        "names": {
-            "long": "Saba"
+        "long": {
+            "default": "Saba"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "SE",
             "geonames": 7610359
         },
-        "names": {
-            "long": "Sint Eustatius"
+        "long": {
+            "default": "Sint Eustatius"
         }
     }
 ]

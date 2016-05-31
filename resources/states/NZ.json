@@ -4,8 +4,8 @@
             "fips": "G2",
             "geonames": 2179538
         },
-        "names": {
-            "long": "Wellington"
+        "long": {
+            "default": "Wellington"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "F3",
             "geonames": 2179671
         },
-        "names": {
-            "long": "Manawatu-Wanganui"
+        "long": {
+            "default": "Manawatu-Wanganui"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "G1",
             "geonames": 2180293
         },
-        "names": {
-            "long": "Waikato"
+        "long": {
+            "default": "Waikato"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "TAS",
             "geonames": 2181818
         },
-        "names": {
-            "long": "Tasman"
+        "long": {
+            "default": "Tasman"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "F9",
             "geonames": 2181872
         },
-        "names": {
-            "long": "Taranaki"
+        "long": {
+            "default": "Taranaki"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "F8",
             "geonames": 2182501
         },
-        "names": {
-            "long": "Southland"
+        "long": {
+            "default": "Southland"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "E8",
             "geonames": 2182560
         },
-        "names": {
-            "long": "Bay of Plenty Region"
+        "long": {
+            "default": "Bay of Plenty Region"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "F6",
             "geonames": 2185978
         },
-        "names": {
-            "long": "Northland Region"
+        "long": {
+            "default": "Northland Region"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "F4",
             "geonames": 2187304
         },
-        "names": {
-            "long": "Marlborough"
+        "long": {
+            "default": "Marlborough"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "F2",
             "geonames": 2190146
         },
-        "names": {
-            "long": "Hawke's Bay"
+        "long": {
+            "default": "Hawke's Bay"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "F1",
             "geonames": 2190767
         },
-        "names": {
-            "long": "Gisborne"
+        "long": {
+            "default": "Gisborne"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "E9",
             "geonames": 2192628
         },
-        "names": {
-            "long": "Canterbury"
+        "long": {
+            "default": "Canterbury"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "E7",
             "geonames": 2193734
         },
-        "names": {
-            "long": "Auckland"
+        "long": {
+            "default": "Auckland"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "10",
             "geonames": 4033013
         },
-        "names": {
-            "long": "Chatham Islands"
+        "long": {
+            "default": "Chatham Islands"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "F5",
             "geonames": 6612108
         },
-        "names": {
-            "long": "Nelson"
+        "long": {
+            "default": "Nelson"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "F7",
             "geonames": 6612109
         },
-        "names": {
-            "long": "Otago"
+        "long": {
+            "default": "Otago"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "G3",
             "geonames": 6612113
         },
-        "names": {
-            "long": "West Coast"
+        "long": {
+            "default": "West Coast"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "NYL",
             "geonames": 1818224
         },
-        "names": {
-            "long": "Yuen Long"
+        "long": {
+            "default": "Yuen Long"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "NTW",
             "geonames": 1818458
         },
-        "names": {
-            "long": "Tsuen Wan"
+        "long": {
+            "default": "Tsuen Wan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "NTP",
             "geonames": 1818672
         },
-        "names": {
-            "long": "Tai Po"
+        "long": {
+            "default": "Tai Po"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "NSK",
             "geonames": 1819049
         },
-        "names": {
-            "long": "Sai Kung"
+        "long": {
+            "default": "Sai Kung"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "NIS",
             "geonames": 1819708
         },
-        "names": {
-            "long": "Islands"
+        "long": {
+            "default": "Islands"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "HCW",
             "geonames": 7533598
         },
-        "names": {
-            "long": "Central and Western"
+        "long": {
+            "default": "Central and Western"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "HWC",
             "geonames": 7533607
         },
-        "names": {
-            "long": "Wanchai"
+        "long": {
+            "default": "Wanchai"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "HEA",
             "geonames": 7533608
         },
-        "names": {
-            "long": "Eastern"
+        "long": {
+            "default": "Eastern"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "HSO",
             "geonames": 7533609
         },
-        "names": {
-            "long": "Southern"
+        "long": {
+            "default": "Southern"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "KYT",
             "geonames": 7533610
         },
-        "names": {
-            "long": "Yau Tsim Mong"
+        "long": {
+            "default": "Yau Tsim Mong"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "KSS",
             "geonames": 7533611
         },
-        "names": {
-            "long": "Sham Shui Po"
+        "long": {
+            "default": "Sham Shui Po"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "KKC",
             "geonames": 7533612
         },
-        "names": {
-            "long": "Kowloon City"
+        "long": {
+            "default": "Kowloon City"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "KWT",
             "geonames": 7533613
         },
-        "names": {
-            "long": "Wong Tai Sin"
+        "long": {
+            "default": "Wong Tai Sin"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "KKT",
             "geonames": 7533614
         },
-        "names": {
-            "long": "Kwon Tong"
+        "long": {
+            "default": "Kwon Tong"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "NKT",
             "geonames": 7533615
         },
-        "names": {
-            "long": "Kwai Tsing"
+        "long": {
+            "default": "Kwai Tsing"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "NTM",
             "geonames": 7533616
         },
-        "names": {
-            "long": "Tuen Mun"
+        "long": {
+            "default": "Tuen Mun"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "NNO",
             "geonames": 7533617
         },
-        "names": {
-            "long": "North"
+        "long": {
+            "default": "North"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "NST",
             "geonames": 7533618
         },
-        "names": {
-            "long": "Sha Tin"
+        "long": {
+            "default": "Sha Tin"
         }
     }
 ]

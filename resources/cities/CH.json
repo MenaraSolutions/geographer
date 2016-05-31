@@ -1,7 +1,11 @@
 {
     "2657896": {
-        "geoid": "2657896",
-        "name": "Zürich",
+        "ids": {
+            "geonames": 2657896
+        },
+        "long": {
+            "default": "Zürich"
+        },
         "lat": 47.36667,
         "lng": 8.55,
         "country": "CH",
@@ -9,8 +13,12 @@
         "population": 341730
     },
     "2657970": {
-        "geoid": "2657970",
-        "name": "Winterthur",
+        "ids": {
+            "geonames": 2657970
+        },
+        "long": {
+            "default": "Winterthur"
+        },
         "lat": 47.50564,
         "lng": 8.72413,
         "country": "CH",
@@ -18,8 +26,12 @@
         "population": 91908
     },
     "2658822": {
-        "geoid": "2658822",
-        "name": "Sankt Gallen",
+        "ids": {
+            "geonames": 2658822
+        },
+        "long": {
+            "default": "Sankt Gallen"
+        },
         "lat": 47.42391,
         "lng": 9.37477,
         "country": "CH",
@@ -27,8 +39,12 @@
         "population": 70572
     },
     "2659811": {
-        "geoid": "2659811",
-        "name": "Luzern",
+        "ids": {
+            "geonames": 2659811
+        },
+        "long": {
+            "default": "Luzern"
+        },
         "lat": 47.05048,
         "lng": 8.30635,
         "country": "CH",
@@ -36,8 +52,12 @@
         "population": 57066
     },
     "2659994": {
-        "geoid": "2659994",
-        "name": "Lausanne",
+        "ids": {
+            "geonames": 2659994
+        },
+        "long": {
+            "default": "Lausanne"
+        },
         "lat": 46.516,
         "lng": 6.63282,
         "country": "CH",
@@ -45,8 +65,12 @@
         "population": 116751
     },
     "2660646": {
-        "geoid": "2660646",
-        "name": "Genève",
+        "ids": {
+            "geonames": 2660646
+        },
+        "long": {
+            "default": "Genève"
+        },
         "lat": 46.20222,
         "lng": 6.14569,
         "country": "CH",
@@ -54,8 +78,12 @@
         "population": 183981
     },
     "2661552": {
-        "geoid": "2661552",
-        "name": "Bern",
+        "ids": {
+            "geonames": 2661552
+        },
+        "long": {
+            "default": "Bern"
+        },
         "lat": 46.94809,
         "lng": 7.44744,
         "country": "CH",
@@ -63,8 +91,12 @@
         "population": 121631
     },
     "2661604": {
-        "geoid": "2661604",
-        "name": "Basel",
+        "ids": {
+            "geonames": 2661604
+        },
+        "long": {
+            "default": "Basel"
+        },
         "lat": 47.55839,
         "lng": 7.57327,
         "country": "CH",
@@ -72,8 +104,12 @@
         "population": 164488
     },
     "6295533": {
-        "geoid": "6295533",
-        "name": "Zürich (Kreis 11)",
+        "ids": {
+            "geonames": 6295533
+        },
+        "long": {
+            "default": "Zürich (Kreis 11)"
+        },
         "lat": 47.42326,
         "lng": 8.52166,
         "country": "CH",

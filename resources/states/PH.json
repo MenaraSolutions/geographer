@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 7115989
         },
-        "names": {
-            "long": "Autonomous Region in Muslim Mindanao"
+        "long": {
+            "default": "Autonomous Region in Muslim Mindanao"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 7521295
         },
-        "names": {
-            "long": "Northern Mindanao"
+        "long": {
+            "default": "Northern Mindanao"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "41",
             "geonames": 7521296
         },
-        "names": {
-            "long": "Mimaropa"
+        "long": {
+            "default": "Mimaropa"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "02",
             "geonames": 7521297
         },
-        "names": {
-            "long": "Cagayan Valley"
+        "long": {
+            "default": "Cagayan Valley"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "12",
             "geonames": 7521298
         },
-        "names": {
-            "long": "Soccsksargen"
+        "long": {
+            "default": "Soccsksargen"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 7521299
         },
-        "names": {
-            "long": "Caraga"
+        "long": {
+            "default": "Caraga"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "15",
             "geonames": 7521300
         },
-        "names": {
-            "long": "Cordillera"
+        "long": {
+            "default": "Cordillera"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "01",
             "geonames": 7521301
         },
-        "names": {
-            "long": "Ilocos"
+        "long": {
+            "default": "Ilocos"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "40",
             "geonames": 7521303
         },
-        "names": {
-            "long": "Calabarzon"
+        "long": {
+            "default": "Calabarzon"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "06",
             "geonames": 7521304
         },
-        "names": {
-            "long": "Western Visayas"
+        "long": {
+            "default": "Western Visayas"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "03",
             "geonames": 7521305
         },
-        "names": {
-            "long": "Central Luzon"
+        "long": {
+            "default": "Central Luzon"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "07",
             "geonames": 7521306
         },
-        "names": {
-            "long": "Central Visayas"
+        "long": {
+            "default": "Central Visayas"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "08",
             "geonames": 7521307
         },
-        "names": {
-            "long": "Eastern Visayas"
+        "long": {
+            "default": "Eastern Visayas"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "09",
             "geonames": 7521308
         },
-        "names": {
-            "long": "Zamboanga Peninsula"
+        "long": {
+            "default": "Zamboanga Peninsula"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "11",
             "geonames": 7521309
         },
-        "names": {
-            "long": "Davao"
+        "long": {
+            "default": "Davao"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "05",
             "geonames": 7521310
         },
-        "names": {
-            "long": "Bicol"
+        "long": {
+            "default": "Bicol"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "NCR",
             "geonames": 7521311
         },
-        "names": {
-            "long": "Metro Manila"
+        "long": {
+            "default": "Metro Manila"
         }
     }
 ]

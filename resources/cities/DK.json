@@ -1,7 +1,11 @@
 {
     "2610613": {
-        "geoid": "2610613",
-        "name": "Vejle",
+        "ids": {
+            "geonames": 2610613
+        },
+        "long": {
+            "default": "Vejle"
+        },
         "lat": 55.70927,
         "lng": 9.5357,
         "country": "DK",
@@ -9,8 +13,12 @@
         "population": 51177
     },
     "2615006": {
-        "geoid": "2615006",
-        "name": "Randers",
+        "ids": {
+            "geonames": 2615006
+        },
+        "long": {
+            "default": "Randers"
+        },
         "lat": 56.4607,
         "lng": 10.03639,
         "country": "DK",
@@ -18,8 +26,12 @@
         "population": 55780
     },
     "2615876": {
-        "geoid": "2615876",
-        "name": "Odense",
+        "ids": {
+            "geonames": 2615876
+        },
+        "long": {
+            "default": "Odense"
+        },
         "lat": 55.39594,
         "lng": 10.38831,
         "country": "DK",
@@ -27,8 +39,12 @@
         "population": 145931
     },
     "2618425": {
-        "geoid": "2618425",
-        "name": "Copenhagen",
+        "ids": {
+            "geonames": 2618425
+        },
+        "long": {
+            "default": "Copenhagen"
+        },
         "lat": 55.67594,
         "lng": 12.56553,
         "country": "DK",
@@ -36,8 +52,12 @@
         "population": 1153615
     },
     "2618528": {
-        "geoid": "2618528",
-        "name": "Kolding",
+        "ids": {
+            "geonames": 2618528
+        },
+        "long": {
+            "default": "Kolding"
+        },
         "lat": 55.4904,
         "lng": 9.47216,
         "country": "DK",
@@ -45,8 +65,12 @@
         "population": 55363
     },
     "2619771": {
-        "geoid": "2619771",
-        "name": "Horsens",
+        "ids": {
+            "geonames": 2619771
+        },
+        "long": {
+            "default": "Horsens"
+        },
         "lat": 55.86066,
         "lng": 9.85034,
         "country": "DK",
@@ -54,8 +78,12 @@
         "population": 50074
     },
     "2621942": {
-        "geoid": "2621942",
-        "name": "Frederiksberg",
+        "ids": {
+            "geonames": 2621942
+        },
+        "long": {
+            "default": "Frederiksberg"
+        },
         "lat": 55.67938,
         "lng": 12.53463,
         "country": "DK",
@@ -63,8 +91,12 @@
         "population": 95029
     },
     "2622447": {
-        "geoid": "2622447",
-        "name": "Esbjerg",
+        "ids": {
+            "geonames": 2622447
+        },
+        "long": {
+            "default": "Esbjerg"
+        },
         "lat": 55.47028,
         "lng": 8.45187,
         "country": "DK",
@@ -72,8 +104,12 @@
         "population": 72205
     },
     "2624652": {
-        "geoid": "2624652",
-        "name": "Århus",
+        "ids": {
+            "geonames": 2624652
+        },
+        "long": {
+            "default": "Århus"
+        },
         "lat": 56.15674,
         "lng": 10.21076,
         "country": "DK",
@@ -81,8 +117,12 @@
         "population": 237551
     },
     "2624886": {
-        "geoid": "2624886",
-        "name": "Aalborg",
+        "ids": {
+            "geonames": 2624886
+        },
+        "long": {
+            "default": "Aalborg"
+        },
         "lat": 57.048,
         "lng": 9.9187,
         "country": "DK",

@@ -4,8 +4,8 @@
             "fips": "07",
             "geonames": 381229
         },
-        "names": {
-            "long": "Upper Nile"
+        "long": {
+            "default": "Upper Nile"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 408647
         },
-        "names": {
-            "long": "Lakes"
+        "long": {
+            "default": "Lakes"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "06",
             "geonames": 408650
         },
-        "names": {
-            "long": "Unity"
+        "long": {
+            "default": "Unity"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "01",
             "geonames": 408655
         },
-        "names": {
-            "long": "Central Equatoria"
+        "long": {
+            "default": "Central Equatoria"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 408656
         },
-        "names": {
-            "long": "Western Equatoria"
+        "long": {
+            "default": "Western Equatoria"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 408657
         },
-        "names": {
-            "long": "Western Bahr al Ghazal"
+        "long": {
+            "default": "Western Bahr al Ghazal"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "03",
             "geonames": 408662
         },
-        "names": {
-            "long": "Jonglei"
+        "long": {
+            "default": "Jonglei"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "05",
             "geonames": 408665
         },
-        "names": {
-            "long": "Northern Bahr al Ghazal"
+        "long": {
+            "default": "Northern Bahr al Ghazal"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "02",
             "geonames": 408668
         },
-        "names": {
-            "long": "Eastern Equatoria"
+        "long": {
+            "default": "Eastern Equatoria"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "08",
             "geonames": 408670
         },
-        "names": {
-            "long": "Warrap"
+        "long": {
+            "default": "Warrap"
         }
     }
 ]

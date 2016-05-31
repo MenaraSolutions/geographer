@@ -4,8 +4,8 @@
             "fips": "10",
             "geonames": 2255329
         },
-        "names": {
-            "long": "Sangha"
+        "long": {
+            "default": "Sangha"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "11",
             "geonames": 2255404
         },
-        "names": {
-            "long": "Pool"
+        "long": {
+            "default": "Pool"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 2255422
         },
-        "names": {
-            "long": "Plateaux"
+        "long": {
+            "default": "Plateaux"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 2256175
         },
-        "names": {
-            "long": "Niari"
+        "long": {
+            "default": "Niari"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 2258431
         },
-        "names": {
-            "long": "Likouala"
+        "long": {
+            "default": "Likouala"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "05",
             "geonames": 2258534
         },
-        "names": {
-            "long": "Lékoumou"
+        "long": {
+            "default": "Lékoumou"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "04",
             "geonames": 2258738
         },
-        "names": {
-            "long": "Kouilou"
+        "long": {
+            "default": "Kouilou"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "13",
             "geonames": 2260487
         },
-        "names": {
-            "long": "Cuvette"
+        "long": {
+            "default": "Cuvette"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "01",
             "geonames": 2260668
         },
-        "names": {
-            "long": "Bouenza"
+        "long": {
+            "default": "Bouenza"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "12",
             "geonames": 2572183
         },
-        "names": {
-            "long": "Brazzaville"
+        "long": {
+            "default": "Brazzaville"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "14",
             "geonames": 2593118
         },
-        "names": {
-            "long": "Cuvette-Ouest"
+        "long": {
+            "default": "Cuvette-Ouest"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "7280295",
             "geonames": 7280295
         },
-        "names": {
-            "long": "Pointe-Noire"
+        "long": {
+            "default": "Pointe-Noire"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "02",
             "geonames": 936339
         },
-        "names": {
-            "long": "Crozet"
+        "long": {
+            "default": "Crozet"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "03",
             "geonames": 1546558
         },
-        "names": {
-            "long": "Kerguelen"
+        "long": {
+            "default": "Kerguelen"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "01",
             "geonames": 1547221
         },
-        "names": {
-            "long": "Saint-Paul-et-Amsterdam"
+        "long": {
+            "default": "Saint-Paul-et-Amsterdam"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "05",
             "geonames": 6690916
         },
-        "names": {
-            "long": "Îles Éparses"
+        "long": {
+            "default": "Îles Éparses"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "04",
             "geonames": 6690917
         },
-        "names": {
-            "long": "Terre-Adélie"
+        "long": {
+            "default": "Terre-Adélie"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 3382761
         },
-        "names": {
-            "long": "Wanica"
+        "long": {
+            "default": "Wanica"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 3383062
         },
-        "names": {
-            "long": "Sipaliwini"
+        "long": {
+            "default": "Sipaliwini"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 3383110
         },
-        "names": {
-            "long": "Saramacca"
+        "long": {
+            "default": "Saramacca"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "16",
             "geonames": 3383329
         },
-        "names": {
-            "long": "Paramaribo"
+        "long": {
+            "default": "Paramaribo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 3383337
         },
-        "names": {
-            "long": "Para"
+        "long": {
+            "default": "Para"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 3383438
         },
-        "names": {
-            "long": "Nickerie"
+        "long": {
+            "default": "Nickerie"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 3383560
         },
-        "names": {
-            "long": "Marowijne"
+        "long": {
+            "default": "Marowijne"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 3384397
         },
-        "names": {
-            "long": "Coronie"
+        "long": {
+            "default": "Coronie"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 3384418
         },
-        "names": {
-            "long": "Commewijne"
+        "long": {
+            "default": "Commewijne"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 3384481
         },
-        "names": {
-            "long": "Brokopondo"
+        "long": {
+            "default": "Brokopondo"
         }
     }
 ]

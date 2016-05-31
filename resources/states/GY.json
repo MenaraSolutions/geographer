@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 3375463
         },
-        "names": {
-            "long": "Upper Takutu-Upper Essequibo"
+        "long": {
+            "default": "Upper Takutu-Upper Essequibo"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 3375469
         },
-        "names": {
-            "long": "Upper Demerara-Berbice"
+        "long": {
+            "default": "Upper Demerara-Berbice"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 3376386
         },
-        "names": {
-            "long": "Potaro-Siparuni"
+        "long": {
+            "default": "Potaro-Siparuni"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "16",
             "geonames": 3376407
         },
-        "names": {
-            "long": "Pomeroon-Supenaam"
+        "long": {
+            "default": "Pomeroon-Supenaam"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 3377274
         },
-        "names": {
-            "long": "Mahaica-Berbice"
+        "long": {
+            "default": "Mahaica-Berbice"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 3378741
         },
-        "names": {
-            "long": "Essequibo Islands-West Demerara"
+        "long": {
+            "default": "Essequibo Islands-West Demerara"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 3378840
         },
-        "names": {
-            "long": "East Berbice-Corentyne"
+        "long": {
+            "default": "East Berbice-Corentyne"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 3378950
         },
-        "names": {
-            "long": "Demerara-Mahaica"
+        "long": {
+            "default": "Demerara-Mahaica"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 3379023
         },
-        "names": {
-            "long": "Cuyuni-Mazaruni"
+        "long": {
+            "default": "Cuyuni-Mazaruni"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 3379515
         },
-        "names": {
-            "long": "Barima-Waini"
+        "long": {
+            "default": "Barima-Waini"
         }
     }
 ]

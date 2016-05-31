@@ -4,8 +4,8 @@
             "fips": "10096138",
             "geonames": 10096138
         },
-        "names": {
-            "long": "Ferizaj"
+        "long": {
+            "default": "Ferizaj"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10096859",
             "geonames": 10096859
         },
-        "names": {
-            "long": "Gjakova"
+        "long": {
+            "default": "Gjakova"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "10097357",
             "geonames": 10097357
         },
-        "names": {
-            "long": "Gjilan"
+        "long": {
+            "default": "Gjilan"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "10097358",
             "geonames": 10097358
         },
-        "names": {
-            "long": "Mitrovica"
+        "long": {
+            "default": "Mitrovica"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10097359",
             "geonames": 10097359
         },
-        "names": {
-            "long": "Pec"
+        "long": {
+            "default": "Pec"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "10097360",
             "geonames": 10097360
         },
-        "names": {
-            "long": "Pristina"
+        "long": {
+            "default": "Pristina"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "10097361",
             "geonames": 10097361
         },
-        "names": {
-            "long": "Prizren"
+        "long": {
+            "default": "Prizren"
         }
     }
 ]

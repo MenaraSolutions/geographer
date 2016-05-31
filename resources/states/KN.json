@@ -4,8 +4,8 @@
             "fips": "15",
             "geonames": 3575114
         },
-        "names": {
-            "long": "Trinity Palmetto Point"
+        "long": {
+            "default": "Trinity Palmetto Point"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "13",
             "geonames": 3575164
         },
-        "names": {
-            "long": "Saint Thomas Middle Island"
+        "long": {
+            "default": "Saint Thomas Middle Island"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "12",
             "geonames": 3575165
         },
-        "names": {
-            "long": "Saint Thomas Lowland"
+        "long": {
+            "default": "Saint Thomas Lowland"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "11",
             "geonames": 3575168
         },
-        "names": {
-            "long": "Saint Peter Basseterre"
+        "long": {
+            "default": "Saint Peter Basseterre"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "10",
             "geonames": 3575171
         },
-        "names": {
-            "long": "Saint Paul Charlestown"
+        "long": {
+            "default": "Saint Paul Charlestown"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "09",
             "geonames": 3575172
         },
-        "names": {
-            "long": "Saint Paul Capesterre"
+        "long": {
+            "default": "Saint Paul Capesterre"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 3575173
         },
-        "names": {
-            "long": "Saint Mary Cayon"
+        "long": {
+            "default": "Saint Mary Cayon"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "07",
             "geonames": 3575175
         },
-        "names": {
-            "long": "Saint John Figtree"
+        "long": {
+            "default": "Saint John Figtree"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "06",
             "geonames": 3575176
         },
-        "names": {
-            "long": "Saint John Capesterre"
+        "long": {
+            "default": "Saint John Capesterre"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "05",
             "geonames": 3575177
         },
-        "names": {
-            "long": "Saint James Windwa"
+        "long": {
+            "default": "Saint James Windwa"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "04",
             "geonames": 3575179
         },
-        "names": {
-            "long": "Saint George Gingerland"
+        "long": {
+            "default": "Saint George Gingerland"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "03",
             "geonames": 3575180
         },
-        "names": {
-            "long": "Saint George Basseterre"
+        "long": {
+            "default": "Saint George Basseterre"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "02",
             "geonames": 3575183
         },
-        "names": {
-            "long": "Saint Anne Sandy Point"
+        "long": {
+            "default": "Saint Anne Sandy Point"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "01",
             "geonames": 3575476
         },
-        "names": {
-            "long": "Christ Church Nichola Town"
+        "long": {
+            "default": "Christ Church Nichola Town"
         }
     }
 ]

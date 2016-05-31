@@ -1,7 +1,11 @@
 {
     "1527199": {
-        "geoid": "1527199",
-        "name": "Tokmok",
+        "ids": {
+            "geonames": 1527199
+        },
+        "long": {
+            "default": "Tokmok"
+        },
         "lat": 42.84194,
         "lng": 75.30149,
         "country": "KG",
@@ -9,8 +13,12 @@
         "population": 63047
     },
     "1527534": {
-        "geoid": "1527534",
-        "name": "Osh",
+        "ids": {
+            "geonames": 1527534
+        },
+        "long": {
+            "default": "Osh"
+        },
         "lat": 40.52828,
         "lng": 72.7985,
         "country": "KG",
@@ -18,8 +26,12 @@
         "population": 200000
     },
     "1527592": {
-        "geoid": "1527592",
-        "name": "Naryn",
+        "ids": {
+            "geonames": 1527592
+        },
+        "long": {
+            "default": "Naryn"
+        },
         "lat": 41.42866,
         "lng": 75.99111,
         "country": "KG",
@@ -27,8 +39,12 @@
         "population": 52300
     },
     "1528121": {
-        "geoid": "1528121",
-        "name": "Karakol",
+        "ids": {
+            "geonames": 1528121
+        },
+        "long": {
+            "default": "Karakol"
+        },
         "lat": 42.49068,
         "lng": 78.39362,
         "country": "KG",
@@ -36,8 +52,12 @@
         "population": 70171
     },
     "1528182": {
-        "geoid": "1528182",
-        "name": "Kara-Balta",
+        "ids": {
+            "geonames": 1528182
+        },
+        "long": {
+            "default": "Kara-Balta"
+        },
         "lat": 42.81423,
         "lng": 73.84813,
         "country": "KG",
@@ -45,8 +65,12 @@
         "population": 62796
     },
     "1528249": {
-        "geoid": "1528249",
-        "name": "Jalal-Abad",
+        "ids": {
+            "geonames": 1528249
+        },
+        "long": {
+            "default": "Jalal-Abad"
+        },
         "lat": 40.93333,
         "lng": 73,
         "country": "KG",
@@ -54,8 +78,12 @@
         "population": 75700
     },
     "1528675": {
-        "geoid": "1528675",
-        "name": "Bishkek",
+        "ids": {
+            "geonames": 1528675
+        },
+        "long": {
+            "default": "Bishkek"
+        },
         "lat": 42.87,
         "lng": 74.59,
         "country": "KG",
@@ -63,8 +91,12 @@
         "population": 900000
     },
     "11054823": {
-        "geoid": "11054823",
-        "name": "Osh City",
+        "ids": {
+            "geonames": 11054823
+        },
+        "long": {
+            "default": "Osh City"
+        },
         "lat": 40.53957,
         "lng": 72.81034,
         "country": "KG",

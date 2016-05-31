@@ -4,8 +4,8 @@
             "fips": "450",
             "geonames": 4041685
         },
-        "names": {
-            "long": "Wake Island"
+        "long": {
+            "default": "Wake Island"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "350",
             "geonames": 4743755
         },
-        "names": {
-            "long": "Navassa Island"
+        "long": {
+            "default": "Navassa Island"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "050",
             "geonames": 5854907
         },
-        "names": {
-            "long": "Baker Island"
+        "long": {
+            "default": "Baker Island"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "100",
             "geonames": 5854922
         },
-        "names": {
-            "long": "Howland Island"
+        "long": {
+            "default": "Howland Island"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "150",
             "geonames": 5854926
         },
-        "names": {
-            "long": "Jarvis Island"
+        "long": {
+            "default": "Jarvis Island"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "200",
             "geonames": 5854929
         },
-        "names": {
-            "long": "Johnston Atoll"
+        "long": {
+            "default": "Johnston Atoll"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "250",
             "geonames": 5854936
         },
-        "names": {
-            "long": "Kingman Reef"
+        "long": {
+            "default": "Kingman Reef"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "300",
             "geonames": 5854943
         },
-        "names": {
-            "long": "Midway Islands"
+        "long": {
+            "default": "Midway Islands"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "400",
             "geonames": 5854952
         },
-        "names": {
-            "long": "Palmyra Atoll"
+        "long": {
+            "default": "Palmyra Atoll"
         }
     }
 ]

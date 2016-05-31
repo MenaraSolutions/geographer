@@ -1,7 +1,11 @@
 {
     "2410763": {
-        "geoid": "2410763",
-        "name": "São Tomé",
+        "ids": {
+            "geonames": 2410763
+        },
+        "long": {
+            "default": "São Tomé"
+        },
         "lat": 0.33654,
         "lng": 6.72732,
         "country": "ST",

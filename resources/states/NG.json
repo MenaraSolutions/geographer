@@ -4,8 +4,8 @@
             "fips": "51",
             "geonames": 2322907
         },
-        "names": {
-            "long": "Sokoto"
+        "long": {
+            "default": "Sokoto"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "50",
             "geonames": 2324433
         },
-        "names": {
-            "long": "Rivers"
+        "long": {
+            "default": "Rivers"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "49",
             "geonames": 2324828
         },
-        "names": {
-            "long": "Plateau"
+        "long": {
+            "default": "Plateau"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "32",
             "geonames": 2325190
         },
-        "names": {
-            "long": "Oyo"
+        "long": {
+            "default": "Oyo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "48",
             "geonames": 2326168
         },
-        "names": {
-            "long": "Ondo"
+        "long": {
+            "default": "Ondo"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "16",
             "geonames": 2327546
         },
-        "names": {
-            "long": "Ogun"
+        "long": {
+            "default": "Ogun"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "31",
             "geonames": 2328925
         },
-        "names": {
-            "long": "Niger"
+        "long": {
+            "default": "Niger"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "05",
             "geonames": 2332453
         },
-        "names": {
-            "long": "Lagos"
+        "long": {
+            "default": "Lagos"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "30",
             "geonames": 2332785
         },
-        "names": {
-            "long": "Kwara"
+        "long": {
+            "default": "Kwara"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "24",
             "geonames": 2334797
         },
-        "names": {
-            "long": "Katsina"
+        "long": {
+            "default": "Katsina"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "29",
             "geonames": 2335196
         },
-        "names": {
-            "long": "Kano"
+        "long": {
+            "default": "Kano"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "23",
             "geonames": 2335722
         },
-        "names": {
-            "long": "Kaduna"
+        "long": {
+            "default": "Kaduna"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "28",
             "geonames": 2337542
         },
-        "names": {
-            "long": "Imo"
+        "long": {
+            "default": "Imo"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "22",
             "geonames": 2345891
         },
-        "names": {
-            "long": "Cross River"
+        "long": {
+            "default": "Cross River"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "27",
             "geonames": 2346794
         },
-        "names": {
-            "long": "Borno"
+        "long": {
+            "default": "Borno"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "26",
             "geonames": 2347266
         },
-        "names": {
-            "long": "Benue"
+        "long": {
+            "default": "Benue"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "46",
             "geonames": 2347468
         },
-        "names": {
-            "long": "Bauchi"
+        "long": {
+            "default": "Bauchi"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "25",
             "geonames": 2349961
         },
-        "names": {
-            "long": "Anambra"
+        "long": {
+            "default": "Anambra"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "21",
             "geonames": 2350813
         },
-        "names": {
-            "long": "Akwa Ibom"
+        "long": {
+            "default": "Akwa Ibom"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "11",
             "geonames": 2352776
         },
-        "names": {
-            "long": "Abuja Federal Capital Territory"
+        "long": {
+            "default": "Abuja Federal Capital Territory"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "45",
             "geonames": 2565340
         },
-        "names": {
-            "long": "Abia"
+        "long": {
+            "default": "Abia"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "36",
             "geonames": 2565341
         },
-        "names": {
-            "long": "Delta"
+        "long": {
+            "default": "Delta"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "35",
             "geonames": 2565342
         },
-        "names": {
-            "long": "Adamawa"
+        "long": {
+            "default": "Adamawa"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "37",
             "geonames": 2565343
         },
-        "names": {
-            "long": "Edo"
+        "long": {
+            "default": "Edo"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "47",
             "geonames": 2565344
         },
-        "names": {
-            "long": "Enugu"
+        "long": {
+            "default": "Enugu"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "39",
             "geonames": 2565345
         },
-        "names": {
-            "long": "Jigawa"
+        "long": {
+            "default": "Jigawa"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "52",
             "geonames": 2595344
         },
-        "names": {
-            "long": "Bayelsa"
+        "long": {
+            "default": "Bayelsa"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "53",
             "geonames": 2595345
         },
-        "names": {
-            "long": "Ebonyi"
+        "long": {
+            "default": "Ebonyi"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "54",
             "geonames": 2595346
         },
-        "names": {
-            "long": "Ekiti"
+        "long": {
+            "default": "Ekiti"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "55",
             "geonames": 2595347
         },
-        "names": {
-            "long": "Gombe"
+        "long": {
+            "default": "Gombe"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "56",
             "geonames": 2595348
         },
-        "names": {
-            "long": "Nassarawa"
+        "long": {
+            "default": "Nassarawa"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "57",
             "geonames": 2595349
         },
-        "names": {
-            "long": "Zamfara"
+        "long": {
+            "default": "Zamfara"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "40",
             "geonames": 2597363
         },
-        "names": {
-            "long": "Kebbi"
+        "long": {
+            "default": "Kebbi"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "41",
             "geonames": 2597364
         },
-        "names": {
-            "long": "Kogi"
+        "long": {
+            "default": "Kogi"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "42",
             "geonames": 2597365
         },
-        "names": {
-            "long": "Osun"
+        "long": {
+            "default": "Osun"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "43",
             "geonames": 2597366
         },
-        "names": {
-            "long": "Taraba"
+        "long": {
+            "default": "Taraba"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "44",
             "geonames": 2597367
         },
-        "names": {
-            "long": "Yobe"
+        "long": {
+            "default": "Yobe"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "14",
             "geonames": 3430657
         },
-        "names": {
-            "long": "Misiones Province"
+        "long": {
+            "default": "Misiones Province"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "09",
             "geonames": 3433896
         },
-        "names": {
-            "long": "Formosa Province"
+        "long": {
+            "default": "Formosa Province"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "07",
             "geonames": 3433955
         },
-        "names": {
-            "long": "Buenos Aires F.D."
+        "long": {
+            "default": "Buenos Aires F.D."
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 3434137
         },
-        "names": {
-            "long": "Entre Ríos Province"
+        "long": {
+            "default": "Entre Ríos Province"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 3435214
         },
-        "names": {
-            "long": "Corrientes Province"
+        "long": {
+            "default": "Corrientes Province"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 3435907
         },
-        "names": {
-            "long": "Buenos Aires"
+        "long": {
+            "default": "Buenos Aires"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "24",
             "geonames": 3833578
         },
-        "names": {
-            "long": "Tucumán Province"
+        "long": {
+            "default": "Tucumán Province"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "23",
             "geonames": 3834450
         },
-        "names": {
-            "long": "Tierra del Fuego Province"
+        "long": {
+            "default": "Tierra del Fuego Province"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "22",
             "geonames": 3835868
         },
-        "names": {
-            "long": "Santiago del Estero Province"
+        "long": {
+            "default": "Santiago del Estero Province"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "21",
             "geonames": 3836276
         },
-        "names": {
-            "long": "Santa Fe Province"
+        "long": {
+            "default": "Santa Fe Province"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "20",
             "geonames": 3836350
         },
-        "names": {
-            "long": "Santa Cruz Province"
+        "long": {
+            "default": "Santa Cruz Province"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "19",
             "geonames": 3837029
         },
-        "names": {
-            "long": "San Luis Province"
+        "long": {
+            "default": "San Luis Province"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "18",
             "geonames": 3837152
         },
-        "names": {
-            "long": "San Juan Province"
+        "long": {
+            "default": "San Juan Province"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "17",
             "geonames": 3838231
         },
-        "names": {
-            "long": "Salta Province"
+        "long": {
+            "default": "Salta Province"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "16",
             "geonames": 3838830
         },
-        "names": {
-            "long": "Río Negro Province"
+        "long": {
+            "default": "Río Negro Province"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "15",
             "geonames": 3843122
         },
-        "names": {
-            "long": "Neuquén Province"
+        "long": {
+            "default": "Neuquén Province"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "13",
             "geonames": 3844419
         },
-        "names": {
-            "long": "Mendoza Province"
+        "long": {
+            "default": "Mendoza Province"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "12",
             "geonames": 3848949
         },
-        "names": {
-            "long": "La Rioja Province"
+        "long": {
+            "default": "La Rioja Province"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "11",
             "geonames": 3849574
         },
-        "names": {
-            "long": "La Pampa Province"
+        "long": {
+            "default": "La Pampa Province"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "10",
             "geonames": 3853404
         },
-        "names": {
-            "long": "Jujuy Province"
+        "long": {
+            "default": "Jujuy Province"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "05",
             "geonames": 3860255
         },
-        "names": {
-            "long": "Cordoba Province"
+        "long": {
+            "default": "Cordoba Province"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "04",
             "geonames": 3861244
         },
-        "names": {
-            "long": "Chubut Province"
+        "long": {
+            "default": "Chubut Province"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "03",
             "geonames": 3861887
         },
-        "names": {
-            "long": "Chaco Province"
+        "long": {
+            "default": "Chaco Province"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "02",
             "geonames": 3862286
         },
-        "names": {
-            "long": "Catamarca Province"
+        "long": {
+            "default": "Catamarca Province"
         }
     }
 ]

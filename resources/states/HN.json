@@ -4,8 +4,8 @@
             "fips": "18",
             "geonames": 3600193
         },
-        "names": {
-            "long": "Yoro"
+        "long": {
+            "default": "Yoro"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "17",
             "geonames": 3600456
         },
-        "names": {
-            "long": "Valle"
+        "long": {
+            "default": "Valle"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "16",
             "geonames": 3601689
         },
-        "names": {
-            "long": "Santa Bárbara"
+        "long": {
+            "default": "Santa Bárbara"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "15",
             "geonames": 3604249
         },
-        "names": {
-            "long": "Olancho"
+        "long": {
+            "default": "Olancho"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "14",
             "geonames": 3604318
         },
-        "names": {
-            "long": "Ocotepeque"
+        "long": {
+            "default": "Ocotepeque"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 3606066
         },
-        "names": {
-            "long": "Lempira"
+        "long": {
+            "default": "Lempira"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "12",
             "geonames": 3607251
         },
-        "names": {
-            "long": "La Paz"
+        "long": {
+            "default": "La Paz"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "11",
             "geonames": 3608814
         },
-        "names": {
-            "long": "Bay Islands"
+        "long": {
+            "default": "Bay Islands"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "10",
             "geonames": 3608833
         },
-        "names": {
-            "long": "Intibucá"
+        "long": {
+            "default": "Intibucá"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "09",
             "geonames": 3609583
         },
-        "names": {
-            "long": "Gracias a Dios"
+        "long": {
+            "default": "Gracias a Dios"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "08",
             "geonames": 3609672
         },
-        "names": {
-            "long": "Francisco Morazán"
+        "long": {
+            "default": "Francisco Morazán"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "07",
             "geonames": 3610942
         },
-        "names": {
-            "long": "El Paraíso"
+        "long": {
+            "default": "El Paraíso"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "06",
             "geonames": 3613140
         },
-        "names": {
-            "long": "Cortés"
+        "long": {
+            "default": "Cortés"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "05",
             "geonames": 3613229
         },
-        "names": {
-            "long": "Copán"
+        "long": {
+            "default": "Copán"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "04",
             "geonames": 3613319
         },
-        "names": {
-            "long": "Comayagua"
+        "long": {
+            "default": "Comayagua"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "03",
             "geonames": 3613358
         },
-        "names": {
-            "long": "Colón"
+        "long": {
+            "default": "Colón"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "02",
             "geonames": 3613527
         },
-        "names": {
-            "long": "Choluteca"
+        "long": {
+            "default": "Choluteca"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "01",
             "geonames": 3615027
         },
-        "names": {
-            "long": "Atlántida"
+        "long": {
+            "default": "Atlántida"
         }
     }
 ]

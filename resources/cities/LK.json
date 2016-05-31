@@ -1,7 +1,11 @@
 {
     "1225018": {
-        "geoid": "1225018",
-        "name": "Vavuniya",
+        "ids": {
+            "geonames": 1225018
+        },
+        "long": {
+            "default": "Vavuniya"
+        },
         "lat": 8.7514,
         "lng": 80.4971,
         "country": "LK",
@@ -9,8 +13,12 @@
         "population": 60176
     },
     "1225142": {
-        "geoid": "1225142",
-        "name": "Valvedditturai",
+        "ids": {
+            "geonames": 1225142
+        },
+        "long": {
+            "default": "Valvedditturai"
+        },
         "lat": 9.81667,
         "lng": 80.16667,
         "country": "LK",
@@ -18,8 +26,12 @@
         "population": 78205
     },
     "1226260": {
-        "geoid": "1226260",
-        "name": "Trincomalee",
+        "ids": {
+            "geonames": 1226260
+        },
+        "long": {
+            "default": "Trincomalee"
+        },
         "lat": 8.5711,
         "lng": 81.2335,
         "country": "LK",
@@ -27,8 +39,12 @@
         "population": 108420
     },
     "1229989": {
-        "geoid": "1229989",
-        "name": "Point Pedro",
+        "ids": {
+            "geonames": 1229989
+        },
+        "long": {
+            "default": "Point Pedro"
+        },
         "lat": 9.81667,
         "lng": 80.23333,
         "country": "LK",
@@ -36,8 +52,12 @@
         "population": 89810
     },
     "1230089": {
-        "geoid": "1230089",
-        "name": "Pita Kotte",
+        "ids": {
+            "geonames": 1230089
+        },
+        "long": {
+            "default": "Pita Kotte"
+        },
         "lat": 6.8905,
         "lng": 79.9015,
         "country": "LK",
@@ -45,8 +65,12 @@
         "population": 118179
     },
     "1233369": {
-        "geoid": "1233369",
-        "name": "Negombo",
+        "ids": {
+            "geonames": 1233369
+        },
+        "long": {
+            "default": "Negombo"
+        },
         "lat": 7.2083,
         "lng": 79.8358,
         "country": "LK",
@@ -54,8 +78,12 @@
         "population": 137223
     },
     "1234569": {
-        "geoid": "1234569",
-        "name": "Dehiwala-Mount Lavinia",
+        "ids": {
+            "geonames": 1234569
+        },
+        "long": {
+            "default": "Dehiwala-Mount Lavinia"
+        },
         "lat": 6.84019,
         "lng": 79.87116,
         "country": "LK",
@@ -63,8 +91,12 @@
         "population": 219827
     },
     "1234633": {
-        "geoid": "1234633",
-        "name": "Moratuwa",
+        "ids": {
+            "geonames": 1234633
+        },
+        "long": {
+            "default": "Moratuwa"
+        },
         "lat": 6.773,
         "lng": 79.8816,
         "country": "LK",
@@ -72,8 +104,12 @@
         "population": 185031
     },
     "1235846": {
-        "geoid": "1235846",
-        "name": "Matara",
+        "ids": {
+            "geonames": 1235846
+        },
+        "long": {
+            "default": "Matara"
+        },
         "lat": 5.94851,
         "lng": 80.53528,
         "country": "LK",
@@ -81,8 +117,12 @@
         "population": 76254
     },
     "1236854": {
-        "geoid": "1236854",
-        "name": "Maharagama",
+        "ids": {
+            "geonames": 1236854
+        },
+        "long": {
+            "default": "Maharagama"
+        },
         "lat": 6.848,
         "lng": 79.9265,
         "country": "LK",
@@ -90,8 +130,12 @@
         "population": 66576
     },
     "1238992": {
-        "geoid": "1238992",
-        "name": "Sri Jayewardenepura Kotte",
+        "ids": {
+            "geonames": 1238992
+        },
+        "long": {
+            "default": "Sri Jayewardenepura Kotte"
+        },
         "lat": 6.88297,
         "lng": 79.90708,
         "country": "LK",
@@ -99,8 +143,12 @@
         "population": 115826
     },
     "1239047": {
-        "geoid": "1239047",
-        "name": "Kotikawatta",
+        "ids": {
+            "geonames": 1239047
+        },
+        "long": {
+            "default": "Kotikawatta"
+        },
         "lat": 6.9269,
         "lng": 79.9095,
         "country": "LK",
@@ -108,8 +156,12 @@
         "population": 64565
     },
     "1239593": {
-        "geoid": "1239593",
-        "name": "Kolonnawa",
+        "ids": {
+            "geonames": 1239593
+        },
+        "long": {
+            "default": "Kolonnawa"
+        },
         "lat": 6.9329,
         "lng": 79.8848,
         "country": "LK",
@@ -117,8 +169,12 @@
         "population": 58076
     },
     "1240935": {
-        "geoid": "1240935",
-        "name": "Katunayaka",
+        "ids": {
+            "geonames": 1240935
+        },
+        "long": {
+            "default": "Katunayaka"
+        },
         "lat": 7.16992,
         "lng": 79.88837,
         "country": "LK",
@@ -126,8 +182,12 @@
         "population": 84643
     },
     "1241622": {
-        "geoid": "1241622",
-        "name": "Kandy",
+        "ids": {
+            "geonames": 1241622
+        },
+        "long": {
+            "default": "Kandy"
+        },
         "lat": 7.2955,
         "lng": 80.6356,
         "country": "LK",
@@ -135,8 +195,12 @@
         "population": 111701
     },
     "1242110": {
-        "geoid": "1242110",
-        "name": "Kalmunai",
+        "ids": {
+            "geonames": 1242110
+        },
+        "long": {
+            "default": "Kalmunai"
+        },
         "lat": 7.40902,
         "lng": 81.83472,
         "country": "LK",
@@ -144,8 +208,12 @@
         "population": 100171
     },
     "1242833": {
-        "geoid": "1242833",
-        "name": "Jaffna",
+        "ids": {
+            "geonames": 1242833
+        },
+        "long": {
+            "default": "Jaffna"
+        },
         "lat": 9.66845,
         "lng": 80.00742,
         "country": "LK",
@@ -153,8 +221,12 @@
         "population": 169102
     },
     "1244397": {
-        "geoid": "1244397",
-        "name": "Hendala",
+        "ids": {
+            "geonames": 1244397
+        },
+        "long": {
+            "default": "Hendala"
+        },
         "lat": 6.9909,
         "lng": 79.883,
         "country": "LK",
@@ -162,8 +234,12 @@
         "population": 56978
     },
     "1246294": {
-        "geoid": "1246294",
-        "name": "Galle",
+        "ids": {
+            "geonames": 1246294
+        },
+        "long": {
+            "default": "Galle"
+        },
         "lat": 6.0367,
         "lng": 80.217,
         "country": "LK",
@@ -171,8 +247,12 @@
         "population": 93118
     },
     "1246321": {
-        "geoid": "1246321",
-        "name": "Galkissa",
+        "ids": {
+            "geonames": 1246321
+        },
+        "long": {
+            "default": "Galkissa"
+        },
         "lat": 6.8293,
         "lng": 79.863,
         "country": "LK",
@@ -180,8 +260,12 @@
         "population": 215941
     },
     "1248749": {
-        "geoid": "1248749",
-        "name": "Dambulla",
+        "ids": {
+            "geonames": 1248749
+        },
+        "long": {
+            "default": "Dambulla"
+        },
         "lat": 7.86,
         "lng": 80.65167,
         "country": "LK",
@@ -189,8 +273,12 @@
         "population": 66716
     },
     "1248991": {
-        "geoid": "1248991",
-        "name": "Colombo",
+        "ids": {
+            "geonames": 1248991
+        },
+        "long": {
+            "default": "Colombo"
+        },
         "lat": 6.93194,
         "lng": 79.84778,
         "country": "LK",
@@ -198,8 +286,12 @@
         "population": 648034
     },
     "1250161": {
-        "geoid": "1250161",
-        "name": "Batticaloa",
+        "ids": {
+            "geonames": 1250161
+        },
+        "long": {
+            "default": "Batticaloa"
+        },
         "lat": 7.7102,
         "lng": 81.6924,
         "country": "LK",
@@ -207,8 +299,12 @@
         "population": 86742
     },
     "1250164": {
-        "geoid": "1250164",
-        "name": "Battaramulla South",
+        "ids": {
+            "geonames": 1250164
+        },
+        "long": {
+            "default": "Battaramulla South"
+        },
         "lat": 6.8964,
         "lng": 79.9181,
         "country": "LK",
@@ -216,8 +312,12 @@
         "population": 75633
     },
     "1251081": {
-        "geoid": "1251081",
-        "name": "Anuradhapura",
+        "ids": {
+            "geonames": 1251081
+        },
+        "long": {
+            "default": "Anuradhapura"
+        },
         "lat": 8.31223,
         "lng": 80.41306,
         "country": "LK",
@@ -225,8 +325,12 @@
         "population": 60943
     },
     "9259456": {
-        "geoid": "9259456",
-        "name": "Mount Lavinia",
+        "ids": {
+            "geonames": 9259456
+        },
+        "long": {
+            "default": "Mount Lavinia"
+        },
         "lat": 6.83947,
         "lng": 79.86451,
         "country": "LK",

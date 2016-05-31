@@ -4,8 +4,8 @@
             "fips": "VG",
             "geonames": 2610816
         },
-        "names": {
-            "long": "Vágar"
+        "long": {
+            "default": "Vágar"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "SU",
             "geonames": 2612137
         },
-        "names": {
-            "long": "Suðuroy"
+        "long": {
+            "default": "Suðuroy"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "ST",
             "geonames": 2612225
         },
-        "names": {
-            "long": "Streymoy"
+        "long": {
+            "default": "Streymoy"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "SA",
             "geonames": 2614219
         },
-        "names": {
-            "long": "Sandoy"
+        "long": {
+            "default": "Sandoy"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "NO",
             "geonames": 2616145
         },
-        "names": {
-            "long": "Norðoyar"
+        "long": {
+            "default": "Norðoyar"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "OS",
             "geonames": 2622387
         },
-        "names": {
-            "long": "Eysturoy"
+        "long": {
+            "default": "Eysturoy"
         }
     }
 ]

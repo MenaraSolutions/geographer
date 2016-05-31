@@ -1,7 +1,11 @@
 {
     "291074": {
-        "geoid": "291074",
-        "name": "Ras al-Khaimah",
+        "ids": {
+            "geonames": 291074
+        },
+        "long": {
+            "default": "Ras al-Khaimah"
+        },
         "lat": 25.78953,
         "lng": 55.9432,
         "country": "AE",
@@ -9,8 +13,12 @@
         "population": 115949
     },
     "292223": {
-        "geoid": "292223",
-        "name": "Dubai",
+        "ids": {
+            "geonames": 292223
+        },
+        "long": {
+            "default": "Dubai"
+        },
         "lat": 25.0657,
         "lng": 55.17128,
         "country": "AE",
@@ -18,8 +26,12 @@
         "population": 1137347
     },
     "292672": {
-        "geoid": "292672",
-        "name": "Sharjah",
+        "ids": {
+            "geonames": 292672
+        },
+        "long": {
+            "default": "Sharjah"
+        },
         "lat": 25.33737,
         "lng": 55.41206,
         "country": "AE",
@@ -27,8 +39,12 @@
         "population": 543733
     },
     "292878": {
-        "geoid": "292878",
-        "name": "Al Fujayrah",
+        "ids": {
+            "geonames": 292878
+        },
+        "long": {
+            "default": "Al Fujayrah"
+        },
         "lat": 25.11641,
         "lng": 56.34141,
         "country": "AE",
@@ -36,8 +52,12 @@
         "population": 62415
     },
     "292913": {
-        "geoid": "292913",
-        "name": "Al Ain",
+        "ids": {
+            "geonames": 292913
+        },
+        "long": {
+            "default": "Al Ain"
+        },
         "lat": 24.19167,
         "lng": 55.76056,
         "country": "AE",
@@ -45,8 +65,12 @@
         "population": 408733
     },
     "292932": {
-        "geoid": "292932",
-        "name": "Ajman",
+        "ids": {
+            "geonames": 292932
+        },
+        "long": {
+            "default": "Ajman"
+        },
         "lat": 25.41111,
         "lng": 55.43504,
         "country": "AE",
@@ -54,8 +78,12 @@
         "population": 226172
     },
     "292968": {
-        "geoid": "292968",
-        "name": "Abu Dhabi",
+        "ids": {
+            "geonames": 292968
+        },
+        "long": {
+            "default": "Abu Dhabi"
+        },
         "lat": 24.46667,
         "lng": 54.36667,
         "country": "AE",

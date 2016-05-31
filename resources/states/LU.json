@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 2960314
         },
-        "names": {
-            "long": "Luxembourg"
+        "long": {
+            "default": "Luxembourg"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 2960513
         },
-        "names": {
-            "long": "Grevenmacher"
+        "long": {
+            "default": "Grevenmacher"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "01",
             "geonames": 2960655
         },
-        "names": {
-            "long": "Diekirch"
+        "long": {
+            "default": "Diekirch"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 3621837
         },
-        "names": {
-            "long": "San José"
+        "long": {
+            "default": "San José"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "07",
             "geonames": 3622226
         },
-        "names": {
-            "long": "Puntarenas"
+        "long": {
+            "default": "Puntarenas"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "06",
             "geonames": 3623064
         },
-        "names": {
-            "long": "Limón"
+        "long": {
+            "default": "Limón"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 3623484
         },
-        "names": {
-            "long": "Heredia"
+        "long": {
+            "default": "Heredia"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "03",
             "geonames": 3623582
         },
-        "names": {
-            "long": "Guanacaste"
+        "long": {
+            "default": "Guanacaste"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "02",
             "geonames": 3624368
         },
-        "names": {
-            "long": "Cartago"
+        "long": {
+            "default": "Cartago"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "01",
             "geonames": 3624953
         },
-        "names": {
-            "long": "Alajuela"
+        "long": {
+            "default": "Alajuela"
         }
     }
 ]

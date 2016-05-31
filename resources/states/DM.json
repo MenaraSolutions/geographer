@@ -4,8 +4,8 @@
             "fips": "11",
             "geonames": 3575618
         },
-        "names": {
-            "long": "Saint Peter"
+        "long": {
+            "default": "Saint Peter"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "10",
             "geonames": 3575619
         },
-        "names": {
-            "long": "Saint Paul"
+        "long": {
+            "default": "Saint Paul"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "09",
             "geonames": 3575620
         },
-        "names": {
-            "long": "Saint Patrick"
+        "long": {
+            "default": "Saint Patrick"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "08",
             "geonames": 3575621
         },
-        "names": {
-            "long": "Saint Mark"
+        "long": {
+            "default": "Saint Mark"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 3575622
         },
-        "names": {
-            "long": "Saint Luke"
+        "long": {
+            "default": "Saint Luke"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "06",
             "geonames": 3575625
         },
-        "names": {
-            "long": "Saint Joseph"
+        "long": {
+            "default": "Saint Joseph"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "05",
             "geonames": 3575626
         },
-        "names": {
-            "long": "Saint John"
+        "long": {
+            "default": "Saint John"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "04",
             "geonames": 3575628
         },
-        "names": {
-            "long": "Saint George"
+        "long": {
+            "default": "Saint George"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "03",
             "geonames": 3575630
         },
-        "names": {
-            "long": "Saint David"
+        "long": {
+            "default": "Saint David"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "02",
             "geonames": 3575632
         },
-        "names": {
-            "long": "Saint Andrew"
+        "long": {
+            "default": "Saint Andrew"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "CE",
             "geonames": 6547304
         },
-        "names": {
-            "long": "Oued Ed-Dahab-Lagouira"
+        "long": {
+            "default": "Oued Ed-Dahab-Lagouira"
         }
     }
 ]

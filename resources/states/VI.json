@@ -4,8 +4,8 @@
             "fips": "010",
             "geonames": 7267902
         },
-        "names": {
-            "long": "Saint Croix Island"
+        "long": {
+            "default": "Saint Croix Island"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "020",
             "geonames": 7267903
         },
-        "names": {
-            "long": "Saint John Island"
+        "long": {
+            "default": "Saint John Island"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "030",
             "geonames": 7267904
         },
-        "names": {
-            "long": "Saint Thomas Island"
+        "long": {
+            "default": "Saint Thomas Island"
         }
     }
 ]

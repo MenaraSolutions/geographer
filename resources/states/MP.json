@@ -4,8 +4,8 @@
             "fips": "100",
             "geonames": 4041530
         },
-        "names": {
-            "long": "Rota"
+        "long": {
+            "default": "Rota"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "110",
             "geonames": 4041552
         },
-        "names": {
-            "long": "Saipan"
+        "long": {
+            "default": "Saipan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "120",
             "geonames": 4041650
         },
-        "names": {
-            "long": "Tinian"
+        "long": {
+            "default": "Tinian"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "085",
             "geonames": 7733156
         },
-        "names": {
-            "long": "Northern Islands"
+        "long": {
+            "default": "Northern Islands"
         }
     }
 ]

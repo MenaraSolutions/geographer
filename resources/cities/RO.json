@@ -1,7 +1,11 @@
 {
     "662334": {
-        "geoid": "662334",
-        "name": "Zalău",
+        "ids": {
+            "geonames": 662334
+        },
+        "long": {
+            "default": "Zalău"
+        },
         "lat": 47.2,
         "lng": 23.05,
         "country": "RO",
@@ -9,8 +13,12 @@
         "population": 63232
     },
     "663118": {
-        "geoid": "663118",
-        "name": "Vaslui",
+        "ids": {
+            "geonames": 663118
+        },
+        "long": {
+            "default": "Vaslui"
+        },
         "lat": 46.63333,
         "lng": 27.73333,
         "country": "RO",
@@ -18,8 +26,12 @@
         "population": 69225
     },
     "664460": {
-        "geoid": "664460",
-        "name": "Turda",
+        "ids": {
+            "geonames": 664460
+        },
+        "long": {
+            "default": "Turda"
+        },
         "lat": 46.56667,
         "lng": 23.78333,
         "country": "RO",
@@ -27,8 +39,12 @@
         "population": 54586
     },
     "664518": {
-        "geoid": "664518",
-        "name": "Tulcea",
+        "ids": {
+            "geonames": 664518
+        },
+        "long": {
+            "default": "Tulcea"
+        },
         "lat": 45.16667,
         "lng": 28.8,
         "country": "RO",
@@ -36,8 +52,12 @@
         "population": 92475
     },
     "665004": {
-        "geoid": "665004",
-        "name": "Târgu-Mureş",
+        "ids": {
+            "geonames": 665004
+        },
+        "long": {
+            "default": "Târgu-Mureş"
+        },
         "lat": 46.54245,
         "lng": 24.55747,
         "country": "RO",
@@ -45,8 +65,12 @@
         "population": 146863
     },
     "665010": {
-        "geoid": "665010",
-        "name": "Târgu Jiu",
+        "ids": {
+            "geonames": 665010
+        },
+        "long": {
+            "default": "Târgu Jiu"
+        },
         "lat": 45.05,
         "lng": 23.28333,
         "country": "RO",
@@ -54,8 +78,12 @@
         "population": 97179
     },
     "665024": {
-        "geoid": "665024",
-        "name": "Târgovişte",
+        "ids": {
+            "geonames": 665024
+        },
+        "long": {
+            "default": "Târgovişte"
+        },
         "lat": 44.92543,
         "lng": 25.4567,
         "country": "RO",
@@ -63,8 +91,12 @@
         "population": 88435
     },
     "665087": {
-        "geoid": "665087",
-        "name": "Timişoara",
+        "ids": {
+            "geonames": 665087
+        },
+        "long": {
+            "default": "Timişoara"
+        },
         "lat": 45.75372,
         "lng": 21.22571,
         "country": "RO",
@@ -72,8 +104,12 @@
         "population": 315053
     },
     "665850": {
-        "geoid": "665850",
-        "name": "Suceava",
+        "ids": {
+            "geonames": 665850
+        },
+        "long": {
+            "default": "Suceava"
+        },
         "lat": 47.63333,
         "lng": 26.25,
         "country": "RO",
@@ -81,8 +117,12 @@
         "population": 105796
     },
     "666767": {
-        "geoid": "666767",
-        "name": "Slatina",
+        "ids": {
+            "geonames": 666767
+        },
+        "long": {
+            "default": "Slatina"
+        },
         "lat": 44.43333,
         "lng": 24.36667,
         "country": "RO",
@@ -90,8 +130,12 @@
         "population": 78988
     },
     "667268": {
-        "geoid": "667268",
-        "name": "Sibiu",
+        "ids": {
+            "geonames": 667268
+        },
+        "long": {
+            "default": "Sibiu"
+        },
         "lat": 45.8,
         "lng": 24.15,
         "country": "RO",
@@ -99,8 +143,12 @@
         "population": 151894
     },
     "667303": {
-        "geoid": "667303",
-        "name": "Sfântu-Gheorghe",
+        "ids": {
+            "geonames": 667303
+        },
+        "long": {
+            "default": "Sfântu-Gheorghe"
+        },
         "lat": 45.86667,
         "lng": 25.78333,
         "country": "RO",
@@ -108,8 +156,12 @@
         "population": 60677
     },
     "667873": {
-        "geoid": "667873",
-        "name": "Satu Mare",
+        "ids": {
+            "geonames": 667873
+        },
+        "long": {
+            "default": "Satu Mare"
+        },
         "lat": 47.79926,
         "lng": 22.86255,
         "country": "RO",
@@ -117,8 +169,12 @@
         "population": 112490
     },
     "668732": {
-        "geoid": "668732",
-        "name": "Roman",
+        "ids": {
+            "geonames": 668732
+        },
+        "long": {
+            "default": "Roman"
+        },
         "lat": 46.92119,
         "lng": 26.92646,
         "country": "RO",
@@ -126,8 +182,12 @@
         "population": 67819
     },
     "668872": {
-        "geoid": "668872",
-        "name": "Râmnicu Vâlcea",
+        "ids": {
+            "geonames": 668872
+        },
+        "long": {
+            "default": "Râmnicu Vâlcea"
+        },
         "lat": 45.1,
         "lng": 24.36667,
         "country": "RO",
@@ -135,8 +195,12 @@
         "population": 107558
     },
     "668954": {
-        "geoid": "668954",
-        "name": "Reşiţa",
+        "ids": {
+            "geonames": 668954
+        },
+        "long": {
+            "default": "Reşiţa"
+        },
         "lat": 45.30083,
         "lng": 21.88917,
         "country": "RO",
@@ -144,8 +208,12 @@
         "population": 81228
     },
     "670474": {
-        "geoid": "670474",
-        "name": "Ploieşti",
+        "ids": {
+            "geonames": 670474
+        },
+        "long": {
+            "default": "Ploieşti"
+        },
         "lat": 44.95,
         "lng": 26.01667,
         "country": "RO",
@@ -153,8 +221,12 @@
         "population": 228851
     },
     "670609": {
-        "geoid": "670609",
-        "name": "Piteşti",
+        "ids": {
+            "geonames": 670609
+        },
+        "long": {
+            "default": "Piteşti"
+        },
         "lat": 44.85,
         "lng": 24.86667,
         "country": "RO",
@@ -162,8 +234,12 @@
         "population": 167669
     },
     "670889": {
-        "geoid": "670889",
-        "name": "Piatra Neamţ",
+        "ids": {
+            "geonames": 670889
+        },
+        "long": {
+            "default": "Piatra Neamţ"
+        },
         "lat": 46.91667,
         "lng": 26.33333,
         "country": "RO",
@@ -171,8 +247,12 @@
         "population": 102688
     },
     "671768": {
-        "geoid": "671768",
-        "name": "Oradea",
+        "ids": {
+            "geonames": 671768
+        },
+        "long": {
+            "default": "Oradea"
+        },
         "lat": 47.0458,
         "lng": 21.91833,
         "country": "RO",
@@ -180,8 +260,12 @@
         "population": 206614
     },
     "673634": {
-        "geoid": "673634",
-        "name": "Mediaş",
+        "ids": {
+            "geonames": 673634
+        },
+        "long": {
+            "default": "Mediaş"
+        },
         "lat": 46.16667,
         "lng": 24.35,
         "country": "RO",
@@ -189,8 +273,12 @@
         "population": 53040
     },
     "675810": {
-        "geoid": "675810",
-        "name": "Iaşi",
+        "ids": {
+            "geonames": 675810
+        },
+        "long": {
+            "default": "Iaşi"
+        },
         "lat": 47.16667,
         "lng": 27.6,
         "country": "RO",
@@ -198,8 +286,12 @@
         "population": 318012
     },
     "675918": {
-        "geoid": "675918",
-        "name": "Hunedoara",
+        "ids": {
+            "geonames": 675918
+        },
+        "long": {
+            "default": "Hunedoara"
+        },
         "lat": 45.75,
         "lng": 22.9,
         "country": "RO",
@@ -207,8 +299,12 @@
         "population": 69136
     },
     "677106": {
-        "geoid": "677106",
-        "name": "Giurgiu",
+        "ids": {
+            "geonames": 677106
+        },
+        "long": {
+            "default": "Giurgiu"
+        },
         "lat": 43.88333,
         "lng": 25.96667,
         "country": "RO",
@@ -216,8 +312,12 @@
         "population": 69067
     },
     "677697": {
-        "geoid": "677697",
-        "name": "Galaţi",
+        "ids": {
+            "geonames": 677697
+        },
+        "long": {
+            "default": "Galaţi"
+        },
         "lat": 45.45,
         "lng": 28.05,
         "country": "RO",
@@ -225,8 +325,12 @@
         "population": 294087
     },
     "678015": {
-        "geoid": "678015",
-        "name": "Focșani",
+        "ids": {
+            "geonames": 678015
+        },
+        "long": {
+            "default": "Focșani"
+        },
         "lat": 45.7,
         "lng": 27.18333,
         "country": "RO",
@@ -234,8 +338,12 @@
         "population": 77313
     },
     "678817": {
-        "geoid": "678817",
-        "name": "Drobeta-Turnu Severin",
+        "ids": {
+            "geonames": 678817
+        },
+        "long": {
+            "default": "Drobeta-Turnu Severin"
+        },
         "lat": 44.63194,
         "lng": 22.65611,
         "country": "RO",
@@ -243,8 +351,12 @@
         "population": 102346
     },
     "679452": {
-        "geoid": "679452",
-        "name": "Deva",
+        "ids": {
+            "geonames": 679452
+        },
+        "long": {
+            "default": "Deva"
+        },
         "lat": 45.88333,
         "lng": 22.9,
         "country": "RO",
@@ -252,8 +364,12 @@
         "population": 67802
     },
     "680332": {
-        "geoid": "680332",
-        "name": "Craiova",
+        "ids": {
+            "geonames": 680332
+        },
+        "long": {
+            "default": "Craiova"
+        },
         "lat": 44.31667,
         "lng": 23.8,
         "country": "RO",
@@ -261,8 +377,12 @@
         "population": 304142
     },
     "680963": {
-        "geoid": "680963",
-        "name": "Constanţa",
+        "ids": {
+            "geonames": 680963
+        },
+        "long": {
+            "default": "Constanţa"
+        },
         "lat": 44.18073,
         "lng": 28.63432,
         "country": "RO",
@@ -270,8 +390,12 @@
         "population": 303399
     },
     "681290": {
-        "geoid": "681290",
-        "name": "Cluj-Napoca",
+        "ids": {
+            "geonames": 681290
+        },
+        "long": {
+            "default": "Cluj-Napoca"
+        },
         "lat": 46.76667,
         "lng": 23.6,
         "country": "RO",
@@ -279,8 +403,12 @@
         "population": 316748
     },
     "683123": {
-        "geoid": "683123",
-        "name": "Buzău",
+        "ids": {
+            "geonames": 683123
+        },
+        "long": {
+            "default": "Buzău"
+        },
         "lat": 45.15,
         "lng": 26.83333,
         "country": "RO",
@@ -288,8 +416,12 @@
         "population": 130954
     },
     "683506": {
-        "geoid": "683506",
-        "name": "Bucharest",
+        "ids": {
+            "geonames": 683506
+        },
+        "long": {
+            "default": "Bucharest"
+        },
         "lat": 44.43225,
         "lng": 26.10626,
         "country": "RO",
@@ -297,8 +429,12 @@
         "population": 1877155
     },
     "683844": {
-        "geoid": "683844",
-        "name": "Braşov",
+        "ids": {
+            "geonames": 683844
+        },
+        "long": {
+            "default": "Braşov"
+        },
         "lat": 45.64861,
         "lng": 25.60613,
         "country": "RO",
@@ -306,8 +442,12 @@
         "population": 276088
     },
     "683902": {
-        "geoid": "683902",
-        "name": "Brăila",
+        "ids": {
+            "geonames": 683902
+        },
+        "long": {
+            "default": "Brăila"
+        },
         "lat": 45.26667,
         "lng": 27.98333,
         "country": "RO",
@@ -315,8 +455,12 @@
         "population": 213569
     },
     "684039": {
-        "geoid": "684039",
-        "name": "Botoşani",
+        "ids": {
+            "geonames": 684039
+        },
+        "long": {
+            "default": "Botoşani"
+        },
         "lat": 47.75,
         "lng": 26.66667,
         "country": "RO",
@@ -324,8 +468,12 @@
         "population": 114783
     },
     "684657": {
-        "geoid": "684657",
-        "name": "Bistriţa",
+        "ids": {
+            "geonames": 684657
+        },
+        "long": {
+            "default": "Bistriţa"
+        },
         "lat": 47.13316,
         "lng": 24.50011,
         "country": "RO",
@@ -333,8 +481,12 @@
         "population": 81318
     },
     "684802": {
-        "geoid": "684802",
-        "name": "Bârlad",
+        "ids": {
+            "geonames": 684802
+        },
+        "long": {
+            "default": "Bârlad"
+        },
         "lat": 46.23175,
         "lng": 27.66907,
         "country": "RO",
@@ -342,8 +494,12 @@
         "population": 67818
     },
     "685826": {
-        "geoid": "685826",
-        "name": "Baia Mare",
+        "ids": {
+            "geonames": 685826
+        },
+        "long": {
+            "default": "Baia Mare"
+        },
         "lat": 47.65729,
         "lng": 23.56808,
         "country": "RO",
@@ -351,8 +507,12 @@
         "population": 136553
     },
     "685948": {
-        "geoid": "685948",
-        "name": "Bacău",
+        "ids": {
+            "geonames": 685948
+        },
+        "long": {
+            "default": "Bacău"
+        },
         "lat": 46.56718,
         "lng": 26.91384,
         "country": "RO",
@@ -360,8 +520,12 @@
         "population": 171396
     },
     "686254": {
-        "geoid": "686254",
-        "name": "Arad",
+        "ids": {
+            "geonames": 686254
+        },
+        "long": {
+            "default": "Arad"
+        },
         "lat": 46.18333,
         "lng": 21.31667,
         "country": "RO",
@@ -369,8 +533,12 @@
         "population": 169065
     },
     "686578": {
-        "geoid": "686578",
-        "name": "Alba Iulia",
+        "ids": {
+            "geonames": 686578
+        },
+        "long": {
+            "default": "Alba Iulia"
+        },
         "lat": 46.06667,
         "lng": 23.58333,
         "country": "RO",
@@ -378,8 +546,12 @@
         "population": 66085
     },
     "6697993": {
-        "geoid": "6697993",
-        "name": "Baia Mare",
+        "ids": {
+            "geonames": 6697993
+        },
+        "long": {
+            "default": "Baia Mare"
+        },
         "lat": 47.65331,
         "lng": 23.57949,
         "country": "RO",
@@ -387,8 +559,12 @@
         "population": 137976
     },
     "8581467": {
-        "geoid": "8581467",
-        "name": "Slobozia",
+        "ids": {
+            "geonames": 8581467
+        },
+        "long": {
+            "default": "Slobozia"
+        },
         "lat": 44.5647,
         "lng": 27.3633,
         "country": "RO",
@@ -396,8 +572,12 @@
         "population": 52710
     },
     "11048317": {
-        "geoid": "11048317",
-        "name": "Sector 1",
+        "ids": {
+            "geonames": 11048317
+        },
+        "long": {
+            "default": "Sector 1"
+        },
         "lat": 44.49239,
         "lng": 26.04831,
         "country": "RO",
@@ -405,8 +585,12 @@
         "population": 225453
     },
     "11048318": {
-        "geoid": "11048318",
-        "name": "Sector 2",
+        "ids": {
+            "geonames": 11048318
+        },
+        "long": {
+            "default": "Sector 2"
+        },
         "lat": 44.4528,
         "lng": 26.13321,
         "country": "RO",
@@ -414,8 +598,12 @@
         "population": 345370
     },
     "11048319": {
-        "geoid": "11048319",
-        "name": "Sector 3",
+        "ids": {
+            "geonames": 11048319
+        },
+        "long": {
+            "default": "Sector 3"
+        },
         "lat": 44.4234,
         "lng": 26.16874,
         "country": "RO",
@@ -423,8 +611,12 @@
         "population": 385439
     },
     "11048320": {
-        "geoid": "11048320",
-        "name": "Sector 4",
+        "ids": {
+            "geonames": 11048320
+        },
+        "long": {
+            "default": "Sector 4"
+        },
         "lat": 44.37571,
         "lng": 26.12085,
         "country": "RO",
@@ -432,8 +624,12 @@
         "population": 287828
     },
     "11048322": {
-        "geoid": "11048322",
-        "name": "Sector 5",
+        "ids": {
+            "geonames": 11048322
+        },
+        "long": {
+            "default": "Sector 5"
+        },
         "lat": 44.38808,
         "lng": 26.07144,
         "country": "RO",
@@ -441,8 +637,12 @@
         "population": 271575
     },
     "11048323": {
-        "geoid": "11048323",
-        "name": "Sector 6",
+        "ids": {
+            "geonames": 11048323
+        },
+        "long": {
+            "default": "Sector 6"
+        },
         "lat": 44.43579,
         "lng": 26.01649,
         "country": "RO",

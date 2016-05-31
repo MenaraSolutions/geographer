@@ -4,8 +4,8 @@
             "fips": "01",
             "geonames": 7535954
         },
-        "names": {
-            "long": "Central Singapore"
+        "long": {
+            "default": "Central Singapore"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 7535955
         },
-        "names": {
-            "long": "North East"
+        "long": {
+            "default": "North East"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "04",
             "geonames": 7535956
         },
-        "names": {
-            "long": "South East"
+        "long": {
+            "default": "South East"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "05",
             "geonames": 7535957
         },
-        "names": {
-            "long": "South West"
+        "long": {
+            "default": "South West"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "03",
             "geonames": 7535958
         },
-        "names": {
-            "long": "North West"
+        "long": {
+            "default": "North West"
         }
     }
 ]

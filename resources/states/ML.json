@@ -4,8 +4,8 @@
             "fips": "08",
             "geonames": 2449066
         },
-        "names": {
-            "long": "Tombouctou"
+        "long": {
+            "default": "Tombouctou"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "06",
             "geonames": 2451184
         },
-        "names": {
-            "long": "Sikasso"
+        "long": {
+            "default": "Sikasso"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 2451477
         },
-        "names": {
-            "long": "Ségou"
+        "long": {
+            "default": "Ségou"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "04",
             "geonames": 2453347
         },
-        "names": {
-            "long": "Mopti"
+        "long": {
+            "default": "Mopti"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "07",
             "geonames": 2454532
         },
-        "names": {
-            "long": "Koulikoro"
+        "long": {
+            "default": "Koulikoro"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "03",
             "geonames": 2455517
         },
-        "names": {
-            "long": "Kayes"
+        "long": {
+            "default": "Kayes"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 2457161
         },
-        "names": {
-            "long": "Gao"
+        "long": {
+            "default": "Gao"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "01",
             "geonames": 2460594
         },
-        "names": {
-            "long": "Bamako"
+        "long": {
+            "default": "Bamako"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "10",
             "geonames": 2597449
         },
-        "names": {
-            "long": "Kidal"
+        "long": {
+            "default": "Kidal"
         }
     }
 ]

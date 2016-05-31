@@ -4,8 +4,8 @@
             "fips": "211",
             "geonames": 9611689
         },
-        "names": {
-            "long": "Mariehamns stad"
+        "long": {
+            "default": "Mariehamns stad"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "212",
             "geonames": 9611692
         },
-        "names": {
-            "long": "Ålands landsbygd"
+        "long": {
+            "default": "Ålands landsbygd"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "213",
             "geonames": 9611694
         },
-        "names": {
-            "long": "Ålands skärgård"
+        "long": {
+            "default": "Ålands skärgård"
         }
     }
 ]

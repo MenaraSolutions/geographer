@@ -4,8 +4,8 @@
             "fips": "10",
             "geonames": 3700159
         },
-        "names": {
-            "long": "Veraguas"
+        "long": {
+            "default": "Veraguas"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "09",
             "geonames": 3701537
         },
-        "names": {
-            "long": "Guna Yala"
+        "long": {
+            "default": "Guna Yala"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "08",
             "geonames": 3703433
         },
-        "names": {
-            "long": "Panamá"
+        "long": {
+            "default": "Panamá"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "07",
             "geonames": 3704961
         },
-        "names": {
-            "long": "Los Santos"
+        "long": {
+            "default": "Los Santos"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "06",
             "geonames": 3708710
         },
-        "names": {
-            "long": "Herrera"
+        "long": {
+            "default": "Herrera"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "05",
             "geonames": 3711671
         },
-        "names": {
-            "long": "Darién"
+        "long": {
+            "default": "Darién"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "04",
             "geonames": 3712073
         },
-        "names": {
-            "long": "Colón"
+        "long": {
+            "default": "Colón"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "03",
             "geonames": 3712162
         },
-        "names": {
-            "long": "Coclé"
+        "long": {
+            "default": "Coclé"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "02",
             "geonames": 3712410
         },
-        "names": {
-            "long": "Chiriquí"
+        "long": {
+            "default": "Chiriquí"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "01",
             "geonames": 3713954
         },
-        "names": {
-            "long": "Bocas del Toro"
+        "long": {
+            "default": "Bocas del Toro"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "11",
             "geonames": 7303686
         },
-        "names": {
-            "long": "Emberá"
+        "long": {
+            "default": "Emberá"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "12",
             "geonames": 7303688
         },
-        "names": {
-            "long": "Ngöbe-Buglé"
+        "long": {
+            "default": "Ngöbe-Buglé"
         }
     }
 ]

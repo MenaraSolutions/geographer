@@ -4,8 +4,8 @@
             "fips": "19",
             "geonames": 932011
         },
-        "names": {
-            "long": "Thaba-Tseka"
+        "long": {
+            "default": "Thaba-Tseka"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "18",
             "geonames": 932184
         },
-        "names": {
-            "long": "Quthing"
+        "long": {
+            "default": "Quthing"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "17",
             "geonames": 932219
         },
-        "names": {
-            "long": "Qachaʼs Nek"
+        "long": {
+            "default": "Qachaʼs Nek"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "16",
             "geonames": 932418
         },
-        "names": {
-            "long": "Mokhotlong"
+        "long": {
+            "default": "Mokhotlong"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "15",
             "geonames": 932439
         },
-        "names": {
-            "long": "Mohaleʼs Hoek"
+        "long": {
+            "default": "Mohaleʼs Hoek"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "14",
             "geonames": 932506
         },
-        "names": {
-            "long": "Maseru"
+        "long": {
+            "default": "Maseru"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "13",
             "geonames": 932615
         },
-        "names": {
-            "long": "Mafeteng"
+        "long": {
+            "default": "Mafeteng"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "12",
             "geonames": 932700
         },
-        "names": {
-            "long": "Leribe"
+        "long": {
+            "default": "Leribe"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "11",
             "geonames": 932888
         },
-        "names": {
-            "long": "Butha-Buthe"
+        "long": {
+            "default": "Butha-Buthe"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "10",
             "geonames": 932932
         },
-        "names": {
-            "long": "Berea"
+        "long": {
+            "default": "Berea"
         }
     }
 ]

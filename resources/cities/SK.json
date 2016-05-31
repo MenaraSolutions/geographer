@@ -1,7 +1,11 @@
 {
     "723819": {
-        "geoid": "723819",
-        "name": "Prešov",
+        "ids": {
+            "geonames": 723819
+        },
+        "long": {
+            "default": "Prešov"
+        },
         "lat": 48.99839,
         "lng": 21.23393,
         "country": "SK",
@@ -9,8 +13,12 @@
         "population": 94718
     },
     "723846": {
-        "geoid": "723846",
-        "name": "Poprad",
+        "ids": {
+            "geonames": 723846
+        },
+        "long": {
+            "default": "Poprad"
+        },
         "lat": 49.06144,
         "lng": 20.29798,
         "country": "SK",
@@ -18,8 +26,12 @@
         "population": 57431
     },
     "724443": {
-        "geoid": "724443",
-        "name": "Košice",
+        "ids": {
+            "geonames": 724443
+        },
+        "long": {
+            "default": "Košice"
+        },
         "lat": 48.71395,
         "lng": 21.25808,
         "country": "SK",
@@ -27,8 +39,12 @@
         "population": 236563
     },
     "3056508": {
-        "geoid": "3056508",
-        "name": "Žilina",
+        "ids": {
+            "geonames": 3056508
+        },
+        "long": {
+            "default": "Žilina"
+        },
         "lat": 49.22315,
         "lng": 18.73941,
         "country": "SK",
@@ -36,8 +52,12 @@
         "population": 85985
     },
     "3057124": {
-        "geoid": "3057124",
-        "name": "Trnava",
+        "ids": {
+            "geonames": 3057124
+        },
+        "long": {
+            "default": "Trnava"
+        },
         "lat": 48.37741,
         "lng": 17.58723,
         "country": "SK",
@@ -45,8 +65,12 @@
         "population": 69785
     },
     "3057140": {
-        "geoid": "3057140",
-        "name": "Trenčín",
+        "ids": {
+            "geonames": 3057140
+        },
+        "long": {
+            "default": "Trenčín"
+        },
         "lat": 48.89452,
         "lng": 18.04436,
         "country": "SK",
@@ -54,8 +78,12 @@
         "population": 58278
     },
     "3058000": {
-        "geoid": "3058000",
-        "name": "Prievidza",
+        "ids": {
+            "geonames": 3058000
+        },
+        "long": {
+            "default": "Prievidza"
+        },
         "lat": 48.77446,
         "lng": 18.6275,
         "country": "SK",
@@ -63,8 +91,12 @@
         "population": 52987
     },
     "3058531": {
-        "geoid": "3058531",
-        "name": "Nitra",
+        "ids": {
+            "geonames": 3058531
+        },
+        "long": {
+            "default": "Nitra"
+        },
         "lat": 48.30763,
         "lng": 18.08453,
         "country": "SK",
@@ -72,8 +104,12 @@
         "population": 86329
     },
     "3058780": {
-        "geoid": "3058780",
-        "name": "Martin",
+        "ids": {
+            "geonames": 3058780
+        },
+        "long": {
+            "default": "Martin"
+        },
         "lat": 49.06651,
         "lng": 18.92399,
         "country": "SK",
@@ -81,8 +117,12 @@
         "population": 60817
     },
     "3060972": {
-        "geoid": "3060972",
-        "name": "Bratislava",
+        "ids": {
+            "geonames": 3060972
+        },
+        "long": {
+            "default": "Bratislava"
+        },
         "lat": 48.14816,
         "lng": 17.10674,
         "country": "SK",
@@ -90,8 +130,12 @@
         "population": 423737
     },
     "3061186": {
-        "geoid": "3061186",
-        "name": "Banská Bystrica",
+        "ids": {
+            "geonames": 3061186
+        },
+        "long": {
+            "default": "Banská Bystrica"
+        },
         "lat": 48.73946,
         "lng": 19.15349,
         "country": "SK",

@@ -4,6 +4,7 @@ namespace MenaraSolutions\Geographer\Services\Poliglottas;
 
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
+use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 
 /**
  * Class English
@@ -20,12 +21,17 @@ class English implements PoliglottaInterface
     ];
 
     /**
+     * @var string
+     */
+    protected $code = 'en';
+
+    /**
      * @param array $meta
      * @return string
      */
     private function getLongName(array $meta)
     {
-        return ! empty($meta['names']['long']) ? $meta['names']['long'] : $meta['names']['short'];
+        return isset($meta['long']) ? $meta['long']['default'] : $meta['short']['default'];
     }
 
     /**
@@ -34,7 +40,7 @@ class English implements PoliglottaInterface
      */
     private function getShortName(array $meta)
     {
-        return ! empty($meta['names']['short']) ? $meta['names']['short'] : $meta['names']['long'];
+        return isset($meta['short']) ? $meta['short']['default'] : $meta['long']['default'];
     }
 
     /**
@@ -42,6 +48,7 @@ class English implements PoliglottaInterface
      * @param string $form
      * @param bool $preposition
      * @return string
+     * @throws MisconfigurationException
      */
     public function translate(IdentifiableInterface $subject, $form = 'default', $preposition = true)
     {
@@ -49,12 +56,12 @@ class English implements PoliglottaInterface
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
         }
 
-	$result = $subject->expectsLongNames() ? $this->getLongName($subject->getMeta()) : $this->getShortName($subject->getMeta());
+    	$result = $subject->expectsLongNames() ? $this->getLongName($subject->getMeta()) : $this->getShortName($subject->getMeta());
 
-	if ($preposition && $form != 'default') {
-	    $result = $this->defaultPrepositions[$form] . ' ' . $result;
-	}
+	    if ($preposition && $form != 'default') {
+	        $result = $this->defaultPrepositions[$form] . ' ' . $result;
+    	}
 
-	return $result;
+	    return $result;
     }
 }

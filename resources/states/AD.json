@@ -4,8 +4,8 @@
             "fips": "06",
             "geonames": 3039162
         },
-        "names": {
-            "long": "Sant Julià de Loria"
+        "long": {
+            "default": "Sant Julià de Loria"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "05",
             "geonames": 3039676
         },
-        "names": {
-            "long": "Ordino"
+        "long": {
+            "default": "Ordino"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "04",
             "geonames": 3040131
         },
-        "names": {
-            "long": "La Massana"
+        "long": {
+            "default": "La Massana"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 3040684
         },
-        "names": {
-            "long": "Encamp"
+        "long": {
+            "default": "Encamp"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "02",
             "geonames": 3041203
         },
-        "names": {
-            "long": "Canillo"
+        "long": {
+            "default": "Canillo"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "07",
             "geonames": 3041566
         },
-        "names": {
-            "long": "Andorra la Vella"
+        "long": {
+            "default": "Andorra la Vella"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "08",
             "geonames": 3338529
         },
-        "names": {
-            "long": "Escaldes-Engordany"
+        "long": {
+            "default": "Escaldes-Engordany"
         }
     }
 ]

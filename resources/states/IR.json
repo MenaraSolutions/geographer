@@ -4,8 +4,8 @@
             "fips": "26",
             "geonames": 110791
         },
-        "names": {
-            "long": "Tehrān"
+        "long": {
+            "default": "Tehrān"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "36",
             "geonames": 111452
         },
-        "names": {
-            "long": "Zanjan"
+        "long": {
+            "default": "Zanjan"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "40",
             "geonames": 111821
         },
-        "names": {
-            "long": "Yazd"
+        "long": {
+            "default": "Yazd"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "25",
             "geonames": 116401
         },
-        "names": {
-            "long": "Semnān"
+        "long": {
+            "default": "Semnān"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "35",
             "geonames": 124544
         },
-        "names": {
-            "long": "Māzandarān"
+        "long": {
+            "default": "Māzandarān"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "34",
             "geonames": 124763
         },
-        "names": {
-            "long": "Markazi"
+        "long": {
+            "default": "Markazi"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "23",
             "geonames": 125605
         },
-        "names": {
-            "long": "Lorestān"
+        "long": {
+            "default": "Lorestān"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "16",
             "geonames": 126584
         },
-        "names": {
-            "long": "Kordestān"
+        "long": {
+            "default": "Kordestān"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "05",
             "geonames": 126878
         },
-        "names": {
-            "long": "Kohgīlūyeh va Būyer Aḩmad"
+        "long": {
+            "default": "Kohgīlūyeh va Būyer Aḩmad"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "15",
             "geonames": 127082
         },
-        "names": {
-            "long": "Khuzestan"
+        "long": {
+            "default": "Khuzestan"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "13",
             "geonames": 128222
         },
-        "names": {
-            "long": "Kermānshāh"
+        "long": {
+            "default": "Kermānshāh"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "29",
             "geonames": 128231
         },
-        "names": {
-            "long": "Kerman"
+        "long": {
+            "default": "Kerman"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "10",
             "geonames": 130801
         },
-        "names": {
-            "long": "Īlām"
+        "long": {
+            "default": "Īlām"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "11",
             "geonames": 131222
         },
-        "names": {
-            "long": "Hormozgan"
+        "long": {
+            "default": "Hormozgan"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "09",
             "geonames": 132142
         },
-        "names": {
-            "long": "Hamadān"
+        "long": {
+            "default": "Hamadān"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "08",
             "geonames": 133349
         },
-        "names": {
-            "long": "Gīlān"
+        "long": {
+            "default": "Gīlān"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "07",
             "geonames": 134766
         },
-        "names": {
-            "long": "Fars"
+        "long": {
+            "default": "Fars"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "03",
             "geonames": 139677
         },
-        "names": {
-            "long": "Chahār Maḩāll va Bakhtīārī"
+        "long": {
+            "default": "Chahār Maḩāll va Bakhtīārī"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "22",
             "geonames": 139816
         },
-        "names": {
-            "long": "Bushehr"
+        "long": {
+            "default": "Bushehr"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "33",
             "geonames": 142549
         },
-        "names": {
-            "long": "East Azerbaijan"
+        "long": {
+            "default": "East Azerbaijan"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "01",
             "geonames": 142550
         },
-        "names": {
-            "long": "Āz̄ārbāyjān-e Gharbī"
+        "long": {
+            "default": "Āz̄ārbāyjān-e Gharbī"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "32",
             "geonames": 413931
         },
-        "names": {
-            "long": "Ardabīl"
+        "long": {
+            "default": "Ardabīl"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "28",
             "geonames": 418862
         },
-        "names": {
-            "long": "Isfahan"
+        "long": {
+            "default": "Isfahan"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "37",
             "geonames": 443792
         },
-        "names": {
-            "long": "Golestān"
+        "long": {
+            "default": "Golestān"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "38",
             "geonames": 443793
         },
-        "names": {
-            "long": "Qazvīn"
+        "long": {
+            "default": "Qazvīn"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "39",
             "geonames": 443794
         },
-        "names": {
-            "long": "Qom"
+        "long": {
+            "default": "Qom"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "04",
             "geonames": 1159456
         },
-        "names": {
-            "long": "Sistan and Baluchestan"
+        "long": {
+            "default": "Sistan and Baluchestan"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "41",
             "geonames": 6201374
         },
-        "names": {
-            "long": "Khorāsān-e Jonūbī"
+        "long": {
+            "default": "Khorāsān-e Jonūbī"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "42",
             "geonames": 6201375
         },
-        "names": {
-            "long": "Razavi Khorasan"
+        "long": {
+            "default": "Razavi Khorasan"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "43",
             "geonames": 6201376
         },
-        "names": {
-            "long": "Khorāsān-e Shomālī"
+        "long": {
+            "default": "Khorāsān-e Shomālī"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "44",
             "geonames": 7648907
         },
-        "names": {
-            "long": "Alborz"
+        "long": {
+            "default": "Alborz"
         }
     }
 ]

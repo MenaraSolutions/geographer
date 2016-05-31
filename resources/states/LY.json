@@ -4,8 +4,8 @@
             "fips": "70",
             "geonames": 87204
         },
-        "names": {
-            "long": "Darnah"
+        "long": {
+            "default": "Darnah"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "69",
             "geonames": 88318
         },
-        "names": {
-            "long": "Banghāzī"
+        "long": {
+            "default": "Banghāzī"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "66",
             "geonames": 88904
         },
-        "names": {
-            "long": "Al Marj"
+        "long": {
+            "default": "Al Marj"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "65",
             "geonames": 88932
         },
-        "names": {
-            "long": "Al Kufrah"
+        "long": {
+            "default": "Al Kufrah"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "63",
             "geonames": 443289
         },
-        "names": {
-            "long": "Al Jabal al Akhḑar"
+        "long": {
+            "default": "Al Jabal al Akhḑar"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "77",
             "geonames": 2210245
         },
-        "names": {
-            "long": "Tripoli"
+        "long": {
+            "default": "Tripoli"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "76",
             "geonames": 2210553
         },
-        "names": {
-            "long": "Surt"
+        "long": {
+            "default": "Surt"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "75",
             "geonames": 2212774
         },
-        "names": {
-            "long": "Sabhā"
+        "long": {
+            "default": "Sabhā"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "74",
             "geonames": 2214432
         },
-        "names": {
-            "long": "Sha‘bīyat Nālūt"
+        "long": {
+            "default": "Sha‘bīyat Nālūt"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "73",
             "geonames": 2214602
         },
-        "names": {
-            "long": "Murzuq"
+        "long": {
+            "default": "Murzuq"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "72",
             "geonames": 2214845
         },
-        "names": {
-            "long": "Mişrātah"
+        "long": {
+            "default": "Mişrātah"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "71",
             "geonames": 2217350
         },
-        "names": {
-            "long": "Sha‘bīyat Ghāt"
+        "long": {
+            "default": "Sha‘bīyat Ghāt"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "68",
             "geonames": 2218972
         },
-        "names": {
-            "long": "Az Zāwiyah"
+        "long": {
+            "default": "Az Zāwiyah"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "78",
             "geonames": 2219413
         },
-        "names": {
-            "long": "Ash Shāţiʼ"
+        "long": {
+            "default": "Ash Shāţiʼ"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "64",
             "geonames": 2219944
         },
-        "names": {
-            "long": "Al Jufrah"
+        "long": {
+            "default": "Al Jufrah"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "67",
             "geonames": 2593778
         },
-        "names": {
-            "long": "An Nuqāţ al Khams"
+        "long": {
+            "default": "An Nuqāţ al Khams"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "79",
             "geonames": 7602688
         },
-        "names": {
-            "long": "Sha‘bīyat al Buţnān"
+        "long": {
+            "default": "Sha‘bīyat al Buţnān"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "80",
             "geonames": 7602689
         },
-        "names": {
-            "long": "Jabal al Gharbi District"
+        "long": {
+            "default": "Jabal al Gharbi District"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "81",
             "geonames": 7602690
         },
-        "names": {
-            "long": "Sha‘bīyat al Jafārah"
+        "long": {
+            "default": "Sha‘bīyat al Jafārah"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "82",
             "geonames": 7602691
         },
-        "names": {
-            "long": "Al Marqab"
+        "long": {
+            "default": "Al Marqab"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "83",
             "geonames": 7602692
         },
-        "names": {
-            "long": "Sha‘bīyat al Wāḩāt"
+        "long": {
+            "default": "Sha‘bīyat al Wāḩāt"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "84",
             "geonames": 7602693
         },
-        "names": {
-            "long": "Sha‘bīyat Wādī al Ḩayāt"
+        "long": {
+            "default": "Sha‘bīyat Wādī al Ḩayāt"
         }
     }
 ]

@@ -4,8 +4,8 @@
             "fips": "03",
             "geonames": 921780
         },
-        "names": {
-            "long": "Mohéli"
+        "long": {
+            "default": "Mohéli"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "02",
             "geonames": 921882
         },
-        "names": {
-            "long": "Grande Comore"
+        "long": {
+            "default": "Grande Comore"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "01",
             "geonames": 922001
         },
-        "names": {
-            "long": "Anjouan"
+        "long": {
+            "default": "Anjouan"
         }
     }
 ]

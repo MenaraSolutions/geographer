@@ -1,7 +1,11 @@
 {
     "2279755": {
-        "geoid": "2279755",
-        "name": "Yamoussoukro",
+        "ids": {
+            "geonames": 2279755
+        },
+        "long": {
+            "default": "Yamoussoukro"
+        },
         "lat": 6.82055,
         "lng": -5.27674,
         "country": "CI",
@@ -9,8 +13,12 @@
         "population": 194530
     },
     "2281606": {
-        "geoid": "2281606",
-        "name": "Sinfra",
+        "ids": {
+            "geonames": 2281606
+        },
+        "long": {
+            "default": "Sinfra"
+        },
         "lat": 6.62103,
         "lng": -5.91144,
         "country": "CI",
@@ -18,8 +26,12 @@
         "population": 59919
     },
     "2282006": {
-        "geoid": "2282006",
-        "name": "San-Pédro",
+        "ids": {
+            "geonames": 2282006
+        },
+        "long": {
+            "default": "San-Pédro"
+        },
         "lat": 4.74851,
         "lng": -6.6363,
         "country": "CI",
@@ -27,8 +39,12 @@
         "population": 196751
     },
     "2282827": {
-        "geoid": "2282827",
-        "name": "Oumé",
+        "ids": {
+            "geonames": 2282827
+        },
+        "long": {
+            "default": "Oumé"
+        },
         "lat": 6.38309,
         "lng": -5.41759,
         "country": "CI",
@@ -36,8 +52,12 @@
         "population": 52070
     },
     "2284647": {
-        "geoid": "2284647",
-        "name": "Man",
+        "ids": {
+            "geonames": 2284647
+        },
+        "long": {
+            "default": "Man"
+        },
         "lat": 7.41251,
         "lng": -7.55383,
         "country": "CI",
@@ -45,8 +65,12 @@
         "population": 139341
     },
     "2286304": {
-        "geoid": "2286304",
-        "name": "Korhogo",
+        "ids": {
+            "geonames": 2286304
+        },
+        "long": {
+            "default": "Korhogo"
+        },
         "lat": 9.45803,
         "lng": -5.62961,
         "country": "CI",
@@ -54,8 +78,12 @@
         "population": 167359
     },
     "2287298": {
-        "geoid": "2287298",
-        "name": "Katiola",
+        "ids": {
+            "geonames": 2287298
+        },
+        "long": {
+            "default": "Katiola"
+        },
         "lat": 8.13728,
         "lng": -5.10095,
         "country": "CI",
@@ -63,8 +91,12 @@
         "population": 59641
     },
     "2287790": {
-        "geoid": "2287790",
-        "name": "Issia",
+        "ids": {
+            "geonames": 2287790
+        },
+        "long": {
+            "default": "Issia"
+        },
         "lat": 6.49224,
         "lng": -6.58558,
         "country": "CI",
@@ -72,8 +104,12 @@
         "population": 50313
     },
     "2288115": {
-        "geoid": "2288115",
-        "name": "Grand-Bassam",
+        "ids": {
+            "geonames": 2288115
+        },
+        "long": {
+            "default": "Grand-Bassam"
+        },
         "lat": 5.2118,
         "lng": -3.73884,
         "country": "CI",
@@ -81,8 +117,12 @@
         "population": 73772
     },
     "2288829": {
-        "geoid": "2288829",
-        "name": "Gagnoa",
+        "ids": {
+            "geonames": 2288829
+        },
+        "long": {
+            "default": "Gagnoa"
+        },
         "lat": 6.13193,
         "lng": -5.9506,
         "country": "CI",
@@ -90,8 +130,12 @@
         "population": 123184
     },
     "2289049": {
-        "geoid": "2289049",
-        "name": "Ferkessédougou",
+        "ids": {
+            "geonames": 2289049
+        },
+        "long": {
+            "default": "Ferkessédougou"
+        },
         "lat": 9.5928,
         "lng": -5.19449,
         "country": "CI",
@@ -99,8 +143,12 @@
         "population": 62008
     },
     "2289887": {
-        "geoid": "2289887",
-        "name": "Divo",
+        "ids": {
+            "geonames": 2289887
+        },
+        "long": {
+            "default": "Divo"
+        },
         "lat": 5.83739,
         "lng": -5.35723,
         "country": "CI",
@@ -108,8 +156,12 @@
         "population": 127867
     },
     "2289983": {
-        "geoid": "2289983",
-        "name": "Dimbokro",
+        "ids": {
+            "geonames": 2289983
+        },
+        "long": {
+            "default": "Dimbokro"
+        },
         "lat": 6.64678,
         "lng": -4.70519,
         "country": "CI",
@@ -117,8 +169,12 @@
         "population": 67349
     },
     "2290462": {
-        "geoid": "2290462",
-        "name": "Danané",
+        "ids": {
+            "geonames": 2290462
+        },
+        "long": {
+            "default": "Danané"
+        },
         "lat": 7.25957,
         "lng": -8.15498,
         "country": "CI",
@@ -126,8 +182,12 @@
         "population": 53808
     },
     "2290486": {
-        "geoid": "2290486",
-        "name": "Daloa",
+        "ids": {
+            "geonames": 2290486
+        },
+        "long": {
+            "default": "Daloa"
+        },
         "lat": 6.87735,
         "lng": -6.45022,
         "country": "CI",
@@ -135,8 +195,12 @@
         "population": 215652
     },
     "2290582": {
-        "geoid": "2290582",
-        "name": "Dabou",
+        "ids": {
+            "geonames": 2290582
+        },
+        "long": {
+            "default": "Dabou"
+        },
         "lat": 5.32556,
         "lng": -4.37685,
         "country": "CI",
@@ -144,8 +208,12 @@
         "population": 69661
     },
     "2290956": {
-        "geoid": "2290956",
-        "name": "Bouaké",
+        "ids": {
+            "geonames": 2290956
+        },
+        "long": {
+            "default": "Bouaké"
+        },
         "lat": 7.69385,
         "lng": -5.03031,
         "country": "CI",
@@ -153,8 +221,12 @@
         "population": 567481
     },
     "2290964": {
-        "geoid": "2290964",
-        "name": "Bouaflé",
+        "ids": {
+            "geonames": 2290964
+        },
+        "long": {
+            "default": "Bouaflé"
+        },
         "lat": 6.99041,
         "lng": -5.7442,
         "country": "CI",
@@ -162,8 +234,12 @@
         "population": 60962
     },
     "2291136": {
-        "geoid": "2291136",
-        "name": "Bondoukou",
+        "ids": {
+            "geonames": 2291136
+        },
+        "long": {
+            "default": "Bondoukou"
+        },
         "lat": 8.0402,
         "lng": -2.80003,
         "country": "CI",
@@ -171,8 +247,12 @@
         "population": 58297
     },
     "2291580": {
-        "geoid": "2291580",
-        "name": "Bingerville",
+        "ids": {
+            "geonames": 2291580
+        },
+        "long": {
+            "default": "Bingerville"
+        },
         "lat": 5.35581,
         "lng": -3.88537,
         "country": "CI",
@@ -180,8 +260,12 @@
         "population": 50694
     },
     "2292852": {
-        "geoid": "2292852",
-        "name": "Anyama",
+        "ids": {
+            "geonames": 2292852
+        },
+        "long": {
+            "default": "Anyama"
+        },
         "lat": 5.49462,
         "lng": -4.05183,
         "country": "CI",
@@ -189,8 +273,12 @@
         "population": 100653
     },
     "2293268": {
-        "geoid": "2293268",
-        "name": "Agboville",
+        "ids": {
+            "geonames": 2293268
+        },
+        "long": {
+            "default": "Agboville"
+        },
         "lat": 5.92801,
         "lng": -4.21319,
         "country": "CI",
@@ -198,8 +286,12 @@
         "population": 81770
     },
     "2293342": {
-        "geoid": "2293342",
-        "name": "Adzopé",
+        "ids": {
+            "geonames": 2293342
+        },
+        "long": {
+            "default": "Adzopé"
+        },
         "lat": 6.10694,
         "lng": -3.86194,
         "country": "CI",
@@ -207,8 +299,12 @@
         "population": 61884
     },
     "2293521": {
-        "geoid": "2293521",
-        "name": "Abobo",
+        "ids": {
+            "geonames": 2293521
+        },
+        "long": {
+            "default": "Abobo"
+        },
         "lat": 5.41613,
         "lng": -4.0159,
         "country": "CI",
@@ -216,8 +312,12 @@
         "population": 900000
     },
     "2293538": {
-        "geoid": "2293538",
-        "name": "Abidjan",
+        "ids": {
+            "geonames": 2293538
+        },
+        "long": {
+            "default": "Abidjan"
+        },
         "lat": 5.30966,
         "lng": -4.01266,
         "country": "CI",
@@ -225,8 +325,12 @@
         "population": 3677115
     },
     "2293549": {
-        "geoid": "2293549",
-        "name": "Abengourou",
+        "ids": {
+            "geonames": 2293549
+        },
+        "long": {
+            "default": "Abengourou"
+        },
         "lat": 6.72972,
         "lng": -3.49639,
         "country": "CI",
@@ -234,8 +338,12 @@
         "population": 104020
     },
     "2596934": {
-        "geoid": "2596934",
-        "name": "Séguéla",
+        "ids": {
+            "geonames": 2596934
+        },
+        "long": {
+            "default": "Séguéla"
+        },
         "lat": 7.96111,
         "lng": -6.67306,
         "country": "CI",
@@ -243,8 +351,12 @@
         "population": 51157
     },
     "2598243": {
-        "geoid": "2598243",
-        "name": "Soubré",
+        "ids": {
+            "geonames": 2598243
+        },
+        "long": {
+            "default": "Soubré"
+        },
         "lat": 5.78556,
         "lng": -6.60833,
         "country": "CI",

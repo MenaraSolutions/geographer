@@ -4,8 +4,8 @@
             "fips": "MQ",
             "geonames": 6690603
         },
-        "names": {
-            "long": "Martinique"
+        "long": {
+            "default": "Martinique"
         }
     }
 ]

@@ -1,7 +1,11 @@
 {
     "932505": {
-        "geoid": "932505",
-        "name": "Maseru",
+        "ids": {
+            "geonames": 932505
+        },
+        "long": {
+            "default": "Maseru"
+        },
         "lat": -29.31667,
         "lng": 27.48333,
         "country": "LS",
@@ -9,8 +13,12 @@
         "population": 118355
     },
     "932614": {
-        "geoid": "932614",
-        "name": "Mafeteng",
+        "ids": {
+            "geonames": 932614
+        },
+        "long": {
+            "default": "Mafeteng"
+        },
         "lat": -29.82299,
         "lng": 27.23744,
         "country": "LS",

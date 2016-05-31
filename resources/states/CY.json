@@ -4,8 +4,8 @@
             "fips": "06",
             "geonames": 146213
         },
-        "names": {
-            "long": "Pafos"
+        "long": {
+            "default": "Pafos"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "04",
             "geonames": 146267
         },
-        "names": {
-            "long": "Nicosia"
+        "long": {
+            "default": "Nicosia"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "05",
             "geonames": 146383
         },
-        "names": {
-            "long": "Limassol"
+        "long": {
+            "default": "Limassol"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "03",
             "geonames": 146398
         },
-        "names": {
-            "long": "Larnaka"
+        "long": {
+            "default": "Larnaka"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "02",
             "geonames": 146411
         },
-        "names": {
-            "long": "Keryneia"
+        "long": {
+            "default": "Keryneia"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "01",
             "geonames": 146615
         },
-        "names": {
-            "long": "Ammochostos"
+        "long": {
+            "default": "Ammochostos"
         }
     }
 ]

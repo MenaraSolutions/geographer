@@ -1,7 +1,11 @@
 {
     "179330": {
-        "geoid": "179330",
-        "name": "Thika",
+        "ids": {
+            "geonames": 179330
+        },
+        "long": {
+            "default": "Thika"
+        },
         "lat": -1.03326,
         "lng": 37.06933,
         "country": "KE",
@@ -9,8 +13,12 @@
         "population": 200000
     },
     "182701": {
-        "geoid": "182701",
-        "name": "Nyeri",
+        "ids": {
+            "geonames": 182701
+        },
+        "long": {
+            "default": "Nyeri"
+        },
         "lat": -0.42013,
         "lng": 36.94759,
         "country": "KE",
@@ -18,8 +26,12 @@
         "population": 51084
     },
     "184622": {
-        "geoid": "184622",
-        "name": "Nakuru",
+        "ids": {
+            "geonames": 184622
+        },
+        "long": {
+            "default": "Nakuru"
+        },
         "lat": -0.28333,
         "lng": 36.06667,
         "country": "KE",
@@ -27,8 +39,12 @@
         "population": 259903
     },
     "184745": {
-        "geoid": "184745",
-        "name": "Nairobi",
+        "ids": {
+            "geonames": 184745
+        },
+        "long": {
+            "default": "Nairobi"
+        },
         "lat": -1.28333,
         "lng": 36.81667,
         "country": "KE",
@@ -36,8 +52,12 @@
         "population": 2750547
     },
     "186301": {
-        "geoid": "186301",
-        "name": "Mombasa",
+        "ids": {
+            "geonames": 186301
+        },
+        "long": {
+            "default": "Mombasa"
+        },
         "lat": -4.05466,
         "lng": 39.66359,
         "country": "KE",
@@ -45,8 +65,12 @@
         "population": 799668
     },
     "187110": {
-        "geoid": "187110",
-        "name": "Mbale",
+        "ids": {
+            "geonames": 187110
+        },
+        "long": {
+            "default": "Mbale"
+        },
         "lat": -3.4,
         "lng": 38.38333,
         "country": "KE",
@@ -54,8 +78,12 @@
         "population": 60000
     },
     "187968": {
-        "geoid": "187968",
-        "name": "Malindi",
+        "ids": {
+            "geonames": 187968
+        },
+        "long": {
+            "default": "Malindi"
+        },
         "lat": -3.21799,
         "lng": 40.11692,
         "country": "KE",
@@ -63,8 +91,12 @@
         "population": 118265
     },
     "191220": {
-        "geoid": "191220",
-        "name": "Kitale",
+        "ids": {
+            "geonames": 191220
+        },
+        "long": {
+            "default": "Kitale"
+        },
         "lat": 1.01572,
         "lng": 35.00622,
         "country": "KE",
@@ -72,8 +104,12 @@
         "population": 75123
     },
     "191245": {
-        "geoid": "191245",
-        "name": "Kisumu",
+        "ids": {
+            "geonames": 191245
+        },
+        "long": {
+            "default": "Kisumu"
+        },
         "lat": -0.10221,
         "lng": 34.76171,
         "country": "KE",
@@ -81,8 +117,12 @@
         "population": 216479
     },
     "194160": {
-        "geoid": "194160",
-        "name": "Kapenguria",
+        "ids": {
+            "geonames": 194160
+        },
+        "long": {
+            "default": "Kapenguria"
+        },
         "lat": 1.23333,
         "lng": 35.11667,
         "country": "KE",
@@ -90,8 +130,12 @@
         "population": 56000
     },
     "195272": {
-        "geoid": "195272",
-        "name": "Kakamega",
+        "ids": {
+            "geonames": 195272
+        },
+        "long": {
+            "default": "Kakamega"
+        },
         "lat": 0.28422,
         "lng": 34.75229,
         "country": "KE",
@@ -99,8 +143,12 @@
         "population": 63426
     },
     "197745": {
-        "geoid": "197745",
-        "name": "Garissa",
+        "ids": {
+            "geonames": 197745
+        },
+        "long": {
+            "default": "Garissa"
+        },
         "lat": -0.45275,
         "lng": 39.64601,
         "country": "KE",
@@ -108,8 +156,12 @@
         "population": 67861
     },
     "198629": {
-        "geoid": "198629",
-        "name": "Eldoret",
+        "ids": {
+            "geonames": 198629
+        },
+        "long": {
+            "default": "Eldoret"
+        },
         "lat": 0.52036,
         "lng": 35.26993,
         "country": "KE",
@@ -117,8 +169,12 @@
         "population": 218446
     },
     "199989": {
-        "geoid": "199989",
-        "name": "Busia",
+        "ids": {
+            "geonames": 199989
+        },
+        "long": {
+            "default": "Busia"
+        },
         "lat": 0.46005,
         "lng": 34.11169,
         "country": "KE",
@@ -126,8 +182,12 @@
         "population": 51981
     },
     "200067": {
-        "geoid": "200067",
-        "name": "Bungoma",
+        "ids": {
+            "geonames": 200067
+        },
+        "long": {
+            "default": "Bungoma"
+        },
         "lat": 0.5635,
         "lng": 34.56055,
         "country": "KE",

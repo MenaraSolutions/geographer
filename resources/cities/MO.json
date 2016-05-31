@@ -1,7 +1,11 @@
 {
     "1821274": {
-        "geoid": "1821274",
-        "name": "Macau",
+        "ids": {
+            "geonames": 1821274
+        },
+        "long": {
+            "default": "Macau"
+        },
         "lat": 22.20056,
         "lng": 113.54611,
         "country": "MO",

@@ -4,8 +4,8 @@
             "fips": "13",
             "geonames": 242048
         },
-        "names": {
-            "long": "Salamat"
+        "long": {
+            "default": "Salamat"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "12",
             "geonames": 242246
         },
-        "names": {
-            "long": "Ouadaï"
+        "long": {
+            "default": "Ouadaï"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "02",
             "geonames": 244877
         },
-        "names": {
-            "long": "Wadi Fira"
+        "long": {
+            "default": "Wadi Fira"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "14",
             "geonames": 2425287
         },
-        "names": {
-            "long": "Tandjilé"
+        "long": {
+            "default": "Tandjilé"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "17",
             "geonames": 2427315
         },
-        "names": {
-            "long": "Moyen-Chari"
+        "long": {
+            "default": "Moyen-Chari"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "16",
             "geonames": 2428132
         },
-        "names": {
-            "long": "Mayo-Kebbi Est"
+        "long": {
+            "default": "Mayo-Kebbi Est"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "09",
             "geonames": 2429058
         },
-        "names": {
-            "long": "Logone Oriental"
+        "long": {
+            "default": "Logone Oriental"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "08",
             "geonames": 2429060
         },
-        "names": {
-            "long": "Logone Occidental"
+        "long": {
+            "default": "Logone Occidental"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "07",
             "geonames": 2429323
         },
-        "names": {
-            "long": "Lac"
+        "long": {
+            "default": "Lac"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "06",
             "geonames": 2430873
         },
-        "names": {
-            "long": "Kanem"
+        "long": {
+            "default": "Kanem"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "05",
             "geonames": 2431555
         },
-        "names": {
-            "long": "Guéra"
+        "long": {
+            "default": "Guéra"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "15",
             "geonames": 2434478
         },
-        "names": {
-            "long": "Chari-Baguirmi"
+        "long": {
+            "default": "Chari-Baguirmi"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "01",
             "geonames": 2435899
         },
-        "names": {
-            "long": "Batha"
+        "long": {
+            "default": "Batha"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "23",
             "geonames": 7602866
         },
-        "names": {
-            "long": "Borkou"
+        "long": {
+            "default": "Borkou"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "18",
             "geonames": 7603251
         },
-        "names": {
-            "long": "Hadjer-Lamis"
+        "long": {
+            "default": "Hadjer-Lamis"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "19",
             "geonames": 7603252
         },
-        "names": {
-            "long": "Mandoul"
+        "long": {
+            "default": "Mandoul"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "20",
             "geonames": 7603253
         },
-        "names": {
-            "long": "Mayo-Kebbi Ouest"
+        "long": {
+            "default": "Mayo-Kebbi Ouest"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "21",
             "geonames": 7603254
         },
-        "names": {
-            "long": "N’Djaména"
+        "long": {
+            "default": "N’Djaména"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "22",
             "geonames": 7603255
         },
-        "names": {
-            "long": "Barh el Gazel"
+        "long": {
+            "default": "Barh el Gazel"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "25",
             "geonames": 7603257
         },
-        "names": {
-            "long": "Sila"
+        "long": {
+            "default": "Sila"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "26",
             "geonames": 7603258
         },
-        "names": {
-            "long": "Tibesti"
+        "long": {
+            "default": "Tibesti"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "28",
             "geonames": 8604857
         },
-        "names": {
-            "long": "Ennedi-Ouest"
+        "long": {
+            "default": "Ennedi-Ouest"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "27",
             "geonames": 8604858
         },
-        "names": {
-            "long": "Ennedi-Est"
+        "long": {
+            "default": "Ennedi-Est"
         }
     }
 ]

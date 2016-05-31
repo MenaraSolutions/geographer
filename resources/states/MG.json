@@ -4,8 +4,8 @@
             "fips": "7670842",
             "geonames": 7670842
         },
-        "names": {
-            "long": "Diana"
+        "long": {
+            "default": "Diana"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "7670846",
             "geonames": 7670846
         },
-        "names": {
-            "long": "Sava"
+        "long": {
+            "default": "Sava"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "7670847",
             "geonames": 7670847
         },
-        "names": {
-            "long": "Sofia"
+        "long": {
+            "default": "Sofia"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "7670848",
             "geonames": 7670848
         },
-        "names": {
-            "long": "Analanjirofo"
+        "long": {
+            "default": "Analanjirofo"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "7670849",
             "geonames": 7670849
         },
-        "names": {
-            "long": "Boeny"
+        "long": {
+            "default": "Boeny"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "7670850",
             "geonames": 7670850
         },
-        "names": {
-            "long": "Betsiboka"
+        "long": {
+            "default": "Betsiboka"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "7670851",
             "geonames": 7670851
         },
-        "names": {
-            "long": "Alaotra Mangoro"
+        "long": {
+            "default": "Alaotra Mangoro"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "7670852",
             "geonames": 7670852
         },
-        "names": {
-            "long": "Melaky"
+        "long": {
+            "default": "Melaky"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "7670853",
             "geonames": 7670853
         },
-        "names": {
-            "long": "Bongolava"
+        "long": {
+            "default": "Bongolava"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "7670854",
             "geonames": 7670854
         },
-        "names": {
-            "long": "Vakinankaratra"
+        "long": {
+            "default": "Vakinankaratra"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "7670855",
             "geonames": 7670855
         },
-        "names": {
-            "long": "Itasy"
+        "long": {
+            "default": "Itasy"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "7670856",
             "geonames": 7670856
         },
-        "names": {
-            "long": "Analamanga"
+        "long": {
+            "default": "Analamanga"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "7670857",
             "geonames": 7670857
         },
-        "names": {
-            "long": "Atsinanana"
+        "long": {
+            "default": "Atsinanana"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "7670902",
             "geonames": 7670902
         },
-        "names": {
-            "long": "Menabe"
+        "long": {
+            "default": "Menabe"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "7670904",
             "geonames": 7670904
         },
-        "names": {
-            "long": "Amoron'i Mania"
+        "long": {
+            "default": "Amoron'i Mania"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "7670905",
             "geonames": 7670905
         },
-        "names": {
-            "long": "Upper Matsiatra"
+        "long": {
+            "default": "Upper Matsiatra"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "7670906",
             "geonames": 7670906
         },
-        "names": {
-            "long": "Vatovavy Fitovinany"
+        "long": {
+            "default": "Vatovavy Fitovinany"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "7670907",
             "geonames": 7670907
         },
-        "names": {
-            "long": "Ihorombe"
+        "long": {
+            "default": "Ihorombe"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "7670908",
             "geonames": 7670908
         },
-        "names": {
-            "long": "Atsimo-Atsinanana"
+        "long": {
+            "default": "Atsimo-Atsinanana"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "7670910",
             "geonames": 7670910
         },
-        "names": {
-            "long": "Anosy"
+        "long": {
+            "default": "Anosy"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "7670911",
             "geonames": 7670911
         },
-        "names": {
-            "long": "Androy"
+        "long": {
+            "default": "Androy"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "7670913",
             "geonames": 7670913
         },
-        "names": {
-            "long": "Atsimo-Andrefana"
+        "long": {
+            "default": "Atsimo-Andrefana"
         }
     }
 ]

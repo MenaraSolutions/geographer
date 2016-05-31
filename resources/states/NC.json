@@ -4,8 +4,8 @@
             "fips": "02",
             "geonames": 2140464
         },
-        "names": {
-            "long": "South Province"
+        "long": {
+            "default": "South Province"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "01",
             "geonames": 2140685
         },
-        "names": {
-            "long": "North Province"
+        "long": {
+            "default": "North Province"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "03",
             "geonames": 7521415
         },
-        "names": {
-            "long": "Loyalty Islands"
+        "long": {
+            "default": "Loyalty Islands"
         }
     }
 ]

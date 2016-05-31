@@ -4,8 +4,8 @@
             "fips": "24",
             "geonames": 347794
         },
-        "names": {
-            "long": "Sohag"
+        "long": {
+            "default": "Sohag"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "27",
             "geonames": 349401
         },
-        "names": {
-            "long": "North Sinai"
+        "long": {
+            "default": "North Sinai"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "23",
             "geonames": 350546
         },
-        "names": {
-            "long": "Qena"
+        "long": {
+            "default": "Qena"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "22",
             "geonames": 352603
         },
-        "names": {
-            "long": "Matruh"
+        "long": {
+            "default": "Matruh"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "21",
             "geonames": 354500
         },
-        "names": {
-            "long": "Kafr el-Sheikh"
+        "long": {
+            "default": "Kafr el-Sheikh"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "26",
             "geonames": 355182
         },
-        "names": {
-            "long": "South Sinai"
+        "long": {
+            "default": "South Sinai"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "20",
             "geonames": 358044
         },
-        "names": {
-            "long": "Damietta"
+        "long": {
+            "default": "Damietta"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "19",
             "geonames": 358617
         },
-        "names": {
-            "long": "Port Said"
+        "long": {
+            "default": "Port Said"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "18",
             "geonames": 359171
         },
-        "names": {
-            "long": "Beni Suweif"
+        "long": {
+            "default": "Beni Suweif"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "17",
             "geonames": 359781
         },
-        "names": {
-            "long": "Asyut"
+        "long": {
+            "default": "Asyut"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "16",
             "geonames": 359787
         },
-        "names": {
-            "long": "Aswan"
+        "long": {
+            "default": "Aswan"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "15",
             "geonames": 359797
         },
-        "names": {
-            "long": "Suez"
+        "long": {
+            "default": "Suez"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "14",
             "geonames": 360016
         },
-        "names": {
-            "long": "Sharqia"
+        "long": {
+            "default": "Sharqia"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "13",
             "geonames": 360483
         },
-        "names": {
-            "long": "New Valley"
+        "long": {
+            "default": "New Valley"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "12",
             "geonames": 360621
         },
-        "names": {
-            "long": "Qalyubia"
+        "long": {
+            "default": "Qalyubia"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "11",
             "geonames": 360631
         },
-        "names": {
-            "long": "Cairo"
+        "long": {
+            "default": "Cairo"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "10",
             "geonames": 360688
         },
-        "names": {
-            "long": "Minya"
+        "long": {
+            "default": "Minya"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "09",
             "geonames": 360689
         },
-        "names": {
-            "long": "Monufia"
+        "long": {
+            "default": "Monufia"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "08",
             "geonames": 360997
         },
-        "names": {
-            "long": "Giza"
+        "long": {
+            "default": "Giza"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "07",
             "geonames": 361056
         },
-        "names": {
-            "long": "Ismailia"
+        "long": {
+            "default": "Ismailia"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "06",
             "geonames": 361059
         },
-        "names": {
-            "long": "Alexandria"
+        "long": {
+            "default": "Alexandria"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "05",
             "geonames": 361294
         },
-        "names": {
-            "long": "Gharbia"
+        "long": {
+            "default": "Gharbia"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "04",
             "geonames": 361323
         },
-        "names": {
-            "long": "Faiyum"
+        "long": {
+            "default": "Faiyum"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "03",
             "geonames": 361370
         },
-        "names": {
-            "long": "Beheira"
+        "long": {
+            "default": "Beheira"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "02",
             "geonames": 361468
         },
-        "names": {
-            "long": "Red Sea"
+        "long": {
+            "default": "Red Sea"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "01",
             "geonames": 361849
         },
-        "names": {
-            "long": "Dakahlia"
+        "long": {
+            "default": "Dakahlia"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "28",
             "geonames": 7603259
         },
-        "names": {
-            "long": "Luxor"
+        "long": {
+            "default": "Luxor"
         }
     }
 ]

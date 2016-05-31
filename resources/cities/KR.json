@@ -1,7 +1,11 @@
 {
     "1832384": {
-        "geoid": "1832384",
-        "name": "Eisen",
+        "ids": {
+            "geonames": 1832384
+        },
+        "long": {
+            "default": "Eisen"
+        },
         "lat": 36.82167,
         "lng": 128.63083,
         "country": "KR",
@@ -9,8 +13,12 @@
         "population": 84625
     },
     "1832617": {
-        "geoid": "1832617",
-        "name": "Eisen",
+        "ids": {
+            "geonames": 1832617
+        },
+        "long": {
+            "default": "Eisen"
+        },
         "lat": 35.9675,
         "lng": 128.93083,
         "country": "KR",
@@ -18,8 +26,12 @@
         "population": 56006
     },
     "1832828": {
-        "geoid": "1832828",
-        "name": "Yangsan",
+        "ids": {
+            "geonames": 1832828
+        },
+        "long": {
+            "default": "Yangsan"
+        },
         "lat": 35.34199,
         "lng": 129.03358,
         "country": "KR",
@@ -27,8 +39,12 @@
         "population": 71936
     },
     "1832830": {
-        "geoid": "1832830",
-        "name": "Yangp'yŏng",
+        "ids": {
+            "geonames": 1832830
+        },
+        "long": {
+            "default": "Yangp'yŏng"
+        },
         "lat": 37.48972,
         "lng": 127.49056,
         "country": "KR",
@@ -36,8 +52,12 @@
         "population": 83367
     },
     "1832847": {
-        "geoid": "1832847",
-        "name": "Yangju",
+        "ids": {
+            "geonames": 1832847
+        },
+        "long": {
+            "default": "Yangju"
+        },
         "lat": 37.83311,
         "lng": 127.06169,
         "country": "KR",
@@ -45,8 +65,12 @@
         "population": 179923
     },
     "1833105": {
-        "geoid": "1833105",
-        "name": "Wŏnju",
+        "ids": {
+            "geonames": 1833105
+        },
+        "long": {
+            "default": "Wŏnju"
+        },
         "lat": 37.35139,
         "lng": 127.94528,
         "country": "KR",
@@ -54,8 +78,12 @@
         "population": 243387
     },
     "1833466": {
-        "geoid": "1833466",
-        "name": "Wanju",
+        "ids": {
+            "geonames": 1833466
+        },
+        "long": {
+            "default": "Wanju"
+        },
         "lat": 35.84509,
         "lng": 127.14752,
         "country": "KR",
@@ -63,8 +91,12 @@
         "population": 84009
     },
     "1833747": {
-        "geoid": "1833747",
-        "name": "Ulsan",
+        "ids": {
+            "geonames": 1833747
+        },
+        "long": {
+            "default": "Ulsan"
+        },
         "lat": 35.53722,
         "lng": 129.31667,
         "country": "KR",
@@ -72,8 +104,12 @@
         "population": 962865
     },
     "1833788": {
-        "geoid": "1833788",
-        "name": "Uijeongbu-si",
+        "ids": {
+            "geonames": 1833788
+        },
+        "long": {
+            "default": "Uijeongbu-si"
+        },
         "lat": 37.7415,
         "lng": 127.0474,
         "country": "KR",
@@ -81,8 +117,12 @@
         "population": 479141
     },
     "1835235": {
-        "geoid": "1835235",
-        "name": "Daejeon",
+        "ids": {
+            "geonames": 1835235
+        },
+        "long": {
+            "default": "Daejeon"
+        },
         "lat": 36.32139,
         "lng": 127.41972,
         "country": "KR",
@@ -90,8 +130,12 @@
         "population": 1475221
     },
     "1835329": {
-        "geoid": "1835329",
-        "name": "Daegu",
+        "ids": {
+            "geonames": 1835329
+        },
+        "long": {
+            "default": "Daegu"
+        },
         "lat": 35.87028,
         "lng": 128.59111,
         "country": "KR",
@@ -99,8 +143,12 @@
         "population": 2566540
     },
     "1835447": {
-        "geoid": "1835447",
-        "name": "Taisen-ri",
+        "ids": {
+            "geonames": 1835447
+        },
+        "long": {
+            "default": "Taisen-ri"
+        },
         "lat": 36.34931,
         "lng": 126.59772,
         "country": "KR",
@@ -108,8 +156,12 @@
         "population": 62039
     },
     "1835553": {
-        "geoid": "1835553",
-        "name": "Suwon-si",
+        "ids": {
+            "geonames": 1835553
+        },
+        "long": {
+            "default": "Suwon-si"
+        },
         "lat": 37.29111,
         "lng": 127.00889,
         "country": "KR",
@@ -117,8 +169,12 @@
         "population": 1242724
     },
     "1835648": {
-        "geoid": "1835648",
-        "name": "Suncheon",
+        "ids": {
+            "geonames": 1835648
+        },
+        "long": {
+            "default": "Suncheon"
+        },
         "lat": 34.94808,
         "lng": 127.48947,
         "country": "KR",
@@ -126,8 +182,12 @@
         "population": 230796
     },
     "1835848": {
-        "geoid": "1835848",
-        "name": "Seoul",
+        "ids": {
+            "geonames": 1835848
+        },
+        "long": {
+            "default": "Seoul"
+        },
         "lat": 37.566,
         "lng": 126.9784,
         "country": "KR",
@@ -135,8 +195,12 @@
         "population": 10349312
     },
     "1835895": {
-        "geoid": "1835895",
-        "name": "Suisan",
+        "ids": {
+            "geonames": 1835895
+        },
+        "long": {
+            "default": "Suisan"
+        },
         "lat": 36.78167,
         "lng": 126.45222,
         "country": "KR",
@@ -144,8 +208,12 @@
         "population": 74208
     },
     "1836553": {
-        "geoid": "1836553",
-        "name": "Sokcho",
+        "ids": {
+            "geonames": 1836553
+        },
+        "long": {
+            "default": "Sokcho"
+        },
         "lat": 38.20701,
         "lng": 128.59181,
         "country": "KR",
@@ -153,8 +221,12 @@
         "population": 89047
     },
     "1837706": {
-        "geoid": "1837706",
-        "name": "Sangju",
+        "ids": {
+            "geonames": 1837706
+        },
+        "long": {
+            "default": "Sangju"
+        },
         "lat": 36.41528,
         "lng": 128.16056,
         "country": "KR",
@@ -162,8 +234,12 @@
         "population": 55640
     },
     "1838524": {
-        "geoid": "1838524",
-        "name": "Busan",
+        "ids": {
+            "geonames": 1838524
+        },
+        "long": {
+            "default": "Busan"
+        },
         "lat": 35.10278,
         "lng": 129.04028,
         "country": "KR",
@@ -171,8 +247,12 @@
         "population": 3678555
     },
     "1838716": {
-        "geoid": "1838716",
-        "name": "Bucheon-si",
+        "ids": {
+            "geonames": 1838716
+        },
+        "long": {
+            "default": "Bucheon-si"
+        },
         "lat": 37.49889,
         "lng": 126.78306,
         "country": "KR",
@@ -180,8 +260,12 @@
         "population": 850731
     },
     "1839071": {
-        "geoid": "1839071",
-        "name": "Pohang",
+        "ids": {
+            "geonames": 1839071
+        },
+        "long": {
+            "default": "Pohang"
+        },
         "lat": 36.03222,
         "lng": 129.365,
         "country": "KR",
@@ -189,8 +273,12 @@
         "population": 500000
     },
     "1839652": {
-        "geoid": "1839652",
-        "name": "Osan",
+        "ids": {
+            "geonames": 1839652
+        },
+        "long": {
+            "default": "Osan"
+        },
         "lat": 37.15222,
         "lng": 127.07056,
         "country": "KR",
@@ -198,8 +286,12 @@
         "population": 158978
     },
     "1839726": {
-        "geoid": "1839726",
-        "name": "Asan",
+        "ids": {
+            "geonames": 1839726
+        },
+        "long": {
+            "default": "Asan"
+        },
         "lat": 36.78361,
         "lng": 127.00417,
         "country": "KR",
@@ -207,8 +299,12 @@
         "population": 97749
     },
     "1839873": {
-        "geoid": "1839873",
-        "name": "Okcheon",
+        "ids": {
+            "geonames": 1839873
+        },
+        "long": {
+            "default": "Okcheon"
+        },
         "lat": 36.3012,
         "lng": 127.568,
         "country": "KR",
@@ -216,8 +312,12 @@
         "population": 56634
     },
     "1840179": {
-        "geoid": "1840179",
-        "name": "Kosong",
+        "ids": {
+            "geonames": 1840179
+        },
+        "long": {
+            "default": "Kosong"
+        },
         "lat": 38.37881,
         "lng": 128.4676,
         "country": "KR",
@@ -225,8 +325,12 @@
         "population": 62446
     },
     "1840379": {
-        "geoid": "1840379",
-        "name": "Nangen",
+        "ids": {
+            "geonames": 1840379
+        },
+        "long": {
+            "default": "Nangen"
+        },
         "lat": 35.41,
         "lng": 127.38583,
         "country": "KR",
@@ -234,8 +338,12 @@
         "population": 58057
     },
     "1840886": {
-        "geoid": "1840886",
-        "name": "Mungyeong",
+        "ids": {
+            "geonames": 1840886
+        },
+        "long": {
+            "default": "Mungyeong"
+        },
         "lat": 36.59458,
         "lng": 128.19946,
         "country": "KR",
@@ -243,8 +351,12 @@
         "population": 81525
     },
     "1840982": {
-        "geoid": "1840982",
-        "name": "Muan",
+        "ids": {
+            "geonames": 1840982
+        },
+        "long": {
+            "default": "Muan"
+        },
         "lat": 34.99014,
         "lng": 126.47899,
         "country": "KR",
@@ -252,8 +364,12 @@
         "population": 75718
     },
     "1841066": {
-        "geoid": "1841066",
-        "name": "Moppo",
+        "ids": {
+            "geonames": 1841066
+        },
+        "long": {
+            "default": "Moppo"
+        },
         "lat": 34.79361,
         "lng": 126.38861,
         "country": "KR",
@@ -261,8 +377,12 @@
         "population": 268402
     },
     "1841149": {
-        "geoid": "1841149",
-        "name": "Miryang",
+        "ids": {
+            "geonames": 1841149
+        },
+        "long": {
+            "default": "Miryang"
+        },
         "lat": 35.49333,
         "lng": 128.74889,
         "country": "KR",
@@ -270,8 +390,12 @@
         "population": 53103
     },
     "1841598": {
-        "geoid": "1841598",
-        "name": "Gyeongsan-si",
+        "ids": {
+            "geonames": 1841598
+        },
+        "long": {
+            "default": "Gyeongsan-si"
+        },
         "lat": 35.82333,
         "lng": 128.73778,
         "country": "KR",
@@ -279,8 +403,12 @@
         "population": 129903
     },
     "1841603": {
-        "geoid": "1841603",
-        "name": "Kyonju",
+        "ids": {
+            "geonames": 1841603
+        },
+        "long": {
+            "default": "Kyonju"
+        },
         "lat": 35.84278,
         "lng": 129.21167,
         "country": "KR",
@@ -288,8 +416,12 @@
         "population": 155237
     },
     "1841775": {
-        "geoid": "1841775",
-        "name": "Kwangyang",
+        "ids": {
+            "geonames": 1841775
+        },
+        "long": {
+            "default": "Kwangyang"
+        },
         "lat": 34.97528,
         "lng": 127.58917,
         "country": "KR",
@@ -297,8 +429,12 @@
         "population": 89281
     },
     "1841810": {
-        "geoid": "1841810",
-        "name": "Gwangju",
+        "ids": {
+            "geonames": 1841810
+        },
+        "long": {
+            "default": "Gwangju"
+        },
         "lat": 37.41,
         "lng": 127.25722,
         "country": "KR",
@@ -306,8 +442,12 @@
         "population": 81780
     },
     "1841811": {
-        "geoid": "1841811",
-        "name": "Gwangju",
+        "ids": {
+            "geonames": 1841811
+        },
+        "long": {
+            "default": "Gwangju"
+        },
         "lat": 35.15472,
         "lng": 126.91556,
         "country": "KR",
@@ -315,8 +455,12 @@
         "population": 1416938
     },
     "1841988": {
-        "geoid": "1841988",
-        "name": "Guri-si",
+        "ids": {
+            "geonames": 1841988
+        },
+        "long": {
+            "default": "Guri-si"
+        },
         "lat": 37.5986,
         "lng": 127.1394,
         "country": "KR",
@@ -324,8 +468,12 @@
         "population": 195236
     },
     "1842025": {
-        "geoid": "1842025",
-        "name": "Kunsan",
+        "ids": {
+            "geonames": 1842025
+        },
+        "long": {
+            "default": "Kunsan"
+        },
         "lat": 35.97861,
         "lng": 126.71139,
         "country": "KR",
@@ -333,8 +481,12 @@
         "population": 243406
     },
     "1842225": {
-        "geoid": "1842225",
-        "name": "Gumi",
+        "ids": {
+            "geonames": 1842225
+        },
+        "long": {
+            "default": "Gumi"
+        },
         "lat": 36.1136,
         "lng": 128.336,
         "country": "KR",
@@ -342,8 +494,12 @@
         "population": 291006
     },
     "1842485": {
-        "geoid": "1842485",
-        "name": "Goyang-si",
+        "ids": {
+            "geonames": 1842485
+        },
+        "long": {
+            "default": "Goyang-si"
+        },
         "lat": 37.65639,
         "lng": 126.835,
         "country": "KR",
@@ -351,8 +507,12 @@
         "population": 1073069
     },
     "1842616": {
-        "geoid": "1842616",
-        "name": "Gongju",
+        "ids": {
+            "geonames": 1842616
+        },
+        "long": {
+            "default": "Gongju"
+        },
         "lat": 36.45556,
         "lng": 127.12472,
         "country": "KR",
@@ -360,8 +520,12 @@
         "population": 72435
     },
     "1842754": {
-        "geoid": "1842754",
-        "name": "Kyosai",
+        "ids": {
+            "geonames": 1842754
+        },
+        "long": {
+            "default": "Kyosai"
+        },
         "lat": 34.85028,
         "lng": 128.58861,
         "country": "KR",
@@ -369,8 +533,12 @@
         "population": 72124
     },
     "1842859": {
-        "geoid": "1842859",
-        "name": "Koch'ang",
+        "ids": {
+            "geonames": 1842859
+        },
+        "long": {
+            "default": "Koch'ang"
+        },
         "lat": 35.43333,
         "lng": 126.7,
         "country": "KR",
@@ -378,8 +546,12 @@
         "population": 72996
     },
     "1842943": {
-        "geoid": "1842943",
-        "name": "Kimhae",
+        "ids": {
+            "geonames": 1842943
+        },
+        "long": {
+            "default": "Kimhae"
+        },
         "lat": 35.23417,
         "lng": 128.88111,
         "country": "KR",
@@ -387,8 +559,12 @@
         "population": 356242
     },
     "1842944": {
-        "geoid": "1842944",
-        "name": "Gimcheon",
+        "ids": {
+            "geonames": 1842944
+        },
+        "long": {
+            "default": "Gimcheon"
+        },
         "lat": 36.12176,
         "lng": 128.11981,
         "country": "KR",
@@ -396,8 +572,12 @@
         "population": 150000
     },
     "1843082": {
-        "geoid": "1843082",
-        "name": "Gapyeong",
+        "ids": {
+            "geonames": 1843082
+        },
+        "long": {
+            "default": "Gapyeong"
+        },
         "lat": 37.83101,
         "lng": 127.51059,
         "country": "KR",
@@ -405,8 +585,12 @@
         "population": 55415
     },
     "1843137": {
-        "geoid": "1843137",
-        "name": "Kang-neung",
+        "ids": {
+            "geonames": 1843137
+        },
+        "long": {
+            "default": "Kang-neung"
+        },
         "lat": 37.75556,
         "lng": 128.89611,
         "country": "KR",
@@ -414,8 +598,12 @@
         "population": 180611
     },
     "1843491": {
-        "geoid": "1843491",
-        "name": "Iksan",
+        "ids": {
+            "geonames": 1843491
+        },
+        "long": {
+            "default": "Iksan"
+        },
         "lat": 35.94389,
         "lng": 126.95444,
         "country": "KR",
@@ -423,8 +611,12 @@
         "population": 283501
     },
     "1843564": {
-        "geoid": "1843564",
-        "name": "Incheon",
+        "ids": {
+            "geonames": 1843564
+        },
+        "long": {
+            "default": "Incheon"
+        },
         "lat": 37.45646,
         "lng": 126.70515,
         "country": "KR",
@@ -432,8 +624,12 @@
         "population": 2628000
     },
     "1843702": {
-        "geoid": "1843702",
-        "name": "Icheon-si",
+        "ids": {
+            "geonames": 1843702
+        },
+        "long": {
+            "default": "Icheon-si"
+        },
         "lat": 37.27917,
         "lng": 127.4425,
         "country": "KR",
@@ -441,8 +637,12 @@
         "population": 196230
     },
     "1843841": {
-        "geoid": "1843841",
-        "name": "Hwasun",
+        "ids": {
+            "geonames": 1843841
+        },
+        "long": {
+            "default": "Hwasun"
+        },
         "lat": 35.05944,
         "lng": 126.985,
         "country": "KR",
@@ -450,8 +650,12 @@
         "population": 59914
     },
     "1843847": {
-        "geoid": "1843847",
-        "name": "Hwaseong-si",
+        "ids": {
+            "geonames": 1843847
+        },
+        "long": {
+            "default": "Hwaseong-si"
+        },
         "lat": 37.20682,
         "lng": 126.8169,
         "country": "KR",
@@ -459,8 +663,12 @@
         "population": 476297
     },
     "1844174": {
-        "geoid": "1844174",
-        "name": "Hongsung",
+        "ids": {
+            "geonames": 1844174
+        },
+        "long": {
+            "default": "Hongsung"
+        },
         "lat": 36.6009,
         "lng": 126.665,
         "country": "KR",
@@ -468,8 +676,12 @@
         "population": 89174
     },
     "1844191": {
-        "geoid": "1844191",
-        "name": "Hongch’ŏn",
+        "ids": {
+            "geonames": 1844191
+        },
+        "long": {
+            "default": "Hongch’ŏn"
+        },
         "lat": 37.6918,
         "lng": 127.8857,
         "country": "KR",
@@ -477,8 +689,12 @@
         "population": 75251
     },
     "1845136": {
-        "geoid": "1845136",
-        "name": "Chuncheon",
+        "ids": {
+            "geonames": 1845136
+        },
+        "long": {
+            "default": "Chuncheon"
+        },
         "lat": 37.87472,
         "lng": 127.73417,
         "country": "KR",
@@ -486,8 +702,12 @@
         "population": 209746
     },
     "1845457": {
-        "geoid": "1845457",
-        "name": "Jeonju",
+        "ids": {
+            "geonames": 1845457
+        },
+        "long": {
+            "default": "Jeonju"
+        },
         "lat": 35.82194,
         "lng": 127.14889,
         "country": "KR",
@@ -495,8 +715,12 @@
         "population": 711424
     },
     "1845604": {
-        "geoid": "1845604",
-        "name": "Cheongju-si",
+        "ids": {
+            "geonames": 1845604
+        },
+        "long": {
+            "default": "Cheongju-si"
+        },
         "lat": 36.63722,
         "lng": 127.48972,
         "country": "KR",
@@ -504,8 +728,12 @@
         "population": 634596
     },
     "1845759": {
-        "geoid": "1845759",
-        "name": "Cheonan",
+        "ids": {
+            "geonames": 1845759
+        },
+        "long": {
+            "default": "Cheonan"
+        },
         "lat": 36.8065,
         "lng": 127.1522,
         "country": "KR",
@@ -513,8 +741,12 @@
         "population": 365114
     },
     "1846052": {
-        "geoid": "1846052",
-        "name": "Chinju",
+        "ids": {
+            "geonames": 1846052
+        },
+        "long": {
+            "default": "Chinju"
+        },
         "lat": 35.19278,
         "lng": 128.08472,
         "country": "KR",
@@ -522,8 +754,12 @@
         "population": 307242
     },
     "1846095": {
-        "geoid": "1846095",
-        "name": "Chinch'ŏn",
+        "ids": {
+            "geonames": 1846095
+        },
+        "long": {
+            "default": "Chinch'ŏn"
+        },
         "lat": 36.85667,
         "lng": 127.44333,
         "country": "KR",
@@ -531,8 +767,12 @@
         "population": 60964
     },
     "1846266": {
-        "geoid": "1846266",
-        "name": "Jeju City",
+        "ids": {
+            "geonames": 1846266
+        },
+        "long": {
+            "default": "Jeju City"
+        },
         "lat": 33.50972,
         "lng": 126.52194,
         "country": "KR",
@@ -540,8 +780,12 @@
         "population": 408364
     },
     "1846326": {
-        "geoid": "1846326",
-        "name": "Changwon",
+        "ids": {
+            "geonames": 1846326
+        },
+        "long": {
+            "default": "Changwon"
+        },
         "lat": 35.22806,
         "lng": 128.68111,
         "country": "KR",
@@ -549,8 +793,12 @@
         "population": 550000
     },
     "1846898": {
-        "geoid": "1846898",
-        "name": "Anyang-si",
+        "ids": {
+            "geonames": 1846898
+        },
+        "long": {
+            "default": "Anyang-si"
+        },
         "lat": 37.3925,
         "lng": 126.92694,
         "country": "KR",
@@ -558,8 +806,12 @@
         "population": 634367
     },
     "1846912": {
-        "geoid": "1846912",
-        "name": "Anseong",
+        "ids": {
+            "geonames": 1846912
+        },
+        "long": {
+            "default": "Anseong"
+        },
         "lat": 37.01083,
         "lng": 127.27028,
         "country": "KR",
@@ -567,8 +819,12 @@
         "population": 69255
     },
     "1846918": {
-        "geoid": "1846918",
-        "name": "Ansan-si",
+        "ids": {
+            "geonames": 1846918
+        },
+        "long": {
+            "default": "Ansan-si"
+        },
         "lat": 37.32361,
         "lng": 126.82194,
         "country": "KR",
@@ -576,8 +832,12 @@
         "population": 650728
     },
     "1846986": {
-        "geoid": "1846986",
-        "name": "Andong",
+        "ids": {
+            "geonames": 1846986
+        },
+        "long": {
+            "default": "Andong"
+        },
         "lat": 36.56556,
         "lng": 128.725,
         "country": "KR",
@@ -585,8 +845,12 @@
         "population": 129319
     },
     "1882056": {
-        "geoid": "1882056",
-        "name": "Sinhyeon",
+        "ids": {
+            "geonames": 1882056
+        },
+        "long": {
+            "default": "Sinhyeon"
+        },
         "lat": 34.8825,
         "lng": 128.62667,
         "country": "KR",
@@ -594,8 +858,12 @@
         "population": 82560
     },
     "1884138": {
-        "geoid": "1884138",
-        "name": "Yeosu",
+        "ids": {
+            "geonames": 1884138
+        },
+        "long": {
+            "default": "Yeosu"
+        },
         "lat": 34.76278,
         "lng": 127.66528,
         "country": "KR",
@@ -603,8 +871,12 @@
         "population": 295538
     },
     "1892823": {
-        "geoid": "1892823",
-        "name": "Tonghae",
+        "ids": {
+            "geonames": 1892823
+        },
+        "long": {
+            "default": "Tonghae"
+        },
         "lat": 37.54389,
         "lng": 129.10694,
         "country": "KR",
@@ -612,8 +884,12 @@
         "population": 101128
     },
     "1896953": {
-        "geoid": "1896953",
-        "name": "Pubal",
+        "ids": {
+            "geonames": 1896953
+        },
+        "long": {
+            "default": "Pubal"
+        },
         "lat": 37.29167,
         "lng": 127.50778,
         "country": "KR",
@@ -621,8 +897,12 @@
         "population": 63026
     },
     "1897000": {
-        "geoid": "1897000",
-        "name": "Seongnam-si",
+        "ids": {
+            "geonames": 1897000
+        },
+        "long": {
+            "default": "Seongnam-si"
+        },
         "lat": 37.43861,
         "lng": 127.13778,
         "country": "KR",
@@ -630,8 +910,12 @@
         "population": 1031935
     },
     "1897007": {
-        "geoid": "1897007",
-        "name": "Hanam",
+        "ids": {
+            "geonames": 1897007
+        },
+        "long": {
+            "default": "Hanam"
+        },
         "lat": 37.54,
         "lng": 127.20556,
         "country": "KR",
@@ -639,8 +923,12 @@
         "population": 134902
     },
     "1897118": {
-        "geoid": "1897118",
-        "name": "Hwado",
+        "ids": {
+            "geonames": 1897118
+        },
+        "long": {
+            "default": "Hwado"
+        },
         "lat": 37.6525,
         "lng": 127.3075,
         "country": "KR",
@@ -648,8 +936,12 @@
         "population": 106358
     },
     "1897122": {
-        "geoid": "1897122",
-        "name": "Namyangju",
+        "ids": {
+            "geonames": 1897122
+        },
+        "long": {
+            "default": "Namyangju"
+        },
         "lat": 37.63667,
         "lng": 127.21417,
         "country": "KR",
@@ -657,8 +949,12 @@
         "population": 90798
     },
     "1912205": {
-        "geoid": "1912205",
-        "name": "Ungsang",
+        "ids": {
+            "geonames": 1912205
+        },
+        "long": {
+            "default": "Ungsang"
+        },
         "lat": 35.40611,
         "lng": 129.16861,
         "country": "KR",
@@ -666,8 +962,12 @@
         "population": 83360
     },
     "1912209": {
-        "geoid": "1912209",
-        "name": "Wabu",
+        "ids": {
+            "geonames": 1912209
+        },
+        "long": {
+            "default": "Wabu"
+        },
         "lat": 37.58972,
         "lng": 127.22028,
         "country": "KR",
@@ -675,8 +975,12 @@
         "population": 96775
     },
     "1925936": {
-        "geoid": "1925936",
-        "name": "Naesŏ",
+        "ids": {
+            "geonames": 1925936
+        },
+        "long": {
+            "default": "Naesŏ"
+        },
         "lat": 35.24972,
         "lng": 128.52,
         "country": "KR",
@@ -684,8 +988,12 @@
         "population": 80987
     },
     "1925943": {
-        "geoid": "1925943",
-        "name": "Hwawŏn",
+        "ids": {
+            "geonames": 1925943
+        },
+        "long": {
+            "default": "Hwawŏn"
+        },
         "lat": 35.80167,
         "lng": 128.50083,
         "country": "KR",
@@ -693,8 +1001,12 @@
         "population": 64718
     },
     "1948005": {
-        "geoid": "1948005",
-        "name": "Kwangmyŏng",
+        "ids": {
+            "geonames": 1948005
+        },
+        "long": {
+            "default": "Kwangmyŏng"
+        },
         "lat": 37.47722,
         "lng": 126.86639,
         "country": "KR",
@@ -702,8 +1014,12 @@
         "population": 357545
     },
     "6395804": {
-        "geoid": "6395804",
-        "name": "Sinan",
+        "ids": {
+            "geonames": 6395804
+        },
+        "long": {
+            "default": "Sinan"
+        },
         "lat": 34.8262,
         "lng": 126.10863,
         "country": "KR",
@@ -711,8 +1027,12 @@
         "population": 53150
     },
     "6621166": {
-        "geoid": "6621166",
-        "name": "Seogwipo",
+        "ids": {
+            "geonames": 6621166
+        },
+        "long": {
+            "default": "Seogwipo"
+        },
         "lat": 33.25333,
         "lng": 126.56181,
         "country": "KR",
@@ -720,8 +1040,12 @@
         "population": 155691
     },
     "6903078": {
-        "geoid": "6903078",
-        "name": "Changnyeong",
+        "ids": {
+            "geonames": 6903078
+        },
+        "long": {
+            "default": "Changnyeong"
+        },
         "lat": 35.54145,
         "lng": 128.49506,
         "country": "KR",

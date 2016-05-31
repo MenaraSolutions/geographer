@@ -4,8 +4,8 @@
             "fips": "21",
             "geonames": 587448
         },
-        "names": {
-            "long": "Võrumaa"
+        "long": {
+            "default": "Võrumaa"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "20",
             "geonames": 587590
         },
-        "names": {
-            "long": "Viljandimaa"
+        "long": {
+            "default": "Viljandimaa"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "19",
             "geonames": 587875
         },
-        "names": {
-            "long": "Valgamaa"
+        "long": {
+            "default": "Valgamaa"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "18",
             "geonames": 588334
         },
-        "names": {
-            "long": "Tartu"
+        "long": {
+            "default": "Tartu"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "14",
             "geonames": 588879
         },
-        "names": {
-            "long": "Saare"
+        "long": {
+            "default": "Saare"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "13",
             "geonames": 589115
         },
-        "names": {
-            "long": "Raplamaa"
+        "long": {
+            "default": "Raplamaa"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "12",
             "geonames": 589373
         },
-        "names": {
-            "long": "Põlvamaa"
+        "long": {
+            "default": "Põlvamaa"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "11",
             "geonames": 589576
         },
-        "names": {
-            "long": "Pärnumaa"
+        "long": {
+            "default": "Pärnumaa"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "08",
             "geonames": 590854
         },
-        "names": {
-            "long": "Lääne-Virumaa"
+        "long": {
+            "default": "Lääne-Virumaa"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "07",
             "geonames": 590856
         },
-        "names": {
-            "long": "Lääne"
+        "long": {
+            "default": "Lääne"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "05",
             "geonames": 591901
         },
-        "names": {
-            "long": "Jõgevamaa"
+        "long": {
+            "default": "Jõgevamaa"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "04",
             "geonames": 591961
         },
-        "names": {
-            "long": "Järvamaa"
+        "long": {
+            "default": "Järvamaa"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "03",
             "geonames": 592075
         },
-        "names": {
-            "long": "Ida-Virumaa"
+        "long": {
+            "default": "Ida-Virumaa"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "02",
             "geonames": 592133
         },
-        "names": {
-            "long": "Hiiumaa"
+        "long": {
+            "default": "Hiiumaa"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "01",
             "geonames": 592170
         },
-        "names": {
-            "long": "Harjumaa"
+        "long": {
+            "default": "Harjumaa"
         }
     }
 ]

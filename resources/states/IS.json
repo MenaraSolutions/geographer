@@ -4,8 +4,8 @@
             "fips": "41",
             "geonames": 3337403
         },
-        "names": {
-            "long": "Northwest"
+        "long": {
+            "default": "Northwest"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "40",
             "geonames": 3337404
         },
-        "names": {
-            "long": "Northeast"
+        "long": {
+            "default": "Northeast"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "38",
             "geonames": 3337405
         },
-        "names": {
-            "long": "East"
+        "long": {
+            "default": "East"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "42",
             "geonames": 3337406
         },
-        "names": {
-            "long": "South"
+        "long": {
+            "default": "South"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "39",
             "geonames": 3426182
         },
-        "names": {
-            "long": "Capital Region"
+        "long": {
+            "default": "Capital Region"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "43",
             "geonames": 3426183
         },
-        "names": {
-            "long": "Southern Peninsula"
+        "long": {
+            "default": "Southern Peninsula"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "45",
             "geonames": 3426184
         },
-        "names": {
-            "long": "West"
+        "long": {
+            "default": "West"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "44",
             "geonames": 3426185
         },
-        "names": {
-            "long": "Westfjords"
+        "long": {
+            "default": "Westfjords"
         }
     }
 ]

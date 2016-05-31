@@ -4,8 +4,8 @@
             "fips": "73",
             "geonames": 617077
         },
-        "names": {
-            "long": "Raionul Edineţ"
+        "long": {
+            "default": "Raionul Edineţ"
         }
     },
     {
@@ -13,8 +13,8 @@
             "fips": "92",
             "geonames": 617181
         },
-        "names": {
-            "long": "Ungheni"
+        "long": {
+            "default": "Ungheni"
         }
     },
     {
@@ -22,8 +22,8 @@
             "fips": "91",
             "geonames": 617255
         },
-        "names": {
-            "long": "Teleneşti"
+        "long": {
+            "default": "Teleneşti"
         }
     },
     {
@@ -31,8 +31,8 @@
             "fips": "90",
             "geonames": 617264
         },
-        "names": {
-            "long": "Taraclia"
+        "long": {
+            "default": "Taraclia"
         }
     },
     {
@@ -40,8 +40,8 @@
             "fips": "88",
             "geonames": 617283
         },
-        "names": {
-            "long": "Ştefan-Vodă"
+        "long": {
+            "default": "Ştefan-Vodă"
         }
     },
     {
@@ -49,8 +49,8 @@
             "fips": "89",
             "geonames": 617301
         },
-        "names": {
-            "long": "Strășeni"
+        "long": {
+            "default": "Strășeni"
         }
     },
     {
@@ -58,8 +58,8 @@
             "fips": "87",
             "geonames": 617366
         },
-        "names": {
-            "long": "Raionul Soroca"
+        "long": {
+            "default": "Raionul Soroca"
         }
     },
     {
@@ -67,8 +67,8 @@
             "fips": "84",
             "geonames": 617483
         },
-        "names": {
-            "long": "Rîşcani"
+        "long": {
+            "default": "Rîşcani"
         }
     },
     {
@@ -76,8 +76,8 @@
             "fips": "83",
             "geonames": 617501
         },
-        "names": {
-            "long": "Rezina"
+        "long": {
+            "default": "Rezina"
         }
     },
     {
@@ -85,8 +85,8 @@
             "fips": "82",
             "geonames": 617639
         },
-        "names": {
-            "long": "Orhei"
+        "long": {
+            "default": "Orhei"
         }
     },
     {
@@ -94,8 +94,8 @@
             "fips": "81",
             "geonames": 617656
         },
-        "names": {
-            "long": "Raionul Ocniţa"
+        "long": {
+            "default": "Raionul Ocniţa"
         }
     },
     {
@@ -103,8 +103,8 @@
             "fips": "59",
             "geonames": 617715
         },
-        "names": {
-            "long": "Anenii Noi"
+        "long": {
+            "default": "Anenii Noi"
         }
     },
     {
@@ -112,8 +112,8 @@
             "fips": "80",
             "geonames": 617754
         },
-        "names": {
-            "long": "Nisporeni"
+        "long": {
+            "default": "Nisporeni"
         }
     },
     {
@@ -121,8 +121,8 @@
             "fips": "79",
             "geonames": 617903
         },
-        "names": {
-            "long": "Leova"
+        "long": {
+            "default": "Leova"
         }
     },
     {
@@ -130,8 +130,8 @@
             "fips": "85",
             "geonames": 617913
         },
-        "names": {
-            "long": "Sîngerei"
+        "long": {
+            "default": "Sîngerei"
         }
     },
     {
@@ -139,8 +139,8 @@
             "fips": "69",
             "geonames": 617962
         },
-        "names": {
-            "long": "Criuleni"
+        "long": {
+            "default": "Criuleni"
         }
     },
     {
@@ -148,8 +148,8 @@
             "fips": "78",
             "geonames": 617991
         },
-        "names": {
-            "long": "Laloveni"
+        "long": {
+            "default": "Laloveni"
         }
     },
     {
@@ -157,8 +157,8 @@
             "fips": "57",
             "geonames": 618069
         },
-        "names": {
-            "long": "Chişinău"
+        "long": {
+            "default": "Chişinău"
         }
     },
     {
@@ -166,8 +166,8 @@
             "fips": "67",
             "geonames": 618119
         },
-        "names": {
-            "long": "Căuşeni"
+        "long": {
+            "default": "Căuşeni"
         }
     },
     {
@@ -175,8 +175,8 @@
             "fips": "65",
             "geonames": 618142
         },
-        "names": {
-            "long": "Cantemir"
+        "long": {
+            "default": "Cantemir"
         }
     },
     {
@@ -184,8 +184,8 @@
             "fips": "66",
             "geonames": 618162
         },
-        "names": {
-            "long": "Călăraşi"
+        "long": {
+            "default": "Călăraşi"
         }
     },
     {
@@ -193,8 +193,8 @@
             "fips": "64",
             "geonames": 618164
         },
-        "names": {
-            "long": "Cahul"
+        "long": {
+            "default": "Cahul"
         }
     },
     {
@@ -202,8 +202,8 @@
             "fips": "76",
             "geonames": 618260
         },
-        "names": {
-            "long": "Glodeni"
+        "long": {
+            "default": "Glodeni"
         }
     },
     {
@@ -211,8 +211,8 @@
             "fips": "75",
             "geonames": 618331
         },
-        "names": {
-            "long": "Floreşti"
+        "long": {
+            "default": "Floreşti"
         }
     },
     {
@@ -220,8 +220,8 @@
             "fips": "74",
             "geonames": 618345
         },
-        "names": {
-            "long": "Făleşti"
+        "long": {
+            "default": "Făleşti"
         }
     },
     {
@@ -229,8 +229,8 @@
             "fips": "72",
             "geonames": 618363
         },
-        "names": {
-            "long": "Dubăsari"
+        "long": {
+            "default": "Dubăsari"
         }
     },
     {
@@ -238,8 +238,8 @@
             "fips": "71",
             "geonames": 618369
         },
-        "names": {
-            "long": "Drochia"
+        "long": {
+            "default": "Drochia"
         }
     },
     {
@@ -247,8 +247,8 @@
             "fips": "70",
             "geonames": 618381
         },
-        "names": {
-            "long": "Donduşeni"
+        "long": {
+            "default": "Donduşeni"
         }
     },
     {
@@ -256,8 +256,8 @@
             "fips": "68",
             "geonames": 618430
         },
-        "names": {
-            "long": "Cimişlia"
+        "long": {
+            "default": "Cimişlia"
         }
     },
     {
@@ -265,8 +265,8 @@
             "fips": "63",
             "geonames": 618511
         },
-        "names": {
-            "long": "Briceni"
+        "long": {
+            "default": "Briceni"
         }
     },
     {
@@ -274,8 +274,8 @@
             "fips": "61",
             "geonames": 618565
         },
-        "names": {
-            "long": "Basarabeasca"
+        "long": {
+            "default": "Basarabeasca"
         }
     },
     {
@@ -283,8 +283,8 @@
             "fips": "77",
             "geonames": 858803
         },
-        "names": {
-            "long": "Hînceşti"
+        "long": {
+            "default": "Hînceşti"
         }
     },
     {
@@ -292,8 +292,8 @@
             "fips": "86",
             "geonames": 858808
         },
-        "names": {
-            "long": "Şoldăneşti"
+        "long": {
+            "default": "Şoldăneşti"
         }
     },
     {
@@ -301,8 +301,8 @@
             "fips": "58",
             "geonames": 858889
         },
-        "names": {
-            "long": "Stînga Nistrului"
+        "long": {
+            "default": "Stînga Nistrului"
         }
     },
     {
@@ -310,8 +310,8 @@
             "fips": "51",
             "geonames": 858895
         },
-        "names": {
-            "long": "Găgăuzia"
+        "long": {
+            "default": "Găgăuzia"
         }
     },
     {
@@ -319,8 +319,8 @@
             "fips": "62",
             "geonames": 861487
         },
-        "names": {
-            "long": "Bender"
+        "long": {
+            "default": "Bender"
         }
     },
     {
@@ -328,8 +328,8 @@
             "fips": "60",
             "geonames": 873909
         },
-        "names": {
-            "long": "Bălţi"
+        "long": {
+            "default": "Bălţi"
         }
     }
 ]
