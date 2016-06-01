@@ -6,10 +6,9 @@
         "long": {
             "default": "Nouakchott"
         },
+        "parent": 2377449,
         "lat": 18.08581,
         "lng": -15.9785,
-        "country": "MR",
-        "state": "NKC",
         "population": 661400
     },
     "2377457": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Nouâdhibou"
         },
+        "parent": 2380426,
         "lat": 20.93098,
         "lng": -17.03465,
-        "country": "MR",
-        "state": "08",
         "population": 72337
     },
     "2377539": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Néma"
         },
+        "parent": 2379025,
         "lat": 16.61702,
         "lng": -7.25649,
-        "country": "MR",
-        "state": "01",
         "population": 60000
     },
     "2378736": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Kaédi"
         },
+        "parent": 2379384,
         "lat": 16.15027,
         "lng": -13.5037,
-        "country": "MR",
-        "state": "04",
         "population": 55374
     }
 }

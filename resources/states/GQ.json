@@ -1,5 +1,6 @@
 [
     {
+        "parent": "GQ",
         "ids": {
             "fips": "03",
             "geonames": 2310307
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "GQ",
         "ids": {
             "fips": "04",
             "geonames": 2566978
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "GQ",
         "ids": {
             "fips": "05",
             "geonames": 2566979
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "GQ",
         "ids": {
             "fips": "06",
             "geonames": 2566980
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "GQ",
         "ids": {
             "fips": "07",
             "geonames": 2566981
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "GQ",
         "ids": {
             "fips": "08",
             "geonames": 2566982
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "GQ",
         "ids": {
             "fips": "09",
             "geonames": 2566983

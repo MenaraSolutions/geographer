@@ -6,10 +6,9 @@
         "long": {
             "default": "Sikasso"
         },
+        "parent": 2451184,
         "lat": 11.31755,
         "lng": -5.66654,
-        "country": "ML",
-        "state": "06",
         "population": 144786
     },
     "2451478": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ségou"
         },
+        "parent": 2451477,
         "lat": 13.4317,
         "lng": -6.2157,
-        "country": "ML",
-        "state": "05",
         "population": 92552
     },
     "2453348": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Mopti"
         },
+        "parent": 2453347,
         "lat": 14.4843,
         "lng": -4.18296,
-        "country": "ML",
-        "state": "04",
         "population": 108456
     },
     "2453662": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Markala"
         },
+        "parent": 2451477,
         "lat": 13.7021,
         "lng": -6.0659,
-        "country": "ML",
-        "state": "05",
         "population": 53738
     },
     "2454268": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Koutiala"
         },
+        "parent": 2451184,
         "lat": 12.39173,
         "lng": -5.46421,
-        "country": "ML",
-        "state": "06",
         "population": 99353
     },
     "2455518": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Kayes"
         },
+        "parent": 2455517,
         "lat": 14.44693,
         "lng": -11.44448,
-        "country": "ML",
-        "state": "03",
         "population": 78406
     },
     "2457163": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Gao"
         },
+        "parent": 2457161,
         "lat": 16.27167,
         "lng": -0.04472,
-        "country": "ML",
-        "state": "09",
         "population": 87000
     },
     "2460596": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Bamako"
         },
+        "parent": 2460594,
         "lat": 12.65,
         "lng": -8,
-        "country": "ML",
-        "state": "01",
         "population": 1297281
     }
 }

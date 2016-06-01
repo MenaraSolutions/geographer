@@ -6,10 +6,9 @@
         "long": {
             "default": "Mbabane"
         },
+        "parent": 935085,
         "lat": -26.31667,
         "lng": 31.13333,
-        "country": "SZ",
-        "state": "01",
         "population": 76218
     },
     "934995": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Manzini"
         },
+        "parent": 934994,
         "lat": -26.49884,
         "lng": 31.38004,
-        "country": "SZ",
-        "state": "03",
         "population": 110537
     }
 }

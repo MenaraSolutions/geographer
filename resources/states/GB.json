@@ -1,5 +1,6 @@
 [
     {
+        "parent": "GB",
         "ids": {
             "fips": "WLS",
             "geonames": 2634895
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "GB",
         "ids": {
             "fips": "SCT",
             "geonames": 2638360
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "GB",
         "ids": {
             "fips": "NIR",
             "geonames": 2641364
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "GB",
         "ids": {
             "fips": "ENG",
             "geonames": 6269131

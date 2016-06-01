@@ -6,10 +6,9 @@
         "long": {
             "default": "Ndola"
         },
+        "parent": 917524,
         "lat": -12.95867,
         "lng": 28.63659,
-        "country": "ZM",
-        "state": "08",
         "population": 394518
     },
     "905395": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Mufulira"
         },
+        "parent": 917524,
         "lat": -12.54982,
         "lng": 28.24071,
-        "country": "ZM",
-        "state": "08",
         "population": 120500
     },
     "906054": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Mongu"
         },
+        "parent": 896140,
         "lat": -15.24835,
         "lng": 23.12741,
-        "country": "ZM",
-        "state": "01",
         "population": 52534
     },
     "907111": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Mazabuka"
         },
+        "parent": 896972,
         "lat": -15.85601,
         "lng": 27.748,
-        "country": "ZM",
-        "state": "07",
         "population": 64006
     },
     "909137": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Lusaka"
         },
+        "parent": 909129,
         "lat": -15.40669,
         "lng": 28.28713,
-        "country": "ZM",
-        "state": "09",
         "population": 1267440
     },
     "909863": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Luanshya"
         },
+        "parent": 917524,
         "lat": -13.13667,
         "lng": 28.41661,
-        "country": "ZM",
-        "state": "08",
         "population": 113365
     },
     "910111": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Livingstone"
         },
+        "parent": 896972,
         "lat": -17.84194,
         "lng": 25.85425,
-        "country": "ZM",
-        "state": "07",
         "population": 109203
     },
     "911148": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Kitwe"
         },
+        "parent": 917524,
         "lat": -12.80243,
         "lng": 28.21323,
-        "country": "ZM",
-        "state": "08",
         "population": 400914
     },
     "912764": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kasama"
         },
+        "parent": 900601,
         "lat": -10.21289,
         "lng": 31.18084,
-        "country": "ZM",
-        "state": "05",
         "population": 91056
     },
     "914959": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kalulushi"
         },
+        "parent": 917524,
         "lat": -12.84151,
         "lng": 28.09479,
-        "country": "ZM",
-        "state": "08",
         "population": 66575
     },
     "916095": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Kabwe"
         },
+        "parent": 921064,
         "lat": -14.4469,
         "lng": 28.44644,
-        "country": "ZM",
-        "state": "02",
         "population": 188979
     },
     "918702": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Chipata"
         },
+        "parent": 917388,
         "lat": -13.63333,
         "lng": 32.65,
-        "country": "ZM",
-        "state": "03",
         "population": 85963
     },
     "919009": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Chingola"
         },
+        "parent": 917524,
         "lat": -12.52897,
         "lng": 27.88382,
-        "country": "ZM",
-        "state": "08",
         "population": 148564
     },
     "919544": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Chililabombwe"
         },
+        "parent": 917524,
         "lat": -12.36475,
         "lng": 27.82286,
-        "country": "ZM",
-        "state": "08",
         "population": 57328
     }
 }

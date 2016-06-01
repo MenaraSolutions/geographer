@@ -6,10 +6,9 @@
         "long": {
             "default": "Prešov"
         },
+        "parent": 865085,
         "lat": 48.99839,
         "lng": 21.23393,
-        "country": "SK",
-        "state": "05",
         "population": 94718
     },
     "723846": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Poprad"
         },
+        "parent": 865085,
         "lat": 49.06144,
         "lng": 20.29798,
-        "country": "SK",
-        "state": "05",
         "population": 57431
     },
     "724443": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Košice"
         },
+        "parent": 865084,
         "lat": 48.71395,
         "lng": 21.25808,
-        "country": "SK",
-        "state": "03",
         "population": 236563
     },
     "3056508": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Žilina"
         },
+        "parent": 3056506,
         "lat": 49.22315,
         "lng": 18.73941,
-        "country": "SK",
-        "state": "08",
         "population": 85985
     },
     "3057124": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Trnava"
         },
+        "parent": 3343958,
         "lat": 48.37741,
         "lng": 17.58723,
-        "country": "SK",
-        "state": "07",
         "population": 69785
     },
     "3057140": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Trenčín"
         },
+        "parent": 3343957,
         "lat": 48.89452,
         "lng": 18.04436,
-        "country": "SK",
-        "state": "06",
         "population": 58278
     },
     "3058000": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Prievidza"
         },
+        "parent": 3343956,
         "lat": 48.77446,
         "lng": 18.6275,
-        "country": "SK",
-        "state": "04",
         "population": 52987
     },
     "3058531": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Nitra"
         },
+        "parent": 3343956,
         "lat": 48.30763,
         "lng": 18.08453,
-        "country": "SK",
-        "state": "04",
         "population": 86329
     },
     "3058780": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Martin"
         },
+        "parent": 3056506,
         "lat": 49.06651,
         "lng": 18.92399,
-        "country": "SK",
-        "state": "08",
         "population": 60817
     },
     "3060972": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Bratislava"
         },
+        "parent": 3343955,
         "lat": 48.14816,
         "lng": 17.10674,
-        "country": "SK",
-        "state": "02",
         "population": 423737
     },
     "3061186": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Banská Bystrica"
         },
+        "parent": 3343954,
         "lat": 48.73946,
         "lng": 19.15349,
-        "country": "SK",
-        "state": "01",
         "population": 82336
     }
 }

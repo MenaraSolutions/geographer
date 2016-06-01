@@ -6,10 +6,9 @@
         "long": {
             "default": "Savé"
         },
+        "parent": 2597272,
         "lat": 8.03424,
         "lng": 2.4866,
-        "country": "BJ",
-        "state": "11",
         "population": 75970
     },
     "2392087": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Porto-Novo"
         },
+        "parent": 2392325,
         "lat": 6.49646,
         "lng": 2.60359,
-        "country": "BJ",
-        "state": "16",
         "population": 234168
     },
     "2392204": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Parakou"
         },
+        "parent": 2394992,
         "lat": 9.33716,
         "lng": 2.63031,
-        "country": "BJ",
-        "state": "10",
         "population": 163753
     },
     "2392308": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Ouidah"
         },
+        "parent": 2395504,
         "lat": 6.36307,
         "lng": 2.08506,
-        "country": "BJ",
-        "state": "09",
         "population": 83503
     },
     "2392505": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Nikki"
         },
+        "parent": 2394992,
         "lat": 9.94009,
         "lng": 3.21075,
-        "country": "BJ",
-        "state": "10",
         "population": 54009
     },
     "2392601": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Natitingou"
         },
+        "parent": 2395524,
         "lat": 10.30416,
         "lng": 1.37962,
-        "country": "BJ",
-        "state": "08",
         "population": 80892
     },
     "2392897": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Lokossa"
         },
+        "parent": 2392716,
         "lat": 6.63869,
         "lng": 1.71674,
-        "country": "BJ",
-        "state": "15",
         "population": 86971
     },
     "2393693": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Kandi"
         },
+        "parent": 2597271,
         "lat": 11.13417,
         "lng": 2.93861,
-        "country": "BJ",
-        "state": "07",
         "population": 109701
     },
     "2394560": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Djougou"
         },
+        "parent": 2597274,
         "lat": 9.70853,
         "lng": 1.66598,
-        "country": "BJ",
-        "state": "13",
         "population": 237040
     },
     "2394819": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Cotonou"
         },
+        "parent": 2597275,
         "lat": 6.36536,
         "lng": 2.41833,
-        "country": "BJ",
-        "state": "14",
         "population": 780000
     },
     "2395049": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Bohicon"
         },
+        "parent": 2390719,
         "lat": 7.17826,
         "lng": 2.0667,
-        "country": "BJ",
-        "state": "18",
         "population": 125092
     },
     "2395914": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Abomey-Calavi"
         },
+        "parent": 2395504,
         "lat": 6.44852,
         "lng": 2.35566,
-        "country": "BJ",
-        "state": "09",
         "population": 385755
     },
     "2395915": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Abomey"
         },
+        "parent": 2390719,
         "lat": 7.18286,
         "lng": 1.99119,
-        "country": "BJ",
-        "state": "18",
         "population": 82154
     }
 }

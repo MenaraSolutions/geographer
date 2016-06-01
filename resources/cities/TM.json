@@ -6,10 +6,9 @@
         "long": {
             "default": "Balkanabat"
         },
+        "parent": 162152,
         "lat": 39.51075,
         "lng": 54.36713,
-        "country": "TM",
-        "state": "02",
         "population": 87822
     },
     "162183": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ashgabat"
         },
+        "parent": 162181,
         "lat": 37.95,
         "lng": 58.38333,
-        "country": "TM",
-        "state": "01",
         "population": 727700
     },
     "601594": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Türkmenbaşy"
         },
+        "parent": 162152,
         "lat": 40.02216,
         "lng": 52.95517,
-        "country": "TM",
-        "state": "02",
         "population": 68292
     },
     "601734": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Daşoguz"
         },
+        "parent": 601465,
         "lat": 41.83625,
         "lng": 59.96661,
-        "country": "TM",
-        "state": "03",
         "population": 166500
     },
     "1218239": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Tejen"
         },
+        "parent": 162181,
         "lat": 37.38338,
         "lng": 60.50545,
-        "country": "TM",
-        "state": "01",
         "population": 67294
     },
     "1218667": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Mary"
         },
+        "parent": 1218666,
         "lat": 37.59378,
         "lng": 61.83031,
-        "country": "TM",
-        "state": "05",
         "population": 114680
     },
     "1219649": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Türkmenabat"
         },
+        "parent": 1219651,
         "lat": 39.07328,
         "lng": 63.57861,
-        "country": "TM",
-        "state": "04",
         "population": 234817
     },
     "1219762": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Bayramaly"
         },
+        "parent": 1218666,
         "lat": 37.61852,
         "lng": 62.16715,
-        "country": "TM",
-        "state": "05",
         "population": 75797
     }
 }

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "NZ",
         "ids": {
             "fips": "G2",
             "geonames": 2179538
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F3",
             "geonames": 2179671
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "G1",
             "geonames": 2180293
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "TAS",
             "geonames": 2181818
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F9",
             "geonames": 2181872
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F8",
             "geonames": 2182501
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "E8",
             "geonames": 2182560
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F6",
             "geonames": 2185978
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F4",
             "geonames": 2187304
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F2",
             "geonames": 2190146
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F1",
             "geonames": 2190767
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "E9",
             "geonames": 2192628
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "E7",
             "geonames": 2193734
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "10",
             "geonames": 4033013
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F5",
             "geonames": 6612108
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "F7",
             "geonames": 6612109
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "NZ",
         "ids": {
             "fips": "G3",
             "geonames": 6612113

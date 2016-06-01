@@ -6,10 +6,9 @@
         "long": {
             "default": "Tiraspolul"
         },
+        "parent": 858889,
         "lat": 46.84274,
         "lng": 29.62909,
-        "country": "MD",
-        "state": "58",
         "population": 157000
     },
     "617486": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Rîbniţa"
         },
+        "parent": 858889,
         "lat": 47.76817,
         "lng": 29.01,
-        "country": "MD",
-        "state": "58",
         "population": 55455
     },
     "618426": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Chişinău"
         },
+        "parent": 618069,
         "lat": 47.00556,
         "lng": 28.8575,
-        "country": "MD",
-        "state": "57",
         "population": 635994
     },
     "618577": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Bender"
         },
+        "parent": 861487,
         "lat": 46.83156,
         "lng": 29.47769,
-        "country": "MD",
-        "state": "62",
         "population": 110175
     },
     "618605": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Bălţi"
         },
+        "parent": 873909,
         "lat": 47.76314,
         "lng": 27.92932,
-        "country": "MD",
-        "state": "60",
         "population": 125000
     }
 }

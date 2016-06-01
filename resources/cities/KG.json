@@ -6,10 +6,9 @@
         "long": {
             "default": "Tokmok"
         },
+        "parent": 1538652,
         "lat": 42.84194,
         "lng": 75.30149,
-        "country": "KG",
-        "state": "02",
         "population": 63047
     },
     "1527534": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Osh"
         },
+        "parent": 1346798,
         "lat": 40.52828,
         "lng": 72.7985,
-        "country": "KG",
-        "state": "08",
         "population": 200000
     },
     "1527592": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Naryn"
         },
+        "parent": 1527590,
         "lat": 41.42866,
         "lng": 75.99111,
-        "country": "KG",
-        "state": "04",
         "population": 52300
     },
     "1528121": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Karakol"
         },
+        "parent": 1528260,
         "lat": 42.49068,
         "lng": 78.39362,
-        "country": "KG",
-        "state": "07",
         "population": 70171
     },
     "1528182": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Kara-Balta"
         },
+        "parent": 1538652,
         "lat": 42.81423,
         "lng": 73.84813,
-        "country": "KG",
-        "state": "02",
         "population": 62796
     },
     "1528249": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Jalal-Abad"
         },
+        "parent": 1529778,
         "lat": 40.93333,
         "lng": 73,
-        "country": "KG",
-        "state": "03",
         "population": 75700
     },
     "1528675": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Bishkek"
         },
+        "parent": 1528334,
         "lat": 42.87,
         "lng": 74.59,
-        "country": "KG",
-        "state": "01",
         "population": 900000
     },
     "11054823": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Osh City"
         },
+        "parent": 10300944,
         "lat": 40.53957,
         "lng": 72.81034,
-        "country": "KG",
-        "state": "10",
         "population": 255900
     }
 }

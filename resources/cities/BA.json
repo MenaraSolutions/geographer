@@ -6,10 +6,9 @@
         "long": {
             "default": "Zenica"
         },
+        "parent": 3229999,
         "lat": 44.20169,
         "lng": 17.90397,
-        "country": "BA",
-        "state": "01",
         "population": 164423
     },
     "3188582": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tuzla"
         },
+        "parent": 3229999,
         "lat": 44.53842,
         "lng": 18.66709,
-        "country": "BA",
-        "state": "01",
         "population": 142486
     },
     "3191281": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sarajevo"
         },
+        "parent": 3229999,
         "lat": 43.84864,
         "lng": 18.35644,
-        "country": "BA",
-        "state": "01",
         "population": 696731
     },
     "3194828": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Mostar"
         },
+        "parent": 3229999,
         "lat": 43.34333,
         "lng": 17.80806,
-        "country": "BA",
-        "state": "01",
         "population": 104518
     },
     "3204222": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Bihać"
         },
+        "parent": 3229999,
         "lat": 44.81694,
         "lng": 15.87083,
-        "country": "BA",
-        "state": "01",
         "population": 75641
     },
     "3204541": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Banja Luka"
         },
+        "parent": 3230000,
         "lat": 44.77583,
         "lng": 17.18556,
-        "country": "BA",
-        "state": "02",
         "population": 221106
     }
 }

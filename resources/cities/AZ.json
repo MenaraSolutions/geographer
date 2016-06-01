@@ -6,10 +6,9 @@
         "long": {
             "default": "Xankandi"
         },
+        "parent": 409421,
         "lat": 39.8177,
         "lng": 46.7528,
-        "country": "AZ",
-        "state": "61",
         "population": 53100
     },
     "147288": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Saatlı"
         },
+        "parent": 147287,
         "lat": 39.93214,
         "lng": 48.36892,
-        "country": "AZ",
-        "state": "45",
         "population": 87000
     },
     "147429": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Nakhchivan"
         },
+        "parent": 147435,
         "lat": 39.20889,
         "lng": 45.41222,
-        "country": "AZ",
-        "state": "35",
         "population": 64754
     },
     "147622": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Lankaran"
         },
+        "parent": 147613,
         "lat": 38.75428,
         "lng": 48.85062,
-        "country": "AZ",
-        "state": "29",
         "population": 240300
     },
     "148565": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Şirvan"
         },
+        "parent": 409417,
         "lat": 39.93778,
         "lng": 48.929,
-        "country": "AZ",
-        "state": "07",
         "population": 70220
     },
     "584649": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Yevlakh"
         },
+        "parent": 828307,
         "lat": 40.61832,
         "lng": 47.15014,
-        "country": "AZ",
-        "state": "68",
         "population": 59036
     },
     "584923": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Sumqayıt"
         },
+        "parent": 828305,
         "lat": 40.58972,
         "lng": 49.66861,
-        "country": "AZ",
-        "state": "54",
         "population": 265150
     },
     "585103": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Qaraçuxur"
         },
+        "parent": 587081,
         "lat": 40.39667,
         "lng": 49.97361,
-        "country": "AZ",
-        "state": "09",
         "population": 72989
     },
     "585170": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Sheki"
         },
+        "parent": 828303,
         "lat": 41.19194,
         "lng": 47.17056,
-        "country": "AZ",
-        "state": "48",
         "population": 63000
     },
     "585514": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Mingelchaur"
         },
+        "parent": 828299,
         "lat": 40.76395,
         "lng": 47.05953,
-        "country": "AZ",
-        "state": "33",
         "population": 95453
     },
     "586523": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Ganja"
         },
+        "parent": 828298,
         "lat": 40.68278,
         "lng": 46.36056,
-        "country": "AZ",
-        "state": "20",
         "population": 313300
     },
     "587084": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Baku"
         },
+        "parent": 587081,
         "lat": 40.37767,
         "lng": 49.89201,
-        "country": "AZ",
-        "state": "09",
         "population": 1116513
     },
     "824003": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Bakıxanov"
         },
+        "parent": 587081,
         "lat": 40.41894,
         "lng": 49.96693,
-        "country": "AZ",
-        "state": "09",
         "population": 66686
     }
 }

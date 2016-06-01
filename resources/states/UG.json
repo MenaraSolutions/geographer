@@ -1,5 +1,6 @@
 [
     {
+        "parent": "UG",
         "ids": {
             "fips": "C",
             "geonames": 234594
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "UG",
         "ids": {
             "fips": "E",
             "geonames": 8260673
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "UG",
         "ids": {
             "fips": "N",
             "geonames": 8260674
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "UG",
         "ids": {
             "fips": "W",
             "geonames": 8260675

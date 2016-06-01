@@ -2,6 +2,8 @@
 
 namespace Tests;
 
+use MenaraSolutions\Geographer\Earth;
+
 abstract class Test extends \PHPUnit_Framework_TestCase
 {
     use AnalyzesPerformance;

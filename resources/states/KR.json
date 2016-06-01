@@ -1,5 +1,6 @@
 [
     {
+        "parent": "KR",
         "ids": {
             "fips": "21",
             "geonames": 1833742
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "19",
             "geonames": 1835224
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "15",
             "geonames": 1835327
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "11",
             "geonames": 1835847
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "10",
             "geonames": 1838519
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "14",
             "geonames": 1841597
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "13",
             "geonames": 1841610
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "18",
             "geonames": 1841808
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "06",
             "geonames": 1843125
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "12",
             "geonames": 1843561
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "17",
             "geonames": 1845105
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "05",
             "geonames": 1845106
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "16",
             "geonames": 1845788
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "03",
             "geonames": 1845789
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "01",
             "geonames": 1846265
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "20",
             "geonames": 1902028
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "KR",
         "ids": {
             "fips": "22",
             "geonames": 8394437

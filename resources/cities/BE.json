@@ -6,10 +6,9 @@
         "long": {
             "default": "Verviers"
         },
+        "parent": 3337387,
         "lat": 50.58907,
         "lng": 5.86241,
-        "country": "BE",
-        "state": "WAL",
         "population": 52824
     },
     "2785341": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tournai"
         },
+        "parent": 3337387,
         "lat": 50.60715,
         "lng": 3.38932,
-        "country": "BE",
-        "state": "WAL",
         "population": 67721
     },
     "2786578": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sint-Niklaas"
         },
+        "parent": 3337388,
         "lat": 51.16509,
         "lng": 4.1437,
-        "country": "BE",
-        "state": "VLG",
         "population": 69010
     },
     "2786824": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Seraing"
         },
+        "parent": 3337387,
         "lat": 50.58362,
         "lng": 5.50115,
-        "country": "BE",
-        "state": "WAL",
         "population": 60737
     },
     "2787889": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Roeselare"
         },
+        "parent": 3337388,
         "lat": 50.94653,
         "lng": 3.12269,
-        "country": "BE",
-        "state": "VLG",
         "population": 56016
     },
     "2789786": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Ostend"
         },
+        "parent": 3337388,
         "lat": 51.21551,
         "lng": 2.927,
-        "country": "BE",
-        "state": "VLG",
         "population": 69011
     },
     "2790471": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Namur"
         },
+        "parent": 3337387,
         "lat": 50.4669,
         "lng": 4.86746,
-        "country": "BE",
-        "state": "WAL",
         "population": 106284
     },
     "2790595": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Mouscron"
         },
+        "parent": 3337387,
         "lat": 50.74497,
         "lng": 3.20639,
-        "country": "BE",
-        "state": "WAL",
         "population": 52069
     },
     "2790869": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Mons"
         },
+        "parent": 3337387,
         "lat": 50.45413,
         "lng": 3.95229,
-        "country": "BE",
-        "state": "WAL",
         "population": 91277
     },
     "2791537": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Mechelen"
         },
+        "parent": 3337388,
         "lat": 51.02574,
         "lng": 4.47762,
-        "country": "BE",
-        "state": "VLG",
         "population": 77530
     },
     "2792413": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Liège"
         },
+        "parent": 3337387,
         "lat": 50.63373,
         "lng": 5.56749,
-        "country": "BE",
-        "state": "WAL",
         "population": 182597
     },
     "2792482": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Leuven"
         },
+        "parent": 3337388,
         "lat": 50.87959,
         "lng": 4.70093,
-        "country": "BE",
-        "state": "VLG",
         "population": 92892
     },
     "2793508": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "La Louvière"
         },
+        "parent": 3337387,
         "lat": 50.48657,
         "lng": 4.18785,
-        "country": "BE",
-        "state": "WAL",
         "population": 76668
     },
     "2794055": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Kortrijk"
         },
+        "parent": 3337388,
         "lat": 50.82803,
         "lng": 3.26487,
-        "country": "BE",
-        "state": "VLG",
         "population": 73879
     },
     "2796491": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Hasselt"
         },
+        "parent": 3337388,
         "lat": 50.93106,
         "lng": 5.33781,
-        "country": "BE",
-        "state": "VLG",
         "population": 69222
     },
     "2797656": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Gent"
         },
+        "parent": 3337388,
         "lat": 51.05,
         "lng": 3.71667,
-        "country": "BE",
-        "state": "VLG",
         "population": 231493
     },
     "2797670": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Genk"
         },
+        "parent": 3337388,
         "lat": 50.965,
         "lng": 5.50082,
-        "country": "BE",
-        "state": "VLG",
         "population": 63666
     },
     "2800481": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Charleroi"
         },
+        "parent": 3337387,
         "lat": 50.41136,
         "lng": 4.44448,
-        "country": "BE",
-        "state": "WAL",
         "population": 200132
     },
     "2800866": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Brussels"
         },
+        "parent": 2800867,
         "lat": 50.85045,
         "lng": 4.34878,
-        "country": "BE",
-        "state": "BRU",
         "population": 1019022
     },
     "2800931": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Brugge"
         },
+        "parent": 3337388,
         "lat": 51.20892,
         "lng": 3.22424,
-        "country": "BE",
-        "state": "VLG",
         "population": 116709
     },
     "2803138": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Antwerpen"
         },
+        "parent": 3337388,
         "lat": 51.21989,
         "lng": 4.40346,
-        "country": "BE",
-        "state": "VLG",
         "population": 459805
     },
     "2803448": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Aalst"
         },
+        "parent": 3337388,
         "lat": 50.93604,
         "lng": 4.0355,
-        "country": "BE",
-        "state": "VLG",
         "population": 77534
     }
 }

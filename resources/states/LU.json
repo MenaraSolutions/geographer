@@ -1,5 +1,6 @@
 [
     {
+        "parent": "LU",
         "ids": {
             "fips": "03",
             "geonames": 2960314
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "LU",
         "ids": {
             "fips": "02",
             "geonames": 2960513
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "LU",
         "ids": {
             "fips": "01",
             "geonames": 2960655

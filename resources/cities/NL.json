@@ -6,10 +6,9 @@
         "long": {
             "default": "Zwolle"
         },
+        "parent": 2748838,
         "lat": 52.5125,
         "lng": 6.09444,
-        "country": "NL",
-        "state": "15",
         "population": 111805
     },
     "2743856": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Zoetermeer"
         },
+        "parent": 2743698,
         "lat": 52.0575,
         "lng": 4.49306,
-        "country": "NL",
-        "state": "11",
         "population": 115845
     },
     "2743977": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Zeist"
         },
+        "parent": 2745909,
         "lat": 52.09,
         "lng": 5.23333,
-        "country": "NL",
-        "state": "09",
         "population": 60949
     },
     "2744114": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Zaanstad"
         },
+        "parent": 2749879,
         "lat": 52.45313,
         "lng": 4.81356,
-        "country": "NL",
-        "state": "07",
         "population": 140085
     },
     "2744118": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Zaandam"
         },
+        "parent": 2749879,
         "lat": 52.43854,
         "lng": 4.82643,
-        "country": "NL",
-        "state": "07",
         "population": 71708
     },
     "2745467": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Vlaardingen"
         },
+        "parent": 2743698,
         "lat": 51.9125,
         "lng": 4.34167,
-        "country": "NL",
-        "state": "11",
         "population": 73798
     },
     "2745641": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Venlo"
         },
+        "parent": 2751596,
         "lat": 51.37,
         "lng": 6.16806,
-        "country": "NL",
-        "state": "05",
         "population": 92403
     },
     "2745673": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Velsen-Zuid"
         },
+        "parent": 2749879,
         "lat": 52.46,
         "lng": 4.65,
-        "country": "NL",
-        "state": "07",
         "population": 67758
     },
     "2745774": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Veenendaal"
         },
+        "parent": 2745909,
         "lat": 52.02863,
         "lng": 5.55891,
-        "country": "NL",
-        "state": "09",
         "population": 61271
     },
     "2745912": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Utrecht"
         },
+        "parent": 2745909,
         "lat": 52.09083,
         "lng": 5.12222,
-        "country": "NL",
-        "state": "09",
         "population": 290529
     },
     "2746301": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Tilburg"
         },
+        "parent": 2749990,
         "lat": 51.55551,
         "lng": 5.0913,
-        "country": "NL",
-        "state": "06",
         "population": 199613
     },
     "2746932": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Spijkenisse"
         },
+        "parent": 2743698,
         "lat": 51.845,
         "lng": 4.32917,
-        "country": "NL",
-        "state": "11",
         "population": 74988
     },
     "2747351": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "'s-Hertogenbosch"
         },
+        "parent": 2749990,
         "lat": 51.69917,
         "lng": 5.30417,
-        "country": "NL",
-        "state": "06",
         "population": 134520
     },
     "2747373": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "The Hague"
         },
+        "parent": 2743698,
         "lat": 52.07667,
         "lng": 4.29861,
-        "country": "NL",
-        "state": "11",
         "population": 474292
     },
     "2747596": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Schiedam"
         },
+        "parent": 2743698,
         "lat": 51.91917,
         "lng": 4.38889,
-        "country": "NL",
-        "state": "11",
         "population": 75438
     },
     "2747891": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Rotterdam"
         },
+        "parent": 2743698,
         "lat": 51.9225,
         "lng": 4.47917,
-        "country": "NL",
-        "state": "11",
         "population": 598199
     },
     "2747930": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Roosendaal"
         },
+        "parent": 2749990,
         "lat": 51.53083,
         "lng": 4.46528,
-        "country": "NL",
-        "state": "06",
         "population": 77725
     },
     "2748413": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Purmerend"
         },
+        "parent": 2749879,
         "lat": 52.505,
         "lng": 4.95972,
-        "country": "NL",
-        "state": "07",
         "population": 76745
     },
     "2749234": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Oss"
         },
+        "parent": 2749990,
         "lat": 51.765,
         "lng": 5.51806,
-        "country": "NL",
-        "state": "06",
         "population": 76430
     },
     "2749450": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Oosterhout"
         },
+        "parent": 2749990,
         "lat": 51.645,
         "lng": 4.85972,
-        "country": "NL",
-        "state": "06",
         "population": 53107
     },
     "2750053": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Nijmegen"
         },
+        "parent": 2755634,
         "lat": 51.8425,
         "lng": 5.85278,
-        "country": "NL",
-        "state": "03",
         "population": 158732
     },
     "2750325": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Nieuwegein"
         },
+        "parent": 2745909,
         "lat": 52.02917,
         "lng": 5.08056,
-        "country": "NL",
-        "state": "09",
         "population": 61489
     },
     "2751283": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Maastricht"
         },
+        "parent": 2751596,
         "lat": 50.84833,
         "lng": 5.68889,
-        "country": "NL",
-        "state": "05",
         "population": 122378
     },
     "2751738": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Lelystad"
         },
+        "parent": 3319179,
         "lat": 52.50833,
         "lng": 5.475,
-        "country": "NL",
-        "state": "16",
         "population": 70741
     },
     "2751773": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Leiden"
         },
+        "parent": 2743698,
         "lat": 52.15833,
         "lng": 4.49306,
-        "country": "NL",
-        "state": "11",
         "population": 119713
     },
     "2751792": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Leeuwarden"
         },
+        "parent": 2755812,
         "lat": 53.20139,
         "lng": 5.80859,
-        "country": "NL",
-        "state": "02",
         "population": 91424
     },
     "2753638": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Hoorn"
         },
+        "parent": 2749879,
         "lat": 52.6425,
         "lng": 5.05972,
-        "country": "NL",
-        "state": "07",
         "population": 68852
     },
     "2753801": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Hoofddorp"
         },
+        "parent": 2749879,
         "lat": 52.3025,
         "lng": 4.68889,
-        "country": "NL",
-        "state": "07",
         "population": 132734
     },
     "2754064": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Hilversum"
         },
+        "parent": 2749879,
         "lat": 52.22333,
         "lng": 5.17639,
-        "country": "NL",
-        "state": "07",
         "population": 83640
     },
     "2754394": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Hengelo"
         },
+        "parent": 2748838,
         "lat": 52.26583,
         "lng": 6.79306,
-        "country": "NL",
-        "state": "15",
         "population": 80809
     },
     "2754447": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Helmond"
         },
+        "parent": 2749990,
         "lat": 51.48167,
         "lng": 5.66111,
-        "country": "NL",
-        "state": "06",
         "population": 74740
     },
     "2754652": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Heerlen"
         },
+        "parent": 2751596,
         "lat": 50.88365,
         "lng": 5.98154,
-        "country": "NL",
-        "state": "05",
         "population": 93084
     },
     "2754861": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Hardenberg"
         },
+        "parent": 2748838,
         "lat": 52.57583,
         "lng": 6.61944,
-        "country": "NL",
-        "state": "15",
         "population": 57909
     },
     "2755003": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Haarlem"
         },
+        "parent": 2749879,
         "lat": 52.38084,
         "lng": 4.63683,
-        "country": "NL",
-        "state": "07",
         "population": 147590
     },
     "2755251": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Groningen"
         },
+        "parent": 2755249,
         "lat": 53.21917,
         "lng": 6.56667,
-        "country": "NL",
-        "state": "04",
         "population": 181194
     },
     "2755420": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Gouda"
         },
+        "parent": 2743698,
         "lat": 52.01667,
         "lng": 4.70833,
-        "country": "NL",
-        "state": "11",
         "population": 71952
     },
     "2756071": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Enschede"
         },
+        "parent": 2748838,
         "lat": 52.21833,
         "lng": 6.89583,
-        "country": "NL",
-        "state": "15",
         "population": 153655
     },
     "2756136": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Emmen"
         },
+        "parent": 2756631,
         "lat": 52.77917,
         "lng": 6.90694,
-        "country": "NL",
-        "state": "01",
         "population": 57010
     },
     "2756253": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Eindhoven"
         },
+        "parent": 2749990,
         "lat": 51.44083,
         "lng": 5.47778,
-        "country": "NL",
-        "state": "06",
         "population": 209620
     },
     "2756429": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Ede"
         },
+        "parent": 2755634,
         "lat": 52.03333,
         "lng": 5.65833,
-        "country": "NL",
-        "state": "03",
         "population": 67670
     },
     "2756669": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Dordrecht"
         },
+        "parent": 2743698,
         "lat": 51.81,
         "lng": 4.67361,
-        "country": "NL",
-        "state": "11",
         "population": 119260
     },
     "2756987": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Deventer"
         },
+        "parent": 2748838,
         "lat": 52.255,
         "lng": 6.16389,
-        "country": "NL",
-        "state": "15",
         "population": 97331
     },
     "2757220": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Den Helder"
         },
+        "parent": 2749879,
         "lat": 52.95988,
         "lng": 4.75933,
-        "country": "NL",
-        "state": "07",
         "population": 59569
     },
     "2757345": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Delft"
         },
+        "parent": 2743698,
         "lat": 52.00667,
         "lng": 4.35556,
-        "country": "NL",
-        "state": "11",
         "population": 95060
     },
     "2757347": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Delfshaven"
         },
+        "parent": 2743698,
         "lat": 51.90488,
         "lng": 4.45315,
-        "country": "NL",
-        "state": "11",
         "population": 70290
     },
     "2758012": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Capelle aan den IJssel"
         },
+        "parent": 2743698,
         "lat": 51.92917,
         "lng": 4.57778,
-        "country": "NL",
-        "state": "11",
         "population": 65255
     },
     "2758401": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Breda"
         },
+        "parent": 2749990,
         "lat": 51.58656,
         "lng": 4.77596,
-        "country": "NL",
-        "state": "06",
         "population": 167673
     },
     "2758602": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Born"
         },
+        "parent": 2751596,
         "lat": 51.03167,
         "lng": 5.80972,
-        "country": "NL",
-        "state": "05",
         "population": 97169
     },
     "2759145": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Bergen op Zoom"
         },
+        "parent": 2749990,
         "lat": 51.495,
         "lng": 4.29167,
-        "country": "NL",
-        "state": "06",
         "population": 66256
     },
     "2759633": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Assen"
         },
+        "parent": 2756631,
         "lat": 52.99667,
         "lng": 6.5625,
-        "country": "NL",
-        "state": "01",
         "population": 62237
     },
     "2759661": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Arnhem"
         },
+        "parent": 2755634,
         "lat": 51.98,
         "lng": 5.91111,
-        "country": "NL",
-        "state": "03",
         "population": 141674
     },
     "2759706": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Apeldoorn"
         },
+        "parent": 2755634,
         "lat": 52.21,
         "lng": 5.96944,
-        "country": "NL",
-        "state": "03",
         "population": 136670
     },
     "2759794": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Amsterdam"
         },
+        "parent": 2749879,
         "lat": 52.37403,
         "lng": 4.88969,
-        "country": "NL",
-        "state": "07",
         "population": 741636
     },
     "2759798": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Amstelveen"
         },
+        "parent": 2749879,
         "lat": 52.30083,
         "lng": 4.86389,
-        "country": "NL",
-        "state": "07",
         "population": 79639
     },
     "2759821": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Amersfoort"
         },
+        "parent": 2745909,
         "lat": 52.155,
         "lng": 5.3875,
-        "country": "NL",
-        "state": "09",
         "population": 139914
     },
     "2759875": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Alphen aan den Rijn"
         },
+        "parent": 2743698,
         "lat": 52.12917,
         "lng": 4.65546,
-        "country": "NL",
-        "state": "11",
         "population": 70251
     },
     "2759879": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Almere Stad"
         },
+        "parent": 3319179,
         "lat": 52.37025,
         "lng": 5.21413,
-        "country": "NL",
-        "state": "16",
         "population": 176432
     },
     "2759887": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Almelo"
         },
+        "parent": 2748838,
         "lat": 52.35667,
         "lng": 6.6625,
-        "country": "NL",
-        "state": "15",
         "population": 72725
     },
     "2759899": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Alkmaar"
         },
+        "parent": 2749879,
         "lat": 52.63167,
         "lng": 4.74861,
-        "country": "NL",
-        "state": "07",
         "population": 94853
     },
     "6544881": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Amsterdam-Zuidoost"
         },
+        "parent": 2749879,
         "lat": 52.3075,
         "lng": 4.97222,
-        "country": "NL",
-        "state": "07",
         "population": 84811
     }
 }

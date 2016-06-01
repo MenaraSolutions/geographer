@@ -6,10 +6,9 @@
         "long": {
             "default": "Rockingham"
         },
+        "parent": 2058645,
         "lat": -32.27682,
         "lng": 115.72978,
-        "country": "AU",
-        "state": "08",
         "population": 108022
     },
     "2063523": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Perth"
         },
+        "parent": 2058645,
         "lat": -31.95224,
         "lng": 115.8614,
-        "country": "AU",
-        "state": "08",
         "population": 1896548
     },
     "2067119": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Mandurah"
         },
+        "parent": 2058645,
         "lat": -32.5269,
         "lng": 115.7217,
-        "country": "AU",
-        "state": "08",
         "population": 83294
     },
     "2073124": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Darwin"
         },
+        "parent": 2064513,
         "lat": -12.46113,
         "lng": 130.84185,
-        "country": "AU",
-        "state": "03",
         "population": 129062
     },
     "2075432": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Bunbury"
         },
+        "parent": 2058645,
         "lat": -33.32711,
         "lng": 115.64137,
-        "country": "AU",
-        "state": "08",
         "population": 68248
     },
     "2077579": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Armadale"
         },
+        "parent": 2058645,
         "lat": -32.14607,
         "lng": 116.0093,
-        "country": "AU",
-        "state": "08",
         "population": 62296
     },
     "2078025": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Adelaide"
         },
+        "parent": 2061327,
         "lat": -34.92866,
         "lng": 138.59863,
-        "country": "AU",
-        "state": "05",
         "population": 1225235
     },
     "2146142": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Townsville"
         },
+        "parent": 2152274,
         "lat": -19.26639,
         "lng": 146.80569,
-        "country": "AU",
-        "state": "04",
         "population": 196219
     },
     "2146268": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Toowoomba"
         },
+        "parent": 2152274,
         "lat": -27.56056,
         "lng": 151.95386,
-        "country": "AU",
-        "state": "04",
         "population": 131258
     },
     "2147714": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Sydney"
         },
+        "parent": 2155400,
         "lat": -33.86785,
         "lng": 151.20732,
-        "country": "AU",
-        "state": "02",
         "population": 4627345
     },
     "2151437": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Rockhampton"
         },
+        "parent": 2152274,
         "lat": -23.38032,
         "lng": 150.50595,
-        "country": "AU",
-        "state": "04",
         "population": 61724
     },
     "2155472": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Newcastle"
         },
+        "parent": 2155400,
         "lat": -32.92715,
         "lng": 151.77647,
-        "country": "AU",
-        "state": "02",
         "population": 308308
     },
     "2158177": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Melbourne"
         },
+        "parent": 2145234,
         "lat": -37.814,
         "lng": 144.96332,
-        "country": "AU",
-        "state": "07",
         "population": 4246375
     },
     "2159045": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Maitland"
         },
+        "parent": 2155400,
         "lat": -32.73308,
         "lng": 151.5574,
-        "country": "AU",
-        "state": "02",
         "population": 67132
     },
     "2159220": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Mackay"
         },
+        "parent": 2152274,
         "lat": -21.15345,
         "lng": 149.16554,
-        "country": "AU",
-        "state": "04",
         "population": 74219
     },
     "2160517": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Launceston"
         },
+        "parent": 2147291,
         "lat": -41.43876,
         "lng": 147.13467,
-        "country": "AU",
-        "state": "06",
         "population": 106153
     },
     "2163355": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Hobart"
         },
+        "parent": 2147291,
         "lat": -42.87936,
         "lng": 147.32941,
-        "country": "AU",
-        "state": "06",
         "population": 216656
     },
     "2165087": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Gold Coast"
         },
+        "parent": 2152274,
         "lat": -28.00029,
         "lng": 153.43088,
-        "country": "AU",
-        "state": "04",
         "population": 591473
     },
     "2165798": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Geelong"
         },
+        "parent": 2145234,
         "lat": -38.14711,
         "lng": 144.36069,
-        "country": "AU",
-        "state": "07",
         "population": 226034
     },
     "2171507": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Wollongong"
         },
+        "parent": 2155400,
         "lat": -34.424,
         "lng": 150.89345,
-        "country": "AU",
-        "state": "02",
         "population": 292190
     },
     "2172517": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Canberra"
         },
+        "parent": 2177478,
         "lat": -35.28346,
         "lng": 149.12807,
-        "country": "AU",
-        "state": "01",
         "population": 367752
     },
     "2172797": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Cairns"
         },
+        "parent": 2152274,
         "lat": -16.92304,
         "lng": 145.76625,
-        "country": "AU",
-        "state": "04",
         "population": 153075
     },
     "2173323": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Bundaberg"
         },
+        "parent": 2152274,
         "lat": -24.86621,
         "lng": 152.3479,
-        "country": "AU",
-        "state": "04",
         "population": 70826
     },
     "2174003": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Brisbane"
         },
+        "parent": 2152274,
         "lat": -27.46794,
         "lng": 153.02809,
-        "country": "AU",
-        "state": "04",
         "population": 2189878
     },
     "2176187": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Bendigo"
         },
+        "parent": 2145234,
         "lat": -36.75818,
         "lng": 144.28024,
-        "country": "AU",
-        "state": "07",
         "population": 100617
     },
     "2177091": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Ballarat"
         },
+        "parent": 2145234,
         "lat": -37.56622,
         "lng": 143.84957,
-        "country": "AU",
-        "state": "07",
         "population": 97937
     },
     "2207259": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "South Brisbane"
         },
+        "parent": 2152274,
         "lat": -27.48034,
         "lng": 153.02049,
-        "country": "AU",
-        "state": "04",
         "population": 60000
     },
     "7281838": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Logan City"
         },
+        "parent": 2152274,
         "lat": -27.63917,
         "lng": 153.10944,
-        "country": "AU",
-        "state": "04",
         "population": 282673
     },
     "7302628": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Adelaide Hills"
         },
+        "parent": 2061327,
         "lat": -34.91119,
         "lng": 138.70735,
-        "country": "AU",
-        "state": "05",
         "population": 60394
     }
 }

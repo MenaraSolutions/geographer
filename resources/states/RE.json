@@ -1,5 +1,6 @@
 [
     {
+        "parent": "RE",
         "ids": {
             "fips": "RE",
             "geonames": 6690283

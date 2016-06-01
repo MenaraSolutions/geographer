@@ -6,10 +6,9 @@
         "long": {
             "default": "Zrenjanin"
         },
+        "parent": 784272,
         "lat": 45.38361,
         "lng": 20.38194,
-        "country": "RS",
-        "state": "VO",
         "population": 79773
     },
     "783920": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Zemun"
         },
+        "parent": 785958,
         "lat": 44.84306,
         "lng": 20.40111,
-        "country": "RS",
-        "state": "SE",
         "population": 155591
     },
     "784227": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Vranje"
         },
+        "parent": 785958,
         "lat": 42.55139,
         "lng": 21.90028,
-        "country": "RS",
-        "state": "SE",
         "population": 56199
     },
     "785756": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Smederevo"
         },
+        "parent": 785958,
         "lat": 44.66278,
         "lng": 20.93,
-        "country": "RS",
-        "state": "SE",
         "population": 62000
     },
     "787237": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Pančevo"
         },
+        "parent": 784272,
         "lat": 44.87083,
         "lng": 20.64028,
-        "country": "RS",
-        "state": "VO",
         "population": 76654
     },
     "787595": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Novi Pazar"
         },
+        "parent": 785958,
         "lat": 43.13667,
         "lng": 20.51222,
-        "country": "RS",
-        "state": "SE",
         "population": 85996
     },
     "787657": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Niš"
         },
+        "parent": 785958,
         "lat": 43.32472,
         "lng": 21.90333,
-        "country": "RS",
-        "state": "SE",
         "population": 250000
     },
     "788709": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Leskovac"
         },
+        "parent": 785958,
         "lat": 42.99806,
         "lng": 21.94611,
-        "country": "RS",
-        "state": "SE",
         "population": 94758
     },
     "788975": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kruševac"
         },
+        "parent": 785958,
         "lat": 43.58,
         "lng": 21.33389,
-        "country": "RS",
-        "state": "SE",
         "population": 75256
     },
     "789107": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kraljevo"
         },
+        "parent": 785958,
         "lat": 43.72583,
         "lng": 20.68944,
-        "country": "RS",
-        "state": "SE",
         "population": 82846
     },
     "789128": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Kragujevac"
         },
+        "parent": 785958,
         "lat": 44.01667,
         "lng": 20.91667,
-        "country": "RS",
-        "state": "SE",
         "population": 147473
     },
     "792078": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Čačak"
         },
+        "parent": 785958,
         "lat": 43.89139,
         "lng": 20.34972,
-        "country": "RS",
-        "state": "SE",
         "population": 117072
     },
     "792680": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Belgrade"
         },
+        "parent": 785958,
         "lat": 44.80401,
         "lng": 20.46513,
-        "country": "RS",
-        "state": "SE",
         "population": 1273651
     },
     "3188402": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Valjevo"
         },
+        "parent": 785958,
         "lat": 44.27513,
         "lng": 19.89821,
-        "country": "RS",
-        "state": "SE",
         "population": 61035
     },
     "3188434": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Užice"
         },
+        "parent": 785958,
         "lat": 43.85861,
         "lng": 19.84878,
-        "country": "RS",
-        "state": "SE",
         "population": 63577
     },
     "3189595": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Subotica"
         },
+        "parent": 784272,
         "lat": 46.1,
         "lng": 19.66667,
-        "country": "RS",
-        "state": "VO",
         "population": 100000
     },
     "3191376": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Šabac"
         },
+        "parent": 785958,
         "lat": 44.74667,
         "lng": 19.69,
-        "country": "RS",
-        "state": "SE",
         "population": 55114
     },
     "3194360": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Novi Sad"
         },
+        "parent": 784272,
         "lat": 45.25167,
         "lng": 19.83694,
-        "country": "RS",
-        "state": "VO",
         "population": 215400
     }
 }

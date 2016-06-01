@@ -6,10 +6,9 @@
         "long": {
             "default": "Thika"
         },
+        "parent": 184742,
         "lat": -1.03326,
         "lng": 37.06933,
-        "country": "KE",
-        "state": "05",
         "population": 200000
     },
     "182701": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Nyeri"
         },
+        "parent": 7667661,
         "lat": -0.42013,
         "lng": 36.94759,
-        "country": "KE",
-        "state": "44",
         "population": 51084
     },
     "184622": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Nakuru"
         },
+        "parent": 7668902,
         "lat": -0.28333,
         "lng": 36.06667,
-        "country": "KE",
-        "state": "39",
         "population": 259903
     },
     "184745": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Nairobi"
         },
+        "parent": 184742,
         "lat": -1.28333,
         "lng": 36.81667,
-        "country": "KE",
-        "state": "05",
         "population": 2750547
     },
     "186301": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Mombasa"
         },
+        "parent": 186298,
         "lat": -4.05466,
         "lng": 39.66359,
-        "country": "KE",
-        "state": "37",
         "population": 799668
     },
     "187110": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Mbale"
         },
+        "parent": 7667638,
         "lat": -3.4,
         "lng": 38.38333,
-        "country": "KE",
-        "state": "53",
         "population": 60000
     },
     "187968": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Malindi"
         },
+        "parent": 192064,
         "lat": -3.21799,
         "lng": 40.11692,
-        "country": "KE",
-        "state": "23",
         "population": 118265
     },
     "191220": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Kitale"
         },
+        "parent": 179068,
         "lat": 1.01572,
         "lng": 35.00622,
-        "country": "KE",
-        "state": "50",
         "population": 75123
     },
     "191245": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kisumu"
         },
+        "parent": 191242,
         "lat": -0.10221,
         "lng": 34.76171,
-        "country": "KE",
-        "state": "26",
         "population": 216479
     },
     "194160": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kapenguria"
         },
+        "parent": 178145,
         "lat": 1.23333,
         "lng": 35.11667,
-        "country": "KE",
-        "state": "55",
         "population": 56000
     },
     "195272": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Kakamega"
         },
+        "parent": 195271,
         "lat": 0.28422,
         "lng": 34.75229,
-        "country": "KE",
-        "state": "20",
         "population": 63426
     },
     "197745": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Garissa"
         },
+        "parent": 197744,
         "lat": -0.45275,
         "lng": 39.64601,
-        "country": "KE",
-        "state": "16",
         "population": 67861
     },
     "198629": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Eldoret"
         },
+        "parent": 178837,
         "lat": 0.52036,
         "lng": 35.26993,
-        "country": "KE",
-        "state": "52",
         "population": 218446
     },
     "199989": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Busia"
         },
+        "parent": 199987,
         "lat": 0.46005,
         "lng": 34.11169,
-        "country": "KE",
-        "state": "13",
         "population": 51981
     },
     "200067": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Bungoma"
         },
+        "parent": 200066,
         "lat": 0.5635,
         "lng": 34.56055,
-        "country": "KE",
-        "state": "12",
         "population": 55962
     }
 }

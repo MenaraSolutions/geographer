@@ -6,10 +6,9 @@
         "long": {
             "default": "Abbotsford"
         },
+        "parent": 5909050,
         "lat": 49.05798,
         "lng": -122.25257,
-        "country": "CA",
-        "state": "02",
         "population": 151683
     },
     "5882873": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ajax"
         },
+        "parent": 6093943,
         "lat": 43.85012,
         "lng": -79.03288,
-        "country": "CA",
-        "state": "08",
         "population": 90167
     },
     "5885383": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Anmore"
         },
+        "parent": 5909050,
         "lat": 49.31637,
         "lng": -122.85263,
-        "country": "CA",
-        "state": "02",
         "population": 126456
     },
     "5894171": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Barrie"
         },
+        "parent": 6093943,
         "lat": 44.40011,
         "lng": -79.66634,
-        "country": "CA",
-        "state": "08",
         "population": 182041
     },
     "5907364": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Brampton"
         },
+        "parent": 6093943,
         "lat": 43.68341,
         "lng": -79.76633,
-        "country": "CA",
-        "state": "08",
         "population": 433806
     },
     "5907990": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Brantford"
         },
+        "parent": 6093943,
         "lat": 43.1334,
         "lng": -80.26636,
-        "country": "CA",
-        "state": "08",
         "population": 87759
     },
     "5909629": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Brossard"
         },
+        "parent": 6115047,
         "lat": 45.45008,
         "lng": -73.46583,
-        "country": "CA",
-        "state": "10",
         "population": 69575
     },
     "5911592": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Burlington"
         },
+        "parent": 6093943,
         "lat": 43.38621,
         "lng": -79.83713,
-        "country": "CA",
-        "state": "08",
         "population": 164415
     },
     "5911606": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Burnaby"
         },
+        "parent": 5909050,
         "lat": 49.26636,
         "lng": -122.95263,
-        "country": "CA",
-        "state": "02",
         "population": 202799
     },
     "5913490": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Calgary"
         },
+        "parent": 5883102,
         "lat": 51.05011,
         "lng": -114.08529,
-        "country": "CA",
-        "state": "01",
         "population": 1019942
     },
     "5913695": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Cambridge"
         },
+        "parent": 6093943,
         "lat": 43.3601,
         "lng": -80.31269,
-        "country": "CA",
-        "state": "08",
         "population": 120372
     },
     "5921356": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Chilliwack"
         },
+        "parent": 5909050,
         "lat": 49.16638,
         "lng": -121.95257,
-        "country": "CA",
-        "state": "02",
         "population": 77000
     },
     "5927689": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Coquitlam"
         },
+        "parent": 5909050,
         "lat": 49.28297,
         "lng": -122.75262,
-        "country": "CA",
-        "state": "02",
         "population": 114565
     },
     "5935277": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Dartmouth"
         },
+        "parent": 6091530,
         "lat": 44.67134,
         "lng": -63.57719,
-        "country": "CA",
-        "state": "07",
         "population": 101343
     },
     "5937615": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Delta"
         },
+        "parent": 5909050,
         "lat": 49.14399,
         "lng": -122.9068,
-        "country": "CA",
-        "state": "02",
         "population": 101668
     },
     "5942845": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Drummondville"
         },
+        "parent": 6115047,
         "lat": 45.88336,
         "lng": -72.48241,
-        "country": "CA",
-        "state": "10",
         "population": 59489
     },
     "5946768": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Edmonton"
         },
+        "parent": 5883102,
         "lat": 53.55014,
         "lng": -113.46871,
-        "country": "CA",
-        "state": "01",
         "population": 712391
     },
     "5950267": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Etobicoke"
         },
+        "parent": 6093943,
         "lat": 43.65421,
         "lng": -79.56711,
-        "country": "CA",
-        "state": "08",
         "population": 347948
     },
     "5955895": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Fort McMurray"
         },
+        "parent": 5883102,
         "lat": 56.72676,
         "lng": -111.38103,
-        "country": "CA",
-        "state": "01",
         "population": 76000
     },
     "5957776": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Fredericton"
         },
+        "parent": 6087430,
         "lat": 45.94541,
         "lng": -66.66558,
-        "country": "CA",
-        "state": "04",
         "population": 52337
     },
     "5959974": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Gatineau"
         },
+        "parent": 6115047,
         "lat": 45.47723,
         "lng": -75.70164,
-        "country": "CA",
-        "state": "10",
         "population": 242124
     },
     "5964215": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Granby"
         },
+        "parent": 6115047,
         "lat": 45.40008,
         "lng": -72.73243,
-        "country": "CA",
-        "state": "10",
         "population": 53979
     },
     "5964700": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Greater Sudbury"
         },
+        "parent": 6093943,
         "lat": 46.49,
         "lng": -80.99001,
-        "country": "CA",
-        "state": "08",
         "population": 157857
     },
     "5967629": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Guelph"
         },
+        "parent": 6093943,
         "lat": 43.54594,
         "lng": -80.25599,
-        "country": "CA",
-        "state": "08",
         "population": 115760
     },
     "5969782": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Hamilton"
         },
+        "parent": 6093943,
         "lat": 43.25011,
         "lng": -79.84963,
-        "country": "CA",
-        "state": "08",
         "population": 519949
     },
     "5989045": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Kamloops"
         },
+        "parent": 5909050,
         "lat": 50.66648,
         "lng": -120.3192,
-        "country": "CA",
-        "state": "02",
         "population": 68714
     },
     "5990579": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Kelowna"
         },
+        "parent": 5909050,
         "lat": 49.88307,
         "lng": -119.48568,
-        "country": "CA",
-        "state": "02",
         "population": 125109
     },
     "5992500": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Kingston"
         },
+        "parent": 6093943,
         "lat": 44.22976,
         "lng": -76.48098,
-        "country": "CA",
-        "state": "08",
         "population": 114195
     },
     "5992996": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Kitchener"
         },
+        "parent": 6093943,
         "lat": 43.42537,
         "lng": -80.5112,
-        "country": "CA",
-        "state": "08",
         "population": 233700
     },
     "6049430": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Langley"
         },
+        "parent": 5909050,
         "lat": 49.08297,
         "lng": -122.58589,
-        "country": "CA",
-        "state": "02",
         "population": 93726
     },
     "6050610": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Laval"
         },
+        "parent": 6115047,
         "lat": 45.56995,
         "lng": -73.692,
-        "country": "CA",
-        "state": "10",
         "population": 376845
     },
     "6053154": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Lethbridge"
         },
+        "parent": 5883102,
         "lat": 49.69999,
         "lng": -112.81856,
-        "country": "CA",
-        "state": "01",
         "population": 70617
     },
     "6058560": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "London"
         },
+        "parent": 6093943,
         "lat": 42.98339,
         "lng": -81.23304,
-        "country": "CA",
-        "state": "08",
         "population": 346765
     },
     "6059891": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Longueuil"
         },
+        "parent": 6115047,
         "lat": 45.53121,
         "lng": -73.51806,
-        "country": "CA",
-        "state": "10",
         "population": 229330
     },
     "6065686": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Maple Ridge"
         },
+        "parent": 5909050,
         "lat": 49.21939,
         "lng": -122.60193,
-        "country": "CA",
-        "state": "02",
         "population": 70000
     },
     "6066513": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Markham"
         },
+        "parent": 6093943,
         "lat": 43.86682,
         "lng": -79.2663,
-        "country": "CA",
-        "state": "08",
         "population": 261573
     },
     "6071618": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Medicine Hat"
         },
+        "parent": 5883102,
         "lat": 50.03928,
         "lng": -110.67661,
-        "country": "CA",
-        "state": "01",
         "population": 63138
     },
     "6074377": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Milton"
         },
+        "parent": 6093943,
         "lat": 43.51681,
         "lng": -79.88294,
-        "country": "CA",
-        "state": "08",
         "population": 84362
     },
     "6075357": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Mississauga"
         },
+        "parent": 6093943,
         "lat": 43.5789,
         "lng": -79.6583,
-        "country": "CA",
-        "state": "08",
         "population": 668549
     },
     "6076211": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Moncton"
         },
+        "parent": 6087430,
         "lat": 46.09454,
         "lng": -64.7965,
-        "country": "CA",
-        "state": "04",
         "population": 87467
     },
     "6077243": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Montréal"
         },
+        "parent": 6115047,
         "lat": 45.50884,
         "lng": -73.58781,
-        "country": "CA",
-        "state": "10",
         "population": 1600000
     },
     "6085772": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Nanaimo"
         },
+        "parent": 5909050,
         "lat": 49.16638,
         "lng": -123.94003,
-        "country": "CA",
-        "state": "02",
         "population": 84905
     },
     "6087701": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Newmarket"
         },
+        "parent": 6093943,
         "lat": 44.05011,
         "lng": -79.46631,
-        "country": "CA",
-        "state": "08",
         "population": 74295
     },
     "6087844": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "New Westminster"
         },
+        "parent": 5909050,
         "lat": 49.20678,
         "lng": -122.91092,
-        "country": "CA",
-        "state": "02",
         "population": 58549
     },
     "6087892": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Niagara Falls"
         },
+        "parent": 6093943,
         "lat": 43.10012,
         "lng": -79.06627,
-        "country": "CA",
-        "state": "08",
         "population": 82000
     },
     "6089125": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Norfolk County"
         },
+        "parent": 6093943,
         "lat": 42.8334,
         "lng": -80.38297,
-        "country": "CA",
-        "state": "08",
         "population": 60847
     },
     "6089426": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "North Bay"
         },
+        "parent": 6093943,
         "lat": 46.3168,
         "lng": -79.46633,
-        "country": "CA",
-        "state": "08",
         "population": 50170
     },
     "6091104": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "North York"
         },
+        "parent": 6093943,
         "lat": 43.76681,
         "lng": -79.4163,
-        "country": "CA",
-        "state": "08",
         "population": 636000
     },
     "6092122": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Oakville"
         },
+        "parent": 6093943,
         "lat": 43.45011,
         "lng": -79.68292,
-        "country": "CA",
-        "state": "08",
         "population": 165697
     },
     "6094578": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Oshawa"
         },
+        "parent": 6093943,
         "lat": 43.90012,
         "lng": -78.84957,
-        "country": "CA",
-        "state": "08",
         "population": 247989
     },
     "6094817": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Ottawa"
         },
+        "parent": 6093943,
         "lat": 45.41117,
         "lng": -75.69812,
-        "country": "CA",
-        "state": "08",
         "population": 812129
     },
     "6101645": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Peterborough"
         },
+        "parent": 6093943,
         "lat": 44.30012,
         "lng": -78.31623,
-        "country": "CA",
-        "state": "08",
         "population": 75877
     },
     "6104111": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Pickering"
         },
+        "parent": 6093943,
         "lat": 43.90012,
         "lng": -79.13289,
-        "country": "CA",
-        "state": "08",
         "population": 87838
     },
     "6113365": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Prince George"
         },
+        "parent": 5909050,
         "lat": 53.9166,
         "lng": -122.75301,
-        "country": "CA",
-        "state": "02",
         "population": 65558
     },
     "6118158": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Red Deer"
         },
+        "parent": 5883102,
         "lat": 52.26682,
         "lng": -113.802,
-        "country": "CA",
-        "state": "01",
         "population": 73593
     },
     "6119109": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Regina"
         },
+        "parent": 6141242,
         "lat": 50.45008,
         "lng": -104.6178,
-        "country": "CA",
-        "state": "11",
         "population": 176183
     },
     "6119518": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Repentigny"
         },
+        "parent": 6115047,
         "lat": 45.74222,
         "lng": -73.45008,
-        "country": "CA",
-        "state": "10",
         "population": 76237
     },
     "6122085": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Richmond"
         },
+        "parent": 5909050,
         "lat": 49.17003,
         "lng": -123.13683,
-        "country": "CA",
-        "state": "02",
         "population": 182000
     },
     "6122091": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Richmond Hill"
         },
+        "parent": 6093943,
         "lat": 43.87111,
         "lng": -79.43725,
-        "country": "CA",
-        "state": "08",
         "population": 185541
     },
     "6137270": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Saguenay"
         },
+        "parent": 6115047,
         "lat": 48.41675,
         "lng": -71.06573,
-        "country": "CA",
-        "state": "10",
         "population": 143692
     },
     "6138374": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Saint-Hyacinthe"
         },
+        "parent": 6115047,
         "lat": 45.63076,
         "lng": -72.95699,
-        "country": "CA",
-        "state": "10",
         "population": 50326
     },
     "6138495": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Saint-Jean-sur-Richelieu"
         },
+        "parent": 6115047,
         "lat": 45.30713,
         "lng": -73.26259,
-        "country": "CA",
-        "state": "10",
         "population": 71613
     },
     "6138501": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Saint-Jérôme"
         },
+        "parent": 6115047,
         "lat": 45.78036,
         "lng": -74.00365,
-        "country": "CA",
-        "state": "10",
         "population": 54948
     },
     "6138517": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Saint John"
         },
+        "parent": 6087430,
         "lat": 45.27271,
         "lng": -66.06766,
-        "country": "CA",
-        "state": "04",
         "population": 87857
     },
     "6138610": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Saint-Laurent"
         },
+        "parent": 6115047,
         "lat": 45.50008,
         "lng": -73.66585,
-        "country": "CA",
-        "state": "10",
         "population": 77391
     },
     "6138625": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Saint-Léonard"
         },
+        "parent": 6115047,
         "lat": 45.58773,
         "lng": -73.59501,
-        "country": "CA",
-        "state": "10",
         "population": 73423
     },
     "6141190": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Sarnia"
         },
+        "parent": 6093943,
         "lat": 42.97866,
         "lng": -82.40407,
-        "country": "CA",
-        "state": "08",
         "population": 82998
     },
     "6141256": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Saskatoon"
         },
+        "parent": 6141242,
         "lat": 52.13238,
         "lng": -106.66892,
-        "country": "CA",
-        "state": "11",
         "population": 198958
     },
     "6141439": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Sault Ste. Marie"
         },
+        "parent": 6093943,
         "lat": 46.51677,
         "lng": -84.33325,
-        "country": "CA",
-        "state": "08",
         "population": 74948
     },
     "6146143": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Sherbrooke"
         },
+        "parent": 6115047,
         "lat": 45.40008,
         "lng": -71.89908,
-        "country": "CA",
-        "state": "10",
         "population": 129447
     },
     "6146279": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Sherwood Park"
         },
+        "parent": 5883102,
         "lat": 53.51684,
         "lng": -113.3187,
-        "country": "CA",
-        "state": "01",
         "population": 55063
     },
     "6155033": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "St. Albert"
         },
+        "parent": 5883102,
         "lat": 53.63344,
         "lng": -113.63533,
-        "country": "CA",
-        "state": "01",
         "population": 57719
     },
     "6155721": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "St. Catharines"
         },
+        "parent": 6093943,
         "lat": 43.17126,
         "lng": -79.24267,
-        "country": "CA",
-        "state": "08",
         "population": 131989
     },
     "6159905": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Surrey"
         },
+        "parent": 5909050,
         "lat": 49.10635,
         "lng": -122.82509,
-        "country": "CA",
-        "state": "02",
         "population": 394976
     },
     "6163012": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Terrebonne"
         },
+        "parent": 6115047,
         "lat": 45.70004,
         "lng": -73.64732,
-        "country": "CA",
-        "state": "10",
         "population": 94703
     },
     "6166142": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Thunder Bay"
         },
+        "parent": 6093943,
         "lat": 48.38202,
         "lng": -89.25018,
-        "country": "CA",
-        "state": "08",
         "population": 99334
     },
     "6167865": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Toronto"
         },
+        "parent": 6093943,
         "lat": 43.70011,
         "lng": -79.4163,
-        "country": "CA",
-        "state": "08",
         "population": 2600000
     },
     "6169141": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Trois-Rivières"
         },
+        "parent": 6115047,
         "lat": 46.34515,
         "lng": -72.5477,
-        "country": "CA",
-        "state": "10",
         "population": 119693
     },
     "6173331": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Vancouver"
         },
+        "parent": 5909050,
         "lat": 49.24966,
         "lng": -123.11934,
-        "country": "CA",
-        "state": "02",
         "population": 600000
     },
     "6173577": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Vaughan"
         },
+        "parent": 6093943,
         "lat": 43.8361,
         "lng": -79.49827,
-        "country": "CA",
-        "state": "08",
         "population": 238866
     },
     "6174041": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Victoria"
         },
+        "parent": 5909050,
         "lat": 48.43294,
         "lng": -123.3693,
-        "country": "CA",
-        "state": "02",
         "population": 289625
     },
     "6176823": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Waterloo"
         },
+        "parent": 6093943,
         "lat": 43.4668,
         "lng": -80.51639,
-        "country": "CA",
-        "state": "08",
         "population": 97475
     },
     "6177869": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Welland"
         },
+        "parent": 6093943,
         "lat": 42.98342,
         "lng": -79.24958,
-        "country": "CA",
-        "state": "08",
         "population": 50331
     },
     "6180961": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "White Rock"
         },
+        "parent": 5909050,
         "lat": 49.01636,
         "lng": -122.8026,
-        "country": "CA",
-        "state": "02",
         "population": 66450
     },
     "6182962": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Windsor"
         },
+        "parent": 6093943,
         "lat": 42.30008,
         "lng": -83.01654,
-        "country": "CA",
-        "state": "08",
         "population": 278013
     },
     "6183235": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Winnipeg"
         },
+        "parent": 6065171,
         "lat": 49.8844,
         "lng": -97.14704,
-        "country": "CA",
-        "state": "03",
         "population": 632063
     },
     "6324729": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Halifax"
         },
+        "parent": 6091530,
         "lat": 44.64533,
         "lng": -63.57239,
-        "country": "CA",
-        "state": "07",
         "population": 359111
     },
     "6324733": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "St. John's"
         },
+        "parent": 6354959,
         "lat": 47.56494,
         "lng": -52.70931,
-        "country": "CA",
-        "state": "05",
         "population": 99182
     },
     "6325494": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Québec"
         },
+        "parent": 6115047,
         "lat": 46.81228,
         "lng": -71.21454,
-        "country": "CA",
-        "state": "10",
         "population": 528595
     },
     "6325521": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Lévis"
         },
+        "parent": 6115047,
         "lat": 46.80326,
         "lng": -71.17793,
-        "country": "CA",
-        "state": "10",
         "population": 126396
     },
     "6354908": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Sydney"
         },
+        "parent": 6091530,
         "lat": 46.1351,
         "lng": -60.1831,
-        "country": "CA",
-        "state": "07",
         "population": 105968
     },
     "6948711": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "Scarborough"
         },
+        "parent": 6093943,
         "lat": 43.77223,
         "lng": -79.25666,
-        "country": "CA",
-        "state": "08",
         "population": 600000
     },
     "7281931": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Okanagan"
         },
+        "parent": 5909050,
         "lat": 50.36386,
         "lng": -119.34997,
-        "country": "CA",
-        "state": "02",
         "population": 297601
     },
     "7303786": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Jonquière"
         },
+        "parent": 6115047,
         "lat": 48.41648,
         "lng": -71.24884,
-        "country": "CA",
-        "state": "10",
         "population": 54842
     },
     "7602078": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Ladner"
         },
+        "parent": 5909050,
         "lat": 49.08938,
         "lng": -123.08241,
-        "country": "CA",
-        "state": "02",
         "population": 200000
     },
     "8558534": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Willowdale"
         },
+        "parent": 6093943,
         "lat": 43.76672,
         "lng": -79.39909,
-        "country": "CA",
-        "state": "08",
         "population": 79440
     }
 }

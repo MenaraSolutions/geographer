@@ -6,10 +6,9 @@
         "long": {
             "default": "Vejle"
         },
+        "parent": 6418542,
         "lat": 55.70927,
         "lng": 9.5357,
-        "country": "DK",
-        "state": "21",
         "population": 51177
     },
     "2615006": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Randers"
         },
+        "parent": 6418539,
         "lat": 56.4607,
         "lng": 10.03639,
-        "country": "DK",
-        "state": "18",
         "population": 55780
     },
     "2615876": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Odense"
         },
+        "parent": 6418542,
         "lat": 55.39594,
         "lng": 10.38831,
-        "country": "DK",
-        "state": "21",
         "population": 145931
     },
     "2618425": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Copenhagen"
         },
+        "parent": 6418538,
         "lat": 55.67594,
         "lng": 12.56553,
-        "country": "DK",
-        "state": "17",
         "population": 1153615
     },
     "2618528": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Kolding"
         },
+        "parent": 6418542,
         "lat": 55.4904,
         "lng": 9.47216,
-        "country": "DK",
-        "state": "21",
         "population": 55363
     },
     "2619771": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Horsens"
         },
+        "parent": 6418539,
         "lat": 55.86066,
         "lng": 9.85034,
-        "country": "DK",
-        "state": "18",
         "population": 50074
     },
     "2621942": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Frederiksberg"
         },
+        "parent": 6418538,
         "lat": 55.67938,
         "lng": 12.53463,
-        "country": "DK",
-        "state": "17",
         "population": 95029
     },
     "2622447": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Esbjerg"
         },
+        "parent": 6418542,
         "lat": 55.47028,
         "lng": 8.45187,
-        "country": "DK",
-        "state": "21",
         "population": 72205
     },
     "2624652": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Århus"
         },
+        "parent": 6418539,
         "lat": 56.15674,
         "lng": 10.21076,
-        "country": "DK",
-        "state": "18",
         "population": 237551
     },
     "2624886": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Aalborg"
         },
+        "parent": 6418540,
         "lat": 57.048,
         "lng": 9.9187,
-        "country": "DK",
-        "state": "19",
         "population": 122219
     }
 }

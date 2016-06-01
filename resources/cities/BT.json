@@ -6,10 +6,9 @@
         "long": {
             "default": "Thimphu"
         },
+        "parent": 1337293,
         "lat": 27.46609,
         "lng": 89.64191,
-        "country": "BT",
-        "state": "20",
         "population": 98676
     }
 }

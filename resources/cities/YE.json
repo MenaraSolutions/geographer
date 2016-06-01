@@ -6,10 +6,9 @@
         "long": {
             "default": "Zabīd"
         },
+        "parent": 79416,
         "lat": 14.1951,
         "lng": 43.31518,
-        "country": "YE",
-        "state": "08",
         "population": 52590
     },
     "70225": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ta‘izz"
         },
+        "parent": 70222,
         "lat": 13.57952,
         "lng": 44.02091,
-        "country": "YE",
-        "state": "25",
         "population": 615222
     },
     "70979": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sayyān"
         },
+        "parent": 71132,
         "lat": 15.17177,
         "lng": 44.32442,
-        "country": "YE",
-        "state": "16",
         "population": 69404
     },
     "71137": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Sanaa"
         },
+        "parent": 71132,
         "lat": 15.35472,
         "lng": 44.20667,
-        "country": "YE",
-        "state": "16",
         "population": 1937451
     },
     "71334": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Sa'dah"
         },
+        "parent": 71333,
         "lat": 16.94021,
         "lng": 43.76393,
-        "country": "YE",
-        "state": "15",
         "population": 51870
     },
     "74477": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Ibb"
         },
+        "parent": 6201196,
         "lat": 13.96667,
         "lng": 44.18333,
-        "country": "YE",
-        "state": "23",
         "population": 234837
     },
     "76184": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Dhamār"
         },
+        "parent": 76183,
         "lat": 14.54274,
         "lng": 44.40514,
-        "country": "YE",
-        "state": "11",
         "population": 160114
     },
     "78428": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "‘Amrān"
         },
+        "parent": 6201194,
         "lat": 15.6594,
         "lng": 43.94385,
-        "country": "YE",
-        "state": "19",
         "population": 90792
     },
     "78754": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Al Mukallā"
         },
+        "parent": 75411,
         "lat": 14.54248,
         "lng": 49.12424,
-        "country": "YE",
-        "state": "04",
         "population": 258132
     },
     "79415": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Al Ḩudaydah"
         },
+        "parent": 79416,
         "lat": 14.79781,
         "lng": 42.95452,
-        "country": "YE",
-        "state": "08",
         "population": 617871
     },
     "415189": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Aden"
         },
+        "parent": 80412,
         "lat": 12.77944,
         "lng": 45.03667,
-        "country": "YE",
-        "state": "02",
         "population": 550602
     }
 }

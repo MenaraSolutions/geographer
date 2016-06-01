@@ -6,10 +6,9 @@
         "long": {
             "default": "Umeå"
         },
+        "parent": 2664415,
         "lat": 63.82842,
         "lng": 20.25972,
-        "country": "SE",
-        "state": "23",
         "population": 74005
     },
     "2663536": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Växjö"
         },
+        "parent": 2699050,
         "lat": 56.87767,
         "lng": 14.80906,
-        "country": "SE",
-        "state": "12",
         "population": 59600
     },
     "2664454": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Västerås"
         },
+        "parent": 2664179,
         "lat": 59.61617,
         "lng": 16.55276,
-        "country": "SE",
-        "state": "25",
         "population": 107194
     },
     "2666199": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Uppsala"
         },
+        "parent": 2666218,
         "lat": 59.85882,
         "lng": 17.63889,
-        "country": "SE",
-        "state": "21",
         "population": 127734
     },
     "2669772": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Täby"
         },
+        "parent": 2673722,
         "lat": 59.4439,
         "lng": 18.06872,
-        "country": "SE",
-        "state": "26",
         "population": 58123
     },
     "2673730": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Stockholm"
         },
+        "parent": 2673722,
         "lat": 59.33258,
         "lng": 18.0649,
-        "country": "SE",
-        "state": "26",
         "population": 1253309
     },
     "2675397": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Solna"
         },
+        "parent": 2673722,
         "lat": 59.36004,
         "lng": 18.00086,
-        "country": "SE",
-        "state": "26",
         "population": 66909
     },
     "2675408": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Sollentuna"
         },
+        "parent": 2673722,
         "lat": 59.42804,
         "lng": 17.95093,
-        "country": "SE",
-        "state": "26",
         "population": 58897
     },
     "2676176": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Södertälje"
         },
+        "parent": 2673722,
         "lat": 59.19554,
         "lng": 17.62525,
-        "country": "SE",
-        "state": "26",
         "population": 60279
     },
     "2686657": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Örebro"
         },
+        "parent": 2686655,
         "lat": 59.27412,
         "lng": 15.2066,
-        "country": "SE",
-        "state": "15",
         "population": 98573
     },
     "2688368": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Norrköping"
         },
+        "parent": 2685867,
         "lat": 58.59419,
         "lng": 16.1826,
-        "country": "SE",
-        "state": "16",
         "population": 82903
     },
     "2691459": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Mölndal"
         },
+        "parent": 3337386,
         "lat": 57.6554,
         "lng": 12.01378,
-        "country": "SE",
-        "state": "28",
         "population": 59430
     },
     "2692969": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Malmö"
         },
+        "parent": 3337385,
         "lat": 55.60587,
         "lng": 13.00073,
-        "country": "SE",
-        "state": "27",
         "population": 261548
     },
     "2693678": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Lund"
         },
+        "parent": 3337385,
         "lat": 55.70584,
         "lng": 13.19321,
-        "country": "SE",
-        "state": "27",
         "population": 76263
     },
     "2694762": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Linköping"
         },
+        "parent": 2685867,
         "lat": 58.41086,
         "lng": 15.62157,
-        "country": "SE",
-        "state": "16",
         "population": 96732
     },
     "2701680": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Karlstad"
         },
+        "parent": 2664870,
         "lat": 59.3793,
         "lng": 13.50357,
-        "country": "SE",
-        "state": "22",
         "population": 59266
     },
     "2702979": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Jönköping"
         },
+        "parent": 2702976,
         "lat": 57.78145,
         "lng": 14.15618,
-        "country": "SE",
-        "state": "08",
         "population": 83202
     },
     "2704620": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Huddinge"
         },
+        "parent": 2673722,
         "lat": 59.23705,
         "lng": 17.98192,
-        "country": "SE",
-        "state": "26",
         "population": 90182
     },
     "2706767": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Helsingborg"
         },
+        "parent": 3337385,
         "lat": 56.04673,
         "lng": 12.69437,
-        "country": "SE",
-        "state": "27",
         "population": 91025
     },
     "2707953": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Haninge"
         },
+        "parent": 2673722,
         "lat": 59.16775,
         "lng": 18.14478,
-        "country": "SE",
-        "state": "26",
         "population": 74968
     },
     "2708365": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Halmstad"
         },
+        "parent": 2708794,
         "lat": 56.67446,
         "lng": 12.85676,
-        "country": "SE",
-        "state": "06",
         "population": 55657
     },
     "2711537": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Göteborg"
         },
+        "parent": 3337386,
         "lat": 57.70716,
         "lng": 11.96679,
-        "country": "SE",
-        "state": "28",
         "population": 504084
     },
     "2712414": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Gävle"
         },
+        "parent": 2712411,
         "lat": 60.67452,
         "lng": 17.14174,
-        "country": "SE",
-        "state": "03",
         "population": 68635
     },
     "2715953": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Eskilstuna"
         },
+        "parent": 2676207,
         "lat": 59.36661,
         "lng": 16.5077,
-        "country": "SE",
-        "state": "18",
         "population": 59016
     },
     "2719111": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Bromma"
         },
+        "parent": 2673722,
         "lat": 59.34,
         "lng": 17.94,
-        "country": "SE",
-        "state": "26",
         "population": 61000
     },
     "2720501": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Borås"
         },
+        "parent": 3337386,
         "lat": 57.72101,
         "lng": 12.9401,
-        "country": "SE",
-        "state": "28",
         "population": 63223
     }
 }

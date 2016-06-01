@@ -1,5 +1,6 @@
 [
     {
+        "parent": "BN",
         "ids": {
             "fips": "04",
             "geonames": 1820068
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "BN",
         "ids": {
             "fips": "03",
             "geonames": 1820106
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "BN",
         "ids": {
             "fips": "02",
             "geonames": 1820818
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "BN",
         "ids": {
             "fips": "01",
             "geonames": 1820869

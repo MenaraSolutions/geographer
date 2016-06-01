@@ -6,10 +6,9 @@
         "long": {
             "default": "Tobruk"
         },
+        "parent": 7602688,
         "lat": 32.08361,
         "lng": 23.97639,
-        "country": "LY",
-        "state": "79",
         "population": 121052
     },
     "87205": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Darnah"
         },
+        "parent": 87204,
         "lat": 32.76704,
         "lng": 22.63669,
-        "country": "LY",
-        "state": "70",
         "population": 78782
     },
     "88319": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Benghazi"
         },
+        "parent": 88318,
         "lat": 32.11486,
         "lng": 20.06859,
-        "country": "LY",
-        "state": "69",
         "population": 650629
     },
     "88903": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Al Marj"
         },
+        "parent": 88904,
         "lat": 32.48798,
         "lng": 20.83174,
-        "country": "LY",
-        "state": "66",
         "population": 85315
     },
     "89055": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Al Bayḑā’"
         },
+        "parent": 443289,
         "lat": 32.76272,
         "lng": 21.75506,
-        "country": "LY",
-        "state": "63",
         "population": 74594
     },
     "89113": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Ajdabiya"
         },
+        "parent": 7602692,
         "lat": 30.75545,
         "lng": 20.22625,
-        "country": "LY",
-        "state": "83",
         "population": 134358
     },
     "2208485": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Zliten"
         },
+        "parent": 2214845,
         "lat": 32.46739,
         "lng": 14.56874,
-        "country": "LY",
-        "state": "72",
         "population": 109972
     },
     "2208791": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Yafran"
         },
+        "parent": 7602689,
         "lat": 32.06329,
         "lng": 12.52859,
-        "country": "LY",
-        "state": "80",
         "population": 67638
     },
     "2210221": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Tarhuna"
         },
+        "parent": 7602691,
         "lat": 32.43501,
         "lng": 13.6332,
-        "country": "LY",
-        "state": "82",
         "population": 210697
     },
     "2210247": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Tripoli"
         },
+        "parent": 2210245,
         "lat": 32.87519,
         "lng": 13.18746,
-        "country": "LY",
-        "state": "77",
         "population": 1150989
     },
     "2210394": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Tagiura"
         },
+        "parent": 2210245,
         "lat": 32.88167,
         "lng": 13.35056,
-        "country": "LY",
-        "state": "77",
         "population": 100000
     },
     "2210554": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Sirte"
         },
+        "parent": 2210553,
         "lat": 31.20892,
         "lng": 16.58866,
-        "country": "LY",
-        "state": "76",
         "population": 128123
     },
     "2212771": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Şabrātah"
         },
+        "parent": 2218972,
         "lat": 32.79335,
         "lng": 12.48845,
-        "country": "LY",
-        "state": "68",
         "population": 102038
     },
     "2212775": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Sabhā"
         },
+        "parent": 2212774,
         "lat": 27.03766,
         "lng": 14.42832,
-        "country": "LY",
-        "state": "75",
         "population": 130000
     },
     "2214846": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Mişrātah"
         },
+        "parent": 2214845,
         "lat": 32.37535,
         "lng": 15.09254,
-        "country": "LY",
-        "state": "72",
         "population": 386120
     },
     "2216885": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Zawiya"
         },
+        "parent": 2218972,
         "lat": 32.75222,
         "lng": 12.72778,
-        "country": "LY",
-        "state": "68",
         "population": 186123
     },
     "2217362": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Gharyan"
         },
+        "parent": 7602689,
         "lat": 32.17222,
         "lng": 13.02028,
-        "country": "LY",
-        "state": "80",
         "population": 85219
     },
     "2218970": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Az Zāwīyah"
         },
+        "parent": 2218972,
         "lat": 32.7571,
         "lng": 12.72764,
-        "country": "LY",
-        "state": "68",
         "population": 200000
     },
     "2219905": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Al Khums"
         },
+        "parent": 7602691,
         "lat": 32.64861,
         "lng": 14.26191,
-        "country": "LY",
-        "state": "82",
         "population": 201943
     },
     "2219960": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Al Jadīd"
         },
+        "parent": 2212774,
         "lat": 27.05,
         "lng": 14.4,
-        "country": "LY",
-        "state": "75",
         "population": 126386
     }
 }

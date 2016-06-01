@@ -6,10 +6,9 @@
         "long": {
             "default": "Vólos"
         },
+        "parent": 6697809,
         "lat": 39.36103,
         "lng": 22.94248,
-        "country": "GR",
-        "state": "ESYE14",
         "population": 86048
     },
     "251948": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Výronas"
         },
+        "parent": 6692632,
         "lat": 37.96105,
         "lng": 23.753,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 61308
     },
     "252664": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tríkala"
         },
+        "parent": 6697809,
         "lat": 39.55493,
         "lng": 21.76837,
-        "country": "GR",
-        "state": "ESYE14",
         "population": 61653
     },
     "255274": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Piraeus"
         },
+        "parent": 6692632,
         "lat": 37.94745,
         "lng": 23.63708,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 163688
     },
     "255377": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Petroúpolis"
         },
+        "parent": 6692632,
         "lat": 38.04187,
         "lng": 23.68494,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 58979
     },
     "255524": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Peristéri"
         },
+        "parent": 6692632,
         "lat": 38.01539,
         "lng": 23.69187,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 139981
     },
     "255683": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Pátra"
         },
+        "parent": 6697810,
         "lat": 38.24444,
         "lng": 21.73444,
-        "country": "GR",
-        "state": "ESYE23",
         "population": 168034
     },
     "256075": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Palaió Fáliro"
         },
+        "parent": 6692632,
         "lat": 37.92812,
         "lng": 23.70105,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 64021
     },
     "256429": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Níkaia"
         },
+        "parent": 6692632,
         "lat": 37.96667,
         "lng": 23.65,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 89380
     },
     "256575": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Néa Smýrni"
         },
+        "parent": 6692632,
         "lat": 37.94504,
         "lng": 23.71416,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 73076
     },
     "256601": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Ílion"
         },
+        "parent": 6692632,
         "lat": 38.03333,
         "lng": 23.7,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 84793
     },
     "256614": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Néa Ionía"
         },
+        "parent": 6692632,
         "lat": 38.0357,
         "lng": 23.75733,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 67134
     },
     "258576": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Lárisa"
         },
+        "parent": 6697809,
         "lat": 39.63689,
         "lng": 22.41761,
-        "country": "GR",
-        "state": "ESYE14",
         "population": 144651
     },
     "258620": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Lamía"
         },
+        "parent": 6697800,
         "lat": 38.9,
         "lng": 22.43333,
-        "country": "GR",
-        "state": "ESYE24",
         "population": 52006
     },
     "260114": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Chaniá"
         },
+        "parent": 6697802,
         "lat": 35.51124,
         "lng": 24.02921,
-        "country": "GR",
-        "state": "ESYE43",
         "population": 53910
     },
     "260133": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Chalkída"
         },
+        "parent": 6697800,
         "lat": 38.46354,
         "lng": 23.60284,
-        "country": "GR",
-        "state": "ESYE24",
         "population": 59125
     },
     "260172": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Khalándrion"
         },
+        "parent": 6692632,
         "lat": 38.02369,
         "lng": 23.80068,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 74192
     },
     "260204": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Keratsíni"
         },
+        "parent": 6692632,
         "lat": 37.9625,
         "lng": 23.61972,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 77077
     },
     "261414": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Kallithéa"
         },
+        "parent": 6692632,
         "lat": 37.95,
         "lng": 23.7,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 100641
     },
     "261604": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Kalamáta"
         },
+        "parent": 6697807,
         "lat": 37.03913,
         "lng": 22.11265,
-        "country": "GR",
-        "state": "ESYE25",
         "population": 54100
     },
     "261745": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Irákleion"
         },
+        "parent": 6697802,
         "lat": 35.32787,
         "lng": 25.14341,
-        "country": "GR",
-        "state": "ESYE43",
         "population": 137154
     },
     "261779": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Ioánnina"
         },
+        "parent": 6697804,
         "lat": 39.66486,
         "lng": 20.85189,
-        "country": "GR",
-        "state": "ESYE21",
         "population": 65574
     },
     "262036": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Glyfáda"
         },
+        "parent": 6692632,
         "lat": 37.86289,
         "lng": 23.75802,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 87305
     },
     "262135": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Galátsi"
         },
+        "parent": 6692632,
         "lat": 38.01667,
         "lng": 23.75,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 59345
     },
     "263986": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Agios Dimitrios"
         },
+        "parent": 6692632,
         "lat": 37.93333,
         "lng": 23.73333,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 71294
     },
     "264194": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Agía Paraskeví"
         },
+        "parent": 6692632,
         "lat": 38.01667,
         "lng": 23.83333,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 59704
     },
     "264371": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Athens"
         },
+        "parent": 6692632,
         "lat": 37.97945,
         "lng": 23.71622,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 664046
     },
     "265243": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Maroúsi"
         },
+        "parent": 6692632,
         "lat": 38.05,
         "lng": 23.8,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 72333
     },
     "265488": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Acharnés"
         },
+        "parent": 6692632,
         "lat": 38.08333,
         "lng": 23.73333,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 99346
     },
     "265533": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Aigáleo"
         },
+        "parent": 6692632,
         "lat": 37.98333,
         "lng": 23.68333,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 69946
     },
     "400666": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Ródos"
         },
+        "parent": 6697808,
         "lat": 36.44083,
         "lng": 28.2225,
-        "country": "GR",
-        "state": "ESYE42",
         "population": 56128
     },
     "734077": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Thessaloníki"
         },
+        "parent": 6697801,
         "lat": 40.64361,
         "lng": 22.93086,
-        "country": "GR",
-        "state": "ESYE12",
         "population": 354290
     },
     "734330": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Sérres"
         },
+        "parent": 6697801,
         "lat": 41.08499,
         "lng": 23.54757,
-        "country": "GR",
-        "state": "ESYE12",
         "population": 58287
     },
     "735861": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Kavála"
         },
+        "parent": 6697803,
         "lat": 40.93959,
         "lng": 24.40687,
-        "country": "GR",
-        "state": "ESYE11",
         "population": 54027
     },
     "735914": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Kateríni"
         },
+        "parent": 6697801,
         "lat": 40.26956,
         "lng": 22.50608,
-        "country": "GR",
-        "state": "ESYE12",
         "population": 53293
     },
     "736083": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Kalamariá"
         },
+        "parent": 6697801,
         "lat": 40.5825,
         "lng": 22.95028,
-        "country": "GR",
-        "state": "ESYE12",
         "population": 91617
     },
     "736928": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Alexandroúpoli"
         },
+        "parent": 6697803,
         "lat": 40.84995,
         "lng": 25.87644,
-        "country": "GR",
-        "state": "ESYE11",
         "population": 52979
     },
     "8310138": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Ilioúpoli"
         },
+        "parent": 6692632,
         "lat": 37.93149,
         "lng": 23.76779,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 78153
     },
     "8310183": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Korydallós"
         },
+        "parent": 6692632,
         "lat": 37.98468,
         "lng": 23.64711,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 63445
     },
     "8358544": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Zográfos"
         },
+        "parent": 6692632,
         "lat": 37.97574,
         "lng": 23.76911,
-        "country": "GR",
-        "state": "ESYE31",
         "population": 71026
     }
 }

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "MO",
         "ids": {
             "fips": "02",
             "geonames": 1821273
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "MO",
         "ids": {
             "fips": "01",
             "geonames": 1821286

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "AU",
         "ids": {
             "fips": "08",
             "geonames": 2058645
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "05",
             "geonames": 2061327
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "03",
             "geonames": 2064513
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "07",
             "geonames": 2145234
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "06",
             "geonames": 2147291
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "04",
             "geonames": 2152274
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "02",
             "geonames": 2155400
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "AU",
         "ids": {
             "fips": "01",
             "geonames": 2177478

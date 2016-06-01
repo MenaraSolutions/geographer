@@ -1,5 +1,6 @@
 [
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "AR",
             "geonames": 4099753
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "DC",
             "geonames": 4138106
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "DE",
             "geonames": 4142224
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "FL",
             "geonames": 4155751
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "GA",
             "geonames": 4197000
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "KS",
             "geonames": 4273857
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "LA",
             "geonames": 4331987
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MD",
             "geonames": 4361885
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MO",
             "geonames": 4398678
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MS",
             "geonames": 4436296
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NC",
             "geonames": 4482348
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "OK",
             "geonames": 4544379
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "SC",
             "geonames": 4597040
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "TN",
             "geonames": 4662168
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "TX",
             "geonames": 4736286
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "WV",
             "geonames": 4826850
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "AL",
             "geonames": 4829764
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "CT",
             "geonames": 4831725
@@ -162,6 +180,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "IA",
             "geonames": 4862182
@@ -171,6 +190,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "IL",
             "geonames": 4896861
@@ -180,6 +200,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "IN",
             "geonames": 4921868
@@ -189,6 +210,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "ME",
             "geonames": 4971068
@@ -198,6 +220,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MI",
             "geonames": 5001836
@@ -207,6 +230,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MN",
             "geonames": 5037779
@@ -216,6 +240,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NE",
             "geonames": 5073708
@@ -225,6 +250,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NH",
             "geonames": 5090174
@@ -234,6 +260,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NJ",
             "geonames": 5101760
@@ -243,6 +270,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NY",
             "geonames": 5128638
@@ -252,6 +280,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "OH",
             "geonames": 5165418
@@ -261,6 +290,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "RI",
             "geonames": 5224323
@@ -270,6 +300,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "VT",
             "geonames": 5242283
@@ -279,6 +310,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "WI",
             "geonames": 5279468
@@ -288,6 +320,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "CA",
             "geonames": 5332921
@@ -297,6 +330,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "CO",
             "geonames": 5417618
@@ -306,6 +340,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NM",
             "geonames": 5481136
@@ -315,6 +350,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "NV",
             "geonames": 5509151
@@ -324,6 +360,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "UT",
             "geonames": 5549030
@@ -333,6 +370,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "AZ",
             "geonames": 5551752
@@ -342,6 +380,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "ID",
             "geonames": 5596512
@@ -351,6 +390,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MT",
             "geonames": 5667009
@@ -360,6 +400,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "ND",
             "geonames": 5690763
@@ -369,6 +410,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "OR",
             "geonames": 5744337
@@ -378,6 +420,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "SD",
             "geonames": 5769223
@@ -387,6 +430,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "WA",
             "geonames": 5815135
@@ -396,6 +440,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "WY",
             "geonames": 5843591
@@ -405,6 +450,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "HI",
             "geonames": 5855797
@@ -414,6 +460,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "AK",
             "geonames": 5879092
@@ -423,6 +470,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "KY",
             "geonames": 6254925
@@ -432,6 +480,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "MA",
             "geonames": 6254926
@@ -441,6 +490,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "PA",
             "geonames": 6254927
@@ -450,6 +500,7 @@
         }
     },
     {
+        "parent": "US",
         "ids": {
             "iso_3166": "VA",
             "geonames": 6254928

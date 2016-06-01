@@ -1,5 +1,6 @@
 [
     {
+        "parent": "LA",
         "ids": {
             "fips": "14",
             "geonames": 1652077
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "13",
             "geonames": 1652210
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "27",
             "geonames": 1652238
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "20",
             "geonames": 1653315
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "19",
             "geonames": 1653333
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "18",
             "geonames": 1653893
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "07",
             "geonames": 1654491
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "17",
             "geonames": 1655558
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "16",
             "geonames": 1655561
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "15",
             "geonames": 1656538
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "03",
             "geonames": 1657114
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "02",
             "geonames": 1657818
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "01",
             "geonames": 1665045
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "26",
             "geonames": 1904615
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "22",
             "geonames": 1904616
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "23",
             "geonames": 1904617
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "LA",
         "ids": {
             "fips": "24",
             "geonames": 1904618

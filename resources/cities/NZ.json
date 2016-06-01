@@ -6,10 +6,9 @@
         "long": {
             "default": "Wellington"
         },
+        "parent": 2179538,
         "lat": -41.28664,
         "lng": 174.77557,
-        "country": "NZ",
-        "state": "G2",
         "population": 381900
     },
     "2184397": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Porirua"
         },
+        "parent": 2179538,
         "lat": -41.13333,
         "lng": 174.85,
-        "country": "NZ",
-        "state": "G2",
         "population": 50914
     },
     "2185018": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Palmerston North"
         },
+        "parent": 2179671,
         "lat": -40.35636,
         "lng": 175.61113,
-        "country": "NZ",
-        "state": "F3",
         "population": 75996
     },
     "2185964": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "North Shore"
         },
+        "parent": 2193734,
         "lat": -36.8,
         "lng": 174.75,
-        "country": "NZ",
-        "state": "E7",
         "population": 207865
     },
     "2186280": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Nelson"
         },
+        "parent": 6612108,
         "lat": -41.27078,
         "lng": 173.28404,
-        "country": "NZ",
-        "state": "F5",
         "population": 59200
     },
     "2186313": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Napier"
         },
+        "parent": 2190146,
         "lat": -39.48333,
         "lng": 176.91667,
-        "country": "NZ",
-        "state": "F2",
         "population": 56787
     },
     "2187404": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Manukau City"
         },
+        "parent": 2193734,
         "lat": -36.99282,
         "lng": 174.87986,
-        "country": "NZ",
-        "state": "E7",
         "population": 362000
     },
     "2187454": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Mangere"
         },
+        "parent": 2193734,
         "lat": -36.96807,
         "lng": 174.79875,
-        "country": "NZ",
-        "state": "E7",
         "population": 55266
     },
     "2188164": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Lower Hutt"
         },
+        "parent": 2179538,
         "lat": -41.21667,
         "lng": 174.91667,
-        "country": "NZ",
-        "state": "G2",
         "population": 101194
     },
     "2190224": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Hastings"
         },
+        "parent": 2190146,
         "lat": -39.6381,
         "lng": 176.84918,
-        "country": "NZ",
-        "state": "F2",
         "population": 61696
     },
     "2190324": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Hamilton"
         },
+        "parent": 2180293,
         "lat": -37.78333,
         "lng": 175.28333,
-        "country": "NZ",
-        "state": "G1",
         "population": 152641
     },
     "2191562": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Dunedin"
         },
+        "parent": 6612109,
         "lat": -45.87416,
         "lng": 170.50361,
-        "country": "NZ",
-        "state": "F7",
         "population": 114347
     },
     "2192362": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Christchurch"
         },
+        "parent": 2192628,
         "lat": -43.53333,
         "lng": 172.63333,
-        "country": "NZ",
-        "state": "E9",
         "population": 363926
     },
     "2193733": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Auckland"
         },
+        "parent": 2193734,
         "lat": -36.86667,
         "lng": 174.76667,
-        "country": "NZ",
-        "state": "E7",
         "population": 417910
     },
     "2208032": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Tauranga"
         },
+        "parent": 2182560,
         "lat": -37.68611,
         "lng": 176.16667,
-        "country": "NZ",
-        "state": "E8",
         "population": 110338
     },
     "6230919": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Whangarei"
         },
+        "parent": 2185978,
         "lat": -35.73167,
         "lng": 174.32391,
-        "country": "NZ",
-        "state": "F6",
         "population": 50900
     },
     "6241325": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Rotorua"
         },
+        "parent": 2182560,
         "lat": -38.13874,
         "lng": 176.24516,
-        "country": "NZ",
-        "state": "E8",
         "population": 65901
     },
     "7302484": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Waitakere"
         },
+        "parent": 2193734,
         "lat": -36.91754,
         "lng": 174.65773,
-        "country": "NZ",
-        "state": "E7",
         "population": 208100
     }
 }

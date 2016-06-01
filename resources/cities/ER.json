@@ -6,10 +6,9 @@
         "long": {
             "default": "Keren"
         },
+        "parent": 448497,
         "lat": 15.77792,
         "lng": 38.45107,
-        "country": "ER",
-        "state": "01",
         "population": 74800
     },
     "343300": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Asmara"
         },
+        "parent": 448501,
         "lat": 15.33805,
         "lng": 38.93184,
-        "country": "ER",
-        "state": "05",
         "population": 563930
     }
 }

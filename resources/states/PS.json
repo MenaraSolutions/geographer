@@ -1,5 +1,6 @@
 [
     {
+        "parent": "PS",
         "ids": {
             "fips": "GZ",
             "geonames": 281132
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "PS",
         "ids": {
             "fips": "WE",
             "geonames": 285153

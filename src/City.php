@@ -24,23 +24,15 @@ class City extends Divisible
     protected $parentClass = State::class;
 
     /**
-     * @return string
-     */
-    protected function getStoragePath()
-    {
-	    return '';
-    }
-
-    /**
      * Unique code
      *
      * @return int
      */
     public function getCode()
     {
-	return $this->meta['ids']['geonames'];
+	    return $this->meta['ids']['geonames'];
     }
-
+    
     /**
      * @return int
      */
@@ -59,7 +51,7 @@ class City extends Divisible
         $config = $config ?: new DefaultConfig();
         $meta = static::indexSearch($geonamesId, $config->getStoragePath());
 
-        return new self($meta, $meta['state'], $config);
+        return new self($meta, $meta['parent'], $config);
     }
 
     /**
@@ -72,15 +64,15 @@ class City extends Divisible
     {
         $index = static::loadJson($path . 'indexCity.json');
         if (! isset($index[$geonamesId])) throw new ObjectNotFoundException('Cannot find object with id ' . $geonamesId);
-	$country = $index[$geonamesId];
+	    $country = $index[$geonamesId];
         
-	$cities = static::loadJson($path . 'cities' . DIRECTORY_SEPARATOR . $country . '.json');
+	    $cities = static::loadJson($path . 'cities' . DIRECTORY_SEPARATOR . $country . '.json');
 
-	foreach ($cities as $city) {
-		if ($city['ids']['geonames'] == $geonamesId) return $city;
-	}
+	    foreach ($cities as $city) {
+		    if ($city['ids']['geonames'] == $geonamesId) return $city;
+    	}
 
-	throw new ObjectNotFoundException('Cannot find meta for city #' . $geonamesId);
+	    throw new ObjectNotFoundException('Cannot find meta for city #' . $geonamesId);
     }
 
     /**

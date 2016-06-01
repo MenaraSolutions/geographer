@@ -3,7 +3,9 @@
 namespace MenaraSolutions\Geographer\Services;
 
 use MenaraSolutions\Geographer\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Contracts\RepositoryInterface;
 use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
+use MenaraSolutions\Geographer\Repositories\File;
 
 /**
  * Class DefaultConfig
@@ -15,6 +17,11 @@ class DefaultConfig implements ConfigInterface
      * @var TranslationAgencyInterface $translator
      */
     protected $translator;
+
+    /**
+     * @var RepositoryInterface $repository
+     */
+    protected $repository;
 
     /**
      * @var string
@@ -45,11 +52,13 @@ class DefaultConfig implements ConfigInterface
      * DefaultConfig constructor.
      * @param string $path
      * @param TranslationAgencyInterface $translator
+     * @param RepositoryInterface $repository
      */
-    public function __construct($path = null, TranslationAgencyInterface $translator = null)
+    public function __construct($path = null, TranslationAgencyInterface $translator = null, RepositoryInterface $repository= null)
     {
         $this->path = $path ?: dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
         $this->translator = $translator ?: new TranslationAgency($this->path);
+        $this->repository = $repository ?: new File($this->path);
     }
 
     /**
@@ -88,6 +97,25 @@ class DefaultConfig implements ConfigInterface
     public function setTranslator(TranslationAgencyInterface $translator)
     {
         $this->translator = $translator;
+
+        return $this;
+    }
+
+    /**
+     * @return RepositoryInterface
+     */
+    public function getRepository()
+    {
+        return $this->repository;
+    }
+
+    /**
+     * @param RepositoryInterface $repository
+     * @return $this
+     */
+    public function setRepository(RepositoryInterface $repository)
+    {
+        $this->repository = $repository;
 
         return $this;
     }

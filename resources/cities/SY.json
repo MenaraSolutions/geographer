@@ -6,10 +6,9 @@
         "long": {
             "default": "Tartouss"
         },
+        "parent": 163342,
         "lat": 34.88902,
         "lng": 35.88659,
-        "country": "SY",
-        "state": "14",
         "population": 89457
     },
     "163808": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tadmur"
         },
+        "parent": 169575,
         "lat": 34.5624,
         "lng": 38.28402,
-        "country": "SY",
-        "state": "11",
         "population": 51015
     },
     "164947": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "As Salamīyah"
         },
+        "parent": 170015,
         "lat": 35.01127,
         "lng": 37.05324,
-        "country": "SY",
-        "state": "10",
         "population": 94887
     },
     "167357": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Manbij"
         },
+        "parent": 170062,
         "lat": 36.52815,
         "lng": 37.95495,
-        "country": "SY",
-        "state": "09",
         "population": 68888
     },
     "169304": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Jablah"
         },
+        "parent": 173578,
         "lat": 35.36211,
         "lng": 35.92759,
-        "country": "SY",
-        "state": "02",
         "population": 65915
     },
     "169389": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Idlib"
         },
+        "parent": 169387,
         "lat": 35.93062,
         "lng": 36.63393,
-        "country": "SY",
-        "state": "12",
         "population": 128840
     },
     "169577": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Homs"
         },
+        "parent": 169575,
         "lat": 34.72682,
         "lng": 36.72339,
-        "country": "SY",
-        "state": "11",
         "population": 775404
     },
     "170017": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Ḩamāh"
         },
+        "parent": 170015,
         "lat": 35.13179,
         "lng": 36.75783,
-        "country": "SY",
-        "state": "10",
         "population": 460602
     },
     "170063": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Aleppo"
         },
+        "parent": 170062,
         "lat": 36.20124,
         "lng": 37.16117,
-        "country": "SY",
-        "state": "09",
         "population": 1602264
     },
     "170592": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Douma"
         },
+        "parent": 170652,
         "lat": 33.57175,
         "lng": 36.4027,
-        "country": "SY",
-        "state": "08",
         "population": 111864
     },
     "170654": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Damascus"
         },
+        "parent": 167541,
         "lat": 33.5102,
         "lng": 36.29128,
-        "country": "SY",
-        "state": "13",
         "population": 1569394
     },
     "170794": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Deir ez-Zor"
         },
+        "parent": 170792,
         "lat": 35.33588,
         "lng": 40.14084,
-        "country": "SY",
-        "state": "07",
         "population": 242565
     },
     "170892": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Dārayyā"
         },
+        "parent": 170652,
         "lat": 33.45835,
         "lng": 36.23256,
-        "country": "SY",
-        "state": "08",
         "population": 71596
     },
     "170905": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Dar‘ā"
         },
+        "parent": 170903,
         "lat": 32.61889,
         "lng": 36.10213,
-        "country": "SY",
-        "state": "06",
         "population": 97969
     },
     "172082": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "I‘zāz"
         },
+        "parent": 170062,
         "lat": 36.58662,
         "lng": 37.04628,
-        "country": "SY",
-        "state": "09",
         "population": 66138
     },
     "172349": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "At Tall"
         },
+        "parent": 170652,
         "lat": 33.61033,
         "lng": 36.3107,
-        "country": "SY",
-        "state": "08",
         "population": 55561
     },
     "172374": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Ath Thawrah"
         },
+        "parent": 172957,
         "lat": 35.83453,
         "lng": 38.54659,
-        "country": "SY",
-        "state": "04",
         "population": 87880
     },
     "172408": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "As Suwaydā’"
         },
+        "parent": 172410,
         "lat": 32.70896,
         "lng": 36.56951,
-        "country": "SY",
-        "state": "05",
         "population": 59052
     },
     "172503": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "As Safīrah"
         },
+        "parent": 170062,
         "lat": 36.07696,
         "lng": 37.37251,
-        "country": "SY",
-        "state": "09",
         "population": 95832
     },
     "172946": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Ar Rastan"
         },
+        "parent": 169575,
         "lat": 34.92653,
         "lng": 36.73238,
-        "country": "SY",
-        "state": "11",
         "population": 53152
     },
     "172955": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Ar Raqqah"
         },
+        "parent": 172957,
         "lat": 35.95283,
         "lng": 39.00788,
-        "country": "SY",
-        "state": "04",
         "population": 177636
     },
     "173480": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Al Mayādīn"
         },
+        "parent": 170792,
         "lat": 35.01982,
         "lng": 40.45154,
-        "country": "SY",
-        "state": "07",
         "population": 54534
     },
     "173576": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Latakia"
         },
+        "parent": 173578,
         "lat": 35.53168,
         "lng": 35.79011,
-        "country": "SY",
-        "state": "02",
         "population": 340181
     },
     "173811": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Al Ḩasakah"
         },
+        "parent": 173813,
         "lat": 36.50237,
         "lng": 40.74772,
-        "country": "SY",
-        "state": "01",
         "population": 81539
     },
     "174018": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Al Bāb"
         },
+        "parent": 170062,
         "lat": 36.37051,
         "lng": 37.5157,
-        "country": "SY",
-        "state": "09",
         "population": 130745
     },
     "174448": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Ālbū Kamāl"
         },
+        "parent": 170792,
         "lat": 34.45226,
         "lng": 40.91854,
-        "country": "SY",
-        "state": "07",
         "population": 57572
     }
 }

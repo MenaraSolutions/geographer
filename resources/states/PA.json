@@ -1,5 +1,6 @@
 [
     {
+        "parent": "PA",
         "ids": {
             "fips": "10",
             "geonames": 3700159
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "09",
             "geonames": 3701537
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "08",
             "geonames": 3703433
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "07",
             "geonames": 3704961
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "06",
             "geonames": 3708710
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "05",
             "geonames": 3711671
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "04",
             "geonames": 3712073
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "03",
             "geonames": 3712162
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "02",
             "geonames": 3712410
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "01",
             "geonames": 3713954
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "11",
             "geonames": 7303686
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "PA",
         "ids": {
             "fips": "12",
             "geonames": 7303688

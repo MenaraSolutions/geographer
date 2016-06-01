@@ -6,10 +6,9 @@
         "long": {
             "default": "Nukus"
         },
+        "parent": 453752,
         "lat": 42.45306,
         "lng": 59.61028,
-        "country": "UZ",
-        "state": "09",
         "population": 230006
     },
     "601417": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Oltinko’l"
         },
+        "parent": 453752,
         "lat": 43.06874,
         "lng": 58.90372,
-        "country": "UZ",
-        "state": "09",
         "population": 59122
     },
     "1215957": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tirmiz"
         },
+        "parent": 1114926,
         "lat": 37.22417,
         "lng": 67.27833,
-        "country": "UZ",
-        "state": "12",
         "population": 140385
     },
     "1216187": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Shahrisabz"
         },
+        "parent": 1114928,
         "lat": 39.05778,
         "lng": 66.83417,
-        "country": "UZ",
-        "state": "08",
         "population": 57051
     },
     "1216265": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Samarqand"
         },
+        "parent": 1114927,
         "lat": 39.65417,
         "lng": 66.95972,
-        "country": "UZ",
-        "state": "10",
         "population": 319366
     },
     "1216311": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Qarshi"
         },
+        "parent": 1114928,
         "lat": 38.86056,
         "lng": 65.78905,
-        "country": "UZ",
-        "state": "08",
         "population": 222898
     },
     "1216982": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Kattaqo’rg’on"
         },
+        "parent": 1114927,
         "lat": 39.89889,
         "lng": 66.25611,
-        "country": "UZ",
-        "state": "10",
         "population": 59382
     },
     "1217007": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Koson"
         },
+        "parent": 1114928,
         "lat": 39.0375,
         "lng": 65.585,
-        "country": "UZ",
-        "state": "08",
         "population": 59681
     },
     "1217180": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kogon"
         },
+        "parent": 1114929,
         "lat": 39.72278,
         "lng": 64.55167,
-        "country": "UZ",
-        "state": "02",
         "population": 62620
     },
     "1217474": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Denov"
         },
+        "parent": 1114926,
         "lat": 38.26667,
         "lng": 67.9,
-        "country": "UZ",
-        "state": "12",
         "population": 68994
     },
     "1217662": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Bukhara"
         },
+        "parent": 1114929,
         "lat": 39.77472,
         "lng": 64.42861,
-        "country": "UZ",
-        "state": "02",
         "population": 247644
     },
     "1512339": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Yangiyŭl"
         },
+        "parent": 1484838,
         "lat": 41.11202,
         "lng": 69.0471,
-        "country": "UZ",
-        "state": "14",
         "population": 60000
     },
     "1512473": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Urganch"
         },
+        "parent": 1484843,
         "lat": 41.55,
         "lng": 60.63333,
-        "country": "UZ",
-        "state": "05",
         "population": 150110
     },
     "1512569": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Tashkent"
         },
+        "parent": 1484839,
         "lat": 41.26465,
         "lng": 69.21627,
-        "country": "UZ",
-        "state": "13",
         "population": 1978028
     },
     "1512979": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Qo‘qon"
         },
+        "parent": 1484845,
         "lat": 40.52861,
         "lng": 70.9425,
-        "country": "UZ",
-        "state": "03",
         "population": 187477
     },
     "1513064": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Olmaliq"
         },
+        "parent": 1484838,
         "lat": 40.84472,
         "lng": 69.59833,
-        "country": "UZ",
-        "state": "14",
         "population": 121207
     },
     "1513131": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Navoiy"
         },
+        "parent": 1484841,
         "lat": 40.08444,
         "lng": 65.37917,
-        "country": "UZ",
-        "state": "07",
         "population": 129725
     },
     "1513157": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Namangan"
         },
+        "parent": 1484842,
         "lat": 40.9983,
         "lng": 71.67257,
-        "country": "UZ",
-        "state": "06",
         "population": 432456
     },
     "1513243": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Marg‘ilon"
         },
+        "parent": 1484845,
         "lat": 40.47237,
         "lng": 71.72463,
-        "country": "UZ",
-        "state": "03",
         "population": 133490
     },
     "1513271": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Asaka"
         },
+        "parent": 1484846,
         "lat": 40.64153,
         "lng": 72.23868,
-        "country": "UZ",
-        "state": "01",
         "population": 56736
     },
     "1513604": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Khiwa"
         },
+        "parent": 1484843,
         "lat": 41.37833,
         "lng": 60.36389,
-        "country": "UZ",
-        "state": "05",
         "population": 55567
     },
     "1513886": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Jizzax"
         },
+        "parent": 1484844,
         "lat": 40.11583,
         "lng": 67.84222,
-        "country": "UZ",
-        "state": "15",
         "population": 152642
     },
     "1513966": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Guliston"
         },
+        "parent": 1484840,
         "lat": 40.48972,
         "lng": 68.78417,
-        "country": "UZ",
-        "state": "16",
         "population": 53373
     },
     "1514019": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Fergana"
         },
+        "parent": 1484845,
         "lat": 40.38421,
         "lng": 71.78432,
-        "country": "UZ",
-        "state": "03",
         "population": 164322
     },
     "1514192": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Chust Shahri"
         },
+        "parent": 1484842,
         "lat": 41.00936,
         "lng": 71.2287,
-        "country": "UZ",
-        "state": "06",
         "population": 64966
     },
     "1514210": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Chirchiq"
         },
+        "parent": 1484838,
         "lat": 41.46889,
         "lng": 69.58222,
-        "country": "UZ",
-        "state": "14",
         "population": 167842
     },
     "1514387": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Beruniy"
         },
+        "parent": 453752,
         "lat": 41.69111,
         "lng": 60.7525,
-        "country": "UZ",
-        "state": "09",
         "population": 50929
     },
     "1514402": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Bekobod"
         },
+        "parent": 1484838,
         "lat": 40.22083,
         "lng": 69.26972,
-        "country": "UZ",
-        "state": "14",
         "population": 86259
     },
     "1514581": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Angren"
         },
+        "parent": 1484838,
         "lat": 41.01667,
         "lng": 70.14361,
-        "country": "UZ",
-        "state": "14",
         "population": 126957
     },
     "1514588": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Andijon"
         },
+        "parent": 1484846,
         "lat": 40.78206,
         "lng": 72.34424,
-        "country": "UZ",
-        "state": "01",
         "population": 318419
     },
     "1538229": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Navoiy"
         },
+        "parent": 1484841,
         "lat": 40.1,
         "lng": 65.36667,
-        "country": "UZ",
-        "state": "07",
         "population": 125800
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Nicosia"
         },
+        "parent": 146267,
         "lat": 35.17531,
         "lng": 33.3642,
-        "country": "CY",
-        "state": "04",
         "population": 200452
     },
     "146384": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Limassol"
         },
+        "parent": 146383,
         "lat": 34.68406,
         "lng": 33.03794,
-        "country": "CY",
-        "state": "05",
         "population": 154000
     },
     "146400": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Larnaca"
         },
+        "parent": 146398,
         "lat": 34.92291,
         "lng": 33.6233,
-        "country": "CY",
-        "state": "03",
         "population": 72000
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Tartu"
         },
+        "parent": 588334,
         "lat": 58.38062,
         "lng": 26.72509,
-        "country": "EE",
-        "state": "18",
         "population": 101092
     },
     "588409": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tallinn"
         },
+        "parent": 592170,
         "lat": 59.43696,
         "lng": 24.75353,
-        "country": "EE",
-        "state": "01",
         "population": 394024
     },
     "590031": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Narva"
         },
+        "parent": 592075,
         "lat": 59.37722,
         "lng": 28.19028,
-        "country": "EE",
-        "state": "03",
         "population": 66980
     }
 }

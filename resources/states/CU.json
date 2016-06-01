@@ -1,5 +1,6 @@
 [
     {
+        "parent": "CU",
         "ids": {
             "fips": "16",
             "geonames": 3534168
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "15",
             "geonames": 3536725
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "14",
             "geonames": 3540665
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "01",
             "geonames": 3544088
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "03",
             "geonames": 3547394
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "13",
             "geonames": 3550595
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "04",
             "geonames": 3556608
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "12",
             "geonames": 3556965
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "10",
             "geonames": 3557685
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "09",
             "geonames": 3558052
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "02",
             "geonames": 3564073
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "08",
             "geonames": 3564120
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "07",
             "geonames": 3564175
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "05",
             "geonames": 3566062
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "AR",
             "geonames": 7668824
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "CU",
         "ids": {
             "fips": "MA",
             "geonames": 7668827

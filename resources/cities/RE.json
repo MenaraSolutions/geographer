@@ -6,10 +6,9 @@
         "long": {
             "default": "Saint-Pierre"
         },
+        "parent": 6690283,
         "lat": -21.3393,
         "lng": 55.47811,
-        "country": "RE",
-        "state": "RE",
         "population": 76655
     },
     "935221": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Saint-Paul"
         },
+        "parent": 6690283,
         "lat": -21.00963,
         "lng": 55.27071,
-        "country": "RE",
-        "state": "RE",
         "population": 99307
     },
     "935264": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Saint-Denis"
         },
+        "parent": 6690283,
         "lat": -20.88231,
         "lng": 55.4504,
-        "country": "RE",
-        "state": "RE",
         "population": 137195
     },
     "935582": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Le Tampon"
         },
+        "parent": 6690283,
         "lat": -21.28309,
         "lng": 55.51802,
-        "country": "RE",
-        "state": "RE",
         "population": 69986
     }
 }

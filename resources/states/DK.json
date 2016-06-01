@@ -1,5 +1,6 @@
 [
     {
+        "parent": "DK",
         "ids": {
             "fips": "17",
             "geonames": 6418538
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "DK",
         "ids": {
             "fips": "18",
             "geonames": 6418539
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "DK",
         "ids": {
             "fips": "19",
             "geonames": 6418540
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "DK",
         "ids": {
             "fips": "20",
             "geonames": 6418541
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "DK",
         "ids": {
             "fips": "21",
             "geonames": 6418542

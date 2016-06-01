@@ -6,10 +6,9 @@
         "long": {
             "default": "Wādī as Sīr"
         },
+        "parent": 250439,
         "lat": 31.9545,
         "lng": 35.81831,
-        "country": "JO",
-        "state": "16",
         "population": 181212
     },
     "248370": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Mādabā"
         },
+        "parent": 443123,
         "lat": 31.71599,
         "lng": 35.79392,
-        "country": "JO",
-        "state": "23",
         "population": 82335
     },
     "248382": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Ma'an"
         },
+        "parent": 248380,
         "lat": 30.19624,
         "lng": 35.73405,
-        "country": "JO",
-        "state": "19",
         "population": 50350
     },
     "248946": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Irbid"
         },
+        "parent": 248944,
         "lat": 32.55556,
         "lng": 35.85,
-        "country": "JO",
-        "state": "18",
         "population": 307480
     },
     "250090": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Zarqa"
         },
+        "parent": 250092,
         "lat": 32.07275,
         "lng": 36.08796,
-        "country": "JO",
-        "state": "17",
         "population": 792665
     },
     "250258": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "As Salţ"
         },
+        "parent": 250751,
         "lat": 32.03917,
         "lng": 35.72722,
-        "country": "JO",
-        "state": "02",
         "population": 80189
     },
     "250336": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Ar Ramthā"
         },
+        "parent": 248944,
         "lat": 32.55873,
         "lng": 36.00816,
-        "country": "JO",
-        "state": "18",
         "population": 74901
     },
     "250441": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Amman"
         },
+        "parent": 250439,
         "lat": 31.95522,
         "lng": 35.94503,
-        "country": "JO",
-        "state": "16",
         "population": 1275857
     },
     "250582": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Mafraq"
         },
+        "parent": 250583,
         "lat": 32.34289,
         "lng": 36.20804,
-        "country": "JO",
-        "state": "15",
         "population": 57118
     },
     "250774": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Aqaba"
         },
+        "parent": 443122,
         "lat": 29.52667,
         "lng": 35.00778,
-        "country": "JO",
-        "state": "21",
         "population": 95048
     },
     "250799": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "‘Ajlūn"
         },
+        "parent": 443120,
         "lat": 32.33326,
         "lng": 35.75279,
-        "country": "JO",
-        "state": "20",
         "population": 125557
     },
     "7838895": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Russeifa"
         },
+        "parent": 250092,
         "lat": 32.01778,
         "lng": 36.04639,
-        "country": "JO",
-        "state": "17",
         "population": 268237
     }
 }

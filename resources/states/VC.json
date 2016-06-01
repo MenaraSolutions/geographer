@@ -1,5 +1,6 @@
 [
     {
+        "parent": "VC",
         "ids": {
             "fips": "05",
             "geonames": 3577818
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "VC",
         "ids": {
             "fips": "04",
             "geonames": 3577819
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "VC",
         "ids": {
             "fips": "03",
             "geonames": 3577821
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "VC",
         "ids": {
             "fips": "02",
             "geonames": 3577822
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "VC",
         "ids": {
             "fips": "06",
             "geonames": 3577892
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "VC",
         "ids": {
             "fips": "01",
             "geonames": 3577934

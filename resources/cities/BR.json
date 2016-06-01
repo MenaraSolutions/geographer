@@ -6,10 +6,9 @@
         "long": {
             "default": "Vitória de Santo Antão"
         },
+        "parent": 3392268,
         "lat": -8.11806,
         "lng": -35.29139,
-        "country": "BR",
-        "state": "30",
         "population": 107383
     },
     "3385935": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tucuruí"
         },
+        "parent": 3393129,
         "lat": -3.76585,
         "lng": -49.67923,
-        "country": "BR",
-        "state": "16",
         "population": 76337
     },
     "3386361": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Timon"
         },
+        "parent": 3395443,
         "lat": -5.09417,
         "lng": -42.83667,
-        "country": "BR",
-        "state": "13",
         "population": 124427
     },
     "3386496": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Teresina"
         },
+        "parent": 3392213,
         "lat": -5.08917,
         "lng": -42.80194,
-        "country": "BR",
-        "state": "20",
         "population": 744512
     },
     "3387296": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Sobral"
         },
+        "parent": 3402362,
         "lat": -3.68611,
         "lng": -40.34972,
-        "country": "BR",
-        "state": "06",
         "population": 157996
     },
     "3387786": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Serra Talhada"
         },
+        "parent": 3392268,
         "lat": -7.99194,
         "lng": -38.29833,
-        "country": "BR",
-        "state": "30",
         "population": 51203
     },
     "3388368": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "São Luís"
         },
+        "parent": 3395443,
         "lat": -2.52972,
         "lng": -44.30278,
-        "country": "BR",
-        "state": "13",
         "population": 917237
     },
     "3388376": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "São Lourenço da Mata"
         },
+        "parent": 3392268,
         "lat": -8.00222,
         "lng": -35.01833,
-        "country": "BR",
-        "state": "30",
         "population": 88416
     },
     "3389321": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Santa Rita"
         },
+        "parent": 3393098,
         "lat": -7.11389,
         "lng": -34.97806,
-        "country": "BR",
-        "state": "17",
         "population": 119893
     },
     "3389353": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Santarém"
         },
+        "parent": 3393129,
         "lat": -2.44306,
         "lng": -54.70833,
-        "country": "BR",
-        "state": "16",
         "population": 189047
     },
     "3389609": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Santa Inês"
         },
+        "parent": 3395443,
         "lat": -3.66667,
         "lng": -45.38,
-        "country": "BR",
-        "state": "13",
         "population": 67424
     },
     "3389652": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Santa Cruz do Capibaribe"
         },
+        "parent": 3392268,
         "lat": -7.9575,
         "lng": -36.20472,
-        "country": "BR",
-        "state": "30",
         "population": 76450
     },
     "3390288": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Rio Largo"
         },
+        "parent": 3408096,
         "lat": -9.47833,
         "lng": -35.85333,
-        "country": "BR",
-        "state": "02",
         "population": 63387
     },
     "3390760": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Recife"
         },
+        "parent": 3392268,
         "lat": -8.05389,
         "lng": -34.88111,
-        "country": "BR",
-        "state": "30",
         "population": 1478098
     },
     "3391360": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Santana"
         },
+        "parent": 3407762,
         "lat": -0.05833,
         "lng": -51.18167,
-        "country": "BR",
-        "state": "03",
         "population": 83927
     },
     "3392167": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Picos"
         },
+        "parent": 3392213,
         "lat": -7.07694,
         "lng": -41.46694,
-        "country": "BR",
-        "state": "20",
         "population": 57495
     },
     "3392242": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Petrolina"
         },
+        "parent": 3392268,
         "lat": -9.39861,
         "lng": -40.50083,
-        "country": "BR",
-        "state": "30",
         "population": 194650
     },
     "3392734": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Paulo Afonso"
         },
+        "parent": 3471168,
         "lat": -9.40611,
         "lng": -38.21472,
-        "country": "BR",
-        "state": "05",
         "population": 85350
     },
     "3392740": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Paulista"
         },
+        "parent": 3392268,
         "lat": -7.94083,
         "lng": -34.87306,
-        "country": "BR",
-        "state": "30",
         "population": 289971
     },
     "3392887": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Patos"
         },
+        "parent": 3393098,
         "lat": -7.02444,
         "lng": -37.28,
-        "country": "BR",
-        "state": "17",
         "population": 92575
     },
     "3392998": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Parnamirim"
         },
+        "parent": 3390290,
         "lat": -5.91556,
         "lng": -35.26278,
-        "country": "BR",
-        "state": "22",
         "population": 150343
     },
     "3393001": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Parnaíba"
         },
+        "parent": 3392213,
         "lat": -2.90472,
         "lng": -41.77667,
-        "country": "BR",
-        "state": "20",
         "population": 138008
     },
     "3393008": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Parintins"
         },
+        "parent": 3665361,
         "lat": -2.62833,
         "lng": -56.73583,
-        "country": "BR",
-        "state": "04",
         "population": 64428
     },
     "3393106": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Paragominas"
         },
+        "parent": 3393129,
         "lat": -2.96667,
         "lng": -47.48333,
-        "country": "BR",
-        "state": "16",
         "population": 69613
     },
     "3393400": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Pacatuba"
         },
+        "parent": 3402362,
         "lat": -3.98417,
         "lng": -38.62028,
-        "country": "BR",
-        "state": "06",
         "population": 55291
     },
     "3393536": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Olinda"
         },
+        "parent": 3392268,
         "lat": -8.00889,
         "lng": -34.85528,
-        "country": "BR",
-        "state": "30",
         "population": 366754
     },
     "3394023": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Natal"
         },
+        "parent": 3390290,
         "lat": -5.795,
         "lng": -35.20944,
-        "country": "BR",
-        "state": "22",
         "population": 763043
     },
     "3394682": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Mossoró"
         },
+        "parent": 3390290,
         "lat": -5.1875,
         "lng": -37.34417,
-        "country": "BR",
-        "state": "22",
         "population": 202005
     },
     "3395395": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Marechal Deodoro"
         },
+        "parent": 3408096,
         "lat": -9.71028,
         "lng": -35.895,
-        "country": "BR",
-        "state": "02",
         "population": 50571
     },
     "3395473": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Maracanaú"
         },
+        "parent": 3402362,
         "lat": -3.87667,
         "lng": -38.62556,
-        "country": "BR",
-        "state": "06",
         "population": 193529
     },
     "3395503": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Marabá"
         },
+        "parent": 3393129,
         "lat": -5.38146,
         "lng": -49.13232,
-        "country": "BR",
-        "state": "16",
         "population": 145860
     },
     "3395981": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Maceió"
         },
+        "parent": 3408096,
         "lat": -9.66583,
         "lng": -35.73528,
-        "country": "BR",
-        "state": "02",
         "population": 954991
     },
     "3396016": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Macapá"
         },
+        "parent": 3407762,
         "lat": 0.03889,
         "lng": -51.06639,
-        "country": "BR",
-        "state": "03",
         "population": 338936
     },
     "3397147": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Juazeiro do Norte"
         },
+        "parent": 3402362,
         "lat": -7.21306,
         "lng": -39.31528,
-        "country": "BR",
-        "state": "06",
         "population": 225230
     },
     "3397277": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "João Pessoa"
         },
+        "parent": 3393098,
         "lat": -7.115,
         "lng": -34.86306,
-        "country": "BR",
-        "state": "17",
         "population": 650883
     },
     "3397838": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Jaboatão"
         },
+        "parent": 3392268,
         "lat": -8.18028,
         "lng": -35.00139,
-        "country": "BR",
-        "state": "30",
         "population": 702621
     },
     "3397893": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Itacoatiara"
         },
+        "parent": 3665361,
         "lat": -3.14306,
         "lng": -58.44417,
-        "country": "BR",
-        "state": "04",
         "population": 64937
     },
     "3397909": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Itapipoca"
         },
+        "parent": 3402362,
         "lat": -3.49444,
         "lng": -39.57861,
-        "country": "BR",
-        "state": "06",
         "population": 55784
     },
     "3397967": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Itaituba"
         },
+        "parent": 3393129,
         "lat": -4.27611,
         "lng": -55.98361,
-        "country": "BR",
-        "state": "16",
         "population": 64756
     },
     "3398115": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Ipojuca"
         },
+        "parent": 3392268,
         "lat": -8.39889,
         "lng": -35.06389,
-        "country": "BR",
-        "state": "30",
         "population": 53364
     },
     "3398269": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Imperatriz"
         },
+        "parent": 3395443,
         "lat": -5.52639,
         "lng": -47.49167,
-        "country": "BR",
-        "state": "13",
         "population": 218106
     },
     "3398331": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Iguatu"
         },
+        "parent": 3402362,
         "lat": -6.35944,
         "lng": -39.29861,
-        "country": "BR",
-        "state": "06",
         "population": 70380
     },
     "3398352": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Igarassu"
         },
+        "parent": 3392268,
         "lat": -7.83417,
         "lng": -34.90639,
-        "country": "BR",
-        "state": "30",
         "population": 86457
     },
     "3398450": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Horizonte"
         },
+        "parent": 3402362,
         "lat": -4.1,
         "lng": -38.48333,
-        "country": "BR",
-        "state": "06",
         "population": 51171
     },
     "3398691": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Gravatá"
         },
+        "parent": 3392268,
         "lat": -8.20111,
         "lng": -35.56472,
-        "country": "BR",
-        "state": "30",
         "population": 61249
     },
     "3399058": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Garanhuns"
         },
+        "parent": 3392268,
         "lat": -8.88202,
         "lng": -36.50216,
-        "country": "BR",
-        "state": "30",
         "population": 110085
     },
     "3399415": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Fortaleza"
         },
+        "parent": 3402362,
         "lat": -3.71722,
         "lng": -38.54306,
-        "country": "BR",
-        "state": "06",
         "population": 2400000
     },
     "3401545": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Crato"
         },
+        "parent": 3402362,
         "lat": -7.23417,
         "lng": -39.40944,
-        "country": "BR",
-        "state": "06",
         "population": 88786
     },
     "3401548": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Crateús"
         },
+        "parent": 3402362,
         "lat": -5.17833,
         "lng": -40.6775,
-        "country": "BR",
-        "state": "06",
         "population": 52933
     },
     "3402000": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Codó"
         },
+        "parent": 3395443,
         "lat": -4.45528,
         "lng": -43.88556,
-        "country": "BR",
-        "state": "13",
         "population": 83288
     },
     "3402383": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Caxias"
         },
+        "parent": 3395443,
         "lat": -4.85889,
         "lng": -43.35611,
-        "country": "BR",
-        "state": "13",
         "population": 148072
     },
     "3402429": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Caucaia"
         },
+        "parent": 3402362,
         "lat": -3.73611,
         "lng": -38.65306,
-        "country": "BR",
-        "state": "06",
         "population": 275019
     },
     "3402591": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Castanhal"
         },
+        "parent": 3393129,
         "lat": -1.29389,
         "lng": -47.92639,
-        "country": "BR",
-        "state": "16",
         "population": 137406
     },
     "3402613": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Cascavel"
         },
+        "parent": 3402362,
         "lat": -4.13306,
         "lng": -38.24194,
-        "country": "BR",
-        "state": "06",
         "population": 52357
     },
     "3402655": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Caruaru"
         },
+        "parent": 3392268,
         "lat": -8.28333,
         "lng": -35.97611,
-        "country": "BR",
-        "state": "30",
         "population": 235371
     },
     "3402721": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Carpina"
         },
+        "parent": 3392268,
         "lat": -7.85083,
         "lng": -35.25472,
-        "country": "BR",
-        "state": "30",
         "population": 70689
     },
     "3403642": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Campina Grande"
         },
+        "parent": 3393098,
         "lat": -7.23056,
         "lng": -35.88111,
-        "country": "BR",
-        "state": "17",
         "population": 348936
     },
     "3404117": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Caicó"
         },
+        "parent": 3390290,
         "lat": -6.45833,
         "lng": -37.09778,
-        "country": "BR",
-        "state": "22",
         "population": 54934
     },
     "3404545": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Cabo"
         },
+        "parent": 3392268,
         "lat": -8.28333,
         "lng": -35.03333,
-        "country": "BR",
-        "state": "30",
         "population": 143105
     },
     "3404558": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Cabedelo"
         },
+        "parent": 3393098,
         "lat": -6.98111,
         "lng": -34.83389,
-        "country": "BR",
-        "state": "17",
         "population": 54839
     },
     "3405006": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Bragança"
         },
+        "parent": 3393129,
         "lat": -1.05361,
         "lng": -46.76556,
-        "country": "BR",
-        "state": "16",
         "population": 57163
     },
     "3405738": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Bezerros"
         },
+        "parent": 3392268,
         "lat": -8.23333,
         "lng": -35.79694,
-        "country": "BR",
-        "state": "30",
         "population": 51436
     },
     "3405870": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Belém"
         },
+        "parent": 3393129,
         "lat": -1.45583,
         "lng": -48.50444,
-        "country": "BR",
-        "state": "16",
         "population": 1407737
     },
     "3405940": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Bayeux"
         },
+        "parent": 3393098,
         "lat": -7.125,
         "lng": -34.93222,
-        "country": "BR",
-        "state": "17",
         "population": 91056
     },
     "3406545": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Balsas"
         },
+        "parent": 3395443,
         "lat": -7.5325,
         "lng": -46.03556,
-        "country": "BR",
-        "state": "13",
         "population": 68056
     },
     "3406910": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Bacabal"
         },
+        "parent": 3395443,
         "lat": -4.29167,
         "lng": -44.79167,
-        "country": "BR",
-        "state": "13",
         "population": 72372
     },
     "3407216": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Arcoverde"
         },
+        "parent": 3392268,
         "lat": -8.41889,
         "lng": -37.05389,
-        "country": "BR",
-        "state": "30",
         "population": 57163
     },
     "3407327": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Arapiraca"
         },
+        "parent": 3408096,
         "lat": -9.7525,
         "lng": -36.66111,
-        "country": "BR",
-        "state": "02",
         "population": 166562
     },
     "3407357": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Araguaína"
         },
+        "parent": 3474575,
         "lat": -7.19111,
         "lng": -48.20722,
-        "country": "BR",
-        "state": "31",
         "population": 105019
     },
     "3407407": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Aquiraz"
         },
+        "parent": 3402362,
         "lat": -3.90139,
         "lng": -38.39111,
-        "country": "BR",
-        "state": "06",
         "population": 65116
     },
     "3407669": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Ananindeua"
         },
+        "parent": 3393129,
         "lat": -1.36556,
         "lng": -48.37222,
-        "country": "BR",
-        "state": "16",
         "population": 433956
     },
     "3407882": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Altamira"
         },
+        "parent": 3393129,
         "lat": -3.20333,
         "lng": -52.20639,
-        "country": "BR",
-        "state": "16",
         "population": 70888
     },
     "3408404": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Abreu e Lima"
         },
+        "parent": 3392268,
         "lat": -7.91167,
         "lng": -34.90278,
-        "country": "BR",
-        "state": "30",
         "population": 81959
     },
     "3408424": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Abaetetuba"
         },
+        "parent": 3393129,
         "lat": -1.71806,
         "lng": -48.8825,
-        "country": "BR",
-        "state": "16",
         "population": 78050
     },
     "3444864": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Votuporanga"
         },
+        "parent": 3448433,
         "lat": -20.42278,
         "lng": -49.97278,
-        "country": "BR",
-        "state": "27",
         "population": 69863
     },
     "3444866": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Votorantim"
         },
+        "parent": 3448433,
         "lat": -23.54667,
         "lng": -47.43778,
-        "country": "BR",
-        "state": "27",
         "population": 99390
     },
     "3444876": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Volta Redonda"
         },
+        "parent": 3451189,
         "lat": -22.52306,
         "lng": -44.10417,
-        "country": "BR",
-        "state": "21",
         "population": 249580
     },
     "3444914": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Vitória da Conquista"
         },
+        "parent": 3471168,
         "lat": -14.86611,
         "lng": -40.83944,
-        "country": "BR",
-        "state": "05",
         "population": 253137
     },
     "3444924": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Vitória"
         },
+        "parent": 3463930,
         "lat": -20.31944,
         "lng": -40.33778,
-        "country": "BR",
-        "state": "08",
         "population": 312656
     },
     "3445014": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Vinhedo"
         },
+        "parent": 3448433,
         "lat": -23.02972,
         "lng": -46.97528,
-        "country": "BR",
-        "state": "27",
         "population": 56492
     },
     "3445026": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Vila Velha"
         },
+        "parent": 3463930,
         "lat": -20.32972,
         "lng": -40.2925,
-        "country": "BR",
-        "state": "08",
         "population": 394930
     },
     "3445133": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Viçosa"
         },
+        "parent": 3457153,
         "lat": -20.75389,
         "lng": -42.88194,
-        "country": "BR",
-        "state": "15",
         "population": 68680
     },
     "3445153": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Viana"
         },
+        "parent": 3463930,
         "lat": -20.39028,
         "lng": -40.49611,
-        "country": "BR",
-        "state": "08",
         "population": 55122
     },
     "3445156": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "Viamão"
         },
+        "parent": 3451133,
         "lat": -30.08111,
         "lng": -51.02333,
-        "country": "BR",
-        "state": "23",
         "population": 285269
     },
     "3445162": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Vespasiano"
         },
+        "parent": 3457153,
         "lat": -19.69194,
         "lng": -43.92333,
-        "country": "BR",
-        "state": "15",
         "population": 94749
     },
     "3445446": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Várzea Paulista"
         },
+        "parent": 3448433,
         "lat": -23.21139,
         "lng": -46.82833,
-        "country": "BR",
-        "state": "27",
         "population": 110936
     },
     "3445451": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Várzea Grande"
         },
+        "parent": 3457419,
         "lat": -15.64667,
         "lng": -56.1325,
-        "country": "BR",
-        "state": "14",
         "population": 249752
     },
     "3445487": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "Varginha"
         },
+        "parent": 3457153,
         "lat": -21.55139,
         "lng": -45.43028,
-        "country": "BR",
-        "state": "15",
         "population": 116571
     },
     "3445578": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Valinhos"
         },
+        "parent": 3448433,
         "lat": -22.97056,
         "lng": -46.99583,
-        "country": "BR",
-        "state": "27",
         "population": 88630
     },
     "3445596": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Valença"
         },
+        "parent": 3451189,
         "lat": -22.24556,
         "lng": -43.70028,
-        "country": "BR",
-        "state": "21",
         "population": 61144
     },
     "3445597": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Valença"
         },
+        "parent": 3471168,
         "lat": -13.37028,
         "lng": -39.07306,
-        "country": "BR",
-        "state": "05",
         "population": 63231
     },
     "3445630": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "Vacaria"
         },
+        "parent": 3451133,
         "lat": -28.51222,
         "lng": -50.93389,
-        "country": "BR",
-        "state": "23",
         "population": 56765
     },
     "3445679": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Uruguaiana"
         },
+        "parent": 3451133,
         "lat": -29.75472,
         "lng": -57.08833,
-        "country": "BR",
-        "state": "23",
         "population": 123480
     },
     "3445764": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Unaí"
         },
+        "parent": 3457153,
         "lat": -16.3575,
         "lng": -46.90611,
-        "country": "BR",
-        "state": "15",
         "population": 60202
     },
     "3445782": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Umuarama"
         },
+        "parent": 3455077,
         "lat": -23.76639,
         "lng": -53.325,
-        "country": "BR",
-        "state": "18",
         "population": 89687
     },
     "3445831": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Uberlândia"
         },
+        "parent": 3457153,
         "lat": -18.91861,
         "lng": -48.27722,
-        "country": "BR",
-        "state": "15",
         "population": 563536
     },
     "3445839": {
@@ -1254,10 +1158,9 @@
         "long": {
             "default": "Uberaba"
         },
+        "parent": 3457153,
         "lat": -19.74833,
         "lng": -47.93194,
-        "country": "BR",
-        "state": "15",
         "population": 260843
     },
     "3445847": {
@@ -1267,10 +1170,9 @@
         "long": {
             "default": "Ubatuba"
         },
+        "parent": 3448433,
         "lat": -23.43389,
         "lng": -45.07111,
-        "country": "BR",
-        "state": "27",
         "population": 79007
     },
     "3445859": {
@@ -1280,10 +1182,9 @@
         "long": {
             "default": "Ubá"
         },
+        "parent": 3457153,
         "lat": -21.12,
         "lng": -42.94278,
-        "country": "BR",
-        "state": "15",
         "population": 97828
     },
     "3445942": {
@@ -1293,10 +1194,9 @@
         "long": {
             "default": "Tupã"
         },
+        "parent": 3448433,
         "lat": -21.93472,
         "lng": -50.51361,
-        "country": "BR",
-        "state": "27",
         "population": 62035
     },
     "3445993": {
@@ -1306,10 +1206,9 @@
         "long": {
             "default": "Tubarão"
         },
+        "parent": 3450387,
         "lat": -28.46667,
         "lng": -49.00694,
-        "country": "BR",
-        "state": "26",
         "population": 67245
     },
     "3446038": {
@@ -1319,10 +1218,9 @@
         "long": {
             "default": "Trindade"
         },
+        "parent": 3462372,
         "lat": -16.64944,
         "lng": -49.48889,
-        "country": "BR",
-        "state": "29",
         "population": 97521
     },
     "3446065": {
@@ -1332,10 +1230,9 @@
         "long": {
             "default": "Três Rios"
         },
+        "parent": 3451189,
         "lat": -22.11667,
         "lng": -43.20917,
-        "country": "BR",
-        "state": "21",
         "population": 71944
     },
     "3446098": {
@@ -1345,10 +1242,9 @@
         "long": {
             "default": "Três Lagoas"
         },
+        "parent": 3457415,
         "lat": -20.78765,
         "lng": -51.70338,
-        "country": "BR",
-        "state": "11",
         "population": 78712
     },
     "3446138": {
@@ -1358,10 +1254,9 @@
         "long": {
             "default": "Três Corações"
         },
+        "parent": 3457153,
         "lat": -21.69694,
         "lng": -45.25333,
-        "country": "BR",
-        "state": "15",
         "population": 63457
     },
     "3446370": {
@@ -1371,10 +1266,9 @@
         "long": {
             "default": "Toledo"
         },
+        "parent": 3455077,
         "lat": -24.71361,
         "lng": -53.74306,
-        "country": "BR",
-        "state": "18",
         "population": 119313
     },
     "3446445": {
@@ -1384,10 +1278,9 @@
         "long": {
             "default": "Timóteo"
         },
+        "parent": 3457153,
         "lat": -19.58106,
         "lng": -42.64953,
-        "country": "BR",
-        "state": "15",
         "population": 91722
     },
     "3446606": {
@@ -1397,10 +1290,9 @@
         "long": {
             "default": "Teresópolis"
         },
+        "parent": 3451189,
         "lat": -22.4167,
         "lng": -42.97822,
-        "country": "BR",
-        "state": "21",
         "population": 123979
     },
     "3446621": {
@@ -1410,10 +1302,9 @@
         "long": {
             "default": "Teófilo Otoni"
         },
+        "parent": 3457153,
         "lat": -17.8575,
         "lng": -41.50528,
-        "country": "BR",
-        "state": "15",
         "population": 101170
     },
     "3446652": {
@@ -1423,10 +1314,9 @@
         "long": {
             "default": "Telêmaco Borba"
         },
+        "parent": 3455077,
         "lat": -24.32389,
         "lng": -50.61556,
-        "country": "BR",
-        "state": "18",
         "population": 58880
     },
     "3446682": {
@@ -1436,10 +1326,9 @@
         "long": {
             "default": "Taubaté"
         },
+        "parent": 3448433,
         "lat": -23.02639,
         "lng": -45.55528,
-        "country": "BR",
-        "state": "27",
         "population": 251641
     },
     "3446692": {
@@ -1449,10 +1338,9 @@
         "long": {
             "default": "Tatuí"
         },
+        "parent": 3448433,
         "lat": -23.35556,
         "lng": -47.85694,
-        "country": "BR",
-        "state": "27",
         "population": 93580
     },
     "3446753": {
@@ -1462,10 +1350,9 @@
         "long": {
             "default": "Taquaritinga"
         },
+        "parent": 3448433,
         "lat": -21.40611,
         "lng": -48.50472,
-        "country": "BR",
-        "state": "27",
         "population": 50098
     },
     "3447186": {
@@ -1475,10 +1362,9 @@
         "long": {
             "default": "Taboão da Serra"
         },
+        "parent": 3448433,
         "lat": -23.62611,
         "lng": -46.79167,
-        "country": "BR",
-        "state": "27",
         "population": 214523
     },
     "3447212": {
@@ -1488,10 +1374,9 @@
         "long": {
             "default": "Suzano"
         },
+        "parent": 3448433,
         "lat": -23.5425,
         "lng": -46.31083,
-        "country": "BR",
-        "state": "27",
         "population": 283314
     },
     "3447259": {
@@ -1501,10 +1386,9 @@
         "long": {
             "default": "Sumaré"
         },
+        "parent": 3448433,
         "lat": -22.82194,
         "lng": -47.26694,
-        "country": "BR",
-        "state": "27",
         "population": 227977
     },
     "3447399": {
@@ -1514,10 +1398,9 @@
         "long": {
             "default": "Sorocaba"
         },
+        "parent": 3448433,
         "lat": -23.50167,
         "lng": -47.45806,
-        "country": "BR",
-        "state": "27",
         "population": 558862
     },
     "3447624": {
@@ -1527,10 +1410,9 @@
         "long": {
             "default": "Sete Lagoas"
         },
+        "parent": 3457153,
         "lat": -19.46583,
         "lng": -44.24667,
-        "country": "BR",
-        "state": "15",
         "population": 201334
     },
     "3447651": {
@@ -1540,10 +1422,9 @@
         "long": {
             "default": "Sertãozinho"
         },
+        "parent": 3448433,
         "lat": -21.13778,
         "lng": -47.99028,
-        "country": "BR",
-        "state": "27",
         "population": 99211
     },
     "3447779": {
@@ -1553,10 +1434,9 @@
         "long": {
             "default": "Serra"
         },
+        "parent": 3463930,
         "lat": -20.12861,
         "lng": -40.30778,
-        "country": "BR",
-        "state": "08",
         "population": 394153
     },
     "3447785": {
@@ -1566,10 +1446,9 @@
         "long": {
             "default": "Seropédica"
         },
+        "parent": 3451189,
         "lat": -22.74389,
         "lng": -43.7075,
-        "country": "BR",
-        "state": "21",
         "population": 54846
     },
     "3447854": {
@@ -1579,10 +1458,9 @@
         "long": {
             "default": "Senador Canedo"
         },
+        "parent": 3462372,
         "lat": -16.70806,
         "lng": -49.09306,
-        "country": "BR",
-        "state": "29",
         "population": 61800
     },
     "3447998": {
@@ -1592,10 +1470,9 @@
         "long": {
             "default": "Sarandi"
         },
+        "parent": 3455077,
         "lat": -23.44361,
         "lng": -51.87389,
-        "country": "BR",
-        "state": "18",
         "population": 84697
     },
     "3448011": {
@@ -1605,10 +1482,9 @@
         "long": {
             "default": "Saquarema"
         },
+        "parent": 3451189,
         "lat": -22.92,
         "lng": -42.51028,
-        "country": "BR",
-        "state": "21",
         "population": 62056
     },
     "3448031": {
@@ -1618,10 +1494,9 @@
         "long": {
             "default": "Sapucaia"
         },
+        "parent": 3451133,
         "lat": -29.83333,
         "lng": -51.15,
-        "country": "BR",
-        "state": "23",
         "population": 130937
     },
     "3448063": {
@@ -1631,10 +1506,9 @@
         "long": {
             "default": "Sapiranga"
         },
+        "parent": 3451133,
         "lat": -29.63806,
         "lng": -51.00694,
-        "country": "BR",
-        "state": "23",
         "population": 76051
     },
     "3448136": {
@@ -1644,10 +1518,9 @@
         "long": {
             "default": "São Vicente"
         },
+        "parent": 3448433,
         "lat": -23.96306,
         "lng": -46.39194,
-        "country": "BR",
-        "state": "27",
         "population": 324457
     },
     "3448221": {
@@ -1657,10 +1530,9 @@
         "long": {
             "default": "São Sebastião do Paraíso"
         },
+        "parent": 3457153,
         "lat": -20.91694,
         "lng": -46.99139,
-        "country": "BR",
-        "state": "15",
         "population": 68654
     },
     "3448257": {
@@ -1670,10 +1542,9 @@
         "long": {
             "default": "São Sebastião"
         },
+        "parent": 3448433,
         "lat": -23.76,
         "lng": -45.40972,
-        "country": "BR",
-        "state": "27",
         "population": 76367
     },
     "3448300": {
@@ -1683,10 +1554,9 @@
         "long": {
             "default": "São Roque"
         },
+        "parent": 3448433,
         "lat": -23.52917,
         "lng": -47.13528,
-        "country": "BR",
-        "state": "27",
         "population": 50540
     },
     "3448351": {
@@ -1696,10 +1566,9 @@
         "long": {
             "default": "São Pedro da Aldeia"
         },
+        "parent": 3451189,
         "lat": -22.83917,
         "lng": -42.10278,
-        "country": "BR",
-        "state": "21",
         "population": 55014
     },
     "3448439": {
@@ -1709,10 +1578,9 @@
         "long": {
             "default": "São Paulo"
         },
+        "parent": 3448433,
         "lat": -23.5475,
         "lng": -46.63611,
-        "country": "BR",
-        "state": "27",
         "population": 10021295
     },
     "3448519": {
@@ -1722,10 +1590,9 @@
         "long": {
             "default": "São Mateus"
         },
+        "parent": 3463930,
         "lat": -18.72011,
         "lng": -39.85891,
-        "country": "BR",
-        "state": "08",
         "population": 77117
     },
     "3448622": {
@@ -1735,10 +1602,9 @@
         "long": {
             "default": "São Leopoldo"
         },
+        "parent": 3451133,
         "lat": -29.76028,
         "lng": -51.14722,
-        "country": "BR",
-        "state": "23",
         "population": 209229
     },
     "3448632": {
@@ -1748,10 +1614,9 @@
         "long": {
             "default": "São José dos Pinhais"
         },
+        "parent": 3455077,
         "lat": -25.5302,
         "lng": -49.20836,
-        "country": "BR",
-        "state": "18",
         "population": 124224
     },
     "3448636": {
@@ -1761,10 +1626,9 @@
         "long": {
             "default": "São José dos Campos"
         },
+        "parent": 3448433,
         "lat": -23.17944,
         "lng": -45.88694,
-        "country": "BR",
-        "state": "27",
         "population": 613764
     },
     "3448639": {
@@ -1774,10 +1638,9 @@
         "long": {
             "default": "São José do Rio Preto"
         },
+        "parent": 3448433,
         "lat": -20.81972,
         "lng": -49.37944,
-        "country": "BR",
-        "state": "27",
         "population": 374699
     },
     "3448742": {
@@ -1787,10 +1650,9 @@
         "long": {
             "default": "São José"
         },
+        "parent": 3450387,
         "lat": -28.21171,
         "lng": -49.1632,
-        "country": "BR",
-        "state": "26",
         "population": 200000
     },
     "3448877": {
@@ -1800,10 +1662,9 @@
         "long": {
             "default": "São João de Meriti"
         },
+        "parent": 3451189,
         "lat": -22.80389,
         "lng": -43.37222,
-        "country": "BR",
-        "state": "21",
         "population": 454849
     },
     "3448879": {
@@ -1813,10 +1674,9 @@
         "long": {
             "default": "São João del Rei"
         },
+        "parent": 3457153,
         "lat": -21.13556,
         "lng": -44.26167,
-        "country": "BR",
-        "state": "15",
         "population": 78592
     },
     "3448902": {
@@ -1826,10 +1686,9 @@
         "long": {
             "default": "São João da Boa Vista"
         },
+        "parent": 3448433,
         "lat": -21.96917,
         "lng": -46.79806,
-        "country": "BR",
-        "state": "27",
         "population": 76540
     },
     "3449099": {
@@ -1839,10 +1698,9 @@
         "long": {
             "default": "São Gabriel"
         },
+        "parent": 3451133,
         "lat": -30.33639,
         "lng": -54.32,
-        "country": "BR",
-        "state": "23",
         "population": 55434
     },
     "3449310": {
@@ -1852,10 +1710,9 @@
         "long": {
             "default": "São Cristóvão"
         },
+        "parent": 3447799,
         "lat": -11.01472,
         "lng": -37.20639,
-        "country": "BR",
-        "state": "28",
         "population": 71539
     },
     "3449319": {
@@ -1865,10 +1722,9 @@
         "long": {
             "default": "São Carlos"
         },
+        "parent": 3448433,
         "lat": -22.0175,
         "lng": -47.89083,
-        "country": "BR",
-        "state": "27",
         "population": 205035
     },
     "3449324": {
@@ -1878,10 +1734,9 @@
         "long": {
             "default": "São Caetano do Sul"
         },
+        "parent": 3448433,
         "lat": -23.62306,
         "lng": -46.55111,
-        "country": "BR",
-        "state": "27",
         "population": 136453
     },
     "3449340": {
@@ -1891,10 +1746,9 @@
         "long": {
             "default": "São Borja"
         },
+        "parent": 3451133,
         "lat": -28.66056,
         "lng": -56.00444,
-        "country": "BR",
-        "state": "23",
         "population": 59613
     },
     "3449344": {
@@ -1904,10 +1758,9 @@
         "long": {
             "default": "São Bernardo do Campo"
         },
+        "parent": 3448433,
         "lat": -23.69389,
         "lng": -46.565,
-        "country": "BR",
-        "state": "27",
         "population": 743372
     },
     "3449350": {
@@ -1917,10 +1770,9 @@
         "long": {
             "default": "São Bento do Sul"
         },
+        "parent": 3450387,
         "lat": -26.25028,
         "lng": -49.37861,
-        "country": "BR",
-        "state": "26",
         "population": 77597
     },
     "3449433": {
@@ -1930,10 +1782,9 @@
         "long": {
             "default": "Santos"
         },
+        "parent": 3448433,
         "lat": -23.96083,
         "lng": -46.33361,
-        "country": "BR",
-        "state": "27",
         "population": 411403
     },
     "3449521": {
@@ -1943,10 +1794,9 @@
         "long": {
             "default": "Santo Antônio de Jesus"
         },
+        "parent": 3471168,
         "lat": -12.96889,
         "lng": -39.26139,
-        "country": "BR",
-        "state": "05",
         "population": 73957
     },
     "3449696": {
@@ -1956,10 +1806,9 @@
         "long": {
             "default": "Santo Ângelo"
         },
+        "parent": 3451133,
         "lat": -28.29917,
         "lng": -54.26306,
-        "country": "BR",
-        "state": "23",
         "population": 64606
     },
     "3449701": {
@@ -1969,10 +1818,9 @@
         "long": {
             "default": "Santo André"
         },
+        "parent": 3448433,
         "lat": -23.66389,
         "lng": -46.53833,
-        "country": "BR",
-        "state": "27",
         "population": 662373
     },
     "3449822": {
@@ -1982,10 +1830,9 @@
         "long": {
             "default": "Santa Rosa"
         },
+        "parent": 3451133,
         "lat": -27.87083,
         "lng": -54.48139,
-        "country": "BR",
-        "state": "23",
         "population": 58957
     },
     "3449936": {
@@ -1995,10 +1842,9 @@
         "long": {
             "default": "Santana do Livramento"
         },
+        "parent": 3451133,
         "lat": -30.89083,
         "lng": -55.53278,
-        "country": "BR",
-        "state": "23",
         "population": 89694
     },
     "3449948": {
@@ -2008,10 +1854,9 @@
         "long": {
             "default": "Santana de Parnaíba"
         },
+        "parent": 3448433,
         "lat": -23.44417,
         "lng": -46.91778,
-        "country": "BR",
-        "state": "27",
         "population": 98989
     },
     "3450083": {
@@ -2021,10 +1866,9 @@
         "long": {
             "default": "Santa Maria"
         },
+        "parent": 3451133,
         "lat": -29.68417,
         "lng": -53.80694,
-        "country": "BR",
-        "state": "23",
         "population": 249219
     },
     "3450144": {
@@ -2034,10 +1878,9 @@
         "long": {
             "default": "Santa Luzia"
         },
+        "parent": 3457153,
         "lat": -19.76972,
         "lng": -43.85139,
-        "country": "BR",
-        "state": "15",
         "population": 243503
     },
     "3450269": {
@@ -2047,10 +1890,9 @@
         "long": {
             "default": "Santa Cruz do Sul"
         },
+        "parent": 3451133,
         "lat": -29.7175,
         "lng": -52.42583,
-        "country": "BR",
-        "state": "23",
         "population": 106113
     },
     "3450404": {
@@ -2060,10 +1902,9 @@
         "long": {
             "default": "Santa Bárbara d'Oeste"
         },
+        "parent": 3448433,
         "lat": -22.75361,
         "lng": -47.41361,
-        "country": "BR",
-        "state": "27",
         "population": 188000
     },
     "3450554": {
@@ -2073,10 +1914,9 @@
         "long": {
             "default": "Salvador"
         },
+        "parent": 3471168,
         "lat": -12.97111,
         "lng": -38.51083,
-        "country": "BR",
-        "state": "05",
         "population": 2711840
     },
     "3450594": {
@@ -2086,10 +1926,9 @@
         "long": {
             "default": "Salto"
         },
+        "parent": 3448433,
         "lat": -23.20083,
         "lng": -47.28694,
-        "country": "BR",
-        "state": "27",
         "population": 98387
     },
     "3450909": {
@@ -2099,10 +1938,9 @@
         "long": {
             "default": "Rondonópolis"
         },
+        "parent": 3457419,
         "lat": -16.47083,
         "lng": -54.63556,
-        "country": "BR",
-        "state": "14",
         "population": 152912
     },
     "3450964": {
@@ -2112,10 +1950,9 @@
         "long": {
             "default": "Rolândia"
         },
+        "parent": 3455077,
         "lat": -23.30972,
         "lng": -51.36917,
-        "country": "BR",
-        "state": "18",
         "population": 51004
     },
     "3451138": {
@@ -2125,10 +1962,9 @@
         "long": {
             "default": "Rio Grande"
         },
+        "parent": 3451133,
         "lat": -32.035,
         "lng": -52.09861,
-        "country": "BR",
-        "state": "23",
         "population": 187838
     },
     "3451152": {
@@ -2138,10 +1974,9 @@
         "long": {
             "default": "Rio do Sul"
         },
+        "parent": 3450387,
         "lat": -27.21417,
         "lng": -49.64306,
-        "country": "BR",
-        "state": "26",
         "population": 51944
     },
     "3451190": {
@@ -2151,10 +1986,9 @@
         "long": {
             "default": "Rio de Janeiro"
         },
+        "parent": 3451189,
         "lat": -22.90278,
         "lng": -43.2075,
-        "country": "BR",
-        "state": "21",
         "population": 6023699
     },
     "3451205": {
@@ -2164,10 +1998,9 @@
         "long": {
             "default": "Rio das Ostras"
         },
+        "parent": 3451189,
         "lat": -22.52694,
         "lng": -41.945,
-        "country": "BR",
-        "state": "21",
         "population": 100000
     },
     "3451234": {
@@ -2177,10 +2010,9 @@
         "long": {
             "default": "Rio Claro"
         },
+        "parent": 3448433,
         "lat": -22.41139,
         "lng": -47.56139,
-        "country": "BR",
-        "state": "27",
         "population": 180147
     },
     "3451328": {
@@ -2190,10 +2022,9 @@
         "long": {
             "default": "Ribeirão Preto"
         },
+        "parent": 3448433,
         "lat": -21.1775,
         "lng": -47.81028,
-        "country": "BR",
-        "state": "27",
         "population": 619746
     },
     "3451329": {
@@ -2203,10 +2034,9 @@
         "long": {
             "default": "Ribeirão Pires"
         },
+        "parent": 3448433,
         "lat": -23.71056,
         "lng": -46.41333,
-        "country": "BR",
-        "state": "27",
         "population": 111888
     },
     "3451353": {
@@ -2216,10 +2046,9 @@
         "long": {
             "default": "Ribeirão das Neves"
         },
+        "parent": 3457153,
         "lat": -19.76694,
         "lng": -44.08667,
-        "country": "BR",
-        "state": "15",
         "population": 406802
     },
     "3451668": {
@@ -2229,10 +2058,9 @@
         "long": {
             "default": "Resende"
         },
+        "parent": 3451189,
         "lat": -22.46889,
         "lng": -44.44667,
-        "country": "BR",
-        "state": "21",
         "population": 111514
     },
     "3452073": {
@@ -2242,10 +2070,9 @@
         "long": {
             "default": "Queimados"
         },
+        "parent": 3451189,
         "lat": -22.71611,
         "lng": -43.55528,
-        "country": "BR",
-        "state": "21",
         "population": 135741
     },
     "3452324": {
@@ -2255,10 +2082,9 @@
         "long": {
             "default": "Presidente Prudente"
         },
+        "parent": 3448433,
         "lat": -22.12556,
         "lng": -51.38889,
-        "country": "BR",
-        "state": "27",
         "population": 209502
     },
     "3452465": {
@@ -2268,10 +2094,9 @@
         "long": {
             "default": "Praia Grande"
         },
+        "parent": 3448433,
         "lat": -24.00583,
         "lng": -46.40278,
-        "country": "BR",
-        "state": "27",
         "population": 250027
     },
     "3452525": {
@@ -2281,10 +2106,9 @@
         "long": {
             "default": "Pouso Alegre"
         },
+        "parent": 3457153,
         "lat": -22.23,
         "lng": -45.93639,
-        "country": "BR",
-        "state": "15",
         "population": 115201
     },
     "3452640": {
@@ -2294,10 +2118,9 @@
         "long": {
             "default": "Porto Seguro"
         },
+        "parent": 3471168,
         "lat": -16.44972,
         "lng": -39.06472,
-        "country": "BR",
-        "state": "05",
         "population": 123173
     },
     "3452925": {
@@ -2307,10 +2130,9 @@
         "long": {
             "default": "Porto Alegre"
         },
+        "parent": 3451133,
         "lat": -30.03306,
         "lng": -51.23,
-        "country": "BR",
-        "state": "23",
         "population": 1372741
     },
     "3453150": {
@@ -2320,10 +2142,9 @@
         "long": {
             "default": "Ponta Porã"
         },
+        "parent": 3457415,
         "lat": -22.53611,
         "lng": -55.72556,
-        "country": "BR",
-        "state": "11",
         "population": 55763
     },
     "3453186": {
@@ -2333,10 +2154,9 @@
         "long": {
             "default": "Ponta Grossa"
         },
+        "parent": 3455077,
         "lat": -25.095,
         "lng": -50.16194,
-        "country": "BR",
-        "state": "18",
         "population": 292177
     },
     "3453303": {
@@ -2346,10 +2166,9 @@
         "long": {
             "default": "Poços de Caldas"
         },
+        "parent": 3457153,
         "lat": -21.78778,
         "lng": -46.56139,
-        "country": "BR",
-        "state": "15",
         "population": 146588
     },
     "3453406": {
@@ -2359,10 +2178,9 @@
         "long": {
             "default": "Poá"
         },
+        "parent": 3448433,
         "lat": -23.52806,
         "lng": -46.34472,
-        "country": "BR",
-        "state": "27",
         "population": 107432
     },
     "3453420": {
@@ -2372,10 +2190,9 @@
         "long": {
             "default": "Planaltina"
         },
+        "parent": 3462372,
         "lat": -15.45278,
         "lng": -47.61417,
-        "country": "BR",
-        "state": "29",
         "population": 88853
     },
     "3453546": {
@@ -2385,10 +2202,9 @@
         "long": {
             "default": "Pirapora"
         },
+        "parent": 3457153,
         "lat": -17.345,
         "lng": -44.94194,
-        "country": "BR",
-        "state": "15",
         "population": 51656
     },
     "3453639": {
@@ -2398,10 +2214,9 @@
         "long": {
             "default": "Pirassununga"
         },
+        "parent": 3448433,
         "lat": -21.99611,
         "lng": -47.42583,
-        "country": "BR",
-        "state": "27",
         "population": 60413
     },
     "3453643": {
@@ -2411,10 +2226,9 @@
         "long": {
             "default": "Piracicaba"
         },
+        "parent": 3448433,
         "lat": -22.72528,
         "lng": -47.64917,
-        "country": "BR",
-        "state": "27",
         "population": 342209
     },
     "3453837": {
@@ -2424,10 +2238,9 @@
         "long": {
             "default": "Pindamonhangaba"
         },
+        "parent": 3448433,
         "lat": -22.92389,
         "lng": -45.46167,
-        "country": "BR",
-        "state": "27",
         "population": 132218
     },
     "3454031": {
@@ -2437,10 +2250,9 @@
         "long": {
             "default": "Petrópolis"
         },
+        "parent": 3451189,
         "lat": -22.505,
         "lng": -43.17861,
-        "country": "BR",
-        "state": "21",
         "population": 272691
     },
     "3454061": {
@@ -2450,10 +2262,9 @@
         "long": {
             "default": "Peruíbe"
         },
+        "parent": 3448433,
         "lat": -24.32,
         "lng": -46.99833,
-        "country": "BR",
-        "state": "27",
         "population": 63030
     },
     "3454235": {
@@ -2463,10 +2274,9 @@
         "long": {
             "default": "Penápolis"
         },
+        "parent": 3448433,
         "lat": -21.41972,
         "lng": -50.0775,
-        "country": "BR",
-        "state": "27",
         "population": 54477
     },
     "3454244": {
@@ -2476,10 +2286,9 @@
         "long": {
             "default": "Pelotas"
         },
+        "parent": 3451133,
         "lat": -31.77194,
         "lng": -52.3425,
-        "country": "BR",
-        "state": "23",
         "population": 320674
     },
     "3454690": {
@@ -2489,10 +2298,9 @@
         "long": {
             "default": "Paulínia"
         },
+        "parent": 3448433,
         "lat": -22.76111,
         "lng": -47.15417,
-        "country": "BR",
-        "state": "27",
         "population": 65595
     },
     "3454763": {
@@ -2502,10 +2310,9 @@
         "long": {
             "default": "Patrocínio"
         },
+        "parent": 3457153,
         "lat": -18.94389,
         "lng": -46.9925,
-        "country": "BR",
-        "state": "15",
         "population": 71963
     },
     "3454783": {
@@ -2515,10 +2322,9 @@
         "long": {
             "default": "Patos de Minas"
         },
+        "parent": 3457153,
         "lat": -18.57889,
         "lng": -46.51806,
-        "country": "BR",
-        "state": "15",
         "population": 126234
     },
     "3454818": {
@@ -2528,10 +2334,9 @@
         "long": {
             "default": "Pato Branco"
         },
+        "parent": 3455077,
         "lat": -26.22861,
         "lng": -52.67056,
-        "country": "BR",
-        "state": "18",
         "population": 65754
     },
     "3454847": {
@@ -2541,10 +2346,9 @@
         "long": {
             "default": "Passos"
         },
+        "parent": 3457153,
         "lat": -20.71889,
         "lng": -46.60972,
-        "country": "BR",
-        "state": "15",
         "population": 98752
     },
     "3454857": {
@@ -2554,10 +2358,9 @@
         "long": {
             "default": "Passo Fundo"
         },
+        "parent": 3451133,
         "lat": -28.26278,
         "lng": -52.40667,
-        "country": "BR",
-        "state": "23",
         "population": 179529
     },
     "3455051": {
@@ -2567,10 +2370,9 @@
         "long": {
             "default": "Paranavaí"
         },
+        "parent": 3455077,
         "lat": -23.07306,
         "lng": -52.46528,
-        "country": "BR",
-        "state": "18",
         "population": 72848
     },
     "3455070": {
@@ -2580,10 +2382,9 @@
         "long": {
             "default": "Paranaguá"
         },
+        "parent": 3455077,
         "lat": -25.51626,
         "lng": -48.52537,
-        "country": "BR",
-        "state": "18",
         "population": 141013
     },
     "3455161": {
@@ -2593,10 +2394,9 @@
         "long": {
             "default": "Pará de Minas"
         },
+        "parent": 3457153,
         "lat": -19.86028,
         "lng": -44.60833,
-        "country": "BR",
-        "state": "15",
         "population": 75786
     },
     "3455168": {
@@ -2606,10 +2406,9 @@
         "long": {
             "default": "Paracatu"
         },
+        "parent": 3457153,
         "lat": -17.22222,
         "lng": -46.87472,
-        "country": "BR",
-        "state": "15",
         "population": 70753
     },
     "3455478": {
@@ -2619,10 +2418,9 @@
         "long": {
             "default": "Palhoça"
         },
+        "parent": 3450387,
         "lat": -27.64528,
         "lng": -48.66778,
-        "country": "BR",
-        "state": "26",
         "population": 122423
     },
     "3455671": {
@@ -2632,10 +2430,9 @@
         "long": {
             "default": "Ouro Preto"
         },
+        "parent": 3457153,
         "lat": -20.39484,
         "lng": -43.50517,
-        "country": "BR",
-        "state": "15",
         "population": 63678
     },
     "3455729": {
@@ -2645,10 +2442,9 @@
         "long": {
             "default": "Ourinhos"
         },
+        "parent": 3448433,
         "lat": -22.97889,
         "lng": -49.87056,
-        "country": "BR",
-        "state": "27",
         "population": 97799
     },
     "3455775": {
@@ -2658,10 +2454,9 @@
         "long": {
             "default": "Osasco"
         },
+        "parent": 3448433,
         "lat": -23.5325,
         "lng": -46.79167,
-        "country": "BR",
-        "state": "27",
         "population": 677856
     },
     "3456068": {
@@ -2671,10 +2466,9 @@
         "long": {
             "default": "Novo Hamburgo"
         },
+        "parent": 3451133,
         "lat": -29.67833,
         "lng": -51.13056,
-        "country": "BR",
-        "state": "23",
         "population": 253841
     },
     "3456102": {
@@ -2684,10 +2478,9 @@
         "long": {
             "default": "Nova Viçosa"
         },
+        "parent": 3471168,
         "lat": -17.89194,
         "lng": -39.37194,
-        "country": "BR",
-        "state": "05",
         "population": 55980
     },
     "3456147": {
@@ -2697,10 +2490,9 @@
         "long": {
             "default": "Nova Lima"
         },
+        "parent": 3457153,
         "lat": -19.98556,
         "lng": -43.84667,
-        "country": "BR",
-        "state": "15",
         "population": 88399
     },
     "3456160": {
@@ -2710,10 +2502,9 @@
         "long": {
             "default": "Nova Iguaçu"
         },
+        "parent": 3451189,
         "lat": -22.75917,
         "lng": -43.45111,
-        "country": "BR",
-        "state": "21",
         "population": 1002118
     },
     "3456166": {
@@ -2723,10 +2514,9 @@
         "long": {
             "default": "Nova Friburgo"
         },
+        "parent": 3451189,
         "lat": -22.28194,
         "lng": -42.53111,
-        "country": "BR",
-        "state": "21",
         "population": 153361
     },
     "3456223": {
@@ -2736,10 +2526,9 @@
         "long": {
             "default": "Nossa Senhora do Socorro"
         },
+        "parent": 3447799,
         "lat": -10.855,
         "lng": -37.12611,
-        "country": "BR",
-        "state": "28",
         "population": 163993
     },
     "3456283": {
@@ -2749,10 +2538,9 @@
         "long": {
             "default": "Niterói"
         },
+        "parent": 3451189,
         "lat": -22.88333,
         "lng": -43.10361,
-        "country": "BR",
-        "state": "21",
         "population": 456456
     },
     "3456290": {
@@ -2762,10 +2550,9 @@
         "long": {
             "default": "Nilópolis"
         },
+        "parent": 3451189,
         "lat": -22.8075,
         "lng": -43.41389,
-        "country": "BR",
-        "state": "21",
         "population": 147281
     },
     "3456500": {
@@ -2775,10 +2562,9 @@
         "long": {
             "default": "Muriaé"
         },
+        "parent": 3457153,
         "lat": -21.13056,
         "lng": -42.36639,
-        "country": "BR",
-        "state": "15",
         "population": 91173
     },
     "3456814": {
@@ -2788,10 +2574,9 @@
         "long": {
             "default": "Montes Claros"
         },
+        "parent": 3457153,
         "lat": -16.735,
         "lng": -43.86167,
-        "country": "BR",
-        "state": "15",
         "population": 332379
     },
     "3456826": {
@@ -2801,10 +2586,9 @@
         "long": {
             "default": "Montenegro"
         },
+        "parent": 3451133,
         "lat": -29.68861,
         "lng": -51.46111,
-        "country": "BR",
-        "state": "23",
         "population": 54057
     },
     "3456998": {
@@ -2814,10 +2598,9 @@
         "long": {
             "default": "Mogi Mirim"
         },
+        "parent": 3448433,
         "lat": -22.43194,
         "lng": -46.95778,
-        "country": "BR",
-        "state": "27",
         "population": 78244
     },
     "3457000": {
@@ -2827,10 +2610,9 @@
         "long": {
             "default": "Mogi-Gaucu"
         },
+        "parent": 3448433,
         "lat": -22.3677,
         "lng": -46.94552,
-        "country": "BR",
-        "state": "27",
         "population": 128865
     },
     "3457001": {
@@ -2840,10 +2622,9 @@
         "long": {
             "default": "Mogi das Cruzes"
         },
+        "parent": 3448433,
         "lat": -23.52278,
         "lng": -46.18833,
-        "country": "BR",
-        "state": "27",
         "population": 325746
     },
     "3457025": {
@@ -2853,10 +2634,9 @@
         "long": {
             "default": "Mococa"
         },
+        "parent": 3448433,
         "lat": -21.46778,
         "lng": -47.00472,
-        "country": "BR",
-        "state": "27",
         "population": 59654
     },
     "3457381": {
@@ -2866,10 +2646,9 @@
         "long": {
             "default": "Mauá"
         },
+        "parent": 3448433,
         "lat": -23.66778,
         "lng": -46.46139,
-        "country": "BR",
-        "state": "27",
         "population": 386069
     },
     "3457509": {
@@ -2879,10 +2658,9 @@
         "long": {
             "default": "Matão"
         },
+        "parent": 3448433,
         "lat": -21.60333,
         "lng": -48.36583,
-        "country": "BR",
-        "state": "27",
         "population": 72468
     },
     "3457671": {
@@ -2892,10 +2670,9 @@
         "long": {
             "default": "Maringá"
         },
+        "parent": 3455077,
         "lat": -23.42528,
         "lng": -51.93861,
-        "country": "BR",
-        "state": "18",
         "population": 311724
     },
     "3457692": {
@@ -2905,10 +2682,9 @@
         "long": {
             "default": "Marília"
         },
+        "parent": 3448433,
         "lat": -22.21389,
         "lng": -49.94583,
-        "country": "BR",
-        "state": "27",
         "population": 212218
     },
     "3457708": {
@@ -2918,10 +2694,9 @@
         "long": {
             "default": "Maricá"
         },
+        "parent": 3451189,
         "lat": -22.91944,
         "lng": -42.81861,
-        "country": "BR",
-        "state": "21",
         "population": 79551
     },
     "3457952": {
@@ -2931,10 +2706,9 @@
         "long": {
             "default": "Manhuaçu"
         },
+        "parent": 3457153,
         "lat": -20.25806,
         "lng": -42.03361,
-        "country": "BR",
-        "state": "15",
         "population": 54607
     },
     "3458131": {
@@ -2944,10 +2718,9 @@
         "long": {
             "default": "Mairiporã"
         },
+        "parent": 3448433,
         "lat": -23.31861,
         "lng": -46.58667,
-        "country": "BR",
-        "state": "27",
         "population": 54415
     },
     "3458266": {
@@ -2957,10 +2730,9 @@
         "long": {
             "default": "Macaé"
         },
+        "parent": 3451189,
         "lat": -22.37083,
         "lng": -41.78694,
-        "country": "BR",
-        "state": "21",
         "population": 143029
     },
     "3458329": {
@@ -2970,10 +2742,9 @@
         "long": {
             "default": "Luziânia"
         },
+        "parent": 3462372,
         "lat": -16.2525,
         "lng": -47.95028,
-        "country": "BR",
-        "state": "29",
         "population": 143601
     },
     "3458425": {
@@ -2983,10 +2754,9 @@
         "long": {
             "default": "Lorena"
         },
+        "parent": 3448433,
         "lat": -22.73083,
         "lng": -45.12472,
-        "country": "BR",
-        "state": "27",
         "population": 76506
     },
     "3458449": {
@@ -2996,10 +2766,9 @@
         "long": {
             "default": "Londrina"
         },
+        "parent": 3455077,
         "lat": -23.31028,
         "lng": -51.16278,
-        "country": "BR",
-        "state": "18",
         "population": 471832
     },
     "3458494": {
@@ -3009,10 +2778,9 @@
         "long": {
             "default": "Lins"
         },
+        "parent": 3448433,
         "lat": -21.67861,
         "lng": -49.7425,
-        "country": "BR",
-        "state": "27",
         "population": 69451
     },
     "3458498": {
@@ -3022,10 +2790,9 @@
         "long": {
             "default": "Linhares"
         },
+        "parent": 3463930,
         "lat": -19.39111,
         "lng": -40.07222,
-        "country": "BR",
-        "state": "08",
         "population": 105075
     },
     "3458575": {
@@ -3035,10 +2802,9 @@
         "long": {
             "default": "Limeira"
         },
+        "parent": 3448433,
         "lat": -22.56472,
         "lng": -47.40167,
-        "country": "BR",
-        "state": "27",
         "population": 289665
     },
     "3458645": {
@@ -3048,10 +2814,9 @@
         "long": {
             "default": "Lençóis Paulista"
         },
+        "parent": 3448433,
         "lat": -22.59861,
         "lng": -48.80028,
-        "country": "BR",
-        "state": "27",
         "population": 57375
     },
     "3458662": {
@@ -3061,10 +2826,9 @@
         "long": {
             "default": "Leme"
         },
+        "parent": 3448433,
         "lat": -22.18556,
         "lng": -47.39028,
-        "country": "BR",
-        "state": "27",
         "population": 81209
     },
     "3458696": {
@@ -3074,10 +2838,9 @@
         "long": {
             "default": "Lavras"
         },
+        "parent": 3457153,
         "lat": -21.24528,
         "lng": -44.99972,
-        "country": "BR",
-        "state": "15",
         "population": 81472
     },
     "3458930": {
@@ -3087,10 +2850,9 @@
         "long": {
             "default": "Lages"
         },
+        "parent": 3450387,
         "lat": -27.81611,
         "lng": -50.32611,
-        "country": "BR",
-        "state": "26",
         "population": 164676
     },
     "3459035": {
@@ -3100,10 +2862,9 @@
         "long": {
             "default": "Lajeado"
         },
+        "parent": 3451133,
         "lat": -29.46694,
         "lng": -51.96139,
-        "country": "BR",
-        "state": "23",
         "population": 65407
     },
     "3459462": {
@@ -3113,10 +2874,9 @@
         "long": {
             "default": "Jundiaí"
         },
+        "parent": 3448433,
         "lat": -23.18639,
         "lng": -46.88417,
-        "country": "BR",
-        "state": "27",
         "population": 321589
     },
     "3459505": {
@@ -3126,10 +2886,9 @@
         "long": {
             "default": "Juiz de Fora"
         },
+        "parent": 3457153,
         "lat": -21.76417,
         "lng": -43.35028,
-        "country": "BR",
-        "state": "15",
         "population": 470193
     },
     "3459712": {
@@ -3139,10 +2898,9 @@
         "long": {
             "default": "Joinville"
         },
+        "parent": 3450387,
         "lat": -26.30444,
         "lng": -48.84556,
-        "country": "BR",
-        "state": "26",
         "population": 461304
     },
     "3459796": {
@@ -3152,10 +2910,9 @@
         "long": {
             "default": "João Monlevade"
         },
+        "parent": 3457153,
         "lat": -19.81,
         "lng": -43.17361,
-        "country": "BR",
-        "state": "15",
         "population": 72762
     },
     "3459943": {
@@ -3165,10 +2922,9 @@
         "long": {
             "default": "Jequié"
         },
+        "parent": 3471168,
         "lat": -13.85875,
         "lng": -40.08512,
-        "country": "BR",
-        "state": "05",
         "population": 127475
     },
     "3460005": {
@@ -3178,10 +2934,9 @@
         "long": {
             "default": "Jaú"
         },
+        "parent": 3448433,
         "lat": -22.29639,
         "lng": -48.55778,
-        "country": "BR",
-        "state": "27",
         "population": 119206
     },
     "3460064": {
@@ -3191,10 +2946,9 @@
         "long": {
             "default": "Jataí"
         },
+        "parent": 3462372,
         "lat": -17.87939,
         "lng": -51.72166,
-        "country": "BR",
-        "state": "29",
         "population": 76547
     },
     "3460102": {
@@ -3204,10 +2958,9 @@
         "long": {
             "default": "Jaraguá do Sul"
         },
+        "parent": 3450387,
         "lat": -26.48611,
         "lng": -49.06667,
-        "country": "BR",
-        "state": "26",
         "population": 130130
     },
     "3460132": {
@@ -3217,10 +2970,9 @@
         "long": {
             "default": "Japeri"
         },
+        "parent": 3451189,
         "lat": -22.64306,
         "lng": -43.65333,
-        "country": "BR",
-        "state": "21",
         "population": 95101
     },
     "3460170": {
@@ -3230,10 +2982,9 @@
         "long": {
             "default": "Jandira"
         },
+        "parent": 3448433,
         "lat": -23.5275,
         "lng": -46.9025,
-        "country": "BR",
-        "state": "27",
         "population": 113605
     },
     "3460174": {
@@ -3243,10 +2994,9 @@
         "long": {
             "default": "Janaúba"
         },
+        "parent": 3457153,
         "lat": -15.8025,
         "lng": -43.30889,
-        "country": "BR",
-        "state": "15",
         "population": 56572
     },
     "3460370": {
@@ -3256,10 +3006,9 @@
         "long": {
             "default": "Jacareí"
         },
+        "parent": 3448433,
         "lat": -23.30528,
         "lng": -45.96583,
-        "country": "BR",
-        "state": "27",
         "population": 213110
     },
     "3460441": {
@@ -3269,10 +3018,9 @@
         "long": {
             "default": "Jaboticabal"
         },
+        "parent": 3448433,
         "lat": -21.25472,
         "lng": -48.32222,
-        "country": "BR",
-        "state": "27",
         "population": 69394
     },
     "3460522": {
@@ -3282,10 +3030,9 @@
         "long": {
             "default": "Itumbiara"
         },
+        "parent": 3462372,
         "lat": -18.41917,
         "lng": -49.21528,
-        "country": "BR",
-        "state": "29",
         "population": 79582
     },
     "3460523": {
@@ -3295,10 +3042,9 @@
         "long": {
             "default": "Ituiutaba"
         },
+        "parent": 3457153,
         "lat": -18.97428,
         "lng": -49.46212,
-        "country": "BR",
-        "state": "15",
         "population": 85345
     },
     "3460535": {
@@ -3308,10 +3054,9 @@
         "long": {
             "default": "Itu"
         },
+        "parent": 3448433,
         "lat": -23.26417,
         "lng": -47.29917,
-        "country": "BR",
-        "state": "27",
         "population": 137586
     },
     "3460584": {
@@ -3321,10 +3066,9 @@
         "long": {
             "default": "Itaúna"
         },
+        "parent": 3457153,
         "lat": -20.07528,
         "lng": -44.57639,
-        "country": "BR",
-        "state": "15",
         "population": 77400
     },
     "3460598": {
@@ -3334,10 +3078,9 @@
         "long": {
             "default": "Itatiba"
         },
+        "parent": 3448433,
         "lat": -23.00583,
         "lng": -46.83889,
-        "country": "BR",
-        "state": "27",
         "population": 67934
     },
     "3460644": {
@@ -3347,10 +3090,9 @@
         "long": {
             "default": "Itaquaquecetuba"
         },
+        "parent": 3448433,
         "lat": -23.48611,
         "lng": -46.34833,
-        "country": "BR",
-        "state": "27",
         "population": 336679
     },
     "3460699": {
@@ -3360,10 +3102,9 @@
         "long": {
             "default": "Itapira"
         },
+        "parent": 3448433,
         "lat": -22.43611,
         "lng": -46.82167,
-        "country": "BR",
-        "state": "27",
         "population": 61607
     },
     "3460718": {
@@ -3373,10 +3114,9 @@
         "long": {
             "default": "Itapevi"
         },
+        "parent": 3448433,
         "lat": -23.54889,
         "lng": -46.93417,
-        "country": "BR",
-        "state": "27",
         "population": 201748
     },
     "3460723": {
@@ -3386,10 +3126,9 @@
         "long": {
             "default": "Itapeva"
         },
+        "parent": 3448433,
         "lat": -23.98222,
         "lng": -48.87556,
-        "country": "BR",
-        "state": "27",
         "population": 62957
     },
     "3460728": {
@@ -3399,10 +3138,9 @@
         "long": {
             "default": "Itapetininga"
         },
+        "parent": 3448433,
         "lat": -23.59167,
         "lng": -48.05306,
-        "country": "BR",
-        "state": "27",
         "population": 126243
     },
     "3460730": {
@@ -3412,10 +3150,9 @@
         "long": {
             "default": "Itapetinga"
         },
+        "parent": 3471168,
         "lat": -15.24889,
         "lng": -40.24778,
-        "country": "BR",
-        "state": "05",
         "population": 59721
     },
     "3460733": {
@@ -3425,10 +3162,9 @@
         "long": {
             "default": "Itaperuna"
         },
+        "parent": 3451189,
         "lat": -21.205,
         "lng": -41.88778,
-        "country": "BR",
-        "state": "21",
         "population": 84435
     },
     "3460748": {
@@ -3438,10 +3174,9 @@
         "long": {
             "default": "Itapecerica da Serra"
         },
+        "parent": 3448433,
         "lat": -23.71694,
         "lng": -46.84917,
-        "country": "BR",
-        "state": "27",
         "population": 151605
     },
     "3460791": {
@@ -3451,10 +3186,9 @@
         "long": {
             "default": "Itanhaém"
         },
+        "parent": 3448433,
         "lat": -24.18306,
         "lng": -46.78889,
-        "country": "BR",
-        "state": "27",
         "population": 90385
     },
     "3460834": {
@@ -3464,10 +3198,9 @@
         "long": {
             "default": "Itajubá"
         },
+        "parent": 3457153,
         "lat": -22.42556,
         "lng": -45.45278,
-        "country": "BR",
-        "state": "15",
         "population": 81870
     },
     "3460845": {
@@ -3477,10 +3210,9 @@
         "long": {
             "default": "Itajaí"
         },
+        "parent": 3450387,
         "lat": -26.90778,
         "lng": -48.66194,
-        "country": "BR",
-        "state": "26",
         "population": 155716
     },
     "3460899": {
@@ -3490,10 +3222,9 @@
         "long": {
             "default": "Itaguaí"
         },
+        "parent": 3451189,
         "lat": -22.85222,
         "lng": -43.77528,
-        "country": "BR",
-        "state": "21",
         "population": 100752
     },
     "3460949": {
@@ -3503,10 +3234,9 @@
         "long": {
             "default": "Itabuna"
         },
+        "parent": 3471168,
         "lat": -14.78556,
         "lng": -39.28028,
-        "country": "BR",
-        "state": "05",
         "population": 205660
     },
     "3460950": {
@@ -3516,10 +3246,9 @@
         "long": {
             "default": "Itaboraí"
         },
+        "parent": 3451189,
         "lat": -22.74444,
         "lng": -42.85944,
-        "country": "BR",
-        "state": "21",
         "population": 182498
     },
     "3460960": {
@@ -3529,10 +3258,9 @@
         "long": {
             "default": "Itabira"
         },
+        "parent": 3457153,
         "lat": -19.61917,
         "lng": -43.22694,
-        "country": "BR",
-        "state": "15",
         "population": 99496
     },
     "3460974": {
@@ -3542,10 +3270,9 @@
         "long": {
             "default": "Itabaiana"
         },
+        "parent": 3447799,
         "lat": -10.685,
         "lng": -37.42528,
-        "country": "BR",
-        "state": "28",
         "population": 63888
     },
     "3461013": {
@@ -3555,10 +3282,9 @@
         "long": {
             "default": "Irecê"
         },
+        "parent": 3471168,
         "lat": -11.30417,
         "lng": -41.85583,
-        "country": "BR",
-        "state": "05",
         "population": 63626
     },
     "3461144": {
@@ -3568,10 +3294,9 @@
         "long": {
             "default": "Ipatinga"
         },
+        "parent": 3457153,
         "lat": -19.46833,
         "lng": -42.53667,
-        "country": "BR",
-        "state": "15",
         "population": 228746
     },
     "3461311": {
@@ -3581,10 +3306,9 @@
         "long": {
             "default": "Indaiatuba"
         },
+        "parent": 3448433,
         "lat": -23.08842,
         "lng": -47.2119,
-        "country": "BR",
-        "state": "27",
         "population": 179911
     },
     "3461408": {
@@ -3594,10 +3318,9 @@
         "long": {
             "default": "Ilhéus"
         },
+        "parent": 3471168,
         "lat": -14.79364,
         "lng": -39.03949,
-        "country": "BR",
-        "state": "05",
         "population": 155499
     },
     "3461444": {
@@ -3607,10 +3330,9 @@
         "long": {
             "default": "Ijuí"
         },
+        "parent": 3451133,
         "lat": -28.38778,
         "lng": -53.91472,
-        "country": "BR",
-        "state": "23",
         "population": 71202
     },
     "3461519": {
@@ -3620,10 +3342,9 @@
         "long": {
             "default": "Içara"
         },
+        "parent": 3450387,
         "lat": -28.71333,
         "lng": -49.3,
-        "country": "BR",
-        "state": "26",
         "population": 51454
     },
     "3461563": {
@@ -3633,10 +3354,9 @@
         "long": {
             "default": "Ibirité"
         },
+        "parent": 3457153,
         "lat": -20.02194,
         "lng": -44.05889,
-        "country": "BR",
-        "state": "15",
         "population": 141374
     },
     "3461655": {
@@ -3646,10 +3366,9 @@
         "long": {
             "default": "Hortolândia"
         },
+        "parent": 3448433,
         "lat": -22.85833,
         "lng": -47.22,
-        "country": "BR",
-        "state": "27",
         "population": 203533
     },
     "3461724": {
@@ -3659,10 +3378,9 @@
         "long": {
             "default": "Gurupi"
         },
+        "parent": 3474575,
         "lat": -11.72917,
         "lng": -49.06861,
-        "country": "BR",
-        "state": "31",
         "population": 64789
     },
     "3461786": {
@@ -3672,10 +3390,9 @@
         "long": {
             "default": "Guarulhos"
         },
+        "parent": 3448433,
         "lat": -23.46278,
         "lng": -46.53333,
-        "country": "BR",
-        "state": "27",
         "population": 1169577
     },
     "3461789": {
@@ -3685,10 +3402,9 @@
         "long": {
             "default": "Guarujá"
         },
+        "parent": 3448433,
         "lat": -23.99306,
         "lng": -46.25639,
-        "country": "BR",
-        "state": "27",
         "population": 310424
     },
     "3461859": {
@@ -3698,10 +3414,9 @@
         "long": {
             "default": "Guaratinguetá"
         },
+        "parent": 3448433,
         "lat": -22.81639,
         "lng": -45.1925,
-        "country": "BR",
-        "state": "27",
         "population": 105880
     },
     "3461879": {
@@ -3711,10 +3426,9 @@
         "long": {
             "default": "Guarapuava"
         },
+        "parent": 3455077,
         "lat": -25.39048,
         "lng": -51.46541,
-        "country": "BR",
-        "state": "18",
         "population": 150850
     },
     "3461888": {
@@ -3724,10 +3438,9 @@
         "long": {
             "default": "Guarapari"
         },
+        "parent": 3463930,
         "lat": -20.65367,
         "lng": -40.50204,
-        "country": "BR",
-        "state": "08",
         "population": 100925
     },
     "3461973": {
@@ -3737,10 +3450,9 @@
         "long": {
             "default": "Guanambi"
         },
+        "parent": 3471168,
         "lat": -14.22333,
         "lng": -42.78139,
-        "country": "BR",
-        "state": "05",
         "population": 58877
     },
     "3462089": {
@@ -3750,10 +3462,9 @@
         "long": {
             "default": "Gravataí"
         },
+        "parent": 3451133,
         "lat": -29.94218,
         "lng": -50.99278,
-        "country": "BR",
-        "state": "23",
         "population": 238778
     },
     "3462315": {
@@ -3763,10 +3474,9 @@
         "long": {
             "default": "Governador Valadares"
         },
+        "parent": 3457153,
         "lat": -18.85111,
         "lng": -41.94944,
-        "country": "BR",
-        "state": "15",
         "population": 250878
     },
     "3462377": {
@@ -3776,10 +3486,9 @@
         "long": {
             "default": "Goiânia"
         },
+        "parent": 3462372,
         "lat": -16.67861,
         "lng": -49.25389,
-        "country": "BR",
-        "state": "29",
         "population": 1171195
     },
     "3462964": {
@@ -3789,10 +3498,9 @@
         "long": {
             "default": "Franco da Rocha"
         },
+        "parent": 3448433,
         "lat": -23.32167,
         "lng": -46.72694,
-        "country": "BR",
-        "state": "27",
         "population": 108858
     },
     "3462980": {
@@ -3802,10 +3510,9 @@
         "long": {
             "default": "Francisco Morato"
         },
+        "parent": 3448433,
         "lat": -23.28167,
         "lng": -46.74528,
-        "country": "BR",
-        "state": "27",
         "population": 171790
     },
     "3462996": {
@@ -3815,10 +3522,9 @@
         "long": {
             "default": "Francisco Beltrão"
         },
+        "parent": 3455077,
         "lat": -26.08111,
         "lng": -53.055,
-        "country": "BR",
-        "state": "18",
         "population": 57618
     },
     "3463011": {
@@ -3828,10 +3534,9 @@
         "long": {
             "default": "Franca"
         },
+        "parent": 3448433,
         "lat": -20.53861,
         "lng": -47.40083,
-        "country": "BR",
-        "state": "27",
         "population": 305041
     },
     "3463030": {
@@ -3841,10 +3546,9 @@
         "long": {
             "default": "Foz do Iguaçu"
         },
+        "parent": 3455077,
         "lat": -25.54778,
         "lng": -54.58806,
-        "country": "BR",
-        "state": "18",
         "population": 293523
     },
     "3463140": {
@@ -3854,10 +3558,9 @@
         "long": {
             "default": "Formosa"
         },
+        "parent": 3462372,
         "lat": -15.53722,
         "lng": -47.33444,
-        "country": "BR",
-        "state": "29",
         "population": 81232
     },
     "3463174": {
@@ -3867,10 +3570,9 @@
         "long": {
             "default": "Formiga"
         },
+        "parent": 3457153,
         "lat": -20.46444,
         "lng": -45.42639,
-        "country": "BR",
-        "state": "15",
         "population": 56404
     },
     "3463237": {
@@ -3880,10 +3582,9 @@
         "long": {
             "default": "Florianópolis"
         },
+        "parent": 3450387,
         "lat": -27.59667,
         "lng": -48.54917,
-        "country": "BR",
-        "state": "26",
         "population": 412724
     },
     "3463422": {
@@ -3893,10 +3594,9 @@
         "long": {
             "default": "Ferraz de Vasconcelos"
         },
+        "parent": 3448433,
         "lat": -23.54083,
         "lng": -46.36861,
-        "country": "BR",
-        "state": "27",
         "population": 167900
     },
     "3463432": {
@@ -3906,10 +3606,9 @@
         "long": {
             "default": "Fernandópolis"
         },
+        "parent": 3448433,
         "lat": -20.28389,
         "lng": -50.24639,
-        "country": "BR",
-        "state": "27",
         "population": 61931
     },
     "3463478": {
@@ -3919,10 +3618,9 @@
         "long": {
             "default": "Feira de Santana"
         },
+        "parent": 3471168,
         "lat": -12.26667,
         "lng": -38.96667,
-        "country": "BR",
-        "state": "05",
         "population": 481911
     },
     "3463605": {
@@ -3932,10 +3630,9 @@
         "long": {
             "default": "Farroupilha"
         },
+        "parent": 3451133,
         "lat": -29.225,
         "lng": -51.34778,
-        "country": "BR",
-        "state": "23",
         "population": 57650
     },
     "3463859": {
@@ -3945,10 +3642,9 @@
         "long": {
             "default": "Esteio"
         },
+        "parent": 3451133,
         "lat": -29.86139,
         "lng": -51.17917,
-        "country": "BR",
-        "state": "23",
         "population": 84902
     },
     "3463900": {
@@ -3958,10 +3654,9 @@
         "long": {
             "default": "Estância"
         },
+        "parent": 3447799,
         "lat": -11.26833,
         "lng": -37.43833,
-        "country": "BR",
-        "state": "28",
         "population": 55654
     },
     "3464008": {
@@ -3971,10 +3666,9 @@
         "long": {
             "default": "Esmeraldas"
         },
+        "parent": 3457153,
         "lat": -19.7625,
         "lng": -44.31389,
-        "country": "BR",
-        "state": "15",
         "population": 103206
     },
     "3464073": {
@@ -3984,10 +3678,9 @@
         "long": {
             "default": "Erechim"
         },
+        "parent": 3451133,
         "lat": -27.63461,
         "lng": -52.2754,
-        "country": "BR",
-        "state": "23",
         "population": 96087
     },
     "3464304": {
@@ -3997,10 +3690,9 @@
         "long": {
             "default": "Embu Guaçu"
         },
+        "parent": 3448433,
         "lat": -23.83222,
         "lng": -46.81139,
-        "country": "BR",
-        "state": "27",
         "population": 76310
     },
     "3464305": {
@@ -4010,10 +3702,9 @@
         "long": {
             "default": "Embu"
         },
+        "parent": 3448433,
         "lat": -23.64889,
         "lng": -46.85222,
-        "country": "BR",
-        "state": "27",
         "population": 221733
     },
     "3464374": {
@@ -4023,10 +3714,9 @@
         "long": {
             "default": "Duque de Caxias"
         },
+        "parent": 3451189,
         "lat": -22.78556,
         "lng": -43.31167,
-        "country": "BR",
-        "state": "21",
         "population": 818329
     },
     "3464460": {
@@ -4036,10 +3726,9 @@
         "long": {
             "default": "Dourados"
         },
+        "parent": 3457415,
         "lat": -22.22111,
         "lng": -54.80556,
-        "country": "BR",
-        "state": "11",
         "population": 162202
     },
     "3464688": {
@@ -4049,10 +3738,9 @@
         "long": {
             "default": "Divinópolis"
         },
+        "parent": 3457153,
         "lat": -20.14355,
         "lng": -44.89065,
-        "country": "BR",
-        "state": "15",
         "population": 193832
     },
     "3464739": {
@@ -4062,10 +3750,9 @@
         "long": {
             "default": "Diadema"
         },
+        "parent": 3448433,
         "lat": -23.68611,
         "lng": -46.62278,
-        "country": "BR",
-        "state": "27",
         "population": 390633
     },
     "3464891": {
@@ -4075,10 +3762,9 @@
         "long": {
             "default": "Curvelo"
         },
+        "parent": 3457153,
         "lat": -18.75639,
         "lng": -44.43083,
-        "country": "BR",
-        "state": "15",
         "population": 63954
     },
     "3464975": {
@@ -4088,10 +3774,9 @@
         "long": {
             "default": "Curitiba"
         },
+        "parent": 3455077,
         "lat": -25.42778,
         "lng": -49.27306,
-        "country": "BR",
-        "state": "18",
         "population": 1718421
     },
     "3465038": {
@@ -4101,10 +3786,9 @@
         "long": {
             "default": "Cuiabá"
         },
+        "parent": 3457419,
         "lat": -15.59611,
         "lng": -56.09667,
-        "country": "BR",
-        "state": "14",
         "population": 521934
     },
     "3465059": {
@@ -4114,10 +3798,9 @@
         "long": {
             "default": "Cubatão"
         },
+        "parent": 3448433,
         "lat": -23.895,
         "lng": -46.42528,
-        "country": "BR",
-        "state": "27",
         "population": 118410
     },
     "3465090": {
@@ -4127,10 +3810,9 @@
         "long": {
             "default": "Cruzeiro"
         },
+        "parent": 3448433,
         "lat": -22.57316,
         "lng": -44.97108,
-        "country": "BR",
-        "state": "27",
         "population": 72022
     },
     "3465108": {
@@ -4140,10 +3822,9 @@
         "long": {
             "default": "Cruz Alta"
         },
+        "parent": 3451133,
         "lat": -28.63861,
         "lng": -53.60639,
-        "country": "BR",
-        "state": "23",
         "population": 65275
     },
     "3465196": {
@@ -4153,10 +3834,9 @@
         "long": {
             "default": "Criciúma"
         },
+        "parent": 3450387,
         "lat": -28.6775,
         "lng": -49.36972,
-        "country": "BR",
-        "state": "26",
         "population": 161954
     },
     "3465284": {
@@ -4166,10 +3846,9 @@
         "long": {
             "default": "Cotia"
         },
+        "parent": 3448433,
         "lat": -23.60389,
         "lng": -46.91917,
-        "country": "BR",
-        "state": "27",
         "population": 174828
     },
     "3465342": {
@@ -4179,10 +3858,9 @@
         "long": {
             "default": "Corumbá"
         },
+        "parent": 3457415,
         "lat": -19.00917,
         "lng": -57.65333,
-        "country": "BR",
-        "state": "11",
         "population": 96520
     },
     "3465476": {
@@ -4192,10 +3870,9 @@
         "long": {
             "default": "Coronel Fabriciano"
         },
+        "parent": 3457153,
         "lat": -19.51861,
         "lng": -42.62889,
-        "country": "BR",
-        "state": "15",
         "population": 100916
     },
     "3465624": {
@@ -4205,10 +3882,9 @@
         "long": {
             "default": "Contagem"
         },
+        "parent": 3457153,
         "lat": -19.93167,
         "lng": -44.05361,
-        "country": "BR",
-        "state": "15",
         "population": 627123
     },
     "3465644": {
@@ -4218,10 +3894,9 @@
         "long": {
             "default": "Conselheiro Lafaiete"
         },
+        "parent": 3457153,
         "lat": -20.66028,
         "lng": -43.78611,
-        "country": "BR",
-        "state": "15",
         "population": 111596
     },
     "3465721": {
@@ -4231,10 +3906,9 @@
         "long": {
             "default": "Concórdia"
         },
+        "parent": 3450387,
         "lat": -27.23417,
         "lng": -52.02778,
-        "country": "BR",
-        "state": "26",
         "population": 55367
     },
     "3465927": {
@@ -4244,10 +3918,9 @@
         "long": {
             "default": "Colombo"
         },
+        "parent": 3455077,
         "lat": -25.29167,
         "lng": -49.22417,
-        "country": "BR",
-        "state": "18",
         "population": 217000
     },
     "3465944": {
@@ -4257,10 +3930,9 @@
         "long": {
             "default": "Colatina"
         },
+        "parent": 3463930,
         "lat": -19.53944,
         "lng": -40.63056,
-        "country": "BR",
-        "state": "08",
         "population": 101190
     },
     "3466174": {
@@ -4270,10 +3942,9 @@
         "long": {
             "default": "Cianorte"
         },
+        "parent": 3455077,
         "lat": -23.66333,
         "lng": -52.605,
-        "country": "BR",
-        "state": "18",
         "population": 55994
     },
     "3466296": {
@@ -4283,10 +3954,9 @@
         "long": {
             "default": "Chapecó"
         },
+        "parent": 3450387,
         "lat": -27.09639,
         "lng": -52.61833,
-        "country": "BR",
-        "state": "26",
         "population": 160157
     },
     "3466537": {
@@ -4296,10 +3966,9 @@
         "long": {
             "default": "Caxias do Sul"
         },
+        "parent": 3451133,
         "lat": -29.16806,
         "lng": -51.17944,
-        "country": "BR",
-        "state": "23",
         "population": 381270
     },
     "3466692": {
@@ -4309,10 +3978,9 @@
         "long": {
             "default": "Catanduva"
         },
+        "parent": 3448433,
         "lat": -21.13778,
         "lng": -48.97278,
-        "country": "BR",
-        "state": "27",
         "population": 109612
     },
     "3466696": {
@@ -4322,10 +3990,9 @@
         "long": {
             "default": "Catalão"
         },
+        "parent": 3462372,
         "lat": -18.16583,
         "lng": -47.94639,
-        "country": "BR",
-        "state": "29",
         "population": 63544
     },
     "3466698": {
@@ -4335,10 +4002,9 @@
         "long": {
             "default": "Cataguases"
         },
+        "parent": 3457153,
         "lat": -21.38917,
         "lng": -42.69667,
-        "country": "BR",
-        "state": "15",
         "population": 62618
     },
     "3466779": {
@@ -4348,10 +4014,9 @@
         "long": {
             "default": "Cascavel"
         },
+        "parent": 3455077,
         "lat": -24.95583,
         "lng": -53.45528,
-        "country": "BR",
-        "state": "18",
         "population": 257172
     },
     "3466978": {
@@ -4361,10 +4026,9 @@
         "long": {
             "default": "Carazinho"
         },
+        "parent": 3451133,
         "lat": -28.28389,
         "lng": -52.78639,
-        "country": "BR",
-        "state": "23",
         "population": 59417
     },
     "3466988": {
@@ -4374,10 +4038,9 @@
         "long": {
             "default": "Caratinga"
         },
+        "parent": 3457153,
         "lat": -19.78972,
         "lng": -42.13917,
-        "country": "BR",
-        "state": "15",
         "population": 60066
     },
     "3466998": {
@@ -4387,10 +4050,9 @@
         "long": {
             "default": "Carapicuíba"
         },
+        "parent": 3448433,
         "lat": -23.52272,
         "lng": -46.835,
-        "country": "BR",
-        "state": "27",
         "population": 361112
     },
     "3467081": {
@@ -4400,10 +4062,9 @@
         "long": {
             "default": "Caraguatatuba"
         },
+        "parent": 3448433,
         "lat": -23.62028,
         "lng": -45.41306,
-        "country": "BR",
-        "state": "27",
         "population": 90843
     },
     "3467467": {
@@ -4413,10 +4074,9 @@
         "long": {
             "default": "Canoas"
         },
+        "parent": 3451133,
         "lat": -29.91778,
         "lng": -51.18361,
-        "country": "BR",
-        "state": "23",
         "population": 328291
     },
     "3467684": {
@@ -4426,10 +4086,9 @@
         "long": {
             "default": "Campos do Jordão"
         },
+        "parent": 3448433,
         "lat": -22.73944,
         "lng": -45.59139,
-        "country": "BR",
-        "state": "27",
         "population": 53319
     },
     "3467693": {
@@ -4439,10 +4098,9 @@
         "long": {
             "default": "Campos"
         },
+        "parent": 3451189,
         "lat": -21.75227,
         "lng": -41.33044,
-        "country": "BR",
-        "state": "21",
         "population": 387417
     },
     "3467717": {
@@ -4452,10 +4110,9 @@
         "long": {
             "default": "Campo Mourão"
         },
+        "parent": 3455077,
         "lat": -24.04309,
         "lng": -52.37929,
-        "country": "BR",
-        "state": "18",
         "population": 75401
     },
     "3467736": {
@@ -4465,10 +4122,9 @@
         "long": {
             "default": "Campo Largo"
         },
+        "parent": 3455077,
         "lat": -25.45955,
         "lng": -49.53014,
-        "country": "BR",
-        "state": "18",
         "population": 94668
     },
     "3467747": {
@@ -4478,10 +4134,9 @@
         "long": {
             "default": "Campo Grande"
         },
+        "parent": 3457415,
         "lat": -20.44278,
         "lng": -54.64639,
-        "country": "BR",
-        "state": "11",
         "population": 729151
     },
     "3467865": {
@@ -4491,10 +4146,9 @@
         "long": {
             "default": "Campinas"
         },
+        "parent": 3448433,
         "lat": -22.90556,
         "lng": -47.06083,
-        "country": "BR",
-        "state": "27",
         "population": 1031554
     },
     "3467978": {
@@ -4504,10 +4158,9 @@
         "long": {
             "default": "Cambé"
         },
+        "parent": 3455077,
         "lat": -23.27583,
         "lng": -51.27833,
-        "country": "BR",
-        "state": "18",
         "population": 91080
     },
     "3468014": {
@@ -4517,10 +4170,9 @@
         "long": {
             "default": "Camaquã"
         },
+        "parent": 3451133,
         "lat": -30.85111,
         "lng": -51.81222,
-        "country": "BR",
-        "state": "23",
         "population": 53169
     },
     "3468031": {
@@ -4530,10 +4182,9 @@
         "long": {
             "default": "Camaçari"
         },
+        "parent": 3471168,
         "lat": -12.6975,
         "lng": -38.32417,
-        "country": "BR",
-        "state": "05",
         "population": 188758
     },
     "3468100": {
@@ -4543,10 +4194,9 @@
         "long": {
             "default": "Caldas Novas"
         },
+        "parent": 3462372,
         "lat": -17.74431,
         "lng": -48.62789,
-        "country": "BR",
-        "state": "29",
         "population": 63675
     },
     "3468158": {
@@ -4556,10 +4206,9 @@
         "long": {
             "default": "Cajamar"
         },
+        "parent": 3448433,
         "lat": -23.35611,
         "lng": -46.87694,
-        "country": "BR",
-        "state": "27",
         "population": 56682
     },
     "3468215": {
@@ -4569,10 +4218,9 @@
         "long": {
             "default": "Caieiras"
         },
+        "parent": 3448433,
         "lat": -23.36417,
         "lng": -46.74056,
-        "country": "BR",
-        "state": "27",
         "population": 87188
     },
     "3468376": {
@@ -4582,10 +4230,9 @@
         "long": {
             "default": "Cachoeiro de Itapemirim"
         },
+        "parent": 3463930,
         "lat": -20.84889,
         "lng": -41.11278,
-        "country": "BR",
-        "state": "08",
         "population": 187019
     },
     "3468403": {
@@ -4595,10 +4242,9 @@
         "long": {
             "default": "Cachoeirinha"
         },
+        "parent": 3451133,
         "lat": -29.95111,
         "lng": -51.09389,
-        "country": "BR",
-        "state": "23",
         "population": 121084
     },
     "3468436": {
@@ -4608,10 +4254,9 @@
         "long": {
             "default": "Cachoeira do Sul"
         },
+        "parent": 3451133,
         "lat": -30.03917,
         "lng": -52.89389,
-        "country": "BR",
-        "state": "23",
         "population": 74694
     },
     "3468562": {
@@ -4621,10 +4266,9 @@
         "long": {
             "default": "Caçapava"
         },
+        "parent": 3448433,
         "lat": -23.10083,
         "lng": -45.70694,
-        "country": "BR",
-        "state": "27",
         "population": 72340
     },
     "3468570": {
@@ -4634,10 +4278,9 @@
         "long": {
             "default": "Caçador"
         },
+        "parent": 3450387,
         "lat": -26.77528,
         "lng": -51.015,
-        "country": "BR",
-        "state": "26",
         "population": 63726
     },
     "3468615": {
@@ -4647,10 +4290,9 @@
         "long": {
             "default": "Cabo Frio"
         },
+        "parent": 3451189,
         "lat": -22.88717,
         "lng": -42.02622,
-        "country": "BR",
-        "state": "21",
         "population": 108239
     },
     "3468879": {
@@ -4660,10 +4302,9 @@
         "long": {
             "default": "Brusque"
         },
+        "parent": 3450387,
         "lat": -27.09795,
         "lng": -48.91281,
-        "country": "BR",
-        "state": "26",
         "population": 88284
     },
     "3469058": {
@@ -4673,10 +4314,9 @@
         "long": {
             "default": "Brasília"
         },
+        "parent": 3463504,
         "lat": -15.77972,
         "lng": -47.92972,
-        "country": "BR",
-        "state": "07",
         "population": 2207718
     },
     "3469092": {
@@ -4686,10 +4326,9 @@
         "long": {
             "default": "Bragança Paulista"
         },
+        "parent": 3448433,
         "lat": -22.9527,
         "lng": -46.54418,
-        "country": "BR",
-        "state": "27",
         "population": 125096
     },
     "3469136": {
@@ -4699,10 +4338,9 @@
         "long": {
             "default": "Botucatu"
         },
+        "parent": 3448433,
         "lat": -22.88583,
         "lng": -48.445,
-        "country": "BR",
-        "state": "27",
         "population": 113862
     },
     "3469968": {
@@ -4712,10 +4350,9 @@
         "long": {
             "default": "Blumenau"
         },
+        "parent": 3450387,
         "lat": -26.91944,
         "lng": -49.06611,
-        "country": "BR",
-        "state": "26",
         "population": 293949
     },
     "3469989": {
@@ -4725,10 +4362,9 @@
         "long": {
             "default": "Birigui"
         },
+        "parent": 3448433,
         "lat": -21.28861,
         "lng": -50.34,
-        "country": "BR",
-        "state": "27",
         "population": 102277
     },
     "3470003": {
@@ -4738,10 +4374,9 @@
         "long": {
             "default": "Biguaçu"
         },
+        "parent": 3450387,
         "lat": -27.49417,
         "lng": -48.65556,
-        "country": "BR",
-        "state": "26",
         "population": 51992
     },
     "3470044": {
@@ -4751,10 +4386,9 @@
         "long": {
             "default": "Betim"
         },
+        "parent": 3457153,
         "lat": -19.96778,
         "lng": -44.19833,
-        "country": "BR",
-        "state": "15",
         "population": 384000
     },
     "3470073": {
@@ -4764,10 +4398,9 @@
         "long": {
             "default": "Bento Gonçalves"
         },
+        "parent": 3451133,
         "lat": -29.17139,
         "lng": -51.51917,
-        "country": "BR",
-        "state": "23",
         "population": 90852
     },
     "3470127": {
@@ -4777,10 +4410,9 @@
         "long": {
             "default": "Belo Horizonte"
         },
+        "parent": 3457153,
         "lat": -19.92083,
         "lng": -43.93778,
-        "country": "BR",
-        "state": "15",
         "population": 2373224
     },
     "3470142": {
@@ -4790,10 +4422,9 @@
         "long": {
             "default": "Belford Roxo"
         },
+        "parent": 3451189,
         "lat": -22.76417,
         "lng": -43.39944,
-        "country": "BR",
-        "state": "21",
         "population": 466096
     },
     "3470264": {
@@ -4803,10 +4434,9 @@
         "long": {
             "default": "Bebedouro"
         },
+        "parent": 3448433,
         "lat": -20.94944,
         "lng": -48.47917,
-        "country": "BR",
-        "state": "27",
         "population": 71862
     },
     "3470279": {
@@ -4816,10 +4446,9 @@
         "long": {
             "default": "Bauru"
         },
+        "parent": 3448433,
         "lat": -22.31472,
         "lng": -49.06056,
-        "country": "BR",
-        "state": "27",
         "population": 335024
     },
     "3470324": {
@@ -4829,10 +4458,9 @@
         "long": {
             "default": "Batatais"
         },
+        "parent": 3448433,
         "lat": -20.89111,
         "lng": -47.585,
-        "country": "BR",
-        "state": "27",
         "population": 51976
     },
     "3470353": {
@@ -4842,10 +4470,9 @@
         "long": {
             "default": "Barueri"
         },
+        "parent": 3448433,
         "lat": -23.51056,
         "lng": -46.87611,
-        "country": "BR",
-        "state": "27",
         "population": 251994
     },
     "3470451": {
@@ -4855,10 +4482,9 @@
         "long": {
             "default": "Barretos"
         },
+        "parent": 3448433,
         "lat": -20.55722,
         "lng": -48.56778,
-        "country": "BR",
-        "state": "27",
         "population": 101220
     },
     "3470583": {
@@ -4868,10 +4494,9 @@
         "long": {
             "default": "Barreiras"
         },
+        "parent": 3471168,
         "lat": -12.15278,
         "lng": -44.99,
-        "country": "BR",
-        "state": "05",
         "population": 158292
     },
     "3470636": {
@@ -4881,10 +4506,9 @@
         "long": {
             "default": "Barra Mansa"
         },
+        "parent": 3451189,
         "lat": -22.54417,
         "lng": -44.17139,
-        "country": "BR",
-        "state": "21",
         "population": 164052
     },
     "3470691": {
@@ -4894,10 +4518,9 @@
         "long": {
             "default": "Barra do Piraí"
         },
+        "parent": 3451189,
         "lat": -22.47,
         "lng": -43.82556,
-        "country": "BR",
-        "state": "21",
         "population": 87668
     },
     "3470709": {
@@ -4907,10 +4530,9 @@
         "long": {
             "default": "Barra do Garças"
         },
+        "parent": 3457419,
         "lat": -15.89,
         "lng": -52.25667,
-        "country": "BR",
-        "state": "14",
         "population": 52398
     },
     "3470858": {
@@ -4920,10 +4542,9 @@
         "long": {
             "default": "Barbacena"
         },
+        "parent": 3457153,
         "lat": -21.22583,
         "lng": -43.77361,
-        "country": "BR",
-        "state": "15",
         "population": 122211
     },
     "3471196": {
@@ -4933,10 +4554,9 @@
         "long": {
             "default": "Bagé"
         },
+        "parent": 3451133,
         "lat": -31.33139,
         "lng": -54.10694,
-        "country": "BR",
-        "state": "23",
         "population": 98940
     },
     "3471291": {
@@ -4946,10 +4566,9 @@
         "long": {
             "default": "Avaré"
         },
+        "parent": 3448433,
         "lat": -23.09861,
         "lng": -48.92583,
-        "country": "BR",
-        "state": "27",
         "population": 81285
     },
     "3471335": {
@@ -4959,10 +4578,9 @@
         "long": {
             "default": "Atibaia"
         },
+        "parent": 3448433,
         "lat": -23.11694,
         "lng": -46.55028,
-        "country": "BR",
-        "state": "27",
         "population": 110968
     },
     "3471374": {
@@ -4972,10 +4590,9 @@
         "long": {
             "default": "Assis"
         },
+        "parent": 3448433,
         "lat": -22.66167,
         "lng": -50.41222,
-        "country": "BR",
-        "state": "27",
         "population": 101597
     },
     "3471393": {
@@ -4985,10 +4602,9 @@
         "long": {
             "default": "Arujá"
         },
+        "parent": 3448433,
         "lat": -23.39611,
         "lng": -46.32083,
-        "country": "BR",
-        "state": "27",
         "population": 72077
     },
     "3471691": {
@@ -4998,10 +4614,9 @@
         "long": {
             "default": "Araxá"
         },
+        "parent": 3457153,
         "lat": -19.59333,
         "lng": -46.94056,
-        "country": "BR",
-        "state": "15",
         "population": 82595
     },
     "3471697": {
@@ -5011,10 +4626,9 @@
         "long": {
             "default": "Araucária"
         },
+        "parent": 3455077,
         "lat": -25.59306,
         "lng": -49.41028,
-        "country": "BR",
-        "state": "18",
         "population": 111302
     },
     "3471715": {
@@ -5024,10 +4638,9 @@
         "long": {
             "default": "Araruama"
         },
+        "parent": 3451189,
         "lat": -22.87278,
         "lng": -42.34306,
-        "country": "BR",
-        "state": "21",
         "population": 109637
     },
     "3471758": {
@@ -5037,10 +4650,9 @@
         "long": {
             "default": "Araras"
         },
+        "parent": 3448433,
         "lat": -22.35694,
         "lng": -47.38417,
-        "country": "BR",
-        "state": "27",
         "population": 107463
     },
     "3471766": {
@@ -5050,10 +4662,9 @@
         "long": {
             "default": "Araraquara"
         },
+        "parent": 3448433,
         "lat": -21.79444,
         "lng": -48.17556,
-        "country": "BR",
-        "state": "27",
         "population": 168468
     },
     "3471798": {
@@ -5063,10 +4674,9 @@
         "long": {
             "default": "Arapongas"
         },
+        "parent": 3455077,
         "lat": -23.41944,
         "lng": -51.42444,
-        "country": "BR",
-        "state": "18",
         "population": 97512
     },
     "3471830": {
@@ -5076,10 +4686,9 @@
         "long": {
             "default": "Araguari"
         },
+        "parent": 3457153,
         "lat": -18.64722,
         "lng": -48.18722,
-        "country": "BR",
-        "state": "15",
         "population": 96565
     },
     "3471848": {
@@ -5089,10 +4698,9 @@
         "long": {
             "default": "Aracruz"
         },
+        "parent": 3463930,
         "lat": -19.82028,
         "lng": -40.27333,
-        "country": "BR",
-        "state": "08",
         "population": 58271
     },
     "3471859": {
@@ -5102,10 +4710,9 @@
         "long": {
             "default": "Araçatuba"
         },
+        "parent": 3448433,
         "lat": -21.20889,
         "lng": -50.43278,
-        "country": "BR",
-        "state": "27",
         "population": 170024
     },
     "3471872": {
@@ -5115,10 +4722,9 @@
         "long": {
             "default": "Aracaju"
         },
+        "parent": 3447799,
         "lat": -10.91111,
         "lng": -37.07167,
-        "country": "BR",
-        "state": "28",
         "population": 490175
     },
     "3471910": {
@@ -5128,10 +4734,9 @@
         "long": {
             "default": "Apucarana"
         },
+        "parent": 3455077,
         "lat": -23.55083,
         "lng": -51.46083,
-        "country": "BR",
-        "state": "18",
         "population": 107085
     },
     "3472177": {
@@ -5141,10 +4746,9 @@
         "long": {
             "default": "Angra dos Reis"
         },
+        "parent": 3451189,
         "lat": -23.00667,
         "lng": -44.31806,
-        "country": "BR",
-        "state": "21",
         "population": 153635
     },
     "3472248": {
@@ -5154,10 +4758,9 @@
         "long": {
             "default": "Andradina"
         },
+        "parent": 3448433,
         "lat": -20.89611,
         "lng": -51.37944,
-        "country": "BR",
-        "state": "27",
         "population": 52406
     },
     "3472287": {
@@ -5167,10 +4770,9 @@
         "long": {
             "default": "Anápolis"
         },
+        "parent": 3462372,
         "lat": -16.32667,
         "lng": -48.95278,
-        "country": "BR",
-        "state": "29",
         "population": 319587
     },
     "3472343": {
@@ -5180,10 +4782,9 @@
         "long": {
             "default": "Americana"
         },
+        "parent": 3448433,
         "lat": -22.73917,
         "lng": -47.33139,
-        "country": "BR",
-        "state": "27",
         "population": 196022
     },
     "3472518": {
@@ -5193,10 +4794,9 @@
         "long": {
             "default": "Almirante Tamandaré"
         },
+        "parent": 3455077,
         "lat": -25.32472,
         "lng": -49.31,
-        "country": "BR",
-        "state": "18",
         "population": 89499
     },
     "3472603": {
@@ -5206,10 +4806,9 @@
         "long": {
             "default": "Alfenas"
         },
+        "parent": 3457153,
         "lat": -21.42917,
         "lng": -45.94722,
-        "country": "BR",
-        "state": "15",
         "population": 71406
     },
     "3472638": {
@@ -5219,10 +4818,9 @@
         "long": {
             "default": "Alegrete"
         },
+        "parent": 3451133,
         "lat": -29.78306,
         "lng": -55.79194,
-        "country": "BR",
-        "state": "23",
         "population": 87236
     },
     "3472766": {
@@ -5232,10 +4830,9 @@
         "long": {
             "default": "Alagoinhas"
         },
+        "parent": 3471168,
         "lat": -12.13556,
         "lng": -38.41917,
-        "country": "BR",
-        "state": "05",
         "population": 122688
     },
     "3473964": {
@@ -5245,10 +4842,9 @@
         "long": {
             "default": "Guaíba"
         },
+        "parent": 3451133,
         "lat": -30.11389,
         "lng": -51.325,
-        "country": "BR",
-        "state": "23",
         "population": 101024
     },
     "3474574": {
@@ -5258,10 +4854,9 @@
         "long": {
             "default": "Palmas"
         },
+        "parent": 3474575,
         "lat": -10.16745,
         "lng": -48.32766,
-        "country": "BR",
-        "state": "31",
         "population": 196272
     },
     "3662574": {
@@ -5271,10 +4866,9 @@
         "long": {
             "default": "Rio Branco"
         },
+        "parent": 3665474,
         "lat": -9.97472,
         "lng": -67.81,
-        "country": "BR",
-        "state": "01",
         "population": 257642
     },
     "3662762": {
@@ -5284,10 +4878,9 @@
         "long": {
             "default": "Porto Velho"
         },
+        "parent": 3924825,
         "lat": -8.76194,
         "lng": -63.90389,
-        "country": "BR",
-        "state": "24",
         "population": 306180
     },
     "3663517": {
@@ -5297,10 +4890,9 @@
         "long": {
             "default": "Manaus"
         },
+        "parent": 3665361,
         "lat": -3.10194,
         "lng": -60.025,
-        "country": "BR",
-        "state": "04",
         "population": 1598210
     },
     "3663529": {
@@ -5310,10 +4902,9 @@
         "long": {
             "default": "Manacapuru"
         },
+        "parent": 3665361,
         "lat": -3.29972,
         "lng": -60.62056,
-        "country": "BR",
-        "state": "04",
         "population": 52459
     },
     "3664464": {
@@ -5323,10 +4914,9 @@
         "long": {
             "default": "Cruzeiro do Sul"
         },
+        "parent": 3665474,
         "lat": -7.62759,
         "lng": -72.67756,
-        "country": "BR",
-        "state": "01",
         "population": 79819
     },
     "3664539": {
@@ -5336,10 +4926,9 @@
         "long": {
             "default": "Coari"
         },
+        "parent": 3665361,
         "lat": -4.085,
         "lng": -63.14139,
-        "country": "BR",
-        "state": "04",
         "population": 50490
     },
     "3664980": {
@@ -5349,10 +4938,9 @@
         "long": {
             "default": "Boa Vista"
         },
+        "parent": 3662560,
         "lat": 2.81972,
         "lng": -60.67333,
-        "country": "BR",
-        "state": "25",
         "population": 235150
     },
     "3665199": {
@@ -5362,10 +4950,9 @@
         "long": {
             "default": "Ariquemes"
         },
+        "parent": 3924825,
         "lat": -9.91333,
         "lng": -63.04083,
-        "country": "BR",
-        "state": "24",
         "population": 58096
     },
     "3924679": {
@@ -5375,10 +4962,9 @@
         "long": {
             "default": "Vilhena"
         },
+        "parent": 3924825,
         "lat": -12.74056,
         "lng": -60.14583,
-        "country": "BR",
-        "state": "24",
         "population": 63231
     },
     "3925033": {
@@ -5388,10 +4974,9 @@
         "long": {
             "default": "Ji Paraná"
         },
+        "parent": 3924825,
         "lat": -10.88528,
         "lng": -61.95167,
-        "country": "BR",
-        "state": "24",
         "population": 107697
     },
     "3925212": {
@@ -5401,10 +4986,9 @@
         "long": {
             "default": "Cacoal"
         },
+        "parent": 3924825,
         "lat": -11.43861,
         "lng": -61.44722,
-        "country": "BR",
-        "state": "24",
         "population": 55560
     },
     "6316406": {
@@ -5414,10 +4998,9 @@
         "long": {
             "default": "Aparecida de Goiânia"
         },
+        "parent": 3462372,
         "lat": -16.82333,
         "lng": -49.24389,
-        "country": "BR",
-        "state": "29",
         "population": 510770
     },
     "6317344": {
@@ -5427,10 +5010,9 @@
         "long": {
             "default": "Jaboatão dos Guararapes"
         },
+        "parent": 3392268,
         "lat": -8.11278,
         "lng": -35.01472,
-        "country": "BR",
-        "state": "30",
         "population": 630008
     },
     "6317464": {
@@ -5440,10 +5022,9 @@
         "long": {
             "default": "Lauro de Freitas"
         },
+        "parent": 3471168,
         "lat": -12.89444,
         "lng": -38.32722,
-        "country": "BR",
-        "state": "05",
         "population": 141280
     },
     "6317953": {
@@ -5453,10 +5034,9 @@
         "long": {
             "default": "Pinhais"
         },
+        "parent": 3455077,
         "lat": -25.44472,
         "lng": -49.1925,
-        "country": "BR",
-        "state": "18",
         "population": 117000
     },
     "6318694": {
@@ -5466,10 +5046,9 @@
         "long": {
             "default": "Simões Filho"
         },
+        "parent": 3471168,
         "lat": -12.78444,
         "lng": -38.40389,
-        "country": "BR",
-        "state": "05",
         "population": 116662
     },
     "6318696": {
@@ -5479,10 +5058,9 @@
         "long": {
             "default": "Sinop"
         },
+        "parent": 3457419,
         "lat": -11.86417,
         "lng": -55.5025,
-        "country": "BR",
-        "state": "14",
         "population": 116013
     }
 }

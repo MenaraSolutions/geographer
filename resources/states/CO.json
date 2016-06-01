@@ -1,5 +1,6 @@
 [
     {
+        "parent": "CO",
         "ids": {
             "fips": "31",
             "geonames": 3666082
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "30",
             "geonames": 3666254
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "29",
             "geonames": 3666313
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "28",
             "geonames": 3666951
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "27",
             "geonames": 3667725
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "26",
             "geonames": 3668578
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "25",
             "geonames": 3670205
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "24",
             "geonames": 3670698
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "23",
             "geonames": 3671087
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "22",
             "geonames": 3671178
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "21",
             "geonames": 3673798
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "20",
             "geonames": 3674021
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "19",
             "geonames": 3674810
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "38",
             "geonames": 3675686
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "17",
             "geonames": 3678847
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "16",
             "geonames": 3680692
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "14",
             "geonames": 3681344
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "15",
             "geonames": 3681652
@@ -162,6 +180,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "33",
             "geonames": 3685413
@@ -171,6 +190,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "12",
             "geonames": 3685889
@@ -180,6 +200,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "11",
             "geonames": 3686431
@@ -189,6 +210,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "10",
             "geonames": 3686880
@@ -198,6 +220,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "09",
             "geonames": 3687029
@@ -207,6 +230,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "32",
             "geonames": 3687173
@@ -216,6 +240,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "08",
             "geonames": 3687479
@@ -225,6 +250,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "37",
             "geonames": 3687951
@@ -234,6 +260,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "36",
             "geonames": 3688536
@@ -243,6 +270,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "35",
             "geonames": 3688650
@@ -252,6 +280,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "34",
             "geonames": 3688685
@@ -261,6 +290,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "04",
             "geonames": 3689436
@@ -270,6 +300,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "03",
             "geonames": 3689717
@@ -279,6 +310,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "02",
             "geonames": 3689815
@@ -288,6 +320,7 @@
         }
     },
     {
+        "parent": "CO",
         "ids": {
             "fips": "01",
             "geonames": 3689982

@@ -6,10 +6,9 @@
         "long": {
             "default": "Istaravshan"
         },
+        "parent": 1221092,
         "lat": 39.9142,
         "lng": 69.00328,
-        "country": "TJ",
-        "state": "03",
         "population": 52851
     },
     "1220747": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Qŭrghonteppa"
         },
+        "parent": 1347488,
         "lat": 37.83399,
         "lng": 68.78186,
-        "country": "TJ",
-        "state": "02",
         "population": 65000
     },
     "1221194": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Kŭlob"
         },
+        "parent": 1347488,
         "lat": 37.91459,
         "lng": 69.78454,
-        "country": "TJ",
-        "state": "02",
         "population": 78786
     },
     "1221874": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Dushanbe"
         },
+        "parent": 7280679,
         "lat": 38.53575,
         "lng": 68.77905,
-        "country": "TJ",
-        "state": "7280679",
         "population": 679400
     },
     "1514879": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Khŭjand"
         },
+        "parent": 1221092,
         "lat": 40.28256,
         "lng": 69.62216,
-        "country": "TJ",
-        "state": "03",
         "population": 144865
     },
     "1514891": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Konibodom"
         },
+        "parent": 1221092,
         "lat": 40.29414,
         "lng": 70.43122,
-        "country": "TJ",
-        "state": "03",
         "population": 50359
     }
 }

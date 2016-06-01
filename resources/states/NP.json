@@ -1,5 +1,6 @@
 [
     {
+        "parent": "NP",
         "ids": {
             "fips": "FR",
             "geonames": 7289705
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "NP",
         "ids": {
             "fips": "MR",
             "geonames": 7289706
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "NP",
         "ids": {
             "fips": "CR",
             "geonames": 7289707
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "NP",
         "ids": {
             "fips": "ER",
             "geonames": 7289708
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "NP",
         "ids": {
             "fips": "WR",
             "geonames": 7289709

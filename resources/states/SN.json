@@ -1,5 +1,6 @@
 [
     {
+        "parent": "SN",
         "ids": {
             "fips": "12",
             "geonames": 2243939
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "07",
             "geonames": 2244800
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "05",
             "geonames": 2244990
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "14",
             "geonames": 2246451
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "15",
             "geonames": 2248753
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "13",
             "geonames": 2249221
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "11",
             "geonames": 2249781
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "10",
             "geonames": 2250804
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "09",
             "geonames": 2251910
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "03",
             "geonames": 2252308
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "01",
             "geonames": 2253350
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "16",
             "geonames": 7303935
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "17",
             "geonames": 7303936
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "SN",
         "ids": {
             "fips": "18",
             "geonames": 7303937

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "JO",
         "ids": {
             "fips": "19",
             "geonames": 248380
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "18",
             "geonames": 248944
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "17",
             "geonames": 250092
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "12",
             "geonames": 250199
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "16",
             "geonames": 250439
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "15",
             "geonames": 250583
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "09",
             "geonames": 250625
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "02",
             "geonames": 250751
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "20",
             "geonames": 443120
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "22",
             "geonames": 443121
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "21",
             "geonames": 443122
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "JO",
         "ids": {
             "fips": "23",
             "geonames": 443123

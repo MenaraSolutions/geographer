@@ -6,10 +6,9 @@
         "long": {
             "default": "Malabo"
         },
+        "parent": 2566978,
         "lat": 3.75,
         "lng": 8.78333,
-        "country": "GQ",
-        "state": "04",
         "population": 155963
     },
     "2310046": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Bata"
         },
+        "parent": 2566982,
         "lat": 1.86391,
         "lng": 9.76582,
-        "country": "GQ",
-        "state": "08",
         "population": 173046
     }
 }

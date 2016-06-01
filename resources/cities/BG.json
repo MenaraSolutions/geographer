@@ -6,10 +6,9 @@
         "long": {
             "default": "Yambol"
         },
+        "parent": 864563,
         "lat": 42.48333,
         "lng": 26.5,
-        "country": "BG",
-        "state": "65",
         "population": 80116
     },
     "725712": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Vratsa"
         },
+        "parent": 725713,
         "lat": 43.21,
         "lng": 23.5625,
-        "country": "BG",
-        "state": "64",
         "population": 64941
     },
     "725905": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Vidin"
         },
+        "parent": 864562,
         "lat": 43.99,
         "lng": 22.8725,
-        "country": "BG",
-        "state": "63",
         "population": 54409
     },
     "725993": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Veliko Tŭrnovo"
         },
+        "parent": 864561,
         "lat": 43.08124,
         "lng": 25.62904,
-        "country": "BG",
-        "state": "62",
         "population": 66217
     },
     "726050": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Varna"
         },
+        "parent": 726051,
         "lat": 43.21667,
         "lng": 27.91667,
-        "country": "BG",
-        "state": "61",
         "population": 312770
     },
     "726418": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Dobrich"
         },
+        "parent": 726419,
         "lat": 43.56667,
         "lng": 27.83333,
-        "country": "BG",
-        "state": "40",
         "population": 94831
     },
     "726848": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Stara Zagora"
         },
+        "parent": 864559,
         "lat": 42.43278,
         "lng": 25.64194,
-        "country": "BG",
-        "state": "59",
         "population": 143431
     },
     "727011": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Sofia"
         },
+        "parent": 731061,
         "lat": 42.69751,
         "lng": 23.32415,
-        "country": "BG",
-        "state": "42",
         "population": 1152556
     },
     "727079": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Sliven"
         },
+        "parent": 864557,
         "lat": 42.68583,
         "lng": 26.32917,
-        "country": "BG",
-        "state": "56",
         "population": 96368
     },
     "727233": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Shumen"
         },
+        "parent": 864555,
         "lat": 43.27064,
         "lng": 26.92286,
-        "country": "BG",
-        "state": "54",
         "population": 87283
     },
     "727523": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Ruse"
         },
+        "parent": 727524,
         "lat": 43.85639,
         "lng": 25.97083,
-        "country": "BG",
-        "state": "53",
         "population": 156238
     },
     "728193": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Plovdiv"
         },
+        "parent": 728194,
         "lat": 42.15,
         "lng": 24.75,
-        "country": "BG",
-        "state": "51",
         "population": 340494
     },
     "728203": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Pleven"
         },
+        "parent": 728204,
         "lat": 43.41667,
         "lng": 24.61667,
-        "country": "BG",
-        "state": "50",
         "population": 118675
     },
     "728330": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Pernik"
         },
+        "parent": 728331,
         "lat": 42.6,
         "lng": 23.03333,
-        "country": "BG",
-        "state": "49",
         "population": 82467
     },
     "728378": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Pazardzhik"
         },
+        "parent": 728379,
         "lat": 42.2,
         "lng": 24.33333,
-        "country": "BG",
-        "state": "48",
         "population": 75977
     },
     "729794": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Kardzhali"
         },
+        "parent": 864553,
         "lat": 41.65,
         "lng": 25.36667,
-        "country": "BG",
-        "state": "44",
         "population": 51000
     },
     "730435": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Haskovo"
         },
+        "parent": 730436,
         "lat": 41.93415,
         "lng": 25.55557,
-        "country": "BG",
-        "state": "43",
         "population": 79699
     },
     "730496": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Kazanlŭk"
         },
+        "parent": 864559,
         "lat": 42.61667,
         "lng": 25.4,
-        "country": "BG",
-        "state": "59",
         "population": 55196
     },
     "731549": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Gabrovo"
         },
+        "parent": 864552,
         "lat": 42.87472,
         "lng": 25.33417,
-        "country": "BG",
-        "state": "41",
         "population": 66175
     },
     "732770": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Burgas"
         },
+        "parent": 732771,
         "lat": 42.50606,
         "lng": 27.46781,
-        "country": "BG",
-        "state": "39",
         "population": 195966
     },
     "733191": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Blagoevgrad"
         },
+        "parent": 733192,
         "lat": 42.01667,
         "lng": 23.1,
-        "country": "BG",
-        "state": "38",
         "population": 71306
     },
     "733618": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Asenovgrad"
         },
+        "parent": 728194,
         "lat": 42.01667,
         "lng": 24.86667,
-        "country": "BG",
-        "state": "51",
         "population": 52170
     }
 }

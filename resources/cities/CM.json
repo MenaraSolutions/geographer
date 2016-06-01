@@ -6,10 +6,9 @@
         "long": {
             "default": "Yaoundé"
         },
+        "parent": 2233376,
         "lat": 3.86667,
         "lng": 11.51667,
-        "country": "CM",
-        "state": "11",
         "population": 1299369
     },
     "2221030": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Yagoua"
         },
+        "parent": 2231755,
         "lat": 10.34107,
         "lng": 15.23288,
-        "country": "CM",
-        "state": "12",
         "population": 80235
     },
     "2221053": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Wum"
         },
+        "parent": 2223602,
         "lat": 6.38333,
         "lng": 10.06667,
-        "country": "CM",
-        "state": "07",
         "population": 68836
     },
     "2221504": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Tiko"
         },
+        "parent": 2221788,
         "lat": 4.075,
         "lng": 9.36005,
-        "country": "CM",
-        "state": "09",
         "population": 55914
     },
     "2222230": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Sangmélima"
         },
+        "parent": 2221789,
         "lat": 2.93333,
         "lng": 11.98333,
-        "country": "CM",
-        "state": "14",
         "population": 54251
     },
     "2223734": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Nkoteng"
         },
+        "parent": 2233376,
         "lat": 4.51667,
         "lng": 12.03333,
-        "country": "CM",
-        "state": "11",
         "population": 50334
     },
     "2223763": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Nkongsamba"
         },
+        "parent": 2229336,
         "lat": 4.9547,
         "lng": 9.9404,
-        "country": "CM",
-        "state": "05",
         "population": 117063
     },
     "2224827": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Ngaoundéré"
         },
+        "parent": 2236015,
         "lat": 7.32765,
         "lng": 13.58472,
-        "country": "CM",
-        "state": "10",
         "population": 231357
     },
     "2225991": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Mora"
         },
+        "parent": 2231755,
         "lat": 11.04611,
         "lng": 14.14011,
-        "country": "CM",
-        "state": "12",
         "population": 55216
     },
     "2226275": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Mokolo"
         },
+        "parent": 2231755,
         "lat": 10.74244,
         "lng": 13.80227,
-        "country": "CM",
-        "state": "12",
         "population": 275239
     },
     "2227402": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Meïganga"
         },
+        "parent": 2236015,
         "lat": 6.51667,
         "lng": 14.3,
-        "country": "CM",
-        "state": "10",
         "population": 80100
     },
     "2227613": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Mbouda"
         },
+        "parent": 2222934,
         "lat": 5.62611,
         "lng": 10.25421,
-        "country": "CM",
-        "state": "08",
         "population": 111320
     },
     "2228079": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Mbalmayo"
         },
+        "parent": 2233376,
         "lat": 3.51667,
         "lng": 11.5,
-        "country": "CM",
-        "state": "11",
         "population": 80206
     },
     "2228373": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Maroua"
         },
+        "parent": 2231755,
         "lat": 10.59095,
         "lng": 14.31593,
-        "country": "CM",
-        "state": "12",
         "population": 319941
     },
     "2229152": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Loum"
         },
+        "parent": 2229336,
         "lat": 4.7182,
         "lng": 9.7351,
-        "country": "CM",
-        "state": "05",
         "population": 177429
     },
     "2229411": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Limbe"
         },
+        "parent": 2221788,
         "lat": 4.0242,
         "lng": 9.2149,
-        "country": "CM",
-        "state": "09",
         "population": 72106
     },
     "2229748": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Kumbo"
         },
+        "parent": 2223602,
         "lat": 6.2,
         "lng": 10.66667,
-        "country": "CM",
-        "state": "07",
         "population": 53970
     },
     "2229752": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Kumba"
         },
+        "parent": 2221788,
         "lat": 4.6363,
         "lng": 9.4469,
-        "country": "CM",
-        "state": "09",
         "population": 144413
     },
     "2229761": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Kribi"
         },
+        "parent": 2221789,
         "lat": 2.93725,
         "lng": 9.90765,
-        "country": "CM",
-        "state": "14",
         "population": 55224
     },
     "2229798": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Kousséri"
         },
+        "parent": 2231755,
         "lat": 12.07689,
         "lng": 15.03063,
-        "country": "CM",
-        "state": "12",
         "population": 435547
     },
     "2230876": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Guider"
         },
+        "parent": 2223603,
         "lat": 9.9333,
         "lng": 13.94671,
-        "country": "CM",
-        "state": "13",
         "population": 84647
     },
     "2231320": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Garoua"
         },
+        "parent": 2223603,
         "lat": 9.30143,
         "lng": 13.39771,
-        "country": "CM",
-        "state": "13",
         "population": 436899
     },
     "2231504": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Foumbot"
         },
+        "parent": 2222934,
         "lat": 5.50803,
         "lng": 10.6325,
-        "country": "CM",
-        "state": "08",
         "population": 84065
     },
     "2231506": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Foumban"
         },
+        "parent": 2222934,
         "lat": 5.72662,
         "lng": 10.89865,
-        "country": "CM",
-        "state": "08",
         "population": 92673
     },
     "2232239": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Edéa"
         },
+        "parent": 2229336,
         "lat": 3.8,
         "lng": 10.13333,
-        "country": "CM",
-        "state": "05",
         "population": 203149
     },
     "2232283": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Ébolowa"
         },
+        "parent": 2221789,
         "lat": 2.9,
         "lng": 11.15,
-        "country": "CM",
-        "state": "14",
         "population": 87875
     },
     "2232444": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Dschang"
         },
+        "parent": 2222934,
         "lat": 5.44397,
         "lng": 10.05332,
-        "country": "CM",
-        "state": "08",
         "population": 96112
     },
     "2232593": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Douala"
         },
+        "parent": 2229336,
         "lat": 4.04827,
         "lng": 9.70428,
-        "country": "CM",
-        "state": "05",
         "population": 1338082
     },
     "2234359": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Bertoua"
         },
+        "parent": 2231835,
         "lat": 4.57728,
         "lng": 13.68459,
-        "country": "CM",
-        "state": "04",
         "population": 218111
     },
     "2234865": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Bangangté"
         },
+        "parent": 2222934,
         "lat": 5.14079,
         "lng": 10.52535,
-        "country": "CM",
-        "state": "08",
         "population": 65385
     },
     "2234974": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Bamenda"
         },
+        "parent": 2223602,
         "lat": 5.9597,
         "lng": 10.14597,
-        "country": "CM",
-        "state": "07",
         "population": 393835
     },
     "2235029": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Bali"
         },
+        "parent": 2223602,
         "lat": 5.88737,
         "lng": 10.01176,
-        "country": "CM",
-        "state": "07",
         "population": 72606
     },
     "2235189": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Bafoussam"
         },
+        "parent": 2222934,
         "lat": 5.47775,
         "lng": 10.41759,
-        "country": "CM",
-        "state": "08",
         "population": 290768
     },
     "2235194": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Bafia"
         },
+        "parent": 2233376,
         "lat": 4.75,
         "lng": 11.23333,
-        "country": "CM",
-        "state": "11",
         "population": 69270
     },
     "2235196": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Bafang"
         },
+        "parent": 2222934,
         "lat": 5.15705,
         "lng": 10.1771,
-        "country": "CM",
-        "state": "08",
         "population": 80688
     }
 }

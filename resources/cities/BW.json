@@ -6,10 +6,9 @@
         "long": {
             "default": "Selebi-Phikwe"
         },
+        "parent": 933851,
         "lat": -21.97895,
         "lng": 27.84296,
-        "country": "BW",
-        "state": "01",
         "population": 53727
     },
     "933305": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Molepolole"
         },
+        "parent": 933562,
         "lat": -24.40659,
         "lng": 25.49508,
-        "country": "BW",
-        "state": "06",
         "population": 63248
     },
     "933773": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Gaborone"
         },
+        "parent": 933044,
         "lat": -24.65451,
         "lng": 25.90859,
-        "country": "BW",
-        "state": "09",
         "population": 208411
     },
     "933778": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Francistown"
         },
+        "parent": 933210,
         "lat": -21.16995,
         "lng": 27.50787,
-        "country": "BW",
-        "state": "08",
         "population": 89979
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Bandar Seri Begawan"
         },
+        "parent": 1820818,
         "lat": 4.94029,
         "lng": 114.94806,
-        "country": "BN",
-        "state": "02",
         "population": 64409
     }
 }

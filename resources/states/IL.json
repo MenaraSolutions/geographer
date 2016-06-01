@@ -1,5 +1,6 @@
 [
     {
+        "parent": "IL",
         "ids": {
             "fips": "06",
             "geonames": 293198
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "IL",
         "ids": {
             "fips": "05",
             "geonames": 293396
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "IL",
         "ids": {
             "fips": "04",
             "geonames": 294800
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "IL",
         "ids": {
             "fips": "03",
             "geonames": 294824
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "IL",
         "ids": {
             "fips": "02",
             "geonames": 294904
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "IL",
         "ids": {
             "fips": "01",
             "geonames": 294952

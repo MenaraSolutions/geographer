@@ -6,10 +6,9 @@
         "long": {
             "default": "Vittoria"
         },
+        "parent": 2523119,
         "lat": 36.95151,
         "lng": 14.52788,
-        "country": "IT",
-        "state": "15",
         "population": 50852
     },
     "2522876": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Trapani"
         },
+        "parent": 2523119,
         "lat": 38.0176,
         "lng": 12.53617,
-        "country": "IT",
-        "state": "15",
         "population": 58681
     },
     "2523083": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Siracusa"
         },
+        "parent": 2523119,
         "lat": 37.08415,
         "lng": 15.27628,
-        "country": "IT",
-        "state": "15",
         "population": 97472
     },
     "2523630": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Reggio Calabria"
         },
+        "parent": 2525468,
         "lat": 38.11047,
         "lng": 15.66129,
-        "country": "IT",
-        "state": "03",
         "population": 169140
     },
     "2523650": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Ragusa"
         },
+        "parent": 2523119,
         "lat": 36.92574,
         "lng": 14.72443,
-        "country": "IT",
-        "state": "15",
         "population": 61380
     },
     "2523665": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Quartu Sant'Elena"
         },
+        "parent": 2523228,
         "lat": 39.22935,
         "lng": 9.25004,
-        "country": "IT",
-        "state": "14",
         "population": 66620
     },
     "2523920": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Palermo"
         },
+        "parent": 2523119,
         "lat": 38.13205,
         "lng": 13.33561,
-        "country": "IT",
-        "state": "15",
         "population": 648260
     },
     "2524013": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Nicastro-Sambiase"
         },
+        "parent": 2525468,
         "lat": 38.97089,
         "lng": 16.31285,
-        "country": "IT",
-        "state": "03",
         "population": 55687
     },
     "2524170": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Messina"
         },
+        "parent": 2523119,
         "lat": 38.19394,
         "lng": 15.55256,
-        "country": "IT",
-        "state": "15",
         "population": 219948
     },
     "2524245": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Marsala"
         },
+        "parent": 2523119,
         "lat": 37.7992,
         "lng": 12.4367,
-        "country": "IT",
-        "state": "15",
         "population": 77915
     },
     "2524653": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Gela"
         },
+        "parent": 2523119,
         "lat": 37.07381,
         "lng": 14.24038,
-        "country": "IT",
-        "state": "15",
         "population": 73854
     },
     "2524907": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Cosenza"
         },
+        "parent": 2525468,
         "lat": 39.2989,
         "lng": 16.25307,
-        "country": "IT",
-        "state": "03",
         "population": 63852
     },
     "2525059": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Catanzaro"
         },
+        "parent": 2525468,
         "lat": 38.88247,
         "lng": 16.60086,
-        "country": "IT",
-        "state": "03",
         "population": 78970
     },
     "2525068": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Catania"
         },
+        "parent": 2523119,
         "lat": 37.49223,
         "lng": 15.07041,
-        "country": "IT",
-        "state": "15",
         "population": 290927
     },
     "2525448": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Caltanissetta"
         },
+        "parent": 2523119,
         "lat": 37.49025,
         "lng": 14.06216,
-        "country": "IT",
-        "state": "15",
         "population": 56715
     },
     "2525473": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Cagliari"
         },
+        "parent": 2523228,
         "lat": 39.23054,
         "lng": 9.11917,
-        "country": "IT",
-        "state": "14",
         "population": 149257
     },
     "2525628": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Bagheria"
         },
+        "parent": 2523119,
         "lat": 38.07892,
         "lng": 13.51237,
-        "country": "IT",
-        "state": "15",
         "population": 52952
     },
     "3164376": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Vigevano"
         },
+        "parent": 3174618,
         "lat": 45.31407,
         "lng": 8.85437,
-        "country": "IT",
-        "state": "09",
         "population": 57970
     },
     "3164419": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Vicenza"
         },
+        "parent": 3164604,
         "lat": 45.54672,
         "lng": 11.5475,
-        "country": "IT",
-        "state": "20",
         "population": 107129
     },
     "3164527": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Verona"
         },
+        "parent": 3164604,
         "lat": 45.4299,
         "lng": 10.98444,
-        "country": "IT",
-        "state": "20",
         "population": 219103
     },
     "3164603": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Venice"
         },
+        "parent": 3164604,
         "lat": 45.43713,
         "lng": 12.33265,
-        "country": "IT",
-        "state": "20",
         "population": 51298
     },
     "3164699": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Varese"
         },
+        "parent": 3174618,
         "lat": 45.82058,
         "lng": 8.82511,
-        "country": "IT",
-        "state": "09",
         "population": 76851
     },
     "3165072": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Udine"
         },
+        "parent": 3176525,
         "lat": 46.0693,
         "lng": 13.23715,
-        "country": "IT",
-        "state": "06",
         "population": 97761
     },
     "3165185": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Trieste"
         },
+        "parent": 3176525,
         "lat": 45.64325,
         "lng": 13.7903,
-        "country": "IT",
-        "state": "06",
         "population": 187056
     },
     "3165201": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Treviso"
         },
+        "parent": 3164604,
         "lat": 45.66673,
         "lng": 12.2416,
-        "country": "IT",
-        "state": "20",
         "population": 77604
     },
     "3165243": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Trento"
         },
+        "parent": 3165244,
         "lat": 46.06787,
         "lng": 11.12108,
-        "country": "IT",
-        "state": "17",
         "population": 80425
     },
     "3165322": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Trani"
         },
+        "parent": 3169778,
         "lat": 41.27733,
         "lng": 16.41011,
-        "country": "IT",
-        "state": "13",
         "population": 53981
     },
     "3165456": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Torre del Greco"
         },
+        "parent": 3181042,
         "lat": 40.78931,
         "lng": 14.36806,
-        "country": "IT",
-        "state": "04",
         "population": 85897
     },
     "3165524": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Turin"
         },
+        "parent": 3170831,
         "lat": 45.07049,
         "lng": 7.68682,
-        "country": "IT",
-        "state": "12",
         "population": 870456
     },
     "3165771": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Terni"
         },
+        "parent": 3165048,
         "lat": 42.56335,
         "lng": 12.64329,
-        "country": "IT",
-        "state": "18",
         "population": 97050
     },
     "3165926": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Taranto"
         },
+        "parent": 3169778,
         "lat": 40.41639,
         "lng": 17.25478,
-        "country": "IT",
-        "state": "13",
         "population": 181082
     },
     "3166598": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Sesto San Giovanni"
         },
+        "parent": 3174618,
         "lat": 45.53329,
         "lng": 9.22585,
-        "country": "IT",
-        "state": "09",
         "population": 76509
     },
     "3167022": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Savona"
         },
+        "parent": 3174725,
         "lat": 44.30905,
         "lng": 8.47715,
-        "country": "IT",
-        "state": "08",
         "population": 58283
     },
     "3167096": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Sassari"
         },
+        "parent": 2523228,
         "lat": 40.72586,
         "lng": 8.55552,
-        "country": "IT",
-        "state": "14",
         "population": 91895
     },
     "3167731": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "San Severo"
         },
+        "parent": 3169778,
         "lat": 41.68564,
         "lng": 15.38148,
-        "country": "IT",
-        "state": "13",
         "population": 54880
     },
     "3168673": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Salerno"
         },
+        "parent": 3181042,
         "lat": 40.67545,
         "lng": 14.79328,
-        "country": "IT",
-        "state": "04",
         "population": 125797
     },
     "3169070": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Rome"
         },
+        "parent": 3174976,
         "lat": 41.89193,
         "lng": 12.51133,
-        "country": "IT",
-        "state": "07",
         "population": 2318895
     },
     "3169361": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Rimini"
         },
+        "parent": 3177401,
         "lat": 44.05755,
         "lng": 12.56528,
-        "country": "IT",
-        "state": "05",
         "population": 118673
     },
     "3169522": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Reggio nell'Emilia"
         },
+        "parent": 3177401,
         "lat": 44.69825,
         "lng": 10.63125,
-        "country": "IT",
-        "state": "05",
         "population": 133296
     },
     "3169561": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Ravenna"
         },
+        "parent": 3177401,
         "lat": 44.41344,
         "lng": 12.20121,
-        "country": "IT",
-        "state": "05",
         "population": 80868
     },
     "3169921": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Prato"
         },
+        "parent": 3165361,
         "lat": 43.87309,
         "lng": 11.08278,
-        "country": "IT",
-        "state": "16",
         "population": 181820
     },
     "3170027": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Potenza"
         },
+        "parent": 3182306,
         "lat": 40.64175,
         "lng": 15.80794,
-        "country": "IT",
-        "state": "02",
         "population": 56433
     },
     "3170116": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Portici"
         },
+        "parent": 3181042,
         "lat": 40.81563,
         "lng": 14.33716,
-        "country": "IT",
-        "state": "04",
         "population": 55765
     },
     "3170621": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Pistoia"
         },
+        "parent": 3165361,
         "lat": 43.93064,
         "lng": 10.92365,
-        "country": "IT",
-        "state": "16",
         "population": 73832
     },
     "3170647": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Pisa"
         },
+        "parent": 3165361,
         "lat": 43.70853,
         "lng": 10.4036,
-        "country": "IT",
-        "state": "16",
         "population": 77007
     },
     "3171058": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Piacenza"
         },
+        "parent": 3177401,
         "lat": 45.05242,
         "lng": 9.69342,
-        "country": "IT",
-        "state": "05",
         "population": 93228
     },
     "3171168": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Pescara"
         },
+        "parent": 3183560,
         "lat": 42.4584,
         "lng": 14.20283,
-        "country": "IT",
-        "state": "01",
         "population": 116596
     },
     "3171173": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Pesaro"
         },
+        "parent": 3174004,
         "lat": 43.90921,
         "lng": 12.9164,
-        "country": "IT",
-        "state": "10",
         "population": 77241
     },
     "3171180": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Perugia"
         },
+        "parent": 3165048,
         "lat": 43.1122,
         "lng": 12.38878,
-        "country": "IT",
-        "state": "18",
         "population": 120137
     },
     "3171366": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Pavia"
         },
+        "parent": 3174618,
         "lat": 45.19205,
         "lng": 9.15917,
-        "country": "IT",
-        "state": "09",
         "population": 65734
     },
     "3171457": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Parma"
         },
+        "parent": 3177401,
         "lat": 44.79935,
         "lng": 10.32618,
-        "country": "IT",
-        "state": "05",
         "population": 146299
     },
     "3171728": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Padova"
         },
+        "parent": 3164604,
         "lat": 45.40797,
         "lng": 11.88586,
-        "country": "IT",
-        "state": "20",
         "population": 203725
     },
     "3172189": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Novara"
         },
+        "parent": 3170831,
         "lat": 45.44694,
         "lng": 8.62118,
-        "country": "IT",
-        "state": "12",
         "population": 93295
     },
     "3172394": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Napoli"
         },
+        "parent": 3181042,
         "lat": 40.85631,
         "lng": 14.24641,
-        "country": "IT",
-        "state": "04",
         "population": 959470
     },
     "3172629": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Monza"
         },
+        "parent": 3174618,
         "lat": 45.58005,
         "lng": 9.27246,
-        "country": "IT",
-        "state": "09",
         "population": 119618
     },
     "3173287": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Molfetta"
         },
+        "parent": 3169778,
         "lat": 41.20036,
         "lng": 16.59905,
-        "country": "IT",
-        "state": "13",
         "population": 59557
     },
     "3173331": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Modena"
         },
+        "parent": 3177401,
         "lat": 44.64783,
         "lng": 10.92539,
-        "country": "IT",
-        "state": "05",
         "population": 158886
     },
     "3173435": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Milano"
         },
+        "parent": 3174618,
         "lat": 45.46427,
         "lng": 9.18951,
-        "country": "IT",
-        "state": "09",
         "population": 1236837
     },
     "3173529": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Mestre"
         },
+        "parent": 3164604,
         "lat": 45.49167,
         "lng": 12.24538,
-        "country": "IT",
-        "state": "20",
         "population": 147662
     },
     "3173721": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Matera"
         },
+        "parent": 3182306,
         "lat": 40.66599,
         "lng": 16.60463,
-        "country": "IT",
-        "state": "02",
         "population": 54891
     },
     "3173775": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Massa"
         },
+        "parent": 3165361,
         "lat": 44.03541,
         "lng": 10.13927,
-        "country": "IT",
-        "state": "16",
         "population": 64783
     },
     "3174092": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Manfredonia"
         },
+        "parent": 3169778,
         "lat": 41.63065,
         "lng": 15.91876,
-        "country": "IT",
-        "state": "13",
         "population": 52911
     },
     "3174530": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Lucca"
         },
+        "parent": 3165361,
         "lat": 43.84369,
         "lng": 10.50447,
-        "country": "IT",
-        "state": "16",
         "population": 81748
     },
     "3174659": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Livorno"
         },
+        "parent": 3165361,
         "lat": 43.54427,
         "lng": 10.32615,
-        "country": "IT",
-        "state": "16",
         "population": 153773
     },
     "3174741": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Lido di Ostia"
         },
+        "parent": 3174976,
         "lat": 41.73212,
         "lng": 12.27654,
-        "country": "IT",
-        "state": "07",
         "population": 79400
     },
     "3174921": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Legnano"
         },
+        "parent": 3174618,
         "lat": 45.59788,
         "lng": 8.91506,
-        "country": "IT",
-        "state": "09",
         "population": 57589
     },
     "3174953": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Lecce"
         },
+        "parent": 3169778,
         "lat": 40.35481,
         "lng": 18.17244,
-        "country": "IT",
-        "state": "13",
         "population": 80695
     },
     "3175058": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Latina"
         },
+        "parent": 3174976,
         "lat": 41.46614,
         "lng": 12.9043,
-        "country": "IT",
-        "state": "07",
         "population": 76305
     },
     "3175081": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "La Spezia"
         },
+        "parent": 3174725,
         "lat": 44.103,
         "lng": 9.82375,
-        "country": "IT",
-        "state": "08",
         "population": 88491
     },
     "3175537": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Imola"
         },
+        "parent": 3177401,
         "lat": 44.35916,
         "lng": 11.7132,
-        "country": "IT",
-        "state": "05",
         "population": 52981
     },
     "3175786": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Grosseto"
         },
+        "parent": 3165361,
         "lat": 42.76296,
         "lng": 11.10941,
-        "country": "IT",
-        "state": "16",
         "population": 60922
     },
     "3176059": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Giugliano in Campania"
         },
+        "parent": 3181042,
         "lat": 40.92849,
         "lng": 14.20197,
-        "country": "IT",
-        "state": "04",
         "population": 80269
     },
     "3176219": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Genoa"
         },
+        "parent": 3174725,
         "lat": 44.4264,
         "lng": 8.91519,
-        "country": "IT",
-        "state": "08",
         "population": 580223
     },
     "3176391": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Gallarate"
         },
+        "parent": 3174618,
         "lat": 45.66019,
         "lng": 8.79164,
-        "country": "IT",
-        "state": "09",
         "population": 50439
     },
     "3176746": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Forlì"
         },
+        "parent": 3177401,
         "lat": 44.22177,
         "lng": 12.04144,
-        "country": "IT",
-        "state": "05",
         "population": 93638
     },
     "3176885": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Foggia"
         },
+        "parent": 3169778,
         "lat": 41.45845,
         "lng": 15.55188,
-        "country": "IT",
-        "state": "13",
         "population": 137032
     },
     "3176959": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Florence"
         },
+        "parent": 3165361,
         "lat": 43.77925,
         "lng": 11.24626,
-        "country": "IT",
-        "state": "16",
         "population": 349296
     },
     "3177090": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Ferrara"
         },
+        "parent": 3177401,
         "lat": 44.83804,
         "lng": 11.62057,
-        "country": "IT",
-        "state": "05",
         "population": 92802
     },
     "3177363": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Ercolano"
         },
+        "parent": 3181042,
         "lat": 40.80783,
         "lng": 14.35012,
-        "country": "IT",
-        "state": "04",
         "population": 53576
     },
     "3177838": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Cremona"
         },
+        "parent": 3174618,
         "lat": 45.13325,
         "lng": 10.02129,
-        "country": "IT",
-        "state": "09",
         "population": 59561
     },
     "3178229": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Como"
         },
+        "parent": 3174618,
         "lat": 45.80819,
         "lng": 9.0832,
-        "country": "IT",
-        "state": "09",
         "population": 81975
     },
     "3178671": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Cinisello Balsamo"
         },
+        "parent": 3174618,
         "lat": 45.55823,
         "lng": 9.21495,
-        "country": "IT",
-        "state": "09",
         "population": 71109
     },
     "3178957": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Cesena"
         },
+        "parent": 3177401,
         "lat": 44.1391,
         "lng": 12.24315,
-        "country": "IT",
-        "state": "05",
         "population": 79398
     },
     "3179075": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "Cerignola"
         },
+        "parent": 3169778,
         "lat": 41.26523,
         "lng": 15.89559,
-        "country": "IT",
-        "state": "13",
         "population": 54056
     },
     "3179661": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Castellammare di Stabia"
         },
+        "parent": 3181042,
         "lat": 40.70211,
         "lng": 14.48685,
-        "country": "IT",
-        "state": "04",
         "population": 65730
     },
     "3179806": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Casoria"
         },
+        "parent": 3181042,
         "lat": 40.90751,
         "lng": 14.293,
-        "country": "IT",
-        "state": "04",
         "population": 58456
     },
     "3179866": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Caserta"
         },
+        "parent": 3181042,
         "lat": 41.07262,
         "lng": 14.33231,
-        "country": "IT",
-        "state": "04",
         "population": 72844
     },
     "3180423": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "Carrara"
         },
+        "parent": 3165361,
         "lat": 44.07926,
         "lng": 10.09789,
-        "country": "IT",
-        "state": "16",
         "population": 58666
     },
     "3180445": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Carpi Centro"
         },
+        "parent": 3177401,
         "lat": 44.78237,
         "lng": 10.8777,
-        "country": "IT",
-        "state": "05",
         "population": 53024
     },
     "3181355": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Busto Arsizio"
         },
+        "parent": 3174618,
         "lat": 45.61128,
         "lng": 8.84914,
-        "country": "IT",
-        "state": "09",
         "population": 79519
     },
     "3181528": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Brindisi"
         },
+        "parent": 3169778,
         "lat": 40.63215,
         "lng": 17.93607,
-        "country": "IT",
-        "state": "13",
         "population": 78548
     },
     "3181554": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "Brescia"
         },
+        "parent": 3174618,
         "lat": 45.53558,
         "lng": 10.21472,
-        "country": "IT",
-        "state": "09",
         "population": 184826
     },
     "3181913": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Bolzano"
         },
+        "parent": 3165244,
         "lat": 46.49067,
         "lng": 11.33982,
-        "country": "IT",
-        "state": "17",
         "population": 99049
     },
     "3181928": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Bologna"
         },
+        "parent": 3177401,
         "lat": 44.49381,
         "lng": 11.33875,
-        "country": "IT",
-        "state": "05",
         "population": 366133
     },
     "3181995": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Bitonto"
         },
+        "parent": 3169778,
         "lat": 41.11006,
         "lng": 16.69086,
-        "country": "IT",
-        "state": "13",
         "population": 51661
     },
     "3182007": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Bisceglie"
         },
+        "parent": 3169778,
         "lat": 41.24264,
         "lng": 16.50104,
-        "country": "IT",
-        "state": "13",
         "population": 53648
     },
     "3182164": {
@@ -1254,10 +1158,9 @@
         "long": {
             "default": "Bergamo"
         },
+        "parent": 3174618,
         "lat": 45.69601,
         "lng": 9.66721,
-        "country": "IT",
-        "state": "09",
         "population": 114162
     },
     "3182340": {
@@ -1267,10 +1170,9 @@
         "long": {
             "default": "Barletta"
         },
+        "parent": 3169778,
         "lat": 41.31429,
         "lng": 16.28165,
-        "country": "IT",
-        "state": "13",
         "population": 93279
     },
     "3182351": {
@@ -1280,10 +1182,9 @@
         "long": {
             "default": "Bari"
         },
+        "parent": 3169778,
         "lat": 41.11148,
         "lng": 16.8554,
-        "country": "IT",
-        "state": "13",
         "population": 277387
     },
     "3182640": {
@@ -1293,10 +1194,9 @@
         "long": {
             "default": "Aversa"
         },
+        "parent": 3181042,
         "lat": 40.97259,
         "lng": 14.20745,
-        "country": "IT",
-        "state": "04",
         "population": 52830
     },
     "3182714": {
@@ -1306,10 +1206,9 @@
         "long": {
             "default": "Asti"
         },
+        "parent": 3170831,
         "lat": 44.90162,
         "lng": 8.20751,
-        "country": "IT",
-        "state": "12",
         "population": 61254
     },
     "3182884": {
@@ -1319,10 +1218,9 @@
         "long": {
             "default": "Arezzo"
         },
+        "parent": 3165361,
         "lat": 43.46276,
         "lng": 11.88068,
-        "country": "IT",
-        "state": "16",
         "population": 76346
     },
     "3183072": {
@@ -1332,10 +1230,9 @@
         "long": {
             "default": "Andria"
         },
+        "parent": 3169778,
         "lat": 41.23117,
         "lng": 16.29797,
-        "country": "IT",
-        "state": "13",
         "population": 98342
     },
     "3183089": {
@@ -1345,10 +1242,9 @@
         "long": {
             "default": "Ancona"
         },
+        "parent": 3174004,
         "lat": 43.5942,
         "lng": 13.50337,
-        "country": "IT",
-        "state": "10",
         "population": 89994
     },
     "3183178": {
@@ -1358,10 +1254,9 @@
         "long": {
             "default": "Altamura"
         },
+        "parent": 3169778,
         "lat": 40.82664,
         "lng": 16.54952,
-        "country": "IT",
-        "state": "13",
         "population": 67821
     },
     "3183299": {
@@ -1371,10 +1266,9 @@
         "long": {
             "default": "Alessandria"
         },
+        "parent": 3170831,
         "lat": 44.90924,
         "lng": 8.61007,
-        "country": "IT",
-        "state": "12",
         "population": 64178
     },
     "3183455": {
@@ -1384,10 +1278,9 @@
         "long": {
             "default": "Afragola"
         },
+        "parent": 3181042,
         "lat": 40.92298,
         "lng": 14.30935,
-        "country": "IT",
-        "state": "04",
         "population": 62775
     },
     "3183539": {
@@ -1397,10 +1290,9 @@
         "long": {
             "default": "Acilia-Castel Fusano-Ostia Antica"
         },
+        "parent": 3174976,
         "lat": 41.76337,
         "lng": 12.33078,
-        "country": "IT",
-        "state": "07",
         "population": 129362
     },
     "3183541": {
@@ -1410,10 +1302,9 @@
         "long": {
             "default": "Acerra"
         },
+        "parent": 3181042,
         "lat": 40.94477,
         "lng": 14.3714,
-        "country": "IT",
-        "state": "04",
         "population": 53578
     },
     "6534228": {
@@ -1423,10 +1314,9 @@
         "long": {
             "default": "Guidonia Montecelio"
         },
+        "parent": 3174976,
         "lat": 41.99362,
         "lng": 12.72238,
-        "country": "IT",
-        "state": "07",
         "population": 67516
     },
     "6534232": {
@@ -1436,10 +1326,9 @@
         "long": {
             "default": "Lamezia Terme"
         },
+        "parent": 2525468,
         "lat": 38.96255,
         "lng": 16.30938,
-        "country": "IT",
-        "state": "03",
         "population": 70501
     }
 }

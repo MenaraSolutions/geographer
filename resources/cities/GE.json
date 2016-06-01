@@ -6,10 +6,9 @@
         "long": {
             "default": "Zugdidi"
         },
+        "parent": 865543,
         "lat": 42.5088,
         "lng": 41.87088,
-        "country": "GE",
-        "state": "71",
         "population": 73006
     },
     "611717": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tbilisi"
         },
+        "parent": 611716,
         "lat": 41.69411,
         "lng": 44.83368,
-        "country": "GE",
-        "state": "51",
         "population": 1049498
     },
     "611847": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sokhumi"
         },
+        "parent": 6643410,
         "lat": 43.00697,
         "lng": 40.9893,
-        "country": "GE",
-        "state": "02",
         "population": 81546
     },
     "613607": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Kutaisi"
         },
+        "parent": 865539,
         "lat": 42.26791,
         "lng": 42.69459,
-        "country": "GE",
-        "state": "66",
         "population": 178338
     },
     "615532": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Batumi"
         },
+        "parent": 615929,
         "lat": 41.64228,
         "lng": 41.63392,
-        "country": "GE",
-        "state": "04",
         "population": 121806
     }
 }

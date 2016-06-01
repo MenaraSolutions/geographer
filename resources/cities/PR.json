@@ -6,10 +6,9 @@
         "long": {
             "default": "Bayamón"
         },
+        "parent": 4562837,
         "lat": 18.39856,
         "lng": -66.15572,
-        "country": "PR",
-        "state": "021",
         "population": 203499
     },
     "4563008": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Caguas"
         },
+        "parent": 4563011,
         "lat": 18.23412,
         "lng": -66.0485,
-        "country": "PR",
-        "state": "025",
         "population": 86804
     },
     "4563243": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Carolina"
         },
+        "parent": 4563244,
         "lat": 18.38078,
         "lng": -65.95739,
-        "country": "PR",
-        "state": "031",
         "population": 170404
     },
     "4565119": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Guaynabo"
         },
+        "parent": 4565120,
         "lat": 18.35745,
         "lng": -66.111,
-        "country": "PR",
-        "state": "061",
         "population": 81360
     },
     "4566385": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Mayagüez"
         },
+        "parent": 4566217,
         "lat": 18.20107,
         "lng": -67.13962,
-        "country": "PR",
-        "state": "097",
         "population": 78647
     },
     "4566880": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Ponce"
         },
+        "parent": 4566886,
         "lat": 18.01108,
         "lng": -66.61406,
-        "country": "PR",
-        "state": "113",
         "population": 152634
     },
     "4568127": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "San Juan"
         },
+        "parent": 4568138,
         "lat": 18.46633,
         "lng": -66.10572,
-        "country": "PR",
-        "state": "127",
         "population": 418140
     },
     "4568451": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Trujillo Alto"
         },
+        "parent": 4568452,
         "lat": 18.35467,
         "lng": -66.00739,
-        "country": "PR",
-        "state": "139",
         "population": 54189
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Male"
         },
+        "parent": 1282208,
         "lat": 4.1748,
         "lng": 73.50888,
-        "country": "MV",
-        "state": "38",
         "population": 103693
     }
 }

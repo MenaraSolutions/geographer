@@ -6,10 +6,9 @@
         "long": {
             "default": "Macau"
         },
+        "parent": 1821273,
         "lat": 22.20056,
         "lng": 113.54611,
-        "country": "MO",
-        "state": "02",
         "population": 520400
     }
 }

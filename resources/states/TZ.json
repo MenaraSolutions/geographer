@@ -1,5 +1,6 @@
 [
     {
+        "parent": "TZ",
         "ids": {
             "fips": "19",
             "geonames": 148679
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "25",
             "geonames": 148724
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "22",
             "geonames": 148725
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "21",
             "geonames": 148728
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "18",
             "geonames": 149595
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "17",
             "geonames": 149653
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "16",
             "geonames": 149876
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "15",
             "geonames": 150004
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "24",
             "geonames": 150442
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "02",
             "geonames": 150602
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "20",
             "geonames": 150732
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "13",
             "geonames": 150733
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "12",
             "geonames": 152219
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "10",
             "geonames": 153214
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "09",
             "geonames": 154375
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "08",
             "geonames": 154775
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "07",
             "geonames": 155946
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "06",
             "geonames": 157449
@@ -162,6 +180,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "05",
             "geonames": 157732
@@ -171,6 +190,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "04",
             "geonames": 159067
@@ -180,6 +200,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "03",
             "geonames": 160192
@@ -189,6 +210,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "23",
             "geonames": 160260
@@ -198,6 +220,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "26",
             "geonames": 161322
@@ -207,6 +230,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "27",
             "geonames": 435764
@@ -216,6 +240,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "14",
             "geonames": 877416
@@ -225,6 +250,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "11",
             "geonames": 877744
@@ -234,6 +260,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "31",
             "geonames": 8469238
@@ -243,6 +270,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "28",
             "geonames": 8469239
@@ -252,6 +280,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "29",
             "geonames": 8469240
@@ -261,6 +290,7 @@
         }
     },
     {
+        "parent": "TZ",
         "ids": {
             "fips": "30",
             "geonames": 8469241

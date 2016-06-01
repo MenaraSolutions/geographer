@@ -6,10 +6,9 @@
         "long": {
             "default": "Phnom Penh"
         },
+        "parent": 1830103,
         "lat": 11.56245,
         "lng": 104.91601,
-        "country": "KH",
-        "state": "22",
         "population": 1573544
     },
     "1821935": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ta Khmau"
         },
+        "parent": 1831095,
         "lat": 11.48333,
         "lng": 104.95,
-        "country": "KH",
-        "state": "07",
         "population": 52066
     },
     "1821940": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Takeo"
         },
+        "parent": 1821939,
         "lat": 10.99081,
         "lng": 104.78498,
-        "country": "KH",
-        "state": "19",
         "population": 843931
     },
     "1822214": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Siem Reap"
         },
+        "parent": 1822213,
         "lat": 13.36179,
         "lng": 103.86056,
-        "country": "KH",
-        "state": "24",
         "population": 139458
     },
     "1822768": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Pursat"
         },
+        "parent": 1821301,
         "lat": 12.53878,
         "lng": 103.9192,
-        "country": "KH",
-        "state": "12",
         "population": 52476
     },
     "1830194": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Paôy Pêt"
         },
+        "parent": 1899273,
         "lat": 13.65611,
         "lng": 102.5625,
-        "country": "KH",
-        "state": "25",
         "population": 79000
     },
     "1831142": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Sihanoukville"
         },
+        "parent": 1899262,
         "lat": 10.60932,
         "lng": 103.52958,
-        "country": "KH",
-        "state": "28",
         "population": 156691
     },
     "1831167": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Kampong Chhnang"
         },
+        "parent": 1831166,
         "lat": 12.25,
         "lng": 104.66667,
-        "country": "KH",
-        "state": "03",
         "population": 75244
     },
     "1831173": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kampong Cham"
         },
+        "parent": 1831172,
         "lat": 11.99339,
         "lng": 105.4635,
-        "country": "KH",
-        "state": "02",
         "population": 61750
     },
     "1831797": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Battambang"
         },
+        "parent": 1821310,
         "lat": 13.10271,
         "lng": 103.19822,
-        "country": "KH",
-        "state": "29",
         "population": 150444
     }
 }

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "LR",
         "ids": {
             "fips": "10",
             "geonames": 2273898
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "09",
             "geonames": 2274688
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "14",
             "geonames": 2274890
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "13",
             "geonames": 2275099
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "20",
             "geonames": 2275344
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "19",
             "geonames": 2276622
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "12",
             "geonames": 2276627
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "11",
             "geonames": 2276630
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "01",
             "geonames": 2278292
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "15",
             "geonames": 2278324
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "16",
             "geonames": 2588490
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "17",
             "geonames": 2588491
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "18",
             "geonames": 2588492
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "21",
             "geonames": 2593119
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "LR",
         "ids": {
             "fips": "22",
             "geonames": 2593120

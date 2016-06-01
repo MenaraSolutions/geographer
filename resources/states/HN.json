@@ -1,5 +1,6 @@
 [
     {
+        "parent": "HN",
         "ids": {
             "fips": "18",
             "geonames": 3600193
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "17",
             "geonames": 3600456
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "16",
             "geonames": 3601689
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "15",
             "geonames": 3604249
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "14",
             "geonames": 3604318
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "13",
             "geonames": 3606066
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "12",
             "geonames": 3607251
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "11",
             "geonames": 3608814
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "10",
             "geonames": 3608833
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "09",
             "geonames": 3609583
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "08",
             "geonames": 3609672
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "07",
             "geonames": 3610942
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "06",
             "geonames": 3613140
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "05",
             "geonames": 3613229
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "04",
             "geonames": 3613319
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "03",
             "geonames": 3613358
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "02",
             "geonames": 3613527
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "HN",
         "ids": {
             "fips": "01",
             "geonames": 3615027

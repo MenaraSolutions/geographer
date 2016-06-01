@@ -6,10 +6,9 @@
         "long": {
             "default": "Port Moresby"
         },
+        "parent": 2089856,
         "lat": -9.44314,
         "lng": 147.17972,
-        "country": "PG",
-        "state": "20",
         "population": 283733
     },
     "2092740": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Lae"
         },
+        "parent": 2090468,
         "lat": -6.72208,
         "lng": 146.98469,
-        "country": "PG",
-        "state": "14",
         "population": 76255
     }
 }

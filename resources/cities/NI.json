@@ -6,10 +6,9 @@
         "long": {
             "default": "Tipitapa"
         },
+        "parent": 3617762,
         "lat": 12.19732,
         "lng": -86.09706,
-        "country": "NI",
-        "state": "10",
         "population": 127153
     },
     "3617459": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Nueva Guinea"
         },
+        "parent": 3830308,
         "lat": 11.68758,
         "lng": -84.45616,
-        "country": "NI",
-        "state": "18",
         "population": 52929
     },
     "3617708": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Matagalpa"
         },
+        "parent": 3617707,
         "lat": 12.92559,
         "lng": -85.91747,
-        "country": "NI",
-        "state": "12",
         "population": 109089
     },
     "3617723": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Masaya"
         },
+        "parent": 3617722,
         "lat": 11.97444,
         "lng": -86.09417,
-        "country": "NI",
-        "state": "11",
         "population": 130113
     },
     "3617763": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Managua"
         },
+        "parent": 3617762,
         "lat": 12.13282,
         "lng": -86.2504,
-        "country": "NI",
-        "state": "10",
         "population": 973087
     },
     "3618030": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "León"
         },
+        "parent": 3618029,
         "lat": 12.43787,
         "lng": -86.87804,
-        "country": "NI",
-        "state": "08",
         "population": 144538
     },
     "3618908": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Juigalpa"
         },
+        "parent": 3620368,
         "lat": 12.10629,
         "lng": -85.36452,
-        "country": "NI",
-        "state": "04",
         "population": 54731
     },
     "3618929": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Jinotega"
         },
+        "parent": 3618928,
         "lat": 13.10042,
         "lng": -86.00226,
-        "country": "NI",
-        "state": "07",
         "population": 51073
     },
     "3619136": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Granada"
         },
+        "parent": 3619135,
         "lat": 11.92988,
         "lng": -85.95602,
-        "country": "NI",
-        "state": "06",
         "population": 89409
     },
     "3619194": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Estelí"
         },
+        "parent": 3619193,
         "lat": 13.09185,
         "lng": -86.35384,
-        "country": "NI",
-        "state": "05",
         "population": 96422
     },
     "3619267": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "El Viejo"
         },
+        "parent": 3620380,
         "lat": 12.6633,
         "lng": -87.16722,
-        "country": "NI",
-        "state": "03",
         "population": 53504
     },
     "3620381": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Chinandega"
         },
+        "parent": 3620380,
         "lat": 12.62937,
         "lng": -87.13105,
-        "country": "NI",
-        "state": "03",
         "population": 126387
     },
     "3828262": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Ciudad Sandino"
         },
+        "parent": 3617762,
         "lat": 12.15889,
         "lng": -86.34417,
-        "country": "NI",
-        "state": "10",
         "population": 70013
     }
 }

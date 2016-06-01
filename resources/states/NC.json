@@ -1,5 +1,6 @@
 [
     {
+        "parent": "NC",
         "ids": {
             "fips": "02",
             "geonames": 2140464
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "NC",
         "ids": {
             "fips": "01",
             "geonames": 2140685
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "NC",
         "ids": {
             "fips": "03",
             "geonames": 7521415

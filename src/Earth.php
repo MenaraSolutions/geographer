@@ -44,6 +44,14 @@ class Earth extends Divisible
     }
 
     /**
+     * @return null
+     */
+    public function getParentCode()
+    {
+        return null;
+    }
+
+    /**
      * @return MemberCollection
      */
     public function getAfrica()
@@ -101,12 +109,5 @@ class Earth extends Divisible
         return $this->find([
             'continent' => 'OC'
         ]);
-    }
-
-    /**
-     * @return string
-     */
-    protected function getStoragePath() {
-        return $this->config->getStoragePath() . 'countries.json';
     }
 }

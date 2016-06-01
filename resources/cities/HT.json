@@ -6,10 +6,9 @@
         "long": {
             "default": "Thomazeau"
         },
+        "parent": 3719432,
         "lat": 18.65094,
         "lng": -72.09191,
-        "country": "HT",
-        "state": "11",
         "population": 52017
     },
     "3717588": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Saint-Marc"
         },
+        "parent": 3731053,
         "lat": 19.10819,
         "lng": -72.69379,
-        "country": "HT",
-        "state": "06",
         "population": 66226
     },
     "3718420": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Port-de-Paix"
         },
+        "parent": 3719536,
         "lat": 19.9389,
         "lng": -72.83257,
-        "country": "HT",
-        "state": "03",
         "population": 250000
     },
     "3718426": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Port-au-Prince"
         },
+        "parent": 3719432,
         "lat": 18.53917,
         "lng": -72.335,
-        "country": "HT",
-        "state": "11",
         "population": 1234742
     },
     "3718962": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Tigwav"
         },
+        "parent": 3719432,
         "lat": 18.42939,
         "lng": -72.86297,
-        "country": "HT",
-        "state": "11",
         "population": 117504
     },
     "3719028": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Pétionville"
         },
+        "parent": 3719432,
         "lat": 18.5125,
         "lng": -72.28528,
-        "country": "HT",
-        "state": "11",
         "population": 283052
     },
     "3720824": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Miragoâne"
         },
+        "parent": 7115999,
         "lat": 18.44232,
         "lng": -73.08758,
-        "country": "HT",
-        "state": "15",
         "population": 89202
     },
     "3722286": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Léogâne"
         },
+        "parent": 3719432,
         "lat": 18.50959,
         "lng": -72.63147,
-        "country": "HT",
-        "state": "11",
         "population": 134190
     },
     "3723593": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Jérémie"
         },
+        "parent": 3724613,
         "lat": 18.65,
         "lng": -74.11667,
-        "country": "HT",
-        "state": "14",
         "population": 97503
     },
     "3723779": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Jacmel"
         },
+        "parent": 3716950,
         "lat": 18.23427,
         "lng": -72.53539,
-        "country": "HT",
-        "state": "13",
         "population": 137966
     },
     "3724696": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Gonayiv"
         },
+        "parent": 3731053,
         "lat": 19.44749,
         "lng": -72.68903,
-        "country": "HT",
-        "state": "06",
         "population": 84961
     },
     "3726786": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Delmas 73"
         },
+        "parent": 3719432,
         "lat": 18.54472,
         "lng": -72.30278,
-        "country": "HT",
-        "state": "11",
         "population": 382920
     },
     "3727135": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Croix des Bouquets"
         },
+        "parent": 3719432,
         "lat": 18.57512,
         "lng": -72.22302,
-        "country": "HT",
-        "state": "11",
         "population": 229127
     },
     "3728097": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Les Cayes"
         },
+        "parent": 3716952,
         "lat": 18.19331,
         "lng": -73.74601,
-        "country": "HT",
-        "state": "12",
         "population": 125799
     },
     "3728338": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Carrefour"
         },
+        "parent": 3719432,
         "lat": 18.54114,
         "lng": -72.39922,
-        "country": "HT",
-        "state": "11",
         "population": 442156
     },
     "3728474": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Okap"
         },
+        "parent": 3719543,
         "lat": 19.75938,
         "lng": -72.19815,
-        "country": "HT",
-        "state": "09",
         "population": 134815
     }
 }

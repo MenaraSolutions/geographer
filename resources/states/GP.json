@@ -1,5 +1,6 @@
 [
     {
+        "parent": "GP",
         "ids": {
             "fips": "GP",
             "geonames": 6690363

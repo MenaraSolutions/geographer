@@ -6,10 +6,9 @@
         "long": {
             "default": "Zhanaozen"
         },
+        "parent": 608879,
         "lat": 43.34116,
         "lng": 52.86192,
-        "country": "KZ",
-        "state": "09",
         "population": 103598
     },
     "608668": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Oral"
         },
+        "parent": 607847,
         "lat": 51.23333,
         "lng": 51.36667,
-        "country": "KZ",
-        "state": "07",
         "population": 200000
     },
     "609123": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Qulsary"
         },
+        "parent": 609862,
         "lat": 46.95307,
         "lng": 54.01978,
-        "country": "KZ",
-        "state": "06",
         "population": 51216
     },
     "609655": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Karagandy"
         },
+        "parent": 1523401,
         "lat": 49.83333,
         "lng": 73.1658,
-        "country": "KZ",
-        "state": "12",
         "population": 451800
     },
     "610529": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Atyrau"
         },
+        "parent": 609862,
         "lat": 47.11667,
         "lng": 51.88333,
-        "country": "KZ",
-        "state": "06",
         "population": 180000
     },
     "610611": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Aqtöbe"
         },
+        "parent": 610688,
         "lat": 50.27969,
         "lng": 57.20718,
-        "country": "KZ",
-        "state": "04",
         "population": 262457
     },
     "610612": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Aktau"
         },
+        "parent": 608879,
         "lat": 43.65,
         "lng": 51.16667,
-        "country": "KZ",
-        "state": "09",
         "population": 147443
     },
     "1516589": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Zhezqazghan"
         },
+        "parent": 1523401,
         "lat": 47.78333,
         "lng": 67.76667,
-        "country": "KZ",
-        "state": "12",
         "population": 104357
     },
     "1516905": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Taraz"
         },
+        "parent": 1524444,
         "lat": 42.9,
         "lng": 71.36667,
-        "country": "KZ",
-        "state": "17",
         "population": 358153
     },
     "1517945": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Turkestan"
         },
+        "parent": 1524787,
         "lat": 43.29733,
         "lng": 68.25175,
-        "country": "KZ",
-        "state": "10",
         "population": 97360
     },
     "1518262": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Temirtau"
         },
+        "parent": 1523401,
         "lat": 50.05494,
         "lng": 72.96464,
-        "country": "KZ",
-        "state": "12",
         "population": 170600
     },
     "1518542": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Taldykorgan"
         },
+        "parent": 1537162,
         "lat": 45.01556,
         "lng": 78.37389,
-        "country": "KZ",
-        "state": "01",
         "population": 116558
     },
     "1518543": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Taldyqorghan"
         },
+        "parent": 1537162,
         "lat": 45,
         "lng": 77.91667,
-        "country": "KZ",
-        "state": "01",
         "population": 200000
     },
     "1518980": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Shymkent"
         },
+        "parent": 1524787,
         "lat": 42.3,
         "lng": 69.6,
-        "country": "KZ",
-        "state": "10",
         "population": 414032
     },
     "1519422": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Semey"
         },
+        "parent": 1517381,
         "lat": 50.42675,
         "lng": 80.26669,
-        "country": "KZ",
-        "state": "15",
         "population": 292780
     },
     "1519691": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Sarkand"
         },
+        "parent": 1537162,
         "lat": 45.41126,
         "lng": 79.91545,
-        "country": "KZ",
-        "state": "01",
         "population": 76919
     },
     "1519843": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Rudnyy"
         },
+        "parent": 1521671,
         "lat": 52.9729,
         "lng": 63.11677,
-        "country": "KZ",
-        "state": "13",
         "population": 124000
     },
     "1519922": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Kyzylorda"
         },
+        "parent": 1521406,
         "lat": 44.85278,
         "lng": 65.50917,
-        "country": "KZ",
-        "state": "14",
         "population": 300000
     },
     "1519928": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Kostanay"
         },
+        "parent": 1521671,
         "lat": 53.21435,
         "lng": 63.62463,
-        "country": "KZ",
-        "state": "13",
         "population": 210000
     },
     "1520172": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Petropavl"
         },
+        "parent": 1519367,
         "lat": 54.86667,
         "lng": 69.15,
-        "country": "KZ",
-        "state": "16",
         "population": 200920
     },
     "1520240": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Pavlodar"
         },
+        "parent": 1520239,
         "lat": 52.28333,
         "lng": 76.96667,
-        "country": "KZ",
-        "state": "11",
         "population": 329002
     },
     "1520316": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Ust-Kamenogorsk"
         },
+        "parent": 1517381,
         "lat": 49.97143,
         "lng": 82.60586,
-        "country": "KZ",
-        "state": "15",
         "population": 319067
     },
     "1521368": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Baykonyr"
         },
+        "parent": 1538316,
         "lat": 45.61667,
         "lng": 63.31667,
-        "country": "KZ",
-        "state": "08",
         "population": 70000
     },
     "1521370": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Ridder"
         },
+        "parent": 1517381,
         "lat": 50.34413,
         "lng": 83.51287,
-        "country": "KZ",
-        "state": "15",
         "population": 52664
     },
     "1522203": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Kokshetau"
         },
+        "parent": 1518003,
         "lat": 53.28333,
         "lng": 69.4,
-        "country": "KZ",
-        "state": "03",
         "population": 124444
     },
     "1522751": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Kentau"
         },
+        "parent": 1524787,
         "lat": 43.51672,
         "lng": 68.50463,
-        "country": "KZ",
-        "state": "10",
         "population": 57408
     },
     "1524325": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Ekibastuz"
         },
+        "parent": 1520239,
         "lat": 51.72371,
         "lng": 75.32287,
-        "country": "KZ",
-        "state": "11",
         "population": 121470
     },
     "1525798": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Balqash"
         },
+        "parent": 1523401,
         "lat": 46.84806,
         "lng": 74.995,
-        "country": "KZ",
-        "state": "12",
         "population": 81364
     },
     "1526273": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Astana"
         },
+        "parent": 1538317,
         "lat": 51.1801,
         "lng": 71.44598,
-        "country": "KZ",
-        "state": "05",
         "population": 345604
     },
     "1526384": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Almaty"
         },
+        "parent": 1526395,
         "lat": 43.25667,
         "lng": 76.92861,
-        "country": "KZ",
-        "state": "02",
         "population": 2000900
     },
     "9862222": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Kyzyl-Orda"
         },
+        "parent": 1521406,
         "lat": 44.8479,
         "lng": 65.49989,
-        "country": "KZ",
-        "state": "14",
         "population": 300000
     }
 }

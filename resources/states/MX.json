@@ -1,5 +1,6 @@
 [
     {
+        "parent": "MX",
         "ids": {
             "fips": "31",
             "geonames": 3514211
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "30",
             "geonames": 3514780
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "29",
             "geonames": 3515359
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "28",
             "geonames": 3516391
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "27",
             "geonames": 3516458
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "23",
             "geonames": 3520887
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "22",
             "geonames": 3520914
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "21",
             "geonames": 3521082
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "20",
             "geonames": 3522509
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "19",
             "geonames": 3522542
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "17",
             "geonames": 3522961
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "15",
             "geonames": 3523272
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "13",
             "geonames": 3527115
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "12",
             "geonames": 3527213
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "09",
             "geonames": 3527646
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "05",
             "geonames": 3531011
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "04",
             "geonames": 3531730
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "32",
             "geonames": 3979840
@@ -162,6 +180,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "26",
             "geonames": 3982846
@@ -171,6 +190,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "25",
             "geonames": 3983035
@@ -180,6 +200,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "24",
             "geonames": 3985605
@@ -189,6 +210,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "18",
             "geonames": 3995012
@@ -198,6 +220,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "16",
             "geonames": 3995955
@@ -207,6 +230,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "14",
             "geonames": 4004156
@@ -216,6 +240,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "11",
             "geonames": 4005267
@@ -225,6 +250,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "10",
             "geonames": 4011741
@@ -234,6 +260,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "08",
             "geonames": 4013513
@@ -243,6 +270,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "07",
             "geonames": 4013674
@@ -252,6 +280,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "06",
             "geonames": 4014336
@@ -261,6 +290,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "03",
             "geonames": 4017698
@@ -270,6 +300,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "02",
             "geonames": 4017700
@@ -279,6 +310,7 @@
         }
     },
     {
+        "parent": "MX",
         "ids": {
             "fips": "01",
             "geonames": 4019231

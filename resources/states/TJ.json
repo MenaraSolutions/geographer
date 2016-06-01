@@ -1,5 +1,6 @@
 [
     {
+        "parent": "TJ",
         "ids": {
             "fips": "03",
             "geonames": 1221092
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "TJ",
         "ids": {
             "fips": "01",
             "geonames": 1221692
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "TJ",
         "ids": {
             "fips": "02",
             "geonames": 1347488
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "TJ",
         "ids": {
             "fips": "RR",
             "geonames": 6452615
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "TJ",
         "ids": {
             "fips": "7280679",
             "geonames": 7280679

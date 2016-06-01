@@ -6,10 +6,9 @@
         "long": {
             "default": "Toamasina"
         },
+        "parent": 7670857,
         "lat": -18.1492,
         "lng": 49.40234,
-        "country": "MG",
-        "state": "7670857",
         "population": 206373
     },
     "1055429": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Toliara"
         },
+        "parent": 7670913,
         "lat": -23.35,
         "lng": 43.66667,
-        "country": "MG",
-        "state": "7670913",
         "population": 115319
     },
     "1062663": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Mahajanga"
         },
+        "parent": 7670849,
         "lat": -15.71667,
         "lng": 46.31667,
-        "country": "MG",
-        "state": "7670849",
         "population": 154657
     },
     "1064890": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Fianarantsoa"
         },
+        "parent": 7670905,
         "lat": -21.45267,
         "lng": 47.08569,
-        "country": "MG",
-        "state": "7670905",
         "population": 167227
     },
     "1069129": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Antsiranana"
         },
+        "parent": 7670842,
         "lat": -12.2787,
         "lng": 49.29171,
-        "country": "MG",
-        "state": "7670842",
         "population": 82937
     },
     "1069166": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Antsirabe"
         },
+        "parent": 7670854,
         "lat": -19.86586,
         "lng": 47.03333,
-        "country": "MG",
-        "state": "7670854",
         "population": 186253
     },
     "1070661": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Antanifotsy"
         },
+        "parent": 7670854,
         "lat": -19.65,
         "lng": 47.31667,
-        "country": "MG",
-        "state": "7670854",
         "population": 70626
     },
     "1070940": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Antananarivo"
         },
+        "parent": 7670856,
         "lat": -18.91368,
         "lng": 47.53613,
-        "country": "MG",
-        "state": "7670856",
         "population": 1391433
     },
     "1078446": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Amparafaravola"
         },
+        "parent": 7670851,
         "lat": -17.5876,
         "lng": 48.22391,
-        "country": "MG",
-        "state": "7670851",
         "population": 51519
     },
     "1079048": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Ambovombe"
         },
+        "parent": 7670911,
         "lat": -25.17838,
         "lng": 46.08722,
-        "country": "MG",
-        "state": "7670911",
         "population": 66818
     },
     "1082243": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Ambilobe"
         },
+        "parent": 7670842,
         "lat": -13.2,
         "lng": 49.05,
-        "country": "MG",
-        "state": "7670842",
         "population": 56000
     }
 }

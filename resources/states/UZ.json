@@ -1,5 +1,6 @@
 [
     {
+        "parent": "UZ",
         "ids": {
             "fips": "09",
             "geonames": 453752
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "12",
             "geonames": 1114926
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "10",
             "geonames": 1114927
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "08",
             "geonames": 1114928
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "02",
             "geonames": 1114929
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "14",
             "geonames": 1484838
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "13",
             "geonames": 1484839
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "16",
             "geonames": 1484840
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "07",
             "geonames": 1484841
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "06",
             "geonames": 1484842
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "05",
             "geonames": 1484843
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "15",
             "geonames": 1484844
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "03",
             "geonames": 1484845
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "UZ",
         "ids": {
             "fips": "01",
             "geonames": 1484846

@@ -6,10 +6,9 @@
         "long": {
             "default": "Youssoufia"
         },
+        "parent": 2597549,
         "lat": 32.24634,
         "lng": -8.52941,
-        "country": "MA",
-        "state": "51",
         "population": 64910
     },
     "2527089": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tiznit"
         },
+        "parent": 2597554,
         "lat": 29.69742,
         "lng": -9.73162,
-        "country": "MA",
-        "state": "55",
         "population": 55092
     },
     "2527645": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tirhanimîne"
         },
+        "parent": 2597557,
         "lat": 35.23619,
         "lng": -3.95453,
-        "country": "MA",
-        "state": "58",
         "population": 55827
     },
     "2528659": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Tiflet"
         },
+        "parent": 2538470,
         "lat": 33.89469,
         "lng": -6.30649,
-        "country": "MA",
-        "state": "49",
         "population": 70010
     },
     "2528910": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Tétouan"
         },
+        "parent": 2597556,
         "lat": 35.57845,
         "lng": -5.36837,
-        "country": "MA",
-        "state": "57",
         "population": 326261
     },
     "2529317": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Taza"
         },
+        "parent": 2597557,
         "lat": 34.21,
         "lng": -4.01,
-        "country": "MA",
-        "state": "58",
         "population": 141890
     },
     "2529649": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Taroudant"
         },
+        "parent": 2597554,
         "lat": 30.47028,
         "lng": -8.87695,
-        "country": "MA",
-        "state": "55",
         "population": 71133
     },
     "2530048": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Taourirt"
         },
+        "parent": 2597553,
         "lat": 34.40731,
         "lng": -2.89732,
-        "country": "MA",
-        "state": "54",
         "population": 82518
     },
     "2530241": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Tan-Tan"
         },
+        "parent": 2597551,
         "lat": 28.43799,
         "lng": -11.10321,
-        "country": "MA",
-        "state": "53",
         "population": 61924
     },
     "2530335": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Tangier"
         },
+        "parent": 2597556,
         "lat": 35.76727,
         "lng": -5.79975,
-        "country": "MA",
-        "state": "57",
         "population": 688356
     },
     "2532945": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Sidi Slimane"
         },
+        "parent": 2597550,
         "lat": 34.26479,
         "lng": -5.92598,
-        "country": "MA",
-        "state": "52",
         "population": 79437
     },
     "2533191": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Sidi Qacem"
         },
+        "parent": 2597550,
         "lat": 34.22149,
         "lng": -5.70775,
-        "country": "MA",
-        "state": "52",
         "population": 74755
     },
     "2537406": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Settat"
         },
+        "parent": 2597548,
         "lat": 33.00103,
         "lng": -7.61662,
-        "country": "MA",
-        "state": "50",
         "population": 119082
     },
     "2537545": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Sefrou"
         },
+        "parent": 2548882,
         "lat": 33.83186,
         "lng": -4.828,
-        "country": "MA",
-        "state": "46",
         "population": 65150
     },
     "2537763": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Sale"
         },
+        "parent": 2538470,
         "lat": 34.0531,
         "lng": -6.79846,
-        "country": "MA",
-        "state": "49",
         "population": 903485
     },
     "2537881": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Safi"
         },
+        "parent": 2597549,
         "lat": 32.29939,
         "lng": -9.23718,
-        "country": "MA",
-        "state": "51",
         "population": 288163
     },
     "2538475": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Rabat"
         },
+        "parent": 2538470,
         "lat": 34.01325,
         "lng": -6.83255,
-        "country": "MA",
-        "state": "49",
         "population": 1655753
     },
     "2539134": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Oulad Teïma"
         },
+        "parent": 2597554,
         "lat": 30.39467,
         "lng": -9.20897,
-        "country": "MA",
-        "state": "55",
         "population": 66832
     },
     "2540483": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Oujda"
         },
+        "parent": 2597553,
         "lat": 34.68139,
         "lng": -1.90858,
-        "country": "MA",
-        "state": "54",
         "population": 405253
     },
     "2540689": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Oued Zem"
         },
+        "parent": 2597548,
         "lat": 32.8627,
         "lng": -6.57359,
-        "country": "MA",
-        "state": "50",
         "population": 84910
     },
     "2540810": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Ouezzane"
         },
+        "parent": 2597550,
         "lat": 34.79584,
         "lng": -5.57849,
-        "country": "MA",
-        "state": "52",
         "population": 58684
     },
     "2540850": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Ouarzazat"
         },
+        "parent": 2597554,
         "lat": 30.91894,
         "lng": -6.89341,
-        "country": "MA",
-        "state": "55",
         "population": 57245
     },
     "2541479": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Nador"
         },
+        "parent": 2597553,
         "lat": 35.16813,
         "lng": -2.93352,
-        "country": "MA",
-        "state": "54",
         "population": 129260
     },
     "2542051": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Mohammedia"
         },
+        "parent": 2553603,
         "lat": 33.68607,
         "lng": -7.38298,
-        "country": "MA",
-        "state": "45",
         "population": 187708
     },
     "2542715": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Meknès"
         },
+        "parent": 2542710,
         "lat": 33.89352,
         "lng": -5.54727,
-        "country": "MA",
-        "state": "48",
         "population": 545705
     },
     "2542997": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Marrakesh"
         },
+        "parent": 2542995,
         "lat": 31.63416,
         "lng": -7.99994,
-        "country": "MA",
-        "state": "47",
         "population": 839296
     },
     "2543549": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Larache"
         },
+        "parent": 2597556,
         "lat": 35.19321,
         "lng": -6.15572,
-        "country": "MA",
-        "state": "57",
         "population": 109294
     },
     "2544001": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Ksar El Kebir"
         },
+        "parent": 2597556,
         "lat": 35.00044,
         "lng": -5.90378,
-        "country": "MA",
-        "state": "57",
         "population": 108753
     },
     "2544248": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Khouribga"
         },
+        "parent": 2597548,
         "lat": 32.88108,
         "lng": -6.9063,
-        "country": "MA",
-        "state": "50",
         "population": 167673
     },
     "2544333": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Khenifra"
         },
+        "parent": 2542710,
         "lat": 32.9391,
         "lng": -5.6686,
-        "country": "MA",
-        "state": "48",
         "population": 73906
     },
     "2544571": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Kenitra"
         },
+        "parent": 2597550,
         "lat": 34.26101,
         "lng": -6.5802,
-        "country": "MA",
-        "state": "52",
         "population": 366570
     },
     "2548489": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Guercif"
         },
+        "parent": 2597557,
         "lat": 34.22568,
         "lng": -3.35361,
-        "country": "MA",
-        "state": "58",
         "population": 57544
     },
     "2548526": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Guelmim"
         },
+        "parent": 2597551,
         "lat": 28.98696,
         "lng": -10.05738,
-        "country": "MA",
-        "state": "53",
         "population": 98229
     },
     "2548830": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Fkih Ben Salah"
         },
+        "parent": 2597555,
         "lat": 32.50093,
         "lng": -6.69062,
-        "country": "MA",
-        "state": "56",
         "population": 84072
     },
     "2548880": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Fès al Bali"
         },
+        "parent": 2548882,
         "lat": 34.0701,
         "lng": -4.95473,
-        "country": "MA",
-        "state": "46",
         "population": 156000
     },
     "2548885": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Fes"
         },
+        "parent": 2548882,
         "lat": 34.03313,
         "lng": -5.00028,
-        "country": "MA",
-        "state": "46",
         "population": 964891
     },
     "2549263": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Essaouira"
         },
+        "parent": 2542995,
         "lat": 31.5125,
         "lng": -9.77,
-        "country": "MA",
-        "state": "47",
         "population": 70634
     },
     "2550078": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "El Jadida"
         },
+        "parent": 2597549,
         "lat": 33.25492,
         "lng": -8.50602,
-        "country": "MA",
-        "state": "51",
         "population": 147549
     },
     "2553604": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Casablanca"
         },
+        "parent": 2553603,
         "lat": 33.58831,
         "lng": -7.61138,
-        "country": "MA",
-        "state": "45",
         "population": 3144909
     },
     "2555467": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Berkane"
         },
+        "parent": 2597553,
         "lat": 34.92,
         "lng": -2.32,
-        "country": "MA",
-        "state": "54",
         "population": 80721
     },
     "2555745": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Beni Mellal"
         },
+        "parent": 2597555,
         "lat": 32.33725,
         "lng": -6.34983,
-        "country": "MA",
-        "state": "56",
         "population": 166399
     },
     "2556272": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Berrechid"
         },
+        "parent": 2597548,
         "lat": 33.26553,
         "lng": -7.58754,
-        "country": "MA",
-        "state": "50",
         "population": 93954
     },
     "2558470": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Khemisset"
         },
+        "parent": 2538470,
         "lat": 33.82404,
         "lng": -6.06627,
-        "country": "MA",
-        "state": "49",
         "population": 106991
     },
     "2558545": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Al Hoceïma"
         },
+        "parent": 2597557,
         "lat": 35.25165,
         "lng": -3.93723,
-        "country": "MA",
-        "state": "58",
         "population": 395644
     },
     "2561668": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Agadir"
         },
+        "parent": 2597554,
         "lat": 30.42018,
         "lng": -9.59815,
-        "country": "MA",
-        "state": "55",
         "population": 698310
     },
     "8542188": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Dakhla"
         },
+        "parent": 7627603,
         "lat": 30.41071,
         "lng": -9.55572,
-        "country": "MA",
-        "state": "EH",
         "population": 55618
     }
 }

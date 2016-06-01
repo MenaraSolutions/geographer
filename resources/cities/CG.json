@@ -6,10 +6,9 @@
         "long": {
             "default": "Pointe-Noire"
         },
+        "parent": 7280295,
         "lat": -4.77609,
         "lng": 11.86352,
-        "country": "CG",
-        "state": "7280295",
         "population": 659084
     },
     "2258261": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Dolisie"
         },
+        "parent": 2256175,
         "lat": -4.19834,
         "lng": 12.66664,
-        "country": "CG",
-        "state": "07",
         "population": 103894
     },
     "2259383": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Kayes"
         },
+        "parent": 2260668,
         "lat": -4.20493,
         "lng": 13.28608,
-        "country": "CG",
-        "state": "01",
         "population": 58737
     },
     "2260535": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Brazzaville"
         },
+        "parent": 2572183,
         "lat": -4.26613,
         "lng": 15.28318,
-        "country": "CG",
-        "state": "12",
         "population": 1284609
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Vantaa"
         },
+        "parent": 830709,
         "lat": 60.29414,
         "lng": 25.04099,
-        "country": "FI",
-        "state": "01",
         "population": 190058
     },
     "632978": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Vaasa"
         },
+        "parent": 830676,
         "lat": 63.096,
         "lng": 21.61577,
-        "country": "FI",
-        "state": "15",
         "population": 57014
     },
     "633679": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Turku"
         },
+        "parent": 830708,
         "lat": 60.45148,
         "lng": 22.26869,
-        "country": "FI",
-        "state": "02",
         "population": 175945
     },
     "634963": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Tampere"
         },
+        "parent": 830704,
         "lat": 61.49911,
         "lng": 23.78712,
-        "country": "FI",
-        "state": "06",
         "population": 202687
     },
     "640999": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Pori"
         },
+        "parent": 831041,
         "lat": 61.48333,
         "lng": 21.78333,
-        "country": "FI",
-        "state": "04",
         "population": 76772
     },
     "643492": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Oulu"
         },
+        "parent": 830667,
         "lat": 65.01236,
         "lng": 25.46816,
-        "country": "FI",
-        "state": "17",
         "population": 128618
     },
     "648900": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Lappeenranta"
         },
+        "parent": 830699,
         "lat": 61.05871,
         "lng": 28.18871,
-        "country": "FI",
-        "state": "09",
         "population": 59276
     },
     "649360": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Lahti"
         },
+        "parent": 831040,
         "lat": 60.98267,
         "lng": 25.66151,
-        "country": "FI",
-        "state": "07",
         "population": 98826
     },
     "650224": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kuopio"
         },
+        "parent": 830690,
         "lat": 62.89238,
         "lng": 27.67703,
-        "country": "FI",
-        "state": "11",
         "population": 89104
     },
     "650946": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kotka"
         },
+        "parent": 830703,
         "lat": 60.46667,
         "lng": 26.91667,
-        "country": "FI",
-        "state": "08",
         "population": 54616
     },
     "655194": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Jyväskylä"
         },
+        "parent": 830685,
         "lat": 62.24147,
         "lng": 25.72088,
-        "country": "FI",
-        "state": "13",
         "population": 85026
     },
     "655808": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Joensuu"
         },
+        "parent": 830686,
         "lat": 62.60118,
         "lng": 29.76316,
-        "country": "FI",
-        "state": "12",
         "population": 53388
     },
     "658225": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Helsinki"
         },
+        "parent": 830709,
         "lat": 60.16952,
         "lng": 24.93545,
-        "country": "FI",
-        "state": "01",
         "population": 558457
     },
     "660158": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Espoo"
         },
+        "parent": 830709,
         "lat": 60.2052,
         "lng": 24.6522,
-        "country": "FI",
-        "state": "01",
         "population": 256760
     }
 }

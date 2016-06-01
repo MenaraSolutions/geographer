@@ -1,5 +1,6 @@
 [
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "ZH",
             "geonames": 2657895
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "ZG",
             "geonames": 2657907
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "VD",
             "geonames": 2658182
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "VS",
             "geonames": 2658205
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "UR",
             "geonames": 2658226
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "TI",
             "geonames": 2658370
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "TG",
             "geonames": 2658372
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "SO",
             "geonames": 2658563
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "SZ",
             "geonames": 2658664
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "SH",
             "geonames": 2658760
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "SG",
             "geonames": 2658821
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "OW",
             "geonames": 2659315
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "NW",
             "geonames": 2659471
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "NE",
             "geonames": 2659495
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "LU",
             "geonames": 2659810
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "JU",
             "geonames": 2660207
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "GR",
             "geonames": 2660522
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "GL",
             "geonames": 2660593
@@ -162,6 +180,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "GE",
             "geonames": 2660645
@@ -171,6 +190,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "FR",
             "geonames": 2660717
@@ -180,6 +200,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "BE",
             "geonames": 2661551
@@ -189,6 +210,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "BS",
             "geonames": 2661602
@@ -198,6 +220,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "BL",
             "geonames": 2661603
@@ -207,6 +230,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "AR",
             "geonames": 2661739
@@ -216,6 +240,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "AI",
             "geonames": 2661741
@@ -225,6 +250,7 @@
         }
     },
     {
+        "parent": "CH",
         "ids": {
             "iso_3166": "AG",
             "geonames": 2661876

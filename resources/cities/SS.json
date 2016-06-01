@@ -6,10 +6,9 @@
         "long": {
             "default": "Wau"
         },
+        "parent": 408657,
         "lat": 7.70286,
         "lng": 27.9953,
-        "country": "SS",
-        "state": "09",
         "population": 127384
     },
     "370737": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Malakal"
         },
+        "parent": 381229,
         "lat": 9.53342,
         "lng": 31.66049,
-        "country": "SS",
-        "state": "07",
         "population": 160765
     },
     "373303": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Juba"
         },
+        "parent": 408655,
         "lat": 4.85165,
         "lng": 31.58247,
-        "country": "SS",
-        "state": "01",
         "population": 300000
     }
 }

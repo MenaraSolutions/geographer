@@ -6,10 +6,9 @@
         "long": {
             "default": "Zárate"
         },
+        "parent": 3435907,
         "lat": -34.09814,
         "lng": -59.02858,
-        "country": "AR",
-        "state": "01",
         "population": 88781
     },
     "3427408": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Villa Lugano"
         },
+        "parent": 3433955,
         "lat": -34.67907,
         "lng": -58.47263,
-        "country": "AR",
-        "state": "07",
         "population": 114000
     },
     "3427833": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tandil"
         },
+        "parent": 3435907,
         "lat": -37.32167,
         "lng": -59.13316,
-        "country": "AR",
-        "state": "01",
         "population": 104325
     },
     "3429577": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Resistencia"
         },
+        "parent": 3861887,
         "lat": -27.46056,
         "lng": -58.98389,
-        "country": "AR",
-        "state": "03",
         "population": 387158
     },
     "3429594": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Reconquista"
         },
+        "parent": 3836276,
         "lat": -29.15,
         "lng": -59.65,
-        "country": "AR",
-        "state": "21",
         "population": 90184
     },
     "3429652": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Quilmes"
         },
+        "parent": 3435907,
         "lat": -34.72418,
         "lng": -58.25265,
-        "country": "AR",
-        "state": "01",
         "population": 518788
     },
     "3429790": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Puerto Eldorado"
         },
+        "parent": 3430657,
         "lat": -26.40843,
         "lng": -54.69463,
-        "country": "AR",
-        "state": "14",
         "population": 54189
     },
     "3429886": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Posadas"
         },
+        "parent": 3430657,
         "lat": -27.36708,
         "lng": -55.89608,
-        "country": "AR",
-        "state": "14",
         "population": 323739
     },
     "3430340": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Oberá"
         },
+        "parent": 3430657,
         "lat": -27.48706,
         "lng": -55.11994,
-        "country": "AR",
-        "state": "14",
         "population": 56528
     },
     "3430443": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Necochea"
         },
+        "parent": 3435907,
         "lat": -38.5545,
         "lng": -58.73961,
-        "country": "AR",
-        "state": "01",
         "population": 80478
     },
     "3430545": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Morón"
         },
+        "parent": 3435907,
         "lat": -34.65344,
         "lng": -58.61975,
-        "country": "AR",
-        "state": "01",
         "population": 319934
     },
     "3430708": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Mercedes"
         },
+        "parent": 3435907,
         "lat": -34.65145,
         "lng": -59.43068,
-        "country": "AR",
-        "state": "01",
         "population": 52949
     },
     "3430863": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Mar del Plata"
         },
+        "parent": 3435907,
         "lat": -38.00228,
         "lng": -57.55754,
-        "country": "AR",
-        "state": "01",
         "population": 553935
     },
     "3430988": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Luján"
         },
+        "parent": 3435907,
         "lat": -34.57028,
         "lng": -59.105,
-        "country": "AR",
-        "state": "01",
         "population": 81749
     },
     "3432043": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "La Plata"
         },
+        "parent": 3435907,
         "lat": -34.92145,
         "lng": -57.95453,
-        "country": "AR",
-        "state": "01",
         "population": 694167
     },
     "3433658": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Gualeguaychú"
         },
+        "parent": 3434137,
         "lat": -33.00937,
         "lng": -58.51722,
-        "country": "AR",
-        "state": "08",
         "population": 78676
     },
     "3433715": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Goya"
         },
+        "parent": 3435214,
         "lat": -29.14395,
         "lng": -59.2651,
-        "country": "AR",
-        "state": "06",
         "population": 70245
     },
     "3433899": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Formosa"
         },
+        "parent": 3433896,
         "lat": -26.17753,
         "lng": -58.17814,
-        "country": "AR",
-        "state": "09",
         "population": 221383
     },
     "3435217": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Corrientes"
         },
+        "parent": 3435214,
         "lat": -27.4806,
         "lng": -58.8341,
-        "country": "AR",
-        "state": "06",
         "population": 339067
     },
     "3435261": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Concordia"
         },
+        "parent": 3434137,
         "lat": -31.39296,
         "lng": -58.02089,
-        "country": "AR",
-        "state": "08",
         "population": 145210
     },
     "3435264": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Concepción del Uruguay"
         },
+        "parent": 3434137,
         "lat": -32.48249,
         "lng": -58.23722,
-        "country": "AR",
-        "state": "08",
         "population": 67895
     },
     "3435356": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Colegiales"
         },
+        "parent": 3433955,
         "lat": -34.57365,
         "lng": -58.44924,
-        "country": "AR",
-        "state": "07",
         "population": 57000
     },
     "3435810": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Campana"
         },
+        "parent": 3435907,
         "lat": -34.16874,
         "lng": -58.95914,
-        "country": "AR",
-        "state": "01",
         "population": 81612
     },
     "3435910": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Buenos Aires"
         },
+        "parent": 3433955,
         "lat": -34.61315,
         "lng": -58.37723,
-        "country": "AR",
-        "state": "07",
         "population": 13076300
     },
     "3436124": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Barranqueras"
         },
+        "parent": 3861887,
         "lat": -27.48132,
         "lng": -58.93925,
-        "country": "AR",
-        "state": "03",
         "population": 50823
     },
     "3436199": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Azul"
         },
+        "parent": 3435907,
         "lat": -36.77698,
         "lng": -59.85854,
-        "country": "AR",
-        "state": "01",
         "population": 53941
     },
     "3832260": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Yerba Buena"
         },
+        "parent": 3833578,
         "lat": -26.81667,
         "lng": -65.31667,
-        "country": "AR",
-        "state": "24",
         "population": 50783
     },
     "3832694": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Villa María"
         },
+        "parent": 3860255,
         "lat": -32.40751,
         "lng": -63.24016,
-        "country": "AR",
-        "state": "05",
         "population": 92453
     },
     "3832791": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Villa Carlos Paz"
         },
+        "parent": 3860255,
         "lat": -31.42414,
         "lng": -64.49778,
-        "country": "AR",
-        "state": "05",
         "population": 69451
     },
     "3833062": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Venado Tuerto"
         },
+        "parent": 3836276,
         "lat": -33.74556,
         "lng": -61.96885,
-        "country": "AR",
-        "state": "21",
         "population": 72340
     },
     "3833367": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Ushuaia"
         },
+        "parent": 3834450,
         "lat": -54.8,
         "lng": -68.3,
-        "country": "AR",
-        "state": "23",
         "population": 58028
     },
     "3833883": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Trelew"
         },
+        "parent": 3861244,
         "lat": -43.24895,
         "lng": -65.30505,
-        "country": "AR",
-        "state": "04",
         "population": 93442
     },
     "3834601": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Tartagal"
         },
+        "parent": 3838231,
         "lat": -22.51637,
         "lng": -63.80131,
-        "country": "AR",
-        "state": "17",
         "population": 60819
     },
     "3835793": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Santo Tomé"
         },
+        "parent": 3836276,
         "lat": -31.66274,
         "lng": -60.7653,
-        "country": "AR",
-        "state": "21",
         "population": 59072
     },
     "3835869": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Santiago del Estero"
         },
+        "parent": 3835868,
         "lat": -27.79511,
         "lng": -64.26149,
-        "country": "AR",
-        "state": "22",
         "population": 354692
     },
     "3835994": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Santa Rosa"
         },
+        "parent": 3849574,
         "lat": -36.61667,
         "lng": -64.28333,
-        "country": "AR",
-        "state": "11",
         "population": 111424
     },
     "3836277": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Santa Fe de la Vera Cruz"
         },
+        "parent": 3836276,
         "lat": -31.63333,
         "lng": -60.7,
-        "country": "AR",
-        "state": "21",
         "population": 489505
     },
     "3836564": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "San Salvador de Jujuy"
         },
+        "parent": 3853404,
         "lat": -24.19457,
         "lng": -65.29712,
-        "country": "AR",
-        "state": "10",
         "population": 305891
     },
     "3836620": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "San Ramón de la Nueva Orán"
         },
+        "parent": 3838231,
         "lat": -23.13705,
         "lng": -64.32426,
-        "country": "AR",
-        "state": "17",
         "population": 74059
     },
     "3836669": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "San Rafael"
         },
+        "parent": 3844419,
         "lat": -34.61772,
         "lng": -68.33007,
-        "country": "AR",
-        "state": "13",
         "population": 109163
     },
     "3836772": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "San Pedro"
         },
+        "parent": 3853404,
         "lat": -24.23127,
         "lng": -64.86614,
-        "country": "AR",
-        "state": "10",
         "population": 58430
     },
     "3836846": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "San Nicolás de los Arroyos"
         },
+        "parent": 3435907,
         "lat": -33.33578,
         "lng": -60.22523,
-        "country": "AR",
-        "state": "01",
         "population": 127742
     },
     "3836873": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "San Miguel de Tucumán"
         },
+        "parent": 3833578,
         "lat": -26.82414,
         "lng": -65.2226,
-        "country": "AR",
-        "state": "24",
         "population": 781023
     },
     "3836992": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "San Martín"
         },
+        "parent": 3844419,
         "lat": -33.08103,
         "lng": -68.46814,
-        "country": "AR",
-        "state": "13",
         "population": 82549
     },
     "3837056": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "San Luis"
         },
+        "parent": 3837029,
         "lat": -33.29501,
         "lng": -66.33563,
-        "country": "AR",
-        "state": "19",
         "population": 183982
     },
     "3837213": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "San Juan"
         },
+        "parent": 3837152,
         "lat": -31.5375,
         "lng": -68.53639,
-        "country": "AR",
-        "state": "18",
         "population": 447048
     },
     "3837675": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "San Francisco"
         },
+        "parent": 3860255,
         "lat": -31.42797,
         "lng": -62.08266,
-        "country": "AR",
-        "state": "05",
         "population": 59062
     },
     "3837702": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "San Fernando del Valle de Catamarca"
         },
+        "parent": 3862286,
         "lat": -28.46957,
         "lng": -65.78524,
-        "country": "AR",
-        "state": "02",
         "population": 188812
     },
     "3838233": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Salta"
         },
+        "parent": 3838231,
         "lat": -24.7859,
         "lng": -65.41166,
-        "country": "AR",
-        "state": "17",
         "population": 512686
     },
     "3838583": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Rosario"
         },
+        "parent": 3836276,
         "lat": -32.94682,
         "lng": -60.63932,
-        "country": "AR",
-        "state": "21",
         "population": 1173533
     },
     "3838793": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Río Tercero"
         },
+        "parent": 3860255,
         "lat": -32.17301,
         "lng": -64.11405,
-        "country": "AR",
-        "state": "05",
         "population": 53389
     },
     "3838859": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Río Gallegos"
         },
+        "parent": 3836350,
         "lat": -51.62261,
         "lng": -69.21813,
-        "country": "AR",
-        "state": "20",
         "population": 85700
     },
     "3838874": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Río Cuarto"
         },
+        "parent": 3860255,
         "lat": -33.13067,
         "lng": -64.34992,
-        "country": "AR",
-        "state": "05",
         "population": 153757
     },
     "3839479": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Rafaela"
         },
+        "parent": 3836276,
         "lat": -31.25033,
         "lng": -61.4867,
-        "country": "AR",
-        "state": "21",
         "population": 88713
     },
     "3839982": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Punta Alta"
         },
+        "parent": 3435907,
         "lat": -38.87588,
         "lng": -62.07359,
-        "country": "AR",
-        "state": "01",
         "population": 57209
     },
     "3840092": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Puerto Madryn"
         },
+        "parent": 3861244,
         "lat": -42.7692,
         "lng": -65.03851,
-        "country": "AR",
-        "state": "04",
         "population": 64555
     },
     "3840300": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Presidencia Roque Sáenz Peña"
         },
+        "parent": 3861887,
         "lat": -26.78522,
         "lng": -60.43876,
-        "country": "AR",
-        "state": "03",
         "population": 81879
     },
     "3841490": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Pergamino"
         },
+        "parent": 3435907,
         "lat": -33.88995,
         "lng": -60.57357,
-        "country": "AR",
-        "state": "01",
         "population": 87652
     },
     "3841956": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Paraná"
         },
+        "parent": 3434137,
         "lat": -31.73197,
         "lng": -60.5238,
-        "country": "AR",
-        "state": "08",
         "population": 262295
     },
     "3842670": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Olavarría"
         },
+        "parent": 3435907,
         "lat": -36.89272,
         "lng": -60.32254,
-        "country": "AR",
-        "state": "01",
         "population": 86320
     },
     "3843123": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Neuquén"
         },
+        "parent": 3843122,
         "lat": -38.95161,
         "lng": -68.0591,
-        "country": "AR",
-        "state": "15",
         "population": 242092
     },
     "3844421": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Mendoza"
         },
+        "parent": 3844419,
         "lat": -32.89084,
         "lng": -68.82717,
-        "country": "AR",
-        "state": "13",
         "population": 876884
     },
     "3848950": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "La Rioja"
         },
+        "parent": 3848949,
         "lat": -29.41105,
         "lng": -66.85067,
-        "country": "AR",
-        "state": "12",
         "population": 162620
     },
     "3853354": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Junín"
         },
+        "parent": 3435907,
         "lat": -34.58382,
         "lng": -60.94332,
-        "country": "AR",
-        "state": "01",
         "population": 85007
     },
     "3854985": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Gobernador Gálvez"
         },
+        "parent": 3836276,
         "lat": -33.03016,
         "lng": -60.64045,
-        "country": "AR",
-        "state": "21",
         "population": 74650
     },
     "3855065": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "General Roca"
         },
+        "parent": 3838830,
         "lat": -39.03333,
         "lng": -67.58333,
-        "country": "AR",
-        "state": "16",
         "population": 73212
     },
     "3855075": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "General Pico"
         },
+        "parent": 3849574,
         "lat": -35.65662,
         "lng": -63.75682,
-        "country": "AR",
-        "state": "11",
         "population": 57029
     },
     "3860259": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Córdoba"
         },
+        "parent": 3860255,
         "lat": -31.4135,
         "lng": -64.18105,
-        "country": "AR",
-        "state": "05",
         "population": 1428214
     },
     "3860443": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Comodoro Rivadavia"
         },
+        "parent": 3861244,
         "lat": -45.86413,
         "lng": -67.49656,
-        "country": "AR",
-        "state": "04",
         "population": 140850
     },
     "3861056": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Cipolletti"
         },
+        "parent": 3838830,
         "lat": -38.93392,
         "lng": -67.99032,
-        "country": "AR",
-        "state": "16",
         "population": 75078
     },
     "3861344": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Chivilcoy"
         },
+        "parent": 3435907,
         "lat": -34.89566,
         "lng": -60.01667,
-        "country": "AR",
-        "state": "01",
         "population": 54514
     },
     "3861416": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Chimbas"
         },
+        "parent": 3837152,
         "lat": -31.48333,
         "lng": -68.53333,
-        "country": "AR",
-        "state": "18",
         "population": 73829
     },
     "3865086": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Bahía Blanca"
         },
+        "parent": 3435907,
         "lat": -38.71959,
         "lng": -62.27243,
-        "country": "AR",
-        "state": "01",
         "population": 276546
     },
     "7116866": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Villa Mercedes"
         },
+        "parent": 3837029,
         "lat": -33.67571,
         "lng": -65.45783,
-        "country": "AR",
-        "state": "19",
         "population": 96781
     },
     "7647007": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "San Carlos de Bariloche"
         },
+        "parent": 3838830,
         "lat": -41.14557,
         "lng": -71.30822,
-        "country": "AR",
-        "state": "16",
         "population": 95394
     }
 }

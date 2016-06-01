@@ -1,5 +1,6 @@
 [
     {
+        "parent": "FO",
         "ids": {
             "fips": "VG",
             "geonames": 2610816
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "FO",
         "ids": {
             "fips": "SU",
             "geonames": 2612137
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "FO",
         "ids": {
             "fips": "ST",
             "geonames": 2612225
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "FO",
         "ids": {
             "fips": "SA",
             "geonames": 2614219
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "FO",
         "ids": {
             "fips": "NO",
             "geonames": 2616145
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "FO",
         "ids": {
             "fips": "OS",
             "geonames": 2622387

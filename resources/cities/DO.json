@@ -6,10 +6,9 @@
         "long": {
             "default": "Villa Francisca"
         },
+        "parent": 3496024,
         "lat": 18.46667,
         "lng": -69.9,
-        "country": "DO",
-        "state": "34",
         "population": 50185
     },
     "3492908": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Santo Domingo"
         },
+        "parent": 3496024,
         "lat": 18.50012,
         "lng": -69.98857,
-        "country": "DO",
-        "state": "34",
         "population": 2201941
     },
     "3492914": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Santiago de los Caballeros"
         },
+        "parent": 3492918,
         "lat": 19.4517,
         "lng": -70.69703,
-        "country": "DO",
-        "state": "25",
         "population": 1200000
     },
     "3492985": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Santa Cruz de Barahona"
         },
+        "parent": 3512042,
         "lat": 18.20854,
         "lng": -71.10077,
-        "country": "DO",
-        "state": "03",
         "population": 77160
     },
     "3493032": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "San Pedro de Macorís"
         },
+        "parent": 3493031,
         "lat": 18.46156,
         "lng": -69.29718,
-        "country": "DO",
-        "state": "24",
         "population": 217899
     },
     "3493081": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "San Juan de la Maguana"
         },
+        "parent": 3493091,
         "lat": 18.80588,
         "lng": -71.22991,
-        "country": "DO",
-        "state": "23",
         "population": 72950
     },
     "3493146": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "San Francisco de Macorís"
         },
+        "parent": 3508718,
         "lat": 19.30099,
         "lng": -70.25259,
-        "country": "DO",
-        "state": "06",
         "population": 124763
     },
     "3493175": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Puerto Plata"
         },
+        "parent": 3494267,
         "lat": 19.79344,
         "lng": -70.6884,
-        "country": "DO",
-        "state": "18",
         "population": 146000
     },
     "3493240": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Salvaleón de Higüey"
         },
+        "parent": 3503706,
         "lat": 18.61501,
         "lng": -68.70798,
-        "country": "DO",
-        "state": "10",
         "population": 123787
     },
     "3494242": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Punta Cana"
         },
+        "parent": 3503706,
         "lat": 18.58182,
         "lng": -68.40431,
-        "country": "DO",
-        "state": "10",
         "population": 100023
     },
     "3496331": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Moca"
         },
+        "parent": 3505867,
         "lat": 19.39352,
         "lng": -70.52598,
-        "country": "DO",
-        "state": "08",
         "population": 61834
     },
     "3500957": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "La Romana"
         },
+        "parent": 3500955,
         "lat": 18.42733,
         "lng": -68.97285,
-        "country": "DO",
-        "state": "12",
         "population": 208437
     },
     "3509382": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Concepción de La Vega"
         },
+        "parent": 3499977,
         "lat": 19.22207,
         "lng": -70.52956,
-        "country": "DO",
-        "state": "30",
         "population": 102426
     },
     "3511233": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Bonao"
         },
+        "parent": 3496274,
         "lat": 18.93687,
         "lng": -70.40923,
-        "country": "DO",
-        "state": "31",
         "population": 73269
     },
     "3511540": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "San Cristóbal"
         },
+        "parent": 3493186,
         "lat": 18.41667,
         "lng": -70.1,
-        "country": "DO",
-        "state": "33",
         "population": 154040
     },
     "3511550": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Bella Vista"
         },
+        "parent": 3496024,
         "lat": 18.45539,
         "lng": -69.9454,
-        "country": "DO",
-        "state": "34",
         "population": 175683
     },
     "3512067": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Baní"
         },
+        "parent": 3495015,
         "lat": 18.27964,
         "lng": -70.33185,
-        "country": "DO",
-        "state": "35",
         "population": 66709
     },
     "3512128": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Bajos de Haina"
         },
+        "parent": 3493186,
         "lat": 18.41538,
         "lng": -70.03317,
-        "country": "DO",
-        "state": "33",
         "population": 66784
     },
     "3512208": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Azua"
         },
+        "parent": 3512209,
         "lat": 18.45319,
         "lng": -70.7349,
-        "country": "DO",
-        "state": "01",
         "population": 59139
     },
     "7874116": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Santo Domingo Oeste"
         },
+        "parent": 6201373,
         "lat": 18.5,
         "lng": -70,
-        "country": "DO",
-        "state": "37",
         "population": 701269
     }
 }

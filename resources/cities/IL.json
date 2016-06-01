@@ -6,10 +6,9 @@
         "long": {
             "default": "Jerusalem"
         },
+        "parent": 293198,
         "lat": 31.76904,
         "lng": 35.21633,
-        "country": "IL",
-        "state": "06",
         "population": 801000
     },
     "293253": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Yafo"
         },
+        "parent": 293396,
         "lat": 32.05043,
         "lng": 34.75224,
-        "country": "IL",
-        "state": "05",
         "population": 100000
     },
     "293397": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tel Aviv"
         },
+        "parent": 293396,
         "lat": 32.08088,
         "lng": 34.78057,
-        "country": "IL",
-        "state": "05",
         "population": 250000
     },
     "293703": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Rishon LeẔiyyon"
         },
+        "parent": 294904,
         "lat": 31.97102,
         "lng": 34.78939,
-        "country": "IL",
-        "state": "02",
         "population": 220492
     },
     "293768": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Ramla"
         },
+        "parent": 294904,
         "lat": 31.92923,
         "lng": 34.86563,
-        "country": "IL",
-        "state": "02",
         "population": 63860
     },
     "293788": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Ramat Gan"
         },
+        "parent": 293396,
         "lat": 32.08227,
         "lng": 34.81065,
-        "country": "IL",
-        "state": "05",
         "population": 128095
     },
     "293807": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Ra'anana"
         },
+        "parent": 294904,
         "lat": 32.1836,
         "lng": 34.87386,
-        "country": "IL",
-        "state": "02",
         "population": 80000
     },
     "293918": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Petaẖ Tiqwa"
         },
+        "parent": 294904,
         "lat": 32.08707,
         "lng": 34.88747,
-        "country": "IL",
-        "state": "02",
         "population": 200000
     },
     "294071": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Netanya"
         },
+        "parent": 294904,
         "lat": 32.33291,
         "lng": 34.85992,
-        "country": "IL",
-        "state": "02",
         "population": 171676
     },
     "294098": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Nazareth"
         },
+        "parent": 294824,
         "lat": 32.69925,
         "lng": 35.30483,
-        "country": "IL",
-        "state": "03",
         "population": 64800
     },
     "294117": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Nahariya"
         },
+        "parent": 294824,
         "lat": 33.01135,
         "lng": 35.09467,
-        "country": "IL",
-        "state": "03",
         "population": 51200
     },
     "294421": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Lod"
         },
+        "parent": 294904,
         "lat": 31.9467,
         "lng": 34.8903,
-        "country": "IL",
-        "state": "02",
         "population": 66589
     },
     "294514": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Kfar Saba"
         },
+        "parent": 294904,
         "lat": 32.175,
         "lng": 34.90694,
-        "country": "IL",
-        "state": "02",
         "population": 80773
     },
     "294751": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "H̱olon"
         },
+        "parent": 293396,
         "lat": 32.01034,
         "lng": 34.77918,
-        "country": "IL",
-        "state": "05",
         "population": 165787
     },
     "294778": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Herzliyya"
         },
+        "parent": 293396,
         "lat": 32.16627,
         "lng": 34.82536,
-        "country": "IL",
-        "state": "05",
         "population": 83600
     },
     "294801": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Haifa"
         },
+        "parent": 294800,
         "lat": 32.81841,
         "lng": 34.9885,
-        "country": "IL",
-        "state": "04",
         "population": 267300
     },
     "294946": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "H̱adera"
         },
+        "parent": 294800,
         "lat": 32.44192,
         "lng": 34.9039,
-        "country": "IL",
-        "state": "04",
         "population": 75854
     },
     "295432": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Bet Shemesh"
         },
+        "parent": 293198,
         "lat": 31.73072,
         "lng": 34.99293,
-        "country": "IL",
-        "state": "06",
         "population": 67100
     },
     "295514": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Bené Beraq"
         },
+        "parent": 293396,
         "lat": 32.08074,
         "lng": 34.8338,
-        "country": "IL",
-        "state": "05",
         "population": 154400
     },
     "295530": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Beersheba"
         },
+        "parent": 294952,
         "lat": 31.25181,
         "lng": 34.7913,
-        "country": "IL",
-        "state": "01",
         "population": 186600
     },
     "295548": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Bat Yam"
         },
+        "parent": 293396,
         "lat": 32.02379,
         "lng": 34.75185,
-        "country": "IL",
-        "state": "05",
         "population": 128979
     },
     "295620": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Ashqelon"
         },
+        "parent": 294952,
         "lat": 31.66926,
         "lng": 34.57149,
-        "country": "IL",
-        "state": "01",
         "population": 105995
     },
     "295629": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Ashdod"
         },
+        "parent": 294952,
         "lat": 31.79213,
         "lng": 34.64966,
-        "country": "IL",
-        "state": "01",
         "population": 224656
     },
     "6693679": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Modiin"
         },
+        "parent": 294904,
         "lat": 31.89825,
         "lng": 35.01051,
-        "country": "IL",
-        "state": "02",
         "population": 76466
     },
     "7498240": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "West Jerusalem"
         },
+        "parent": 293198,
         "lat": 31.78199,
         "lng": 35.21961,
-        "country": "IL",
-        "state": "06",
         "population": 400000
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Pokhara"
         },
+        "parent": 7289709,
         "lat": 28.26689,
         "lng": 83.96851,
-        "country": "NP",
-        "state": "WR",
         "population": 200000
     },
     "1282931": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Pātan"
         },
+        "parent": 7289707,
         "lat": 27.67658,
         "lng": 85.31417,
-        "country": "NP",
-        "state": "CR",
         "population": 183310
     },
     "1283095": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Mahendranagar"
         },
+        "parent": 7289705,
         "lat": 28.91667,
         "lng": 80.33333,
-        "country": "NP",
-        "state": "FR",
         "population": 88381
     },
     "1283240": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Kathmandu"
         },
+        "parent": 7289707,
         "lat": 27.70169,
         "lng": 85.3206,
-        "country": "NP",
-        "state": "CR",
         "population": 1442271
     },
     "1283318": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Janakpur"
         },
+        "parent": 7289707,
         "lat": 26.71828,
         "lng": 85.90646,
-        "country": "NP",
-        "state": "CR",
         "population": 93767
     },
     "1283339": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Hetauda"
         },
+        "parent": 7289707,
         "lat": 27.42839,
         "lng": 85.03219,
-        "country": "NP",
-        "state": "CR",
         "population": 84775
     },
     "1283368": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Gulariyā"
         },
+        "parent": 7289706,
         "lat": 28.23333,
         "lng": 81.33333,
-        "country": "NP",
-        "state": "MR",
         "population": 53107
     },
     "1283460": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Dharān Bāzār"
         },
+        "parent": 7289708,
         "lat": 26.81248,
         "lng": 87.28355,
-        "country": "NP",
-        "state": "ER",
         "population": 108600
     },
     "1283467": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Dhangarhi"
         },
+        "parent": 7289705,
         "lat": 28.70792,
         "lng": 80.59611,
-        "country": "NP",
-        "state": "FR",
         "population": 92294
     },
     "1283562": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Butwāl"
         },
+        "parent": 7289709,
         "lat": 27.70055,
         "lng": 83.44836,
-        "country": "NP",
-        "state": "WR",
         "population": 91733
     },
     "1283581": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Bīrganj"
         },
+        "parent": 7289707,
         "lat": 27.01043,
         "lng": 84.87735,
-        "country": "NP",
-        "state": "CR",
         "population": 133238
     },
     "1283582": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Biratnagar"
         },
+        "parent": 7289708,
         "lat": 26.45505,
         "lng": 87.27007,
-        "country": "NP",
-        "state": "ER",
         "population": 182324
     },
     "1283613": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Bharatpur"
         },
+        "parent": 7289707,
         "lat": 27.68333,
         "lng": 84.43333,
-        "country": "NP",
-        "state": "CR",
         "population": 107157
     },
     "1283621": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Bhairāhawā"
         },
+        "parent": 7289709,
         "lat": 27.5,
         "lng": 83.45,
-        "country": "NP",
-        "state": "WR",
         "population": 63367
     },
     "6941099": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Nepalgunj"
         },
+        "parent": 7289706,
         "lat": 28.05,
         "lng": 81.61667,
-        "country": "NP",
-        "state": "MR",
         "population": 64400
     }
 }

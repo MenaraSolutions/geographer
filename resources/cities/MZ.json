@@ -6,10 +6,9 @@
         "long": {
             "default": "Xai-Xai"
         },
+        "parent": 1046058,
         "lat": -25.05194,
         "lng": 33.64417,
-        "country": "MZ",
-        "state": "02",
         "population": 127366
     },
     "1024696": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Dondo"
         },
+        "parent": 1026804,
         "lat": -19.60944,
         "lng": 34.74306,
-        "country": "MZ",
-        "state": "05",
         "population": 78648
     },
     "1026014": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tete"
         },
+        "parent": 1026010,
         "lat": -16.15639,
         "lng": 33.58667,
-        "country": "MZ",
-        "state": "08",
         "population": 129316
     },
     "1028079": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Ressano Garcia"
         },
+        "parent": 1040649,
         "lat": -25.44278,
         "lng": 31.99528,
-        "country": "MZ",
-        "state": "04",
         "population": 110000
     },
     "1028434": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Quelimane"
         },
+        "parent": 1024312,
         "lat": -17.87861,
         "lng": 36.88833,
-        "country": "MZ",
-        "state": "09",
         "population": 188964
     },
     "1028918": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Pemba"
         },
+        "parent": 1051823,
         "lat": -12.97395,
         "lng": 40.51775,
-        "country": "MZ",
-        "state": "01",
         "population": 108737
     },
     "1033356": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Nampula"
         },
+        "parent": 1033354,
         "lat": -15.11646,
         "lng": 39.2666,
-        "country": "MZ",
-        "state": "06",
         "population": 388526
     },
     "1035025": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Nacala"
         },
+        "parent": 1033354,
         "lat": -14.56257,
         "lng": 40.68538,
-        "country": "MZ",
-        "state": "06",
         "population": 224795
     },
     "1037125": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Montepuez"
         },
+        "parent": 1051823,
         "lat": -13.12556,
         "lng": 38.99972,
-        "country": "MZ",
-        "state": "01",
         "population": 72279
     },
     "1037390": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Ilha de Moçambique"
         },
+        "parent": 1033354,
         "lat": -15.03417,
         "lng": 40.73583,
-        "country": "MZ",
-        "state": "06",
         "population": 54315
     },
     "1039536": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Maxixe"
         },
+        "parent": 1045110,
         "lat": -23.85972,
         "lng": 35.34722,
-        "country": "MZ",
-        "state": "03",
         "population": 119868
     },
     "1039854": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Matola"
         },
+        "parent": 1040649,
         "lat": -25.96222,
         "lng": 32.45889,
-        "country": "MZ",
-        "state": "04",
         "population": 675422
     },
     "1040652": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Maputo"
         },
+        "parent": 1105845,
         "lat": -25.96553,
         "lng": 32.58322,
-        "country": "MZ",
-        "state": "11",
         "population": 1191613
     },
     "1043893": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Lichinga"
         },
+        "parent": 1030006,
         "lat": -13.31278,
         "lng": 35.24056,
-        "country": "MZ",
-        "state": "07",
         "population": 109839
     },
     "1045114": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Inhambane"
         },
+        "parent": 1045110,
         "lat": -23.865,
         "lng": 35.38333,
-        "country": "MZ",
-        "state": "03",
         "population": 73884
     },
     "1047660": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Cuamba"
         },
+        "parent": 1030006,
         "lat": -14.80306,
         "lng": 36.53722,
-        "country": "MZ",
-        "state": "07",
         "population": 73268
     },
     "1048364": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Chokwé"
         },
+        "parent": 1046058,
         "lat": -24.53333,
         "lng": 32.98333,
-        "country": "MZ",
-        "state": "02",
         "population": 63695
     },
     "1049261": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Chimoio"
         },
+        "parent": 1040947,
         "lat": -19.11639,
         "lng": 33.48333,
-        "country": "MZ",
-        "state": "10",
         "population": 256936
     },
     "1049861": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Chibuto"
         },
+        "parent": 1046058,
         "lat": -24.68667,
         "lng": 33.53056,
-        "country": "MZ",
-        "state": "02",
         "population": 59165
     },
     "1052373": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Beira"
         },
+        "parent": 1026804,
         "lat": -19.84361,
         "lng": 34.83889,
-        "country": "MZ",
-        "state": "05",
         "population": 530604
     },
     "1052944": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "António Enes"
         },
+        "parent": 1033354,
         "lat": -16.2325,
         "lng": 39.90861,
-        "country": "MZ",
-        "state": "06",
         "population": 74624
     }
 }

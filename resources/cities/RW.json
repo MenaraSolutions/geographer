@@ -6,10 +6,9 @@
         "long": {
             "default": "Musanze"
         },
+        "parent": 6413339,
         "lat": -1.49984,
         "lng": 29.63497,
-        "country": "RW",
-        "state": "13",
         "population": 86685
     },
     "202061": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Kigali"
         },
+        "parent": 6413338,
         "lat": -1.94995,
         "lng": 30.05885,
-        "country": "RW",
-        "state": "12",
         "population": 745261
     },
     "202217": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Gitarama"
         },
+        "parent": 6413341,
         "lat": -2.07444,
         "lng": 29.75667,
-        "country": "RW",
-        "state": "15",
         "population": 87613
     },
     "202326": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Cyangugu"
         },
+        "parent": 6413340,
         "lat": -2.4846,
         "lng": 28.9075,
-        "country": "RW",
-        "state": "14",
         "population": 63883
     },
     "202905": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Gisenyi"
         },
+        "parent": 6413340,
         "lat": -1.70278,
         "lng": 29.25639,
-        "country": "RW",
-        "state": "14",
         "population": 83623
     },
     "203104": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Byumba"
         },
+        "parent": 6413339,
         "lat": -1.5763,
         "lng": 30.0675,
-        "country": "RW",
-        "state": "13",
         "population": 70593
     },
     "203112": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Butare"
         },
+        "parent": 6413341,
         "lat": -2.59667,
         "lng": 29.73944,
-        "country": "RW",
-        "state": "15",
         "population": 89600
     }
 }

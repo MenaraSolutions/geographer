@@ -6,10 +6,9 @@
         "long": {
             "default": "Ouahigouya"
         },
+        "parent": 6930711,
         "lat": 13.58278,
         "lng": -2.42158,
-        "country": "BF",
-        "state": "10",
         "population": 61096
     },
     "2357048": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ouagadougou"
         },
+        "parent": 6930704,
         "lat": 12.36566,
         "lng": -1.53388,
-        "country": "BF",
-        "state": "03",
         "population": 1086505
     },
     "2358946": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Koudougou"
         },
+        "parent": 6930707,
         "lat": 12.25263,
         "lng": -2.36272,
-        "country": "BF",
-        "state": "06",
         "population": 87347
     },
     "2362344": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Bobo-Dioulasso"
         },
+        "parent": 6930710,
         "lat": 11.17715,
         "lng": -4.2979,
-        "country": "BF",
-        "state": "09",
         "population": 360106
     },
     "2362909": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Banfora"
         },
+        "parent": 6930703,
         "lat": 10.63333,
         "lng": -4.76667,
-        "country": "BF",
-        "state": "02",
         "population": 60288
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Spanish Town"
         },
+        "parent": 3488711,
         "lat": 17.99107,
         "lng": -76.95742,
-        "country": "JM",
-        "state": "10",
         "population": 145018
     },
     "3488981": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Portmore"
         },
+        "parent": 3488711,
         "lat": 17.95032,
         "lng": -76.88215,
-        "country": "JM",
-        "state": "10",
         "population": 102861
     },
     "3489297": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "New Kingston"
         },
+        "parent": 3488716,
         "lat": 18.00747,
         "lng": -76.78319,
-        "country": "JM",
-        "state": "08",
         "population": 583958
     },
     "3489460": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Montego Bay"
         },
+        "parent": 3488700,
         "lat": 18.47116,
         "lng": -77.91883,
-        "country": "JM",
-        "state": "12",
         "population": 82867
     },
     "3489854": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Kingston"
         },
+        "parent": 3489853,
         "lat": 17.99702,
         "lng": -76.79358,
-        "country": "JM",
-        "state": "17",
         "population": 937700
     }
 }

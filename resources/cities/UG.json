@@ -6,10 +6,9 @@
         "long": {
             "default": "Soroti"
         },
+        "parent": 8260673,
         "lat": 1.71464,
         "lng": 33.61113,
-        "country": "UG",
-        "state": "E",
         "population": 56400
     },
     "227812": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Njeru"
         },
+        "parent": 234594,
         "lat": 0.41861,
         "lng": 33.17306,
-        "country": "UG",
-        "state": "C",
         "population": 61952
     },
     "228853": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Mukono"
         },
+        "parent": 234594,
         "lat": 0.35333,
         "lng": 32.75528,
-        "country": "UG",
-        "state": "C",
         "population": 67290
     },
     "229268": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Mbarara"
         },
+        "parent": 8260675,
         "lat": -0.60467,
         "lng": 30.64851,
-        "country": "UG",
-        "state": "W",
         "population": 97500
     },
     "229278": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Mbale"
         },
+        "parent": 8260673,
         "lat": 1.08209,
         "lng": 34.17503,
-        "country": "UG",
-        "state": "E",
         "population": 76493
     },
     "229380": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Masaka"
         },
+        "parent": 234594,
         "lat": -0.33379,
         "lng": 31.73409,
-        "country": "UG",
-        "state": "C",
         "population": 65373
     },
     "230166": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Lira"
         },
+        "parent": 8260674,
         "lat": 2.2499,
         "lng": 32.89985,
-        "country": "UG",
-        "state": "N",
         "population": 119323
     },
     "230893": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Kitgum"
         },
+        "parent": 8260674,
         "lat": 3.27833,
         "lng": 32.88667,
-        "country": "UG",
-        "state": "N",
         "population": 56891
     },
     "232066": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Kasese"
         },
+        "parent": 8260675,
         "lat": 0.18333,
         "lng": 30.08333,
-        "country": "UG",
-        "state": "W",
         "population": 67269
     },
     "232422": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kampala"
         },
+        "parent": 234594,
         "lat": 0.31628,
         "lng": 32.58219,
-        "country": "UG",
-        "state": "C",
         "population": 1353189
     },
     "233114": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Jinja"
         },
+        "parent": 8260673,
         "lat": 0.43902,
         "lng": 33.20317,
-        "country": "UG",
-        "state": "E",
         "population": 93061
     },
     "233346": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Gulu"
         },
+        "parent": 8260674,
         "lat": 2.77457,
         "lng": 32.29899,
-        "country": "UG",
-        "state": "N",
         "population": 146858
     },
     "233508": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Entebbe"
         },
+        "parent": 234594,
         "lat": 0.06444,
         "lng": 32.44694,
-        "country": "UG",
-        "state": "C",
         "population": 62969
     },
     "233730": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Bwizibwera"
         },
+        "parent": 8260675,
         "lat": -0.59167,
         "lng": 30.62861,
-        "country": "UG",
-        "state": "W",
         "population": 79157
     },
     "235039": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Arua"
         },
+        "parent": 8260674,
         "lat": 3.02013,
         "lng": 30.91105,
-        "country": "UG",
-        "state": "N",
         "population": 55585
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Zomba"
         },
+        "parent": 923817,
         "lat": -15.38596,
         "lng": 35.3188,
-        "country": "MW",
-        "state": "S",
         "population": 80932
     },
     "925475": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Mzuzu"
         },
+        "parent": 924591,
         "lat": -11.46556,
         "lng": 34.02071,
-        "country": "MW",
-        "state": "N",
         "population": 175345
     },
     "927967": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Lilongwe"
         },
+        "parent": 931597,
         "lat": -13.96692,
         "lng": 33.78725,
-        "country": "MW",
-        "state": "C",
         "population": 646750
     },
     "931755": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Blantyre"
         },
+        "parent": 923817,
         "lat": -15.78499,
         "lng": 35.00854,
-        "country": "MW",
-        "state": "S",
         "population": 584877
     }
 }

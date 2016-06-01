@@ -6,10 +6,9 @@
         "long": {
             "default": "Tsuen Wan"
         },
+        "parent": 1818458,
         "lat": 22.37066,
         "lng": 114.10479,
-        "country": "HK",
-        "state": "NTW",
         "population": 288728
     },
     "1818223": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Yuen Long Kau Hui"
         },
+        "parent": 1818224,
         "lat": 22.45,
         "lng": 114.03333,
-        "country": "HK",
-        "state": "NYL",
         "population": 141900
     },
     "1819609": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Kowloon"
         },
+        "parent": 7533612,
         "lat": 22.31667,
         "lng": 114.18333,
-        "country": "HK",
-        "state": "KKC",
         "population": 2019533
     },
     "1819729": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Hong Kong"
         },
+        "parent": 7533598,
         "lat": 22.28552,
         "lng": 114.15769,
-        "country": "HK",
-        "state": "HCW",
         "population": 7012738
     }
 }

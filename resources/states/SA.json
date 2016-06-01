@@ -1,5 +1,6 @@
 [
     {
+        "parent": "SA",
         "ids": {
             "fips": "19",
             "geonames": 101627
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "16",
             "geonames": 103628
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "14",
             "geonames": 104514
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "17",
             "geonames": 105298
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "13",
             "geonames": 106280
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "11",
             "geonames": 108179
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "06",
             "geonames": 108241
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "10",
             "geonames": 108411
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "08",
             "geonames": 108933
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "05",
             "geonames": 109224
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "20",
             "geonames": 109470
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "15",
             "geonames": 109579
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "SA",
         "ids": {
             "fips": "02",
             "geonames": 109954

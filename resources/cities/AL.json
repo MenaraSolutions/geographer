@@ -6,10 +6,9 @@
         "long": {
             "default": "Korçë"
         },
+        "parent": 865734,
         "lat": 40.61861,
         "lng": 20.78083,
-        "country": "AL",
-        "state": "46",
         "population": 58259
     },
     "783263": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Elbasan"
         },
+        "parent": 865732,
         "lat": 41.1125,
         "lng": 20.08222,
-        "country": "AL",
-        "state": "43",
         "population": 100903
     },
     "3183719": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Vlorë"
         },
+        "parent": 3344952,
         "lat": 40.46667,
         "lng": 19.48972,
-        "country": "AL",
-        "state": "51",
         "population": 89546
     },
     "3183875": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Tirana"
         },
+        "parent": 3344951,
         "lat": 41.3275,
         "lng": 19.81889,
-        "country": "AL",
-        "state": "50",
         "population": 374801
     },
     "3184081": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Shkodër"
         },
+        "parent": 3344950,
         "lat": 42.06828,
         "lng": 19.51258,
-        "country": "AL",
-        "state": "49",
         "population": 88245
     },
     "3185670": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Fier-Çifçi"
         },
+        "parent": 3344948,
         "lat": 40.71667,
         "lng": 19.56667,
-        "country": "AL",
-        "state": "44",
         "population": 60995
     },
     "3185672": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Fier"
         },
+        "parent": 3344948,
         "lat": 40.72389,
         "lng": 19.55611,
-        "country": "AL",
-        "state": "44",
         "population": 56297
     },
     "3185728": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Durrës"
         },
+        "parent": 3344947,
         "lat": 41.32306,
         "lng": 19.44139,
-        "country": "AL",
-        "state": "42",
         "population": 122034
     }
 }

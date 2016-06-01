@@ -6,10 +6,9 @@
         "long": {
             "default": "Douliu"
         },
+        "parent": 7280291,
         "lat": 23.70944,
         "lng": 120.54333,
-        "country": "TW",
-        "state": "04",
         "population": 104723
     },
     "1668341": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Taipei"
         },
+        "parent": 7280290,
         "lat": 25.04776,
         "lng": 121.53185,
-        "country": "TW",
-        "state": "03",
         "population": 7871900
     },
     "1668355": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tainan"
         },
+        "parent": 7280291,
         "lat": 22.99083,
         "lng": 120.21333,
-        "country": "TW",
-        "state": "04",
         "population": 771235
     },
     "1668399": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Taichung"
         },
+        "parent": 7280291,
         "lat": 24.1469,
         "lng": 120.6839,
-        "country": "TW",
-        "state": "04",
         "population": 1040725
     },
     "1668467": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Daxi"
         },
+        "parent": 7280291,
         "lat": 24.88373,
         "lng": 121.29043,
-        "country": "TW",
-        "state": "04",
         "population": 84549
     },
     "1670029": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Banqiao"
         },
+        "parent": 7280290,
         "lat": 25.01427,
         "lng": 121.46719,
-        "country": "TW",
-        "state": "03",
         "population": 543342
     },
     "1670310": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Puli"
         },
+        "parent": 7280291,
         "lat": 23.96639,
         "lng": 120.96952,
-        "country": "TW",
-        "state": "04",
         "population": 86406
     },
     "1671566": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Nantou"
         },
+        "parent": 7280291,
         "lat": 23.91566,
         "lng": 120.66387,
-        "country": "TW",
-        "state": "04",
         "population": 105682
     },
     "1672228": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Magong"
         },
+        "parent": 7280291,
         "lat": 23.5654,
         "lng": 119.58627,
-        "country": "TW",
-        "state": "04",
         "population": 56435
     },
     "1673820": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kaohsiung"
         },
+        "parent": 7280289,
         "lat": 22.61626,
         "lng": 120.31333,
-        "country": "TW",
-        "state": "02",
         "population": 1519711
     },
     "1674199": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Yilan"
         },
+        "parent": 7280291,
         "lat": 24.757,
         "lng": 121.753,
-        "country": "TW",
-        "state": "04",
         "population": 94188
     },
     "1674504": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Hualien City"
         },
+        "parent": 7280291,
         "lat": 23.97694,
         "lng": 121.60444,
-        "country": "TW",
-        "state": "04",
         "population": 350468
     },
     "1675151": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Hsinchu"
         },
+        "parent": 7280291,
         "lat": 24.80361,
         "lng": 120.96861,
-        "country": "TW",
-        "state": "04",
         "population": 404109
     },
     "1678228": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Keelung"
         },
+        "parent": 7280291,
         "lat": 25.12825,
         "lng": 121.7419,
-        "country": "TW",
-        "state": "04",
         "population": 397515
     },
     "6696918": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Taoyuan City"
         },
+        "parent": 7280291,
         "lat": 24.99368,
         "lng": 121.29696,
-        "country": "TW",
-        "state": "04",
         "population": 402014
     },
     "6949678": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Taitung City"
         },
+        "parent": 7280291,
         "lat": 22.7583,
         "lng": 121.1444,
-        "country": "TW",
-        "state": "04",
         "population": 109584
     }
 }

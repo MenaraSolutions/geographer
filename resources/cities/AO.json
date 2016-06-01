@@ -6,10 +6,9 @@
         "long": {
             "default": "Uíge"
         },
+        "parent": 2236566,
         "lat": -7.60874,
         "lng": 15.06131,
-        "country": "AO",
-        "state": "15",
         "population": 60008
     },
     "2236967": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Soio"
         },
+        "parent": 2236355,
         "lat": -6.1349,
         "lng": 12.36894,
-        "country": "AO",
-        "state": "16",
         "population": 67491
     },
     "2239076": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "N’dalatando"
         },
+        "parent": 2241660,
         "lat": -9.29782,
         "lng": 14.91162,
-        "country": "AO",
-        "state": "05",
         "population": 383100
     },
     "2239862": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Malanje"
         },
+        "parent": 2239858,
         "lat": -9.54015,
         "lng": 16.34096,
-        "country": "AO",
-        "state": "12",
         "population": 87046
     },
     "2240449": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Luanda"
         },
+        "parent": 2240444,
         "lat": -8.83682,
         "lng": 13.23432,
-        "country": "AO",
-        "state": "20",
         "population": 2776168
     },
     "2243271": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Cabinda"
         },
+        "parent": 2243266,
         "lat": -5.55,
         "lng": 12.2,
-        "country": "AO",
-        "state": "03",
         "population": 66020
     },
     "3347019": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Namibe"
         },
+        "parent": 3347016,
         "lat": -15.19611,
         "lng": 12.15222,
-        "country": "AO",
-        "state": "13",
         "population": 80149
     },
     "3347762": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Lubango"
         },
+        "parent": 3348303,
         "lat": -14.91717,
         "lng": 13.4925,
-        "country": "AO",
-        "state": "09",
         "population": 102541
     },
     "3347939": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Lobito"
         },
+        "parent": 3351660,
         "lat": -12.3644,
         "lng": 13.53601,
-        "country": "AO",
-        "state": "01",
         "population": 207932
     },
     "3348078": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Cuito"
         },
+        "parent": 3351640,
         "lat": -12.38333,
         "lng": 16.93333,
-        "country": "AO",
-        "state": "02",
         "population": 113624
     },
     "3348313": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Huambo"
         },
+        "parent": 3348310,
         "lat": -12.77611,
         "lng": 15.73917,
-        "country": "AO",
-        "state": "08",
         "population": 226145
     },
     "3351663": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Benguela"
         },
+        "parent": 3351660,
         "lat": -12.57626,
         "lng": 13.40547,
-        "country": "AO",
-        "state": "01",
         "population": 151226
     }
 }

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "TO",
         "ids": {
             "fips": "03",
             "geonames": 4032231
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "TO",
         "ids": {
             "fips": "02",
             "geonames": 4032279
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "TO",
         "ids": {
             "fips": "01",
             "geonames": 4032637
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "TO",
         "ids": {
             "fips": "EU",
             "geonames": 7668021
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "TO",
         "ids": {
             "fips": "NI",
             "geonames": 7668055

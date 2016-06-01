@@ -13,6 +13,6 @@ class CityUnitTest extends Test
     {
         $city = City::build(2761369);
         $this->assertInstanceOf(City::class, $city);
-	$this->assertNotEmpty($city->getName());
+    	$this->assertNotEmpty($city->getName());
     }
 }

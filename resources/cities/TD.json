@@ -6,10 +6,9 @@
         "long": {
             "default": "Abéché"
         },
+        "parent": 242246,
         "lat": 13.82916,
         "lng": 20.8324,
-        "country": "TD",
-        "state": "12",
         "population": 74188
     },
     "2425791": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Sagh"
         },
+        "parent": 2427315,
         "lat": 9.1429,
         "lng": 18.3923,
-        "country": "TD",
-        "state": "17",
         "population": 102528
     },
     "2427123": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "N'Djamena"
         },
+        "parent": 2434478,
         "lat": 12.10672,
         "lng": 15.0444,
-        "country": "TD",
-        "state": "15",
         "population": 721081
     },
     "2427455": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Moundou"
         },
+        "parent": 2429060,
         "lat": 8.56667,
         "lng": 16.08333,
-        "country": "TD",
-        "state": "08",
         "population": 135167
     }
 }

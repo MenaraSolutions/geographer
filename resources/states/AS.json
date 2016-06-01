@@ -1,5 +1,6 @@
 [
     {
+        "parent": "AS",
         "ids": {
             "fips": "050",
             "geonames": 5880873
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "AS",
         "ids": {
             "fips": "040",
             "geonames": 5881199
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "AS",
         "ids": {
             "fips": "010",
             "geonames": 5881219
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "AS",
         "ids": {
             "fips": "020",
             "geonames": 5881436
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "AS",
         "ids": {
             "fips": "030",
             "geonames": 7309441

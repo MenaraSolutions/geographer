@@ -1,5 +1,6 @@
 [
     {
+        "parent": "SK",
         "ids": {
             "fips": "03",
             "geonames": 865084
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "05",
             "geonames": 865085
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "08",
             "geonames": 3056506
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "01",
             "geonames": 3343954
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "02",
             "geonames": 3343955
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "04",
             "geonames": 3343956
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "06",
             "geonames": 3343957
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "SK",
         "ids": {
             "fips": "07",
             "geonames": 3343958

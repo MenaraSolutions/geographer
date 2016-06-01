@@ -1,5 +1,6 @@
 [
     {
+        "parent": "TT",
         "ids": {
             "fips": "11",
             "geonames": 3573606
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "10",
             "geonames": 3573739
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "05",
             "geonames": 3573891
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "03",
             "geonames": 3574155
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "01",
             "geonames": 3575052
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "CHA",
             "geonames": 7521937
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "CTT",
             "geonames": 7521938
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "DMN",
             "geonames": 7521939
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "ETO",
             "geonames": 7521940
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "PED",
             "geonames": 7521941
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "PRT",
             "geonames": 7521942
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "PTF",
             "geonames": 7521943
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "SGE",
             "geonames": 7521944
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "SIP",
             "geonames": 7521945
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "SJL",
             "geonames": 7521946
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "TT",
         "ids": {
             "fips": "TUP",
             "geonames": 7521947

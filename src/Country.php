@@ -42,6 +42,14 @@ class Country extends Divisible
     }
 
     /**
+     * @return string
+     */
+    public function getParentCode()
+    {
+        return 'SOL-III';
+    }
+
+    /**
      *
      */
     public function getGeonamesCode()
@@ -123,13 +131,5 @@ class Country extends Divisible
     public function getStates()
     {
         return $this->getMembers();
-    }
-
-    /**
-     * @return string
-     */
-    protected function getStoragePath()
-    {
-        return $this->config->getStoragePath() . 'states' . DIRECTORY_SEPARATOR . $this->getCode() . '.json';
     }
 }

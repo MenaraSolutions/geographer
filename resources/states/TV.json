@@ -1,5 +1,6 @@
 [
     {
+        "parent": "TV",
         "ids": {
             "fips": "NUI",
             "geonames": 2110341
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "NMA",
             "geonames": 2110345
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "FUN",
             "geonames": 2110384
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "NIT",
             "geonames": 7601979
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "NMG",
             "geonames": 7601980
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "VAI",
             "geonames": 7601981
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "NKF",
             "geonames": 7601982
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "TV",
         "ids": {
             "fips": "NKL",
             "geonames": 7601983

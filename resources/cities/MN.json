@@ -6,10 +6,9 @@
         "long": {
             "default": "Ulan Bator"
         },
+        "parent": 2028461,
         "lat": 47.90771,
         "lng": 106.88324,
-        "country": "MN",
-        "state": "20",
         "population": 844818
     },
     "2031405": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Erdenet"
         },
+        "parent": 2055113,
         "lat": 49.03333,
         "lng": 104.08333,
-        "country": "MN",
-        "state": "25",
         "population": 79647
     },
     "2031964": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Darhan"
         },
+        "parent": 2055111,
         "lat": 49.48667,
         "lng": 105.92278,
-        "country": "MN",
-        "state": "23",
         "population": 74300
     }
 }

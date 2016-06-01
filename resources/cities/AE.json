@@ -6,10 +6,9 @@
         "long": {
             "default": "Ras al-Khaimah"
         },
+        "parent": 291075,
         "lat": 25.78953,
         "lng": 55.9432,
-        "country": "AE",
-        "state": "05",
         "population": 115949
     },
     "292223": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Dubai"
         },
+        "parent": 292224,
         "lat": 25.0657,
         "lng": 55.17128,
-        "country": "AE",
-        "state": "03",
         "population": 1137347
     },
     "292672": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sharjah"
         },
+        "parent": 292673,
         "lat": 25.33737,
         "lng": 55.41206,
-        "country": "AE",
-        "state": "06",
         "population": 543733
     },
     "292878": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Al Fujayrah"
         },
+        "parent": 292879,
         "lat": 25.11641,
         "lng": 56.34141,
-        "country": "AE",
-        "state": "04",
         "population": 62415
     },
     "292913": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Al Ain"
         },
+        "parent": 292969,
         "lat": 24.19167,
         "lng": 55.76056,
-        "country": "AE",
-        "state": "01",
         "population": 408733
     },
     "292932": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Ajman"
         },
+        "parent": 292933,
         "lat": 25.41111,
         "lng": 55.43504,
-        "country": "AE",
-        "state": "02",
         "population": 226172
     },
     "292968": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Abu Dhabi"
         },
+        "parent": 292969,
         "lat": 24.46667,
         "lng": 54.36667,
-        "country": "AE",
-        "state": "01",
         "population": 603492
     }
 }

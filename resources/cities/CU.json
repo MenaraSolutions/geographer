@@ -6,10 +6,9 @@
         "long": {
             "default": "Trinidad"
         },
+        "parent": 3540665,
         "lat": 21.80224,
         "lng": -79.98467,
-        "country": "CU",
-        "state": "14",
         "population": 60206
     },
     "3536729": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Santiago de Cuba"
         },
+        "parent": 3536725,
         "lat": 20.02083,
         "lng": -75.82667,
-        "country": "CU",
-        "state": "15",
         "population": 555865
     },
     "3537906": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Santa Clara"
         },
+        "parent": 3534168,
         "lat": 22.40694,
         "lng": -79.96472,
-        "country": "CU",
-        "state": "16",
         "population": 250512
     },
     "3538803": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "San Miguel del Padrón"
         },
+        "parent": 3564073,
         "lat": 23.06639,
         "lng": -82.29472,
-        "country": "CU",
-        "state": "02",
         "population": 159273
     },
     "3539093": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "San Luis"
         },
+        "parent": 3536725,
         "lat": 20.18809,
         "lng": -75.85031,
-        "country": "CU",
-        "state": "15",
         "population": 67293
     },
     "3539560": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "San José de las Lajas"
         },
+        "parent": 7668827,
         "lat": 22.96139,
         "lng": -82.15111,
-        "country": "CU",
-        "state": "MA",
         "population": 54847
     },
     "3540667": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Sancti Spíritus"
         },
+        "parent": 3540665,
         "lat": 21.92972,
         "lng": -79.4425,
-        "country": "CU",
-        "state": "14",
         "population": 127069
     },
     "3540680": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "San Cristobal"
         },
+        "parent": 7668824,
         "lat": 22.71658,
         "lng": -83.05647,
-        "country": "CU",
-        "state": "AR",
         "population": 59579
     },
     "3541440": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Sagua la Grande"
         },
+        "parent": 3534168,
         "lat": 22.80667,
         "lng": -80.07556,
-        "country": "CU",
-        "state": "16",
         "population": 62073
     },
     "3543299": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Puerto Padre"
         },
+        "parent": 3550595,
         "lat": 21.19517,
         "lng": -76.60358,
-        "country": "CU",
-        "state": "13",
         "population": 76838
     },
     "3543961": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Placetas"
         },
+        "parent": 3534168,
         "lat": 22.31184,
         "lng": -79.6544,
-        "country": "CU",
-        "state": "16",
         "population": 55408
     },
     "3544091": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Pinar del Río"
         },
+        "parent": 3544088,
         "lat": 22.41667,
         "lng": -83.69667,
-        "country": "CU",
-        "state": "01",
         "population": 186990
     },
     "3545064": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Palma Soriano"
         },
+        "parent": 3536725,
         "lat": 20.2113,
         "lng": -75.99362,
-        "country": "CU",
-        "state": "15",
         "population": 102826
     },
     "3545841": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Nuevitas"
         },
+        "parent": 3566062,
         "lat": 21.54585,
         "lng": -77.26504,
-        "country": "CU",
-        "state": "05",
         "population": 54022
     },
     "3546434": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Morón"
         },
+        "parent": 3564175,
         "lat": 22.10774,
         "lng": -78.62667,
-        "country": "CU",
-        "state": "07",
         "population": 66060
     },
     "3546791": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Moa"
         },
+        "parent": 3556965,
         "lat": 20.65776,
         "lng": -74.95075,
-        "country": "CU",
-        "state": "12",
         "population": 92852
     },
     "3547398": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Matanzas"
         },
+        "parent": 3547394,
         "lat": 23.04111,
         "lng": -81.5775,
-        "country": "CU",
-        "state": "03",
         "population": 146733
     },
     "3547867": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Manzanillo"
         },
+        "parent": 3558052,
         "lat": 20.34173,
         "lng": -77.12126,
-        "country": "CU",
-        "state": "09",
         "population": 128188
     },
     "3550598": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Las Tunas"
         },
+        "parent": 3550595,
         "lat": 20.96167,
         "lng": -76.95111,
-        "country": "CU",
-        "state": "13",
         "population": 203684
     },
     "3553478": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Havana"
         },
+        "parent": 3564073,
         "lat": 23.13302,
         "lng": -82.38304,
-        "country": "CU",
-        "state": "02",
         "population": 2163824
     },
     "3556268": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Jesús Menéndez"
         },
+        "parent": 3550595,
         "lat": 21.16139,
         "lng": -76.47919,
-        "country": "CU",
-        "state": "13",
         "population": 51002
     },
     "3556437": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Jagüey Grande"
         },
+        "parent": 3547394,
         "lat": 22.52694,
         "lng": -81.12861,
-        "country": "CU",
-        "state": "03",
         "population": 54363
     },
     "3556969": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Holguín"
         },
+        "parent": 3556965,
         "lat": 20.88722,
         "lng": -76.26306,
-        "country": "CU",
-        "state": "12",
         "population": 319102
     },
     "3557347": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Güira de Melena"
         },
+        "parent": 7668824,
         "lat": 22.79613,
         "lng": -82.50667,
-        "country": "CU",
-        "state": "AR",
         "population": 69879
     },
     "3557378": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Güines"
         },
+        "parent": 7668827,
         "lat": 22.83727,
         "lng": -82.02641,
-        "country": "CU",
-        "state": "MA",
         "population": 68935
     },
     "3557689": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Guantánamo"
         },
+        "parent": 3557685,
         "lat": 20.14444,
         "lng": -75.20917,
-        "country": "CU",
-        "state": "10",
         "population": 272801
     },
     "3557846": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Guanabacoa"
         },
+        "parent": 3564073,
         "lat": 23.1236,
         "lng": -82.30082,
-        "country": "CU",
-        "state": "02",
         "population": 112964
     },
     "3558771": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Florida"
         },
+        "parent": 3566062,
         "lat": 21.52536,
         "lng": -78.22579,
-        "country": "CU",
-        "state": "05",
         "population": 63007
     },
     "3563317": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Corralillo"
         },
+        "parent": 3534168,
         "lat": 22.98212,
         "lng": -80.58556,
-        "country": "CU",
-        "state": "16",
         "population": 51881
     },
     "3563504": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Contramaestre"
         },
+        "parent": 3536725,
         "lat": 20.29879,
         "lng": -76.24511,
-        "country": "CU",
-        "state": "15",
         "population": 70438
     },
     "3563559": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Consolación del Sur"
         },
+        "parent": 3544088,
         "lat": 22.50419,
         "lng": -83.51442,
-        "country": "CU",
-        "state": "01",
         "population": 69857
     },
     "3563843": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Colón"
         },
+        "parent": 3547394,
         "lat": 22.72064,
         "lng": -80.90492,
-        "country": "CU",
-        "state": "03",
         "population": 63882
     },
     "3564124": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Cienfuegos"
         },
+        "parent": 3564120,
         "lat": 22.14957,
         "lng": -80.44662,
-        "country": "CU",
-        "state": "08",
         "population": 186644
     },
     "3564178": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Ciego de Ávila"
         },
+        "parent": 3564175,
         "lat": 21.84,
         "lng": -78.76194,
-        "country": "CU",
-        "state": "07",
         "population": 142027
     },
     "3564436": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Cerro"
         },
+        "parent": 3564073,
         "lat": 23.10861,
         "lng": -82.37778,
-        "country": "CU",
-        "state": "02",
         "population": 132351
     },
     "3565432": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Cárdenas"
         },
+        "parent": 3547394,
         "lat": 23.03661,
         "lng": -81.20596,
-        "country": "CU",
-        "state": "03",
         "population": 98515
     },
     "3566067": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Camagüey"
         },
+        "parent": 3566062,
         "lat": 21.38083,
         "lng": -77.91694,
-        "country": "CU",
-        "state": "05",
         "population": 347562
     },
     "3567597": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Bayamo"
         },
+        "parent": 3558052,
         "lat": 20.37417,
         "lng": -76.64361,
-        "country": "CU",
-        "state": "09",
         "population": 192632
     },
     "3567669": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Bartolomé Masó"
         },
+        "parent": 3558052,
         "lat": 20.16635,
         "lng": -76.94291,
-        "country": "CU",
-        "state": "09",
         "population": 53024
     },
     "3567869": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Banes"
         },
+        "parent": 3556965,
         "lat": 20.96116,
         "lng": -75.722,
-        "country": "CU",
-        "state": "12",
         "population": 53104
     },
     "3568312": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Artemisa"
         },
+        "parent": 7668824,
         "lat": 22.81667,
         "lng": -82.75944,
-        "country": "CU",
-        "state": "AR",
         "population": 68073
     },
     "3568342": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Arroyo Naranjo"
         },
+        "parent": 3564073,
         "lat": 23.03677,
         "lng": -82.36937,
-        "country": "CU",
-        "state": "02",
         "population": 210053
     },
     "3569370": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Alamar"
         },
+        "parent": 3564073,
         "lat": 23.15794,
         "lng": -82.27837,
-        "country": "CU",
-        "state": "02",
         "population": 100000
     },
     "3746181": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Habana del Este"
         },
+        "parent": 3564073,
         "lat": 23.15917,
         "lng": -82.33056,
-        "country": "CU",
-        "state": "02",
         "population": 178041
     },
     "3746183": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Centro Habana"
         },
+        "parent": 3564073,
         "lat": 23.13833,
         "lng": -82.36417,
-        "country": "CU",
-        "state": "02",
         "population": 158151
     },
     "3746184": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "La Habana Vieja"
         },
+        "parent": 3564073,
         "lat": 23.13028,
         "lng": -82.35306,
-        "country": "CU",
-        "state": "02",
         "population": 95383
     },
     "6956646": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Arroyo Naranjo"
         },
+        "parent": 3564073,
         "lat": 23.0144,
         "lng": -82.3031,
-        "country": "CU",
-        "state": "02",
         "population": 210053
     },
     "6956647": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Boyeros"
         },
+        "parent": 3564073,
         "lat": 23.0072,
         "lng": -82.4017,
-        "country": "CU",
-        "state": "02",
         "population": 188593
     },
     "6956648": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Diez de Octubre"
         },
+        "parent": 3564073,
         "lat": 23.0881,
         "lng": -82.3597,
-        "country": "CU",
-        "state": "02",
         "population": 227293
     }
 }

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "IQ",
         "ids": {
             "fips": "02",
             "geonames": 89341
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "16",
             "geonames": 89693
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "18",
             "geonames": 91695
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "15",
             "geonames": 92877
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "14",
             "geonames": 93540
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "12",
             "geonames": 94823
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "11",
             "geonames": 95445
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "10",
             "geonames": 96965
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "09",
             "geonames": 97019
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "08",
             "geonames": 97270
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "07",
             "geonames": 98180
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "06",
             "geonames": 98227
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "13",
             "geonames": 98410
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "05",
             "geonames": 98465
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "17",
             "geonames": 98862
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "04",
             "geonames": 99022
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "03",
             "geonames": 99032
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "IQ",
         "ids": {
             "fips": "01",
             "geonames": 99592

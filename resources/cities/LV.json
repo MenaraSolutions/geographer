@@ -6,10 +6,9 @@
         "long": {
             "default": "Vec-Liepāja"
         },
+        "parent": 457955,
         "lat": 56.53333,
         "lng": 21.01667,
-        "country": "LV",
-        "state": "16",
         "population": 85260
     },
     "456172": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Riga"
         },
+        "parent": 456173,
         "lat": 56.946,
         "lng": 24.10589,
-        "country": "LV",
-        "state": "25",
         "population": 742572
     },
     "457954": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Liepāja"
         },
+        "parent": 457955,
         "lat": 56.51667,
         "lng": 21.01667,
-        "country": "LV",
-        "state": "16",
         "population": 85132
     },
     "459201": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Jūrmala"
         },
+        "parent": 459202,
         "lat": 56.968,
         "lng": 23.77038,
-        "country": "LV",
-        "state": "13",
         "population": 54088
     },
     "459279": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Jelgava"
         },
+        "parent": 459281,
         "lat": 56.65,
         "lng": 23.71278,
-        "country": "LV",
-        "state": "11",
         "population": 61791
     },
     "460413": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Daugavpils"
         },
+        "parent": 460410,
         "lat": 55.88333,
         "lng": 26.53333,
-        "country": "LV",
-        "state": "07",
         "population": 111564
     }
 }

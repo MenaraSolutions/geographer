@@ -1,5 +1,6 @@
 [
     {
+        "parent": "HK",
         "ids": {
             "fips": "NYL",
             "geonames": 1818224
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NTW",
             "geonames": 1818458
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NTP",
             "geonames": 1818672
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NSK",
             "geonames": 1819049
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NIS",
             "geonames": 1819708
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "HCW",
             "geonames": 7533598
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "HWC",
             "geonames": 7533607
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "HEA",
             "geonames": 7533608
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "HSO",
             "geonames": 7533609
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "KYT",
             "geonames": 7533610
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "KSS",
             "geonames": 7533611
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "KKC",
             "geonames": 7533612
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "KWT",
             "geonames": 7533613
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "KKT",
             "geonames": 7533614
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NKT",
             "geonames": 7533615
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NTM",
             "geonames": 7533616
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NNO",
             "geonames": 7533617
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "HK",
         "ids": {
             "fips": "NST",
             "geonames": 7533618

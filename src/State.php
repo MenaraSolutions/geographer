@@ -27,6 +27,22 @@ class State extends Divisible
     {
         return $this->meta['ids']['geonames'];
     }
+    
+    /**
+     * @return string|bool
+     */
+    public function getFipsCode()
+    {
+        return isset($this->meta['ids']['fips']) ? $this->meta['ids']['fips'] : false;
+    }
+
+    /**
+     * @return string|bool
+     */
+    public function getIsoCode()
+    {
+        return isset($this->meta['ids']['iso_3166']) ? $this->meta['ids']['iso_3166'] : false;
+    }
 
     /**
      * @return Collections\MemberCollection
@@ -34,13 +50,5 @@ class State extends Divisible
     public function getCities()
     {
         return $this->getMembers();
-    }
-
-    /**
-     * @return string
-     */
-    protected function getStoragePath()
-    {
-	    return $this->config->getStoragePath() . 'cities' . DIRECTORY_SEPARATOR . $this->parentCode . '.json';
     }
 }

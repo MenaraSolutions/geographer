@@ -6,10 +6,9 @@
         "long": {
             "default": "Zlín"
         },
+        "parent": 3339578,
         "lat": 49.22645,
         "lng": 17.67065,
-        "country": "CZ",
-        "state": "90",
         "population": 78759
     },
     "3063548": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Ústí nad Labem"
         },
+        "parent": 3339577,
         "lat": 50.6607,
         "lng": 14.03227,
-        "country": "CZ",
-        "state": "89",
         "population": 94105
     },
     "3064288": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Teplice"
         },
+        "parent": 3339577,
         "lat": 50.6404,
         "lng": 13.82451,
-        "country": "CZ",
-        "state": "89",
         "population": 51223
     },
     "3067696": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Prague"
         },
+        "parent": 3067695,
         "lat": 50.08804,
         "lng": 14.42076,
-        "country": "CZ",
-        "state": "52",
         "population": 1165581
     },
     "3068160": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Pilsen"
         },
+        "parent": 3339575,
         "lat": 49.74747,
         "lng": 13.37759,
-        "country": "CZ",
-        "state": "87",
         "population": 164180
     },
     "3068582": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Pardubice"
         },
+        "parent": 3339574,
         "lat": 50.04075,
         "lng": 15.77659,
-        "country": "CZ",
-        "state": "86",
         "population": 88741
     },
     "3068799": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Ostrava"
         },
+        "parent": 3339573,
         "lat": 49.83465,
         "lng": 18.28204,
-        "country": "CZ",
-        "state": "85",
         "population": 313088
     },
     "3068927": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Opava"
         },
+        "parent": 3339573,
         "lat": 49.93866,
         "lng": 17.90257,
-        "country": "CZ",
-        "state": "85",
         "population": 60252
     },
     "3069011": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Olomouc"
         },
+        "parent": 3339542,
         "lat": 49.59552,
         "lng": 17.25175,
-        "country": "CZ",
-        "state": "84",
         "population": 101268
     },
     "3070291": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Most"
         },
+        "parent": 3339577,
         "lat": 50.50301,
         "lng": 13.63617,
-        "country": "CZ",
-        "state": "89",
         "population": 67905
     },
     "3071961": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Liberec"
         },
+        "parent": 3339541,
         "lat": 50.76711,
         "lng": 15.05619,
-        "country": "CZ",
-        "state": "83",
         "population": 97770
     },
     "3073699": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Kladno"
         },
+        "parent": 3339576,
         "lat": 50.14734,
         "lng": 14.10285,
-        "country": "CZ",
-        "state": "88",
         "population": 70003
     },
     "3073789": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Karviná"
         },
+        "parent": 3339573,
         "lat": 49.854,
         "lng": 18.54169,
-        "country": "CZ",
-        "state": "85",
         "population": 63677
     },
     "3073803": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Karlovy Vary"
         },
+        "parent": 3339539,
         "lat": 50.23271,
         "lng": 12.87117,
-        "country": "CZ",
-        "state": "81",
         "population": 51807
     },
     "3074199": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Jihlava"
         },
+        "parent": 3339538,
         "lat": 49.3961,
         "lng": 15.59124,
-        "country": "CZ",
-        "state": "80",
         "population": 50100
     },
     "3074967": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Hradec Králové"
         },
+        "parent": 3339540,
         "lat": 50.20923,
         "lng": 15.83277,
-        "country": "CZ",
-        "state": "82",
         "population": 95195
     },
     "3075921": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Havířov"
         },
+        "parent": 3339573,
         "lat": 49.77984,
         "lng": 18.43688,
-        "country": "CZ",
-        "state": "85",
         "population": 82768
     },
     "3076127": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Frýdek-Místek"
         },
+        "parent": 3339573,
         "lat": 49.68333,
         "lng": 18.35,
-        "country": "CZ",
-        "state": "85",
         "population": 59416
     },
     "3077244": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Děčín"
         },
+        "parent": 3339577,
         "lat": 50.78215,
         "lng": 14.21478,
-        "country": "CZ",
-        "state": "89",
         "population": 52058
     },
     "3077685": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Chomutov"
         },
+        "parent": 3339577,
         "lat": 50.46048,
         "lng": 13.41779,
-        "country": "CZ",
-        "state": "89",
         "population": 50251
     },
     "3077916": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "České Budějovice"
         },
+        "parent": 3339537,
         "lat": 48.97447,
         "lng": 14.47434,
-        "country": "CZ",
-        "state": "79",
         "population": 96053
     },
     "3078610": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Brno"
         },
+        "parent": 3339536,
         "lat": 49.19522,
         "lng": 16.60796,
-        "country": "CZ",
-        "state": "78",
         "population": 369559
     }
 }

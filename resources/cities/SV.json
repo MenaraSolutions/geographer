@@ -6,10 +6,9 @@
         "long": {
             "default": "Usulután"
         },
+        "parent": 3582882,
         "lat": 13.35,
         "lng": -88.45,
-        "country": "SV",
-        "state": "14",
         "population": 51910
     },
     "3583096": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Soyapango"
         },
+        "parent": 3583360,
         "lat": 13.71024,
         "lng": -89.13989,
-        "country": "SV",
-        "state": "10",
         "population": 329708
     },
     "3583102": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sonsonate"
         },
+        "parent": 3583101,
         "lat": 13.71889,
         "lng": -89.72417,
-        "country": "SV",
-        "state": "13",
         "population": 59468
     },
     "3583334": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Santa Ana"
         },
+        "parent": 3583332,
         "lat": 13.99417,
         "lng": -89.55972,
-        "country": "SV",
-        "state": "11",
         "population": 176661
     },
     "3583361": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "San Salvador"
         },
+        "parent": 3583360,
         "lat": 13.68935,
         "lng": -89.18718,
-        "country": "SV",
-        "state": "10",
         "population": 525990
     },
     "3583446": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "San Miguel"
         },
+        "parent": 3583462,
         "lat": 13.48333,
         "lng": -88.18333,
-        "country": "SV",
-        "state": "09",
         "population": 161880
     },
     "3583480": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "San Marcos"
         },
+        "parent": 3583360,
         "lat": 13.65889,
         "lng": -89.18306,
-        "country": "SV",
-        "state": "10",
         "population": 54615
     },
     "3584257": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Santa Tecla"
         },
+        "parent": 3585155,
         "lat": 13.67694,
         "lng": -89.27972,
-        "country": "SV",
-        "state": "05",
         "population": 124694
     },
     "3584399": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Mejicanos"
         },
+        "parent": 3583360,
         "lat": 13.74028,
         "lng": -89.21306,
-        "country": "SV",
-        "state": "10",
         "population": 160317
     },
     "3586814": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Delgado"
         },
+        "parent": 3583360,
         "lat": 13.72417,
         "lng": -89.17028,
-        "country": "SV",
-        "state": "10",
         "population": 71594
     },
     "3587345": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Apopa"
         },
+        "parent": 3583360,
         "lat": 13.80722,
         "lng": -89.17917,
-        "country": "SV",
-        "state": "10",
         "population": 112158
     }
 }

@@ -1,5 +1,6 @@
 [
     {
+        "parent": "CA",
         "ids": {
             "fips": "01",
             "geonames": 5883102
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "02",
             "geonames": 5909050
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "03",
             "geonames": 6065171
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "04",
             "geonames": 6087430
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "13",
             "geonames": 6091069
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "07",
             "geonames": 6091530
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "14",
             "geonames": 6091732
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "08",
             "geonames": 6093943
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "09",
             "geonames": 6113358
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "10",
             "geonames": 6115047
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "11",
             "geonames": 6141242
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "12",
             "geonames": 6185811
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "CA",
         "ids": {
             "fips": "05",
             "geonames": 6354959

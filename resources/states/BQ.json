@@ -1,5 +1,6 @@
 [
     {
+        "parent": "BQ",
         "ids": {
             "fips": "BO",
             "geonames": 7609816
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "BQ",
         "ids": {
             "fips": "SB",
             "geonames": 7610358
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "BQ",
         "ids": {
             "fips": "SE",
             "geonames": 7610359

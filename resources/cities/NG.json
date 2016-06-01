@@ -6,10 +6,9 @@
         "long": {
             "default": "Zaria"
         },
+        "parent": 2335722,
         "lat": 11.11128,
         "lng": 7.7227,
-        "country": "NG",
-        "state": "23",
         "population": 975153
     },
     "2318044": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Yola"
         },
+        "parent": 2565342,
         "lat": 9.20839,
         "lng": 12.48146,
-        "country": "NG",
-        "state": "35",
         "population": 96006
     },
     "2318921": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Wukari"
         },
+        "parent": 2597366,
         "lat": 7.87139,
         "lng": 9.77786,
-        "country": "NG",
-        "state": "43",
         "population": 92933
     },
     "2319133": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Warri"
         },
+        "parent": 2565341,
         "lat": 5.51737,
         "lng": 5.75006,
-        "country": "NG",
-        "state": "36",
         "population": 536023
     },
     "2319480": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Uyo"
         },
+        "parent": 2350813,
         "lat": 5.05127,
         "lng": 7.9335,
-        "country": "NG",
-        "state": "21",
         "population": 436606
     },
     "2319668": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Uromi"
         },
+        "parent": 2565343,
         "lat": 6.7,
         "lng": 6.33333,
-        "country": "NG",
-        "state": "37",
         "population": 108608
     },
     "2320576": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Umuahia"
         },
+        "parent": 2565340,
         "lat": 5.52491,
         "lng": 7.49461,
-        "country": "NG",
-        "state": "45",
         "population": 264662
     },
     "2320829": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Ughelli"
         },
+        "parent": 2565341,
         "lat": 5.48956,
         "lng": 6.00407,
-        "country": "NG",
-        "state": "36",
         "population": 79986
     },
     "2320831": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Ugep"
         },
+        "parent": 2345891,
         "lat": 5.80865,
         "lng": 8.08098,
-        "country": "NG",
-        "state": "22",
         "population": 200276
     },
     "2320920": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Uga"
         },
+        "parent": 2349961,
         "lat": 5.93576,
         "lng": 7.0793,
-        "country": "NG",
-        "state": "25",
         "population": 64179
     },
     "2322794": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Suleja"
         },
+        "parent": 2328925,
         "lat": 9.18059,
         "lng": 7.17939,
-        "country": "NG",
-        "state": "31",
         "population": 162135
     },
     "2322911": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Sokoto"
         },
+        "parent": 2322907,
         "lat": 13.06269,
         "lng": 5.24322,
-        "country": "NG",
-        "state": "51",
         "population": 563861
     },
     "2323390": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Saki"
         },
+        "parent": 2325190,
         "lat": 8.66762,
         "lng": 3.39393,
-        "country": "NG",
-        "state": "32",
         "population": 178677
     },
     "2323411": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Shagamu"
         },
+        "parent": 2327546,
         "lat": 6.8485,
         "lng": 3.64633,
-        "country": "NG",
-        "state": "16",
         "population": 214558
     },
     "2323675": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Sapele"
         },
+        "parent": 2565341,
         "lat": 5.89405,
         "lng": 5.67666,
-        "country": "NG",
-        "state": "36",
         "population": 161686
     },
     "2324767": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Potiskum"
         },
+        "parent": 2597367,
         "lat": 11.71391,
         "lng": 11.08108,
-        "country": "NG",
-        "state": "44",
         "population": 86002
     },
     "2324774": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Port Harcourt"
         },
+        "parent": 2324433,
         "lat": 4.77742,
         "lng": 7.0134,
-        "country": "NG",
-        "state": "50",
         "population": 1148665
     },
     "2324857": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Pindiga"
         },
+        "parent": 2595347,
         "lat": 9.98333,
         "lng": 10.93333,
-        "country": "NG",
-        "state": "55",
         "population": 106322
     },
     "2325161": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Ozubulu"
         },
+        "parent": 2349961,
         "lat": 5.95753,
         "lng": 6.85305,
-        "country": "NG",
-        "state": "25",
         "population": 73812
     },
     "2325200": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Oyo"
         },
+        "parent": 2325190,
         "lat": 7.85257,
         "lng": 3.93125,
-        "country": "NG",
-        "state": "32",
         "population": 736072
     },
     "2325249": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Oyan"
         },
+        "parent": 2597365,
         "lat": 8.05,
         "lng": 4.76667,
-        "country": "NG",
-        "state": "42",
         "population": 73622
     },
     "2325314": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Owo"
         },
+        "parent": 2326168,
         "lat": 7.1962,
         "lng": 5.58681,
-        "country": "NG",
-        "state": "48",
         "population": 276574
     },
     "2325330": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Owerri"
         },
+        "parent": 2337542,
         "lat": 5.48363,
         "lng": 7.03325,
-        "country": "NG",
-        "state": "28",
         "population": 215038
     },
     "2325590": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Osogbo"
         },
+        "parent": 2597365,
         "lat": 7.77104,
         "lng": 4.55698,
-        "country": "NG",
-        "state": "42",
         "population": 156694
     },
     "2325733": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Orita Eruwa"
         },
+        "parent": 2325190,
         "lat": 7.55,
         "lng": 3.43333,
-        "country": "NG",
-        "state": "32",
         "population": 71027
     },
     "2326016": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Onitsha"
         },
+        "parent": 2349961,
         "lat": 6.14978,
         "lng": 6.78569,
-        "country": "NG",
-        "state": "25",
         "population": 561066
     },
     "2326171": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Ondo"
         },
+        "parent": 2326168,
         "lat": 7.09316,
         "lng": 4.83528,
-        "country": "NG",
-        "state": "48",
         "population": 257005
     },
     "2326302": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Olupona"
         },
+        "parent": 2597365,
         "lat": 7.6,
         "lng": 4.18333,
-        "country": "NG",
-        "state": "42",
         "population": 95002
     },
     "2326899": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Okrika"
         },
+        "parent": 2324433,
         "lat": 4.74215,
         "lng": 7.08368,
-        "country": "NG",
-        "state": "50",
         "population": 133271
     },
     "2327143": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Okigwe"
         },
+        "parent": 2337542,
         "lat": 5.82917,
         "lng": 7.35056,
-        "country": "NG",
-        "state": "28",
         "population": 115499
     },
     "2327220": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Okene"
         },
+        "parent": 2597364,
         "lat": 7.55122,
         "lng": 6.23589,
-        "country": "NG",
-        "state": "41",
         "population": 479178
     },
     "2327223": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Oke Mesi"
         },
+        "parent": 2597365,
         "lat": 7.81667,
         "lng": 4.91667,
-        "country": "NG",
-        "state": "42",
         "population": 79563
     },
     "2327494": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Ohafia-Ifigh"
         },
+        "parent": 2565340,
         "lat": 5.61455,
         "lng": 7.81191,
-        "country": "NG",
-        "state": "45",
         "population": 73355
     },
     "2327827": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Ogaminana"
         },
+        "parent": 2597364,
         "lat": 7.59383,
         "lng": 6.21798,
-        "country": "NG",
-        "state": "41",
         "population": 84373
     },
     "2327879": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Offa"
         },
+        "parent": 2332785,
         "lat": 8.14911,
         "lng": 4.72074,
-        "country": "NG",
-        "state": "30",
         "population": 113830
     },
     "2328090": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Ode"
         },
+        "parent": 2326168,
         "lat": 7.7899,
         "lng": 5.7117,
-        "country": "NG",
-        "state": "48",
         "population": 75463
     },
     "2328185": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Obonoma"
         },
+        "parent": 2324433,
         "lat": 4.71131,
         "lng": 6.79084,
-        "country": "NG",
-        "state": "50",
         "population": 68584
     },
     "2328617": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Numan"
         },
+        "parent": 2565342,
         "lat": 9.46374,
         "lng": 12.03062,
-        "country": "NG",
-        "state": "35",
         "population": 77617
     },
     "2328684": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Nsukka"
         },
+        "parent": 2565344,
         "lat": 6.85783,
         "lng": 7.39577,
-        "country": "NG",
-        "state": "47",
         "population": 111017
     },
     "2328765": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Nnewi"
         },
+        "parent": 2349961,
         "lat": 6.01962,
         "lng": 6.91729,
-        "country": "NG",
-        "state": "25",
         "population": 193987
     },
     "2328790": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Nkwerre"
         },
+        "parent": 2337542,
         "lat": 5.75917,
         "lng": 7.10384,
-        "country": "NG",
-        "state": "28",
         "population": 62973
     },
     "2328811": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Nkpor"
         },
+        "parent": 2349961,
         "lat": 6.15038,
         "lng": 6.83042,
-        "country": "NG",
-        "state": "25",
         "population": 103733
     },
     "2328952": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Nguru"
         },
+        "parent": 2597367,
         "lat": 12.87695,
         "lng": 10.45536,
-        "country": "NG",
-        "state": "44",
         "population": 111014
     },
     "2329821": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Mubi"
         },
+        "parent": 2565342,
         "lat": 10.26858,
         "lng": 13.26701,
-        "country": "NG",
-        "state": "35",
         "population": 225705
     },
     "2330028": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Modakeke"
         },
+        "parent": 2597365,
         "lat": 7.38333,
         "lng": 4.26667,
-        "country": "NG",
-        "state": "42",
         "population": 119529
     },
     "2330100": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Minna"
         },
+        "parent": 2328925,
         "lat": 9.61524,
         "lng": 6.54776,
-        "country": "NG",
-        "state": "31",
         "population": 291905
     },
     "2331005": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Malumfashi"
         },
+        "parent": 2334797,
         "lat": 11.78935,
         "lng": 7.62061,
-        "country": "NG",
-        "state": "24",
         "population": 70709
     },
     "2331140": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Makurdi"
         },
+        "parent": 2347266,
         "lat": 7.73375,
         "lng": 8.52139,
-        "country": "NG",
-        "state": "26",
         "population": 292645
     },
     "2331158": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Makoko"
         },
+        "parent": 2332453,
         "lat": 6.49611,
         "lng": 3.38778,
-        "country": "NG",
-        "state": "05",
         "population": 85840
     },
     "2331447": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Maiduguri"
         },
+        "parent": 2346794,
         "lat": 11.84692,
         "lng": 13.15712,
-        "country": "NG",
-        "state": "27",
         "population": 1112449
     },
     "2331939": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Lokoja"
         },
+        "parent": 2597364,
         "lat": 7.79688,
         "lng": 6.74048,
-        "country": "NG",
-        "state": "41",
         "population": 60579
     },
     "2332079": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Lere"
         },
+        "parent": 2335722,
         "lat": 10.38584,
         "lng": 8.57286,
-        "country": "NG",
-        "state": "23",
         "population": 93290
     },
     "2332357": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Lalupon"
         },
+        "parent": 2325190,
         "lat": 7.46667,
         "lng": 4.06667,
-        "country": "NG",
-        "state": "32",
         "population": 81130
     },
     "2332459": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Lagos"
         },
+        "parent": 2332453,
         "lat": 6.45407,
         "lng": 3.39467,
-        "country": "NG",
-        "state": "05",
         "population": 9000000
     },
     "2332504": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Lafiagi"
         },
+        "parent": 2332785,
         "lat": 8.85299,
         "lng": 5.41641,
-        "country": "NG",
-        "state": "30",
         "population": 102779
     },
     "2332515": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Lafia"
         },
+        "parent": 2595348,
         "lat": 8.4939,
         "lng": 8.51532,
-        "country": "NG",
-        "state": "56",
         "population": 127236
     },
     "2333604": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Kuje"
         },
+        "parent": 2352776,
         "lat": 8.87952,
         "lng": 7.22756,
-        "country": "NG",
-        "state": "11",
         "population": 97367
     },
     "2334008": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Kontagora"
         },
+        "parent": 2328925,
         "lat": 10.40319,
         "lng": 5.4708,
-        "country": "NG",
-        "state": "31",
         "population": 98754
     },
     "2334327": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Kisi"
         },
+        "parent": 2325190,
         "lat": 9.08297,
         "lng": 3.85196,
-        "country": "NG",
-        "state": "32",
         "population": 155510
     },
     "2334652": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Keffi"
         },
+        "parent": 2595348,
         "lat": 8.84651,
         "lng": 7.87354,
-        "country": "NG",
-        "state": "56",
         "population": 85911
     },
     "2334756": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Kaura Namoda"
         },
+        "parent": 2595349,
         "lat": 12.59371,
         "lng": 6.58648,
-        "country": "NG",
-        "state": "57",
         "population": 69725
     },
     "2334802": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Katsina"
         },
+        "parent": 2334797,
         "lat": 12.99082,
         "lng": 7.60177,
-        "country": "NG",
-        "state": "24",
         "population": 432149
     },
     "2335204": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Kano"
         },
+        "parent": 2335196,
         "lat": 12.00012,
         "lng": 8.51672,
-        "country": "NG",
-        "state": "29",
         "population": 3626068
     },
     "2335614": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Kagoro"
         },
+        "parent": 2335722,
         "lat": 9.60776,
         "lng": 8.39043,
-        "country": "NG",
-        "state": "23",
         "population": 77008
     },
     "2335713": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Kafanchan"
         },
+        "parent": 2335722,
         "lat": 9.58126,
         "lng": 8.2926,
-        "country": "NG",
-        "state": "23",
         "population": 79522
     },
     "2335727": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Kaduna"
         },
+        "parent": 2335722,
         "lat": 10.52641,
         "lng": 7.43879,
-        "country": "NG",
-        "state": "23",
         "population": 1582102
     },
     "2335953": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Jos"
         },
+        "parent": 2324828,
         "lat": 9.92849,
         "lng": 8.89212,
-        "country": "NG",
-        "state": "49",
         "population": 816824
     },
     "2336056": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Jimeta"
         },
+        "parent": 2565342,
         "lat": 9.27949,
         "lng": 12.45819,
-        "country": "NG",
-        "state": "35",
         "population": 248148
     },
     "2336237": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Jega"
         },
+        "parent": 2597363,
         "lat": 12.22219,
         "lng": 4.37963,
-        "country": "NG",
-        "state": "40",
         "population": 73495
     },
     "2336589": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Jalingo"
         },
+        "parent": 2597366,
         "lat": 8.89367,
         "lng": 11.3596,
-        "country": "NG",
-        "state": "43",
         "population": 117757
     },
     "2336905": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Iwo"
         },
+        "parent": 2597365,
         "lat": 7.63527,
         "lng": 4.18156,
-        "country": "NG",
-        "state": "42",
         "population": 250443
     },
     "2337148": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Isieke"
         },
+        "parent": 2595345,
         "lat": 6.38186,
         "lng": 8.03736,
-        "country": "NG",
-        "state": "53",
         "population": 89990
     },
     "2337207": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Ise-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.46478,
         "lng": 5.42333,
-        "country": "NG",
-        "state": "54",
         "population": 190063
     },
     "2337352": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Ipoti"
         },
+        "parent": 2595346,
         "lat": 7.87377,
         "lng": 5.07691,
-        "country": "NG",
-        "state": "54",
         "population": 82113
     },
     "2337490": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Inisa"
         },
+        "parent": 2597365,
         "lat": 7.85,
         "lng": 4.33333,
-        "country": "NG",
-        "state": "42",
         "population": 164161
     },
     "2337639": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Ilorin"
         },
+        "parent": 2332785,
         "lat": 8.49664,
         "lng": 4.54214,
-        "country": "NG",
-        "state": "30",
         "population": 814192
     },
     "2337659": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Ilobu"
         },
+        "parent": 2597365,
         "lat": 7.84036,
         "lng": 4.48557,
-        "country": "NG",
-        "state": "42",
         "population": 118089
     },
     "2337704": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Ilesa"
         },
+        "parent": 2597365,
         "lat": 7.62789,
         "lng": 4.74161,
-        "country": "NG",
-        "state": "42",
         "population": 277904
     },
     "2337765": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Ila Orangun"
         },
+        "parent": 2597365,
         "lat": 8.01714,
         "lng": 4.90421,
-        "country": "NG",
-        "state": "42",
         "population": 179192
     },
     "2338106": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Ikot Ekpene"
         },
+        "parent": 2350813,
         "lat": 5.18194,
         "lng": 7.71481,
-        "country": "NG",
-        "state": "21",
         "population": 254806
     },
     "2338242": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Ikom"
         },
+        "parent": 2345891,
         "lat": 5.96669,
         "lng": 8.70632,
-        "country": "NG",
-        "state": "22",
         "population": 79103
     },
     "2338269": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Ikirun"
         },
+        "parent": 2597365,
         "lat": 7.91283,
         "lng": 4.66741,
-        "country": "NG",
-        "state": "42",
         "population": 134240
     },
     "2338273": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Ikire"
         },
+        "parent": 2597365,
         "lat": 7.37241,
         "lng": 4.18739,
-        "country": "NG",
-        "state": "42",
         "population": 222160
     },
     "2338287": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "Ikere-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.49748,
         "lng": 5.23041,
-        "country": "NG",
-        "state": "54",
         "population": 103054
     },
     "2338313": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Ikeja"
         },
+        "parent": 2332453,
         "lat": 6.59651,
         "lng": 3.34205,
-        "country": "NG",
-        "state": "05",
         "population": 313196
     },
     "2338385": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Ijero-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.81514,
         "lng": 5.06716,
-        "country": "NG",
-        "state": "54",
         "population": 167632
     },
     "2338400": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Ijebu-Ode"
         },
+        "parent": 2327546,
         "lat": 6.81944,
         "lng": 3.91731,
-        "country": "NG",
-        "state": "16",
         "population": 209175
     },
     "2338401": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "Ijebu-Jesa"
         },
+        "parent": 2597365,
         "lat": 7.68267,
         "lng": 4.81436,
-        "country": "NG",
-        "state": "42",
         "population": 51730
     },
     "2338403": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Ijebu-Igbo"
         },
+        "parent": 2327546,
         "lat": 6.97198,
         "lng": 3.99938,
-        "country": "NG",
-        "state": "16",
         "population": 109261
     },
     "2338497": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Ihiala"
         },
+        "parent": 2349961,
         "lat": 5.85475,
         "lng": 6.85944,
-        "country": "NG",
-        "state": "25",
         "population": 83265
     },
     "2338630": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Igede-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.6685,
         "lng": 5.12627,
-        "country": "NG",
-        "state": "54",
         "population": 87282
     },
     "2338640": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "Igbo-Ukwu"
         },
+        "parent": 2349961,
         "lat": 6.01798,
         "lng": 7.02027,
-        "country": "NG",
-        "state": "25",
         "population": 75224
     },
     "2338669": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Igbo-Ora"
         },
+        "parent": 2325190,
         "lat": 7.43383,
         "lng": 3.28788,
-        "country": "NG",
-        "state": "32",
         "population": 92719
     },
     "2338711": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Igboho"
         },
+        "parent": 2325190,
         "lat": 8.83784,
         "lng": 3.75628,
-        "country": "NG",
-        "state": "32",
         "population": 136764
     },
     "2338810": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Igbara-Odo"
         },
+        "parent": 2595346,
         "lat": 7.50251,
         "lng": 5.06258,
-        "country": "NG",
-        "state": "54",
         "population": 74121
     },
     "2338876": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Ifo"
         },
+        "parent": 2327546,
         "lat": 6.81491,
         "lng": 3.19518,
-        "country": "NG",
-        "state": "16",
         "population": 88272
     },
     "2339150": {
@@ -1254,10 +1158,9 @@
         "long": {
             "default": "Idanre"
         },
+        "parent": 2326168,
         "lat": 7.1127,
         "lng": 5.1159,
-        "country": "NG",
-        "state": "48",
         "population": 86468
     },
     "2339156": {
@@ -1267,10 +1170,9 @@
         "long": {
             "default": "Idah"
         },
+        "parent": 2597364,
         "lat": 7.11345,
         "lng": 6.73866,
-        "country": "NG",
-        "state": "41",
         "population": 68703
     },
     "2339354": {
@@ -1280,10 +1182,9 @@
         "long": {
             "default": "Ibadan"
         },
+        "parent": 2325190,
         "lat": 7.37756,
         "lng": 3.90591,
-        "country": "NG",
-        "state": "32",
         "population": 3565108
     },
     "2339631": {
@@ -1293,10 +1194,9 @@
         "long": {
             "default": "Hadejia"
         },
+        "parent": 2565345,
         "lat": 12.45347,
         "lng": 10.04115,
-        "country": "NG",
-        "state": "39",
         "population": 110753
     },
     "2339937": {
@@ -1306,10 +1206,9 @@
         "long": {
             "default": "Gusau"
         },
+        "parent": 2595349,
         "lat": 12.17024,
         "lng": 6.66412,
-        "country": "NG",
-        "state": "57",
         "population": 226857
     },
     "2340451": {
@@ -1319,10 +1218,9 @@
         "long": {
             "default": "Gombe"
         },
+        "parent": 2595347,
         "lat": 10.28969,
         "lng": 11.16729,
-        "country": "NG",
-        "state": "55",
         "population": 250258
     },
     "2341355": {
@@ -1332,10 +1230,9 @@
         "long": {
             "default": "Gbongan"
         },
+        "parent": 2597365,
         "lat": 7.47734,
         "lng": 4.35351,
-        "country": "NG",
-        "state": "42",
         "population": 139485
     },
     "2341656": {
@@ -1345,10 +1242,9 @@
         "long": {
             "default": "Gashua"
         },
+        "parent": 2597367,
         "lat": 12.87398,
         "lng": 11.04057,
-        "country": "NG",
-        "state": "44",
         "population": 125817
     },
     "2342192": {
@@ -1358,10 +1254,9 @@
         "long": {
             "default": "Gamboru"
         },
+        "parent": 2346794,
         "lat": 12.37299,
         "lng": 14.2069,
-        "country": "NG",
-        "state": "27",
         "population": 84672
     },
     "2342490": {
@@ -1371,10 +1266,9 @@
         "long": {
             "default": "Funtua"
         },
+        "parent": 2334797,
         "lat": 11.52351,
         "lng": 7.31174,
-        "country": "NG",
-        "state": "24",
         "population": 136811
     },
     "2342628": {
@@ -1384,10 +1278,9 @@
         "long": {
             "default": "Fiditi"
         },
+        "parent": 2325190,
         "lat": 7.71361,
         "lng": 3.91722,
-        "country": "NG",
-        "state": "32",
         "population": 71461
     },
     "2342883": {
@@ -1397,10 +1290,9 @@
         "long": {
             "default": "Ezza-Ohu"
         },
+        "parent": 2595345,
         "lat": 6.44094,
         "lng": 8.08432,
-        "country": "NG",
-        "state": "53",
         "population": 67414
     },
     "2343093": {
@@ -1410,10 +1302,9 @@
         "long": {
             "default": "Esuk Oron"
         },
+        "parent": 2350813,
         "lat": 4.80293,
         "lng": 8.25341,
-        "country": "NG",
-        "state": "21",
         "population": 112033
     },
     "2343252": {
@@ -1423,10 +1314,9 @@
         "long": {
             "default": "Epe"
         },
+        "parent": 2332453,
         "lat": 6.58412,
         "lng": 3.98336,
-        "country": "NG",
-        "state": "05",
         "population": 84711
     },
     "2343270": {
@@ -1436,10 +1326,9 @@
         "long": {
             "default": "Enugu-Ukwu"
         },
+        "parent": 2349961,
         "lat": 6.17146,
         "lng": 7.00525,
-        "country": "NG",
-        "state": "25",
         "population": 68785
     },
     "2343279": {
@@ -1449,10 +1338,9 @@
         "long": {
             "default": "Enugu"
         },
+        "parent": 2565344,
         "lat": 6.44132,
         "lng": 7.49883,
-        "country": "NG",
-        "state": "47",
         "population": 688862
     },
     "2343299": {
@@ -1462,10 +1350,9 @@
         "long": {
             "default": "Emure-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.43636,
         "lng": 5.45925,
-        "country": "NG",
-        "state": "54",
         "population": 90645
     },
     "2343641": {
@@ -1475,10 +1362,9 @@
         "long": {
             "default": "Ekpoma"
         },
+        "parent": 2565343,
         "lat": 6.743,
         "lng": 6.14029,
-        "country": "NG",
-        "state": "37",
         "population": 59618
     },
     "2343784": {
@@ -1488,10 +1374,9 @@
         "long": {
             "default": "Ejigbo"
         },
+        "parent": 2597365,
         "lat": 7.90292,
         "lng": 4.31419,
-        "country": "NG",
-        "state": "42",
         "population": 138357
     },
     "2343822": {
@@ -1501,10 +1386,9 @@
         "long": {
             "default": "Eha Amufu"
         },
+        "parent": 2565344,
         "lat": 6.65915,
         "lng": 7.75961,
-        "country": "NG",
-        "state": "47",
         "population": 70779
     },
     "2343983": {
@@ -1514,10 +1398,9 @@
         "long": {
             "default": "Effon Alaiye"
         },
+        "parent": 2597365,
         "lat": 7.65,
         "lng": 4.91667,
-        "country": "NG",
-        "state": "42",
         "population": 279319
     },
     "2343985": {
@@ -1527,10 +1410,9 @@
         "long": {
             "default": "Effium"
         },
+        "parent": 2595345,
         "lat": 6.63105,
         "lng": 8.05814,
-        "country": "NG",
-        "state": "53",
         "population": 86945
     },
     "2344082": {
@@ -1540,10 +1422,9 @@
         "long": {
             "default": "Ebute Ikorodu"
         },
+        "parent": 2332453,
         "lat": 6.60086,
         "lng": 3.48818,
-        "country": "NG",
-        "state": "05",
         "population": 535619
     },
     "2345096": {
@@ -1553,10 +1434,9 @@
         "long": {
             "default": "Daura"
         },
+        "parent": 2597367,
         "lat": 11.5541,
         "lng": 11.406,
-        "country": "NG",
-        "state": "44",
         "population": 78277
     },
     "2346229": {
@@ -1566,10 +1446,9 @@
         "long": {
             "default": "Calabar"
         },
+        "parent": 2345891,
         "lat": 4.95893,
         "lng": 8.32695,
-        "country": "NG",
-        "state": "22",
         "population": 461796
     },
     "2346615": {
@@ -1579,10 +1458,9 @@
         "long": {
             "default": "Buguma"
         },
+        "parent": 2324433,
         "lat": 4.73614,
         "lng": 6.86236,
-        "country": "NG",
-        "state": "50",
         "population": 135404
     },
     "2346995": {
@@ -1592,10 +1470,9 @@
         "long": {
             "default": "Biu"
         },
+        "parent": 2346794,
         "lat": 10.61285,
         "lng": 12.19458,
-        "country": "NG",
-        "state": "27",
         "population": 95005
     },
     "2347059": {
@@ -1605,10 +1482,9 @@
         "long": {
             "default": "Birnin Kebbi"
         },
+        "parent": 2597363,
         "lat": 12.45389,
         "lng": 4.1975,
-        "country": "NG",
-        "state": "40",
         "population": 108164
     },
     "2347209": {
@@ -1618,10 +1494,9 @@
         "long": {
             "default": "Bida"
         },
+        "parent": 2328925,
         "lat": 9.08044,
         "lng": 6.0099,
-        "country": "NG",
-        "state": "31",
         "population": 171656
     },
     "2347283": {
@@ -1631,10 +1506,9 @@
         "long": {
             "default": "Benin City"
         },
+        "parent": 2565343,
         "lat": 6.33815,
         "lng": 5.62575,
-        "country": "NG",
-        "state": "37",
         "population": 1125058
     },
     "2347303": {
@@ -1644,10 +1518,9 @@
         "long": {
             "default": "Bende"
         },
+        "parent": 2565340,
         "lat": 5.55874,
         "lng": 7.63359,
-        "country": "NG",
-        "state": "45",
         "population": 79618
     },
     "2347470": {
@@ -1657,10 +1530,9 @@
         "long": {
             "default": "Bauchi"
         },
+        "parent": 2347468,
         "lat": 10.31032,
         "lng": 9.84388,
-        "country": "NG",
-        "state": "46",
         "population": 316149
     },
     "2347954": {
@@ -1670,10 +1542,9 @@
         "long": {
             "default": "Bama"
         },
+        "parent": 2346794,
         "lat": 11.52134,
         "lng": 13.68952,
-        "country": "NG",
-        "state": "27",
         "population": 118121
     },
     "2348595": {
@@ -1683,10 +1554,9 @@
         "long": {
             "default": "Azare"
         },
+        "parent": 2347468,
         "lat": 11.67478,
         "lng": 10.19069,
-        "country": "NG",
-        "state": "46",
         "population": 105687
     },
     "2348773": {
@@ -1696,10 +1566,9 @@
         "long": {
             "default": "Awka"
         },
+        "parent": 2349961,
         "lat": 6.21269,
         "lng": 7.07199,
-        "country": "NG",
-        "state": "25",
         "population": 167738
     },
     "2348892": {
@@ -1709,10 +1578,9 @@
         "long": {
             "default": "Auchi"
         },
+        "parent": 2565343,
         "lat": 7.06756,
         "lng": 6.2636,
-        "country": "NG",
-        "state": "37",
         "population": 62907
     },
     "2349276": {
@@ -1722,10 +1590,9 @@
         "long": {
             "default": "Asaba"
         },
+        "parent": 2565341,
         "lat": 6.19824,
         "lng": 6.73187,
-        "country": "NG",
-        "state": "36",
         "population": 73374
     },
     "2349529": {
@@ -1735,10 +1602,9 @@
         "long": {
             "default": "Aramoko-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.70483,
         "lng": 5.04054,
-        "country": "NG",
-        "state": "54",
         "population": 74491
     },
     "2349558": {
@@ -1748,10 +1614,9 @@
         "long": {
             "default": "Apomu"
         },
+        "parent": 2597365,
         "lat": 7.35156,
         "lng": 4.18335,
-        "country": "NG",
-        "state": "42",
         "population": 71656
     },
     "2350249": {
@@ -1761,10 +1626,9 @@
         "long": {
             "default": "Amaigbo"
         },
+        "parent": 2565340,
         "lat": 5.78917,
         "lng": 7.83829,
-        "country": "NG",
-        "state": "45",
         "population": 127300
     },
     "2350841": {
@@ -1774,10 +1638,9 @@
         "long": {
             "default": "Akure"
         },
+        "parent": 2326168,
         "lat": 7.25256,
         "lng": 5.19312,
-        "country": "NG",
-        "state": "48",
         "population": 420594
     },
     "2350886": {
@@ -1787,10 +1650,9 @@
         "long": {
             "default": "Aku"
         },
+        "parent": 2565344,
         "lat": 6.70902,
         "lng": 7.31826,
-        "country": "NG",
-        "state": "47",
         "population": 73742
     },
     "2351740": {
@@ -1800,10 +1662,9 @@
         "long": {
             "default": "Agulu"
         },
+        "parent": 2349961,
         "lat": 6.10045,
         "lng": 7.061,
-        "country": "NG",
-        "state": "25",
         "population": 79021
     },
     "2351979": {
@@ -1813,10 +1674,9 @@
         "long": {
             "default": "Agbor"
         },
+        "parent": 2565341,
         "lat": 6.25375,
         "lng": 6.1942,
-        "country": "NG",
-        "state": "36",
         "population": 67610
     },
     "2352250": {
@@ -1826,10 +1686,9 @@
         "long": {
             "default": "Afikpo"
         },
+        "parent": 2595345,
         "lat": 5.89258,
         "lng": 7.93534,
-        "country": "NG",
-        "state": "53",
         "population": 71866
     },
     "2352379": {
@@ -1839,10 +1698,9 @@
         "long": {
             "default": "Ado-Ekiti"
         },
+        "parent": 2595346,
         "lat": 7.62329,
         "lng": 5.22087,
-        "country": "NG",
-        "state": "54",
         "population": 424340
     },
     "2352778": {
@@ -1852,10 +1710,9 @@
         "long": {
             "default": "Abuja"
         },
+        "parent": 2352776,
         "lat": 9.05785,
         "lng": 7.49508,
-        "country": "NG",
-        "state": "11",
         "population": 590400
     },
     "2352947": {
@@ -1865,10 +1722,9 @@
         "long": {
             "default": "Abeokuta"
         },
+        "parent": 2327546,
         "lat": 7.15571,
         "lng": 3.34509,
-        "country": "NG",
-        "state": "16",
         "population": 593100
     },
     "2353099": {
@@ -1878,10 +1734,9 @@
         "long": {
             "default": "Abakaliki"
         },
+        "parent": 2595345,
         "lat": 6.32485,
         "lng": 8.11368,
-        "country": "NG",
-        "state": "53",
         "population": 134102
     },
     "2353151": {
@@ -1891,10 +1746,9 @@
         "long": {
             "default": "Aba"
         },
+        "parent": 2565340,
         "lat": 5.10658,
         "lng": 7.36667,
-        "country": "NG",
-        "state": "45",
         "population": 897560
     }
 }

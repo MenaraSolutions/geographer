@@ -1,5 +1,6 @@
 [
     {
+        "parent": "SH",
         "ids": {
             "fips": "01",
             "geonames": 2411430
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "SH",
         "ids": {
             "fips": "03",
             "geonames": 3370684
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "SH",
         "ids": {
             "fips": "02",
             "geonames": 6930057

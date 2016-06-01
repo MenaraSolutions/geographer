@@ -6,10 +6,9 @@
         "long": {
             "default": "Żoliborz"
         },
+        "parent": 858787,
         "lat": 52.26896,
         "lng": 20.98644,
-        "country": "PL",
-        "state": "78",
         "population": 50934
     },
     "753866": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Zamość"
         },
+        "parent": 858785,
         "lat": 50.72314,
         "lng": 23.25196,
-        "country": "PL",
-        "state": "75",
         "population": 66034
     },
     "755330": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Wola"
         },
+        "parent": 858787,
         "lat": 52.2401,
         "lng": 20.98869,
-        "country": "PL",
-        "state": "78",
         "population": 143996
     },
     "756092": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Wawer"
         },
+        "parent": 858787,
         "lat": 52.19656,
         "lng": 21.17752,
-        "country": "PL",
-        "state": "78",
         "population": 62656
     },
     "756135": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Warsaw"
         },
+        "parent": 858787,
         "lat": 52.22977,
         "lng": 21.01178,
-        "country": "PL",
-        "state": "78",
         "population": 1702139
     },
     "756867": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Tomaszów Mazowiecki"
         },
+        "parent": 3337493,
         "lat": 51.53131,
         "lng": 20.00855,
-        "country": "PL",
-        "state": "74",
         "population": 67197
     },
     "757026": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Tarnów"
         },
+        "parent": 858786,
         "lat": 50.01381,
         "lng": 20.98698,
-        "country": "PL",
-        "state": "77",
         "population": 117799
     },
     "757033": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Tarnobrzeg"
         },
+        "parent": 858788,
         "lat": 50.57304,
         "lng": 21.67937,
-        "country": "PL",
-        "state": "80",
         "population": 50459
     },
     "757065": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Targówek"
         },
+        "parent": 858787,
         "lat": 52.29185,
         "lng": 21.04845,
-        "country": "PL",
-        "state": "78",
         "population": 124316
     },
     "757718": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Suwałki"
         },
+        "parent": 858789,
         "lat": 54.11175,
         "lng": 22.93087,
-        "country": "PL",
-        "state": "81",
         "population": 69222
     },
     "758390": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Starachowice"
         },
+        "parent": 858790,
         "lat": 51.0374,
         "lng": 21.07126,
-        "country": "PL",
-        "state": "84",
         "population": 53739
     },
     "758445": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Stalowa Wola"
         },
+        "parent": 858788,
         "lat": 50.58286,
         "lng": 22.05334,
-        "country": "PL",
-        "state": "80",
         "population": 66495
     },
     "758470": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Śródmieście"
         },
+        "parent": 858787,
         "lat": 52.22904,
         "lng": 21.01644,
-        "country": "PL",
-        "state": "78",
         "population": 134306
     },
     "759412": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Siedlce"
         },
+        "parent": 858787,
         "lat": 52.16772,
         "lng": 22.29006,
-        "country": "PL",
-        "state": "78",
         "population": 77185
     },
     "759734": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Rzeszów"
         },
+        "parent": 858788,
         "lat": 50.04132,
         "lng": 21.99901,
-        "country": "PL",
-        "state": "80",
         "population": 158382
     },
     "760778": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Radom"
         },
+        "parent": 858787,
         "lat": 51.40253,
         "lng": 21.14714,
-        "country": "PL",
-        "state": "78",
         "population": 226794
     },
     "761168": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Przemyśl"
         },
+        "parent": 858788,
         "lat": 49.78498,
         "lng": 22.76728,
-        "country": "PL",
-        "state": "80",
         "population": 67013
     },
     "761228": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Pruszków"
         },
+        "parent": 858787,
         "lat": 52.17072,
         "lng": 20.81214,
-        "country": "PL",
-        "state": "78",
         "population": 55371
     },
     "762863": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Ostrowiec Świętokrzyski"
         },
+        "parent": 858790,
         "lat": 50.92936,
         "lng": 21.38525,
-        "country": "PL",
-        "state": "84",
         "population": 73989
     },
     "762909": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Ostrołęka"
         },
+        "parent": 858787,
         "lat": 53.08621,
         "lng": 21.57566,
-        "country": "PL",
-        "state": "78",
         "population": 53740
     },
     "763166": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Olsztyn"
         },
+        "parent": 858791,
         "lat": 53.77995,
         "lng": 20.49416,
-        "country": "PL",
-        "state": "85",
         "population": 171803
     },
     "763442": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Ochota"
         },
+        "parent": 858787,
         "lat": 52.22096,
         "lng": 20.98526,
-        "country": "PL",
-        "state": "78",
         "population": 93192
     },
     "763534": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Nowy Sącz"
         },
+        "parent": 858786,
         "lat": 49.62177,
         "lng": 20.69705,
-        "country": "PL",
-        "state": "77",
         "population": 84376
     },
     "764484": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Mokotów"
         },
+        "parent": 858787,
         "lat": 52.1934,
         "lng": 21.03487,
-        "country": "PL",
-        "state": "78",
         "population": 212670
     },
     "764849": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Mielec"
         },
+        "parent": 858788,
         "lat": 50.28709,
         "lng": 21.4239,
-        "country": "PL",
-        "state": "80",
         "population": 60993
     },
     "765876": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Lublin"
         },
+        "parent": 858785,
         "lat": 51.25,
         "lng": 22.56667,
-        "country": "PL",
-        "state": "75",
         "population": 360044
     },
     "766027": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Łomża"
         },
+        "parent": 858789,
         "lat": 53.17806,
         "lng": 22.05935,
-        "country": "PL",
-        "state": "81",
         "population": 63723
     },
     "766555": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Legionowo"
         },
+        "parent": 858787,
         "lat": 52.40149,
         "lng": 20.92664,
-        "country": "PL",
-        "state": "78",
         "population": 50786
     },
     "769250": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Kielce"
         },
+        "parent": 858790,
         "lat": 50.87033,
         "lng": 20.62752,
-        "country": "PL",
-        "state": "84",
         "population": 208598
     },
     "772621": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Ełk"
         },
+        "parent": 858791,
         "lat": 53.82824,
         "lng": 22.36469,
-        "country": "PL",
-        "state": "85",
         "population": 55769
     },
     "774558": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Chełm"
         },
+        "parent": 858785,
         "lat": 51.14312,
         "lng": 23.4716,
-        "country": "PL",
-        "state": "75",
         "population": 68043
     },
     "776029": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Bielany"
         },
+        "parent": 858787,
         "lat": 52.29242,
         "lng": 20.93531,
-        "country": "PL",
-        "state": "78",
         "population": 134854
     },
     "776069": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Białystok"
         },
+        "parent": 858789,
         "lat": 53.13333,
         "lng": 23.16433,
-        "country": "PL",
-        "state": "81",
         "population": 291855
     },
     "776103": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Białołeka"
         },
+        "parent": 858787,
         "lat": 52.32127,
         "lng": 20.97204,
-        "country": "PL",
-        "state": "78",
         "population": 89324
     },
     "776175": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Biała Podlaska"
         },
+        "parent": 858785,
         "lat": 52.03238,
         "lng": 23.11652,
-        "country": "PL",
-        "state": "75",
         "population": 57541
     },
     "776251": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Bemowo"
         },
+        "parent": 858787,
         "lat": 52.2546,
         "lng": 20.90844,
-        "country": "PL",
-        "state": "78",
         "population": 102393
     },
     "3080004": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Żory"
         },
+        "parent": 3337497,
         "lat": 50.04523,
         "lng": 18.70062,
-        "country": "PL",
-        "state": "83",
         "population": 63174
     },
     "3080165": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Zielona Góra"
         },
+        "parent": 3337494,
         "lat": 51.93548,
         "lng": 15.50643,
-        "country": "PL",
-        "state": "76",
         "population": 118433
     },
     "3080251": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Zgierz"
         },
+        "parent": 3337493,
         "lat": 51.85561,
         "lng": 19.40623,
-        "country": "PL",
-        "state": "74",
         "population": 58036
     },
     "3080526": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Zawiercie"
         },
+        "parent": 3337497,
         "lat": 50.48766,
         "lng": 19.41679,
-        "country": "PL",
-        "state": "83",
         "population": 53159
     },
     "3080985": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Zabrze"
         },
+        "parent": 3337497,
         "lat": 50.32492,
         "lng": 18.78576,
-        "country": "PL",
-        "state": "83",
         "population": 192177
     },
     "3081368": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Wrocław"
         },
+        "parent": 3337492,
         "lat": 51.1,
         "lng": 17.03333,
-        "country": "PL",
-        "state": "72",
         "population": 634893
     },
     "3081741": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Włocławek"
         },
+        "parent": 3337500,
         "lat": 52.64817,
         "lng": 19.0678,
-        "country": "PL",
-        "state": "73",
         "population": 120339
     },
     "3082707": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Wałbrzych"
         },
+        "parent": 3337492,
         "lat": 50.77141,
         "lng": 16.28432,
-        "country": "PL",
-        "state": "72",
         "population": 127431
     },
     "3082914": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Tychy"
         },
+        "parent": 3337497,
         "lat": 50.13717,
         "lng": 18.96641,
-        "country": "PL",
-        "state": "83",
         "population": 130000
     },
     "3083271": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Toruń"
         },
+        "parent": 3337500,
         "lat": 53.01375,
         "lng": 18.59814,
-        "country": "PL",
-        "state": "73",
         "population": 208717
     },
     "3083426": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Tczew"
         },
+        "parent": 3337496,
         "lat": 54.09242,
         "lng": 18.77787,
-        "country": "PL",
-        "state": "82",
         "population": 60133
     },
     "3083440": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Tarnowskie Góry"
         },
+        "parent": 3337497,
         "lat": 50.44548,
         "lng": 18.86147,
-        "country": "PL",
-        "state": "83",
         "population": 60938
     },
     "3083829": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Szczecin"
         },
+        "parent": 3337499,
         "lat": 53.42894,
         "lng": 14.55302,
-        "country": "PL",
-        "state": "87",
         "population": 407811
     },
     "3083988": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Świętochłowice"
         },
+        "parent": 3337497,
         "lat": 50.29636,
         "lng": 18.91726,
-        "country": "PL",
-        "state": "83",
         "population": 55600
     },
     "3084093": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Świdnica"
         },
+        "parent": 3337492,
         "lat": 50.84378,
         "lng": 16.48859,
-        "country": "PL",
-        "state": "72",
         "population": 60351
     },
     "3084840": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Stargard Szczeciński"
         },
+        "parent": 3337499,
         "lat": 53.33672,
         "lng": 15.0499,
-        "country": "PL",
-        "state": "87",
         "population": 71224
     },
     "3085128": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Sosnowiec"
         },
+        "parent": 3337497,
         "lat": 50.28682,
         "lng": 19.10385,
-        "country": "PL",
-        "state": "83",
         "population": 227295
     },
     "3085450": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Słupsk"
         },
+        "parent": 3337496,
         "lat": 54.46405,
         "lng": 17.02872,
-        "country": "PL",
-        "state": "82",
         "population": 98608
     },
     "3086024": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Siemianowice Śląskie"
         },
+        "parent": 3337497,
         "lat": 50.32738,
         "lng": 19.02901,
-        "country": "PL",
-        "state": "83",
         "population": 73121
     },
     "3086586": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Rybnik"
         },
+        "parent": 3337497,
         "lat": 50.09713,
         "lng": 18.54179,
-        "country": "PL",
-        "state": "83",
         "population": 142510
     },
     "3086800": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Ruda Śląska"
         },
+        "parent": 3337497,
         "lat": 50.2584,
         "lng": 18.85632,
-        "country": "PL",
-        "state": "83",
         "population": 146189
     },
     "3087584": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Racibórz"
         },
+        "parent": 3337497,
         "lat": 50.09195,
         "lng": 18.21928,
-        "country": "PL",
-        "state": "83",
         "population": 58464
     },
     "3088171": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Poznań"
         },
+        "parent": 3337498,
         "lat": 52.40692,
         "lng": 16.92993,
-        "country": "PL",
-        "state": "86",
         "population": 570352
     },
     "3088825": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Płock"
         },
+        "parent": 858787,
         "lat": 52.54682,
         "lng": 19.70638,
-        "country": "PL",
-        "state": "78",
         "population": 127474
     },
     "3088972": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Piotrków Trybunalski"
         },
+        "parent": 3337493,
         "lat": 51.40547,
         "lng": 19.70321,
-        "country": "PL",
-        "state": "74",
         "population": 80128
     },
     "3089033": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Piła"
         },
+        "parent": 3337498,
         "lat": 53.15145,
         "lng": 16.73782,
-        "country": "PL",
-        "state": "86",
         "population": 75532
     },
     "3089125": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Piekary Śląskie"
         },
+        "parent": 3337497,
         "lat": 50.38017,
         "lng": 18.92653,
-        "country": "PL",
-        "state": "83",
         "population": 59757
     },
     "3089578": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Pabianice"
         },
+        "parent": 3337493,
         "lat": 51.66446,
         "lng": 19.35473,
-        "country": "PL",
-        "state": "74",
         "population": 70542
     },
     "3089684": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Ostrów Wielkopolski"
         },
+        "parent": 3337498,
         "lat": 51.65501,
         "lng": 17.80686,
-        "country": "PL",
-        "state": "86",
         "population": 72898
     },
     "3090048": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Opole"
         },
+        "parent": 3337495,
         "lat": 50.67211,
         "lng": 17.92533,
-        "country": "PL",
-        "state": "79",
         "population": 127676
     },
     "3091232": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Mysłowice"
         },
+        "parent": 3337497,
         "lat": 50.20745,
         "lng": 19.16668,
-        "country": "PL",
-        "state": "83",
         "population": 75281
     },
     "3092931": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Lubin"
         },
+        "parent": 3337492,
         "lat": 51.40089,
         "lng": 16.20149,
-        "country": "PL",
-        "state": "72",
         "population": 77532
     },
     "3093133": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Łódź"
         },
+        "parent": 3337493,
         "lat": 51.75,
         "lng": 19.46667,
-        "country": "PL",
-        "state": "74",
         "population": 768755
     },
     "3093524": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Leszno"
         },
+        "parent": 3337498,
         "lat": 51.84034,
         "lng": 16.57494,
-        "country": "PL",
-        "state": "86",
         "population": 63565
     },
     "3093692": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Legnica"
         },
+        "parent": 3337492,
         "lat": 51.21006,
         "lng": 16.1619,
-        "country": "PL",
-        "state": "72",
         "population": 106033
     },
     "3094802": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Kraków"
         },
+        "parent": 858786,
         "lat": 50.06143,
         "lng": 19.93658,
-        "country": "PL",
-        "state": "77",
         "population": 755050
     },
     "3095049": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Koszalin"
         },
+        "parent": 3337499,
         "lat": 54.19438,
         "lng": 16.17222,
-        "country": "PL",
-        "state": "87",
         "population": 107450
     },
     "3095321": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Konin"
         },
+        "parent": 3337498,
         "lat": 52.22338,
         "lng": 18.25121,
-        "country": "PL",
-        "state": "86",
         "population": 81258
     },
     "3096372": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Kędzierzyn-Koźle"
         },
+        "parent": 3337495,
         "lat": 50.34984,
         "lng": 18.22606,
-        "country": "PL",
-        "state": "79",
         "population": 65636
     },
     "3096472": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Katowice"
         },
+        "parent": 3337497,
         "lat": 50.25841,
         "lng": 19.02754,
-        "country": "PL",
-        "state": "83",
         "population": 317316
     },
     "3096880": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Kalisz"
         },
+        "parent": 3337498,
         "lat": 51.76109,
         "lng": 18.09102,
-        "country": "PL",
-        "state": "86",
         "population": 108759
     },
     "3097257": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Jelenia Góra"
         },
+        "parent": 3337492,
         "lat": 50.89973,
         "lng": 15.72899,
-        "country": "PL",
-        "state": "72",
         "population": 87310
     },
     "3097333": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Jaworzno"
         },
+        "parent": 3337497,
         "lat": 50.20528,
         "lng": 19.27498,
-        "country": "PL",
-        "state": "83",
         "population": 96541
     },
     "3097391": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Jastrzębie Zdrój"
         },
+        "parent": 3337497,
         "lat": 49.95542,
         "lng": 18.57479,
-        "country": "PL",
-        "state": "83",
         "population": 95813
     },
     "3097872": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Inowrocław"
         },
+        "parent": 3337500,
         "lat": 52.79886,
         "lng": 18.26387,
-        "country": "PL",
-        "state": "73",
         "population": 77597
     },
     "3098218": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Grudziądz"
         },
+        "parent": 3337500,
         "lat": 53.48411,
         "lng": 18.75366,
-        "country": "PL",
-        "state": "73",
         "population": 99486
     },
     "3098722": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Gorzów Wielkopolski"
         },
+        "parent": 3337494,
         "lat": 52.73679,
         "lng": 15.22878,
-        "country": "PL",
-        "state": "76",
         "population": 124430
     },
     "3099112": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "Gniezno"
         },
+        "parent": 3337498,
         "lat": 52.53481,
         "lng": 17.58259,
-        "country": "PL",
-        "state": "86",
         "population": 70269
     },
     "3099213": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Głogów"
         },
+        "parent": 3337492,
         "lat": 51.66361,
         "lng": 16.0845,
-        "country": "PL",
-        "state": "72",
         "population": 68530
     },
     "3099230": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Gliwice"
         },
+        "parent": 3337497,
         "lat": 50.29761,
         "lng": 18.67658,
-        "country": "PL",
-        "state": "83",
         "population": 198835
     },
     "3099424": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Gdynia"
         },
+        "parent": 3337496,
         "lat": 54.51889,
         "lng": 18.53188,
-        "country": "PL",
-        "state": "82",
         "population": 253730
     },
     "3099434": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "Gdańsk"
         },
+        "parent": 3337496,
         "lat": 54.35205,
         "lng": 18.64637,
-        "country": "PL",
-        "state": "82",
         "population": 461865
     },
     "3099654": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Fordon"
         },
+        "parent": 3337500,
         "lat": 53.14821,
         "lng": 18.17036,
-        "country": "PL",
-        "state": "73",
         "population": 70000
     },
     "3099759": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Elbląg"
         },
+        "parent": 858791,
         "lat": 54.1522,
         "lng": 19.40884,
-        "country": "PL",
-        "state": "85",
         "population": 127558
     },
     "3100796": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Dąbrowa Górnicza"
         },
+        "parent": 3337497,
         "lat": 50.31818,
         "lng": 19.2374,
-        "country": "PL",
-        "state": "83",
         "population": 130601
     },
     "3100946": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "Częstochowa"
         },
+        "parent": 3337497,
         "lat": 50.79646,
         "lng": 19.12409,
-        "country": "PL",
-        "state": "83",
         "population": 248125
     },
     "3101619": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Chorzów"
         },
+        "parent": 3337497,
         "lat": 50.30582,
         "lng": 18.9742,
-        "country": "PL",
-        "state": "83",
         "population": 113430
     },
     "3101950": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Bytom"
         },
+        "parent": 3337497,
         "lat": 50.34802,
         "lng": 18.93282,
-        "country": "PL",
-        "state": "83",
         "population": 189186
     },
     "3102014": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Bydgoszcz"
         },
+        "parent": 3337500,
         "lat": 53.1235,
         "lng": 18.00762,
-        "country": "PL",
-        "state": "73",
         "population": 366452
     },
     "3103402": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Bielsko-Biala"
         },
+        "parent": 3337497,
         "lat": 49.82245,
         "lng": 19.04686,
-        "country": "PL",
-        "state": "83",
         "population": 176515
     },
     "3103709": {
@@ -1254,10 +1158,9 @@
         "long": {
             "default": "Bełchatów"
         },
+        "parent": 3337493,
         "lat": 51.36883,
         "lng": 19.35671,
-        "country": "PL",
-        "state": "74",
         "population": 62896
     },
     "3103719": {
@@ -1267,10 +1170,9 @@
         "long": {
             "default": "Będzin"
         },
+        "parent": 3337497,
         "lat": 50.32607,
         "lng": 19.12565,
-        "country": "PL",
-        "state": "83",
         "population": 58236
     },
     "6545326": {
@@ -1280,10 +1182,9 @@
         "long": {
             "default": "Ursynów"
         },
+        "parent": 858787,
         "lat": 52.15051,
         "lng": 21.05041,
-        "country": "PL",
-        "state": "78",
         "population": 147676
     },
     "6545347": {
@@ -1293,10 +1194,9 @@
         "long": {
             "default": "Praga Północ"
         },
+        "parent": 858787,
         "lat": 52.25443,
         "lng": 21.03472,
-        "country": "PL",
-        "state": "78",
         "population": 93192
     },
     "6545348": {
@@ -1306,10 +1206,9 @@
         "long": {
             "default": "Praga Południe"
         },
+        "parent": 858787,
         "lat": 52.24424,
         "lng": 21.08545,
-        "country": "PL",
-        "state": "78",
         "population": 187845
     }
 }

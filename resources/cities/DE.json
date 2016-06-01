@@ -6,10 +6,9 @@
         "long": {
             "default": "Zwickau"
         },
+        "parent": 2842566,
         "lat": 50.72724,
         "lng": 12.48839,
-        "country": "DE",
-        "state": "13",
         "population": 98796
     },
     "2805059": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Zehlendorf"
         },
+        "parent": 2950157,
         "lat": 52.43333,
         "lng": 13.25,
-        "country": "DE",
-        "state": "16",
         "population": 58469
     },
     "2805615": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Würzburg"
         },
+        "parent": 2951839,
         "lat": 49.79391,
         "lng": 9.95121,
-        "country": "DE",
-        "state": "02",
         "population": 133731
     },
     "2805753": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Wuppertal"
         },
+        "parent": 2861876,
         "lat": 51.27027,
         "lng": 7.16755,
-        "country": "DE",
-        "state": "07",
         "population": 360797
     },
     "2806142": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Worms"
         },
+        "parent": 2847618,
         "lat": 49.63278,
         "lng": 8.35916,
-        "country": "DE",
-        "state": "08",
         "population": 81099
     },
     "2806654": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Wolfsburg"
         },
+        "parent": 2862926,
         "lat": 52.42452,
         "lng": 10.7815,
-        "country": "DE",
-        "state": "06",
         "population": 123064
     },
     "2806914": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Wolfenbüttel"
         },
+        "parent": 2862926,
         "lat": 52.16442,
         "lng": 10.54095,
-        "country": "DE",
-        "state": "06",
         "population": 54740
     },
     "2807363": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Witten"
         },
+        "parent": 2861876,
         "lat": 51.44362,
         "lng": 7.35258,
-        "country": "DE",
-        "state": "07",
         "population": 101247
     },
     "2807748": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Winterhude"
         },
+        "parent": 2911297,
         "lat": 53.6,
         "lng": 10,
-        "country": "DE",
-        "state": "04",
         "population": 51297
     },
     "2808473": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Wilmersdorf"
         },
+        "parent": 2950157,
         "lat": 52.48333,
         "lng": 13.31667,
-        "country": "DE",
-        "state": "16",
         "population": 94113
     },
     "2808559": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Willich"
         },
+        "parent": 2861876,
         "lat": 51.26371,
         "lng": 6.54734,
-        "country": "DE",
-        "state": "07",
         "population": 51843
     },
     "2808720": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Wilhelmshaven"
         },
+        "parent": 2862926,
         "lat": 53.52998,
         "lng": 8.11253,
-        "country": "DE",
-        "state": "06",
         "population": 84393
     },
     "2809346": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Wiesbaden"
         },
+        "parent": 2905330,
         "lat": 50.08258,
         "lng": 8.24932,
-        "country": "DE",
-        "state": "05",
         "population": 272432
     },
     "2809889": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Wetzlar"
         },
+        "parent": 2905330,
         "lat": 50.56109,
         "lng": 8.50495,
-        "country": "DE",
-        "state": "05",
         "population": 52656
     },
     "2810678": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Wesel"
         },
+        "parent": 2861876,
         "lat": 51.6669,
         "lng": 6.62037,
-        "country": "DE",
-        "state": "07",
         "population": 61685
     },
     "2812482": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Weimar"
         },
+        "parent": 2822542,
         "lat": 50.9803,
         "lng": 11.32903,
-        "country": "DE",
-        "state": "15",
         "population": 64727
     },
     "2813472": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Wedding"
         },
+        "parent": 2950157,
         "lat": 52.54734,
         "lng": 13.35594,
-        "country": "DE",
-        "state": "16",
         "population": 78290
     },
     "2815330": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Waiblingen"
         },
+        "parent": 2953481,
         "lat": 48.83241,
         "lng": 9.31641,
-        "country": "DE",
-        "state": "01",
         "population": 52945
     },
     "2817220": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Villingen-Schwenningen"
         },
+        "parent": 2953481,
         "lat": 48.06226,
         "lng": 8.49358,
-        "country": "DE",
-        "state": "01",
         "population": 81770
     },
     "2817311": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Viersen"
         },
+        "parent": 2861876,
         "lat": 51.25435,
         "lng": 6.39441,
-        "country": "DE",
-        "state": "07",
         "population": 76153
     },
     "2817724": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Velbert"
         },
+        "parent": 2861876,
         "lat": 51.33537,
         "lng": 7.04348,
-        "country": "DE",
-        "state": "07",
         "population": 87669
     },
     "2820087": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Unna"
         },
+        "parent": 2861876,
         "lat": 51.53795,
         "lng": 7.68969,
-        "country": "DE",
-        "state": "07",
         "population": 66734
     },
     "2820256": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Ulm"
         },
+        "parent": 2953481,
         "lat": 48.39841,
         "lng": 9.99155,
-        "country": "DE",
-        "state": "01",
         "population": 120451
     },
     "2820860": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Tübingen"
         },
+        "parent": 2953481,
         "lat": 48.52266,
         "lng": 9.05222,
-        "country": "DE",
-        "state": "01",
         "population": 83416
     },
     "2821029": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Troisdorf"
         },
+        "parent": 2861876,
         "lat": 50.80901,
         "lng": 7.14968,
-        "country": "DE",
-        "state": "07",
         "population": 74749
     },
     "2821164": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Trier"
         },
+        "parent": 2847618,
         "lat": 49.75565,
         "lng": 6.63935,
-        "country": "DE",
-        "state": "08",
         "population": 100129
     },
     "2823538": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Tempelhof"
         },
+        "parent": 2950157,
         "lat": 52.46667,
         "lng": 13.4,
-        "country": "DE",
-        "state": "16",
         "population": 56669
     },
     "2825297": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Stuttgart"
         },
+        "parent": 2953481,
         "lat": 48.78232,
         "lng": 9.17702,
-        "country": "DE",
-        "state": "01",
         "population": 589793
     },
     "2826287": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Stralsund"
         },
+        "parent": 2872567,
         "lat": 54.30911,
         "lng": 13.0818,
-        "country": "DE",
-        "state": "12",
         "population": 58976
     },
     "2826595": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Stolberg"
         },
+        "parent": 2861876,
         "lat": 50.77368,
         "lng": 6.22595,
-        "country": "DE",
-        "state": "07",
         "population": 58874
     },
     "2829109": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Steglitz"
         },
+        "parent": 2950157,
         "lat": 52.45606,
         "lng": 13.332,
-        "country": "DE",
-        "state": "16",
         "population": 72464
     },
     "2830582": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Speyer"
         },
+        "parent": 2847618,
         "lat": 49.32083,
         "lng": 8.43111,
-        "country": "DE",
-        "state": "08",
         "population": 50343
     },
     "2831580": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Solingen"
         },
+        "parent": 2861876,
         "lat": 51.17343,
         "lng": 7.0845,
-        "country": "DE",
-        "state": "07",
         "population": 164359
     },
     "2831948": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Sindelfingen"
         },
+        "parent": 2953481,
         "lat": 48.7,
         "lng": 9.01667,
-        "country": "DE",
-        "state": "01",
         "population": 61311
     },
     "2832495": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Siegen"
         },
+        "parent": 2861876,
         "lat": 50.87481,
         "lng": 8.02431,
-        "country": "DE",
-        "state": "07",
         "population": 107242
     },
     "2834265": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Schwerte"
         },
+        "parent": 2861876,
         "lat": 51.44387,
         "lng": 7.5675,
-        "country": "DE",
-        "state": "07",
         "population": 50399
     },
     "2834282": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Schwerin"
         },
+        "parent": 2872567,
         "lat": 53.62937,
         "lng": 11.41316,
-        "country": "DE",
-        "state": "12",
         "population": 96641
     },
     "2834498": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Schweinfurt"
         },
+        "parent": 2951839,
         "lat": 50.04937,
         "lng": 10.22175,
-        "country": "DE",
-        "state": "02",
         "population": 54012
     },
     "2835482": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Schwäbisch Gmünd"
         },
+        "parent": 2953481,
         "lat": 48.79947,
         "lng": 9.79809,
-        "country": "DE",
-        "state": "01",
         "population": 61338
     },
     "2836788": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Schöneberg"
         },
+        "parent": 2950157,
         "lat": 52.46667,
         "lng": 13.35,
-        "country": "DE",
-        "state": "16",
         "population": 115976
     },
     "2841648": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Sankt Augustin"
         },
+        "parent": 2861876,
         "lat": 50.77538,
         "lng": 7.197,
-        "country": "DE",
-        "state": "07",
         "population": 56094
     },
     "2842647": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Saarbrücken"
         },
+        "parent": 2842635,
         "lat": 49.2354,
         "lng": 6.98165,
-        "country": "DE",
-        "state": "09",
         "population": 181227
     },
     "2842884": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Rüsselsheim"
         },
+        "parent": 2905330,
         "lat": 49.98955,
         "lng": 8.42251,
-        "country": "DE",
-        "state": "05",
         "population": 59730
     },
     "2844588": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Rostock"
         },
+        "parent": 2872567,
         "lat": 54.0887,
         "lng": 12.14049,
-        "country": "DE",
-        "state": "12",
         "population": 198293
     },
     "2844988": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Rosenheim"
         },
+        "parent": 2951839,
         "lat": 47.85637,
         "lng": 12.12247,
-        "country": "DE",
-        "state": "02",
         "population": 60167
     },
     "2847645": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Rheine"
         },
+        "parent": 2861876,
         "lat": 52.28509,
         "lng": 7.44055,
-        "country": "DE",
-        "state": "07",
         "population": 76491
     },
     "2847736": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Reutlingen"
         },
+        "parent": 2953481,
         "lat": 48.49144,
         "lng": 9.20427,
-        "country": "DE",
-        "state": "01",
         "population": 112627
     },
     "2848273": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Remscheid"
         },
+        "parent": 2861876,
         "lat": 51.17983,
         "lng": 7.1925,
-        "country": "DE",
-        "state": "07",
         "population": 117118
     },
     "2848756": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Reinickendorf"
         },
+        "parent": 2950157,
         "lat": 52.56667,
         "lng": 13.33333,
-        "country": "DE",
-        "state": "16",
         "population": 75414
     },
     "2849483": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Regensburg"
         },
+        "parent": 2951839,
         "lat": 49.01513,
         "lng": 12.10161,
-        "country": "DE",
-        "state": "02",
         "population": 129151
     },
     "2849647": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Recklinghausen"
         },
+        "parent": 2861876,
         "lat": 51.61379,
         "lng": 7.19738,
-        "country": "DE",
-        "state": "07",
         "population": 122438
     },
     "2850174": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Ratingen"
         },
+        "parent": 2861876,
         "lat": 51.29724,
         "lng": 6.84929,
-        "country": "DE",
-        "state": "07",
         "population": 91606
     },
     "2851746": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Pulheim"
         },
+        "parent": 2861876,
         "lat": 50.99965,
         "lng": 6.80632,
-        "country": "DE",
-        "state": "07",
         "population": 53762
     },
     "2852217": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Prenzlauer Berg"
         },
+        "parent": 2950157,
         "lat": 52.53878,
         "lng": 13.42443,
-        "country": "DE",
-        "state": "16",
         "population": 148878
     },
     "2852458": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Potsdam"
         },
+        "parent": 2945356,
         "lat": 52.39886,
         "lng": 13.06566,
-        "country": "DE",
-        "state": "11",
         "population": 145292
     },
     "2853292": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Plauen"
         },
+        "parent": 2842566,
         "lat": 50.4973,
         "lng": 12.13782,
-        "country": "DE",
-        "state": "13",
         "population": 66412
     },
     "2853969": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Pforzheim"
         },
+        "parent": 2953481,
         "lat": 48.88436,
         "lng": 8.69892,
-        "country": "DE",
-        "state": "01",
         "population": 119313
     },
     "2855328": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Passau"
         },
+        "parent": 2951839,
         "lat": 48.5665,
         "lng": 13.43122,
-        "country": "DE",
-        "state": "02",
         "population": 50560
     },
     "2855598": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Pankow"
         },
+        "parent": 2950157,
         "lat": 52.56926,
         "lng": 13.40186,
-        "country": "DE",
-        "state": "16",
         "population": 57113
     },
     "2855745": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Paderborn"
         },
+        "parent": 2861876,
         "lat": 51.71905,
         "lng": 8.75439,
-        "country": "DE",
-        "state": "07",
         "population": 142161
     },
     "2856883": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Osnabrück"
         },
+        "parent": 2862926,
         "lat": 52.27264,
         "lng": 8.0498,
-        "country": "DE",
-        "state": "06",
         "population": 166462
     },
     "2857458": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Oldenburg"
         },
+        "parent": 2862926,
         "lat": 53.14118,
         "lng": 8.21467,
-        "country": "DE",
-        "state": "06",
         "population": 159218
     },
     "2857798": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Offenburg"
         },
+        "parent": 2953481,
         "lat": 48.47377,
         "lng": 7.94495,
-        "country": "DE",
-        "state": "01",
         "population": 59238
     },
     "2857807": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Offenbach"
         },
+        "parent": 2905330,
         "lat": 50.10061,
         "lng": 8.76647,
-        "country": "DE",
-        "state": "05",
         "population": 119192
     },
     "2860410": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Oberhausen"
         },
+        "parent": 2861876,
         "lat": 51.47311,
         "lng": 6.88074,
-        "country": "DE",
-        "state": "07",
         "population": 219176
     },
     "2861650": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Nürnberg"
         },
+        "parent": 2951839,
         "lat": 49.45421,
         "lng": 11.07752,
-        "country": "DE",
-        "state": "02",
         "population": 499237
     },
     "2861934": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Nordhorn"
         },
+        "parent": 2862926,
         "lat": 52.43081,
         "lng": 7.06833,
-        "country": "DE",
-        "state": "06",
         "population": 52803
     },
     "2862026": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Norderstedt"
         },
+        "parent": 2838632,
         "lat": 53.6859,
         "lng": 9.98041,
-        "country": "DE",
-        "state": "10",
         "population": 71439
     },
     "2862375": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Nippes"
         },
+        "parent": 2861876,
         "lat": 50.96545,
         "lng": 6.95314,
-        "country": "DE",
-        "state": "07",
         "population": 113487
     },
     "2863840": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Neuwied"
         },
+        "parent": 2847618,
         "lat": 50.4336,
         "lng": 7.47057,
-        "country": "DE",
-        "state": "08",
         "population": 66805
     },
     "2863941": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Neu-Ulm"
         },
+        "parent": 2951839,
         "lat": 48.39279,
         "lng": 10.01112,
-        "country": "DE",
-        "state": "02",
         "population": 51389
     },
     "2864054": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Neustadt"
         },
+        "parent": 2847618,
         "lat": 49.35009,
         "lng": 8.13886,
-        "country": "DE",
-        "state": "08",
         "population": 53984
     },
     "2864072": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Neue Neustadt"
         },
+        "parent": 2842565,
         "lat": 52.15,
         "lng": 11.63333,
-        "country": "DE",
-        "state": "14",
         "population": 226851
     },
     "2864118": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Neuss"
         },
+        "parent": 2861876,
         "lat": 51.19807,
         "lng": 6.68504,
-        "country": "DE",
-        "state": "07",
         "population": 152457
     },
     "2864475": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Neumünster"
         },
+        "parent": 2838632,
         "lat": 54.07477,
         "lng": 9.98195,
-        "country": "DE",
-        "state": "10",
         "population": 78383
     },
     "2866110": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Neubrück"
         },
+        "parent": 2861876,
         "lat": 51.13434,
         "lng": 6.63857,
-        "country": "DE",
-        "state": "07",
         "population": 51109
     },
     "2866135": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Neubrandenburg"
         },
+        "parent": 2872567,
         "lat": 53.56414,
         "lng": 13.27532,
-        "country": "DE",
-        "state": "12",
         "population": 68082
     },
     "2867543": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Münster"
         },
+        "parent": 2861876,
         "lat": 51.96236,
         "lng": 7.62571,
-        "country": "DE",
-        "state": "07",
         "population": 270184
     },
     "2867714": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Munich"
         },
+        "parent": 2951839,
         "lat": 48.13743,
         "lng": 11.57549,
-        "country": "DE",
-        "state": "02",
         "population": 1260391
     },
     "2867838": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Mülheim"
         },
+        "parent": 2861876,
         "lat": 51.43218,
         "lng": 6.87967,
-        "country": "DE",
-        "state": "07",
         "population": 171000
     },
     "2869894": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Mönchengladbach"
         },
+        "parent": 2861876,
         "lat": 51.18539,
         "lng": 6.44172,
-        "country": "DE",
-        "state": "07",
         "population": 261742
     },
     "2870221": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Moers"
         },
+        "parent": 2861876,
         "lat": 51.45342,
         "lng": 6.6326,
-        "country": "DE",
-        "state": "07",
         "population": 107816
     },
     "2870310": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Moabit"
         },
+        "parent": 2950157,
         "lat": 52.52635,
         "lng": 13.33903,
-        "country": "DE",
-        "state": "16",
         "population": 70911
     },
     "2871039": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "Minden"
         },
+        "parent": 2861876,
         "lat": 52.28953,
         "lng": 8.91455,
-        "country": "DE",
-        "state": "07",
         "population": 82879
     },
     "2871983": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Menden"
         },
+        "parent": 2861876,
         "lat": 51.44337,
         "lng": 7.77825,
-        "country": "DE",
-        "state": "07",
         "population": 58451
     },
     "2872504": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Meerbusch"
         },
+        "parent": 2861876,
         "lat": 51.26118,
         "lng": 6.6717,
-        "country": "DE",
-        "state": "07",
         "population": 54826
     },
     "2873074": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Marzahn"
         },
+        "parent": 2950157,
         "lat": 52.54525,
         "lng": 13.56983,
-        "country": "DE",
-        "state": "16",
         "population": 103768
     },
     "2873263": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "Marl"
         },
+        "parent": 2861876,
         "lat": 51.65671,
         "lng": 7.09038,
-        "country": "DE",
-        "state": "07",
         "population": 91398
     },
     "2873759": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Marburg an der Lahn"
         },
+        "parent": 2905330,
         "lat": 50.80904,
         "lng": 8.77069,
-        "country": "DE",
-        "state": "05",
         "population": 78895
     },
     "2873891": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Mannheim"
         },
+        "parent": 2953481,
         "lat": 49.49671,
         "lng": 8.47955,
-        "country": "DE",
-        "state": "01",
         "population": 307960
     },
     "2874225": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Mainz"
         },
+        "parent": 2847618,
         "lat": 49.98419,
         "lng": 8.2791,
-        "country": "DE",
-        "state": "08",
         "population": 184997
     },
     "2874545": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "Magdeburg"
         },
+        "parent": 2842565,
         "lat": 52.12773,
         "lng": 11.62916,
-        "country": "DE",
-        "state": "14",
         "population": 229826
     },
     "2875107": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Lünen"
         },
+        "parent": 2861876,
         "lat": 51.61634,
         "lng": 7.52872,
-        "country": "DE",
-        "state": "07",
         "population": 91009
     },
     "2875115": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Lüneburg"
         },
+        "parent": 2862926,
         "lat": 53.2509,
         "lng": 10.41409,
-        "country": "DE",
-        "state": "06",
         "population": 71260
     },
     "2875376": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Ludwigshafen am Rhein"
         },
+        "parent": 2847618,
         "lat": 49.48121,
         "lng": 8.44641,
-        "country": "DE",
-        "state": "08",
         "population": 163196
     },
     "2875392": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Ludwigsburg"
         },
+        "parent": 2953481,
         "lat": 48.89731,
         "lng": 9.19161,
-        "country": "DE",
-        "state": "01",
         "population": 87603
     },
     "2875457": {
@@ -1254,10 +1158,9 @@
         "long": {
             "default": "Lüdenscheid"
         },
+        "parent": 2861876,
         "lat": 51.21977,
         "lng": 7.6273,
-        "country": "DE",
-        "state": "07",
         "population": 79386
     },
     "2875601": {
@@ -1267,10 +1170,9 @@
         "long": {
             "default": "Lübeck"
         },
+        "parent": 2838632,
         "lat": 53.86893,
         "lng": 10.68729,
-        "country": "DE",
-        "state": "10",
         "population": 212207
     },
     "2876865": {
@@ -1280,10 +1182,9 @@
         "long": {
             "default": "Lippstadt"
         },
+        "parent": 2861876,
         "lat": 51.67369,
         "lng": 8.34482,
-        "country": "DE",
-        "state": "07",
         "population": 67219
     },
     "2877088": {
@@ -1293,10 +1194,9 @@
         "long": {
             "default": "Lingen"
         },
+        "parent": 2862926,
         "lat": 52.52143,
         "lng": 7.31845,
-        "country": "DE",
-        "state": "06",
         "population": 51310
     },
     "2878018": {
@@ -1306,10 +1206,9 @@
         "long": {
             "default": "Lichterfelde"
         },
+        "parent": 2950157,
         "lat": 52.4333,
         "lng": 13.30762,
-        "country": "DE",
-        "state": "16",
         "population": 80149
     },
     "2878234": {
@@ -1319,10 +1218,9 @@
         "long": {
             "default": "Leverkusen"
         },
+        "parent": 2861876,
         "lat": 51.0303,
         "lng": 6.98432,
-        "country": "DE",
-        "state": "07",
         "population": 162738
     },
     "2879139": {
@@ -1332,10 +1230,9 @@
         "long": {
             "default": "Leipzig"
         },
+        "parent": 2842566,
         "lat": 51.33962,
         "lng": 12.37129,
-        "country": "DE",
-        "state": "13",
         "population": 504971
     },
     "2881062": {
@@ -1345,10 +1242,9 @@
         "long": {
             "default": "Langenhagen"
         },
+        "parent": 2862926,
         "lat": 52.44758,
         "lng": 9.73741,
-        "country": "DE",
-        "state": "06",
         "population": 50439
     },
     "2881085": {
@@ -1358,10 +1254,9 @@
         "long": {
             "default": "Langenfeld"
         },
+        "parent": 2861876,
         "lat": 51.10821,
         "lng": 6.94831,
-        "country": "DE",
-        "state": "07",
         "population": 59378
     },
     "2881485": {
@@ -1371,10 +1266,9 @@
         "long": {
             "default": "Landshut"
         },
+        "parent": 2951839,
         "lat": 48.52961,
         "lng": 12.16179,
-        "country": "DE",
-        "state": "02",
         "population": 60488
     },
     "2884161": {
@@ -1384,10 +1278,9 @@
         "long": {
             "default": "Kreuzberg"
         },
+        "parent": 2950157,
         "lat": 52.49973,
         "lng": 13.40338,
-        "country": "DE",
-        "state": "16",
         "population": 147532
     },
     "2884509": {
@@ -1397,10 +1290,9 @@
         "long": {
             "default": "Krefeld"
         },
+        "parent": 2861876,
         "lat": 51.33921,
         "lng": 6.58615,
-        "country": "DE",
-        "state": "07",
         "population": 237984
     },
     "2885656": {
@@ -1410,10 +1302,9 @@
         "long": {
             "default": "Köpenick"
         },
+        "parent": 2950157,
         "lat": 52.4455,
         "lng": 13.57455,
-        "country": "DE",
-        "state": "16",
         "population": 60128
     },
     "2885657": {
@@ -1423,10 +1314,9 @@
         "long": {
             "default": "Berlin Köpenick"
         },
+        "parent": 2950157,
         "lat": 52.44254,
         "lng": 13.58228,
-        "country": "DE",
-        "state": "16",
         "population": 59561
     },
     "2885679": {
@@ -1436,10 +1326,9 @@
         "long": {
             "default": "Konstanz"
         },
+        "parent": 2953481,
         "lat": 47.66033,
         "lng": 9.17582,
-        "country": "DE",
-        "state": "01",
         "population": 81275
     },
     "2886242": {
@@ -1449,10 +1338,9 @@
         "long": {
             "default": "Köln"
         },
+        "parent": 2861876,
         "lat": 50.93333,
         "lng": 6.95,
-        "country": "DE",
-        "state": "07",
         "population": 963395
     },
     "2886946": {
@@ -1462,10 +1350,9 @@
         "long": {
             "default": "Koblenz"
         },
+        "parent": 2847618,
         "lat": 50.35357,
         "lng": 7.57883,
-        "country": "DE",
-        "state": "08",
         "population": 107319
     },
     "2891122": {
@@ -1475,10 +1362,9 @@
         "long": {
             "default": "Kiel"
         },
+        "parent": 2838632,
         "lat": 54.32133,
         "lng": 10.13489,
-        "country": "DE",
-        "state": "10",
         "population": 232758
     },
     "2891524": {
@@ -1488,10 +1374,9 @@
         "long": {
             "default": "Kerpen"
         },
+        "parent": 2861876,
         "lat": 50.86991,
         "lng": 6.69691,
-        "country": "DE",
-        "state": "07",
         "population": 64226
     },
     "2891621": {
@@ -1501,10 +1386,9 @@
         "long": {
             "default": "Kempten (Allgäu)"
         },
+        "parent": 2951839,
         "lat": 47.72674,
         "lng": 10.31389,
-        "country": "DE",
-        "state": "02",
         "population": 61399
     },
     "2892518": {
@@ -1514,10 +1398,9 @@
         "long": {
             "default": "Kassel"
         },
+        "parent": 2905330,
         "lat": 51.31667,
         "lng": 9.5,
-        "country": "DE",
-        "state": "05",
         "population": 194501
     },
     "2892794": {
@@ -1527,10 +1410,9 @@
         "long": {
             "default": "Karlsruhe"
         },
+        "parent": 2953481,
         "lat": 49.00937,
         "lng": 8.40444,
-        "country": "DE",
-        "state": "01",
         "population": 283799
     },
     "2894003": {
@@ -1540,10 +1422,9 @@
         "long": {
             "default": "Kaiserslautern"
         },
+        "parent": 2847618,
         "lat": 49.443,
         "lng": 7.77161,
-        "country": "DE",
-        "state": "08",
         "population": 98732
     },
     "2895044": {
@@ -1553,10 +1434,9 @@
         "long": {
             "default": "Jena"
         },
+        "parent": 2822542,
         "lat": 50.92878,
         "lng": 11.5899,
-        "country": "DE",
-        "state": "15",
         "population": 104712
     },
     "2895669": {
@@ -1566,10 +1446,9 @@
         "long": {
             "default": "Iserlohn"
         },
+        "parent": 2861876,
         "lat": 51.37547,
         "lng": 7.70281,
-        "country": "DE",
-        "state": "07",
         "population": 97910
     },
     "2895992": {
@@ -1579,10 +1458,9 @@
         "long": {
             "default": "Ingolstadt"
         },
+        "parent": 2951839,
         "lat": 48.76508,
         "lng": 11.42372,
-        "country": "DE",
-        "state": "02",
         "population": 120658
     },
     "2896817": {
@@ -1592,10 +1470,9 @@
         "long": {
             "default": "Ibbenbüren"
         },
+        "parent": 2861876,
         "lat": 52.27964,
         "lng": 7.71457,
-        "country": "DE",
-        "state": "07",
         "population": 50577
     },
     "2897216": {
@@ -1605,10 +1482,9 @@
         "long": {
             "default": "Hürth"
         },
+        "parent": 2861876,
         "lat": 50.87079,
         "lng": 6.86761,
-        "country": "DE",
-        "state": "07",
         "population": 54678
     },
     "2904789": {
@@ -1618,10 +1494,9 @@
         "long": {
             "default": "Hildesheim"
         },
+        "parent": 2862926,
         "lat": 52.15077,
         "lng": 9.95112,
-        "country": "DE",
-        "state": "06",
         "population": 103052
     },
     "2904795": {
@@ -1631,10 +1506,9 @@
         "long": {
             "default": "Hilden"
         },
+        "parent": 2861876,
         "lat": 51.16818,
         "lng": 6.93093,
-        "country": "DE",
-        "state": "07",
         "population": 56565
     },
     "2905560": {
@@ -1644,10 +1518,9 @@
         "long": {
             "default": "Herten"
         },
+        "parent": 2861876,
         "lat": 51.59638,
         "lng": 7.14387,
-        "country": "DE",
-        "state": "07",
         "population": 65306
     },
     "2905891": {
@@ -1657,10 +1530,9 @@
         "long": {
             "default": "Herne"
         },
+        "parent": 2861876,
         "lat": 51.5388,
         "lng": 7.22572,
-        "country": "DE",
-        "state": "07",
         "population": 172108
     },
     "2906121": {
@@ -1670,10 +1542,9 @@
         "long": {
             "default": "Herford"
         },
+        "parent": 2861876,
         "lat": 52.11457,
         "lng": 8.67343,
-        "country": "DE",
-        "state": "07",
         "population": 64879
     },
     "2906809": {
@@ -1683,10 +1554,9 @@
         "long": {
             "default": "Hellersdorf"
         },
+        "parent": 2950157,
         "lat": 52.53319,
         "lng": 13.6088,
-        "country": "DE",
-        "state": "16",
         "population": 74847
     },
     "2907669": {
@@ -1696,10 +1566,9 @@
         "long": {
             "default": "Heilbronn"
         },
+        "parent": 2953481,
         "lat": 49.13995,
         "lng": 9.22054,
-        "country": "DE",
-        "state": "01",
         "population": 120733
     },
     "2907851": {
@@ -1709,10 +1578,9 @@
         "long": {
             "default": "Heidenheim an der Brenz"
         },
+        "parent": 2953481,
         "lat": 48.67798,
         "lng": 10.15162,
-        "country": "DE",
-        "state": "01",
         "population": 50067
     },
     "2907911": {
@@ -1722,10 +1590,9 @@
         "long": {
             "default": "Heidelberg"
         },
+        "parent": 2953481,
         "lat": 49.40768,
         "lng": 8.69079,
-        "country": "DE",
-        "state": "01",
         "population": 143345
     },
     "2909230": {
@@ -1735,10 +1602,9 @@
         "long": {
             "default": "Hattingen"
         },
+        "parent": 2861876,
         "lat": 51.39894,
         "lng": 7.18557,
-        "country": "DE",
-        "state": "07",
         "population": 56866
     },
     "2910685": {
@@ -1748,10 +1614,9 @@
         "long": {
             "default": "Harburg"
         },
+        "parent": 2911297,
         "lat": 53.46057,
         "lng": 9.98388,
-        "country": "DE",
-        "state": "04",
         "population": 202571
     },
     "2910831": {
@@ -1761,10 +1626,9 @@
         "long": {
             "default": "Hannover"
         },
+        "parent": 2862926,
         "lat": 52.37052,
         "lng": 9.73322,
-        "country": "DE",
-        "state": "06",
         "population": 515140
     },
     "2911007": {
@@ -1774,10 +1638,9 @@
         "long": {
             "default": "Hanau am Main"
         },
+        "parent": 2905330,
         "lat": 50.13423,
         "lng": 8.91418,
-        "country": "DE",
-        "state": "05",
         "population": 88648
     },
     "2911240": {
@@ -1787,10 +1650,9 @@
         "long": {
             "default": "Hamm"
         },
+        "parent": 2861876,
         "lat": 51.68033,
         "lng": 7.82089,
-        "country": "DE",
-        "state": "07",
         "population": 185327
     },
     "2911271": {
@@ -1800,10 +1662,9 @@
         "long": {
             "default": "Hameln"
         },
+        "parent": 2862926,
         "lat": 52.10397,
         "lng": 9.35623,
-        "country": "DE",
-        "state": "06",
         "population": 58666
     },
     "2911285": {
@@ -1813,10 +1674,9 @@
         "long": {
             "default": "Wandsbek"
         },
+        "parent": 2911297,
         "lat": 53.56667,
         "lng": 10.1,
-        "country": "DE",
-        "state": "04",
         "population": 411422
     },
     "2911287": {
@@ -1826,10 +1686,9 @@
         "long": {
             "default": "Marienthal"
         },
+        "parent": 2911297,
         "lat": 53.56667,
         "lng": 10.08333,
-        "country": "DE",
-        "state": "04",
         "population": 287101
     },
     "2911288": {
@@ -1839,10 +1698,9 @@
         "long": {
             "default": "Hamburg-Mitte"
         },
+        "parent": 2911297,
         "lat": 53.55,
         "lng": 10.01667,
-        "country": "DE",
-        "state": "04",
         "population": 233144
     },
     "2911293": {
@@ -1852,10 +1710,9 @@
         "long": {
             "default": "Eimsbüttel"
         },
+        "parent": 2911297,
         "lat": 53.56667,
         "lng": 9.98333,
-        "country": "DE",
-        "state": "04",
         "population": 251907
     },
     "2911296": {
@@ -1865,10 +1722,9 @@
         "long": {
             "default": "Altona"
         },
+        "parent": 2911297,
         "lat": 53.55,
         "lng": 9.93333,
-        "country": "DE",
-        "state": "04",
         "population": 250192
     },
     "2911298": {
@@ -1878,10 +1734,9 @@
         "long": {
             "default": "Hamburg"
         },
+        "parent": 2911297,
         "lat": 53.57532,
         "lng": 10.01534,
-        "country": "DE",
-        "state": "04",
         "population": 1739117
     },
     "2911522": {
@@ -1891,10 +1746,9 @@
         "long": {
             "default": "Halle (Saale)"
         },
+        "parent": 2842565,
         "lat": 51.5,
         "lng": 12,
-        "country": "DE",
-        "state": "14",
         "population": 234107
     },
     "2912621": {
@@ -1904,10 +1758,9 @@
         "long": {
             "default": "Hagen"
         },
+        "parent": 2861876,
         "lat": 51.36081,
         "lng": 7.47168,
-        "country": "DE",
-        "state": "07",
         "population": 198972
     },
     "2913366": {
@@ -1917,10 +1770,9 @@
         "long": {
             "default": "Gütersloh"
         },
+        "parent": 2861876,
         "lat": 51.90693,
         "lng": 8.37853,
-        "country": "DE",
-        "state": "07",
         "population": 96180
     },
     "2913761": {
@@ -1930,10 +1782,9 @@
         "long": {
             "default": "Gummersbach"
         },
+        "parent": 2861876,
         "lat": 51.02608,
         "lng": 7.56473,
-        "country": "DE",
-        "state": "07",
         "population": 53131
     },
     "2917540": {
@@ -1943,10 +1794,9 @@
         "long": {
             "default": "Grevenbroich"
         },
+        "parent": 2861876,
         "lat": 51.09102,
         "lng": 6.5827,
-        "country": "DE",
-        "state": "07",
         "population": 64779
     },
     "2917788": {
@@ -1956,10 +1806,9 @@
         "long": {
             "default": "Greifswald"
         },
+        "parent": 2872567,
         "lat": 54.09311,
         "lng": 13.38786,
-        "country": "DE",
-        "state": "12",
         "population": 52731
     },
     "2918632": {
@@ -1969,10 +1818,9 @@
         "long": {
             "default": "Göttingen"
         },
+        "parent": 2862926,
         "lat": 51.53443,
         "lng": 9.93228,
-        "country": "DE",
-        "state": "06",
         "population": 122149
     },
     "2918987": {
@@ -1982,10 +1830,9 @@
         "long": {
             "default": "Görlitz"
         },
+        "parent": 2842566,
         "lat": 51.15518,
         "lng": 14.98853,
-        "country": "DE",
-        "state": "13",
         "population": 57751
     },
     "2919054": {
@@ -1995,10 +1842,9 @@
         "long": {
             "default": "Göppingen"
         },
+        "parent": 2953481,
         "lat": 48.70354,
         "lng": 9.65209,
-        "country": "DE",
-        "state": "01",
         "population": 58040
     },
     "2920236": {
@@ -2008,10 +1854,9 @@
         "long": {
             "default": "Gladbeck"
         },
+        "parent": 2861876,
         "lat": 51.57077,
         "lng": 6.98593,
-        "country": "DE",
-        "state": "07",
         "population": 76940
     },
     "2920512": {
@@ -2021,10 +1866,9 @@
         "long": {
             "default": "Gießen"
         },
+        "parent": 2905330,
         "lat": 50.58727,
         "lng": 8.67554,
-        "country": "DE",
-        "state": "05",
         "population": 74411
     },
     "2920789": {
@@ -2034,10 +1878,9 @@
         "long": {
             "default": "Gesundbrunnen"
         },
+        "parent": 2950157,
         "lat": 52.55035,
         "lng": 13.39139,
-        "country": "DE",
-        "state": "16",
         "population": 84789
     },
     "2921232": {
@@ -2047,10 +1890,9 @@
         "long": {
             "default": "Gera"
         },
+        "parent": 2822542,
         "lat": 50.88029,
         "lng": 12.08187,
-        "country": "DE",
-        "state": "15",
         "population": 104659
     },
     "2921466": {
@@ -2060,10 +1902,9 @@
         "long": {
             "default": "Gelsenkirchen"
         },
+        "parent": 2861876,
         "lat": 51.5075,
         "lng": 7.12283,
-        "country": "DE",
-        "state": "07",
         "population": 270028
     },
     "2922586": {
@@ -2073,10 +1914,9 @@
         "long": {
             "default": "Garbsen"
         },
+        "parent": 2862926,
         "lat": 52.41371,
         "lng": 9.5899,
-        "country": "DE",
-        "state": "06",
         "population": 63355
     },
     "2923544": {
@@ -2086,10 +1926,9 @@
         "long": {
             "default": "Fürth"
         },
+        "parent": 2951839,
         "lat": 49.47593,
         "lng": 10.98856,
-        "country": "DE",
-        "state": "02",
         "population": 112025
     },
     "2923822": {
@@ -2099,10 +1938,9 @@
         "long": {
             "default": "Fulda"
         },
+        "parent": 2905330,
         "lat": 50.55162,
         "lng": 9.67518,
-        "country": "DE",
-        "state": "05",
         "population": 63760
     },
     "2924573": {
@@ -2112,10 +1950,9 @@
         "long": {
             "default": "Friedrichshain"
         },
+        "parent": 2950157,
         "lat": 52.51559,
         "lng": 13.45482,
-        "country": "DE",
-        "state": "16",
         "population": 117829
     },
     "2924585": {
@@ -2125,10 +1962,9 @@
         "long": {
             "default": "Friedrichshafen"
         },
+        "parent": 2953481,
         "lat": 47.65689,
         "lng": 9.47554,
-        "country": "DE",
-        "state": "01",
         "population": 58403
     },
     "2925177": {
@@ -2138,10 +1974,9 @@
         "long": {
             "default": "Freiburg"
         },
+        "parent": 2953481,
         "lat": 47.9959,
         "lng": 7.85222,
-        "country": "DE",
-        "state": "01",
         "population": 215966
     },
     "2925533": {
@@ -2151,10 +1986,9 @@
         "long": {
             "default": "Frankfurt am Main"
         },
+        "parent": 2905330,
         "lat": 50.11552,
         "lng": 8.68417,
-        "country": "DE",
-        "state": "05",
         "population": 650000
     },
     "2925535": {
@@ -2164,10 +1998,9 @@
         "long": {
             "default": "Frankfurt (Oder)"
         },
+        "parent": 2945356,
         "lat": 52.34714,
         "lng": 14.55062,
-        "country": "DE",
-        "state": "11",
         "population": 51691
     },
     "2926271": {
@@ -2177,10 +2010,9 @@
         "long": {
             "default": "Flensburg"
         },
+        "parent": 2838632,
         "lat": 54.78431,
         "lng": 9.43961,
-        "country": "DE",
-        "state": "10",
         "population": 85838
     },
     "2928396": {
@@ -2190,10 +2022,9 @@
         "long": {
             "default": "Euskirchen"
         },
+        "parent": 2861876,
         "lat": 50.66057,
         "lng": 6.78722,
-        "country": "DE",
-        "state": "07",
         "population": 54889
     },
     "2928751": {
@@ -2203,10 +2034,9 @@
         "long": {
             "default": "Esslingen"
         },
+        "parent": 2953481,
         "lat": 48.73961,
         "lng": 9.30473,
-        "country": "DE",
-        "state": "01",
         "population": 92390
     },
     "2928810": {
@@ -2216,10 +2046,9 @@
         "long": {
             "default": "Essen"
         },
+        "parent": 2861876,
         "lat": 51.45657,
         "lng": 7.01228,
-        "country": "DE",
-        "state": "07",
         "population": 593085
     },
     "2928963": {
@@ -2229,10 +2058,9 @@
         "long": {
             "default": "Eschweiler"
         },
+        "parent": 2861876,
         "lat": 50.81854,
         "lng": 6.27184,
-        "country": "DE",
-        "state": "07",
         "population": 55778
     },
     "2929567": {
@@ -2242,10 +2070,9 @@
         "long": {
             "default": "Erlangen"
         },
+        "parent": 2951839,
         "lat": 49.59099,
         "lng": 11.00783,
-        "country": "DE",
-        "state": "02",
         "population": 102675
     },
     "2929670": {
@@ -2255,10 +2082,9 @@
         "long": {
             "default": "Erfurt"
         },
+        "parent": 2822542,
         "lat": 50.9787,
         "lng": 11.03283,
-        "country": "DE",
-        "state": "15",
         "population": 203254
     },
     "2929671": {
@@ -2268,10 +2094,9 @@
         "long": {
             "default": "Erftstadt"
         },
+        "parent": 2861876,
         "lat": 50.81481,
         "lng": 6.79387,
-        "country": "DE",
-        "state": "07",
         "population": 51207
     },
     "2930596": {
@@ -2281,10 +2106,9 @@
         "long": {
             "default": "Emden"
         },
+        "parent": 2862926,
         "lat": 53.36745,
         "lng": 7.20778,
-        "country": "DE",
-        "state": "06",
         "population": 51526
     },
     "2934246": {
@@ -2294,10 +2118,9 @@
         "long": {
             "default": "Düsseldorf"
         },
+        "parent": 2861876,
         "lat": 51.22172,
         "lng": 6.77616,
-        "country": "DE",
-        "state": "07",
         "population": 573057
     },
     "2934486": {
@@ -2307,10 +2130,9 @@
         "long": {
             "default": "Düren"
         },
+        "parent": 2861876,
         "lat": 50.80434,
         "lng": 6.49299,
-        "country": "DE",
-        "state": "07",
         "population": 93440
     },
     "2934691": {
@@ -2320,10 +2142,9 @@
         "long": {
             "default": "Duisburg"
         },
+        "parent": 2861876,
         "lat": 51.43247,
         "lng": 6.76516,
-        "country": "DE",
-        "state": "07",
         "population": 504358
     },
     "2935022": {
@@ -2333,10 +2154,9 @@
         "long": {
             "default": "Dresden"
         },
+        "parent": 2842566,
         "lat": 51.05089,
         "lng": 13.73832,
-        "country": "DE",
-        "state": "13",
         "population": 486854
     },
     "2935517": {
@@ -2346,10 +2166,9 @@
         "long": {
             "default": "Dortmund"
         },
+        "parent": 2861876,
         "lat": 51.51494,
         "lng": 7.466,
-        "country": "DE",
-        "state": "07",
         "population": 588462
     },
     "2935530": {
@@ -2359,10 +2178,9 @@
         "long": {
             "default": "Dorsten"
         },
+        "parent": 2861876,
         "lat": 51.66166,
         "lng": 6.96514,
-        "country": "DE",
-        "state": "07",
         "population": 79981
     },
     "2935825": {
@@ -2372,10 +2190,9 @@
         "long": {
             "default": "Dormagen"
         },
+        "parent": 2861876,
         "lat": 51.09683,
         "lng": 6.83167,
-        "country": "DE",
-        "state": "07",
         "population": 63582
     },
     "2936871": {
@@ -2385,10 +2202,9 @@
         "long": {
             "default": "Dinslaken"
         },
+        "parent": 2861876,
         "lat": 51.56227,
         "lng": 6.7434,
-        "country": "DE",
-        "state": "07",
         "population": 70573
     },
     "2937936": {
@@ -2398,10 +2214,9 @@
         "long": {
             "default": "Detmold"
         },
+        "parent": 2861876,
         "lat": 51.93855,
         "lng": 8.87318,
-        "country": "DE",
-        "state": "07",
         "population": 73680
     },
     "2937959": {
@@ -2411,10 +2226,9 @@
         "long": {
             "default": "Dessau"
         },
+        "parent": 2842565,
         "lat": 51.83864,
         "lng": 12.24555,
-        "country": "DE",
-        "state": "14",
         "population": 77315
     },
     "2938323": {
@@ -2424,10 +2238,9 @@
         "long": {
             "default": "Delmenhorst"
         },
+        "parent": 2862926,
         "lat": 53.0511,
         "lng": 8.63091,
-        "country": "DE",
-        "state": "06",
         "population": 75893
     },
     "2938913": {
@@ -2437,10 +2250,9 @@
         "long": {
             "default": "Darmstadt"
         },
+        "parent": 2905330,
         "lat": 49.87167,
         "lng": 8.65027,
-        "country": "DE",
-        "state": "05",
         "population": 140385
     },
     "2939658": {
@@ -2450,10 +2262,9 @@
         "long": {
             "default": "Cuxhaven"
         },
+        "parent": 2862926,
         "lat": 53.87176,
         "lng": 8.69087,
-        "country": "DE",
-        "state": "06",
         "population": 52677
     },
     "2939811": {
@@ -2463,10 +2274,9 @@
         "long": {
             "default": "Cottbus"
         },
+        "parent": 2945356,
         "lat": 51.75769,
         "lng": 14.32888,
-        "country": "DE",
-        "state": "11",
         "population": 84754
     },
     "2940132": {
@@ -2476,10 +2286,9 @@
         "long": {
             "default": "Chemnitz"
         },
+        "parent": 2842566,
         "lat": 50.8357,
         "lng": 12.92922,
-        "country": "DE",
-        "state": "13",
         "population": 247220
     },
     "2940187": {
@@ -2489,10 +2298,9 @@
         "long": {
             "default": "Charlottenburg"
         },
+        "parent": 2950157,
         "lat": 52.51667,
         "lng": 13.28333,
-        "country": "DE",
-        "state": "16",
         "population": 119857
     },
     "2940213": {
@@ -2502,10 +2310,9 @@
         "long": {
             "default": "Celle"
         },
+        "parent": 2862926,
         "lat": 52.62264,
         "lng": 10.08047,
-        "country": "DE",
-        "state": "06",
         "population": 71010
     },
     "2940231": {
@@ -2515,10 +2322,9 @@
         "long": {
             "default": "Castrop-Rauxel"
         },
+        "parent": 2861876,
         "lat": 51.55657,
         "lng": 7.31155,
-        "country": "DE",
-        "state": "07",
         "population": 77924
     },
     "2944368": {
@@ -2528,10 +2334,9 @@
         "long": {
             "default": "Bremerhaven"
         },
+        "parent": 2944387,
         "lat": 53.55021,
         "lng": 8.57673,
-        "country": "DE",
-        "state": "03",
         "population": 117446
     },
     "2944388": {
@@ -2541,10 +2346,9 @@
         "long": {
             "default": "Bremen"
         },
+        "parent": 2944387,
         "lat": 53.07516,
         "lng": 8.80777,
-        "country": "DE",
-        "state": "03",
         "population": 546501
     },
     "2945024": {
@@ -2554,10 +2358,9 @@
         "long": {
             "default": "Braunschweig"
         },
+        "parent": 2862926,
         "lat": 52.26594,
         "lng": 10.52673,
-        "country": "DE",
-        "state": "06",
         "population": 244715
     },
     "2945358": {
@@ -2567,10 +2370,9 @@
         "long": {
             "default": "Brandenburg an der Havel"
         },
+        "parent": 2945356,
         "lat": 52.41667,
         "lng": 12.55,
-        "country": "DE",
-        "state": "11",
         "population": 59826
     },
     "2945756": {
@@ -2580,10 +2382,9 @@
         "long": {
             "default": "Bottrop"
         },
+        "parent": 2861876,
         "lat": 51.52392,
         "lng": 6.9285,
-        "country": "DE",
-        "state": "07",
         "population": 119909
     },
     "2946447": {
@@ -2593,10 +2394,9 @@
         "long": {
             "default": "Bonn"
         },
+        "parent": 2861876,
         "lat": 50.73438,
         "lng": 7.09549,
-        "country": "DE",
-        "state": "07",
         "population": 313125
     },
     "2947022": {
@@ -2606,10 +2406,9 @@
         "long": {
             "default": "Bogenhausen"
         },
+        "parent": 2951839,
         "lat": 48.15221,
         "lng": 11.61585,
-        "country": "DE",
-        "state": "02",
         "population": 77542
     },
     "2947416": {
@@ -2619,10 +2418,9 @@
         "long": {
             "default": "Bochum"
         },
+        "parent": 2861876,
         "lat": 51.48165,
         "lng": 7.21648,
-        "country": "DE",
-        "state": "07",
         "population": 385729
     },
     "2947421": {
@@ -2632,10 +2430,9 @@
         "long": {
             "default": "Bocholt"
         },
+        "parent": 2861876,
         "lat": 51.83879,
         "lng": 6.61531,
-        "country": "DE",
-        "state": "07",
         "population": 73943
     },
     "2949186": {
@@ -2645,10 +2442,9 @@
         "long": {
             "default": "Bielefeld"
         },
+        "parent": 2861876,
         "lat": 52.03333,
         "lng": 8.53333,
-        "country": "DE",
-        "state": "07",
         "population": 331906
     },
     "2950159": {
@@ -2658,10 +2454,9 @@
         "long": {
             "default": "Berlin"
         },
+        "parent": 2950157,
         "lat": 52.52437,
         "lng": 13.41053,
-        "country": "DE",
-        "state": "16",
         "population": 3426354
     },
     "2950344": {
@@ -2671,10 +2466,9 @@
         "long": {
             "default": "Bergkamen"
         },
+        "parent": 2861876,
         "lat": 51.61633,
         "lng": 7.64451,
-        "country": "DE",
-        "state": "07",
         "population": 52329
     },
     "2950349": {
@@ -2684,10 +2478,9 @@
         "long": {
             "default": "Bergisch Gladbach"
         },
+        "parent": 2861876,
         "lat": 50.9856,
         "lng": 7.13298,
-        "country": "DE",
-        "state": "07",
         "population": 106184
     },
     "2950438": {
@@ -2697,10 +2490,9 @@
         "long": {
             "default": "Bergheim"
         },
+        "parent": 2861876,
         "lat": 50.95572,
         "lng": 6.63986,
-        "country": "DE",
-        "state": "07",
         "population": 63558
     },
     "2951825": {
@@ -2710,10 +2502,9 @@
         "long": {
             "default": "Bayreuth"
         },
+        "parent": 2951839,
         "lat": 49.94782,
         "lng": 11.57893,
-        "country": "DE",
-        "state": "02",
         "population": 75061
     },
     "2952984": {
@@ -2723,10 +2514,9 @@
         "long": {
             "default": "Bamberg"
         },
+        "parent": 2951839,
         "lat": 49.89873,
         "lng": 10.90067,
-        "country": "DE",
-        "state": "02",
         "population": 70047
     },
     "2953358": {
@@ -2736,10 +2526,9 @@
         "long": {
             "default": "Bad Salzuflen"
         },
+        "parent": 2861876,
         "lat": 52.0862,
         "lng": 8.74434,
-        "country": "DE",
-        "state": "07",
         "population": 54899
     },
     "2953436": {
@@ -2749,10 +2538,9 @@
         "long": {
             "default": "Bad Homburg vor der Höhe"
         },
+        "parent": 2905330,
         "lat": 50.22683,
         "lng": 8.61816,
-        "country": "DE",
-        "state": "05",
         "population": 51859
     },
     "2953504": {
@@ -2762,10 +2550,9 @@
         "long": {
             "default": "Baden-Baden"
         },
+        "parent": 2953481,
         "lat": 48.7606,
         "lng": 8.23975,
-        "country": "DE",
-        "state": "01",
         "population": 54239
     },
     "2954172": {
@@ -2775,10 +2562,9 @@
         "long": {
             "default": "Augsburg"
         },
+        "parent": 2951839,
         "lat": 48.37154,
         "lng": 10.89851,
-        "country": "DE",
-        "state": "02",
         "population": 259196
     },
     "2955272": {
@@ -2788,10 +2574,9 @@
         "long": {
             "default": "Aschaffenburg"
         },
+        "parent": 2951839,
         "lat": 49.97704,
         "lng": 9.15214,
-        "country": "DE",
-        "state": "02",
         "population": 68551
     },
     "2955471": {
@@ -2801,10 +2586,9 @@
         "long": {
             "default": "Arnsberg"
         },
+        "parent": 2861876,
         "lat": 51.38333,
         "lng": 8.08333,
-        "country": "DE",
-        "state": "07",
         "population": 76612
     },
     "2959223": {
@@ -2814,10 +2598,9 @@
         "long": {
             "default": "Ahlen"
         },
+        "parent": 2861876,
         "lat": 51.76338,
         "lng": 7.8887,
-        "country": "DE",
-        "state": "07",
         "population": 55280
     },
     "2959927": {
@@ -2827,10 +2610,9 @@
         "long": {
             "default": "Aalen"
         },
+        "parent": 2953481,
         "lat": 48.83777,
         "lng": 10.0933,
-        "country": "DE",
-        "state": "01",
         "population": 67085
     },
     "3247449": {
@@ -2840,10 +2622,9 @@
         "long": {
             "default": "Aachen"
         },
+        "parent": 2861876,
         "lat": 50.77664,
         "lng": 6.08342,
-        "country": "DE",
-        "state": "07",
         "population": 265208
     },
     "6545310": {
@@ -2853,10 +2634,9 @@
         "long": {
             "default": "Mitte"
         },
+        "parent": 2950157,
         "lat": 52.52003,
         "lng": 13.40489,
-        "country": "DE",
-        "state": "16",
         "population": 81205
     },
     "6941055": {
@@ -2866,10 +2646,9 @@
         "long": {
             "default": "Bochum-Hordel"
         },
+        "parent": 2861876,
         "lat": 51.50168,
         "lng": 7.1756,
-        "country": "DE",
-        "state": "07",
         "population": 380000
     },
     "7289614": {
@@ -2879,10 +2658,9 @@
         "long": {
             "default": "Halle Neustadt"
         },
+        "parent": 2842565,
         "lat": 51.47924,
         "lng": 11.91605,
-        "country": "DE",
-        "state": "14",
         "population": 240000
     },
     "7290243": {
@@ -2892,10 +2670,9 @@
         "long": {
             "default": "Bergedorf"
         },
+        "parent": 2911297,
         "lat": 53.48462,
         "lng": 10.22904,
-        "country": "DE",
-        "state": "04",
         "population": 119665
     },
     "7290254": {
@@ -2905,10 +2682,9 @@
         "long": {
             "default": "Berlin Schöneberg"
         },
+        "parent": 2950157,
         "lat": 52.48388,
         "lng": 13.3477,
-        "country": "DE",
-        "state": "16",
         "population": 116286
     },
     "8334622": {
@@ -2918,10 +2694,9 @@
         "long": {
             "default": "Neu-Hohenschönhausen"
         },
+        "parent": 2950157,
         "lat": 52.56681,
         "lng": 13.51255,
-        "country": "DE",
-        "state": "16",
         "population": 53374
     },
     "8354626": {
@@ -2931,10 +2706,9 @@
         "long": {
             "default": "Hamburg-Nord"
         },
+        "parent": 2911297,
         "lat": 53.58935,
         "lng": 9.984,
-        "country": "DE",
-        "state": "04",
         "population": 280000
     }
 }

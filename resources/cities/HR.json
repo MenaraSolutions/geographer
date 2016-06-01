@@ -6,10 +6,9 @@
         "long": {
             "default": "Zagreb"
         },
+        "parent": 3337532,
         "lat": 45.81444,
         "lng": 15.97798,
-        "country": "HR",
-        "state": "21",
         "population": 698966
     },
     "3186952": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Zadar"
         },
+        "parent": 3337530,
         "lat": 44.11972,
         "lng": 15.24222,
-        "country": "HR",
-        "state": "19",
         "population": 71258
     },
     "3190261": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Split"
         },
+        "parent": 3337527,
         "lat": 43.50891,
         "lng": 16.43915,
-        "country": "HR",
-        "state": "15",
         "population": 176314
     },
     "3190586": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Slavonski Brod"
         },
+        "parent": 3337512,
         "lat": 45.16028,
         "lng": 18.01556,
-        "country": "HR",
-        "state": "02",
         "population": 60742
     },
     "3190966": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Sesvete"
         },
+        "parent": 3337532,
         "lat": 45.83111,
         "lng": 16.11639,
-        "country": "HR",
-        "state": "21",
         "population": 52411
     },
     "3191648": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Rijeka"
         },
+        "parent": 3337524,
         "lat": 45.34306,
         "lng": 14.40917,
-        "country": "HR",
-        "state": "12",
         "population": 141172
     },
     "3192224": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Pula"
         },
+        "parent": 3337514,
         "lat": 44.86833,
         "lng": 13.84806,
-        "country": "HR",
-        "state": "04",
         "population": 59078
     },
     "3193935": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Osijek"
         },
+        "parent": 3337522,
         "lat": 45.55111,
         "lng": 18.69389,
-        "country": "HR",
-        "state": "10",
         "population": 88140
     },
     "6618983": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Zagreb - Centar"
         },
+        "parent": 3337532,
         "lat": 45.81313,
         "lng": 15.97753,
-        "country": "HR",
-        "state": "21",
         "population": 800000
     }
 }

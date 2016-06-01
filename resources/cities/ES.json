@@ -6,10 +6,9 @@
         "long": {
             "default": "Vila-real"
         },
+        "parent": 2593113,
         "lat": 39.9383,
         "lng": -0.10087,
-        "country": "ES",
-        "state": "60",
         "population": 51205
     },
     "2509769": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Vélez-Málaga"
         },
+        "parent": 2593109,
         "lat": 36.78107,
         "lng": -4.10266,
-        "country": "ES",
-        "state": "51",
         "population": 74190
     },
     "2509954": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Valencia"
         },
+        "parent": 2593113,
         "lat": 39.46975,
         "lng": -0.37739,
-        "country": "ES",
-        "state": "60",
         "population": 814208
     },
     "2510073": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Utrera"
         },
+        "parent": 2593109,
         "lat": 37.18516,
         "lng": -5.78093,
-        "country": "ES",
-        "state": "51",
         "population": 50665
     },
     "2510253": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Torrevieja"
         },
+        "parent": 2593113,
         "lat": 37.97872,
         "lng": -0.68222,
-        "country": "ES",
-        "state": "60",
         "population": 101792
     },
     "2510279": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Torrent"
         },
+        "parent": 2593113,
         "lat": 39.43705,
         "lng": -0.46546,
-        "country": "ES",
-        "state": "60",
         "population": 78543
     },
     "2510281": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Torremolinos"
         },
+        "parent": 2593109,
         "lat": 36.62035,
         "lng": -4.49976,
-        "country": "ES",
-        "state": "51",
         "population": 65448
     },
     "2510409": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Toledo"
         },
+        "parent": 2593111,
         "lat": 39.8581,
         "lng": -4.02263,
-        "country": "ES",
-        "state": "54",
         "population": 82291
     },
     "2510542": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Telde"
         },
+        "parent": 2593110,
         "lat": 27.99243,
         "lng": -15.41915,
-        "country": "ES",
-        "state": "53",
         "population": 100015
     },
     "2510693": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Talavera de la Reina"
         },
+        "parent": 2593111,
         "lat": 39.96348,
         "lng": -4.83076,
-        "country": "ES",
-        "state": "54",
         "population": 88856
     },
     "2510911": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Sevilla"
         },
+        "parent": 2593109,
         "lat": 37.38283,
         "lng": -5.97317,
-        "country": "ES",
-        "state": "51",
         "population": 703206
     },
     "2511032": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "San Vicent del Raspeig"
         },
+        "parent": 2593113,
         "lat": 38.3964,
         "lng": -0.5255,
-        "country": "ES",
-        "state": "60",
         "population": 53126
     },
     "2511150": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Santa Lucía"
         },
+        "parent": 2593110,
         "lat": 27.91174,
         "lng": -15.54071,
-        "country": "ES",
-        "state": "53",
         "population": 63637
     },
     "2511174": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Santa Cruz de Tenerife"
         },
+        "parent": 2593110,
         "lat": 28.46824,
         "lng": -16.25462,
-        "country": "ES",
-        "state": "53",
         "population": 222417
     },
     "2511306": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Sanlúcar de Barrameda"
         },
+        "parent": 2593109,
         "lat": 36.77808,
         "lng": -6.3515,
-        "country": "ES",
-        "state": "51",
         "population": 65805
     },
     "2511388": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "San Fernando"
         },
+        "parent": 2593109,
         "lat": 36.4759,
         "lng": -6.19817,
-        "country": "ES",
-        "state": "51",
         "population": 96366
     },
     "2511401": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "La Laguna"
         },
+        "parent": 2593110,
         "lat": 28.4853,
         "lng": -16.32014,
-        "country": "ES",
-        "state": "53",
         "population": 150661
     },
     "2511440": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "San Bartolomé de Tirajana"
         },
+        "parent": 2593110,
         "lat": 27.92481,
         "lng": -15.57329,
-        "country": "ES",
-        "state": "53",
         "population": 52161
     },
     "2511619": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Sagunto"
         },
+        "parent": 2593113,
         "lat": 39.68333,
         "lng": -0.26667,
-        "country": "ES",
-        "state": "60",
         "population": 66070
     },
     "2511716": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Roquetas de Mar"
         },
+        "parent": 2593109,
         "lat": 36.76419,
         "lng": -2.61475,
-        "country": "ES",
-        "state": "51",
         "population": 82665
     },
     "2512177": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Puertollano"
         },
+        "parent": 2593111,
         "lat": 38.68712,
         "lng": -4.10734,
-        "country": "ES",
-        "state": "54",
         "population": 51842
     },
     "2512862": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Paterna"
         },
+        "parent": 2593113,
         "lat": 39.5,
         "lng": -0.43333,
-        "country": "ES",
-        "state": "60",
         "population": 64023
     },
     "2512989": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Palma"
         },
+        "parent": 2521383,
         "lat": 39.56939,
         "lng": 2.65024,
-        "country": "ES",
-        "state": "07",
         "population": 401270
     },
     "2513076": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Orihuela"
         },
+        "parent": 2593113,
         "lat": 38.08483,
         "lng": -0.94401,
-        "country": "ES",
-        "state": "60",
         "population": 86164
     },
     "2513416": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Murcia"
         },
+        "parent": 2513413,
         "lat": 37.98704,
         "lng": -1.13004,
-        "country": "ES",
-        "state": "31",
         "population": 436870
     },
     "2513477": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Motril"
         },
+        "parent": 2593109,
         "lat": 36.75066,
         "lng": -3.5179,
-        "country": "ES",
-        "state": "51",
         "population": 60279
     },
     "2513759": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Molina de Segura"
         },
+        "parent": 2513413,
         "lat": 38.05456,
         "lng": -1.20763,
-        "country": "ES",
-        "state": "31",
         "population": 64065
     },
     "2513882": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Mijas"
         },
+        "parent": 2593109,
         "lat": 36.59575,
         "lng": -4.63728,
-        "country": "ES",
-        "state": "51",
         "population": 73787
     },
     "2513917": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Mérida"
         },
+        "parent": 2593112,
         "lat": 38.91611,
         "lng": -6.34366,
-        "country": "ES",
-        "state": "57",
         "population": 56395
     },
     "2513947": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Melilla"
         },
+        "parent": 6362988,
         "lat": 35.29369,
         "lng": -2.93833,
-        "country": "ES",
-        "state": "ML",
         "population": 73460
     },
     "2514169": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Marbella"
         },
+        "parent": 2593109,
         "lat": 36.51543,
         "lng": -4.88583,
-        "country": "ES",
-        "state": "51",
         "population": 134623
     },
     "2514256": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Málaga"
         },
+        "parent": 2593109,
         "lat": 36.72016,
         "lng": -4.42034,
-        "country": "ES",
-        "state": "51",
         "population": 568305
     },
     "2514891": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Lorca"
         },
+        "parent": 2513413,
         "lat": 37.67119,
         "lng": -1.7017,
-        "country": "ES",
-        "state": "31",
         "population": 91906
     },
     "2515045": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Linares"
         },
+        "parent": 2593109,
         "lat": 38.09519,
         "lng": -3.63602,
-        "country": "ES",
-        "state": "51",
         "population": 61338
     },
     "2515270": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Las Palmas de Gran Canaria"
         },
+        "parent": 2593110,
         "lat": 28.09973,
         "lng": -15.41343,
-        "country": "ES",
-        "state": "53",
         "population": 381847
     },
     "2515812": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "La Línea de la Concepción"
         },
+        "parent": 2593109,
         "lat": 36.16809,
         "lng": -5.34777,
-        "country": "ES",
-        "state": "51",
         "population": 64595
     },
     "2516326": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Jerez de la Frontera"
         },
+        "parent": 2593109,
         "lat": 36.68645,
         "lng": -6.13606,
-        "country": "ES",
-        "state": "51",
         "population": 207532
     },
     "2516395": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Jaén"
         },
+        "parent": 2593109,
         "lat": 37.76922,
         "lng": -3.79028,
-        "country": "ES",
-        "state": "51",
         "population": 116557
     },
     "2516548": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Huelva"
         },
+        "parent": 2593109,
         "lat": 37.26638,
         "lng": -6.94004,
-        "country": "ES",
-        "state": "51",
         "population": 148806
     },
     "2517117": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Granada"
         },
+        "parent": 2593109,
         "lat": 37.18817,
         "lng": -3.60667,
-        "country": "ES",
-        "state": "51",
         "population": 234325
     },
     "2517367": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Gandia"
         },
+        "parent": 2593113,
         "lat": 38.96667,
         "lng": -0.18333,
-        "country": "ES",
-        "state": "60",
         "population": 80020
     },
     "2517595": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Fuengirola"
         },
+        "parent": 2593109,
         "lat": 36.53998,
         "lng": -4.62473,
-        "country": "ES",
-        "state": "51",
         "population": 71482
     },
     "2517816": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Estepona"
         },
+        "parent": 2593109,
         "lat": 36.42764,
         "lng": -5.14589,
-        "country": "ES",
-        "state": "51",
         "population": 65592
     },
     "2518207": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "El Puerto de Santa María"
         },
+        "parent": 2593109,
         "lat": 36.59389,
         "lng": -6.23298,
-        "country": "ES",
-        "state": "51",
         "population": 87696
     },
     "2518494": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "El Ejido"
         },
+        "parent": 2593109,
         "lat": 36.77629,
         "lng": -2.81456,
-        "country": "ES",
-        "state": "51",
         "population": 84227
     },
     "2518505": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Elda"
         },
+        "parent": 2593113,
         "lat": 38.47783,
         "lng": -0.79157,
-        "country": "ES",
-        "state": "60",
         "population": 55168
     },
     "2518559": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Elche"
         },
+        "parent": 2593113,
         "lat": 38.26218,
         "lng": -0.70107,
-        "country": "ES",
-        "state": "60",
         "population": 230112
     },
     "2518794": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Dos Hermanas"
         },
+        "parent": 2593109,
         "lat": 37.28287,
         "lng": -5.92088,
-        "country": "ES",
-        "state": "51",
         "population": 122943
     },
     "2519240": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Córdoba"
         },
+        "parent": 2593109,
         "lat": 37.89155,
         "lng": -4.77275,
-        "country": "ES",
-        "state": "51",
         "population": 328428
     },
     "2519402": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Ciudad Real"
         },
+        "parent": 2593111,
         "lat": 38.98626,
         "lng": -3.92907,
-        "country": "ES",
-        "state": "54",
         "population": 74014
     },
     "2519513": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Chiclana de la Frontera"
         },
+        "parent": 2593109,
         "lat": 36.41915,
         "lng": -6.14941,
-        "country": "ES",
-        "state": "51",
         "population": 77293
     },
     "2519752": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Castelló de la Plana"
         },
+        "parent": 2593113,
         "lat": 39.98567,
         "lng": -0.04935,
-        "country": "ES",
-        "state": "60",
         "population": 180005
     },
     "2520058": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Cartagena"
         },
+        "parent": 2513413,
         "lat": 37.60512,
         "lng": -0.98623,
-        "country": "ES",
-        "state": "31",
         "population": 211996
     },
     "2520425": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Campiña"
         },
+        "parent": 2593109,
         "lat": 38.21896,
         "lng": -2.98069,
-        "country": "ES",
-        "state": "51",
         "population": 67904
     },
     "2520493": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Calvià"
         },
+        "parent": 2521383,
         "lat": 39.5657,
         "lng": 2.50621,
-        "country": "ES",
-        "state": "07",
         "population": 51774
     },
     "2520600": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Cadiz"
         },
+        "parent": 2593109,
         "lat": 36.52978,
         "lng": -6.29465,
-        "country": "ES",
-        "state": "51",
         "population": 126766
     },
     "2520611": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Cáceres"
         },
+        "parent": 2593112,
         "lat": 39.47649,
         "lng": -6.37224,
-        "country": "ES",
-        "state": "57",
         "population": 93131
     },
     "2521088": {
@@ -747,10 +690,9 @@
         "long": {
             "default": "Benidorm"
         },
+        "parent": 2593113,
         "lat": 38.53816,
         "lng": -0.13098,
-        "country": "ES",
-        "state": "60",
         "population": 71034
     },
     "2521139": {
@@ -760,10 +702,9 @@
         "long": {
             "default": "Benalmádena"
         },
+        "parent": 2593109,
         "lat": 36.5961,
         "lng": -4.57267,
-        "country": "ES",
-        "state": "51",
         "population": 58854
     },
     "2521420": {
@@ -773,10 +714,9 @@
         "long": {
             "default": "Badajoz"
         },
+        "parent": 2593112,
         "lat": 38.87789,
         "lng": -6.97061,
-        "country": "ES",
-        "state": "57",
         "population": 148334
     },
     "2521570": {
@@ -786,10 +726,9 @@
         "long": {
             "default": "Arrecife"
         },
+        "parent": 2593110,
         "lat": 28.96302,
         "lng": -13.54769,
-        "country": "ES",
-        "state": "53",
         "population": 59127
     },
     "2521582": {
@@ -799,10 +738,9 @@
         "long": {
             "default": "Arona"
         },
+        "parent": 2593110,
         "lat": 28.09962,
         "lng": -16.68102,
-        "country": "ES",
-        "state": "53",
         "population": 78614
     },
     "2521886": {
@@ -812,10 +750,9 @@
         "long": {
             "default": "Almería"
         },
+        "parent": 2593109,
         "lat": 36.83814,
         "lng": -2.45974,
-        "country": "ES",
-        "state": "51",
         "population": 188810
     },
     "2521978": {
@@ -825,10 +762,9 @@
         "long": {
             "default": "Alicante"
         },
+        "parent": 2593113,
         "lat": 38.34517,
         "lng": -0.48149,
-        "country": "ES",
-        "state": "60",
         "population": 334757
     },
     "2522013": {
@@ -838,10 +774,9 @@
         "long": {
             "default": "Algeciras"
         },
+        "parent": 2593109,
         "lat": 36.13326,
         "lng": -5.45051,
-        "country": "ES",
-        "state": "51",
         "population": 116209
     },
     "2522098": {
@@ -851,10 +786,9 @@
         "long": {
             "default": "Alcoy"
         },
+        "parent": 2593113,
         "lat": 38.70545,
         "lng": -0.47432,
-        "country": "ES",
-        "state": "60",
         "population": 61552
     },
     "2522165": {
@@ -864,10 +798,9 @@
         "long": {
             "default": "Alcalá de Guadaira"
         },
+        "parent": 2593109,
         "lat": 37.33791,
         "lng": -5.83951,
-        "country": "ES",
-        "state": "51",
         "population": 70155
     },
     "2522258": {
@@ -877,10 +810,9 @@
         "long": {
             "default": "Albacete"
         },
+        "parent": 2593111,
         "lat": 38.99424,
         "lng": -1.85643,
-        "country": "ES",
-        "state": "54",
         "population": 169716
     },
     "2567529": {
@@ -890,10 +822,9 @@
         "long": {
             "default": "Groa de Murviedro"
         },
+        "parent": 2593113,
         "lat": 39.64167,
         "lng": -0.23889,
-        "country": "ES",
-        "state": "60",
         "population": 62368
     },
     "3104324": {
@@ -903,10 +834,9 @@
         "long": {
             "default": "Zaragoza"
         },
+        "parent": 3336899,
         "lat": 41.65606,
         "lng": -0.87734,
-        "country": "ES",
-        "state": "52",
         "population": 674317
     },
     "3104342": {
@@ -916,10 +846,9 @@
         "long": {
             "default": "Zamora"
         },
+        "parent": 3336900,
         "lat": 41.50633,
         "lng": -5.74456,
-        "country": "ES",
-        "state": "55",
         "population": 66293
     },
     "3104499": {
@@ -929,10 +858,9 @@
         "long": {
             "default": "Gasteiz \/ Vitoria"
         },
+        "parent": 3336903,
         "lat": 42.84998,
         "lng": -2.67268,
-        "country": "ES",
-        "state": "59",
         "population": 235661
     },
     "3104748": {
@@ -942,10 +870,9 @@
         "long": {
             "default": "Villaverde"
         },
+        "parent": 3117732,
         "lat": 40.35,
         "lng": -3.7,
-        "country": "ES",
-        "state": "29",
         "population": 126802
     },
     "3105184": {
@@ -955,10 +882,9 @@
         "long": {
             "default": "Vilanova i la Geltrú"
         },
+        "parent": 3336901,
         "lat": 41.22392,
         "lng": 1.72511,
-        "country": "ES",
-        "state": "56",
         "population": 65890
     },
     "3105935": {
@@ -968,10 +894,9 @@
         "long": {
             "default": "Viladecans"
         },
+        "parent": 3336901,
         "lat": 41.31405,
         "lng": 2.01427,
-        "country": "ES",
-        "state": "56",
         "population": 63489
     },
     "3105976": {
@@ -981,10 +906,9 @@
         "long": {
             "default": "Vigo"
         },
+        "parent": 3336902,
         "lat": 42.23282,
         "lng": -8.72264,
-        "country": "ES",
-        "state": "58",
         "population": 297332
     },
     "3106054": {
@@ -994,10 +918,9 @@
         "long": {
             "default": "Vicálvaro"
         },
+        "parent": 3117732,
         "lat": 40.4,
         "lng": -3.6,
-        "country": "ES",
-        "state": "29",
         "population": 66439
     },
     "3106672": {
@@ -1007,10 +930,9 @@
         "long": {
             "default": "Valladolid"
         },
+        "parent": 3336900,
         "lat": 41.65518,
         "lng": -4.72372,
-        "country": "ES",
-        "state": "55",
         "population": 317864
     },
     "3106868": {
@@ -1020,10 +942,9 @@
         "long": {
             "default": "Valdemoro"
         },
+        "parent": 3117732,
         "lat": 40.19081,
         "lng": -3.67887,
-        "country": "ES",
-        "state": "29",
         "population": 62750
     },
     "3107112": {
@@ -1033,10 +954,9 @@
         "long": {
             "default": "Rivas-Vaciamadrid"
         },
+        "parent": 3117732,
         "lat": 40.32605,
         "lng": -3.51089,
-        "country": "ES",
-        "state": "29",
         "population": 68405
     },
     "3107775": {
@@ -1046,10 +966,9 @@
         "long": {
             "default": "Torrelavega"
         },
+        "parent": 3336898,
         "lat": 43.34943,
         "lng": -4.04785,
-        "country": "ES",
-        "state": "39",
         "population": 55297
     },
     "3107784": {
@@ -1059,10 +978,9 @@
         "long": {
             "default": "Torrejón de Ardoz"
         },
+        "parent": 3117732,
         "lat": 40.45535,
         "lng": -3.46973,
-        "country": "ES",
-        "state": "29",
         "population": 118162
     },
     "3108118": {
@@ -1072,10 +990,9 @@
         "long": {
             "default": "Tetuán de las Victorias"
         },
+        "parent": 3117732,
         "lat": 40.46667,
         "lng": -3.71667,
-        "country": "ES",
-        "state": "29",
         "population": 155000
     },
     "3108286": {
@@ -1085,10 +1002,9 @@
         "long": {
             "default": "Terrassa"
         },
+        "parent": 3336901,
         "lat": 41.56667,
         "lng": 2.01667,
-        "country": "ES",
-        "state": "56",
         "population": 210941
     },
     "3108288": {
@@ -1098,10 +1014,9 @@
         "long": {
             "default": "Tarragona"
         },
+        "parent": 3336901,
         "lat": 41.11667,
         "lng": 1.25,
-        "country": "ES",
-        "state": "56",
         "population": 140323
     },
     "3109256": {
@@ -1111,10 +1026,9 @@
         "long": {
             "default": "Segovia"
         },
+        "parent": 3336900,
         "lat": 40.94808,
         "lng": -4.11839,
-        "country": "ES",
-        "state": "55",
         "population": 56660
     },
     "3109402": {
@@ -1124,10 +1038,9 @@
         "long": {
             "default": "Cerdanyola del Vallès"
         },
+        "parent": 3336901,
         "lat": 41.49109,
         "lng": 2.14079,
-        "country": "ES",
-        "state": "56",
         "population": 58747
     },
     "3109453": {
@@ -1137,10 +1050,9 @@
         "long": {
             "default": "Barakaldo"
         },
+        "parent": 3336903,
         "lat": 43.29639,
         "lng": -2.98813,
-        "country": "ES",
-        "state": "59",
         "population": 98460
     },
     "3109642": {
@@ -1150,10 +1062,9 @@
         "long": {
             "default": "Santiago de Compostela"
         },
+        "parent": 3336902,
         "lat": 42.88052,
         "lng": -8.54569,
-        "country": "ES",
-        "state": "58",
         "population": 95092
     },
     "3109718": {
@@ -1163,10 +1074,9 @@
         "long": {
             "default": "Santander"
         },
+        "parent": 3336898,
         "lat": 43.46472,
         "lng": -3.80444,
-        "country": "ES",
-        "state": "39",
         "population": 182700
     },
     "3109981": {
@@ -1176,10 +1086,9 @@
         "long": {
             "default": "Santa Coloma de Gramenet"
         },
+        "parent": 3336901,
         "lat": 41.45152,
         "lng": 2.2081,
-        "country": "ES",
-        "state": "56",
         "population": 119717
     },
     "3110040": {
@@ -1189,10 +1098,9 @@
         "long": {
             "default": "San Sebastián de los Reyes"
         },
+        "parent": 3117732,
         "lat": 40.55555,
         "lng": -3.62733,
-        "country": "ES",
-        "state": "29",
         "population": 75912
     },
     "3110044": {
@@ -1202,10 +1110,9 @@
         "long": {
             "default": "Donostia \/ San Sebastián"
         },
+        "parent": 3336903,
         "lat": 43.31283,
         "lng": -1.97499,
-        "country": "ES",
-        "state": "59",
         "population": 185357
     },
     "3110718": {
@@ -1215,10 +1122,9 @@
         "long": {
             "default": "Sant Cugat del Vallès"
         },
+        "parent": 3336901,
         "lat": 41.47063,
         "lng": 2.08611,
-        "country": "ES",
-        "state": "56",
         "population": 79253
     },
     "3110834": {
@@ -1228,10 +1134,9 @@
         "long": {
             "default": "Sant Boi de Llobregat"
         },
+        "parent": 3336901,
         "lat": 41.34357,
         "lng": 2.03659,
-        "country": "ES",
-        "state": "56",
         "population": 82428
     },
     "3110876": {
@@ -1241,10 +1146,9 @@
         "long": {
             "default": "Sant Andreu de Palomar"
         },
+        "parent": 3336901,
         "lat": 41.43541,
         "lng": 2.18982,
-        "country": "ES",
-        "state": "56",
         "population": 142598
     },
     "3111108": {
@@ -1254,10 +1158,9 @@
         "long": {
             "default": "Salamanca"
         },
+        "parent": 3336900,
         "lat": 40.96882,
         "lng": -5.66388,
-        "country": "ES",
-        "state": "55",
         "population": 155619
     },
     "3111199": {
@@ -1267,10 +1170,9 @@
         "long": {
             "default": "Sabadell"
         },
+        "parent": 3336901,
         "lat": 41.54329,
         "lng": 2.10942,
-        "country": "ES",
-        "state": "56",
         "population": 206493
     },
     "3111294": {
@@ -1280,10 +1182,9 @@
         "long": {
             "default": "Rubí"
         },
+        "parent": 3336901,
         "lat": 41.49226,
         "lng": 2.03305,
-        "country": "ES",
-        "state": "56",
         "population": 72987
     },
     "3111933": {
@@ -1293,10 +1194,9 @@
         "long": {
             "default": "Reus"
         },
+        "parent": 3336901,
         "lat": 41.15612,
         "lng": 1.10687,
-        "country": "ES",
-        "state": "56",
         "population": 107118
     },
     "3112737": {
@@ -1306,10 +1206,9 @@
         "long": {
             "default": "Puente de Vallecas"
         },
+        "parent": 3117732,
         "lat": 40.39354,
         "lng": -3.662,
-        "country": "ES",
-        "state": "29",
         "population": 244151
     },
     "3112989": {
@@ -1319,10 +1218,9 @@
         "long": {
             "default": "Pozuelo de Alarcón"
         },
+        "parent": 3117732,
         "lat": 40.43293,
         "lng": -3.81338,
-        "country": "ES",
-        "state": "29",
         "population": 82428
     },
     "3113209": {
@@ -1332,10 +1230,9 @@
         "long": {
             "default": "Pontevedra"
         },
+        "parent": 3336902,
         "lat": 42.431,
         "lng": -8.64435,
-        "country": "ES",
-        "state": "58",
         "population": 81576
     },
     "3113236": {
@@ -1345,10 +1242,9 @@
         "long": {
             "default": "Ponferrada"
         },
+        "parent": 3336900,
         "lat": 42.54664,
         "lng": -6.59619,
-        "country": "ES",
-        "state": "55",
         "population": 68736
     },
     "3114256": {
@@ -1358,10 +1254,9 @@
         "long": {
             "default": "Parla"
         },
+        "parent": 3117732,
         "lat": 40.23604,
         "lng": -3.76752,
-        "country": "ES",
-        "state": "29",
         "population": 115611
     },
     "3114472": {
@@ -1371,10 +1266,9 @@
         "long": {
             "default": "Pamplona"
         },
+        "parent": 3115609,
         "lat": 42.81687,
         "lng": -1.64323,
-        "country": "ES",
-        "state": "32",
         "population": 198491
     },
     "3114531": {
@@ -1384,10 +1278,9 @@
         "long": {
             "default": "Palencia"
         },
+        "parent": 3336900,
         "lat": 42.00955,
         "lng": -4.52406,
-        "country": "ES",
-        "state": "55",
         "population": 82651
     },
     "3114711": {
@@ -1397,10 +1290,9 @@
         "long": {
             "default": "Oviedo"
         },
+        "parent": 3114710,
         "lat": 43.36029,
         "lng": -5.84476,
-        "country": "ES",
-        "state": "34",
         "population": 224005
     },
     "3114965": {
@@ -1410,10 +1302,9 @@
         "long": {
             "default": "Ourense"
         },
+        "parent": 3336902,
         "lat": 42.33669,
         "lng": -7.86407,
-        "country": "ES",
-        "state": "58",
         "population": 107742
     },
     "3116025": {
@@ -1423,10 +1314,9 @@
         "long": {
             "default": "Móstoles"
         },
+        "parent": 3117732,
         "lat": 40.32234,
         "lng": -3.86496,
-        "country": "ES",
-        "state": "29",
         "population": 206478
     },
     "3116156": {
@@ -1436,10 +1326,9 @@
         "long": {
             "default": "Moratalaz"
         },
+        "parent": 3117732,
         "lat": 40.41667,
         "lng": -3.65,
-        "country": "ES",
-        "state": "29",
         "population": 104923
     },
     "3116553": {
@@ -1449,10 +1338,9 @@
         "long": {
             "default": "Mollet del Vallès"
         },
+        "parent": 3336901,
         "lat": 41.54026,
         "lng": 2.21306,
-        "country": "ES",
-        "state": "56",
         "population": 52484
     },
     "3117164": {
@@ -1462,10 +1350,9 @@
         "long": {
             "default": "Mataró"
         },
+        "parent": 3336901,
         "lat": 41.54211,
         "lng": 2.4445,
-        "country": "ES",
-        "state": "56",
         "population": 121722
     },
     "3117533": {
@@ -1475,10 +1362,9 @@
         "long": {
             "default": "Manresa"
         },
+        "parent": 3336901,
         "lat": 41.72815,
         "lng": 1.82399,
-        "country": "ES",
-        "state": "56",
         "population": 76558
     },
     "3117667": {
@@ -1488,10 +1374,9 @@
         "long": {
             "default": "Majadahonda"
         },
+        "parent": 3117732,
         "lat": 40.47353,
         "lng": -3.87182,
-        "country": "ES",
-        "state": "29",
         "population": 68110
     },
     "3117735": {
@@ -1501,10 +1386,9 @@
         "long": {
             "default": "Madrid"
         },
+        "parent": 3117732,
         "lat": 40.4165,
         "lng": -3.70256,
-        "country": "ES",
-        "state": "29",
         "population": 3255944
     },
     "3117814": {
@@ -1514,10 +1398,9 @@
         "long": {
             "default": "Lugo"
         },
+        "parent": 3336902,
         "lat": 43.00992,
         "lng": -7.55602,
-        "country": "ES",
-        "state": "58",
         "population": 96678
     },
     "3118150": {
@@ -1527,10 +1410,9 @@
         "long": {
             "default": "Logroño"
         },
+        "parent": 3336897,
         "lat": 42.46667,
         "lng": -2.45,
-        "country": "ES",
-        "state": "27",
         "population": 152107
     },
     "3118514": {
@@ -1540,10 +1422,9 @@
         "long": {
             "default": "Lleida"
         },
+        "parent": 3336901,
         "lat": 41.61674,
         "lng": 0.62218,
-        "country": "ES",
-        "state": "56",
         "population": 135919
     },
     "3118532": {
@@ -1553,10 +1434,9 @@
         "long": {
             "default": "León"
         },
+        "parent": 3336900,
         "lat": 42.60003,
         "lng": -5.57032,
-        "country": "ES",
-        "state": "55",
         "population": 134305
     },
     "3118594": {
@@ -1566,10 +1446,9 @@
         "long": {
             "default": "Leganés"
         },
+        "parent": 3117732,
         "lat": 40.32718,
         "lng": -3.7635,
-        "country": "ES",
-        "state": "29",
         "population": 186066
     },
     "3118848": {
@@ -1579,10 +1458,9 @@
         "long": {
             "default": "Las Rozas de Madrid"
         },
+        "parent": 3117732,
         "lat": 40.49292,
         "lng": -3.87371,
-        "country": "ES",
-        "state": "29",
         "population": 86340
     },
     "3119841": {
@@ -1592,10 +1470,9 @@
         "long": {
             "default": "A Coruña"
         },
+        "parent": 3336902,
         "lat": 43.37135,
         "lng": -8.396,
-        "country": "ES",
-        "state": "58",
         "population": 246056
     },
     "3120304": {
@@ -1605,10 +1482,9 @@
         "long": {
             "default": "Irun"
         },
+        "parent": 3336903,
         "lat": 43.33904,
         "lng": -1.78938,
-        "country": "ES",
-        "state": "59",
         "population": 60951
     },
     "3120514": {
@@ -1618,10 +1494,9 @@
         "long": {
             "default": "Huesca"
         },
+        "parent": 3336899,
         "lat": 42.13615,
         "lng": -0.4087,
-        "country": "ES",
-        "state": "52",
         "population": 52059
     },
     "3120619": {
@@ -1631,10 +1506,9 @@
         "long": {
             "default": "L'Hospitalet de Llobregat"
         },
+        "parent": 3336901,
         "lat": 41.35967,
         "lng": 2.10028,
-        "country": "ES",
-        "state": "56",
         "population": 257038
     },
     "3120635": {
@@ -1644,10 +1518,9 @@
         "long": {
             "default": "Hortaleza"
         },
+        "parent": 3117732,
         "lat": 40.47444,
         "lng": -3.6411,
-        "country": "ES",
-        "state": "29",
         "population": 161661
     },
     "3121007": {
@@ -1657,10 +1530,9 @@
         "long": {
             "default": "Getxo"
         },
+        "parent": 3336903,
         "lat": 43.35689,
         "lng": -3.01146,
-        "country": "ES",
-        "state": "59",
         "population": 80770
     },
     "3121070": {
@@ -1670,10 +1542,9 @@
         "long": {
             "default": "Guadalajara"
         },
+        "parent": 2593111,
         "lat": 40.62862,
         "lng": -3.16185,
-        "country": "ES",
-        "state": "54",
         "population": 83039
     },
     "3121145": {
@@ -1683,10 +1554,9 @@
         "long": {
             "default": "Granollers"
         },
+        "parent": 3336901,
         "lat": 41.60797,
         "lng": 2.28773,
-        "country": "ES",
-        "state": "56",
         "population": 60658
     },
     "3121245": {
@@ -1696,10 +1566,9 @@
         "long": {
             "default": "Gràcia"
         },
+        "parent": 3336901,
         "lat": 41.40237,
         "lng": 2.15641,
-        "country": "ES",
-        "state": "56",
         "population": 120087
     },
     "3121424": {
@@ -1709,10 +1578,9 @@
         "long": {
             "default": "Gijón"
         },
+        "parent": 3114710,
         "lat": 43.53573,
         "lng": -5.66152,
-        "country": "ES",
-        "state": "34",
         "population": 277554
     },
     "3121437": {
@@ -1722,10 +1590,9 @@
         "long": {
             "default": "Getafe"
         },
+        "parent": 3117732,
         "lat": 40.30571,
         "lng": -3.73295,
-        "country": "ES",
-        "state": "29",
         "population": 167164
     },
     "3121456": {
@@ -1735,10 +1602,9 @@
         "long": {
             "default": "Girona"
         },
+        "parent": 3336901,
         "lat": 41.98311,
         "lng": 2.82493,
-        "country": "ES",
-        "state": "56",
         "population": 96188
     },
     "3121960": {
@@ -1748,10 +1614,9 @@
         "long": {
             "default": "Fuenlabrada"
         },
+        "parent": 3117732,
         "lat": 40.28419,
         "lng": -3.79415,
-        "country": "ES",
-        "state": "29",
         "population": 197836
     },
     "3123329": {
@@ -1761,10 +1626,9 @@
         "long": {
             "default": "El Prat de Llobregat"
         },
+        "parent": 3336901,
         "lat": 41.32784,
         "lng": 2.09472,
-        "country": "ES",
-        "state": "56",
         "population": 63418
     },
     "3123493": {
@@ -1774,10 +1638,9 @@
         "long": {
             "default": "Ferrol"
         },
+        "parent": 3336902,
         "lat": 43.48321,
         "lng": -8.23689,
-        "country": "ES",
-        "state": "58",
         "population": 74273
     },
     "3124132": {
@@ -1787,10 +1650,9 @@
         "long": {
             "default": "Cuenca"
         },
+        "parent": 2593111,
         "lat": 40.06667,
         "lng": -2.13333,
-        "country": "ES",
-        "state": "54",
         "population": 55866
     },
     "3124408": {
@@ -1800,10 +1662,9 @@
         "long": {
             "default": "Coslada"
         },
+        "parent": 3117732,
         "lat": 40.42378,
         "lng": -3.56129,
-        "country": "ES",
-        "state": "29",
         "population": 90280
     },
     "3124569": {
@@ -1813,10 +1674,9 @@
         "long": {
             "default": "Cornellà de Llobregat"
         },
+        "parent": 3336901,
         "lat": 41.35,
         "lng": 2.08333,
-        "country": "ES",
-        "state": "56",
         "population": 86519
     },
     "3124794": {
@@ -1826,10 +1686,9 @@
         "long": {
             "default": "Collado-Villalba"
         },
+        "parent": 3117732,
         "lat": 40.63506,
         "lng": -4.00486,
-        "country": "ES",
-        "state": "29",
         "population": 55027
     },
     "3124964": {
@@ -1839,10 +1698,9 @@
         "long": {
             "default": "Ciudad Lineal"
         },
+        "parent": 3117732,
         "lat": 40.45455,
         "lng": -3.64808,
-        "country": "ES",
-        "state": "29",
         "population": 228171
     },
     "3125239": {
@@ -1852,10 +1710,9 @@
         "long": {
             "default": "Chamartín"
         },
+        "parent": 3117732,
         "lat": 40.46206,
         "lng": -3.6766,
-        "country": "ES",
-        "state": "29",
         "population": 140000
     },
     "3125897": {
@@ -1865,10 +1722,9 @@
         "long": {
             "default": "Castelldefels"
         },
+        "parent": 3336901,
         "lat": 41.27794,
         "lng": 1.97033,
-        "country": "ES",
-        "state": "56",
         "population": 62080
     },
     "3127461": {
@@ -1878,10 +1734,9 @@
         "long": {
             "default": "Burgos"
         },
+        "parent": 3336900,
         "lat": 42.34106,
         "lng": -3.70184,
-        "country": "ES",
-        "state": "55",
         "population": 178966
     },
     "3128026": {
@@ -1891,10 +1746,9 @@
         "long": {
             "default": "Bilbao"
         },
+        "parent": 3336903,
         "lat": 43.26271,
         "lng": -2.92528,
-        "country": "ES",
-        "state": "59",
         "population": 354860
     },
     "3128760": {
@@ -1904,10 +1758,9 @@
         "long": {
             "default": "Barcelona"
         },
+        "parent": 3336901,
         "lat": 41.38879,
         "lng": 2.15899,
-        "country": "ES",
-        "state": "56",
         "population": 1621537
     },
     "3129028": {
@@ -1917,10 +1770,9 @@
         "long": {
             "default": "Badalona"
         },
+        "parent": 3336901,
         "lat": 41.45004,
         "lng": 2.24741,
-        "country": "ES",
-        "state": "56",
         "population": 219547
     },
     "3129135": {
@@ -1930,10 +1782,9 @@
         "long": {
             "default": "Avilés"
         },
+        "parent": 3114710,
         "lat": 43.55473,
         "lng": -5.92483,
-        "country": "ES",
-        "state": "34",
         "population": 84242
     },
     "3129136": {
@@ -1943,10 +1794,9 @@
         "long": {
             "default": "Ávila"
         },
+        "parent": 3336900,
         "lat": 40.65724,
         "lng": -4.69951,
-        "country": "ES",
-        "state": "55",
         "population": 56855
     },
     "3129636": {
@@ -1956,10 +1806,9 @@
         "long": {
             "default": "Arganda"
         },
+        "parent": 3117732,
         "lat": 40.30076,
         "lng": -3.43722,
-        "country": "ES",
-        "state": "29",
         "population": 51489
     },
     "3129857": {
@@ -1969,10 +1818,9 @@
         "long": {
             "default": "Aranjuez"
         },
+        "parent": 3117732,
         "lat": 40.03108,
         "lng": -3.60246,
-        "country": "ES",
-        "state": "29",
         "population": 54055
     },
     "3130380": {
@@ -1982,10 +1830,9 @@
         "long": {
             "default": "Algorta"
         },
+        "parent": 3336903,
         "lat": 43.34927,
         "lng": -3.0094,
-        "country": "ES",
-        "state": "59",
         "population": 82624
     },
     "3130564": {
@@ -1995,10 +1842,9 @@
         "long": {
             "default": "Alcorcón"
         },
+        "parent": 3117732,
         "lat": 40.34582,
         "lng": -3.82487,
-        "country": "ES",
-        "state": "29",
         "population": 167967
     },
     "3130583": {
@@ -2008,10 +1854,9 @@
         "long": {
             "default": "Alcobendas"
         },
+        "parent": 3117732,
         "lat": 40.54746,
         "lng": -3.64197,
-        "country": "ES",
-        "state": "29",
         "population": 107514
     },
     "3130616": {
@@ -2021,10 +1866,9 @@
         "long": {
             "default": "Alcalá de Henares"
         },
+        "parent": 3117732,
         "lat": 40.48205,
         "lng": -3.35996,
-        "country": "ES",
-        "state": "29",
         "population": 204574
     },
     "6252065": {
@@ -2034,10 +1878,9 @@
         "long": {
             "default": "Nou Barris"
         },
+        "parent": 3336901,
         "lat": 41.44163,
         "lng": 2.17727,
-        "country": "ES",
-        "state": "56",
         "population": 164981
     },
     "6362987": {
@@ -2047,10 +1890,9 @@
         "long": {
             "default": "Ceuta"
         },
+        "parent": 2519582,
         "lat": 35.88933,
         "lng": -5.31979,
-        "country": "ES",
-        "state": "CE",
         "population": 78674
     },
     "6544099": {
@@ -2060,10 +1902,9 @@
         "long": {
             "default": "Moncloa-Aravaca"
         },
+        "parent": 3117732,
         "lat": 40.43547,
         "lng": -3.7317,
-        "country": "ES",
-        "state": "29",
         "population": 116531
     },
     "6544100": {
@@ -2073,10 +1914,9 @@
         "long": {
             "default": "Eixample"
         },
+        "parent": 3336901,
         "lat": 41.38896,
         "lng": 2.16179,
-        "country": "ES",
-        "state": "56",
         "population": 262485
     },
     "6544101": {
@@ -2086,10 +1926,9 @@
         "long": {
             "default": "les Corts"
         },
+        "parent": 3336901,
         "lat": 41.38712,
         "lng": 2.13007,
-        "country": "ES",
-        "state": "56",
         "population": 82588
     },
     "6544102": {
@@ -2099,10 +1938,9 @@
         "long": {
             "default": "Sarrià-Sant Gervasi"
         },
+        "parent": 3336901,
         "lat": 41.40104,
         "lng": 2.1394,
-        "country": "ES",
-        "state": "56",
         "population": 140000
     },
     "6544103": {
@@ -2112,10 +1950,9 @@
         "long": {
             "default": "Horta-Guinardó"
         },
+        "parent": 3336901,
         "lat": 41.41849,
         "lng": 2.1677,
-        "country": "ES",
-        "state": "56",
         "population": 169920
     },
     "6544104": {
@@ -2125,10 +1962,9 @@
         "long": {
             "default": "Sants-Montjuïc"
         },
+        "parent": 3336901,
         "lat": 41.37263,
         "lng": 2.1546,
-        "country": "ES",
-        "state": "56",
         "population": 177636
     },
     "6544105": {
@@ -2138,10 +1974,9 @@
         "long": {
             "default": "Sant Martí"
         },
+        "parent": 3336901,
         "lat": 41.41814,
         "lng": 2.19933,
-        "country": "ES",
-        "state": "56",
         "population": 221029
     },
     "6544106": {
@@ -2151,10 +1986,9 @@
         "long": {
             "default": "Ciutat Vella"
         },
+        "parent": 3336901,
         "lat": 41.38022,
         "lng": 2.17319,
-        "country": "ES",
-        "state": "56",
         "population": 111290
     },
     "6544487": {
@@ -2164,10 +1998,9 @@
         "long": {
             "default": "Arganzuela"
         },
+        "parent": 3117732,
         "lat": 40.40021,
         "lng": -3.69618,
-        "country": "ES",
-        "state": "29",
         "population": 148797
     },
     "6544488": {
@@ -2177,10 +2010,9 @@
         "long": {
             "default": "San Blas"
         },
+        "parent": 3117732,
         "lat": 40.43893,
         "lng": -3.61537,
-        "country": "ES",
-        "state": "29",
         "population": 157367
     },
     "6544489": {
@@ -2190,10 +2022,9 @@
         "long": {
             "default": "Latina"
         },
+        "parent": 3117732,
         "lat": 40.38897,
         "lng": -3.74569,
-        "country": "ES",
-        "state": "29",
         "population": 256644
     },
     "6544490": {
@@ -2203,10 +2034,9 @@
         "long": {
             "default": "Usera"
         },
+        "parent": 3117732,
         "lat": 40.38866,
         "lng": -3.70035,
-        "country": "ES",
-        "state": "29",
         "population": 141189
     },
     "6544491": {
@@ -2216,10 +2046,9 @@
         "long": {
             "default": "Salamanca"
         },
+        "parent": 3117732,
         "lat": 40.42972,
         "lng": -3.67975,
-        "country": "ES",
-        "state": "29",
         "population": 147707
     },
     "6544492": {
@@ -2229,10 +2058,9 @@
         "long": {
             "default": "Chamberí"
         },
+        "parent": 3117732,
         "lat": 40.43404,
         "lng": -3.70379,
-        "country": "ES",
-        "state": "29",
         "population": 145934
     },
     "6544493": {
@@ -2242,10 +2070,9 @@
         "long": {
             "default": "Carabanchel"
         },
+        "parent": 3117732,
         "lat": 40.39094,
         "lng": -3.7242,
-        "country": "ES",
-        "state": "29",
         "population": 253678
     },
     "6544494": {
@@ -2255,10 +2082,9 @@
         "long": {
             "default": "City Center"
         },
+        "parent": 3117732,
         "lat": 40.41831,
         "lng": -3.70275,
-        "country": "ES",
-        "state": "29",
         "population": 149718
     },
     "6544495": {
@@ -2268,10 +2094,9 @@
         "long": {
             "default": "Retiro"
         },
+        "parent": 3117732,
         "lat": 40.41317,
         "lng": -3.68307,
-        "country": "ES",
-        "state": "29",
         "population": 126058
     },
     "6615440": {
@@ -2281,10 +2106,9 @@
         "long": {
             "default": "Delicias"
         },
+        "parent": 3336899,
         "lat": 41.64928,
         "lng": -0.90757,
-        "country": "ES",
-        "state": "52",
         "population": 110520
     },
     "6618856": {
@@ -2294,10 +2118,9 @@
         "long": {
             "default": "Santutxu"
         },
+        "parent": 3336903,
         "lat": 43.25347,
         "lng": -2.9161,
-        "country": "ES",
-        "state": "59",
         "population": 60000
     },
     "8285534": {
@@ -2307,10 +2130,9 @@
         "long": {
             "default": "Fuencarral-El Pardo"
         },
+        "parent": 3117732,
         "lat": 40.4984,
         "lng": -3.7314,
-        "country": "ES",
-        "state": "29",
         "population": 220085
     },
     "8285535": {
@@ -2320,10 +2142,9 @@
         "long": {
             "default": "Villa de Vallecas"
         },
+        "parent": 3117732,
         "lat": 40.36695,
         "lng": -3.60146,
-        "country": "ES",
-        "state": "29",
         "population": 65162
     }
 }

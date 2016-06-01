@@ -65,11 +65,6 @@ abstract class Divisible implements IdentifiableInterface
     }
 
     /**
-     * @return string
-     */
-    abstract protected function getStoragePath();
-
-    /**
      * @return MemberCollection
      */
     public function getMembers()
@@ -132,14 +127,14 @@ abstract class Divisible implements IdentifiableInterface
      */
     protected function loadMembers(MemberCollection $collection = null)
     {
-        $file = $this->getStoragePath();
+        $data = $this->config->getRepository()->getData(get_class($this), [
+            'code' => $this->getCode(), 'parentCode' => $this->getParentCode()
+        ]);
 
         $collection = $collection ?: (new MemberCollection($this->config));
 
-        if (file_exists($file)) {
-            foreach(json_decode(file_get_contents($file), true) as $meta) {
-                $collection->add(new $this->memberClass($meta, $this->getCode(), $this->config));
-            }
+        foreach($data as $meta) {
+            $collection->add(new $this->memberClass($meta, $this->getCode(), $this->config));
         }
 
         $this->members = $collection;
@@ -190,7 +185,7 @@ abstract class Divisible implements IdentifiableInterface
     public function parent()
     {
         if (! $this->parent) {
-            $this->parent = new $this->parentClass([], $this->getCode(), $this->config);
+            $this->parent = new $this->parentClass([], null, $this->config);
         }
 
         return $this->parent;
@@ -213,6 +208,19 @@ abstract class Divisible implements IdentifiableInterface
             'code' => $this->getCode(),
             'name' => $this->getName()
         ];
+    }
+
+    /**
+     * @return string|int
+     */
+    abstract public function getCode();
+
+    /**
+     * @return string|int
+     */
+    public function getParentCode()
+    {
+        return $this->meta['parent'];
     }
 
     /**

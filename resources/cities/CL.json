@@ -6,10 +6,9 @@
         "long": {
             "default": "Viña del Mar"
         },
+        "parent": 3868621,
         "lat": -33.02457,
         "lng": -71.55183,
-        "country": "CL",
-        "state": "01",
         "population": 294551
     },
     "3868192": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Villa Alemana"
         },
+        "parent": 3868621,
         "lat": -33.04222,
         "lng": -71.37333,
-        "country": "CL",
-        "state": "01",
         "population": 97320
     },
     "3868626": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Valparaíso"
         },
+        "parent": 3868621,
         "lat": -33.03932,
         "lng": -71.62725,
-        "country": "CL",
-        "state": "01",
         "population": 282448
     },
     "3868707": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Valdivia"
         },
+        "parent": 6693563,
         "lat": -39.81422,
         "lng": -73.24589,
-        "country": "CL",
-        "state": "17",
         "population": 133419
     },
     "3870011": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Temuco"
         },
+        "parent": 3899463,
         "lat": -38.73965,
         "lng": -72.59842,
-        "country": "CL",
-        "state": "04",
         "population": 238129
     },
     "3870282": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Talcahuano"
         },
+        "parent": 3898380,
         "lat": -36.72494,
         "lng": -73.11684,
-        "country": "CL",
-        "state": "06",
         "population": 252968
     },
     "3870294": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Talca"
         },
+        "parent": 3880306,
         "lat": -35.4264,
         "lng": -71.65542,
-        "country": "CL",
-        "state": "11",
         "population": 197479
     },
     "3870306": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Talagante"
         },
+        "parent": 3873544,
         "lat": -33.66386,
         "lng": -70.92734,
-        "country": "CL",
-        "state": "12",
         "population": 51764
     },
     "3871336": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Santiago"
         },
+        "parent": 3873544,
         "lat": -33.45694,
         "lng": -70.64827,
-        "country": "CL",
-        "state": "12",
         "population": 4837295
     },
     "3872255": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "San Felipe"
         },
+        "parent": 3868621,
         "lat": -32.74976,
         "lng": -70.72584,
-        "country": "CL",
-        "state": "01",
         "population": 59294
     },
     "3872348": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "San Bernardo"
         },
+        "parent": 3873544,
         "lat": -33.59217,
         "lng": -70.6996,
-        "country": "CL",
-        "state": "12",
         "population": 249858
     },
     "3872395": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "San Antonio"
         },
+        "parent": 3868621,
         "lat": -33.59473,
         "lng": -71.60746,
-        "country": "CL",
-        "state": "01",
         "population": 85651
     },
     "3873775": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Rancagua"
         },
+        "parent": 3883281,
         "lat": -34.17083,
         "lng": -70.74444,
-        "country": "CL",
-        "state": "08",
         "population": 212695
     },
     "3874096": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Quilpué"
         },
+        "parent": 3868621,
         "lat": -33.04752,
         "lng": -71.44249,
-        "country": "CL",
-        "state": "01",
         "population": 130263
     },
     "3874119": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Quillota"
         },
+        "parent": 3868621,
         "lat": -32.88341,
         "lng": -71.24882,
-        "country": "CL",
-        "state": "01",
         "population": 67779
     },
     "3874787": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Punta Arenas"
         },
+        "parent": 4036650,
         "lat": -53.15483,
         "lng": -70.91129,
-        "country": "CL",
-        "state": "10",
         "population": 117430
     },
     "3874960": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Puerto Montt"
         },
+        "parent": 3881974,
         "lat": -41.46691,
         "lng": -72.94956,
-        "country": "CL",
-        "state": "14",
         "population": 160054
     },
     "3875024": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Puente Alto"
         },
+        "parent": 3873544,
         "lat": -33.61169,
         "lng": -70.57577,
-        "country": "CL",
-        "state": "12",
         "population": 510417
     },
     "3876685": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Peñaflor"
         },
+        "parent": 3873544,
         "lat": -33.60627,
         "lng": -70.87649,
-        "country": "CL",
-        "state": "12",
         "population": 65495
     },
     "3877918": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Ovalle"
         },
+        "parent": 3893623,
         "lat": -30.60106,
         "lng": -71.19901,
-        "country": "CL",
-        "state": "07",
         "population": 77138
     },
     "3877949": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Osorno"
         },
+        "parent": 3881974,
         "lat": -40.57395,
         "lng": -73.13348,
-        "country": "CL",
-        "state": "14",
         "population": 135773
     },
     "3880107": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Melipilla"
         },
+        "parent": 3873544,
         "lat": -33.68909,
         "lng": -71.21528,
-        "country": "CL",
-        "state": "12",
         "population": 63100
     },
     "3882428": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Los Ángeles"
         },
+        "parent": 3898380,
         "lat": -37.46973,
         "lng": -72.35366,
-        "country": "CL",
-        "state": "06",
         "population": 125430
     },
     "3882434": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Los Andes"
         },
+        "parent": 3868621,
         "lat": -32.83369,
         "lng": -70.59827,
-        "country": "CL",
-        "state": "01",
         "population": 56859
     },
     "3883167": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Linares"
         },
+        "parent": 3880306,
         "lat": -35.84667,
         "lng": -71.59308,
-        "country": "CL",
-        "state": "11",
         "population": 69535
     },
     "3884373": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "La Serena"
         },
+        "parent": 3893623,
         "lat": -29.90453,
         "lng": -71.24894,
-        "country": "CL",
-        "state": "07",
         "population": 154521
     },
     "3887127": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Iquique"
         },
+        "parent": 3870116,
         "lat": -20.22036,
         "lng": -70.13913,
-        "country": "CL",
-        "state": "15",
         "population": 227499
     },
     "3892870": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Curicó"
         },
+        "parent": 3880306,
         "lat": -34.98279,
         "lng": -71.23943,
-        "country": "CL",
-        "state": "11",
         "population": 102438
     },
     "3893532": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Coronel"
         },
+        "parent": 3898380,
         "lat": -37.03386,
         "lng": -73.14019,
-        "country": "CL",
-        "state": "06",
         "population": 92940
     },
     "3893629": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Coquimbo"
         },
+        "parent": 3893623,
         "lat": -29.95332,
         "lng": -71.33947,
-        "country": "CL",
-        "state": "07",
         "population": 161317
     },
     "3893656": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Copiapó"
         },
+        "parent": 3899191,
         "lat": -27.36679,
         "lng": -70.3314,
-        "country": "CL",
-        "state": "05",
         "population": 129280
     },
     "3893894": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "Concepción"
         },
+        "parent": 3898380,
         "lat": -36.82699,
         "lng": -73.04977,
-        "country": "CL",
-        "state": "06",
         "population": 215413
     },
     "3895088": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Chillán"
         },
+        "parent": 3898380,
         "lat": -36.60664,
         "lng": -72.10344,
-        "country": "CL",
-        "state": "06",
         "population": 150396
     },
     "3895138": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Chiguayante"
         },
+        "parent": 3898380,
         "lat": -36.9256,
         "lng": -73.02841,
-        "country": "CL",
-        "state": "06",
         "population": 82545
     },
     "3897347": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Calama"
         },
+        "parent": 3899537,
         "lat": -22.45591,
         "lng": -68.93015,
-        "country": "CL",
-        "state": "03",
         "population": 143084
     },
     "3897774": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Buin"
         },
+        "parent": 3873544,
         "lat": -33.73257,
         "lng": -70.74281,
-        "country": "CL",
-        "state": "12",
         "population": 55441
     },
     "3899361": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Arica"
         },
+        "parent": 6693562,
         "lat": -18.4746,
         "lng": -70.29792,
-        "country": "CL",
-        "state": "16",
         "population": 185999
     },
     "3899539": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Antofagasta"
         },
+        "parent": 3899537,
         "lat": -23.65236,
         "lng": -70.3954,
-        "country": "CL",
-        "state": "03",
         "population": 309832
     },
     "7281017": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "La Pintana"
         },
+        "parent": 3873544,
         "lat": -33.58331,
         "lng": -70.63419,
-        "country": "CL",
-        "state": "12",
         "population": 201178
     },
     "7281020": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Lo Prado"
         },
+        "parent": 3873544,
         "lat": -33.4443,
         "lng": -70.72552,
-        "country": "CL",
-        "state": "12",
         "population": 104316
     }
 }

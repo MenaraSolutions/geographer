@@ -1,5 +1,6 @@
 [
     {
+        "parent": "KY",
         "ids": {
             "fips": "10346796",
             "geonames": 10346796
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "KY",
         "ids": {
             "fips": "10375968",
             "geonames": 10375968
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "KY",
         "ids": {
             "fips": "10375969",
             "geonames": 10375969
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "KY",
         "ids": {
             "fips": "10375970",
             "geonames": 10375970
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "KY",
         "ids": {
             "fips": "10375971",
             "geonames": 10375971
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "KY",
         "ids": {
             "fips": "10375972",
             "geonames": 10375972

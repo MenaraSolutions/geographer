@@ -6,10 +6,9 @@
         "long": {
             "default": "Saint Croix"
         },
+        "parent": 7267902,
         "lat": 17.72751,
         "lng": -64.74698,
-        "country": "VI",
-        "state": "010",
         "population": 50601
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Madīnat Ḩamad"
         },
+        "parent": 7090973,
         "lat": 26.11528,
         "lng": 50.50694,
-        "country": "BH",
-        "state": "18",
         "population": 52718
     },
     "290269": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Dār Kulayb"
         },
+        "parent": 7090972,
         "lat": 26.06861,
         "lng": 50.50389,
-        "country": "BH",
-        "state": "17",
         "population": 65466
     },
     "290332": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Al Muharraq"
         },
+        "parent": 290333,
         "lat": 26.25722,
         "lng": 50.61194,
-        "country": "BH",
-        "state": "15",
         "population": 97458
     },
     "290340": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Manama"
         },
+        "parent": 7090954,
         "lat": 26.22787,
         "lng": 50.58565,
-        "country": "BH",
-        "state": "16",
         "population": 147074
     },
     "385038": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Ar Rifā‘"
         },
+        "parent": 7090972,
         "lat": 26.13,
         "lng": 50.555,
-        "country": "BH",
-        "state": "17",
         "population": 79550
     }
 }

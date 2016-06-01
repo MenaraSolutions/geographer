@@ -1,5 +1,6 @@
 [
     {
+        "parent": "GU",
         "ids": {
             "fips": "PI",
             "geonames": 4038478
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "SR",
             "geonames": 4038555
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "SJ",
             "geonames": 4038590
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "TF",
             "geonames": 4038652
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "TM",
             "geonames": 4038661
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "UM",
             "geonames": 4038739
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "YG",
             "geonames": 4038796
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "YN",
             "geonames": 4038811
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "ME",
             "geonames": 4043396
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "MA",
             "geonames": 4043416
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "AH",
             "geonames": 4043524
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "CP",
             "geonames": 4043614
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "AS",
             "geonames": 4043691
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "AT",
             "geonames": 4043725
@@ -126,6 +140,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "DD",
             "geonames": 4043877
@@ -135,6 +150,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "BA",
             "geonames": 4043885
@@ -144,6 +160,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "AN",
             "geonames": 4044019
@@ -153,6 +170,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "IN",
             "geonames": 4044041
@@ -162,6 +180,7 @@
         }
     },
     {
+        "parent": "GU",
         "ids": {
             "fips": "MT",
             "geonames": 4044148

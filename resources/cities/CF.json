@@ -6,10 +6,9 @@
         "long": {
             "default": "Mbaïki"
         },
+        "parent": 2385105,
         "lat": 3.86781,
         "lng": 17.98923,
-        "country": "CF",
-        "state": "07",
         "population": 67132
     },
     "2386012": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Kaga Bandoro"
         },
+        "parent": 2386243,
         "lat": 6.98961,
         "lng": 19.18744,
-        "country": "CF",
-        "state": "15",
         "population": 56520
     },
     "2388873": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Bimbo"
         },
+        "parent": 2383765,
         "lat": 4.25671,
         "lng": 18.41583,
-        "country": "CF",
-        "state": "17",
         "population": 129655
     },
     "2389086": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Berbérati"
         },
+        "parent": 2386161,
         "lat": 4.26116,
         "lng": 15.79216,
-        "country": "CF",
-        "state": "04",
         "population": 61815
     },
     "2389853": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Bangui"
         },
+        "parent": 2596686,
         "lat": 4.36122,
         "lng": 18.55496,
-        "country": "CF",
-        "state": "18",
         "population": 542393
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Bujumbura"
         },
+        "parent": 7303939,
         "lat": -3.3822,
         "lng": 29.3644,
-        "country": "BI",
-        "state": "24",
         "population": 331700
     },
     "431748": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Muyinga"
         },
+        "parent": 431747,
         "lat": -2.8451,
         "lng": 30.3414,
-        "country": "BI",
-        "state": "18",
         "population": 71076
     }
 }

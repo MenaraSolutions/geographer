@@ -6,10 +6,9 @@
         "long": {
             "default": "Wa"
         },
+        "parent": 2294286,
         "lat": 10.06069,
         "lng": -2.50192,
-        "country": "GH",
-        "state": "11",
         "population": 78107
     },
     "2294665": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Teshi Old Town"
         },
+        "parent": 2300569,
         "lat": 5.58365,
         "lng": -0.10722,
-        "country": "GH",
-        "state": "01",
         "population": 144013
     },
     "2294700": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tema"
         },
+        "parent": 2300569,
         "lat": 5.6698,
         "lng": -0.01657,
-        "country": "GH",
-        "state": "01",
         "population": 155782
     },
     "2294727": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Techiman"
         },
+        "parent": 2302547,
         "lat": 7.58617,
         "lng": -1.94137,
-        "country": "GH",
-        "state": "03",
         "population": 69720
     },
     "2294877": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Tamale"
         },
+        "parent": 2297169,
         "lat": 9.40079,
         "lng": -0.8393,
-        "country": "GH",
-        "state": "06",
         "population": 360579
     },
     "2294915": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Takoradi"
         },
+        "parent": 2294076,
         "lat": 4.88447,
         "lng": -1.75536,
-        "country": "GH",
-        "state": "09",
         "population": 232919
     },
     "2294938": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Tafo"
         },
+        "parent": 2304116,
         "lat": 6.73453,
         "lng": -1.61275,
-        "country": "GH",
-        "state": "02",
         "population": 50457
     },
     "2294962": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Swedru"
         },
+        "parent": 2302353,
         "lat": 5.53711,
         "lng": -0.69984,
-        "country": "GH",
-        "state": "04",
         "population": 50293
     },
     "2295021": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Sunyani"
         },
+        "parent": 2302547,
         "lat": 7.33991,
         "lng": -2.32676,
-        "country": "GH",
-        "state": "03",
         "population": 70299
     },
     "2295458": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Sekondi-Takoradi"
         },
+        "parent": 2294076,
         "lat": 4.934,
         "lng": -1.7137,
-        "country": "GH",
-        "state": "09",
         "population": 138872
     },
     "2296564": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Akim Oda"
         },
+        "parent": 2301360,
         "lat": 5.92665,
         "lng": -0.98577,
-        "country": "GH",
-        "state": "05",
         "population": 60604
     },
     "2296606": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Obuasi"
         },
+        "parent": 2304116,
         "lat": 6.20602,
         "lng": -1.66191,
-        "country": "GH",
-        "state": "02",
         "population": 137856
     },
     "2296969": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Nungua"
         },
+        "parent": 2300569,
         "lat": 5.60105,
         "lng": -0.07713,
-        "country": "GH",
-        "state": "01",
         "population": 70483
     },
     "2297313": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Nkawkaw"
         },
+        "parent": 2301360,
         "lat": 6.55121,
         "lng": -0.7662,
-        "country": "GH",
-        "state": "05",
         "population": 61785
     },
     "2298330": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Medina Estates"
         },
+        "parent": 2300569,
         "lat": 5.6658,
         "lng": -0.16307,
-        "country": "GH",
-        "state": "01",
         "population": 101207
     },
     "2298890": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Kumasi"
         },
+        "parent": 2304116,
         "lat": 6.68848,
         "lng": -1.62443,
-        "country": "GH",
-        "state": "02",
         "population": 1468609
     },
     "2299522": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Koforidua"
         },
+        "parent": 2301360,
         "lat": 6.09408,
         "lng": -0.25913,
-        "country": "GH",
-        "state": "05",
         "population": 96266
     },
     "2300372": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Hohoe"
         },
+        "parent": 2294234,
         "lat": 7.15181,
         "lng": 0.47362,
-        "country": "GH",
-        "state": "08",
         "population": 56202
     },
     "2300379": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Ho"
         },
+        "parent": 2294234,
         "lat": 6.60084,
         "lng": 0.4713,
-        "country": "GH",
-        "state": "08",
         "population": 69998
     },
     "2301217": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Ejura"
         },
+        "parent": 2304116,
         "lat": 7.38558,
         "lng": -1.35617,
-        "country": "GH",
-        "state": "02",
         "population": 70807
     },
     "2302357": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Cape Coast"
         },
+        "parent": 2302353,
         "lat": 5.10535,
         "lng": -1.2466,
-        "country": "GH",
-        "state": "04",
         "population": 143015
     },
     "2302821": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Bolgatanga"
         },
+        "parent": 2294291,
         "lat": 10.78556,
         "lng": -0.85139,
-        "country": "GH",
-        "state": "10",
         "population": 54430
     },
     "2303125": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Berekum"
         },
+        "parent": 2302547,
         "lat": 7.4534,
         "lng": -2.58404,
-        "country": "GH",
-        "state": "03",
         "population": 62364
     },
     "2303287": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Bawku"
         },
+        "parent": 2294291,
         "lat": 11.0616,
         "lng": -0.24169,
-        "country": "GH",
-        "state": "10",
         "population": 56830
     },
     "2306079": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Achiaman"
         },
+        "parent": 2300569,
         "lat": 5.7,
         "lng": -0.33333,
-        "country": "GH",
-        "state": "01",
         "population": 202932
     },
     "2306104": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Accra"
         },
+        "parent": 2300569,
         "lat": 5.55602,
         "lng": -0.1969,
-        "country": "GH",
-        "state": "01",
         "population": 1963264
     }
 }

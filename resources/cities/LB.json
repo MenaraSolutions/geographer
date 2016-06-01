@@ -6,10 +6,9 @@
         "long": {
             "default": "Zahlé"
         },
+        "parent": 280282,
         "lat": 33.84675,
         "lng": 35.90203,
-        "country": "LB",
-        "state": "08",
         "population": 78145
     },
     "266826": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tripoli"
         },
+        "parent": 278297,
         "lat": 34.43667,
         "lng": 35.84972,
-        "country": "LB",
-        "state": "09",
         "population": 229398
     },
     "267008": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tyre"
         },
+        "parent": 279894,
         "lat": 33.27333,
         "lng": 35.19389,
-        "country": "LB",
-        "state": "06",
         "population": 135204
     },
     "268064": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Sidon"
         },
+        "parent": 279894,
         "lat": 33.55993,
         "lng": 35.37564,
-        "country": "LB",
-        "state": "06",
         "population": 163554
     },
     "268743": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Ra’s Bayrūt"
         },
+        "parent": 276780,
         "lat": 33.9,
         "lng": 35.48333,
-        "country": "LB",
-        "state": "04",
         "population": 1251739
     },
     "273140": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Djounie"
         },
+        "parent": 273607,
         "lat": 33.98083,
         "lng": 35.61778,
-        "country": "LB",
-        "state": "05",
         "population": 96315
     },
     "274874": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Habboûch"
         },
+        "parent": 444191,
         "lat": 33.40729,
         "lng": 35.48169,
-        "country": "LB",
-        "state": "07",
         "population": 98433
     },
     "276781": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Beirut"
         },
+        "parent": 276780,
         "lat": 33.88894,
         "lng": 35.49442,
-        "country": "LB",
-        "state": "04",
         "population": 1916100
     },
     "278913": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Nabatîyé et Tahta"
         },
+        "parent": 444191,
         "lat": 33.37889,
         "lng": 35.48389,
-        "country": "LB",
-        "state": "07",
         "population": 120000
     }
 }

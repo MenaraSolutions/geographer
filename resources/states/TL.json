@@ -1,5 +1,6 @@
 [
     {
+        "parent": "TL",
         "ids": {
             "fips": "VI",
             "geonames": 1622470
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "MF",
             "geonames": 1636309
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "MT",
             "geonames": 1636525
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "LI",
             "geonames": 1637729
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "LA",
             "geonames": 1638294
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "CO",
             "geonames": 1639462
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "ER",
             "geonames": 1644865
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "DI",
             "geonames": 1645456
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "BO",
             "geonames": 1648513
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "BA",
             "geonames": 1649538
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "OE",
             "geonames": 1651539
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "AN",
             "geonames": 1651809
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "TL",
         "ids": {
             "fips": "AL",
             "geonames": 1651815

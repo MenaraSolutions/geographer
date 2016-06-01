@@ -6,10 +6,9 @@
         "long": {
             "default": "Nzérékoré"
         },
+        "parent": 8335091,
         "lat": 7.75624,
         "lng": -8.8179,
-        "country": "GN",
-        "state": "N",
         "population": 132728
     },
     "2418362": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Labé"
         },
+        "parent": 8335089,
         "lat": 11.31823,
         "lng": -12.28332,
-        "country": "GN",
-        "state": "L",
         "population": 58649
     },
     "2419533": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Kindia"
         },
+        "parent": 8335088,
         "lat": 10.05692,
         "lng": -12.86576,
-        "country": "GN",
-        "state": "D",
         "population": 117062
     },
     "2419992": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Kankan"
         },
+        "parent": 8335087,
         "lat": 10.38542,
         "lng": -9.30568,
-        "country": "GN",
-        "state": "K",
         "population": 114009
     },
     "2420056": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Kamsar"
         },
+        "parent": 8335085,
         "lat": 10.66667,
         "lng": -14.6,
-        "country": "GN",
-        "state": "B",
         "population": 61527
     },
     "2420562": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Gueckedou"
         },
+        "parent": 8335091,
         "lat": 8.56744,
         "lng": -10.1336,
-        "country": "GN",
-        "state": "N",
         "population": 79140
     },
     "2422457": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Coyah"
         },
+        "parent": 8335088,
         "lat": 9.70643,
         "lng": -13.38465,
-        "country": "GN",
-        "state": "D",
         "population": 77103
     },
     "2422465": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Conakry"
         },
+        "parent": 2422464,
         "lat": 9.53795,
         "lng": -13.67729,
-        "country": "GN",
-        "state": "04",
         "population": 1767200
     },
     "2422488": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Camayenne"
         },
+        "parent": 2422464,
         "lat": 9.535,
         "lng": -13.68778,
-        "country": "GN",
-        "state": "04",
         "population": 1871242
     }
 }

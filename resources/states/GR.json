@@ -1,5 +1,6 @@
 [
     {
+        "parent": "GR",
         "ids": {
             "fips": "736572",
             "geonames": 736572
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE31",
             "geonames": 6692632
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE24",
             "geonames": 6697800
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE12",
             "geonames": 6697801
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE43",
             "geonames": 6697802
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE11",
             "geonames": 6697803
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE21",
             "geonames": 6697804
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE22",
             "geonames": 6697805
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE41",
             "geonames": 6697806
@@ -81,6 +90,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE25",
             "geonames": 6697807
@@ -90,6 +100,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE42",
             "geonames": 6697808
@@ -99,6 +110,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE14",
             "geonames": 6697809
@@ -108,6 +120,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE23",
             "geonames": 6697810
@@ -117,6 +130,7 @@
         }
     },
     {
+        "parent": "GR",
         "ids": {
             "fips": "ESYE13",
             "geonames": 6697811

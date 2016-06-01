@@ -6,10 +6,9 @@
         "long": {
             "default": "Ziguinchor"
         },
+        "parent": 2243939,
         "lat": 12.58333,
         "lng": -16.27194,
-        "country": "SN",
-        "state": "12",
         "population": 159778
     },
     "2244322": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Touba"
         },
+        "parent": 2252308,
         "lat": 14.85,
         "lng": -15.88333,
-        "country": "SN",
-        "state": "03",
         "population": 529176
     },
     "2244616": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Tiébo"
         },
+        "parent": 2252308,
         "lat": 14.63333,
         "lng": -16.23333,
-        "country": "SN",
-        "state": "03",
         "population": 100289
     },
     "2244799": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Thiès Nones"
         },
+        "parent": 2244800,
         "lat": 14.78333,
         "lng": -16.96667,
-        "country": "SN",
-        "state": "07",
         "population": 252320
     },
     "2244991": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Tambacounda"
         },
+        "parent": 2244990,
         "lat": 13.77073,
         "lng": -13.66734,
-        "country": "SN",
-        "state": "05",
         "population": 78800
     },
     "2246452": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Saint-Louis"
         },
+        "parent": 2246451,
         "lat": 16.01793,
         "lng": -16.48962,
-        "country": "SN",
-        "state": "14",
         "population": 176000
     },
     "2246678": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Pikine"
         },
+        "parent": 2253350,
         "lat": 14.76457,
         "lng": -17.39071,
-        "country": "SN",
-        "state": "01",
         "population": 874062
     },
     "2248698": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Mbaké"
         },
+        "parent": 2252308,
         "lat": 14.79032,
         "lng": -15.90803,
-        "country": "SN",
-        "state": "03",
         "population": 74100
     },
     "2249222": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Louga"
         },
+        "parent": 2249221,
         "lat": 15.61867,
         "lng": -16.22436,
-        "country": "SN",
-        "state": "13",
         "population": 67154
     },
     "2249782": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Kolda"
         },
+        "parent": 2249781,
         "lat": 12.88333,
         "lng": -14.95,
-        "country": "SN",
-        "state": "11",
         "population": 58809
     },
     "2250805": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Kaolack"
         },
+        "parent": 2250804,
         "lat": 14.1825,
         "lng": -16.25333,
-        "country": "SN",
-        "state": "10",
         "population": 172305
     },
     "2253354": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Dakar"
         },
+        "parent": 2253350,
         "lat": 14.6937,
         "lng": -17.44406,
-        "country": "SN",
-        "state": "01",
         "population": 2476400
     }
 }

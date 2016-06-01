@@ -6,10 +6,9 @@
         "long": {
             "default": "Yên Vinh"
         },
+        "parent": 1559969,
         "lat": 18.66667,
         "lng": 105.66667,
-        "country": "VN",
-        "state": "58",
         "population": 107082
     },
     "1560349": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Yên Bái"
         },
+        "parent": 1559978,
         "lat": 21.72288,
         "lng": 104.9113,
-        "country": "VN",
-        "state": "70",
         "population": 96540
     },
     "1562414": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Vũng Tàu"
         },
+        "parent": 1584534,
         "lat": 10.34599,
         "lng": 107.08426,
-        "country": "VN",
-        "state": "45",
         "population": 209683
     },
     "1562693": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Vĩnh Long"
         },
+        "parent": 1559977,
         "lat": 10.25369,
         "lng": 105.9722,
-        "country": "VN",
-        "state": "69",
         "population": 103314
     },
     "1562798": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Vinh"
         },
+        "parent": 1559969,
         "lat": 18.67337,
         "lng": 105.69232,
-        "country": "VN",
-        "state": "58",
         "population": 163759
     },
     "1562820": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Việt Trì"
         },
+        "parent": 1905577,
         "lat": 21.32274,
         "lng": 105.40198,
-        "country": "VN",
-        "state": "83",
         "population": 93475
     },
     "1563241": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Thành Phố Uông Bí"
         },
+        "parent": 1568758,
         "lat": 21.03433,
         "lng": 106.77049,
-        "country": "VN",
-        "state": "30",
         "population": 63829
     },
     "1563281": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Tuy Hòa"
         },
+        "parent": 1569805,
         "lat": 13.09546,
         "lng": 109.32094,
-        "country": "VN",
-        "state": "61",
         "population": 69596
     },
     "1563926": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Trà Vinh"
         },
+        "parent": 1559975,
         "lat": 9.94719,
         "lng": 106.34225,
-        "country": "VN",
-        "state": "67",
         "population": 57408
     },
     "1565022": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Thủ Dầu Một"
         },
+        "parent": 1905475,
         "lat": 10.9804,
         "lng": 106.6519,
-        "country": "VN",
-        "state": "75",
         "population": 91009
     },
     "1566083": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Ho Chi Minh City"
         },
+        "parent": 1580578,
         "lat": 10.82302,
         "lng": 106.62965,
-        "country": "VN",
-        "state": "20",
         "population": 3467331
     },
     "1566166": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Thanh Hóa"
         },
+        "parent": 1566165,
         "lat": 19.8,
         "lng": 105.76667,
-        "country": "VN",
-        "state": "34",
         "population": 112473
     },
     "1566319": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Thành Phố Thái Nguyên"
         },
+        "parent": 1905497,
         "lat": 21.59422,
         "lng": 105.84817,
-        "country": "VN",
-        "state": "85",
         "population": 133877
     },
     "1566346": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Thành Phố Thái Bình"
         },
+        "parent": 1566338,
         "lat": 20.45,
         "lng": 106.34002,
-        "country": "VN",
-        "state": "35",
         "population": 53071
     },
     "1567069": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Tân An"
         },
+        "parent": 1575788,
         "lat": 10.53589,
         "lng": 106.41366,
-        "country": "VN",
-        "state": "24",
         "population": 64801
     },
     "1567148": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Tam Kỳ"
         },
+        "parent": 1905516,
         "lat": 15.57364,
         "lng": 108.47403,
-        "country": "VN",
-        "state": "84",
         "population": 59000
     },
     "1567723": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Sông Cầu"
         },
+        "parent": 1569805,
         "lat": 13.4556,
         "lng": 109.22348,
-        "country": "VN",
-        "state": "61",
         "population": 94066
     },
     "1567788": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Sóc Trăng"
         },
+        "parent": 1559972,
         "lat": 9.59995,
         "lng": 105.97193,
-        "country": "VN",
-        "state": "65",
         "population": 114453
     },
     "1568043": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Sa Pá"
         },
+        "parent": 1562412,
         "lat": 22.34023,
         "lng": 103.84415,
-        "country": "VN",
-        "state": "90",
         "population": 138622
     },
     "1568212": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Sadek"
         },
+        "parent": 1582562,
         "lat": 10.29085,
         "lng": 105.75635,
-        "country": "VN",
-        "state": "09",
         "population": 60073
     },
     "1568510": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Rạch Giá"
         },
+        "parent": 1579008,
         "lat": 10.01245,
         "lng": 105.08091,
-        "country": "VN",
-        "state": "21",
         "population": 228356
     },
     "1568574": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Qui Nhon"
         },
+        "parent": 1587871,
         "lat": 13.77648,
         "lng": 109.22367,
-        "country": "VN",
-        "state": "46",
         "population": 210338
     },
     "1569684": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "Pleiku"
         },
+        "parent": 1581088,
         "lat": 13.98333,
         "lng": 108,
-        "country": "VN",
-        "state": "49",
         "population": 114225
     },
     "1571058": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Phan Thiết"
         },
+        "parent": 1581882,
         "lat": 10.92889,
         "lng": 108.10208,
-        "country": "VN",
-        "state": "47",
         "population": 160652
     },
     "1571067": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Phan Rang-Tháp Chàm"
         },
+        "parent": 1559971,
         "lat": 11.56432,
         "lng": 108.98858,
-        "country": "VN",
-        "state": "60",
         "population": 91520
     },
     "1572151": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "Nha Trang"
         },
+        "parent": 1579634,
         "lat": 12.24507,
         "lng": 109.19432,
-        "country": "VN",
-        "state": "54",
         "population": 283441
     },
     "1573517": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Thành Phố Nam Định"
         },
+        "parent": 1905626,
         "lat": 20.43389,
         "lng": 106.17729,
-        "country": "VN",
-        "state": "82",
         "population": 193499
     },
     "1574023": {
@@ -357,10 +330,9 @@
         "long": {
             "default": "Mỹ Tho"
         },
+        "parent": 1564676,
         "lat": 10.36004,
         "lng": 106.35996,
-        "country": "VN",
-        "state": "37",
         "population": 122310
     },
     "1574507": {
@@ -370,10 +342,9 @@
         "long": {
             "default": "Móng Cái"
         },
+        "parent": 1568758,
         "lat": 21.52471,
         "lng": 107.96619,
-        "country": "VN",
-        "state": "30",
         "population": 72960
     },
     "1575627": {
@@ -383,10 +354,9 @@
         "long": {
             "default": "Long Xuyên"
         },
+        "parent": 1594446,
         "lat": 10.38639,
         "lng": 105.43518,
-        "country": "VN",
-        "state": "01",
         "population": 158153
     },
     "1576633": {
@@ -396,10 +366,9 @@
         "long": {
             "default": "Thành Phố Lạng Sơn"
         },
+        "parent": 1576632,
         "lat": 21.85264,
         "lng": 106.76101,
-        "country": "VN",
-        "state": "39",
         "population": 55981
     },
     "1577995": {
@@ -409,10 +378,9 @@
         "long": {
             "default": "La Gi"
         },
+        "parent": 1581882,
         "lat": 10.65993,
         "lng": 107.77206,
-        "country": "VN",
-        "state": "47",
         "population": 160652
     },
     "1580240": {
@@ -422,10 +390,9 @@
         "long": {
             "default": "Huế"
         },
+        "parent": 1565033,
         "lat": 16.4619,
         "lng": 107.59546,
-        "country": "VN",
-        "state": "66",
         "population": 287217
     },
     "1580410": {
@@ -435,10 +402,9 @@
         "long": {
             "default": "Thành Phố Hạ Long"
         },
+        "parent": 1568758,
         "lat": 20.95045,
         "lng": 107.07336,
-        "country": "VN",
-        "state": "30",
         "population": 148066
     },
     "1580830": {
@@ -448,10 +414,9 @@
         "long": {
             "default": "Thành Phố Hòa Bình"
         },
+        "parent": 1572594,
         "lat": 20.81717,
         "lng": 105.33759,
-        "country": "VN",
-        "state": "53",
         "population": 105260
     },
     "1581130": {
@@ -461,10 +426,9 @@
         "long": {
             "default": "Hanoi"
         },
+        "parent": 1581129,
         "lat": 21.0245,
         "lng": 105.84117,
-        "country": "VN",
-        "state": "44",
         "population": 1431270
     },
     "1581298": {
@@ -474,10 +438,9 @@
         "long": {
             "default": "Haiphong"
         },
+        "parent": 1581297,
         "lat": 20.86481,
         "lng": 106.68345,
-        "country": "VN",
-        "state": "13",
         "population": 602695
     },
     "1581326": {
@@ -487,10 +450,9 @@
         "long": {
             "default": "Thành Phố Hải Dương"
         },
+        "parent": 1905686,
         "lat": 20.94099,
         "lng": 106.33302,
-        "country": "VN",
-        "state": "79",
         "population": 58030
     },
     "1581364": {
@@ -500,10 +462,9 @@
         "long": {
             "default": "Hà Đông"
         },
+        "parent": 1581129,
         "lat": 20.97136,
         "lng": 105.77876,
-        "country": "VN",
-        "state": "44",
         "population": 50877
     },
     "1583992": {
@@ -513,10 +474,9 @@
         "long": {
             "default": "Da Nang"
         },
+        "parent": 1905468,
         "lat": 16.06778,
         "lng": 108.22083,
-        "country": "VN",
-        "state": "78",
         "population": 752493
     },
     "1584071": {
@@ -526,10 +486,9 @@
         "long": {
             "default": "Ðà Lạt"
         },
+        "parent": 1577882,
         "lat": 11.94646,
         "lng": 108.44193,
-        "country": "VN",
-        "state": "23",
         "population": 197000
     },
     "1584661": {
@@ -539,10 +498,9 @@
         "long": {
             "default": "Củ Chi"
         },
+        "parent": 1580578,
         "lat": 10.97333,
         "lng": 106.49325,
-        "country": "VN",
-        "state": "20",
         "population": 75000
     },
     "1585660": {
@@ -552,10 +510,9 @@
         "long": {
             "default": "Cho Dok"
         },
+        "parent": 1594446,
         "lat": 10.7,
         "lng": 105.11667,
-        "country": "VN",
-        "state": "01",
         "population": 70239
     },
     "1586151": {
@@ -565,10 +522,9 @@
         "long": {
             "default": "Cao Lãnh"
         },
+        "parent": 1582562,
         "lat": 10.46017,
         "lng": 105.63294,
-        "country": "VN",
-        "state": "09",
         "population": 63770
     },
     "1586203": {
@@ -578,10 +534,9 @@
         "long": {
             "default": "Cần Thơ"
         },
+        "parent": 1581188,
         "lat": 10.03711,
         "lng": 105.78825,
-        "country": "VN",
-        "state": "87",
         "population": 259598
     },
     "1586288": {
@@ -591,10 +546,9 @@
         "long": {
             "default": "Cần Giờ"
         },
+        "parent": 1580578,
         "lat": 10.41115,
         "lng": 106.95474,
-        "country": "VN",
-        "state": "20",
         "population": 55137
     },
     "1586296": {
@@ -604,10 +558,9 @@
         "long": {
             "default": "Cần Giuộc"
         },
+        "parent": 1575788,
         "lat": 10.60857,
         "lng": 106.67135,
-        "country": "VN",
-        "state": "24",
         "population": 152200
     },
     "1586350": {
@@ -617,10 +570,9 @@
         "long": {
             "default": "Cam Ranh"
         },
+        "parent": 1579634,
         "lat": 11.92144,
         "lng": 109.15913,
-        "country": "VN",
-        "state": "54",
         "population": 146771
     },
     "1586357": {
@@ -630,10 +582,9 @@
         "long": {
             "default": "Cẩm Phả Mines"
         },
+        "parent": 1568758,
         "lat": 21.01667,
         "lng": 107.3,
-        "country": "VN",
-        "state": "30",
         "population": 135477
     },
     "1586443": {
@@ -643,10 +594,9 @@
         "long": {
             "default": "Cà Mau"
         },
+        "parent": 1905678,
         "lat": 9.17682,
         "lng": 105.15242,
-        "country": "VN",
-        "state": "77",
         "population": 111894
     },
     "1586896": {
@@ -656,10 +606,9 @@
         "long": {
             "default": "Buôn Ma Thuột"
         },
+        "parent": 1584169,
         "lat": 12.66747,
         "lng": 108.03775,
-        "country": "VN",
-        "state": "88",
         "population": 146975
     },
     "1587919": {
@@ -669,10 +618,9 @@
         "long": {
             "default": "Bỉm Sơn"
         },
+        "parent": 1566165,
         "lat": 20.07806,
         "lng": 105.86028,
-        "country": "VN",
-        "state": "34",
         "population": 53754
     },
     "1587923": {
@@ -682,10 +630,9 @@
         "long": {
             "default": "Biên Hòa"
         },
+        "parent": 1582720,
         "lat": 10.94469,
         "lng": 106.82432,
-        "country": "VN",
-        "state": "43",
         "population": 407208
     },
     "1587976": {
@@ -695,10 +642,9 @@
         "long": {
             "default": "Bến Tre"
         },
+        "parent": 1587974,
         "lat": 10.24147,
         "lng": 106.37585,
-        "country": "VN",
-        "state": "03",
         "population": 59442
     },
     "1588275": {
@@ -708,10 +654,9 @@
         "long": {
             "default": "Bảo Lộc"
         },
+        "parent": 1577882,
         "lat": 11.54798,
         "lng": 107.80772,
-        "country": "VN",
-        "state": "23",
         "population": 151915
     },
     "1591474": {
@@ -721,10 +666,9 @@
         "long": {
             "default": "Thành phố Bạc Liêu"
         },
+        "parent": 1905675,
         "lat": 9.29414,
         "lng": 105.72776,
-        "country": "VN",
-        "state": "73",
         "population": 107911
     },
     "1591527": {
@@ -734,10 +678,9 @@
         "long": {
             "default": "Bắc Giang"
         },
+        "parent": 1905419,
         "lat": 21.27307,
         "lng": 106.1946,
-        "country": "VN",
-        "state": "71",
         "population": 53728
     }
 }

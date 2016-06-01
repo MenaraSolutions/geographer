@@ -6,10 +6,9 @@
         "long": {
             "default": "Villa Nueva"
         },
+        "parent": 3595530,
         "lat": 14.52694,
         "lng": -90.5875,
-        "country": "GT",
-        "state": "07",
         "population": 406830
     },
     "3587923": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Villa Canales"
         },
+        "parent": 3595530,
         "lat": 14.48139,
         "lng": -90.53167,
-        "country": "GT",
-        "state": "07",
         "population": 122194
     },
     "3588258": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Totonicapán"
         },
+        "parent": 3588257,
         "lat": 14.91167,
         "lng": -91.36111,
-        "country": "GT",
-        "state": "21",
         "population": 69734
     },
     "3589289": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Santa Lucía Cotzumalguapa"
         },
+        "parent": 3595802,
         "lat": 14.33333,
         "lng": -91.01667,
-        "country": "GT",
-        "state": "06",
         "population": 62097
     },
     "3589452": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Santa Catarina Pinula"
         },
+        "parent": 3595530,
         "lat": 14.56889,
         "lng": -90.49528,
-        "country": "GT",
-        "state": "07",
         "population": 67994
     },
     "3589885": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "San Juan Sacatepéquez"
         },
+        "parent": 3595530,
         "lat": 14.71889,
         "lng": -90.64417,
-        "country": "GT",
-        "state": "07",
         "population": 136886
     },
     "3590219": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "San Francisco El Alto"
         },
+        "parent": 3588257,
         "lat": 14.95,
         "lng": -91.45,
-        "country": "GT",
-        "state": "21",
         "population": 54493
     },
     "3590979": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Quetzaltenango"
         },
+        "parent": 3590978,
         "lat": 14.83472,
         "lng": -91.51806,
-        "country": "GT",
-        "state": "13",
         "population": 132230
     },
     "3591062": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Puerto Barrios"
         },
+        "parent": 3595259,
         "lat": 15.72778,
         "lng": -88.59444,
-        "country": "GT",
-        "state": "09",
         "population": 56605
     },
     "3591415": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Petapa"
         },
+        "parent": 3595530,
         "lat": 14.50278,
         "lng": -90.55167,
-        "country": "GT",
-        "state": "07",
         "population": 141455
     },
     "3592519": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Mixco"
         },
+        "parent": 3595530,
         "lat": 14.63333,
         "lng": -90.60639,
-        "country": "GT",
-        "state": "07",
         "population": 473080
     },
     "3595416": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Huehuetenango"
         },
+        "parent": 3595415,
         "lat": 15.31972,
         "lng": -91.47083,
-        "country": "GT",
-        "state": "08",
         "population": 79426
     },
     "3595803": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Escuintla"
         },
+        "parent": 3595802,
         "lat": 14.305,
         "lng": -90.785,
-        "country": "GT",
-        "state": "06",
         "population": 103165
     },
     "3598119": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Cobán"
         },
+        "parent": 3599773,
         "lat": 15.47083,
         "lng": -90.37083,
-        "country": "GT",
-        "state": "01",
         "population": 53375
     },
     "3598132": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "Guatemala City"
         },
+        "parent": 3595530,
         "lat": 14.64072,
         "lng": -90.51327,
-        "country": "GT",
-        "state": "07",
         "population": 994938
     },
     "3598529": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Chinautla"
         },
+        "parent": 3595530,
         "lat": 14.70833,
         "lng": -90.49944,
-        "country": "GT",
-        "state": "07",
         "population": 97172
     },
     "3598572": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Chimaltenango"
         },
+        "parent": 3598571,
         "lat": 14.66111,
         "lng": -90.81944,
-        "country": "GT",
-        "state": "03",
         "population": 82370
     },
     "3598655": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Chichicastenango"
         },
+        "parent": 3590964,
         "lat": 14.93333,
         "lng": -91.11667,
-        "country": "GT",
-        "state": "14",
         "population": 79759
     },
     "3599735": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Amatitlán"
         },
+        "parent": 3595530,
         "lat": 14.4875,
         "lng": -90.61528,
-        "country": "GT",
-        "state": "07",
         "population": 71836
     }
 }

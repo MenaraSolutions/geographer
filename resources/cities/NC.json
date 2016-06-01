@@ -6,10 +6,9 @@
         "long": {
             "default": "Nouméa"
         },
+        "parent": 2140464,
         "lat": -22.27631,
         "lng": 166.4572,
-        "country": "NC",
-        "state": "02",
         "population": 93060
     }
 }

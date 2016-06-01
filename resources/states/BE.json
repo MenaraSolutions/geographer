@@ -1,5 +1,6 @@
 [
     {
+        "parent": "BE",
         "ids": {
             "iso_3166": "BRU",
             "geonames": 2800867
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "BE",
         "ids": {
             "iso_3166": "WAL",
             "geonames": 3337387
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "BE",
         "ids": {
             "iso_3166": "VLG",
             "geonames": 3337388

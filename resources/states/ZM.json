@@ -1,5 +1,6 @@
 [
     {
+        "parent": "ZM",
         "ids": {
             "fips": "01",
             "geonames": 896140
@@ -9,6 +10,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "07",
             "geonames": 896972
@@ -18,6 +20,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "06",
             "geonames": 900594
@@ -27,6 +30,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "05",
             "geonames": 900601
@@ -36,6 +40,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "09",
             "geonames": 909129
@@ -45,6 +50,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "04",
             "geonames": 909845
@@ -54,6 +60,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "03",
             "geonames": 917388
@@ -63,6 +70,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "08",
             "geonames": 917524
@@ -72,6 +80,7 @@
         }
     },
     {
+        "parent": "ZM",
         "ids": {
             "fips": "02",
             "geonames": 921064

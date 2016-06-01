@@ -6,10 +6,9 @@
         "long": {
             "default": "Zürich"
         },
+        "parent": 2657895,
         "lat": 47.36667,
         "lng": 8.55,
-        "country": "CH",
-        "state": "ZH",
         "population": 341730
     },
     "2657970": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Winterthur"
         },
+        "parent": 2657895,
         "lat": 47.50564,
         "lng": 8.72413,
-        "country": "CH",
-        "state": "ZH",
         "population": 91908
     },
     "2658822": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sankt Gallen"
         },
+        "parent": 2658821,
         "lat": 47.42391,
         "lng": 9.37477,
-        "country": "CH",
-        "state": "SG",
         "population": 70572
     },
     "2659811": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Luzern"
         },
+        "parent": 2659810,
         "lat": 47.05048,
         "lng": 8.30635,
-        "country": "CH",
-        "state": "LU",
         "population": 57066
     },
     "2659994": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Lausanne"
         },
+        "parent": 2658182,
         "lat": 46.516,
         "lng": 6.63282,
-        "country": "CH",
-        "state": "VD",
         "population": 116751
     },
     "2660646": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Genève"
         },
+        "parent": 2660645,
         "lat": 46.20222,
         "lng": 6.14569,
-        "country": "CH",
-        "state": "GE",
         "population": 183981
     },
     "2661552": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Bern"
         },
+        "parent": 2661551,
         "lat": 46.94809,
         "lng": 7.44744,
-        "country": "CH",
-        "state": "BE",
         "population": 121631
     },
     "2661604": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Basel"
         },
+        "parent": 2661602,
         "lat": 47.55839,
         "lng": 7.57327,
-        "country": "CH",
-        "state": "BS",
         "population": 164488
     },
     "6295533": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Zürich (Kreis 11)"
         },
+        "parent": 2657895,
         "lat": 47.42326,
         "lng": 8.52166,
-        "country": "CH",
-        "state": "ZH",
         "population": 54260
     }
 }

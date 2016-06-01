@@ -6,10 +6,9 @@
         "long": {
             "default": "Tunis"
         },
+        "parent": 2464464,
         "lat": 36.81897,
         "lng": 10.16579,
-        "country": "TN",
-        "state": "36",
         "population": 693210
     },
     "2464701": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Tataouine"
         },
+        "parent": 2464698,
         "lat": 32.92967,
         "lng": 10.45177,
-        "country": "TN",
-        "state": "34",
         "population": 62577
     },
     "2464915": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Sousse"
         },
+        "parent": 2464912,
         "lat": 35.82539,
         "lng": 10.63699,
-        "country": "TN",
-        "state": "23",
         "population": 164123
     },
     "2467246": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Skanes"
         },
+        "parent": 2473495,
         "lat": 35.78333,
         "lng": 10.8,
-        "country": "TN",
-        "state": "16",
         "population": 64222
     },
     "2467454": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Sfax"
         },
+        "parent": 2467450,
         "lat": 34.74056,
         "lng": 10.76028,
-        "country": "TN",
-        "state": "32",
         "population": 277278
     },
     "2468353": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Gafsa"
         },
+        "parent": 2468351,
         "lat": 34.425,
         "lng": 8.78417,
-        "country": "TN",
-        "state": "30",
         "population": 81232
     },
     "2468369": {
@@ -84,10 +78,9 @@
         "long": {
             "default": "Gabès"
         },
+        "parent": 2468365,
         "lat": 33.88146,
         "lng": 10.0982,
-        "country": "TN",
-        "state": "29",
         "population": 110075
     },
     "2468579": {
@@ -97,10 +90,9 @@
         "long": {
             "default": "Nabeul"
         },
+        "parent": 2468576,
         "lat": 36.45606,
         "lng": 10.73763,
-        "country": "TN",
-        "state": "19",
         "population": 56387
     },
     "2468925": {
@@ -110,10 +102,9 @@
         "long": {
             "default": "Midoun"
         },
+        "parent": 2469470,
         "lat": 33.80813,
         "lng": 10.99228,
-        "country": "TN",
-        "state": "28",
         "population": 120000
     },
     "2469140": {
@@ -123,10 +114,9 @@
         "long": {
             "default": "Msaken"
         },
+        "parent": 2464912,
         "lat": 35.72917,
         "lng": 10.58082,
-        "country": "TN",
-        "state": "23",
         "population": 64563
     },
     "2469473": {
@@ -136,10 +126,9 @@
         "long": {
             "default": "Medenine"
         },
+        "parent": 2469470,
         "lat": 33.35495,
         "lng": 10.50548,
-        "country": "TN",
-        "state": "28",
         "population": 61705
     },
     "2470088": {
@@ -149,10 +138,9 @@
         "long": {
             "default": "Jendouba"
         },
+        "parent": 2470085,
         "lat": 36.50114,
         "lng": 8.78024,
-        "country": "TN",
-        "state": "06",
         "population": 51408
     },
     "2470173": {
@@ -162,10 +150,9 @@
         "long": {
             "default": "Zarzis"
         },
+        "parent": 2469470,
         "lat": 33.50398,
         "lng": 11.11215,
-        "country": "TN",
-        "state": "28",
         "population": 79316
     },
     "2470384": {
@@ -175,10 +162,9 @@
         "long": {
             "default": "Houmt Souk"
         },
+        "parent": 2469470,
         "lat": 33.87576,
         "lng": 10.85745,
-        "country": "TN",
-        "state": "28",
         "population": 62583
     },
     "2470656": {
@@ -188,10 +174,9 @@
         "long": {
             "default": "La Goulette"
         },
+        "parent": 2464464,
         "lat": 36.81806,
         "lng": 10.305,
-        "country": "TN",
-        "state": "36",
         "population": 79795
     },
     "2472479": {
@@ -201,10 +186,9 @@
         "long": {
             "default": "Ben Arous"
         },
+        "parent": 2472477,
         "lat": 36.75306,
         "lng": 10.21889,
-        "country": "TN",
-        "state": "27",
         "population": 74932
     },
     "2472706": {
@@ -214,10 +198,9 @@
         "long": {
             "default": "Bizerte"
         },
+        "parent": 2472699,
         "lat": 37.27442,
         "lng": 9.87391,
-        "country": "TN",
-        "state": "18",
         "population": 115268
     },
     "2472774": {
@@ -227,10 +210,9 @@
         "long": {
             "default": "Béja"
         },
+        "parent": 2472770,
         "lat": 36.72564,
         "lng": 9.18169,
-        "country": "TN",
-        "state": "17",
         "population": 57233
     },
     "2473247": {
@@ -240,10 +222,9 @@
         "long": {
             "default": "Ariana"
         },
+        "parent": 2473245,
         "lat": 36.86012,
         "lng": 10.19337,
-        "country": "TN",
-        "state": "38",
         "population": 97687
     },
     "2473449": {
@@ -253,10 +234,9 @@
         "long": {
             "default": "Kairouan"
         },
+        "parent": 2473451,
         "lat": 35.6781,
         "lng": 10.09633,
-        "country": "TN",
-        "state": "03",
         "population": 119794
     },
     "2473457": {
@@ -266,10 +246,9 @@
         "long": {
             "default": "Kasserine"
         },
+        "parent": 2473460,
         "lat": 35.16758,
         "lng": 8.83651,
-        "country": "TN",
-        "state": "02",
         "population": 81987
     },
     "2473493": {
@@ -279,10 +258,9 @@
         "long": {
             "default": "Monastir"
         },
+        "parent": 2473495,
         "lat": 35.77799,
         "lng": 10.82617,
-        "country": "TN",
-        "state": "16",
         "population": 71546
     },
     "2473499": {
@@ -292,10 +270,9 @@
         "long": {
             "default": "La Mohammedia"
         },
+        "parent": 2464464,
         "lat": 36.67446,
         "lng": 10.15633,
-        "country": "TN",
-        "state": "36",
         "population": 66593
     },
     "2473540": {
@@ -305,10 +282,9 @@
         "long": {
             "default": "Al Marsá"
         },
+        "parent": 2464464,
         "lat": 36.87818,
         "lng": 10.32466,
-        "country": "TN",
-        "state": "36",
         "population": 65640
     },
     "2473744": {
@@ -318,10 +294,9 @@
         "long": {
             "default": "Hammamet"
         },
+        "parent": 2468576,
         "lat": 36.4,
         "lng": 10.61667,
-        "country": "TN",
-        "state": "19",
         "population": 53733
     },
     "2473747": {
@@ -331,10 +306,9 @@
         "long": {
             "default": "El Hamma"
         },
+        "parent": 2468365,
         "lat": 33.89152,
         "lng": 9.79629,
-        "country": "TN",
-        "state": "29",
         "population": 62000
     },
     "2581754": {
@@ -344,10 +318,9 @@
         "long": {
             "default": "Douane"
         },
+        "parent": 2468576,
         "lat": 36.44766,
         "lng": 10.7557,
-        "country": "TN",
-        "state": "19",
         "population": 60192
     }
 }

@@ -6,10 +6,9 @@
         "long": {
             "default": "Tallaght"
         },
+        "parent": 7521314,
         "lat": 53.2859,
         "lng": -6.37344,
-        "country": "IE",
-        "state": "L",
         "population": 64282
     },
     "2962943": {
@@ -19,10 +18,9 @@
         "long": {
             "default": "Luimneach"
         },
+        "parent": 7521315,
         "lat": 52.66472,
         "lng": -8.62306,
-        "country": "IE",
-        "state": "M",
         "population": 90054
     },
     "2964180": {
@@ -32,10 +30,9 @@
         "long": {
             "default": "Gaillimh"
         },
+        "parent": 7521313,
         "lat": 53.27194,
         "lng": -9.04889,
-        "country": "IE",
-        "state": "C",
         "population": 70686
     },
     "2964506": {
@@ -45,10 +42,9 @@
         "long": {
             "default": "Dún Laoghaire"
         },
+        "parent": 7521314,
         "lat": 53.29395,
         "lng": -6.13586,
-        "country": "IE",
-        "state": "L",
         "population": 185400
     },
     "2964574": {
@@ -58,10 +54,9 @@
         "long": {
             "default": "Dublin"
         },
+        "parent": 7521314,
         "lat": 53.33306,
         "lng": -6.24889,
-        "country": "IE",
-        "state": "L",
         "population": 1024027
     },
     "2965140": {
@@ -71,10 +66,9 @@
         "long": {
             "default": "Cork"
         },
+        "parent": 7521315,
         "lat": 51.89797,
         "lng": -8.47061,
-        "country": "IE",
-        "state": "M",
         "population": 190384
     }
 }
