@@ -98,6 +98,14 @@ class Country extends Divisible
     }
 
     /**
+     * @return string
+     */
+    public function getLanguage()
+    {
+        return $this->meta['languages'][0];
+    }
+
+    /**
      * @return array
      */
     public function toArray()
@@ -111,7 +119,8 @@ class Country extends Divisible
             'phone_prefix' => $this->getPhonePrefix(),
             'currency_code' => $this->getCurrencyCode(),
             'population' => $this->getPopulation(),
-            'continent' => $this->getContinent()
+            'continent' => $this->getContinent(),
+            'language' => $this->getLanguage()
         ];
     }
 
