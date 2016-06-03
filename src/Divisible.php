@@ -7,6 +7,7 @@ use MenaraSolutions\Geographer\Contracts\ConfigInterface;
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Services\DefaultConfig;
 use MenaraSolutions\Geographer\Traits\HasConfig;
+use MenaraSolutions\Geographer\Repositories\File;
 
 /**
  * Class Divisible
@@ -34,7 +35,7 @@ abstract class Divisible implements IdentifiableInterface
     /**
      * @var string $parentClass
      */
-    protected $parentClass;
+    protected static $parentClass;
 
     /**
      * @var ConfigInterface
@@ -233,5 +234,18 @@ abstract class Divisible implements IdentifiableInterface
 
         return $this->config->getTranslator()
             ->translate($this, $this->config->getLanguage());
+    }
+
+    /**
+     * @param int|string $id
+     * @param ConfigInterface $config
+     * @return City
+     */
+    public static function build($id, $config = null)
+    {
+        $config = $config ?: new DefaultConfig();
+        $meta = File::indexSearch($id, static::$parentClass, $config->getStoragePath());
+
+        return new static($meta, $meta['parent'], $config);
     }
 }

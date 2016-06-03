@@ -12,6 +12,11 @@ class Earth extends Divisible
     protected $memberClass = Country::class;
 
     /**
+     * @var null
+     */
+    protected static $parentClass = null;
+
+    /**
      * @return MemberCollection
      */
     public function getCountries()

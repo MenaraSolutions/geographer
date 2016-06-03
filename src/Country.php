@@ -3,7 +3,6 @@
 namespace MenaraSolutions\Geographer;
 
 use MenaraSolutions\Geographer\Collections\MemberCollection;
-use MenaraSolutions\Geographer\Contracts\ConfigInterface;
 
 /**
  * Class Country
@@ -19,7 +18,7 @@ class Country extends Divisible
     /**
      * @var string
      */
-    protected $parentClass = Earth::class;
+    protected static $parentClass = Earth::class;
 
     /**
      * Get alpha2 ISO code

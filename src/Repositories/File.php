@@ -8,6 +8,8 @@ use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\State;
+use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
+use MenaraSolutions\Geographer\City;
 
 class File implements RepositoryInterface
 {
@@ -19,7 +21,7 @@ class File implements RepositoryInterface
     /**
      * @var array $paths
      */
-    protected $paths = [
+    protected static $paths = [
         Earth::class => 'countries.json',
         Country::class => 'states' . DIRECTORY_SEPARATOR . 'code.json',
         State::class => 'cities' . DIRECTORY_SEPARATOR . 'parentCode.json'
@@ -27,24 +29,33 @@ class File implements RepositoryInterface
 
     /**
      * File constructor.
-     * @param $path
+     * @param string $prefix
      */
-    public function __construct($path)
+    public function __construct($prefix)
     {
-        $this->prefix = $path;
+        $this->prefix = $prefix;
     }
 
     /**
      * @param string $class
+     * @param string $prefix
      * @param array $params
      * @return string
      * @throws MisconfigurationException
      */
-    public function getPath($class, array $params)
+    public static function getPath($class, $prefix, array $params)
     {
-        if (! isset($this->paths[$class])) throw new MisconfigurationException('This class is not supposed to load data');
+        if (! isset(self::$paths[$class])) throw new MisconfigurationException($class . ' is not supposed to load data');
 
-        return str_replace(array_keys($params), array_values($params), $this->prefix . $this->paths[$class]);
+        return str_replace(array_keys($params), array_values($params), $prefix . self::$paths[$class]);
+    }
+
+    /**
+     * @param string $prefix
+     */
+    public function setPrefix($prefix)
+    {
+        $this->prefix = $prefix;
     }
 
     /**
@@ -54,10 +65,14 @@ class File implements RepositoryInterface
      */
     public function getData($class, array $params)
     {
-        $file = $this->getPath($class, $params);
-        if (! file_exists($file)) return [];
+        $file = self::getPath($class, $this->prefix, $params);
 
-        $data = json_decode(file_get_contents($file), true);
+        try {
+            $data = self::loadJson($file);
+        } catch (FileNotFoundException $e) {
+            // Some divisions don't have data files, so we don't want to throw the exception
+            return [];
+        }
 
         if ($class == State::class && isset($params['code'])) {
             foreach ($data as $key => $meta) {
@@ -66,5 +81,40 @@ class File implements RepositoryInterface
         }
 
         return $data;
+    }
+
+    /**
+     * @param int $geonamesId
+     * @param string $class
+     * @param string $prefix
+     * @return array
+     * @throws ObjectNotFoundException
+     */
+    public static function indexSearch($geonamesId, $class, $prefix)
+    {
+        $index = static::loadJson($prefix . 'indexCity.json');
+        if (! isset($index[$geonamesId])) throw new ObjectNotFoundException('Cannot find object with id ' . $geonamesId);
+
+        $parentCode = $index[$geonamesId];
+        $path = self::getPath($class, $prefix, compact('parentCode'));
+        $members = static::loadJson($path);
+
+        foreach ($members as $member) {
+            if ($member['ids']['geonames'] == $geonamesId) return $member;
+        }
+
+        throw new ObjectNotFoundException('Cannot find meta for city #' . $geonamesId);
+    }
+
+    /**
+     * @param string $path
+     * @return array
+     * @throws ObjectNotFoundException
+     * @throws FileNotFoundException
+     */
+    protected static function loadJson($path)
+    {
+        if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
+        return json_decode(file_get_contents($path), true);
     }
 }

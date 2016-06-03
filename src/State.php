@@ -16,7 +16,7 @@ class State extends Divisible
     /**
      * @var string
      */
-    protected $parentClass = Country::class;
+    protected static $parentClass = Country::class;
 
     /**
      * Get Geonames code
