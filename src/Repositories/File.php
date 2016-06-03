@@ -27,6 +27,13 @@ class File implements RepositoryInterface
     ];
 
     /**
+     * @var array
+     */
+    protected static $indexes = [
+        State::class => 'indexState.json'
+    ];
+
+    /**
      * File constructor.
      * @param string $prefix
      */
@@ -92,8 +99,8 @@ class File implements RepositoryInterface
      */
     public static function indexSearch($id, $class, $prefix)
     {
-        $index = static::loadJson($prefix . 'indexCity.json');
-        if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $geonamesId);
+        $index = static::loadJson($prefix . self::$indexes[$class]);
+        if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
 
         $parentCode = $index[$id];
         $path = self::getPath($class, $prefix, compact('parentCode'));
