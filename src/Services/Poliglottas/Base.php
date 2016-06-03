@@ -9,6 +9,7 @@ use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
+use MenaraSolutions\Geographer\City;
 
 /**
  * Class Base
@@ -30,9 +31,10 @@ abstract class Base implements PoliglottaInterface
      * @var array
      */
     protected $prefixes = [
+        Earth::class => 'planet',
         Country::class => 'country',
         State::class => 'state',
-        Earth::class => 'planet'
+        City::class => 'city'
     ];
 
     /**

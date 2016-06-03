@@ -23,9 +23,10 @@ class StateTest extends Test
             $states = $country->getStates();
 
             foreach ($states as $state) {
-                $array = $state->toArray();
+                $array = $state->inflict('from')->setLanguage('ru')->toArray();
                 $this->assertTrue(isset($array['code']) && is_int($array['code']));
                 $this->assertTrue(isset($array['name']) && is_string($array['name']));
+                echo $array['name'] . "\n";
             }
         }
     }

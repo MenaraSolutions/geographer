@@ -154,12 +154,14 @@ Geographer::getCountries()->useShortNames()->toArray();
 | Spanish   | ✓            | ✓         | ✓           |            
 | Italian   | ✓            | ✓         | ✓           |
 | French    | ✓            | ✓         | ✓           |
+| Chinese Mandarin | ✓            | ✓         | ✓           |
 | Bahasa Indonesia | WIP   | WIP        | WIP          |
 
 ## Todo
 
-1. Add memcached support
-2. Add Russian and Spanish versions for all countries, states and major cities
+1. Add Memcached repository driver
+2. Add translated cities
+3. Add unit tests (in addition to existing integration tests)
 
 ## Projects using Geographer
 

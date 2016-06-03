@@ -70,6 +70,7 @@ abstract class Divisible implements IdentifiableInterface
      */
     public function getMembers()
     {
+        if (! $this->memberClass) return false;
         if (! $this->members) $this->loadMembers();
 
         return $this->members;
