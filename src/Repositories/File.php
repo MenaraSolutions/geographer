@@ -9,7 +9,6 @@ use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\State;
 use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
-use MenaraSolutions\Geographer\City;
 
 class File implements RepositoryInterface
 {
@@ -74,6 +73,7 @@ class File implements RepositoryInterface
             return [];
         }
 
+        // ToDo: remove this logic from here
         if ($class == State::class && isset($params['code'])) {
             foreach ($data as $key => $meta) {
                 if ($meta['parent'] != $params['code']) unset($data[$key]);
@@ -84,26 +84,26 @@ class File implements RepositoryInterface
     }
 
     /**
-     * @param int $geonamesId
+     * @param int $id
      * @param string $class
      * @param string $prefix
      * @return array
      * @throws ObjectNotFoundException
      */
-    public static function indexSearch($geonamesId, $class, $prefix)
+    public static function indexSearch($id, $class, $prefix)
     {
         $index = static::loadJson($prefix . 'indexCity.json');
-        if (! isset($index[$geonamesId])) throw new ObjectNotFoundException('Cannot find object with id ' . $geonamesId);
+        if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $geonamesId);
 
-        $parentCode = $index[$geonamesId];
+        $parentCode = $index[$id];
         $path = self::getPath($class, $prefix, compact('parentCode'));
         $members = static::loadJson($path);
 
         foreach ($members as $member) {
-            if ($member['ids']['geonames'] == $geonamesId) return $member;
+            if ($member['ids']['geonames'] == $id) return $member;
         }
 
-        throw new ObjectNotFoundException('Cannot find meta for city #' . $geonamesId);
+        throw new ObjectNotFoundException('Cannot find meta for division #' . $id);
     }
 
     /**
