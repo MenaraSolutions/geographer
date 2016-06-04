@@ -102,14 +102,9 @@ class TranslationAgency implements TranslationAgencyInterface
      * @param IdentifiableInterface $subject
      * @param string $language
      * @return string
-     * @throws MisconfigurationException
      */
     public function translate(IdentifiableInterface $subject, $language = 'en')
     {
-        if (! isset($this->languages[$language])) {
-            throw new MisconfigurationException('No hablo ' . $language . ', sorry');
-        }
-
         $translator = $this->getTranslator($language);
 
         return $translator->translate($subject, $this->form, $this->prepositions);
@@ -118,9 +113,14 @@ class TranslationAgency implements TranslationAgencyInterface
     /**
      * @param string $language
      * @return PoliglottaInterface
+     * @throws MisconfigurationException
      */
     public function getTranslator($language)
     {
+        if (! isset($this->languages[$language])) {
+            throw new MisconfigurationException('No hablo ' . $language . ', sorry');
+        }
+
         if (! isset($this->translators[$language])) {
             $this->translators[$language] = new $this->languages[$language]($this->basePath);
         }
