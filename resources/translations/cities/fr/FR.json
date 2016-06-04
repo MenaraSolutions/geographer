@@ -1,0 +1,650 @@
+[
+    {
+        "code": "2967849",
+        "long": {
+            "default": "Vitry-sur-Seine"
+        }
+    },
+    {
+        "code": "2968254",
+        "long": {
+            "default": "Villeurbanne"
+        }
+    },
+    {
+        "code": "2969679",
+        "long": {
+            "default": "Versailles"
+        }
+    },
+    {
+        "code": "2970072",
+        "long": {
+            "default": "Vénissieux"
+        }
+    },
+    {
+        "code": "2970777",
+        "long": {
+            "default": "Vannes"
+        }
+    },
+    {
+        "code": "2971053",
+        "long": {
+            "default": "Valence"
+        }
+    },
+    {
+        "code": "2971549",
+        "long": {
+            "default": "Troyes"
+        }
+    },
+    {
+        "code": "2972191",
+        "long": {
+            "default": "Tours"
+        }
+    },
+    {
+        "code": "2972284",
+        "long": {
+            "default": "Tourcoing"
+        }
+    },
+    {
+        "code": "2972315",
+        "long": {
+            "default": "Toulouse"
+        }
+    },
+    {
+        "code": "2972328",
+        "long": {
+            "default": "Toulon"
+        }
+    },
+    {
+        "code": "2973385",
+        "long": {
+            "default": "Tarbes"
+        }
+    },
+    {
+        "code": "2973783",
+        "long": {
+            "default": "Strasbourg"
+        }
+    },
+    {
+        "code": "2976043",
+        "long": {
+            "default": "Sarcelles"
+        }
+    },
+    {
+        "code": "2977295",
+        "long": {
+            "default": "Egalité-sur-Somme"
+        }
+    },
+    {
+        "code": "2977921",
+        "long": {
+            "default": "Saint-Nazaire"
+        }
+    },
+    {
+        "code": "2978179",
+        "long": {
+            "default": "Saint-Maur-des-Fossés"
+        }
+    },
+    {
+        "code": "2978640",
+        "long": {
+            "default": "Saint-Malo"
+        }
+    },
+    {
+        "code": "2980291",
+        "long": {
+            "default": "Saint-Étienne"
+        }
+    },
+    {
+        "code": "2980916",
+        "long": {
+            "default": "Saint-Denis"
+        }
+    },
+    {
+        "code": "2981280",
+        "long": {
+            "default": "Saint-Brieuc"
+        }
+    },
+    {
+        "code": "2982235",
+        "long": {
+            "default": "Rueil-Malmaison"
+        }
+    },
+    {
+        "code": "2982652",
+        "long": {
+            "default": "Rouen"
+        }
+    },
+    {
+        "code": "2982681",
+        "long": {
+            "default": "Roubaix"
+        }
+    },
+    {
+        "code": "2983990",
+        "long": {
+            "default": "Rennes"
+        }
+    },
+    {
+        "code": "2984701",
+        "long": {
+            "default": "Quimper"
+        }
+    },
+    {
+        "code": "2986495",
+        "long": {
+            "default": "Poitiers"
+        }
+    },
+    {
+        "code": "2987805",
+        "long": {
+            "default": "Pessac"
+        }
+    },
+    {
+        "code": "2987914",
+        "long": {
+            "default": "Perpignan"
+        }
+    },
+    {
+        "code": "2988358",
+        "long": {
+            "default": "Pau"
+        }
+    },
+    {
+        "code": "2988507",
+        "long": {
+            "default": "Paris"
+        }
+    },
+    {
+        "code": "2989317",
+        "long": {
+            "default": "Orléans"
+        }
+    },
+    {
+        "code": "2990189",
+        "long": {
+            "default": "Noisy-le-Grand"
+        }
+    },
+    {
+        "code": "2990355",
+        "long": {
+            "default": "Niort"
+        }
+    },
+    {
+        "code": "2990363",
+        "long": {
+            "default": "Nîmes"
+        }
+    },
+    {
+        "code": "2990440",
+        "long": {
+            "default": "Nice"
+        }
+    },
+    {
+        "code": "2990611",
+        "long": {
+            "default": "Neuilly-sur-Seine"
+        }
+    },
+    {
+        "code": "2990919",
+        "long": {
+            "default": "Narbonne"
+        }
+    },
+    {
+        "code": "2990969",
+        "long": {
+            "default": "Nantes"
+        }
+    },
+    {
+        "code": "2990970",
+        "long": {
+            "default": "Nanterre"
+        }
+    },
+    {
+        "code": "2990999",
+        "long": {
+            "default": "Nancy"
+        }
+    },
+    {
+        "code": "2991214",
+        "long": {
+            "default": "Mulhouse"
+        }
+    },
+    {
+        "code": "2992090",
+        "long": {
+            "default": "Montreuil"
+        }
+    },
+    {
+        "code": "2992166",
+        "long": {
+            "default": "Montpellier"
+        }
+    },
+    {
+        "code": "2993002",
+        "long": {
+            "default": "Montauban"
+        }
+    },
+    {
+        "code": "2994160",
+        "long": {
+            "default": "Metz"
+        }
+    },
+    {
+        "code": "2994393",
+        "long": {
+            "default": "Mérignac"
+        }
+    },
+    {
+        "code": "2995469",
+        "long": {
+            "default": "Marseille"
+        }
+    },
+    {
+        "code": "2996944",
+        "long": {
+            "default": "Lyon"
+        }
+    },
+    {
+        "code": "2997577",
+        "long": {
+            "default": "Lorient"
+        }
+    },
+    {
+        "code": "2998286",
+        "long": {
+            "default": "Limoges"
+        }
+    },
+    {
+        "code": "2998324",
+        "long": {
+            "default": "Lille"
+        }
+    },
+    {
+        "code": "2998975",
+        "long": {
+            "default": "Levallois-Perret"
+        }
+    },
+    {
+        "code": "3003603",
+        "long": {
+            "default": "Le Mans"
+        }
+    },
+    {
+        "code": "3003796",
+        "long": {
+            "default": "Le Havre"
+        }
+    },
+    {
+        "code": "3006414",
+        "long": {
+            "default": "La Seyne-sur-Mer"
+        }
+    },
+    {
+        "code": "3006767",
+        "long": {
+            "default": "La Roche-sur-Yon"
+        }
+    },
+    {
+        "code": "3006787",
+        "long": {
+            "default": "La Rochelle"
+        }
+    },
+    {
+        "code": "3012621",
+        "long": {
+            "default": "Ivry-sur-Seine"
+        }
+    },
+    {
+        "code": "3012649",
+        "long": {
+            "default": "Issy-les-Moulineaux"
+        }
+    },
+    {
+        "code": "3012937",
+        "long": {
+            "default": "Hyères"
+        }
+    },
+    {
+        "code": "3014728",
+        "long": {
+            "default": "Grenoble"
+        }
+    },
+    {
+        "code": "3017253",
+        "long": {
+            "default": "Fréjus"
+        }
+    },
+    {
+        "code": "3017910",
+        "long": {
+            "default": "Fontenay-sous-Bois"
+        }
+    },
+    {
+        "code": "3019256",
+        "long": {
+            "default": "Évry"
+        }
+    },
+    {
+        "code": "3019265",
+        "long": {
+            "default": "Évreux"
+        }
+    },
+    {
+        "code": "3020686",
+        "long": {
+            "default": "Dunkerque"
+        }
+    },
+    {
+        "code": "3020839",
+        "long": {
+            "default": "Drancy"
+        }
+    },
+    {
+        "code": "3021372",
+        "long": {
+            "default": "Dijon"
+        }
+    },
+    {
+        "code": "3022530",
+        "long": {
+            "default": "Créteil"
+        }
+    },
+    {
+        "code": "3024266",
+        "long": {
+            "default": "Colombes"
+        }
+    },
+    {
+        "code": "3024297",
+        "long": {
+            "default": "Colmar"
+        }
+    },
+    {
+        "code": "3024597",
+        "long": {
+            "default": "Clichy"
+        }
+    },
+    {
+        "code": "3024635",
+        "long": {
+            "default": "Clermont-Ferrand"
+        }
+    },
+    {
+        "code": "3024783",
+        "long": {
+            "default": "Clamart"
+        }
+    },
+    {
+        "code": "3026204",
+        "long": {
+            "default": "Châteauroux"
+        }
+    },
+    {
+        "code": "3026613",
+        "long": {
+            "default": "Charleville-Mézières"
+        }
+    },
+    {
+        "code": "3027105",
+        "long": {
+            "default": "Champigny-sur-Marne"
+        }
+    },
+    {
+        "code": "3027422",
+        "long": {
+            "default": "Chambéry"
+        }
+    },
+    {
+        "code": "3027487",
+        "long": {
+            "default": "Châlons-en-Champagne"
+        }
+    },
+    {
+        "code": "3027883",
+        "long": {
+            "default": "Cergy"
+        }
+    },
+    {
+        "code": "3028808",
+        "long": {
+            "default": "Cannes"
+        }
+    },
+    {
+        "code": "3029162",
+        "long": {
+            "default": "Calais"
+        }
+    },
+    {
+        "code": "3029241",
+        "long": {
+            "default": "Caen"
+        }
+    },
+    {
+        "code": "3029974",
+        "long": {
+            "default": "Brive-la-Gaillarde"
+        }
+    },
+    {
+        "code": "3030300",
+        "long": {
+            "default": "Brest"
+        }
+    },
+    {
+        "code": "3031005",
+        "long": {
+            "default": "Bourges"
+        }
+    },
+    {
+        "code": "3031137",
+        "long": {
+            "default": "Boulogne-Billancourt"
+        }
+    },
+    {
+        "code": "3031582",
+        "long": {
+            "default": "Bordeaux"
+        }
+    },
+    {
+        "code": "3032213",
+        "long": {
+            "default": "Blois"
+        }
+    },
+    {
+        "code": "3032833",
+        "long": {
+            "default": "Béziers"
+        }
+    },
+    {
+        "code": "3033123",
+        "long": {
+            "default": "Besançon"
+        }
+    },
+    {
+        "code": "3033791",
+        "long": {
+            "default": "Belfort"
+        }
+    },
+    {
+        "code": "3034006",
+        "long": {
+            "default": "Beauvais"
+        }
+    },
+    {
+        "code": "3035681",
+        "long": {
+            "default": "Avignon"
+        }
+    },
+    {
+        "code": "3036145",
+        "long": {
+            "default": "Aulnay-sous-Bois"
+        }
+    },
+    {
+        "code": "3036386",
+        "long": {
+            "default": "Aubervilliers"
+        }
+    },
+    {
+        "code": "3036938",
+        "long": {
+            "default": "Arles"
+        }
+    },
+    {
+        "code": "3037044",
+        "long": {
+            "default": "Argenteuil"
+        }
+    },
+    {
+        "code": "3037423",
+        "long": {
+            "default": "Antony"
+        }
+    },
+    {
+        "code": "3037456",
+        "long": {
+            "default": "Antibes"
+        }
+    },
+    {
+        "code": "3037656",
+        "long": {
+            "default": "Angers"
+        }
+    },
+    {
+        "code": "3037854",
+        "long": {
+            "default": "Amiens"
+        }
+    },
+    {
+        "code": "3038261",
+        "long": {
+            "default": "Albi"
+        }
+    },
+    {
+        "code": "3038334",
+        "long": {
+            "default": "Ajaccio"
+        }
+    },
+    {
+        "code": "3038354",
+        "long": {
+            "default": "Aix-en-Provence"
+        }
+    },
+    {
+        "code": "7284890",
+        "long": {
+            "default": "Marseille 10"
+        }
+    },
+    {
+        "code": "8555643",
+        "long": {
+            "default": "Cergy-Pontoise"
+        }
+    }
+]

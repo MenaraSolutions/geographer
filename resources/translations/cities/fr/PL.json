@@ -1,0 +1,368 @@
+[
+    {
+        "code": "753866",
+        "long": {
+            "default": "Zamość"
+        }
+    },
+    {
+        "code": "756135",
+        "long": {
+            "default": "Varsovie"
+        }
+    },
+    {
+        "code": "757026",
+        "long": {
+            "default": "Tarnów"
+        }
+    },
+    {
+        "code": "758445",
+        "long": {
+            "default": "Stalowa Wola"
+        }
+    },
+    {
+        "code": "759412",
+        "long": {
+            "default": "Siedlce"
+        }
+    },
+    {
+        "code": "759734",
+        "long": {
+            "default": "Rzeszów"
+        }
+    },
+    {
+        "code": "760778",
+        "long": {
+            "default": "Radom"
+        }
+    },
+    {
+        "code": "762909",
+        "long": {
+            "default": "Ostrołęka"
+        }
+    },
+    {
+        "code": "763534",
+        "long": {
+            "default": "Nowy Sącz"
+        }
+    },
+    {
+        "code": "764849",
+        "long": {
+            "default": "Mielec"
+        }
+    },
+    {
+        "code": "765876",
+        "long": {
+            "default": "Lublin"
+        }
+    },
+    {
+        "code": "766027",
+        "long": {
+            "default": "Łomża"
+        }
+    },
+    {
+        "code": "769250",
+        "long": {
+            "default": "Kielce"
+        }
+    },
+    {
+        "code": "776069",
+        "long": {
+            "default": "Białystok"
+        }
+    },
+    {
+        "code": "3080165",
+        "long": {
+            "default": "Zielona Góra"
+        }
+    },
+    {
+        "code": "3080251",
+        "long": {
+            "default": "Zgierz"
+        }
+    },
+    {
+        "code": "3080985",
+        "long": {
+            "default": "Zabrze"
+        }
+    },
+    {
+        "code": "3081368",
+        "long": {
+            "default": "Wrocław"
+        }
+    },
+    {
+        "code": "3081741",
+        "long": {
+            "default": "Włocławek"
+        }
+    },
+    {
+        "code": "3082707",
+        "long": {
+            "default": "Wałbrzych"
+        }
+    },
+    {
+        "code": "3082914",
+        "long": {
+            "default": "Tychy"
+        }
+    },
+    {
+        "code": "3083271",
+        "long": {
+            "default": "Toruń"
+        }
+    },
+    {
+        "code": "3083426",
+        "long": {
+            "default": "Tczew"
+        }
+    },
+    {
+        "code": "3083829",
+        "long": {
+            "default": "Szczecin"
+        }
+    },
+    {
+        "code": "3083988",
+        "long": {
+            "default": "Świętochłowice"
+        }
+    },
+    {
+        "code": "3084840",
+        "long": {
+            "default": "Stargard Szczeciński"
+        }
+    },
+    {
+        "code": "3085128",
+        "long": {
+            "default": "Sosnowiec"
+        }
+    },
+    {
+        "code": "3085450",
+        "long": {
+            "default": "Słupsk"
+        }
+    },
+    {
+        "code": "3086586",
+        "long": {
+            "default": "Rybnik"
+        }
+    },
+    {
+        "code": "3086800",
+        "long": {
+            "default": "Ruda Śląska"
+        }
+    },
+    {
+        "code": "3087584",
+        "long": {
+            "default": "Racibórz"
+        }
+    },
+    {
+        "code": "3088825",
+        "long": {
+            "default": "Płock"
+        }
+    },
+    {
+        "code": "3088972",
+        "long": {
+            "default": "Piotrków Trybunalski"
+        }
+    },
+    {
+        "code": "3089578",
+        "long": {
+            "default": "Pabianice"
+        }
+    },
+    {
+        "code": "3089684",
+        "long": {
+            "default": "Ostrów Wielkopolski"
+        }
+    },
+    {
+        "code": "3090048",
+        "long": {
+            "default": "Opole"
+        }
+    },
+    {
+        "code": "3092931",
+        "long": {
+            "default": "Lubin"
+        }
+    },
+    {
+        "code": "3093133",
+        "long": {
+            "default": "Łódź"
+        }
+    },
+    {
+        "code": "3094802",
+        "long": {
+            "default": "Cracovie"
+        }
+    },
+    {
+        "code": "3095049",
+        "long": {
+            "default": "Koszalin"
+        }
+    },
+    {
+        "code": "3095321",
+        "long": {
+            "default": "Konin"
+        }
+    },
+    {
+        "code": "3096472",
+        "long": {
+            "default": "Katowice"
+        }
+    },
+    {
+        "code": "3096880",
+        "long": {
+            "default": "Kalisz"
+        }
+    },
+    {
+        "code": "3097257",
+        "long": {
+            "default": "Jelenia Góra"
+        }
+    },
+    {
+        "code": "3097391",
+        "long": {
+            "default": "Jastrzębie Zdrój"
+        }
+    },
+    {
+        "code": "3097872",
+        "long": {
+            "default": "Inowrocław"
+        }
+    },
+    {
+        "code": "3098218",
+        "long": {
+            "default": "Grudziądz"
+        }
+    },
+    {
+        "code": "3098722",
+        "long": {
+            "default": "Gorzów Wielkopolski"
+        }
+    },
+    {
+        "code": "3099112",
+        "long": {
+            "default": "Gniezno"
+        }
+    },
+    {
+        "code": "3099213",
+        "long": {
+            "default": "Głogów"
+        }
+    },
+    {
+        "code": "3099424",
+        "long": {
+            "default": "Gdynia"
+        }
+    },
+    {
+        "code": "3099434",
+        "long": {
+            "default": "Gdańsk"
+        }
+    },
+    {
+        "code": "3099759",
+        "long": {
+            "default": "Elbląg"
+        }
+    },
+    {
+        "code": "3100796",
+        "long": {
+            "default": "Dąbrowa Górnicza"
+        }
+    },
+    {
+        "code": "3100946",
+        "long": {
+            "default": "Częstochowa"
+        }
+    },
+    {
+        "code": "3101619",
+        "long": {
+            "default": "Chorzów"
+        }
+    },
+    {
+        "code": "3101950",
+        "long": {
+            "default": "Bytom"
+        }
+    },
+    {
+        "code": "3102014",
+        "long": {
+            "default": "Bydgoszcz"
+        }
+    },
+    {
+        "code": "3103402",
+        "long": {
+            "default": "Bielsko-Biała"
+        }
+    },
+    {
+        "code": "3103709",
+        "long": {
+            "default": "Bełchatów"
+        }
+    },
+    {
+        "code": "3103719",
+        "long": {
+            "default": "Będzin"
+        }
+    }
+]

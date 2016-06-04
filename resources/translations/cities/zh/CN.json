@@ -1,0 +1,3044 @@
+[
+    {
+        "code": "1279715",
+        "long": {
+            "default": "桑珠孜区"
+        }
+    },
+    {
+        "code": "1279945",
+        "long": {
+            "default": "酒泉市"
+        }
+    },
+    {
+        "code": "1280281",
+        "long": {
+            "default": "Changdu"
+        }
+    },
+    {
+        "code": "1280737",
+        "long": {
+            "default": "拉萨"
+        }
+    },
+    {
+        "code": "1280849",
+        "long": {
+            "default": "喀什"
+        }
+    },
+    {
+        "code": "1280957",
+        "long": {
+            "default": "嘉峪关市"
+        }
+    },
+    {
+        "code": "1281019",
+        "long": {
+            "default": "和田市"
+        }
+    },
+    {
+        "code": "1281368",
+        "long": {
+            "default": "德庆"
+        }
+    },
+    {
+        "code": "1529102",
+        "long": {
+            "default": "乌鲁木齐"
+        }
+    },
+    {
+        "code": "1529114",
+        "long": {
+            "default": "吐鲁番市"
+        }
+    },
+    {
+        "code": "1529195",
+        "long": {
+            "default": "石河子市"
+        }
+    },
+    {
+        "code": "1529363",
+        "long": {
+            "default": "库车县"
+        }
+    },
+    {
+        "code": "1529376",
+        "long": {
+            "default": "库尔勒"
+        }
+    },
+    {
+        "code": "1529484",
+        "long": {
+            "default": "哈密地区"
+        }
+    },
+    {
+        "code": "1529569",
+        "long": {
+            "default": "延安北路"
+        }
+    },
+    {
+        "code": "1529641",
+        "long": {
+            "default": "Ala’er"
+        }
+    },
+    {
+        "code": "1529651",
+        "long": {
+            "default": "阿勒泰市"
+        }
+    },
+    {
+        "code": "1529660",
+        "long": {
+            "default": "阿克苏市"
+        }
+    },
+    {
+        "code": "1783621",
+        "long": {
+            "default": "遵义市"
+        }
+    },
+    {
+        "code": "1783633",
+        "long": {
+            "default": "邹城市"
+        }
+    },
+    {
+        "code": "1783683",
+        "long": {
+            "default": "雁江"
+        }
+    },
+    {
+        "code": "1783745",
+        "long": {
+            "default": "自贡市"
+        }
+    },
+    {
+        "code": "1783763",
+        "long": {
+            "default": "株洲"
+        }
+    },
+    {
+        "code": "1783873",
+        "long": {
+            "default": "驻马店市"
+        }
+    },
+    {
+        "code": "1783934",
+        "long": {
+            "default": "商丘市"
+        }
+    },
+    {
+        "code": "1783940",
+        "long": {
+            "default": "诸暨"
+        }
+    },
+    {
+        "code": "1783988",
+        "long": {
+            "default": "密州"
+        }
+    },
+    {
+        "code": "1784130",
+        "long": {
+            "default": "周口市"
+        }
+    },
+    {
+        "code": "1784185",
+        "long": {
+            "default": "玉溪市"
+        }
+    },
+    {
+        "code": "1784310",
+        "long": {
+            "default": "中枢"
+        }
+    },
+    {
+        "code": "1784553",
+        "long": {
+            "default": "长兴县"
+        }
+    },
+    {
+        "code": "1784580",
+        "long": {
+            "default": "真州"
+        }
+    },
+    {
+        "code": "1784642",
+        "long": {
+            "default": "镇江"
+        }
+    },
+    {
+        "code": "1784647",
+        "long": {
+            "default": "招宝山"
+        }
+    },
+    {
+        "code": "1784658",
+        "long": {
+            "default": "郑州"
+        }
+    },
+    {
+        "code": "1784841",
+        "long": {
+            "default": "昭通市"
+        }
+    },
+    {
+        "code": "1784853",
+        "long": {
+            "default": "肇庆市"
+        }
+    },
+    {
+        "code": "1784929",
+        "long": {
+            "default": "赵各庄"
+        }
+    },
+    {
+        "code": "1784953",
+        "long": {
+            "default": "罗峰"
+        }
+    },
+    {
+        "code": "1784990",
+        "long": {
+            "default": "湛江市"
+        }
+    },
+    {
+        "code": "1785018",
+        "long": {
+            "default": "漳州市"
+        }
+    },
+    {
+        "code": "1785036",
+        "long": {
+            "default": "张掖"
+        }
+    },
+    {
+        "code": "1785286",
+        "long": {
+            "default": "淄博"
+        }
+    },
+    {
+        "code": "1785294",
+        "long": {
+            "default": "安阳市"
+        }
+    },
+    {
+        "code": "1785453",
+        "long": {
+            "default": "枣庄市"
+        }
+    },
+    {
+        "code": "1785545",
+        "long": {
+            "default": "余姚"
+        }
+    },
+    {
+        "code": "1785566",
+        "long": {
+            "default": "颍川"
+        }
+    },
+    {
+        "code": "1785572",
+        "long": {
+            "default": "余下"
+        }
+    },
+    {
+        "code": "1785623",
+        "long": {
+            "default": "玉山"
+        }
+    },
+    {
+        "code": "1785698",
+        "long": {
+            "default": "云梦城关镇"
+        }
+    },
+    {
+        "code": "1785710",
+        "long": {
+            "default": "景洪市"
+        }
+    },
+    {
+        "code": "1785725",
+        "long": {
+            "default": "云浮"
+        }
+    },
+    {
+        "code": "1785777",
+        "long": {
+            "default": "榆林市"
+        }
+    },
+    {
+        "code": "1785781",
+        "long": {
+            "default": "玉林市"
+        }
+    },
+    {
+        "code": "1786067",
+        "long": {
+            "default": "园林"
+        }
+    },
+    {
+        "code": "1786112",
+        "long": {
+            "default": "河源市"
+        }
+    },
+    {
+        "code": "1786357",
+        "long": {
+            "default": "永丰"
+        }
+    },
+    {
+        "code": "1786378",
+        "long": {
+            "default": "永川"
+        }
+    },
+    {
+        "code": "1786587",
+        "long": {
+            "default": "颖上城关镇"
+        }
+    },
+    {
+        "code": "1786640",
+        "long": {
+            "default": "城中"
+        }
+    },
+    {
+        "code": "1786657",
+        "long": {
+            "default": "银川"
+        }
+    },
+    {
+        "code": "1786760",
+        "long": {
+            "default": "宜城"
+        }
+    },
+    {
+        "code": "1786764",
+        "long": {
+            "default": "宜昌市"
+        }
+    },
+    {
+        "code": "1786770",
+        "long": {
+            "default": "宜宾"
+        }
+    },
+    {
+        "code": "1786855",
+        "long": {
+            "default": "崖头"
+        }
+    },
+    {
+        "code": "1787093",
+        "long": {
+            "default": "烟台市"
+        }
+    },
+    {
+        "code": "1787144",
+        "long": {
+            "default": "阎良"
+        }
+    },
+    {
+        "code": "1787227",
+        "long": {
+            "default": "扬州市"
+        }
+    },
+    {
+        "code": "1787323",
+        "long": {
+            "default": "阳朔"
+        }
+    },
+    {
+        "code": "1787437",
+        "long": {
+            "default": "杨柳青"
+        }
+    },
+    {
+        "code": "1787746",
+        "long": {
+            "default": "盐城"
+        }
+    },
+    {
+        "code": "1787824",
+        "long": {
+            "default": "徐州"
+        }
+    },
+    {
+        "code": "1787837",
+        "long": {
+            "default": "徐城"
+        }
+    },
+    {
+        "code": "1787901",
+        "long": {
+            "default": "巡场"
+        }
+    },
+    {
+        "code": "1788046",
+        "long": {
+            "default": "将官池"
+        }
+    },
+    {
+        "code": "1788245",
+        "long": {
+            "default": "秀英"
+        }
+    },
+    {
+        "code": "1788402",
+        "long": {
+            "default": "雄州"
+        }
+    },
+    {
+        "code": "1788450",
+        "long": {
+            "default": "Hsin-hsien-ch’eng"
+        }
+    },
+    {
+        "code": "1788522",
+        "long": {
+            "default": "汉城"
+        }
+    },
+    {
+        "code": "1788572",
+        "long": {
+            "default": "南干道"
+        }
+    },
+    {
+        "code": "1788638",
+        "long": {
+            "default": "新市"
+        }
+    },
+    {
+        "code": "1788694",
+        "long": {
+            "default": "连云港"
+        }
+    },
+    {
+        "code": "1788852",
+        "long": {
+            "default": "西宁"
+        }
+    },
+    {
+        "code": "1788869",
+        "long": {
+            "default": "上梅"
+        }
+    },
+    {
+        "code": "1788927",
+        "long": {
+            "default": "邢台市"
+        }
+    },
+    {
+        "code": "1789065",
+        "long": {
+            "default": "安康"
+        }
+    },
+    {
+        "code": "1789273",
+        "long": {
+            "default": "三水"
+        }
+    },
+    {
+        "code": "1789427",
+        "long": {
+            "default": "娲城"
+        }
+    },
+    {
+        "code": "1789647",
+        "long": {
+            "default": "西昌市"
+        }
+    },
+    {
+        "code": "1789897",
+        "long": {
+            "default": "紫荆路"
+        }
+    },
+    {
+        "code": "1790100",
+        "long": {
+            "default": "孝陵卫街道"
+        }
+    },
+    {
+        "code": "1790254",
+        "long": {
+            "default": "孝感市"
+        }
+    },
+    {
+        "code": "1790353",
+        "long": {
+            "default": "咸阳"
+        }
+    },
+    {
+        "code": "1790379",
+        "long": {
+            "default": "咸水沽"
+        }
+    },
+    {
+        "code": "1790392",
+        "long": {
+            "default": "仙女"
+        }
+    },
+    {
+        "code": "1790413",
+        "long": {
+            "default": "仙居"
+        }
+    },
+    {
+        "code": "1790437",
+        "long": {
+            "default": "珠海市"
+        }
+    },
+    {
+        "code": "1790451",
+        "long": {
+            "default": "文星"
+        }
+    },
+    {
+        "code": "1790471",
+        "long": {
+            "default": "湘乡"
+        }
+    },
+    {
+        "code": "1790492",
+        "long": {
+            "default": "湘潭市"
+        }
+    },
+    {
+        "code": "1790587",
+        "long": {
+            "default": "襄樊"
+        }
+    },
+    {
+        "code": "1790601",
+        "long": {
+            "default": "襄城"
+        }
+    },
+    {
+        "code": "1790630",
+        "long": {
+            "default": "西安"
+        }
+    },
+    {
+        "code": "1790645",
+        "long": {
+            "default": "厦门市"
+        }
+    },
+    {
+        "code": "1790840",
+        "long": {
+            "default": "梧州市"
+        }
+    },
+    {
+        "code": "1790923",
+        "long": {
+            "default": "无锡"
+        }
+    },
+    {
+        "code": "1791056",
+        "long": {
+            "default": "东阳"
+        }
+    },
+    {
+        "code": "1791121",
+        "long": {
+            "default": "常德"
+        }
+    },
+    {
+        "code": "1791236",
+        "long": {
+            "default": "芜湖市"
+        }
+    },
+    {
+        "code": "1791247",
+        "long": {
+            "default": "武汉"
+        }
+    },
+    {
+        "code": "1791347",
+        "long": {
+            "default": "五城"
+        }
+    },
+    {
+        "code": "1791388",
+        "long": {
+            "default": "温州市"
+        }
+    },
+    {
+        "code": "1791464",
+        "long": {
+            "default": "温岭"
+        }
+    },
+    {
+        "code": "1791536",
+        "long": {
+            "default": "天福"
+        }
+    },
+    {
+        "code": "1791636",
+        "long": {
+            "default": "渭南"
+        }
+    },
+    {
+        "code": "1791673",
+        "long": {
+            "default": "威海"
+        }
+    },
+    {
+        "code": "1791681",
+        "long": {
+            "default": "潍坊市"
+        }
+    },
+    {
+        "code": "1791779",
+        "long": {
+            "default": "万宁市"
+        }
+    },
+    {
+        "code": "1792087",
+        "long": {
+            "default": "隐珠"
+        }
+    },
+    {
+        "code": "1792359",
+        "long": {
+            "default": "黄山"
+        }
+    },
+    {
+        "code": "1792516",
+        "long": {
+            "default": "娄山关"
+        }
+    },
+    {
+        "code": "1792520",
+        "long": {
+            "default": "通州"
+        }
+    },
+    {
+        "code": "1792585",
+        "long": {
+            "default": "福鼎"
+        }
+    },
+    {
+        "code": "1792621",
+        "long": {
+            "default": "T’ung-ling-hsien"
+        }
+    },
+    {
+        "code": "1792692",
+        "long": {
+            "default": "潼川"
+        }
+    },
+    {
+        "code": "1792892",
+        "long": {
+            "default": "天水"
+        }
+    },
+    {
+        "code": "1792916",
+        "long": {
+            "default": "天彭"
+        }
+    },
+    {
+        "code": "1792947",
+        "long": {
+            "default": "天津"
+        }
+    },
+    {
+        "code": "1793036",
+        "long": {
+            "default": "滕州"
+        }
+    },
+    {
+        "code": "1793230",
+        "long": {
+            "default": "潭头"
+        }
+    },
+    {
+        "code": "1793346",
+        "long": {
+            "default": "唐山市"
+        }
+    },
+    {
+        "code": "1793364",
+        "long": {
+            "default": "塘平"
+        }
+    },
+    {
+        "code": "1793385",
+        "long": {
+            "default": "唐家庄"
+        }
+    },
+    {
+        "code": "1793419",
+        "long": {
+            "default": "滨河"
+        }
+    },
+    {
+        "code": "1793424",
+        "long": {
+            "default": "塘沽"
+        }
+    },
+    {
+        "code": "1793505",
+        "long": {
+            "default": "泰州市"
+        }
+    },
+    {
+        "code": "1793511",
+        "long": {
+            "default": "太原"
+        }
+    },
+    {
+        "code": "1793700",
+        "long": {
+            "default": "台城"
+        }
+    },
+    {
+        "code": "1793743",
+        "long": {
+            "default": "宿州市"
+        }
+    },
+    {
+        "code": "1793879",
+        "long": {
+            "default": "随州市"
+        }
+    },
+    {
+        "code": "1793889",
+        "long": {
+            "default": "Sui-ch’i-k’ou"
+        }
+    },
+    {
+        "code": "1793900",
+        "long": {
+            "default": "遂宁"
+        }
+    },
+    {
+        "code": "1794903",
+        "long": {
+            "default": "十堰"
+        }
+    },
+    {
+        "code": "1794947",
+        "long": {
+            "default": "石湾"
+        }
+    },
+    {
+        "code": "1795055",
+        "long": {
+            "default": "Shih-ch’iao-chen"
+        }
+    },
+    {
+        "code": "1795060",
+        "long": {
+            "default": "石岐街道"
+        }
+    },
+    {
+        "code": "1795166",
+        "long": {
+            "default": "石码"
+        }
+    },
+    {
+        "code": "1795184",
+        "long": {
+            "default": "石龙"
+        }
+    },
+    {
+        "code": "1795196",
+        "long": {
+            "default": "铜川市"
+        }
+    },
+    {
+        "code": "1795270",
+        "long": {
+            "default": "石家庄市"
+        }
+    },
+    {
+        "code": "1795565",
+        "long": {
+            "default": "深圳市"
+        }
+    },
+    {
+        "code": "1795579",
+        "long": {
+            "default": "雁塔"
+        }
+    },
+    {
+        "code": "1795842",
+        "long": {
+            "default": "沙坪"
+        }
+    },
+    {
+        "code": "1795855",
+        "long": {
+            "default": "绍兴市"
+        }
+    },
+    {
+        "code": "1795857",
+        "long": {
+            "default": "邵武"
+        }
+    },
+    {
+        "code": "1795874",
+        "long": {
+            "default": "韶关市"
+        }
+    },
+    {
+        "code": "1795928",
+        "long": {
+            "default": "汕尾"
+        }
+    },
+    {
+        "code": "1795940",
+        "long": {
+            "default": "汕头市"
+        }
+    },
+    {
+        "code": "1796236",
+        "long": {
+            "default": "上海"
+        }
+    },
+    {
+        "code": "1796556",
+        "long": {
+            "default": "三亚"
+        }
+    },
+    {
+        "code": "1796663",
+        "long": {
+            "default": "三明市"
+        }
+    },
+    {
+        "code": "1797038",
+        "long": {
+            "default": "汝宁"
+        }
+    },
+    {
+        "code": "1797121",
+        "long": {
+            "default": "揭阳市"
+        }
+    },
+    {
+        "code": "1797132",
+        "long": {
+            "default": "日照"
+        }
+    },
+    {
+        "code": "1797181",
+        "long": {
+            "default": "任丘市"
+        }
+    },
+    {
+        "code": "1797264",
+        "long": {
+            "default": "衢州市"
+        }
+    },
+    {
+        "code": "1797318",
+        "long": {
+            "default": "曲靖市"
+        }
+    },
+    {
+        "code": "1797333",
+        "long": {
+            "default": "曲阜市"
+        }
+    },
+    {
+        "code": "1797353",
+        "long": {
+            "default": "Ch’üan-chou-shih"
+        }
+    },
+    {
+        "code": "1797417",
+        "long": {
+            "default": "Ch’i-yang"
+        }
+    },
+    {
+        "code": "1797438",
+        "long": {
+            "default": "庄园"
+        }
+    },
+    {
+        "code": "1797543",
+        "long": {
+            "default": "Yüankiang-hsien"
+        }
+    },
+    {
+        "code": "1797551",
+        "long": {
+            "default": "钦州市"
+        }
+    },
+    {
+        "code": "1797595",
+        "long": {
+            "default": "Ch’in-huang-tao"
+        }
+    },
+    {
+        "code": "1797658",
+        "long": {
+            "default": "Chin-chiang"
+        }
+    },
+    {
+        "code": "1797793",
+        "long": {
+            "default": "Ch’i-shui"
+        }
+    },
+    {
+        "code": "1797929",
+        "long": {
+            "default": "青岛市"
+        }
+    },
+    {
+        "code": "1797945",
+        "long": {
+            "default": "清远"
+        }
+    },
+    {
+        "code": "1798082",
+        "long": {
+            "default": "Hung-ch’iao-chen"
+        }
+    },
+    {
+        "code": "1798422",
+        "long": {
+            "default": "濮阳城关镇"
+        }
+    },
+    {
+        "code": "1798425",
+        "long": {
+            "default": "浦阳"
+        }
+    },
+    {
+        "code": "1798449",
+        "long": {
+            "default": "莆田市"
+        }
+    },
+    {
+        "code": "1798480",
+        "long": {
+            "default": "蒲庙"
+        }
+    },
+    {
+        "code": "1798654",
+        "long": {
+            "default": "萍乡"
+        }
+    },
+    {
+        "code": "1798713",
+        "long": {
+            "default": "平山"
+        }
+    },
+    {
+        "code": "1798733",
+        "long": {
+            "default": "平南"
+        }
+    },
+    {
+        "code": "1798760",
+        "long": {
+            "default": "平凉"
+        }
+    },
+    {
+        "code": "1798827",
+        "long": {
+            "default": "平顶山市"
+        }
+    },
+    {
+        "code": "1798998",
+        "long": {
+            "default": "大渡口"
+        }
+    },
+    {
+        "code": "1799352",
+        "long": {
+            "default": "玉潭"
+        }
+    },
+    {
+        "code": "1799383",
+        "long": {
+            "default": "宁海"
+        }
+    },
+    {
+        "code": "1799384",
+        "long": {
+            "default": "宁海"
+        }
+    },
+    {
+        "code": "1799397",
+        "long": {
+            "default": "宁波"
+        }
+    },
+    {
+        "code": "1799491",
+        "long": {
+            "default": "内江市"
+        }
+    },
+    {
+        "code": "1799552",
+        "long": {
+            "default": "南洲"
+        }
+    },
+    {
+        "code": "1799574",
+        "long": {
+            "default": "南漳城关镇"
+        }
+    },
+    {
+        "code": "1799629",
+        "long": {
+            "default": "南阳市"
+        }
+    },
+    {
+        "code": "1799722",
+        "long": {
+            "default": "南通"
+        }
+    },
+    {
+        "code": "1799832",
+        "long": {
+            "default": "浦城"
+        }
+    },
+    {
+        "code": "1799846",
+        "long": {
+            "default": "南平"
+        }
+    },
+    {
+        "code": "1799869",
+        "long": {
+            "default": "南宁"
+        }
+    },
+    {
+        "code": "1799897",
+        "long": {
+            "default": "南麻镇"
+        }
+    },
+    {
+        "code": "1799908",
+        "long": {
+            "default": "南隆"
+        }
+    },
+    {
+        "code": "1799962",
+        "long": {
+            "default": "南京"
+        }
+    },
+    {
+        "code": "1800088",
+        "long": {
+            "default": "南丰"
+        }
+    },
+    {
+        "code": "1800146",
+        "long": {
+            "default": "南充"
+        }
+    },
+    {
+        "code": "1800163",
+        "long": {
+            "default": "南昌"
+        }
+    },
+    {
+        "code": "1800430",
+        "long": {
+            "default": "Mi-lo-hsien-i-tsu-tzu-chih-ch’ü"
+        }
+    },
+    {
+        "code": "1800627",
+        "long": {
+            "default": "绵阳"
+        }
+    },
+    {
+        "code": "1800657",
+        "long": {
+            "default": "门头沟"
+        }
+    },
+    {
+        "code": "1800764",
+        "long": {
+            "default": "Meng-ch’eng-hsien"
+        }
+    },
+    {
+        "code": "1800779",
+        "long": {
+            "default": "Mei-ch’eng-chen"
+        }
+    },
+    {
+        "code": "1800829",
+        "long": {
+            "default": "吴川"
+        }
+    },
+    {
+        "code": "1801401",
+        "long": {
+            "default": "马街"
+        }
+    },
+    {
+        "code": "1801582",
+        "long": {
+            "default": "麻城"
+        }
+    },
+    {
+        "code": "1801722",
+        "long": {
+            "default": "旅顺口区"
+        }
+    },
+    {
+        "code": "1801757",
+        "long": {
+            "default": "路桥"
+        }
+    },
+    {
+        "code": "1801792",
+        "long": {
+            "default": "洛阳市"
+        }
+    },
+    {
+        "code": "1801797",
+        "long": {
+            "default": "洛阳"
+        }
+    },
+    {
+        "code": "1801799",
+        "long": {
+            "default": "Fu-ch’eng-chen"
+        }
+    },
+    {
+        "code": "1801934",
+        "long": {
+            "default": "漯河"
+        }
+    },
+    {
+        "code": "1801983",
+        "long": {
+            "default": "罗城"
+        }
+    },
+    {
+        "code": "1802068",
+        "long": {
+            "default": "庐城"
+        }
+    },
+    {
+        "code": "1802177",
+        "long": {
+            "default": "禄步"
+        }
+    },
+    {
+        "code": "1802238",
+        "long": {
+            "default": "娄底市"
+        }
+    },
+    {
+        "code": "1802476",
+        "long": {
+            "default": "龙泉"
+        }
+    },
+    {
+        "code": "1802550",
+        "long": {
+            "default": "龙港"
+        }
+    },
+    {
+        "code": "1802788",
+        "long": {
+            "default": "凓城"
+        }
+    },
+    {
+        "code": "1802875",
+        "long": {
+            "default": "浏阳"
+        }
+    },
+    {
+        "code": "1802940",
+        "long": {
+            "default": "P’u-ning-hsien"
+        }
+    },
+    {
+        "code": "1803245",
+        "long": {
+            "default": "丽水"
+        }
+    },
+    {
+        "code": "1803266",
+        "long": {
+            "default": "临潼"
+        }
+    },
+    {
+        "code": "1803318",
+        "long": {
+            "default": "临沂"
+        }
+    },
+    {
+        "code": "1803331",
+        "long": {
+            "default": "临夏城关镇"
+        }
+    },
+    {
+        "code": "1803334",
+        "long": {
+            "default": "林西"
+        }
+    },
+    {
+        "code": "1803365",
+        "long": {
+            "default": "临邛"
+        }
+    },
+    {
+        "code": "1803367",
+        "long": {
+            "default": "青年"
+        }
+    },
+    {
+        "code": "1803422",
+        "long": {
+            "default": "临海"
+        }
+    },
+    {
+        "code": "1803567",
+        "long": {
+            "default": "Lin-fen-hsien"
+        }
+    },
+    {
+        "code": "1803616",
+        "long": {
+            "default": "Li-ling-ch’eng"
+        }
+    },
+    {
+        "code": "1803791",
+        "long": {
+            "default": "荔城"
+        }
+    },
+    {
+        "code": "1803834",
+        "long": {
+            "default": "聊城"
+        }
+    },
+    {
+        "code": "1803841",
+        "long": {
+            "default": "连州"
+        }
+    },
+    {
+        "code": "1803842",
+        "long": {
+            "default": "Ho-p’u-hsien"
+        }
+    },
+    {
+        "code": "1803886",
+        "long": {
+            "default": "连然镇"
+        }
+    },
+    {
+        "code": "1803936",
+        "long": {
+            "default": "武威"
+        }
+    },
+    {
+        "code": "1803948",
+        "long": {
+            "default": "良乡"
+        }
+    },
+    {
+        "code": "1804120",
+        "long": {
+            "default": "廉江"
+        }
+    },
+    {
+        "code": "1804153",
+        "long": {
+            "default": "乐山"
+        }
+    },
+    {
+        "code": "1804162",
+        "long": {
+            "default": "Leng-shui-t’ang"
+        }
+    },
+    {
+        "code": "1804169",
+        "long": {
+            "default": "冷水江市"
+        }
+    },
+    {
+        "code": "1804208",
+        "long": {
+            "default": "耒阳"
+        }
+    },
+    {
+        "code": "1804252",
+        "long": {
+            "default": "Loh Ch’ang"
+        }
+    },
+    {
+        "code": "1804430",
+        "long": {
+            "default": "兰州"
+        }
+    },
+    {
+        "code": "1804451",
+        "long": {
+            "default": "Lan-t’ien-shih"
+        }
+    },
+    {
+        "code": "1804540",
+        "long": {
+            "default": "廊坊市"
+        }
+    },
+    {
+        "code": "1804591",
+        "long": {
+            "default": "莱芜市"
+        }
+    },
+    {
+        "code": "1804609",
+        "long": {
+            "default": "来宾市"
+        }
+    },
+    {
+        "code": "1804645",
+        "long": {
+            "default": "P’ing-yang-hsien-ch’eng"
+        }
+    },
+    {
+        "code": "1804651",
+        "long": {
+            "default": "昆明"
+        }
+    },
+    {
+        "code": "1804850",
+        "long": {
+            "default": "开远"
+        }
+    },
+    {
+        "code": "1804874",
+        "long": {
+            "default": "开化"
+        }
+    },
+    {
+        "code": "1804879",
+        "long": {
+            "default": "开封市"
+        }
+    },
+    {
+        "code": "1804892",
+        "long": {
+            "default": "巨野"
+        }
+    },
+    {
+        "code": "1804979",
+        "long": {
+            "default": "如东县"
+        }
+    },
+    {
+        "code": "1805179",
+        "long": {
+            "default": "九江市"
+        }
+    },
+    {
+        "code": "1805270",
+        "long": {
+            "default": "Ch’ien-ch’eng"
+        }
+    },
+    {
+        "code": "1805334",
+        "long": {
+            "default": "Chin-chen-wei-ch’eng"
+        }
+    },
+    {
+        "code": "1805379",
+        "long": {
+            "default": "津市"
+        }
+    },
+    {
+        "code": "1805505",
+        "long": {
+            "default": "金江"
+        }
+    },
+    {
+        "code": "1805518",
+        "long": {
+            "default": "济宁市"
+        }
+    },
+    {
+        "code": "1805528",
+        "long": {
+            "default": "金華縣"
+        }
+    },
+    {
+        "code": "1805540",
+        "long": {
+            "default": "荆州市"
+        }
+    },
+    {
+        "code": "1805611",
+        "long": {
+            "default": "荆门市"
+        }
+    },
+    {
+        "code": "1805680",
+        "long": {
+            "default": "景德镇市"
+        }
+    },
+    {
+        "code": "1805733",
+        "long": {
+            "default": "金昌"
+        }
+    },
+    {
+        "code": "1805753",
+        "long": {
+            "default": "济南"
+        }
+    },
+    {
+        "code": "1805757",
+        "long": {
+            "default": "即墨市"
+        }
+    },
+    {
+        "code": "1805798",
+        "long": {
+            "default": "几江"
+        }
+    },
+    {
+        "code": "1805844",
+        "long": {
+            "default": "界首"
+        }
+    },
+    {
+        "code": "1805857",
+        "long": {
+            "default": "碣石"
+        }
+    },
+    {
+        "code": "1805935",
+        "long": {
+            "default": "甲子"
+        }
+    },
+    {
+        "code": "1805953",
+        "long": {
+            "default": "嘉興市"
+        }
+    },
+    {
+        "code": "1805987",
+        "long": {
+            "default": "焦作市"
+        }
+    },
+    {
+        "code": "1806097",
+        "long": {
+            "default": "宁德市"
+        }
+    },
+    {
+        "code": "1806167",
+        "long": {
+            "default": "Jian’ou"
+        }
+    },
+    {
+        "code": "1806218",
+        "long": {
+            "default": "姜堰市"
+        }
+    },
+    {
+        "code": "1806299",
+        "long": {
+            "default": "江门市"
+        }
+    },
+    {
+        "code": "1806327",
+        "long": {
+            "default": "江口"
+        }
+    },
+    {
+        "code": "1806408",
+        "long": {
+            "default": "阳江市"
+        }
+    },
+    {
+        "code": "1806445",
+        "long": {
+            "default": "吉安"
+        }
+    },
+    {
+        "code": "1806466",
+        "long": {
+            "default": "Kwangyüanhsien"
+        }
+    },
+    {
+        "code": "1806535",
+        "long": {
+            "default": "Wuhing"
+        }
+    },
+    {
+        "code": "1806591",
+        "long": {
+            "default": "湖塘"
+        }
+    },
+    {
+        "code": "1806651",
+        "long": {
+            "default": "Ho-ch’iu"
+        }
+    },
+    {
+        "code": "1806696",
+        "long": {
+            "default": "虎门"
+        }
+    },
+    {
+        "code": "1806776",
+        "long": {
+            "default": "惠州市"
+        }
+    },
+    {
+        "code": "1806881",
+        "long": {
+            "default": "Hui-ch’eng-chen"
+        }
+    },
+    {
+        "code": "1806882",
+        "long": {
+            "default": "Hsin-hui-chiu-ch’eng"
+        }
+    },
+    {
+        "code": "1807143",
+        "long": {
+            "default": "黄岩"
+        }
+    },
+    {
+        "code": "1807234",
+        "long": {
+            "default": "黄石"
+        }
+    },
+    {
+        "code": "1807301",
+        "long": {
+            "default": "大沙"
+        }
+    },
+    {
+        "code": "1807339",
+        "long": {
+            "default": "黄梅"
+        }
+    },
+    {
+        "code": "1807508",
+        "long": {
+            "default": "Jao-p’ing"
+        }
+    },
+    {
+        "code": "1807544",
+        "long": {
+            "default": "大兴"
+        }
+    },
+    {
+        "code": "1807553",
+        "long": {
+            "default": "定城"
+        }
+    },
+    {
+        "code": "1807645",
+        "long": {
+            "default": "怀远城关镇"
+        }
+    },
+    {
+        "code": "1807687",
+        "long": {
+            "default": "Huai-ch’eng-chen"
+        }
+    },
+    {
+        "code": "1807689",
+        "long": {
+            "default": "怀化市"
+        }
+    },
+    {
+        "code": "1807700",
+        "long": {
+            "default": "淮北"
+        }
+    },
+    {
+        "code": "1808198",
+        "long": {
+            "default": "菏泽"
+        }
+    },
+    {
+        "code": "1808212",
+        "long": {
+            "default": "合川"
+        }
+    },
+    {
+        "code": "1808336",
+        "long": {
+            "default": "Ho-p’o"
+        }
+    },
+    {
+        "code": "1808370",
+        "long": {
+            "default": "衡阳市"
+        }
+    },
+    {
+        "code": "1808392",
+        "long": {
+            "default": "衡水市"
+        }
+    },
+    {
+        "code": "1808722",
+        "long": {
+            "default": "合肥"
+        }
+    },
+    {
+        "code": "1808744",
+        "long": {
+            "default": "合德"
+        }
+    },
+    {
+        "code": "1808770",
+        "long": {
+            "default": "鹤壁市"
+        }
+    },
+    {
+        "code": "1808872",
+        "long": {
+            "default": "城阳"
+        }
+    },
+    {
+        "code": "1808926",
+        "long": {
+            "default": "杭州"
+        }
+    },
+    {
+        "code": "1808963",
+        "long": {
+            "default": "邯郸市"
+        }
+    },
+    {
+        "code": "1809062",
+        "long": {
+            "default": "海门"
+        }
+    },
+    {
+        "code": "1809077",
+        "long": {
+            "default": "海口"
+        }
+    },
+    {
+        "code": "1809078",
+        "long": {
+            "default": "海口市"
+        }
+    },
+    {
+        "code": "1809263",
+        "long": {
+            "default": "虢镇镇"
+        }
+    },
+    {
+        "code": "1809461",
+        "long": {
+            "default": "贵阳"
+        }
+    },
+    {
+        "code": "1809486",
+        "long": {
+            "default": "桂平"
+        }
+    },
+    {
+        "code": "1809498",
+        "long": {
+            "default": "桂林市"
+        }
+    },
+    {
+        "code": "1809532",
+        "long": {
+            "default": "贵港市"
+        }
+    },
+    {
+        "code": "1809610",
+        "long": {
+            "default": "Ku-ch’eng"
+        }
+    },
+    {
+        "code": "1809858",
+        "long": {
+            "default": "广州"
+        }
+    },
+    {
+        "code": "1810240",
+        "long": {
+            "default": "个旧市"
+        }
+    },
+    {
+        "code": "1810295",
+        "long": {
+            "default": "高州"
+        }
+    },
+    {
+        "code": "1810309",
+        "long": {
+            "default": "高邮"
+        }
+    },
+    {
+        "code": "1810437",
+        "long": {
+            "default": "高坪"
+        }
+    },
+    {
+        "code": "1810821",
+        "long": {
+            "default": "福州市"
+        }
+    },
+    {
+        "code": "1810845",
+        "long": {
+            "default": "阜阳市"
+        }
+    },
+    {
+        "code": "1810920",
+        "long": {
+            "default": "清洋"
+        }
+    },
+    {
+        "code": "1810979",
+        "long": {
+            "default": "涪陵"
+        }
+    },
+    {
+        "code": "1811103",
+        "long": {
+            "default": "佛山市"
+        }
+    },
+    {
+        "code": "1811305",
+        "long": {
+            "default": "峰口"
+        }
+    },
+    {
+        "code": "1811542",
+        "long": {
+            "default": "房山"
+        }
+    },
+    {
+        "code": "1811729",
+        "long": {
+            "default": "思城"
+        }
+    },
+    {
+        "code": "1811829",
+        "long": {
+            "default": "多宝"
+        }
+    },
+    {
+        "code": "1811929",
+        "long": {
+            "default": "Tu-ch’eng-hsü"
+        }
+    },
+    {
+        "code": "1812057",
+        "long": {
+            "default": "信宜"
+        }
+    },
+    {
+        "code": "1812101",
+        "long": {
+            "default": "东营市"
+        }
+    },
+    {
+        "code": "1812521",
+        "long": {
+            "default": "东海"
+        }
+    },
+    {
+        "code": "1812545",
+        "long": {
+            "default": "东莞市"
+        }
+    },
+    {
+        "code": "1812754",
+        "long": {
+            "default": "定陶"
+        }
+    },
+    {
+        "code": "1812955",
+        "long": {
+            "default": "德州市"
+        }
+    },
+    {
+        "code": "1812961",
+        "long": {
+            "default": "德阳市"
+        }
+    },
+    {
+        "code": "1812988",
+        "long": {
+            "default": "登州"
+        }
+    },
+    {
+        "code": "1812990",
+        "long": {
+            "default": "花洲"
+        }
+    },
+    {
+        "code": "1813016",
+        "long": {
+            "default": "嵩阳"
+        }
+    },
+    {
+        "code": "1813171",
+        "long": {
+            "default": "张家界"
+        }
+    },
+    {
+        "code": "1813253",
+        "long": {
+            "default": "丽江市"
+        }
+    },
+    {
+        "code": "1813325",
+        "long": {
+            "default": "达州"
+        }
+    },
+    {
+        "code": "1813658",
+        "long": {
+            "default": "奉化市"
+        }
+    },
+    {
+        "code": "1813775",
+        "long": {
+            "default": "道口"
+        }
+    },
+    {
+        "code": "1813812",
+        "long": {
+            "default": "淡水"
+        }
+    },
+    {
+        "code": "1813851",
+        "long": {
+            "default": "Tang-t’u"
+        }
+    },
+    {
+        "code": "1813892",
+        "long": {
+            "default": "新城"
+        }
+    },
+    {
+        "code": "1814082",
+        "long": {
+            "default": "顺德区"
+        }
+    },
+    {
+        "code": "1814087",
+        "long": {
+            "default": "大连市"
+        }
+    },
+    {
+        "code": "1814093",
+        "long": {
+            "default": "大理市"
+        }
+    },
+    {
+        "code": "1814757",
+        "long": {
+            "default": "滁州"
+        }
+    },
+    {
+        "code": "1814786",
+        "long": {
+            "default": "阳春"
+        }
+    },
+    {
+        "code": "1814870",
+        "long": {
+            "default": "义乌"
+        }
+    },
+    {
+        "code": "1814906",
+        "long": {
+            "default": "重庆"
+        }
+    },
+    {
+        "code": "1814919",
+        "long": {
+            "default": "重龙"
+        }
+    },
+    {
+        "code": "1814934",
+        "long": {
+            "default": "池州"
+        }
+    },
+    {
+        "code": "1815059",
+        "long": {
+            "default": "郴州"
+        }
+    },
+    {
+        "code": "1815251",
+        "long": {
+            "default": "澄江"
+        }
+    },
+    {
+        "code": "1815286",
+        "long": {
+            "default": "成都"
+        }
+    },
+    {
+        "code": "1815302",
+        "long": {
+            "default": "Ch’eng-hai-hsien"
+        }
+    },
+    {
+        "code": "1815395",
+        "long": {
+            "default": "潮州市"
+        }
+    },
+    {
+        "code": "1815427",
+        "long": {
+            "default": "巢湖市"
+        }
+    },
+    {
+        "code": "1815456",
+        "long": {
+            "default": "常州市"
+        }
+    },
+    {
+        "code": "1815577",
+        "long": {
+            "default": "长沙市"
+        }
+    },
+    {
+        "code": "1816026",
+        "long": {
+            "default": "Ts’ao-ho-cheng"
+        }
+    },
+    {
+        "code": "1816080",
+        "long": {
+            "default": "沧州市"
+        }
+    },
+    {
+        "code": "1816234",
+        "long": {
+            "default": "亳州"
+        }
+    },
+    {
+        "code": "1816269",
+        "long": {
+            "default": "Bósè"
+        }
+    },
+    {
+        "code": "1816336",
+        "long": {
+            "default": "滨州市"
+        }
+    },
+    {
+        "code": "1816338",
+        "long": {
+            "default": "芦圩"
+        }
+    },
+    {
+        "code": "1816373",
+        "long": {
+            "default": "毕节"
+        }
+    },
+    {
+        "code": "1816440",
+        "long": {
+            "default": "蚌埠"
+        }
+    },
+    {
+        "code": "1816670",
+        "long": {
+            "default": "北京"
+        }
+    },
+    {
+        "code": "1816705",
+        "long": {
+            "default": "北海市"
+        }
+    },
+    {
+        "code": "1816790",
+        "long": {
+            "default": "北碚"
+        }
+    },
+    {
+        "code": "1816924",
+        "long": {
+            "default": "阆中"
+        }
+    },
+    {
+        "code": "1816971",
+        "long": {
+            "default": "保定市"
+        }
+    },
+    {
+        "code": "1817240",
+        "long": {
+            "default": "白银"
+        }
+    },
+    {
+        "code": "1817701",
+        "long": {
+            "default": "百合"
+        }
+    },
+    {
+        "code": "1817952",
+        "long": {
+            "default": "安乡城关镇"
+        }
+    },
+    {
+        "code": "1817968",
+        "long": {
+            "default": "安顺市"
+        }
+    },
+    {
+        "code": "1817993",
+        "long": {
+            "default": "安庆市"
+        }
+    },
+    {
+        "code": "1818004",
+        "long": {
+            "default": "马白"
+        }
+    },
+    {
+        "code": "1818116",
+        "long": {
+            "default": "庵埠"
+        }
+    },
+    {
+        "code": "1886760",
+        "long": {
+            "default": "苏州"
+        }
+    },
+    {
+        "code": "1898359",
+        "long": {
+            "default": "木渎镇"
+        }
+    },
+    {
+        "code": "1898494",
+        "long": {
+            "default": "松陵"
+        }
+    },
+    {
+        "code": "1915223",
+        "long": {
+            "default": "中山"
+        }
+    },
+    {
+        "code": "1927639",
+        "long": {
+            "default": "岳阳市"
+        }
+    },
+    {
+        "code": "2033128",
+        "long": {
+            "default": "Ch’a-kan-shao"
+        }
+    },
+    {
+        "code": "2033168",
+        "long": {
+            "default": "肇东"
+        }
+    },
+    {
+        "code": "2033196",
+        "long": {
+            "default": "张家口市"
+        }
+    },
+    {
+        "code": "2033225",
+        "long": {
+            "default": "兴华街道"
+        }
+    },
+    {
+        "code": "2033301",
+        "long": {
+            "default": "友好"
+        }
+    },
+    {
+        "code": "2033370",
+        "long": {
+            "default": "Ying-k’ou-shih"
+        }
+    },
+    {
+        "code": "2033403",
+        "long": {
+            "default": "依兰"
+        }
+    },
+    {
+        "code": "2033413",
+        "long": {
+            "default": "Yīchūn"
+        }
+    },
+    {
+        "code": "2033467",
+        "long": {
+            "default": "延吉市"
+        }
+    },
+    {
+        "code": "2033574",
+        "long": {
+            "default": "张家口市宣化区"
+        }
+    },
+    {
+        "code": "2033667",
+        "long": {
+            "default": "新青"
+        }
+    },
+    {
+        "code": "2034141",
+        "long": {
+            "default": "五常"
+        }
+    },
+    {
+        "code": "2034221",
+        "long": {
+            "default": "Wang-ch’ing"
+        }
+    },
+    {
+        "code": "2034228",
+        "long": {
+            "default": "望奎"
+        }
+    },
+    {
+        "code": "2034400",
+        "long": {
+            "default": "通辽市"
+        }
+    },
+    {
+        "code": "2034440",
+        "long": {
+            "default": "铁力"
+        }
+    },
+    {
+        "code": "2034497",
+        "long": {
+            "default": "光明"
+        }
+    },
+    {
+        "code": "2034599",
+        "long": {
+            "default": "泰来"
+        }
+    },
+    {
+        "code": "2034600",
+        "long": {
+            "default": "泰康"
+        }
+    },
+    {
+        "code": "2034651",
+        "long": {
+            "default": "绥棱"
+        }
+    },
+    {
+        "code": "2034655",
+        "long": {
+            "default": "绥化"
+        }
+    },
+    {
+        "code": "2034714",
+        "long": {
+            "default": "四平市"
+        }
+    },
+    {
+        "code": "2034754",
+        "long": {
+            "default": "顺义"
+        }
+    },
+    {
+        "code": "2034786",
+        "long": {
+            "default": "双鸭山市"
+        }
+    },
+    {
+        "code": "2034937",
+        "long": {
+            "default": "沈阳"
+        }
+    },
+    {
+        "code": "2034996",
+        "long": {
+            "default": "山海关"
+        }
+    },
+    {
+        "code": "2035002",
+        "long": {
+            "default": "尚志"
+        }
+    },
+    {
+        "code": "2035225",
+        "long": {
+            "default": "奋斗"
+        }
+    },
+    {
+        "code": "2035261",
+        "long": {
+            "default": "太和"
+        }
+    },
+    {
+        "code": "2035265",
+        "long": {
+            "default": "齐齐哈尔市"
+        }
+    },
+    {
+        "code": "2035325",
+        "long": {
+            "default": "青冈"
+        }
+    },
+    {
+        "code": "2035399",
+        "long": {
+            "default": "Kuo-erh-lo-ssu-ch’ien-ch’i"
+        }
+    },
+    {
+        "code": "2035601",
+        "long": {
+            "default": "嫩江"
+        }
+    },
+    {
+        "code": "2035635",
+        "long": {
+            "default": "南台"
+        }
+    },
+    {
+        "code": "2035644",
+        "long": {
+            "default": "南票"
+        }
+    },
+    {
+        "code": "2035669",
+        "long": {
+            "default": "联合"
+        }
+    },
+    {
+        "code": "2035715",
+        "long": {
+            "default": "牡丹江"
+        }
+    },
+    {
+        "code": "2035754",
+        "long": {
+            "default": "An-t’u-hsien"
+        }
+    },
+    {
+        "code": "2035758",
+        "long": {
+            "default": "明水"
+        }
+    },
+    {
+        "code": "2035836",
+        "long": {
+            "default": "满洲里市"
+        }
+    },
+    {
+        "code": "2035970",
+        "long": {
+            "default": "龙江"
+        }
+    },
+    {
+        "code": "2035980",
+        "long": {
+            "default": "龙凤"
+        }
+    },
+    {
+        "code": "2036033",
+        "long": {
+            "default": "Liu-hu-ch’eng"
+        }
+    },
+    {
+        "code": "2036055",
+        "long": {
+            "default": "梨树"
+        }
+    },
+    {
+        "code": "2036066",
+        "long": {
+            "default": "林口"
+        }
+    },
+    {
+        "code": "2036109",
+        "long": {
+            "default": "辽源市"
+        }
+    },
+    {
+        "code": "2036113",
+        "long": {
+            "default": "辽阳市"
+        }
+    },
+    {
+        "code": "2036226",
+        "long": {
+            "default": "兰西"
+        }
+    },
+    {
+        "code": "2036237",
+        "long": {
+            "default": "朗乡"
+        }
+    },
+    {
+        "code": "2036338",
+        "long": {
+            "default": "T’ung-yü"
+        }
+    },
+    {
+        "code": "2036389",
+        "long": {
+            "default": "鸡西市"
+        }
+    },
+    {
+        "code": "2036427",
+        "long": {
+            "default": "锦州市"
+        }
+    },
+    {
+        "code": "2036434",
+        "long": {
+            "default": "连山"
+        }
+    },
+    {
+        "code": "2036502",
+        "long": {
+            "default": "吉林市"
+        }
+    },
+    {
+        "code": "2036536",
+        "long": {
+            "default": "民主"
+        }
+    },
+    {
+        "code": "2036581",
+        "long": {
+            "default": "佳木斯市"
+        }
+    },
+    {
+        "code": "2036595",
+        "long": {
+            "default": "Zhalai Nuo’er"
+        }
+    },
+    {
+        "code": "2036753",
+        "long": {
+            "default": "桦南"
+        }
+    },
+    {
+        "code": "2036876",
+        "long": {
+            "default": "红岗"
+        }
+    },
+    {
+        "code": "2036892",
+        "long": {
+            "default": "呼和浩特市"
+        }
+    },
+    {
+        "code": "2036920",
+        "long": {
+            "default": "奋斗"
+        }
+    },
+    {
+        "code": "2036973",
+        "long": {
+            "default": "黑河市"
+        }
+    },
+    {
+        "code": "2036986",
+        "long": {
+            "default": "鹤岗"
+        }
+    },
+    {
+        "code": "2037013",
+        "long": {
+            "default": "哈尔滨"
+        }
+    },
+    {
+        "code": "2037069",
+        "long": {
+            "default": "海伦"
+        }
+    },
+    {
+        "code": "2037075",
+        "long": {
+            "default": "海林"
+        }
+    },
+    {
+        "code": "2037078",
+        "long": {
+            "default": "海拉尔区"
+        }
+    },
+    {
+        "code": "2037311",
+        "long": {
+            "default": "甘南"
+        }
+    },
+    {
+        "code": "2037334",
+        "long": {
+            "default": "富裕"
+        }
+    },
+    {
+        "code": "2037346",
+        "long": {
+            "default": "阜新市"
+        }
+    },
+    {
+        "code": "2037355",
+        "long": {
+            "default": "抚顺市"
+        }
+    },
+    {
+        "code": "2037391",
+        "long": {
+            "default": "丰镇市"
+        }
+    },
+    {
+        "code": "2037658",
+        "long": {
+            "default": "Tung-p’ing-hsien"
+        }
+    },
+    {
+        "code": "2037685",
+        "long": {
+            "default": "东兴"
+        }
+    },
+    {
+        "code": "2037799",
+        "long": {
+            "default": "大同市"
+        }
+    },
+    {
+        "code": "2037860",
+        "long": {
+            "default": "大庆市"
+        }
+    },
+    {
+        "code": "2037886",
+        "long": {
+            "default": "丹东市"
+        }
+    },
+    {
+        "code": "2038067",
+        "long": {
+            "default": "赤峰"
+        }
+    },
+    {
+        "code": "2038087",
+        "long": {
+            "default": "承德市"
+        }
+    },
+    {
+        "code": "2038118",
+        "long": {
+            "default": "Ch’ao-yang-chen"
+        }
+    },
+    {
+        "code": "2038139",
+        "long": {
+            "default": "昌图"
+        }
+    },
+    {
+        "code": "2038154",
+        "long": {
+            "default": "昌平"
+        }
+    },
+    {
+        "code": "2038158",
+        "long": {
+            "default": "Ch’ang-ling-chen"
+        }
+    },
+    {
+        "code": "2038180",
+        "long": {
+            "default": "长春"
+        }
+    },
+    {
+        "code": "2038198",
+        "long": {
+            "default": "柴河"
+        }
+    },
+    {
+        "code": "2038274",
+        "long": {
+            "default": "勃利县"
+        }
+    },
+    {
+        "code": "2038283",
+        "long": {
+            "default": "宾州"
+        }
+    },
+    {
+        "code": "2038300",
+        "long": {
+            "default": "本溪市"
+        }
+    },
+    {
+        "code": "2038421",
+        "long": {
+            "default": "巴彦"
+        }
+    },
+    {
+        "code": "2038432",
+        "long": {
+            "default": "包头市"
+        }
+    },
+    {
+        "code": "2038482",
+        "long": {
+            "default": "八面通"
+        }
+    },
+    {
+        "code": "2038541",
+        "long": {
+            "default": "拜泉"
+        }
+    },
+    {
+        "code": "2038569",
+        "long": {
+            "default": "白城"
+        }
+    },
+    {
+        "code": "2038584",
+        "long": {
+            "default": "白山"
+        }
+    },
+    {
+        "code": "2038632",
+        "long": {
+            "default": "鞍山市"
+        }
+    },
+    {
+        "code": "2038650",
+        "long": {
+            "default": "安达"
+        }
+    },
+    {
+        "code": "2038679",
+        "long": {
+            "default": "阿城"
+        }
+    },
+    {
+        "code": "2047837",
+        "long": {
+            "default": "松岭"
+        }
+    },
+    {
+        "code": "6825277",
+        "long": {
+            "default": "石林"
+        }
+    },
+    {
+        "code": "8347664",
+        "long": {
+            "default": "鄂尔多斯市"
+        }
+    },
+    {
+        "code": "8505006",
+        "long": {
+            "default": "文山"
+        }
+    },
+    {
+        "code": "8533133",
+        "long": {
+            "default": "六盘水市"
+        }
+    }
+]

@@ -1,0 +1,710 @@
+[
+    {
+        "code": "2509769",
+        "long": {
+            "default": "Vélez-Málaga"
+        }
+    },
+    {
+        "code": "2509954",
+        "long": {
+            "default": "Valencia"
+        }
+    },
+    {
+        "code": "2510253",
+        "long": {
+            "default": "Torrevieja"
+        }
+    },
+    {
+        "code": "2510281",
+        "long": {
+            "default": "Torremolinos"
+        }
+    },
+    {
+        "code": "2510409",
+        "long": {
+            "default": "Toledo"
+        }
+    },
+    {
+        "code": "2510542",
+        "long": {
+            "default": "Telde"
+        }
+    },
+    {
+        "code": "2510911",
+        "long": {
+            "default": "Siviglia"
+        }
+    },
+    {
+        "code": "2511174",
+        "long": {
+            "default": "Santa Cruz de Tenerife"
+        }
+    },
+    {
+        "code": "2511306",
+        "long": {
+            "default": "Sanlúcar de Barrameda"
+        }
+    },
+    {
+        "code": "2511388",
+        "long": {
+            "default": "San Fernando"
+        }
+    },
+    {
+        "code": "2511401",
+        "long": {
+            "default": "San Cristóbal de La Laguna"
+        }
+    },
+    {
+        "code": "2511440",
+        "long": {
+            "default": "San Bartolomé de Tirajana"
+        }
+    },
+    {
+        "code": "2511716",
+        "long": {
+            "default": "Roquetas de Mar"
+        }
+    },
+    {
+        "code": "2512177",
+        "long": {
+            "default": "Puertollano"
+        }
+    },
+    {
+        "code": "2512989",
+        "long": {
+            "default": "Palma di Maiorca"
+        }
+    },
+    {
+        "code": "2513076",
+        "long": {
+            "default": "Orihuela"
+        }
+    },
+    {
+        "code": "2513416",
+        "long": {
+            "default": "Murcia"
+        }
+    },
+    {
+        "code": "2513477",
+        "long": {
+            "default": "Motril"
+        }
+    },
+    {
+        "code": "2513882",
+        "long": {
+            "default": "Mijas"
+        }
+    },
+    {
+        "code": "2513917",
+        "long": {
+            "default": "Mérida"
+        }
+    },
+    {
+        "code": "2513947",
+        "long": {
+            "default": "Melilla"
+        }
+    },
+    {
+        "code": "2514169",
+        "long": {
+            "default": "Marbella"
+        }
+    },
+    {
+        "code": "2514256",
+        "long": {
+            "default": "Málaga"
+        }
+    },
+    {
+        "code": "2514891",
+        "long": {
+            "default": "Lorca"
+        }
+    },
+    {
+        "code": "2515045",
+        "long": {
+            "default": "Linares"
+        }
+    },
+    {
+        "code": "2515270",
+        "long": {
+            "default": "Las Palmas de Gran Canaria"
+        }
+    },
+    {
+        "code": "2515812",
+        "long": {
+            "default": "La Línea de la Concepción"
+        }
+    },
+    {
+        "code": "2516326",
+        "long": {
+            "default": "Jerez de la Frontera"
+        }
+    },
+    {
+        "code": "2516395",
+        "long": {
+            "default": "Jaén"
+        }
+    },
+    {
+        "code": "2516548",
+        "long": {
+            "default": "Huelva"
+        }
+    },
+    {
+        "code": "2517117",
+        "long": {
+            "default": "Granada"
+        }
+    },
+    {
+        "code": "2517367",
+        "long": {
+            "default": "Gandia"
+        }
+    },
+    {
+        "code": "2517595",
+        "long": {
+            "default": "Fuengirola"
+        }
+    },
+    {
+        "code": "2517816",
+        "long": {
+            "default": "Estepona"
+        }
+    },
+    {
+        "code": "2518207",
+        "long": {
+            "default": "El Puerto de Santa María"
+        }
+    },
+    {
+        "code": "2518494",
+        "long": {
+            "default": "El Ejido"
+        }
+    },
+    {
+        "code": "2518505",
+        "long": {
+            "default": "Elda"
+        }
+    },
+    {
+        "code": "2518559",
+        "long": {
+            "default": "Elx"
+        }
+    },
+    {
+        "code": "2518794",
+        "long": {
+            "default": "Dos Hermanas"
+        }
+    },
+    {
+        "code": "2519240",
+        "long": {
+            "default": "Cordova"
+        }
+    },
+    {
+        "code": "2519402",
+        "long": {
+            "default": "Ciudad Real"
+        }
+    },
+    {
+        "code": "2519513",
+        "long": {
+            "default": "Chiclana de la Frontera"
+        }
+    },
+    {
+        "code": "2519752",
+        "long": {
+            "default": "Castellón de la Plana"
+        }
+    },
+    {
+        "code": "2520058",
+        "long": {
+            "default": "Cartagena"
+        }
+    },
+    {
+        "code": "2520493",
+        "long": {
+            "default": "Calvià"
+        }
+    },
+    {
+        "code": "2520600",
+        "long": {
+            "default": "Cádice"
+        }
+    },
+    {
+        "code": "2520611",
+        "long": {
+            "default": "Cáceres"
+        }
+    },
+    {
+        "code": "2521088",
+        "long": {
+            "default": "Benidorm"
+        }
+    },
+    {
+        "code": "2521139",
+        "long": {
+            "default": "Benalmádena"
+        }
+    },
+    {
+        "code": "2521420",
+        "long": {
+            "default": "Badajoz"
+        }
+    },
+    {
+        "code": "2521570",
+        "long": {
+            "default": "Arrecife"
+        }
+    },
+    {
+        "code": "2521582",
+        "long": {
+            "default": "Arona"
+        }
+    },
+    {
+        "code": "2521886",
+        "long": {
+            "default": "Almería"
+        }
+    },
+    {
+        "code": "2521978",
+        "long": {
+            "default": "Alicante"
+        }
+    },
+    {
+        "code": "2522013",
+        "long": {
+            "default": "Algeciras"
+        }
+    },
+    {
+        "code": "2522098",
+        "long": {
+            "default": "Alcoy"
+        }
+    },
+    {
+        "code": "2522165",
+        "long": {
+            "default": "Alcalá de Guadaira"
+        }
+    },
+    {
+        "code": "2522258",
+        "long": {
+            "default": "Albacete"
+        }
+    },
+    {
+        "code": "3104324",
+        "long": {
+            "default": "Saragozza"
+        }
+    },
+    {
+        "code": "3104342",
+        "long": {
+            "default": "Zamora"
+        }
+    },
+    {
+        "code": "3104499",
+        "long": {
+            "default": "Vitoria"
+        }
+    },
+    {
+        "code": "3105184",
+        "long": {
+            "default": "Vilanova i la Geltrú"
+        }
+    },
+    {
+        "code": "3105976",
+        "long": {
+            "default": "Vigo"
+        }
+    },
+    {
+        "code": "3106672",
+        "long": {
+            "default": "Valladolid"
+        }
+    },
+    {
+        "code": "3107775",
+        "long": {
+            "default": "Torrelavega"
+        }
+    },
+    {
+        "code": "3107784",
+        "long": {
+            "default": "Torrejón de Ardoz"
+        }
+    },
+    {
+        "code": "3108286",
+        "long": {
+            "default": "Terrassa"
+        }
+    },
+    {
+        "code": "3108288",
+        "long": {
+            "default": "Tarragona"
+        }
+    },
+    {
+        "code": "3109256",
+        "long": {
+            "default": "Segovia"
+        }
+    },
+    {
+        "code": "3109402",
+        "long": {
+            "default": "Cerdanyola del Vallès"
+        }
+    },
+    {
+        "code": "3109642",
+        "long": {
+            "default": "Santiago di Compostela"
+        }
+    },
+    {
+        "code": "3109718",
+        "long": {
+            "default": "Santander"
+        }
+    },
+    {
+        "code": "3109981",
+        "long": {
+            "default": "Santa Coloma de Gramenet"
+        }
+    },
+    {
+        "code": "3110040",
+        "long": {
+            "default": "San Sebastián de los Reyes"
+        }
+    },
+    {
+        "code": "3110044",
+        "long": {
+            "default": "San Sebastián"
+        }
+    },
+    {
+        "code": "3110834",
+        "long": {
+            "default": "Sant Boi de Llobregat"
+        }
+    },
+    {
+        "code": "3111108",
+        "long": {
+            "default": "Salamanca"
+        }
+    },
+    {
+        "code": "3111933",
+        "long": {
+            "default": "Reus"
+        }
+    },
+    {
+        "code": "3112989",
+        "long": {
+            "default": "Pozuelo de Alarcón"
+        }
+    },
+    {
+        "code": "3113209",
+        "long": {
+            "default": "Pontevedra"
+        }
+    },
+    {
+        "code": "3113236",
+        "long": {
+            "default": "Ponferrada"
+        }
+    },
+    {
+        "code": "3114256",
+        "long": {
+            "default": "Parla"
+        }
+    },
+    {
+        "code": "3114472",
+        "long": {
+            "default": "Pamplona"
+        }
+    },
+    {
+        "code": "3114531",
+        "long": {
+            "default": "Palencia"
+        }
+    },
+    {
+        "code": "3114711",
+        "long": {
+            "default": "Oviedo"
+        }
+    },
+    {
+        "code": "3114965",
+        "long": {
+            "default": "Ourense"
+        }
+    },
+    {
+        "code": "3116553",
+        "long": {
+            "default": "Mollet del Vallès"
+        }
+    },
+    {
+        "code": "3117164",
+        "long": {
+            "default": "Mataró"
+        }
+    },
+    {
+        "code": "3117533",
+        "long": {
+            "default": "Manresa"
+        }
+    },
+    {
+        "code": "3117735",
+        "long": {
+            "default": "Madrid"
+        }
+    },
+    {
+        "code": "3117814",
+        "long": {
+            "default": "Lugo"
+        }
+    },
+    {
+        "code": "3118150",
+        "long": {
+            "default": "Logroño"
+        }
+    },
+    {
+        "code": "3118514",
+        "long": {
+            "default": "Lleida"
+        }
+    },
+    {
+        "code": "3118532",
+        "long": {
+            "default": "León"
+        }
+    },
+    {
+        "code": "3118594",
+        "long": {
+            "default": "Leganés"
+        }
+    },
+    {
+        "code": "3119841",
+        "long": {
+            "default": "A Coruña"
+        }
+    },
+    {
+        "code": "3120304",
+        "long": {
+            "default": "Irun"
+        }
+    },
+    {
+        "code": "3120514",
+        "long": {
+            "default": "Huesca"
+        }
+    },
+    {
+        "code": "3121070",
+        "long": {
+            "default": "Guadalajara"
+        }
+    },
+    {
+        "code": "3121145",
+        "long": {
+            "default": "Granollers"
+        }
+    },
+    {
+        "code": "3121424",
+        "long": {
+            "default": "Gijón"
+        }
+    },
+    {
+        "code": "3121437",
+        "long": {
+            "default": "Getafe"
+        }
+    },
+    {
+        "code": "3121456",
+        "long": {
+            "default": "Girona"
+        }
+    },
+    {
+        "code": "3121960",
+        "long": {
+            "default": "Fuenlabrada"
+        }
+    },
+    {
+        "code": "3123329",
+        "long": {
+            "default": "el Prat de Llobregat"
+        }
+    },
+    {
+        "code": "3124408",
+        "long": {
+            "default": "Coslada"
+        }
+    },
+    {
+        "code": "3124569",
+        "long": {
+            "default": "Cornellà de Llobregat"
+        }
+    },
+    {
+        "code": "3124794",
+        "long": {
+            "default": "Collado Villalba"
+        }
+    },
+    {
+        "code": "3125897",
+        "long": {
+            "default": "Castelldefels"
+        }
+    },
+    {
+        "code": "3127461",
+        "long": {
+            "default": "Burgos"
+        }
+    },
+    {
+        "code": "3128760",
+        "long": {
+            "default": "Barcellona"
+        }
+    },
+    {
+        "code": "3129028",
+        "long": {
+            "default": "Badalona"
+        }
+    },
+    {
+        "code": "3129135",
+        "long": {
+            "default": "Avilés"
+        }
+    },
+    {
+        "code": "3129136",
+        "long": {
+            "default": "Ávila"
+        }
+    },
+    {
+        "code": "3129857",
+        "long": {
+            "default": "Aranjuez"
+        }
+    },
+    {
+        "code": "3130564",
+        "long": {
+            "default": "Alcorcón"
+        }
+    },
+    {
+        "code": "3130583",
+        "long": {
+            "default": "Alcobendas"
+        }
+    },
+    {
+        "code": "3130616",
+        "long": {
+            "default": "Alcalá de Henares"
+        }
+    }
+]

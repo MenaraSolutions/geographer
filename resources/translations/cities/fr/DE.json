@@ -1,0 +1,956 @@
+[
+    {
+        "code": "2803560",
+        "long": {
+            "default": "Zwickau"
+        }
+    },
+    {
+        "code": "2805059",
+        "long": {
+            "default": "Berlin-Zehlendorf"
+        }
+    },
+    {
+        "code": "2805615",
+        "long": {
+            "default": "Wurtzbourg"
+        }
+    },
+    {
+        "code": "2805753",
+        "long": {
+            "default": "Wuppertal"
+        }
+    },
+    {
+        "code": "2806142",
+        "long": {
+            "default": "Worms"
+        }
+    },
+    {
+        "code": "2806654",
+        "long": {
+            "default": "Wolfsbourg"
+        }
+    },
+    {
+        "code": "2806914",
+        "long": {
+            "default": "Wolfenbüttel"
+        }
+    },
+    {
+        "code": "2807363",
+        "long": {
+            "default": "Witten"
+        }
+    },
+    {
+        "code": "2808473",
+        "long": {
+            "default": "Berlin-Wilmersdorf"
+        }
+    },
+    {
+        "code": "2809346",
+        "long": {
+            "default": "Wiesbaden"
+        }
+    },
+    {
+        "code": "2809889",
+        "long": {
+            "default": "Wetzlar"
+        }
+    },
+    {
+        "code": "2812482",
+        "long": {
+            "default": "Weimar"
+        }
+    },
+    {
+        "code": "2813472",
+        "long": {
+            "default": "Berlin-Wedding"
+        }
+    },
+    {
+        "code": "2817220",
+        "long": {
+            "default": "Villingen-Schwenningen"
+        }
+    },
+    {
+        "code": "2820256",
+        "long": {
+            "default": "Ulm"
+        }
+    },
+    {
+        "code": "2820860",
+        "long": {
+            "default": "Tübingen"
+        }
+    },
+    {
+        "code": "2821164",
+        "long": {
+            "default": "Trèves"
+        }
+    },
+    {
+        "code": "2823538",
+        "long": {
+            "default": "Berlin-Tempelhof"
+        }
+    },
+    {
+        "code": "2825297",
+        "long": {
+            "default": "Stuttgart"
+        }
+    },
+    {
+        "code": "2826287",
+        "long": {
+            "default": "Stralsund"
+        }
+    },
+    {
+        "code": "2829109",
+        "long": {
+            "default": "Berlin-Steglitz"
+        }
+    },
+    {
+        "code": "2830582",
+        "long": {
+            "default": "Spire"
+        }
+    },
+    {
+        "code": "2831580",
+        "long": {
+            "default": "Solingen"
+        }
+    },
+    {
+        "code": "2831948",
+        "long": {
+            "default": "Sindelfingen"
+        }
+    },
+    {
+        "code": "2832495",
+        "long": {
+            "default": "Siegen"
+        }
+    },
+    {
+        "code": "2834282",
+        "long": {
+            "default": "Schwerin"
+        }
+    },
+    {
+        "code": "2835482",
+        "long": {
+            "default": "Schwäbisch Gmünd"
+        }
+    },
+    {
+        "code": "2842647",
+        "long": {
+            "default": "Sarrebruck"
+        }
+    },
+    {
+        "code": "2842884",
+        "long": {
+            "default": "Rüsselsheim am Main"
+        }
+    },
+    {
+        "code": "2844588",
+        "long": {
+            "default": "Rostock"
+        }
+    },
+    {
+        "code": "2844988",
+        "long": {
+            "default": "Rosenheim"
+        }
+    },
+    {
+        "code": "2847736",
+        "long": {
+            "default": "Reutlingen"
+        }
+    },
+    {
+        "code": "2848273",
+        "long": {
+            "default": "Remscheid"
+        }
+    },
+    {
+        "code": "2848756",
+        "long": {
+            "default": "Berlin-Reinickendorf"
+        }
+    },
+    {
+        "code": "2849483",
+        "long": {
+            "default": "Ratisbonne"
+        }
+    },
+    {
+        "code": "2849647",
+        "long": {
+            "default": "Recklinghausen"
+        }
+    },
+    {
+        "code": "2850174",
+        "long": {
+            "default": "Ratingen"
+        }
+    },
+    {
+        "code": "2852217",
+        "long": {
+            "default": "Berlin-Prenzlauer Berg"
+        }
+    },
+    {
+        "code": "2852458",
+        "long": {
+            "default": "Potsdam"
+        }
+    },
+    {
+        "code": "2853292",
+        "long": {
+            "default": "Plauen"
+        }
+    },
+    {
+        "code": "2853969",
+        "long": {
+            "default": "Pforzheim"
+        }
+    },
+    {
+        "code": "2855328",
+        "long": {
+            "default": "Passau"
+        }
+    },
+    {
+        "code": "2855598",
+        "long": {
+            "default": "Berlin-Pankow"
+        }
+    },
+    {
+        "code": "2855745",
+        "long": {
+            "default": "Paderborn"
+        }
+    },
+    {
+        "code": "2856883",
+        "long": {
+            "default": "Osnabrück"
+        }
+    },
+    {
+        "code": "2857458",
+        "long": {
+            "default": "Oldenbourg"
+        }
+    },
+    {
+        "code": "2857798",
+        "long": {
+            "default": "Offenbourg"
+        }
+    },
+    {
+        "code": "2860410",
+        "long": {
+            "default": "Oberhausen"
+        }
+    },
+    {
+        "code": "2861650",
+        "long": {
+            "default": "Nuremberg"
+        }
+    },
+    {
+        "code": "2863840",
+        "long": {
+            "default": "Neuwied"
+        }
+    },
+    {
+        "code": "2863941",
+        "long": {
+            "default": "Neu-Ulm"
+        }
+    },
+    {
+        "code": "2864118",
+        "long": {
+            "default": "Neuss"
+        }
+    },
+    {
+        "code": "2864475",
+        "long": {
+            "default": "Neumünster"
+        }
+    },
+    {
+        "code": "2866135",
+        "long": {
+            "default": "Neubrandenbourg"
+        }
+    },
+    {
+        "code": "2867543",
+        "long": {
+            "default": "Münster"
+        }
+    },
+    {
+        "code": "2867714",
+        "long": {
+            "default": "Munich"
+        }
+    },
+    {
+        "code": "2867838",
+        "long": {
+            "default": "Mülheim an der Ruhr"
+        }
+    },
+    {
+        "code": "2869894",
+        "long": {
+            "default": "Mönchengladbach"
+        }
+    },
+    {
+        "code": "2870221",
+        "long": {
+            "default": "Moers"
+        }
+    },
+    {
+        "code": "2870310",
+        "long": {
+            "default": "Berlin-Moabit"
+        }
+    },
+    {
+        "code": "2871039",
+        "long": {
+            "default": "Minden"
+        }
+    },
+    {
+        "code": "2873759",
+        "long": {
+            "default": "Marbourg"
+        }
+    },
+    {
+        "code": "2873891",
+        "long": {
+            "default": "Mannheim"
+        }
+    },
+    {
+        "code": "2874225",
+        "long": {
+            "default": "Mayence"
+        }
+    },
+    {
+        "code": "2874545",
+        "long": {
+            "default": "Magdebourg"
+        }
+    },
+    {
+        "code": "2875115",
+        "long": {
+            "default": "Lunebourg"
+        }
+    },
+    {
+        "code": "2875376",
+        "long": {
+            "default": "Ludwigshafen"
+        }
+    },
+    {
+        "code": "2875392",
+        "long": {
+            "default": "Ludwigsbourg"
+        }
+    },
+    {
+        "code": "2875601",
+        "long": {
+            "default": "Lübeck"
+        }
+    },
+    {
+        "code": "2876865",
+        "long": {
+            "default": "Lippstadt"
+        }
+    },
+    {
+        "code": "2877088",
+        "long": {
+            "default": "Lingen"
+        }
+    },
+    {
+        "code": "2878234",
+        "long": {
+            "default": "Leverkusen"
+        }
+    },
+    {
+        "code": "2879139",
+        "long": {
+            "default": "Leipzig"
+        }
+    },
+    {
+        "code": "2884161",
+        "long": {
+            "default": "Berlin-Kreuzberg"
+        }
+    },
+    {
+        "code": "2884509",
+        "long": {
+            "default": "Krefeld"
+        }
+    },
+    {
+        "code": "2885656",
+        "long": {
+            "default": "Berlin-Köpenick"
+        }
+    },
+    {
+        "code": "2885679",
+        "long": {
+            "default": "Constance"
+        }
+    },
+    {
+        "code": "2886242",
+        "long": {
+            "default": "Cologne"
+        }
+    },
+    {
+        "code": "2886946",
+        "long": {
+            "default": "Coblence"
+        }
+    },
+    {
+        "code": "2891122",
+        "long": {
+            "default": "Kiel"
+        }
+    },
+    {
+        "code": "2891524",
+        "long": {
+            "default": "Kerpen"
+        }
+    },
+    {
+        "code": "2892518",
+        "long": {
+            "default": "Cassel"
+        }
+    },
+    {
+        "code": "2892794",
+        "long": {
+            "default": "Karlsruhe"
+        }
+    },
+    {
+        "code": "2894003",
+        "long": {
+            "default": "Kaiserslautern"
+        }
+    },
+    {
+        "code": "2895044",
+        "long": {
+            "default": "Iéna"
+        }
+    },
+    {
+        "code": "2895669",
+        "long": {
+            "default": "Iserlohn"
+        }
+    },
+    {
+        "code": "2895992",
+        "long": {
+            "default": "Ingolstadt"
+        }
+    },
+    {
+        "code": "2905891",
+        "long": {
+            "default": "Herne"
+        }
+    },
+    {
+        "code": "2906121",
+        "long": {
+            "default": "Herford"
+        }
+    },
+    {
+        "code": "2906809",
+        "long": {
+            "default": "Berlin-Hellersdorf"
+        }
+    },
+    {
+        "code": "2907669",
+        "long": {
+            "default": "Heilbronn"
+        }
+    },
+    {
+        "code": "2907851",
+        "long": {
+            "default": "Heidenheim"
+        }
+    },
+    {
+        "code": "2907911",
+        "long": {
+            "default": "Heidelberg"
+        }
+    },
+    {
+        "code": "2910685",
+        "long": {
+            "default": "Arrondissement de Harburg"
+        }
+    },
+    {
+        "code": "2910831",
+        "long": {
+            "default": "Hanovre"
+        }
+    },
+    {
+        "code": "2911007",
+        "long": {
+            "default": "Hanau"
+        }
+    },
+    {
+        "code": "2911240",
+        "long": {
+            "default": "Hamm"
+        }
+    },
+    {
+        "code": "2911271",
+        "long": {
+            "default": "Hamelin"
+        }
+    },
+    {
+        "code": "2911288",
+        "long": {
+            "default": "Arrondissement de Hambourg-Mitte"
+        }
+    },
+    {
+        "code": "2911293",
+        "long": {
+            "default": "Arrondissement dEimsbüttel"
+        }
+    },
+    {
+        "code": "2911296",
+        "long": {
+            "default": "Arrondissement dAltona"
+        }
+    },
+    {
+        "code": "2911298",
+        "long": {
+            "default": "Hambourg"
+        }
+    },
+    {
+        "code": "2911522",
+        "long": {
+            "default": "Halle"
+        }
+    },
+    {
+        "code": "2912621",
+        "long": {
+            "default": "Hagen"
+        }
+    },
+    {
+        "code": "2917788",
+        "long": {
+            "default": "Greifswald"
+        }
+    },
+    {
+        "code": "2918632",
+        "long": {
+            "default": "Göttingen"
+        }
+    },
+    {
+        "code": "2918987",
+        "long": {
+            "default": "Görlitz"
+        }
+    },
+    {
+        "code": "2919054",
+        "long": {
+            "default": "Göppingen"
+        }
+    },
+    {
+        "code": "2920512",
+        "long": {
+            "default": "Giessen"
+        }
+    },
+    {
+        "code": "2920789",
+        "long": {
+            "default": "Berlin-Gesundbrunnen"
+        }
+    },
+    {
+        "code": "2921232",
+        "long": {
+            "default": "Gera"
+        }
+    },
+    {
+        "code": "2921466",
+        "long": {
+            "default": "Gelsenkirchen"
+        }
+    },
+    {
+        "code": "2923544",
+        "long": {
+            "default": "Fürth"
+        }
+    },
+    {
+        "code": "2923822",
+        "long": {
+            "default": "Fulda"
+        }
+    },
+    {
+        "code": "2924573",
+        "long": {
+            "default": "Berlin-Friedrichshain"
+        }
+    },
+    {
+        "code": "2924585",
+        "long": {
+            "default": "Friedrichshafen"
+        }
+    },
+    {
+        "code": "2925177",
+        "long": {
+            "default": "Fribourg-en-Brisgau"
+        }
+    },
+    {
+        "code": "2925533",
+        "long": {
+            "default": "Francfort-sur-le-Main"
+        }
+    },
+    {
+        "code": "2925535",
+        "long": {
+            "default": "Francfort-sur-l'Oder"
+        }
+    },
+    {
+        "code": "2926271",
+        "long": {
+            "default": "Flensbourg"
+        }
+    },
+    {
+        "code": "2928751",
+        "long": {
+            "default": "Esslingen"
+        }
+    },
+    {
+        "code": "2928810",
+        "long": {
+            "default": "Essen"
+        }
+    },
+    {
+        "code": "2928963",
+        "long": {
+            "default": "Eschweiler"
+        }
+    },
+    {
+        "code": "2929567",
+        "long": {
+            "default": "Erlangen"
+        }
+    },
+    {
+        "code": "2929670",
+        "long": {
+            "default": "Erfurt"
+        }
+    },
+    {
+        "code": "2934246",
+        "long": {
+            "default": "Düsseldorf"
+        }
+    },
+    {
+        "code": "2934486",
+        "long": {
+            "default": "Düren"
+        }
+    },
+    {
+        "code": "2934691",
+        "long": {
+            "default": "Duisbourg"
+        }
+    },
+    {
+        "code": "2935022",
+        "long": {
+            "default": "Dresde"
+        }
+    },
+    {
+        "code": "2935517",
+        "long": {
+            "default": "Dortmund"
+        }
+    },
+    {
+        "code": "2937936",
+        "long": {
+            "default": "Detmold"
+        }
+    },
+    {
+        "code": "2937959",
+        "long": {
+            "default": "Dessau"
+        }
+    },
+    {
+        "code": "2938913",
+        "long": {
+            "default": "Darmstadt"
+        }
+    },
+    {
+        "code": "2939658",
+        "long": {
+            "default": "Cuxhuuwen"
+        }
+    },
+    {
+        "code": "2939811",
+        "long": {
+            "default": "Cottbus"
+        }
+    },
+    {
+        "code": "2940132",
+        "long": {
+            "default": "Chemnitz"
+        }
+    },
+    {
+        "code": "2940213",
+        "long": {
+            "default": "Celle"
+        }
+    },
+    {
+        "code": "2944368",
+        "long": {
+            "default": "Bremerhaven"
+        }
+    },
+    {
+        "code": "2944388",
+        "long": {
+            "default": "Brême"
+        }
+    },
+    {
+        "code": "2945024",
+        "long": {
+            "default": "Brunswick"
+        }
+    },
+    {
+        "code": "2945358",
+        "long": {
+            "default": "Brandebourg-sur-la-Havel"
+        }
+    },
+    {
+        "code": "2945756",
+        "long": {
+            "default": "Bottrop"
+        }
+    },
+    {
+        "code": "2947416",
+        "long": {
+            "default": "Bochum"
+        }
+    },
+    {
+        "code": "2947421",
+        "long": {
+            "default": "Bocholt"
+        }
+    },
+    {
+        "code": "2949186",
+        "long": {
+            "default": "Bielefeld"
+        }
+    },
+    {
+        "code": "2950159",
+        "long": {
+            "default": "Berlin"
+        }
+    },
+    {
+        "code": "2950349",
+        "long": {
+            "default": "Bergisch Gladbach"
+        }
+    },
+    {
+        "code": "2951825",
+        "long": {
+            "default": "Bayreuth"
+        }
+    },
+    {
+        "code": "2952984",
+        "long": {
+            "default": "Bamberg"
+        }
+    },
+    {
+        "code": "2953436",
+        "long": {
+            "default": "Bad Homburg vor der Höhe"
+        }
+    },
+    {
+        "code": "2953504",
+        "long": {
+            "default": "Baden-Baden"
+        }
+    },
+    {
+        "code": "2954172",
+        "long": {
+            "default": "Augsbourg"
+        }
+    },
+    {
+        "code": "2955272",
+        "long": {
+            "default": "Aschaffenbourg"
+        }
+    },
+    {
+        "code": "2955471",
+        "long": {
+            "default": "Arnsberg"
+        }
+    },
+    {
+        "code": "2959927",
+        "long": {
+            "default": "Aalen"
+        }
+    },
+    {
+        "code": "3247449",
+        "long": {
+            "default": "Aix-la-Chapelle"
+        }
+    },
+    {
+        "code": "7290243",
+        "long": {
+            "default": "Arrondissement de Bergedorf"
+        }
+    },
+    {
+        "code": "8334622",
+        "long": {
+            "default": "Berlin-Neu-Hohenschönhausen"
+        }
+    },
+    {
+        "code": "8354626",
+        "long": {
+            "default": "Arrondissement de Hambourg-Nord"
+        }
+    }
+]
