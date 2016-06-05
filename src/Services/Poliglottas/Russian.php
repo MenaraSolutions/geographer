@@ -67,7 +67,7 @@ class Russian extends Base
     {
         $output = $this->removeLastLetterIfNeeded($template);
 
-        if (array_key_exists($this->getLastLetter($template), $this->replacementsFrom)) {
+        if (array_key_exists($this->getLastLetter($template), $this->replacementsIn)) {
             $output .= $this->replacementsIn[$this->getLastLetter($template)];
         }
 

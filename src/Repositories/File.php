@@ -10,6 +10,7 @@ use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\State;
 use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
+use MenaraSolutions\Geographer\City;
 
 class File implements RepositoryInterface
 {
@@ -139,26 +140,33 @@ class File implements RepositoryInterface
     public function getTranslations(IdentifiableInterface $subject, $language)
     {
         $elements = explode('\\', get_class($subject));
-        $class = strtolower(end($elements));
+        $key = strtolower(end($elements));
 
-        if (empty($this->cache)) $this->loadTranslations($class, $language);
+        if (get_class($subject) == City::class) {
+            $country = $subject->getMeta()['country'];
+            $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . DIRECTORY_SEPARATOR . $country .  '.json';
+        } else {
+            $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
+        }
 
-        return isset($this->cache[$class][$language][$subject->getCode()]) ?
-            $this->cache[$class][$language][$subject->getCode()] : false;
+        if (empty($this->cache)) $this->loadTranslations($path, $key, $language);
+
+        return isset($this->cache[$key][$language][$subject->getCode()]) ?
+            $this->cache[$key][$language][$subject->getCode()] : false;
     }
 
     /**
-     * @param $class
+     * @param string $path
+     * @param string $key
      * @param $language
      * @throws FileNotFoundException
      */
-    protected function loadTranslations($class, $language)
+    protected function loadTranslations($path, $key, $language)
     {
-        $path = $this->prefix . 'translations/' . $class . DIRECTORY_SEPARATOR . $language . '.json';
         $meta = static::loadJson($path);
 
         foreach ($meta as $one) {
-            $this->cache[$class][$language][$one['code']] = $one;
+            $this->cache[$key][$language][$one['code']] = $one;
         }
     }
 }
