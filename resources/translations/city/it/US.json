@@ -1,0 +1,764 @@
+[
+    {
+        "code": "4049979",
+        "long": {
+            "default": "Birmingham"
+        }
+    },
+    {
+        "code": "4076784",
+        "long": {
+            "default": "Montgomery"
+        }
+    },
+    {
+        "code": "4119403",
+        "long": {
+            "default": "Little Rock"
+        }
+    },
+    {
+        "code": "4140963",
+        "long": {
+            "default": "Washington"
+        }
+    },
+    {
+        "code": "4155966",
+        "long": {
+            "default": "Fort Lauderdale"
+        }
+    },
+    {
+        "code": "4160021",
+        "long": {
+            "default": "Jacksonville"
+        }
+    },
+    {
+        "code": "4164138",
+        "long": {
+            "default": "Miami"
+        }
+    },
+    {
+        "code": "4174715",
+        "long": {
+            "default": "Tallahassee"
+        }
+    },
+    {
+        "code": "4174757",
+        "long": {
+            "default": "Tampa"
+        }
+    },
+    {
+        "code": "4180439",
+        "long": {
+            "default": "Atlanta"
+        }
+    },
+    {
+        "code": "4250542",
+        "long": {
+            "default": "Springfield"
+        }
+    },
+    {
+        "code": "4274277",
+        "long": {
+            "default": "Lawrence"
+        }
+    },
+    {
+        "code": "4280539",
+        "long": {
+            "default": "Topeka"
+        }
+    },
+    {
+        "code": "4299276",
+        "long": {
+            "default": "Louisville"
+        }
+    },
+    {
+        "code": "4315588",
+        "long": {
+            "default": "Baton Rouge"
+        }
+    },
+    {
+        "code": "4335045",
+        "long": {
+            "default": "New Orleans"
+        }
+    },
+    {
+        "code": "4347778",
+        "long": {
+            "default": "Baltimora"
+        }
+    },
+    {
+        "code": "4393217",
+        "long": {
+            "default": "Kansas City"
+        }
+    },
+    {
+        "code": "4407010",
+        "long": {
+            "default": "St. Joseph"
+        }
+    },
+    {
+        "code": "4407066",
+        "long": {
+            "default": "Saint Louis"
+        }
+    },
+    {
+        "code": "4431410",
+        "long": {
+            "default": "Jackson"
+        }
+    },
+    {
+        "code": "4487042",
+        "long": {
+            "default": "Raleigh"
+        }
+    },
+    {
+        "code": "4508722",
+        "long": {
+            "default": "Cincinnati"
+        }
+    },
+    {
+        "code": "4509177",
+        "long": {
+            "default": "Columbus"
+        }
+    },
+    {
+        "code": "4509884",
+        "long": {
+            "default": "Dayton"
+        }
+    },
+    {
+        "code": "4544349",
+        "long": {
+            "default": "Oklahoma City"
+        }
+    },
+    {
+        "code": "4560349",
+        "long": {
+            "default": "Filadelfia"
+        }
+    },
+    {
+        "code": "4575352",
+        "long": {
+            "default": "Columbia"
+        }
+    },
+    {
+        "code": "4641239",
+        "long": {
+            "default": "Memphis"
+        }
+    },
+    {
+        "code": "4644585",
+        "long": {
+            "default": "Nashville"
+        }
+    },
+    {
+        "code": "4671654",
+        "long": {
+            "default": "Austin"
+        }
+    },
+    {
+        "code": "4684888",
+        "long": {
+            "default": "Dallas"
+        }
+    },
+    {
+        "code": "4691930",
+        "long": {
+            "default": "Fort Worth"
+        }
+    },
+    {
+        "code": "4699066",
+        "long": {
+            "default": "Houston"
+        }
+    },
+    {
+        "code": "4726206",
+        "long": {
+            "default": "San Antonio"
+        }
+    },
+    {
+        "code": "4739526",
+        "long": {
+            "default": "Waco"
+        }
+    },
+    {
+        "code": "4744709",
+        "long": {
+            "default": "Arlington"
+        }
+    },
+    {
+        "code": "4801859",
+        "long": {
+            "default": "Charleston"
+        }
+    },
+    {
+        "code": "4835797",
+        "long": {
+            "default": "Hartford"
+        }
+    },
+    {
+        "code": "4839366",
+        "long": {
+            "default": "New Haven"
+        }
+    },
+    {
+        "code": "4843564",
+        "long": {
+            "default": "Stamford"
+        }
+    },
+    {
+        "code": "4845193",
+        "long": {
+            "default": "Waterbury"
+        }
+    },
+    {
+        "code": "4853828",
+        "long": {
+            "default": "Des Moines"
+        }
+    },
+    {
+        "code": "4887398",
+        "long": {
+            "default": "Chicago"
+        }
+    },
+    {
+        "code": "4905687",
+        "long": {
+            "default": "Peoria"
+        }
+    },
+    {
+        "code": "4930956",
+        "long": {
+            "default": "Boston"
+        }
+    },
+    {
+        "code": "4975802",
+        "long": {
+            "default": "Portland"
+        }
+    },
+    {
+        "code": "4990510",
+        "long": {
+            "default": "Dearborn"
+        }
+    },
+    {
+        "code": "4990729",
+        "long": {
+            "default": "Detroit"
+        }
+    },
+    {
+        "code": "4998830",
+        "long": {
+            "default": "Lansing"
+        }
+    },
+    {
+        "code": "5024719",
+        "long": {
+            "default": "Duluth"
+        }
+    },
+    {
+        "code": "5037649",
+        "long": {
+            "default": "Minneapolis"
+        }
+    },
+    {
+        "code": "5045360",
+        "long": {
+            "default": "Saint Paul"
+        }
+    },
+    {
+        "code": "5059163",
+        "long": {
+            "default": "Fargo"
+        }
+    },
+    {
+        "code": "5072006",
+        "long": {
+            "default": "Lincoln"
+        }
+    },
+    {
+        "code": "5101798",
+        "long": {
+            "default": "Newark"
+        }
+    },
+    {
+        "code": "5105496",
+        "long": {
+            "default": "Trenton"
+        }
+    },
+    {
+        "code": "5106834",
+        "long": {
+            "default": "Albany"
+        }
+    },
+    {
+        "code": "5110302",
+        "long": {
+            "default": "Brooklyn"
+        }
+    },
+    {
+        "code": "5110629",
+        "long": {
+            "default": "Buffalo"
+        }
+    },
+    {
+        "code": "5128581",
+        "long": {
+            "default": "New York"
+        }
+    },
+    {
+        "code": "5128723",
+        "long": {
+            "default": "Niagara Falls"
+        }
+    },
+    {
+        "code": "5134086",
+        "long": {
+            "default": "Rochester"
+        }
+    },
+    {
+        "code": "5140405",
+        "long": {
+            "default": "Syracuse"
+        }
+    },
+    {
+        "code": "5145215",
+        "long": {
+            "default": "Yonkers"
+        }
+    },
+    {
+        "code": "5150529",
+        "long": {
+            "default": "Cleveland"
+        }
+    },
+    {
+        "code": "5178127",
+        "long": {
+            "default": "Allentown"
+        }
+    },
+    {
+        "code": "5206379",
+        "long": {
+            "default": "Pittsburgh"
+        }
+    },
+    {
+        "code": "5224151",
+        "long": {
+            "default": "Providence"
+        }
+    },
+    {
+        "code": "5258393",
+        "long": {
+            "default": "Kenosha"
+        }
+    },
+    {
+        "code": "5261457",
+        "long": {
+            "default": "Madison"
+        }
+    },
+    {
+        "code": "5263045",
+        "long": {
+            "default": "Milwaukee"
+        }
+    },
+    {
+        "code": "5282804",
+        "long": {
+            "default": "Bridgeport"
+        }
+    },
+    {
+        "code": "5294810",
+        "long": {
+            "default": "Flagstaff"
+        }
+    },
+    {
+        "code": "5295985",
+        "long": {
+            "default": "Glendale"
+        }
+    },
+    {
+        "code": "5308655",
+        "long": {
+            "default": "Phoenix"
+        }
+    },
+    {
+        "code": "5318313",
+        "long": {
+            "default": "Tucson"
+        }
+    },
+    {
+        "code": "5323810",
+        "long": {
+            "default": "Anaheim"
+        }
+    },
+    {
+        "code": "5327684",
+        "long": {
+            "default": "Berkeley"
+        }
+    },
+    {
+        "code": "5331835",
+        "long": {
+            "default": "Burbank"
+        }
+    },
+    {
+        "code": "5334223",
+        "long": {
+            "default": "Carlsbad"
+        }
+    },
+    {
+        "code": "5339066",
+        "long": {
+            "default": "Compton"
+        }
+    },
+    {
+        "code": "5339840",
+        "long": {
+            "default": "Costa Mesa"
+        }
+    },
+    {
+        "code": "5341145",
+        "long": {
+            "default": "Cupertino"
+        }
+    },
+    {
+        "code": "5341704",
+        "long": {
+            "default": "Davis"
+        }
+    },
+    {
+        "code": "5350937",
+        "long": {
+            "default": "Fresno"
+        }
+    },
+    {
+        "code": "5357527",
+        "long": {
+            "default": "Hollywood"
+        }
+    },
+    {
+        "code": "5358705",
+        "long": {
+            "default": "Huntington Beach"
+        }
+    },
+    {
+        "code": "5359777",
+        "long": {
+            "default": "Irvine"
+        }
+    },
+    {
+        "code": "5367565",
+        "long": {
+            "default": "Lodi"
+        }
+    },
+    {
+        "code": "5367929",
+        "long": {
+            "default": "Long Beach"
+        }
+    },
+    {
+        "code": "5368361",
+        "long": {
+            "default": "Los Angeles"
+        }
+    },
+    {
+        "code": "5373900",
+        "long": {
+            "default": "Modesto"
+        }
+    },
+    {
+        "code": "5378538",
+        "long": {
+            "default": "Oakland"
+        }
+    },
+    {
+        "code": "5380184",
+        "long": {
+            "default": "Oxnard"
+        }
+    },
+    {
+        "code": "5381396",
+        "long": {
+            "default": "Pasadena"
+        }
+    },
+    {
+        "code": "5384170",
+        "long": {
+            "default": "Pomona"
+        }
+    },
+    {
+        "code": "5388881",
+        "long": {
+            "default": "Roseville"
+        }
+    },
+    {
+        "code": "5389489",
+        "long": {
+            "default": "Sacramento"
+        }
+    },
+    {
+        "code": "5391710",
+        "long": {
+            "default": "San Bernardino"
+        }
+    },
+    {
+        "code": "5391811",
+        "long": {
+            "default": "San Diego"
+        }
+    },
+    {
+        "code": "5391959",
+        "long": {
+            "default": "San Francisco"
+        }
+    },
+    {
+        "code": "5392171",
+        "long": {
+            "default": "San Jose"
+        }
+    },
+    {
+        "code": "5392952",
+        "long": {
+            "default": "Santa Barbara"
+        }
+    },
+    {
+        "code": "5393052",
+        "long": {
+            "default": "Santa Cruz"
+        }
+    },
+    {
+        "code": "5393212",
+        "long": {
+            "default": "Santa Monica"
+        }
+    },
+    {
+        "code": "5399020",
+        "long": {
+            "default": "Stockton"
+        }
+    },
+    {
+        "code": "5417598",
+        "long": {
+            "default": "Colorado Springs"
+        }
+    },
+    {
+        "code": "5419384",
+        "long": {
+            "default": "Denver"
+        }
+    },
+    {
+        "code": "5454711",
+        "long": {
+            "default": "Albuquerque"
+        }
+    },
+    {
+        "code": "5490263",
+        "long": {
+            "default": "Santa Fe"
+        }
+    },
+    {
+        "code": "5501344",
+        "long": {
+            "default": "Carson City"
+        }
+    },
+    {
+        "code": "5506956",
+        "long": {
+            "default": "Las Vegas"
+        }
+    },
+    {
+        "code": "5520993",
+        "long": {
+            "default": "El Paso"
+        }
+    },
+    {
+        "code": "5574991",
+        "long": {
+            "default": "Boulder"
+        }
+    },
+    {
+        "code": "5586437",
+        "long": {
+            "default": "Boise"
+        }
+    },
+    {
+        "code": "5688025",
+        "long": {
+            "default": "Bismarck"
+        }
+    },
+    {
+        "code": "5725846",
+        "long": {
+            "default": "Eugene"
+        }
+    },
+    {
+        "code": "5746545",
+        "long": {
+            "default": "Portland"
+        }
+    },
+    {
+        "code": "5750162",
+        "long": {
+            "default": "Salem"
+        }
+    },
+    {
+        "code": "5780993",
+        "long": {
+            "default": "Salt Lake City"
+        }
+    },
+    {
+        "code": "5808079",
+        "long": {
+            "default": "Redmond"
+        }
+    },
+    {
+        "code": "5809844",
+        "long": {
+            "default": "Seattle"
+        }
+    },
+    {
+        "code": "5821086",
+        "long": {
+            "default": "Cheyenne"
+        }
+    },
+    {
+        "code": "5856195",
+        "long": {
+            "default": "Honolulu"
+        }
+    },
+    {
+        "code": "5879400",
+        "long": {
+            "default": "Anchorage"
+        }
+    },
+    {
+        "code": "7259621",
+        "long": {
+            "default": "West Bloomfield"
+        }
+    }
+]
