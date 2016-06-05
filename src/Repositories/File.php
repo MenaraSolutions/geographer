@@ -2,6 +2,7 @@
 
 namespace MenaraSolutions\Geographer\Repositories;
 
+use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Contracts\RepositoryInterface;
 use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\Country;
@@ -131,21 +132,19 @@ class File implements RepositoryInterface
     }
 
     /**
-     * @param $class
-     * @param $code
+     * @param IdentifiableInterface $subject
      * @param $language
-     * @throws FileNotFoundException
-     * @return array
+     * @return bool
      */
-    public function getTranslations($class, $code, $language)
+    public function getTranslations(IdentifiableInterface $subject, $language)
     {
-        $elements = explode('\\', $class);
+        $elements = explode('\\', get_class($subject));
         $class = strtolower(end($elements));
 
         if (empty($this->cache)) $this->loadTranslations($class, $language);
 
-        return isset($this->cache[$class][$language][$code]) ?
-            $this->cache[$class][$language][$code] : false;
+        return isset($this->cache[$class][$language][$subject->getCode()]) ?
+            $this->cache[$class][$language][$subject->getCode()] : false;
     }
 
     /**

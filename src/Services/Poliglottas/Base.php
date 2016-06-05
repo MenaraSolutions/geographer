@@ -81,7 +81,7 @@ abstract class Base implements PoliglottaInterface
      */
     protected function fromDictionary(IdentifiableInterface $subject)
     {
-        $translations = $this->agency->getRepository()->getTranslations(get_class($subject), $subject->getCode(), $this->code);
+        $translations = $this->agency->getRepository()->getTranslations($subject, $this->code);
         
         return $translations ?: $subject->getMeta();
     }

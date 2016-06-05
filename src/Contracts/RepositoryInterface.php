@@ -16,10 +16,9 @@ interface RepositoryInterface
     public function getData($class, array $params);
 
     /**
-     * @param $class
-     * @param $code
+     * @param IdentifiableInterface $subject
      * @param $language
      * @return array
      */
-    public function getTranslations($class, $code, $language);
+    public function getTranslations(IdentifiableInterface $subject, $language);
 }
