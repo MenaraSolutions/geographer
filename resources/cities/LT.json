@@ -9,6 +9,7 @@
         "parent": 864485,
         "lat": 54.68916,
         "lng": 25.2798,
+        "country": "LT",
         "population": 542366
     },
     "594739": {
@@ -21,6 +22,7 @@
         "parent": 864481,
         "lat": 55.93333,
         "lng": 23.31667,
+        "country": "LT",
         "population": 130587
     },
     "596128": {
@@ -33,6 +35,7 @@
         "parent": 864480,
         "lat": 55.73333,
         "lng": 24.35,
+        "country": "LT",
         "population": 117395
     },
     "598098": {
@@ -45,6 +48,7 @@
         "parent": 864478,
         "lat": 55.71722,
         "lng": 21.1175,
+        "country": "LT",
         "population": 192307
     },
     "598316": {
@@ -57,6 +61,7 @@
         "parent": 864477,
         "lat": 54.9,
         "lng": 23.9,
+        "country": "LT",
         "population": 374643
     },
     "601084": {
@@ -69,6 +74,7 @@
         "parent": 864389,
         "lat": 54.4,
         "lng": 24.05,
+        "country": "LT",
         "population": 70747
     },
     "6618486": {
@@ -81,6 +87,7 @@
         "parent": 864477,
         "lat": 54.91525,
         "lng": 23.96831,
+        "country": "LT",
         "population": 70000
     },
     "9610008": {
@@ -93,6 +100,7 @@
         "parent": 864477,
         "lat": 54.93133,
         "lng": 23.93243,
+        "country": "LT",
         "population": 61700
     }
 }

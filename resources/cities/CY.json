@@ -9,6 +9,7 @@
         "parent": 146267,
         "lat": 35.17531,
         "lng": 33.3642,
+        "country": "CY",
         "population": 200452
     },
     "146384": {
@@ -21,6 +22,7 @@
         "parent": 146383,
         "lat": 34.68406,
         "lng": 33.03794,
+        "country": "CY",
         "population": 154000
     },
     "146400": {
@@ -33,6 +35,7 @@
         "parent": 146398,
         "lat": 34.92291,
         "lng": 33.6233,
+        "country": "CY",
         "population": 72000
     }
 }

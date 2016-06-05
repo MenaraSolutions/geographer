@@ -9,6 +9,7 @@
         "parent": 616051,
         "lat": 40.18111,
         "lng": 44.51361,
+        "country": "AM",
         "population": 1093485
     },
     "616530": {
@@ -21,6 +22,7 @@
         "parent": 828263,
         "lat": 40.80456,
         "lng": 44.4939,
+        "country": "AM",
         "population": 101098
     },
     "616635": {
@@ -33,6 +35,7 @@
         "parent": 828264,
         "lat": 40.7942,
         "lng": 43.84528,
+        "country": "AM",
         "population": 148381
     }
 }
