@@ -34,6 +34,11 @@ class File implements RepositoryInterface
     ];
 
     /**
+     * @var array
+     */
+    protected $cache = [];
+
+    /**
      * File constructor.
      * @param string $prefix
      */
@@ -123,5 +128,38 @@ class File implements RepositoryInterface
     {
         if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
         return json_decode(file_get_contents($path), true);
+    }
+
+    /**
+     * @param $class
+     * @param $code
+     * @param $language
+     * @throws FileNotFoundException
+     * @return array
+     */
+    public function getTranslations($class, $code, $language)
+    {
+        $elements = explode('\\', $class);
+        $class = strtolower(end($elements));
+
+        if (empty($this->cache)) $this->loadTranslations($class, $language);
+
+        return isset($this->cache[$class][$language][$code]) ?
+            $this->cache[$class][$language][$code] : false;
+    }
+
+    /**
+     * @param $class
+     * @param $language
+     * @throws FileNotFoundException
+     */
+    protected function loadTranslations($class, $language)
+    {
+        $path = $this->prefix . 'translations/' . $class . DIRECTORY_SEPARATOR . $language . '.json';
+        $meta = static::loadJson($path);
+
+        foreach ($meta as $one) {
+            $this->cache[$class][$language][$one['code']] = $one;
+        }
     }
 }

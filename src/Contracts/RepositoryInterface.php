@@ -14,4 +14,12 @@ interface RepositoryInterface
      * @return array
      */
     public function getData($class, array $params);
+
+    /**
+     * @param $class
+     * @param $code
+     * @param $language
+     * @return array
+     */
+    public function getTranslations($class, $code, $language);
 }

@@ -4,6 +4,7 @@ namespace MenaraSolutions\Geographer\Services;
 
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Contracts\PoliglottaInterface;
+use MenaraSolutions\Geographer\Contracts\RepositoryInterface;
 use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Services\Poliglottas\French;
@@ -23,6 +24,11 @@ class TranslationAgency implements TranslationAgencyInterface
      * @var string
      */
     protected $basePath;
+
+    /**
+     * @var RepositoryInterface
+     */
+    protected $repository;
 
     /**
      * @var string
@@ -61,10 +67,12 @@ class TranslationAgency implements TranslationAgencyInterface
     /**
      * TranslationRepository constructor.
      * @param string $basePath
+     * @param RepositoryInterface $repository
      */
-    public function __construct($basePath)
+    public function __construct($basePath, RepositoryInterface $repository)
     {
         $this->basePath = $basePath;
+        $this->repository = $repository;
     }
 
     /**
@@ -122,12 +130,32 @@ class TranslationAgency implements TranslationAgencyInterface
         }
 
         if (! isset($this->translators[$language])) {
-            $this->translators[$language] = new $this->languages[$language]($this->basePath);
+            $this->translators[$language] = new $this->languages[$language]($this);
         }
 
         return $this->translators[$language];
     }
-    
+
+    /**
+     * @return RepositoryInterface $repository
+     */
+    public function getRepository()
+    {
+        return $this->repository;
+    }
+
+    /**
+     * @param RepositoryInterface $repository
+     * @return TranslationAgencyInterface
+     */
+    public function setRepository($repository)
+    {
+        $this->repository = $repository;
+
+        return $this;
+    }
+
+
     /**
      * @return array
      */

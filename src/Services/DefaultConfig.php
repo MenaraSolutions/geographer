@@ -57,8 +57,8 @@ class DefaultConfig implements ConfigInterface
     public function __construct($path = null, TranslationAgencyInterface $translator = null, RepositoryInterface $repository= null)
     {
         $this->path = $path ?: dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
-        $this->translator = $translator ?: new TranslationAgency($this->path);
         $this->repository = $repository ?: new File($this->path);
+        $this->translator = $translator ?: new TranslationAgency($this->path, $this->repository);
     }
 
     /**

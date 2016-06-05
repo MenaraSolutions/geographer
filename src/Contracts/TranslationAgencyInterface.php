@@ -16,6 +16,17 @@ interface TranslationAgencyInterface
     public function translate(IdentifiableInterface $subject, $language);
 
     /**
+     * @return RepositoryInterface $repository
+     */
+    public function getRepository();
+
+    /**
+     * @param RepositoryInterface $repository
+     * @return TranslationAgencyInterface
+     */
+    public function setRepository($repository);
+
+    /**
      * @return array
      */
     public function getSupportedLanguages();

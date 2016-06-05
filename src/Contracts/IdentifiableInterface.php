@@ -14,7 +14,7 @@ interface IdentifiableInterface
      * @return string|int
      */
     public function getCode();
-
+    
     /**
      * @return bool
      */

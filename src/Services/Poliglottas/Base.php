@@ -2,6 +2,7 @@
 
 namespace MenaraSolutions\Geographer\Services\Poliglottas;
 
+use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\State;
 use MenaraSolutions\Geographer\Earth;
@@ -20,22 +21,12 @@ abstract class Base implements PoliglottaInterface
     /**
      * @var string
      */
-    protected $basePath;
+    protected $code;
 
     /**
-     * @var string
+     * @var TranslationAgencyInterface
      */
-    protected $code;
-    
-    /**
-     * @var array
-     */
-    protected $prefixes = [
-        Earth::class => 'planet',
-        Country::class => 'country',
-        State::class => 'state',
-        City::class => 'city'
-    ];
+    protected $agency;
 
     /**
      * @var array
@@ -48,11 +39,12 @@ abstract class Base implements PoliglottaInterface
     protected $defaultPrepositions = [];
 
     /**
-     * @param string $basePath
+     * Base constructor.
+     * @param TranslationAgencyInterface $agency
      */
-    public function __construct($basePath)
+    public function __construct(TranslationAgencyInterface $agency)
     {
-        $this->basePath = $basePath;
+        $this->agency = $agency;
     }
 
     /**
@@ -68,7 +60,7 @@ abstract class Base implements PoliglottaInterface
             throw new MisconfigurationException('Language ' . $this->code . ' doesn\'t inflict to ' . $form);
         }
 
-        $meta = $this->fromCache($subject);
+        $meta = $this->fromDictionary($subject);
         $result = $this->extract($meta, $subject->expectsLongNames(), $form);
 
         if (! $result) {
@@ -84,63 +76,14 @@ abstract class Base implements PoliglottaInterface
     }
 
     /**
-     * @param $class
-     * @throws MisconfigurationException
-     * @return string
-     */
-    protected function getPrefix($class)
-    {
-        if (! array_key_exists($class, $this->prefixes)) throw new MisconfigurationException('Unsupported class');
-
-        return $this->prefixes[$class];
-    }
-
-    /**
-     * @param string $class
-     * @param string|int $memberId
-     * @return string|bool
-     */
-    public function getStoragePath($class, $memberId)
-    {
-        switch ($class) {
-	        case State::class:
-            case Country::class:
-                return $this->basePath . 'translations/' . $this->getPrefix($class) . DIRECTORY_SEPARATOR . $this->code . '.json';
-
-                break;
-
-            default:
-        }
-    }
-
-    /**
-     * @param IdentifiableInterface $subject
-     * @throws FileNotFoundException
-     */
-    public function loadDictionaries(IdentifiableInterface $subject)
-    {
-        if (isset($this->cache[$this->getPrefix(get_class($subject))][$this->code])) return;
-
-        $source = $this->getStoragePath(get_class($subject), $subject->getCode());
-        if (!file_exists($source)) throw new FileNotFoundException('File not found: ' . $source);
-
-        foreach (json_decode(file_get_contents($source), true) as $one) {
-            $this->cache[$this->getPrefix(get_class($subject))][$this->code][$one['code']] = $one;
-        }
-    }
-
-    /**
      * @param IdentifiableInterface $subject
      * @return array
      */
-    protected function fromCache(IdentifiableInterface $subject)
+    protected function fromDictionary(IdentifiableInterface $subject)
     {
-        $this->loadDictionaries($subject);
-
-        $meta = isset($this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()]) ?
-            $this->cache[$this->getPrefix(get_class($subject))][$this->code][$subject->getCode()] : $subject->getMeta();
-
-        return $meta;
+        $translations = $this->agency->getRepository()->getTranslations(get_class($subject), $subject->getCode(), $this->code);
+        
+        return $translations ?: $subject->getMeta();
     }
 
     /**

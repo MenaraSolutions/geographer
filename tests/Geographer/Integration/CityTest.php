@@ -37,6 +37,11 @@ class CityTest extends \PHPUnit_Framework_TestCase
                     $array = $city->toArray();
                     $this->assertTrue(isset($array['code']) && is_int($array['code']));
                     $this->assertTrue(isset($array['name']) && is_string($array['name']));
+
+                    /*if ($country->getCode() == 'RU') {
+                        $city->setLanguage('ru');
+                        echo $city->getName() . "\n";
+                    }*/
                 }
             }
 
