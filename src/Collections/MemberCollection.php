@@ -27,11 +27,12 @@ class MemberCollection extends \ArrayObject
      * MemberCollection constructor.
      * @param ConfigInterface $config
      */
-    public function __construct(ConfigInterface $config)
+    public function __construct(ConfigInterface $config, $divisions = [])
     {
         parent::__construct();
 
         $this->config = $config;
+	$this->divisions = $divisions;
     }
 
     /**
@@ -130,5 +131,34 @@ class MemberCollection extends \ArrayObject
     public function unserialize($serialized)
     {
         $this->divisions = unserialize($serialized);
+    }
+
+    /**
+     * Sort the collection
+     *
+     * @param  string $field
+     * @param  int   $options
+     * @param  bool  $descending
+     * @return static
+     */
+    public function sortBy($field, $options = SORT_REGULAR, $descending = false)
+    {
+        $results = [];
+
+        foreach ($this->divisions as $key => $value) {
+	    $meta = $value->toArray();
+            $results[$key] = $meta[$field];
+        }
+
+        $descending ? arsort($results, $options)
+                    : asort($results, $options);
+
+	print_r($results);
+
+        foreach (array_keys($results) as $key) {
+            $results[$key] = $this->divisions[$key];
+        }
+
+        return new static($this->config, $results);
     }
 }

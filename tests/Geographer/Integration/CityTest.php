@@ -38,9 +38,8 @@ class CityTest extends \PHPUnit_Framework_TestCase
                     $this->assertTrue(isset($array['code']) && is_int($array['code']));
                     $this->assertTrue(isset($array['name']) && is_string($array['name']));
 
-                    /*
-                    if ($country->getCode() == 'RU') {
-                        $city->setLanguage('ru')->inflict('from');
+                    /*if ($country->getCode() == 'RU') {
+                        $city->setLanguage('en')->inflict('from');
                         echo $city->getName() . "\n";
                     }*/
                 }

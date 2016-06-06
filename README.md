@@ -159,9 +159,10 @@ Geographer::getCountries()->useShortNames()->toArray();
 
 ## Todo
 
-1. Add Memcached repository driver
-2. Add translated cities
-3. Add unit tests (in addition to existing integration tests)
+1. Add basic spatial index
+2. Add basic collection methods (eg. sort)
+3. Add Memcached repository driver
+4. Add some unit tests (in addition to existing integration tests)
 
 ## Projects using Geographer
 
