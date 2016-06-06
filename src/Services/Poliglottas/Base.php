@@ -67,7 +67,7 @@ abstract class Base implements PoliglottaInterface
             $template = $this->inflictDefault($meta, $subject->expectsLongNames());
             $result = $this->{'inflict' . ucfirst($form)}($template);
             
-            if ($preposition) $result = $this->defaultPrepositions[$form] . ' ' . $result;
+            if ($preposition) $result = $this->getPreposition($form, $result) . ' ' . $result;
         } else if ($result && ! $preposition) {
             $result = mb_substr($result, mb_strpos($result, ' '));
         }
@@ -113,7 +113,17 @@ abstract class Base implements PoliglottaInterface
     {   
         return $template;
     }
-   
+
+    /**
+     * @param $form
+     * @param string $result
+     * @return string
+     */
+    protected function getPreposition($form, $result = null)
+    {
+        return $this->defaultPrepositions[$form];
+    }
+
     /**
      * @param array $meta
      * @param $long

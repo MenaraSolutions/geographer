@@ -40,7 +40,7 @@ class CityTest extends \PHPUnit_Framework_TestCase
 
                     /*
                     if ($country->getCode() == 'RU') {
-                        $city->setLanguage('ru')->inflict('in');
+                        $city->setLanguage('ru')->inflict('from');
                         echo $city->getName() . "\n";
                     }*/
                 }

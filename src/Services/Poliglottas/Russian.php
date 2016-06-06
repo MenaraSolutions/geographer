@@ -20,14 +20,15 @@ class Russian extends Base
     /**
      * @var array
      */
-    protected $removableLetters = ['я', 'а', 'й'];
+    protected $removableLetters = ['я', 'а', 'й', 'ь', 'е'];
 
     /**
      * @var array
      */
     protected $replacementsFrom = [
         'л' => 'а', 'т' => 'а', 'к' => 'а', 'г' => 'а', 'м' => 'а', 'з' => 'а', 'ш' => 'а',
-        'р' => 'а', 'с' => 'а', 'д' => 'а', 'н' => 'а', 'й' => 'я', 'я' => 'и', 'а' => 'ы'
+        'р' => 'а', 'с' => 'а', 'д' => 'а', 'н' => 'а', 'й' => 'я', 'я' => 'и', 'а' => 'ы',
+        'ь' => 'и'
     ];
 
     /**
@@ -35,8 +36,14 @@ class Russian extends Base
      */
     protected $replacementsIn = [
         'й' => 'е', 'л' => 'е', 'т' => 'е', 'г' => 'е', 'м' => 'е', 'з' => 'е', 'ш' => 'е',
-        'р' => 'е', 'с' => 'е', 'д' => 'е', 'н' => 'е', 'а' => 'е', 'я' => 'и'
+        'р' => 'е', 'с' => 'е', 'д' => 'е', 'н' => 'е', 'а' => 'е', 'я' => 'и', 'к' => 'е',
+        'ь' => 'и', 'в' => 'е', 'е' => 'м', 'п' => 'е'
     ];
+
+    /**
+     * @var array
+     */
+    protected $vowels = ['а', 'е', 'ё', 'и', 'о', 'у', 'ы', 'э', 'ю', 'я'];
 
    /**
     * @var array
@@ -105,5 +112,30 @@ class Russian extends Base
     private function removeLastLetter($string)
     {
         return mb_substr($string, 0, mb_strlen($string) - 1);
+    }
+
+    /**
+     * @param $form
+     * @param string $result
+     * @return string
+     */
+    protected function getPreposition($form, $result = null)
+    {
+        $preposition = $this->defaultPrepositions[$form];
+
+        if ($result && $form == 'in' && in_array(mb_strtolower(mb_substr($result, 0, 1)), ['в', 'ф']) && ! $this->isVowel(mb_substr($result, 1, 1))) {
+            $preposition .= 'о';
+        }
+
+        return $preposition;
+    }
+
+    /**
+     * @param string $character
+     * @return bool
+     */
+    private function isVowel($character)
+    {
+        return in_array(mb_strtolower($character), $this->vowels);
     }
 }
