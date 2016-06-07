@@ -152,9 +152,7 @@ class MemberCollection extends \ArrayObject
 
         $descending ? arsort($results, $options)
                     : asort($results, $options);
-
-	print_r($results);
-
+        
         foreach (array_keys($results) as $key) {
             $results[$key] = $this->divisions[$key];
         }

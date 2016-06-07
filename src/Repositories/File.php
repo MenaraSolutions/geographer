@@ -32,6 +32,7 @@ class File implements RepositoryInterface
      * @var array
      */
     protected static $indexes = [
+        Country::class => 'indexCountry.json',
         State::class => 'indexState.json'
     ];
 
@@ -109,8 +110,12 @@ class File implements RepositoryInterface
         $index = static::loadJson($prefix . self::$indexes[$class]);
         if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
 
-        $parentCode = $index[$id];
-        $path = self::getPath($class, $prefix, compact('parentCode'));
+        if ($class == State::class) {
+            $path = self::getPath($class, $prefix, ['parentCode' => $index[$id]]);
+        } else {
+            $path = self::getPath($class, $prefix, ['code' => $index[$id]]);
+        }
+
         $members = static::loadJson($path);
 
         foreach ($members as $member) {

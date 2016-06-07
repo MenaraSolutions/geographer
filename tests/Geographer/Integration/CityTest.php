@@ -3,6 +3,8 @@
 namespace Tests;
 
 use MenaraSolutions\Geographer\Earth;
+use MenaraSolutions\Geographer\City;
+use MenaraSolutions\Geographer\State;
 
 class CityTest extends \PHPUnit_Framework_TestCase
 {
@@ -38,10 +40,10 @@ class CityTest extends \PHPUnit_Framework_TestCase
                     $this->assertTrue(isset($array['code']) && is_int($array['code']));
                     $this->assertTrue(isset($array['name']) && is_string($array['name']));
 
-                    /*if ($country->getCode() == 'RU') {
-                        $city->setLanguage('en')->inflict('from');
-                        echo $city->getName() . "\n";
-                    }*/
+                    if ($country->getCode() == 'RU') {
+                        //$city->setLanguage('ru')->inflict('from');
+                        //echo $city->getName() . "\n";
+                    }
                 }
             }
 
@@ -49,5 +51,15 @@ class CityTest extends \PHPUnit_Framework_TestCase
                 $this->assertTrue($citiesCount > 0);
             }
         }
+    }
+
+    /**
+     * @test
+     */
+    public function city_can_get_a_parent()
+    {
+        $city = City::build(2761369);
+        $state = $city->parent();
+        $this->assertInstanceOf(State::class, $state);
     }
 }

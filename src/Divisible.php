@@ -187,7 +187,7 @@ abstract class Divisible implements IdentifiableInterface
     public function parent()
     {
         if (! $this->parent) {
-            $this->parent = new static::$parentClass([], null, $this->config);
+            $this->parent = call_user_func([static::$parentClass, 'build'], $this->parentCode, $this->config);
         }
 
         return $this->parent;
@@ -246,7 +246,8 @@ abstract class Divisible implements IdentifiableInterface
     {
         $config = $config ?: new DefaultConfig();
         $meta = File::indexSearch($id, static::$parentClass, $config->getStoragePath());
+        $parent = isset($meta['parent']) ? $meta['parent'] : null;
 
-        return new static($meta, $meta['parent'], $config);
+        return new static($meta, $parent, $config);
     }
 }
