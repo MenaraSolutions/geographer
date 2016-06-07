@@ -126,6 +126,7 @@ $state->getCode(); // Either ISO 3166 (US, CH, BE and ME) or FIPS code
 $state->getGeonamesCode(); // Geonames ID
 
 $state->getCities(); // A collection of all cities
+$state = State::build($id); // Instantiate a state directly, based on $id provided (Geonames) 
 ```
 
 ## City API
