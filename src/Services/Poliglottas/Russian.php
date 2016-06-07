@@ -89,12 +89,40 @@ class Russian extends Base
     {
         $output = $this->removeLastLetterIfNeeded($template);
 
+	if ($this->isTwoWords($template)) {
+	    $output = $this->attemptToInflictFirstWord($output);
+	} 
+
         if (array_key_exists($this->getLastLetter($template), $this->replacementsFrom)) {
             $output .= $this->replacementsFrom[$this->getLastLetter($template)];
         }
 
         return $output;
     }
+
+    /**
+     * @param $string
+     * @return string
+     */
+    private function attemptToInflictFirstWord($string)
+    {   
+	list($first, $second) = explode(' ', $string);
+
+	if (mb_substr($first, mb_strlen($first) - 2) == 'ая') {
+	    $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ой';
+	}
+
+	return $first . ' ' . $second; 
+    } 
+
+    /**
+     * @param $string
+     * @return bool
+     */
+    private function isTwoWords($string)
+    {   
+	return mb_substr_count($string, ' ') == 1;
+    } 
 
     /**
      * @param $string

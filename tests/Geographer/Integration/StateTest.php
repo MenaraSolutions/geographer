@@ -26,7 +26,7 @@ class StateTest extends Test
                 $array = $state->inflict('from')->setLanguage('ru')->toArray();
                 $this->assertTrue(isset($array['code']) && is_int($array['code']));
                 $this->assertTrue(isset($array['name']) && is_string($array['name']));
-                //if ($country->getCode() == 'UA') echo $array['name'] . "\n";
+//                if ($country->getCode() == 'UA') echo $array['name'] . "\n";
             }
         }
     }
