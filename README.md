@@ -66,7 +66,18 @@ $capital->getLatitude();
 $capital->getLongitude();
 ```
 
-## Common methods
+## Collections
+
+Arrays of administrative divisions (countries, states or cities) are returned as collections – a modern
+way of implementing arrays. Some of the available methods are:
+
+```php
+$states->sortBy('name'); // States will be sorted by name
+$states->setLanguage('ru')->sortBy('name'); // States will be sorted by Russian translations/names
+$states->find(['code' => 472039]); // Find 1+ divisions that match specified parameters 
+```
+
+## Common methods on division objects
 
 All objects can do the following:
 ```php
