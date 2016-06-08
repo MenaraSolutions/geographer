@@ -19,7 +19,7 @@ class Italian extends Base
     * @var array
     */
     protected $defaultPrepositions = [
-        'from' => 'di',
+        'from' => 'da',
         'in' => 'in'
     ];
 }

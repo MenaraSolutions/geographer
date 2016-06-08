@@ -20,6 +20,6 @@ class French extends Base
     */
     protected $defaultPrepositions = [
         'from' => 'de',
-        'in' => 'en'
+        'in' => 'à'
     ];
 }

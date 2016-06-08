@@ -169,12 +169,28 @@ Geographer::getCountries()->useShortNames()->toArray();
 | Chinese Mandarin | ✓            | ✓         | ✓           |
 | Bahasa Indonesia | WIP   | WIP        | WIP          |
 
+## Vision
+
+Our main principles and goals are:
+
+1. Be lightweight and independent – so that this package can be pulled anywhere alone
+2. Coverage – Geographer should cover all countries and languages
+3. Be extensible – developers should be able to override and extend easily
+
+## Performance
+
+While not a number one priority at this stage, we will try maintain reasonable CPU and memory performance. Some benchmarks:
+
+### Inflating a city based on its Id
+
+Time = 6 ms
+Memory = 81056 bytes
+
 ## Todo
 
 1. Add basic spatial index
-2. Add basic collection methods (eg. sort)
-3. Add Memcached repository driver
-4. Add some unit tests (in addition to existing integration tests)
+2. Add Memcached repository driver
+3. Add some unit tests (in addition to existing integration tests)
 
 ## Projects using Geographer
 

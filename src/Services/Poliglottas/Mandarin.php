@@ -19,7 +19,7 @@ class Mandarin extends Base
     * @var array
     */
     protected $defaultPrepositions = [
-        'from' => 'de',
-        'in' => 'en'
+        'from' => '来自',
+        'in' => '在'
     ];
 }
