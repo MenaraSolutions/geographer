@@ -181,9 +181,10 @@ Our main principles and goals are:
 
 While not a number one priority at this stage, we will try maintain reasonable CPU and memory performance. Some benchmarks:
 
-### Inflating a city based on its Id
+**Inflating a city based on its Id**
 
 Time = 6 ms
+
 Memory = 81056 bytes
 
 ## Todo
