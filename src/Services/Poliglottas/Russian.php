@@ -28,7 +28,7 @@ class Russian extends Base
     protected $replacementsFrom = [
         'л' => 'а', 'т' => 'а', 'к' => 'а', 'г' => 'а', 'м' => 'а', 'з' => 'а', 'ш' => 'а',
         'р' => 'а', 'с' => 'а', 'д' => 'а', 'н' => 'а', 'й' => 'я', 'я' => 'и', 'а' => 'ы',
-        'ь' => 'и'
+        'ь' => 'и', 'в' => 'а'
     ];
 
     /**
@@ -89,9 +89,9 @@ class Russian extends Base
     {
         $output = $this->removeLastLetterIfNeeded($template);
 
-	if ($this->isTwoWords($template)) {
-	    $output = $this->attemptToInflictFirstWord($output);
-	} 
+	    if ($this->isTwoWords($template)) {
+	        $output = $this->attemptToInflictFirstWordFrom($output);
+    	}
 
         if (array_key_exists($this->getLastLetter($template), $this->replacementsFrom)) {
             $output .= $this->replacementsFrom[$this->getLastLetter($template)];
@@ -104,15 +104,21 @@ class Russian extends Base
      * @param $string
      * @return string
      */
-    private function attemptToInflictFirstWord($string)
+    private function attemptToInflictFirstWordFrom($string)
     {   
-	list($first, $second) = explode(' ', $string);
+	    list($first, $second) = explode(' ', $string);
 
-	if (mb_substr($first, mb_strlen($first) - 2) == 'ая') {
-	    $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ой';
-	}
+	    if (mb_substr($first, mb_strlen($first) - 2) == 'ая') {
+	        $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ой';
+    	}
 
-	return $first . ' ' . $second; 
+        if (mb_substr($first, mb_strlen($first) - 2) == 'ий') {
+            $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ого';
+        }
+
+        if (mb_strtolower($first) == 'республика') $first = 'Республики';
+
+        return $first . ' ' . $second;
     } 
 
     /**
@@ -121,7 +127,7 @@ class Russian extends Base
      */
     private function isTwoWords($string)
     {   
-	return mb_substr_count($string, ' ') == 1;
+	    return mb_substr_count($string, ' ') == 1;
     } 
 
     /**
@@ -151,7 +157,8 @@ class Russian extends Base
     {
         $preposition = $this->defaultPrepositions[$form];
 
-        if ($result && $form == 'in' && in_array(mb_strtolower(mb_substr($result, 0, 1)), ['в', 'ф']) && ! $this->isVowel(mb_substr($result, 1, 1))) {
+        if ($result && $form == 'in' && in_array(mb_strtolower(mb_substr($result, 0, 1)), ['в', 'ф']) &&
+            ! $this->isVowel(mb_substr($result, 1, 1))) {
             $preposition .= 'о';
         }
 
