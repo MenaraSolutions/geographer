@@ -530,6 +530,9 @@
         "long": {
             "default": "Plurinational State of Bolivia"
         },
+	"short": {
+	    "default": "Bolivia"
+	},
         "area": 1098580,
         "currency": "BOB",
         "phone": "591",
@@ -666,8 +669,11 @@
             "geonames": 1820814
         },
         "long": {
-            "default": "Brunei Darussalam"
+            "default": "Nation of Brunei"
         },
+	"short": {
+	    "default": "Brunei"
+	},
         "area": 5770,
         "currency": "BND",
         "phone": "673",
@@ -865,7 +871,10 @@
             ],
             "geonames": 2434508
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Chad"
+	},
+        "short": {
             "default": "Chad"
         },
         "area": 1284000,
@@ -885,7 +894,10 @@
             ],
             "geonames": 3895114
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Chile"
+	},
+        "short": {
             "default": "Chile"
         },
         "area": 756950,
@@ -905,7 +917,10 @@
             ],
             "geonames": 1814991
         },
-        "long": {
+	"long": {
+	    "default": "People's Republic of China"
+	},
+        "short": {
             "default": "China"
         },
         "area": 9596960,
@@ -965,7 +980,10 @@
             ],
             "geonames": 3686110
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Colombia"
+	},
+        "short": {
             "default": "Colombia"
         },
         "area": 1138910,
@@ -1006,8 +1024,11 @@
             "geonames": 2260494
         },
         "long": {
-            "default": "Congo Republic"
+            "default": "Republic of the Congo"
         },
+	"short": {
+	    "default": "Congo-Brazzaville"
+	},
         "area": 342000,
         "currency": "XAF",
         "phone": "242",
@@ -1028,6 +1049,9 @@
         "long": {
             "default": "Democratic Republic of the Congo"
         },
+	"short": {
+	    "default": "Congo"
+	},
         "area": 2345410,
         "currency": "CDF",
         "phone": "243",
@@ -1065,7 +1089,10 @@
             ],
             "geonames": 3624060
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Costa Rica"
+	},
+        "short": {
             "default": "Costa Rica"
         },
         "area": 51100,
@@ -1105,7 +1132,10 @@
             ],
             "geonames": 3202326
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Croatia"
+	},
+        "short": {
             "default": "Croatia"
         },
         "area": 56542,
@@ -1125,7 +1155,10 @@
             ],
             "geonames": 3562981
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Cuba"
+	},
+        "short": {
             "default": "Cuba"
         },
         "area": 110860,
@@ -1165,7 +1198,10 @@
             ],
             "geonames": 146669
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Cyprus"
+	},
+        "short": {
             "default": "Cyprus"
         },
         "area": 9250,
@@ -1185,6 +1221,9 @@
             ],
             "geonames": 3077311
         },
+	"short": {
+	    "default": "Czechia"
+	},
         "long": {
             "default": "Czech Republic"
         },

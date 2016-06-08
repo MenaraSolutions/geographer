@@ -26,7 +26,7 @@ class CountryTest extends Test
             $this->assertArrayHasKey('code', $array);
             $this->assertArrayHasKey('code_3', $array);
             $this->assertArrayHasKey('name', $array);
-//            echo $array['name'] . "\n";
+            echo $array['name'] . "\n";
         }
     }
 
