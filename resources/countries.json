@@ -5005,7 +5005,10 @@
             ],
             "geonames": 878675
         },
-        "long": {
+	"long": {
+	    "default": "Republic of Zimbabwe"
+	},
+        "short": {
             "default": "Zimbabwe"
         },
         "area": 390580,
