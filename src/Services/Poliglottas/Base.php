@@ -63,14 +63,14 @@ abstract class Base implements PoliglottaInterface
         $meta = $this->fromDictionary($subject);
         $result = $this->extract($meta, $subject->expectsLongNames(), $form);
 
-        if (! $result) {
-            $template = $this->inflictDefault($meta, $subject->expectsLongNames());
-            $result = $this->{'inflict' . ucfirst($form)}($template);
-            
-            if ($preposition) $result = $this->getPreposition($form, $result) . ' ' . $result;
-        } else if ($result && ! $preposition) {
-            $result = mb_substr($result, mb_strpos($result, ' '));
-        }
+	if ($result && $preposition) return $result;
+	if ($result && ! $preposition) return mb_substr($result, mb_strpos($result, ' '));
+
+        $result = $this->inflictDefault($meta, $subject->expectsLongNames());
+	if ($form == 'default') return $result;
+
+	$result = $this->{'inflict' . ucfirst($form)}($result);
+        if ($preposition) $result = $this->getPreposition($form, $result) . ' ' . $result;
 
         return $result;
     }
@@ -93,7 +93,7 @@ abstract class Base implements PoliglottaInterface
      */
     protected function inflictDefault(array $meta, $long)
     {
-        return $this->extract($meta, $long, 'default');
+        return $this->extract($meta, $long, 'default', true);
     }
 
     /**
@@ -128,16 +128,20 @@ abstract class Base implements PoliglottaInterface
      * @param array $meta
      * @param $long
      * @param $form
+     * @param bool $fallback
      * @return mixed
      */
-    protected function extract(array $meta, $long, $form)
+    protected function extract(array $meta, $long, $form, $fallback = false)
     {
         $variants = [];
-       
+	$key = $long ? 'long' : 'short';       
+
+	if (! isset($meta[$key][$form]) && ! $fallback) return false;
+
         if (isset($meta['long'][$form])) {
             $variants[] = $meta['long'][$form];
         }
-    
+
         if (isset($meta['short'][$form])) {
             $variants[] = $meta['short'][$form];
         }

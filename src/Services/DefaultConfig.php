@@ -36,7 +36,7 @@ class DefaultConfig implements ConfigInterface
     /**
      * @var bool
      */
-    protected $brief = false;
+    protected $brief = true;
 
     /**
      * @var bool

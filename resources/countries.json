@@ -1946,6 +1946,9 @@
         "long": {
             "default": "Holy See"
         },
+	"short": {
+	    "default": "Vatican"
+	},
         "area": 0,
         "currency": "EUR",
         "phone": "379",
