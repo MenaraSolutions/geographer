@@ -24,7 +24,7 @@ class CountryTest extends Test
             $array = $country->inflict('from')->toArray();
             $this->assertTrue(is_array($array));
             $this->assertArrayHasKey('code', $array);
-            $this->assertArrayHasKey('code_3', $array);
+            $this->assertArrayHasKey('code3', $array);
             $this->assertArrayHasKey('name', $array);
 //            echo $array['name'] . "\n";
         }

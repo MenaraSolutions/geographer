@@ -9,13 +9,6 @@ namespace MenaraSolutions\Geographer\Contracts;
 interface IdentifiableInterface
 {
     /**
-     * Unique code
-     * 
-     * @return string|int
-     */
-    public function getCode();
-    
-    /**
      * @return bool
      */
     public function expectsLongNames();

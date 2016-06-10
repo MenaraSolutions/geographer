@@ -6,6 +6,7 @@ use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Contracts\ConfigInterface;
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Services\DefaultConfig;
+use MenaraSolutions\Geographer\Traits\ExposesFields;
 use MenaraSolutions\Geographer\Traits\HasConfig;
 use MenaraSolutions\Geographer\Repositories\File;
 
@@ -15,7 +16,7 @@ use MenaraSolutions\Geographer\Repositories\File;
  */
 abstract class Divisible implements IdentifiableInterface
 {
-    use HasConfig;
+    use HasConfig, ExposesFields;
 
     /**
      * @var array $meta
@@ -51,6 +52,11 @@ abstract class Divisible implements IdentifiableInterface
      * @var string
      */
     protected $parentCode;
+
+    /**
+     * @var array
+     */
+    protected $exposed = [];
 
     /**
      * Country constructor.
@@ -200,22 +206,6 @@ abstract class Divisible implements IdentifiableInterface
     {
         return $this->meta;
     }
-    
-    /**
-     * @return array
-     */
-    public function toArray()
-    {
-        return [
-            'code' => $this->getCode(),
-            'name' => $this->getName()
-        ];
-    }
-
-    /**
-     * @return string|int
-     */
-    abstract public function getCode();
 
     /**
      * @return string|int

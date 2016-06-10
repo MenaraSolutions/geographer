@@ -49,6 +49,17 @@ class Earth extends Divisible
     }
 
     /**
+     * @return array
+     */
+    public function toArray()
+    {
+        return [
+            'code' => $this->getCode(),
+            'name' => $this->getName()
+        ];
+    }
+
+    /**
      * @return null
      */
     public function getParentCode()

@@ -19,31 +19,14 @@ class State extends Divisible
     protected static $parentClass = Country::class;
 
     /**
-     * Get Geonames code
-     *
-     * @return int
+     * @var array
      */
-    public function getCode()
-    {
-        return $this->meta['ids']['geonames'];
-    }
+    protected $exposed = [
+        'code' => 'ids.geonames',
+        'fipsCode' => 'ids.fips',
+        'isoCode' => 'ids.iso_3166',
+    ];
     
-    /**
-     * @return string|bool
-     */
-    public function getFipsCode()
-    {
-        return isset($this->meta['ids']['fips']) ? $this->meta['ids']['fips'] : false;
-    }
-
-    /**
-     * @return string|bool
-     */
-    public function getIsoCode()
-    {
-        return isset($this->meta['ids']['iso_3166']) ? $this->meta['ids']['iso_3166'] : false;
-    }
-
     /**
      * @return Collections\MemberCollection
      */

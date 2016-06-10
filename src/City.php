@@ -19,20 +19,10 @@ class City extends Divisible
     protected static $parentClass = State::class;
 
     /**
-     * Unique code
-     *
-     * @return int
+     * @var array
      */
-    public function getCode()
-    {
-	    return $this->meta['ids']['geonames'];
-    }
-    
-    /**
-     * @return int
-     */
-    public function getGeonamesCode()
-    {
-	    return $this->getCode();
-    }
+    protected $exposed = [
+        'code' => 'ids.geonames',
+        'geonamesCode' => 'ids.geonames'
+    ];
 }
