@@ -235,7 +235,8 @@ abstract class Divisible implements IdentifiableInterface
     public static function build($id, $config = null)
     {
         $config = $config ?: new DefaultConfig();
-        $meta = File::indexSearch($id, static::$parentClass, $config->getStoragePath());
+        $meta = $config->getRepository()
+            ->indexSearch($id, static::$parentClass);
         $parent = isset($meta['parent']) ? $meta['parent'] : null;
 
         return new static($meta, $parent, $config);

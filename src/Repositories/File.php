@@ -101,19 +101,18 @@ class File implements RepositoryInterface
     /**
      * @param int $id
      * @param string $class
-     * @param string $prefix
      * @return array
      * @throws ObjectNotFoundException
      */
-    public static function indexSearch($id, $class, $prefix)
+    public function indexSearch($id, $class)
     {
-        $index = static::loadJson($prefix . self::$indexes[$class]);
+        $index = static::loadJson($this->prefix . self::$indexes[$class]);
         if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
 
         if ($class == State::class) {
-            $path = self::getPath($class, $prefix, ['parentCode' => $index[$id]]);
+            $path = self::getPath($class, $this->prefix, ['parentCode' => $index[$id]]);
         } else {
-            $path = self::getPath($class, $prefix, ['code' => $index[$id]]);
+            $path = self::getPath($class, $this->prefix, ['code' => $index[$id]]);
         }
 
         $members = static::loadJson($path);
