@@ -63,14 +63,14 @@ abstract class Base implements PoliglottaInterface
         $meta = $this->fromDictionary($subject);
         $result = $this->extract($meta, $subject->expectsLongNames(), $form, true);
 
-	if ($result && $preposition) return $result;
-	if ($result && ! $preposition) return mb_substr($result, mb_strpos($result, ' '));
+	    if ($result && $preposition) return $result;
+	    if ($result && ! $preposition) return mb_substr($result, mb_strpos($result, ' '));
 
-	//$result = $this->extract($meta, $subject->expectsLongNames(), $form, true);
+	    //$result = $this->extract($meta, $subject->expectsLongNames(), $form, true);
         $result = $this->inflictDefault($meta, $subject->expectsLongNames());
-	if ($form == 'default') return $result;
+	    if ($form == 'default') return $result;
 
-	$result = $this->{'inflict' . ucfirst($form)}($result);
+	    $result = $this->{'inflict' . ucfirst($form)}($result);
         if ($preposition) $result = $this->getPreposition($form, $result) . ' ' . $result;
 
         return $result;
@@ -135,20 +135,19 @@ abstract class Base implements PoliglottaInterface
     protected function extract(array $meta, $long, $form, $fallback = false)
     {
         $variants = [];
-	$key = $long ? 'long' : 'short';       
+        $keys = [ 'long', 'short '];
+        if (! $long) $keys = array_reverse($keys);
 
-	if (! isset($meta[$key][$form]) && ! $fallback) return false;
+	    if (! isset($meta[$keys[0]][$form]) && ! $fallback) return false;
 
-        if (isset($meta['long'][$form])) {
-            $variants[] = $meta['long'][$form];
+        if (isset($meta[$keys[0]][$form])) {
+            $variants[] = $meta[$keys[0]][$form];
         }
 
-        if (isset($meta['short'][$form])) {
-            $variants[] = $meta['short'][$form];
+        if (isset($meta[$keys[1]][$form])) {
+            $variants[] = $meta[$keys[1]][$form];
         }
-        
-        if (! $long) $variants = array_reverse($variants);
-         
+
         return !empty($variants) ? $variants[0] : false;
     }
 }
