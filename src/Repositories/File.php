@@ -139,7 +139,7 @@ class File implements RepositoryInterface
     /**
      * @param IdentifiableInterface $subject
      * @param $language
-     * @return bool
+     * @return array
      */
     public function getTranslations(IdentifiableInterface $subject, $language)
     {
@@ -156,7 +156,7 @@ class File implements RepositoryInterface
         if (empty($this->cache)) $this->loadTranslations($path, $key, $language);
 
         return isset($this->cache[$key][$language][$subject->getCode()]) ?
-            $this->cache[$key][$language][$subject->getCode()] : false;
+            $this->cache[$key][$language][$subject->getCode()] : null;
     }
 
     /**

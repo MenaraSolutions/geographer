@@ -19,7 +19,9 @@ trait ExposesFields
         ];
 
         foreach ($this->exposed as $key => $value) {
-            $array[$key] = $this->extract(empty($value) ? $key : $value);
+            $key = is_numeric($key) ? $value : $key;
+            
+            $array[$key] = $this->extract($value);
         }
 
         return $array;

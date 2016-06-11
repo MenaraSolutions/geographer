@@ -2,6 +2,7 @@
 
 namespace MenaraSolutions\Geographer\Collections;
 
+use MenaraSolutions\Geographer\Collections\Traits\ImplementsArray;
 use MenaraSolutions\Geographer\Contracts\ConfigInterface;
 use MenaraSolutions\Geographer\Traits\HasConfig;
 
@@ -11,7 +12,7 @@ use MenaraSolutions\Geographer\Traits\HasConfig;
  */
 class MemberCollection extends \ArrayObject
 {
-    use HasConfig;
+    use HasConfig, ImplementsArray;
     
     /**
      * @var array $divisions
@@ -32,16 +33,9 @@ class MemberCollection extends \ArrayObject
         parent::__construct();
 
         $this->config = $config;
-	$this->divisions = $divisions;
+	    $this->divisions = $divisions;
     }
-
-    /**
-     * @return \ArrayIterator
-     */
-    public function getIterator() {
-        return new \ArrayIterator($this->divisions);
-    }
-
+    
     /**
      * @return array
      */
@@ -61,7 +55,7 @@ class MemberCollection extends \ArrayObject
      */
     public function first()
     {
-        return $this->divisions[0];   
+        return reset($this->divisions);
     }
     
     /**
@@ -71,66 +65,20 @@ class MemberCollection extends \ArrayObject
     {
         $this->divisions[] = $division;
     }
-
+    
     /**
-     * @param mixed $offset
-     * @return mixed
+     * Run a filter over each of the items.
+     *
+     * @param  callable|null  $callback
+     * @return static
      */
-    public function offsetExists($offset)
+    public function filter(callable $callback = null)
     {
-        return array_key_exists($offset, $this->divisions);
-    }
+        if ($callback) {
+            return new static($this->config, array_filter($this->divisions, $callback));
+        }
 
-    /**
-     * @param mixed $offset
-     * @return mixed
-     */
-    public function offsetGet($offset)
-    {
-        return $this->divisions[$offset];
-    }
-
-    /**
-     * @param mixed $offset
-     * @param mixed $value
-     * @return mixed
-     */
-    public function offsetSet($offset, $value)
-    {
-        $this->divisions[$offset] = $value;
-    }
-
-    /**
-     * @param mixed $offset
-     * @return mixed
-     */
-    public function offsetUnset($offset)
-    {
-        unset($this->divisions[$offset]);
-    }
-
-    /**
-     * @return int
-     */
-    public function count()
-    {
-        return count($this->divisions);
-    }
-
-    /**
-     * @return mixed
-     */
-    public function serialize()
-    {
-        return serialize($this->divisions);
-    }
-
-    /**
-     * @param string $serialized
-     */
-    public function unserialize($serialized)
-    {
-        $this->divisions = unserialize($serialized);
+        return new static($this->config, array_filter($this->divisions));
     }
 
     /**

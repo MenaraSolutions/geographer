@@ -78,4 +78,20 @@ class EarthTest extends Test
             $this->assertTrue(is_array($continent->toArray()));
         }
     }
+
+    /**
+     * @test
+     */
+    public function can_filter_the_countries()
+    {
+        $earth = new Earth();
+        $countries = $earth->getCountries();
+        $count = $countries->count();
+
+        $countries = $countries->filter(function($item) {
+            return $item->getPopulation() > 50000;
+        });
+
+        $this->assertNotEquals($count, $countries->count());
+    }
 }

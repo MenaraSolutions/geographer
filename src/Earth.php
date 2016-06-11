@@ -126,4 +126,14 @@ class Earth extends Divisible
             'continent' => 'OC'
         ]);
     }
+
+    /**
+     * @return static
+     */
+    public function withoutMicro()
+    {
+        return $this->getMembers()->filter(function($item) {
+            return $item->getPopulation() > 50000;
+        });
+    }
 }
