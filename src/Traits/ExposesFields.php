@@ -61,11 +61,11 @@ trait ExposesFields
         if (preg_match('~^(get)([A-Z])(.*)$~', $methodName, $matches)) {
             $field = strtolower($matches[2]) . $matches[3];
 
-            if (! array_key_exists($field, $this->exposed)) {
+            if (! array_key_exists($field, $this->exposed) && ! in_array($field, $this->exposed)) {
                 throw new UnknownFieldException('Field ' . $field . ' does not exist');
             }
 
-            return $this->extract($this->exposed[$field]);
+            return $this->extract(isset($this->exposed[$field]) ? $this->exposed[$field] : $field);
         }
 
         throw new UnknownFieldException('Unknown magic getter');

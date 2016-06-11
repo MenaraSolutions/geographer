@@ -26,6 +26,7 @@ class CountryTest extends Test
             $this->assertArrayHasKey('code', $array);
             $this->assertArrayHasKey('code3', $array);
             $this->assertArrayHasKey('name', $array);
+            $this->assertNotEmpty($country->getContinent());
 //            echo $array['name'] . "\n";
         }
     }
