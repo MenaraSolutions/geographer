@@ -11,7 +11,7 @@ Geographer is a PHP library that knows how any country, state or city is called 
 
 Includes integrations with: Laravel 5, Lumen 5
 
-![Geographer](https://www.mysenko.com/images/geographer_cover.jpg)
+![Geographer](https://www.mysenko.com/images/geographer_cover2.jpg)
 
 ## Dependencies
 
