@@ -25,8 +25,9 @@ class State extends Divisible
         'code' => 'ids.geonames',
         'fipsCode' => 'ids.fips',
         'isoCode' => 'ids.iso_3166',
+        'name'
     ];
-    
+
     /**
      * @return Collections\MemberCollection
      */

@@ -14,7 +14,7 @@ use MenaraSolutions\Geographer\Repositories\File;
  * Class Divisible
  * @package App
  */
-abstract class Divisible implements IdentifiableInterface
+abstract class Divisible implements IdentifiableInterface, \ArrayAccess
 {
     use HasConfig, ExposesFields;
 

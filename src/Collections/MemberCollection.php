@@ -94,7 +94,7 @@ class MemberCollection extends \ArrayObject
         $results = [];
 
         foreach ($this->divisions as $key => $value) {
-	    $meta = $value->toArray();
+            $meta = $value->toArray();
             $results[$key] = $meta[$field];
         }
 

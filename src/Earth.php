@@ -17,6 +17,14 @@ class Earth extends Divisible
     protected static $parentClass = null;
 
     /**
+     * @var array
+     */
+    protected $exposed = [
+        'code',
+        'name'
+    ];
+
+    /**
      * @return MemberCollection
      */
     public function getCountries()
@@ -46,17 +54,6 @@ class Earth extends Divisible
     public function getCode()
     {
         return 'SOL-III';
-    }
-
-    /**
-     * @return array
-     */
-    public function toArray()
-    {
-        return [
-            'code' => $this->getCode(),
-            'name' => $this->getName()
-        ];
     }
 
     /**

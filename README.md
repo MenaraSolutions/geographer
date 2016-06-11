@@ -90,6 +90,14 @@ $object->getShortName(); // Get short (colloquial) name of the object
 $object->getLongName(); // Get longer name
 ```
 
+You can access information in a number of ways, do whatever you are comfortable with:
+```php
+$object->getName(); // Get object's name (inflicted and shortened when necessary)
+$object->name; // Same effect
+$object['name']; // Same effect
+$object->toArray()['name']; // Same effect again
+```
+
 ## Earth API
 
 Earth object got the following convenience methods:

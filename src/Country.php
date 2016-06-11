@@ -32,7 +32,8 @@ class Country extends Divisible
         'phonePrefix' => 'phone',
         'population',
         'continent',
-        'language' => 'languages.0'
+        'language' => 'languages.0',
+        'name'
     ];
 
     /**

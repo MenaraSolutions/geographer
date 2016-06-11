@@ -27,7 +27,7 @@ class CountryTest extends Test
             $this->assertArrayHasKey('code3', $array);
             $this->assertArrayHasKey('name', $array);
             $this->assertNotEmpty($country->getContinent());
-//            echo $array['name'] . "\n";
+            //echo $array['name'] . "\n";
         }
     }
 
@@ -41,6 +41,18 @@ class CountryTest extends Test
         $longName = $russia->useLongNames()->getName();
         $russia->useShortNames();
         $this->assertNotEquals($longName, $russia->getName());
+    }
+
+    /**
+     * @test
+     */
+    public function data_can_be_accesses_as_properties_and_as_array_keys()
+    {
+        $earth = new Earth();
+        $russia = $earth->findOne(['code' => 'RU']);
+        $name = $russia->getName();
+        $this->assertEquals($name, $russia->name);
+        $this->assertEquals($name, $russia['name']);
     }
 
     /**

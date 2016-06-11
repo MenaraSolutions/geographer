@@ -10,18 +10,55 @@ use MenaraSolutions\Geographer\Exceptions\UnknownFieldException;
 trait ExposesFields
 {
     /**
+     * @param mixed $offset
+     * @return boolean
+     */
+    public function offsetExists($offset)
+    {
+        return isset($this->exposed[$offset]);
+    }
+
+    /**
+     * @param mixed $offset
+     * @return mixed
+     */
+    public function offsetGet($offset)
+    {
+        if (is_string($offset)) {
+            return $this->__get($offset);
+        }
+    }
+
+    /**
+     * @param mixed $offset <p>
+     * @param mixed $value <p>
+     * @return void
+     */
+    public function offsetSet($offset, $value)
+    {
+        return;
+    }
+
+    /**
+     * @param mixed $offset
+     * @return void
+     */
+    public function offsetUnset($offset)
+    {
+        return;
+    }
+
+    /**
      * @return array
      */
     public function toArray()
     {
-        $array = [
-            'name' => $this->getName()
-        ];
+        $array = [];
 
         foreach ($this->exposed as $key => $value) {
             $key = is_numeric($key) ? $value : $key;
-            
-            $array[$key] = $this->extract($value);
+
+            $array[$key] = $this->__get($value);
         }
 
         return $array;
@@ -63,13 +100,27 @@ trait ExposesFields
         if (preg_match('~^(get)([A-Z])(.*)$~', $methodName, $matches)) {
             $field = strtolower($matches[2]) . $matches[3];
 
-            if (! array_key_exists($field, $this->exposed) && ! in_array($field, $this->exposed)) {
-                throw new UnknownFieldException('Field ' . $field . ' does not exist');
-            }
-
-            return $this->extract(isset($this->exposed[$field]) ? $this->exposed[$field] : $field);
+            return $this->__get($field);
         }
 
         throw new UnknownFieldException('Unknown magic getter');
+    }
+
+    /**
+     * @param $field
+     * @return string
+     * @throws UnknownFieldException
+     */
+    public function __get($field)
+    {
+        if (! array_key_exists($field, $this->exposed) && ! in_array($field, $this->exposed)) {
+            throw new UnknownFieldException('Field ' . $field . ' does not exist');
+        }
+
+        if (method_exists($this, 'get' . ucfirst($field))) {
+            return call_user_func([$this, 'get' . ucfirst($field)]);
+        }
+
+        return $this->extract(isset($this->exposed[$field]) ? $this->exposed[$field] : $field);
     }
 }

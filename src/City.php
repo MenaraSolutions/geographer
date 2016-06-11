@@ -23,6 +23,7 @@ class City extends Divisible
      */
     protected $exposed = [
         'code' => 'ids.geonames',
-        'geonamesCode' => 'ids.geonames'
+        'geonamesCode' => 'ids.geonames',
+        'name'
     ];
 }
