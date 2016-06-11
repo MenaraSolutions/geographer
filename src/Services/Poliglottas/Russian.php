@@ -20,7 +20,7 @@ class Russian extends Base
     /**
      * @var array
      */
-    protected $removableLetters = ['я', 'а', 'й', 'ь', 'е'];
+    protected $removableLetters = ['я', 'а', 'й', 'ь'];
 
     /**
      * @var array
@@ -37,7 +37,7 @@ class Russian extends Base
     protected $replacementsIn = [
         'й' => 'е', 'л' => 'е', 'т' => 'е', 'г' => 'е', 'м' => 'е', 'з' => 'е', 'ш' => 'е',
         'р' => 'е', 'с' => 'е', 'д' => 'е', 'н' => 'е', 'а' => 'е', 'я' => 'и', 'к' => 'е',
-        'ь' => 'и', 'в' => 'е', 'е' => 'м', 'п' => 'е'
+        'ь' => 'и', 'в' => 'е', 'п' => 'е'
     ];
 
     /**

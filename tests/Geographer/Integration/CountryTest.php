@@ -15,18 +15,20 @@ class CountryTest extends Test
     public function can_fetch_states_for_all_countries()
     {
         $earth = new Earth();
-        $countries = $earth->getCountries()->setLanguage('ru')->sortBy('name');
+        $countries = $earth->withoutMicro()->setLanguage('ru')->sortBy('name');
 
         foreach($countries as $country) {
             $states = $country->getStates();
             $this->assertEquals(MemberCollection::class, get_class($states));
             $this->assertTrue(is_array($states) || $states instanceof \ArrayObject);
-            $array = $country->inflict('from')->toArray();
+            $array = $country->toArray();
             $this->assertTrue(is_array($array));
             $this->assertArrayHasKey('code', $array);
             $this->assertArrayHasKey('code3', $array);
             $this->assertArrayHasKey('name', $array);
             $this->assertNotEmpty($country->getContinent());
+            //echo $country->getShortName() . "\n";
+            //echo $country->getLongName() . "\n";
             //echo $array['name'] . "\n";
         }
     }

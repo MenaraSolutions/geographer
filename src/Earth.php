@@ -130,7 +130,7 @@ class Earth extends Divisible
     public function withoutMicro()
     {
         return $this->getMembers()->filter(function($item) {
-            return $item->getPopulation() > 50000;
+            return $item->getPopulation() > 100000;
         });
     }
 }

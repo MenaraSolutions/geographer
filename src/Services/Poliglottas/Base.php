@@ -127,7 +127,7 @@ abstract class Base implements PoliglottaInterface
 
     /**
      * @param array $meta
-     * @param $long
+     * @param bool $long
      * @param $form
      * @param bool $fallback
      * @return mixed
@@ -135,8 +135,7 @@ abstract class Base implements PoliglottaInterface
     protected function extract(array $meta, $long, $form, $fallback = false)
     {
         $variants = [];
-        $keys = [ 'long', 'short '];
-        if (! $long) $keys = array_reverse($keys);
+        $keys = $long ? [ 'long', 'short '] : [ 'short', 'long' ];
 
 	    if (! isset($meta[$keys[0]][$form]) && ! $fallback) return false;
 
