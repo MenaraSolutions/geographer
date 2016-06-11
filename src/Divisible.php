@@ -122,11 +122,7 @@ abstract class Divisible implements IdentifiableInterface
      */
     public function findOne(array $params = [])
     {
-        foreach($this->getMembers() as $member) {
-            if ($this->match($member, $params)) return $member;
-        }
-
-        return false;
+        return $this->find($params)->first();
     }
 
     /**
