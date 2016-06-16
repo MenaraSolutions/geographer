@@ -99,6 +99,23 @@ class File implements RepositoryInterface
     }
 
     /**
+     * @param $path
+     * @param $id
+     * @return mixed
+     * @throws ObjectNotFoundException
+     */
+    protected function getCodeFromIndex($path, $id)
+    {
+        if (! isset($this->cache[$path])) {
+            $this->cache[$path] = static::loadJson($path);
+        }
+
+        if (! isset($this->cache[$path][$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
+
+        return $this->cache[$path][$id];
+    }
+
+    /**
      * @param int $id
      * @param string $class
      * @return array
@@ -106,18 +123,16 @@ class File implements RepositoryInterface
      */
     public function indexSearch($id, $class)
     {
-        $index = static::loadJson($this->prefix . self::$indexes[$class]);
-        if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
+        $code = $this->getCodeFromIndex($this->prefix . self::$indexes[$class], $id);
 
-        if ($class == State::class) {
-            $path = self::getPath($class, $this->prefix, ['parentCode' => $index[$id]]);
-        } else {
-            $path = self::getPath($class, $this->prefix, ['code' => $index[$id]]);
+        $key = ($class == State::class) ? 'parentCode' : 'code';
+        $path = self::getPath($class, $this->prefix, [ $key => $code ]);
+
+        if (! isset($this->cache[$path])) {
+            $this->cache[$path] = static::loadJson($path);
         }
 
-        $members = static::loadJson($path);
-
-        foreach ($members as $member) {
+        foreach ($this->cache[$path] as $member) {
             if ($member['ids']['geonames'] == $id) return $member;
         }
 
@@ -153,7 +168,7 @@ class File implements RepositoryInterface
             $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
         }
 
-        if (empty($this->cache)) $this->loadTranslations($path, $key, $language);
+        if (empty($this->cache[$key])) $this->loadTranslations($path, $key, $language);
 
         return isset($this->cache[$key][$language][$subject->getCode()]) ?
             $this->cache[$key][$language][$subject->getCode()] : null;

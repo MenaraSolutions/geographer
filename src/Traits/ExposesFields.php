@@ -103,7 +103,7 @@ trait ExposesFields
             return $this->__get($field);
         }
 
-        throw new UnknownFieldException('Unknown magic getter');
+        throw new UnknownFieldException('Method doesn\'t exist');
     }
 
     /**
