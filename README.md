@@ -155,12 +155,12 @@ Good news is that Laravel will take care of singleton instance for you, so no ma
 
 'providers' => [
     '...',
-    'MenaraSolutions\Geographer\Integrations\LaravelServiceProvider',
+    MenaraSolutions\Geographer\Integrations\LaravelServiceProvider::class,
 ];
 
 'aliases' => [
     '...',
-    'Geographer'    => 'MenaraSolutions\Geographer\Integrations\LaravelFacade',
+    'Geographer' => MenaraSolutions\Geographer\Integrations\LaravelFacade::class,
 ];
 
 // Start playing with it, all the same calls
