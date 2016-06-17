@@ -168,24 +168,22 @@ class File implements RepositoryInterface
             $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
         }
 
-        if (empty($this->cache[$key])) $this->loadTranslations($path, $key, $language);
+        if (empty($this->cache[$path])) $this->loadTranslations($path);
 
-        return isset($this->cache[$key][$language][$subject->getCode()]) ?
-            $this->cache[$key][$language][$subject->getCode()] : null;
+        return isset($this->cache[$path][$subject->getCode()]) ?
+            $this->cache[$path][$subject->getCode()] : null;
     }
 
     /**
      * @param string $path
-     * @param string $key
-     * @param $language
      * @throws FileNotFoundException
      */
-    protected function loadTranslations($path, $key, $language)
+    protected function loadTranslations($path)
     {
         $meta = static::loadJson($path);
 
         foreach ($meta as $one) {
-            $this->cache[$key][$language][$one['code']] = $one;
+            $this->cache[$path][$one['code']] = $one;
         }
     }
 }
