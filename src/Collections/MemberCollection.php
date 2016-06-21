@@ -3,8 +3,8 @@
 namespace MenaraSolutions\Geographer\Collections;
 
 use MenaraSolutions\Geographer\Collections\Traits\ImplementsArray;
-use MenaraSolutions\Geographer\Contracts\ConfigInterface;
-use MenaraSolutions\Geographer\Traits\HasConfig;
+use MenaraSolutions\Geographer\Contracts\ManagerInterface;
+use MenaraSolutions\Geographer\Traits\HasManager;
 
 /**
  * Class MemberCollection
@@ -12,7 +12,7 @@ use MenaraSolutions\Geographer\Traits\HasConfig;
  */
 class MemberCollection extends \ArrayObject
 {
-    use HasConfig, ImplementsArray;
+    use HasManager, ImplementsArray;
     
     /**
      * @var array $divisions
@@ -20,15 +20,15 @@ class MemberCollection extends \ArrayObject
     private $divisions = [];
 
     /**
-     * @var ConfigInterface
+     * @var ManagerInterface
      */
     protected $config;
 
     /**
      * MemberCollection constructor.
-     * @param ConfigInterface $config
+     * @param ManagerInterface $config
      */
-    public function __construct(ConfigInterface $config, $divisions = [])
+    public function __construct(ManagerInterface $config, $divisions = [])
     {
         parent::__construct();
 

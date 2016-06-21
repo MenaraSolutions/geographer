@@ -3,10 +3,10 @@
 namespace MenaraSolutions\Geographer\Contracts;
 
 /**
- * Interface ConfigInterface
+ * Interface ManagerInterface
  * @package MenaraSolutions\FluentGeonames\Contracts
  */
-interface ConfigInterface
+interface ManagerInterface
 {
     /**
      * @return string
@@ -15,7 +15,7 @@ interface ConfigInterface
 
     /**
      * @param string $path
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function setStoragePath($path);
     
@@ -26,7 +26,7 @@ interface ConfigInterface
 
     /**
      * @param TranslationAgencyInterface $translator
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function setTranslator(TranslationAgencyInterface $translator);
 
@@ -37,7 +37,7 @@ interface ConfigInterface
 
     /**
      * @param RepositoryInterface $repository
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function setRepository(RepositoryInterface $repository);
 
@@ -53,27 +53,27 @@ interface ConfigInterface
 
     /**
      * @param string $language
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function setLanguage($language);
 
     /**
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function useShortNames();
 
     /**
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function useLongNames();
 
     /**
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function includePrepositions();
 
     /**
-     * @return ConfigInterface
+     * @return ManagerInterface
      */
     public function excludePrepositions();
 

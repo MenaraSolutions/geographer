@@ -3,10 +3,10 @@
 namespace MenaraSolutions\Geographer\Traits;
 
 /**
- * Class HasConfig
+ * Class HasManager
  * @package MenaraSolutions\FluentGeonames\Traits
  */
-trait HasConfig
+trait HasManager
 {
     /**
      * @param string $language

@@ -2,16 +2,16 @@
 
 namespace MenaraSolutions\Geographer\Services;
 
-use MenaraSolutions\Geographer\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Contracts\ManagerInterface;
 use MenaraSolutions\Geographer\Contracts\RepositoryInterface;
 use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\Geographer\Repositories\File;
 
 /**
- * Class DefaultConfig
+ * Class DefaultManager
  * @package MenaraSolutions\FluentGeonames\Services
  */
-class DefaultConfig implements ConfigInterface
+class DefaultManager implements ManagerInterface
 {
     /**
      * @var TranslationAgencyInterface $translator

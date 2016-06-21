@@ -3,11 +3,11 @@
 namespace MenaraSolutions\Geographer;
 
 use MenaraSolutions\Geographer\Collections\MemberCollection;
-use MenaraSolutions\Geographer\Contracts\ConfigInterface;
+use MenaraSolutions\Geographer\Contracts\ManagerInterface;
 use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
-use MenaraSolutions\Geographer\Services\DefaultConfig;
+use MenaraSolutions\Geographer\Services\DefaultManager;
 use MenaraSolutions\Geographer\Traits\ExposesFields;
-use MenaraSolutions\Geographer\Traits\HasConfig;
+use MenaraSolutions\Geographer\Traits\HasManager;
 use MenaraSolutions\Geographer\Repositories\File;
 
 /**
@@ -16,7 +16,7 @@ use MenaraSolutions\Geographer\Repositories\File;
  */
 abstract class Divisible implements IdentifiableInterface, \ArrayAccess
 {
-    use HasConfig, ExposesFields;
+    use HasManager, ExposesFields;
 
     /**
      * @var array $meta
@@ -39,7 +39,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     protected static $parentClass;
 
     /**
-     * @var ConfigInterface
+     * @var ManagerInterface
      */
     protected $config;
 
@@ -62,13 +62,13 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      * Country constructor.
      * @param array $meta
      * @param string $parentCode
-     * @param ConfigInterface $config
+     * @param ManagerInterface $config
      */
-    public function __construct(array $meta = [], $parentCode = null, ConfigInterface $config = null)
+    public function __construct(array $meta = [], $parentCode = null, ManagerInterface $config = null)
     {
         $this->meta = $meta;
         $this->parentCode = $parentCode;
-        $this->config = $config ?: new DefaultConfig();
+        $this->config = $config ?: new DefaultManager();
     }
 
     /**
@@ -225,12 +225,12 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     
     /**
      * @param int|string $id
-     * @param ConfigInterface $config
+     * @param ManagerInterface $config
      * @return City
      */
     public static function build($id, $config = null)
     {
-        $config = $config ?: new DefaultConfig();
+        $config = $config ?: new DefaultManager();
         $meta = $config->getRepository()
             ->indexSearch($id, static::$parentClass);
         $parent = isset($meta['parent']) ? $meta['parent'] : null;
