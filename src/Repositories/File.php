@@ -145,7 +145,7 @@ class File implements RepositoryInterface
      * @throws ObjectNotFoundException
      * @throws FileNotFoundException
      */
-    protected static function loadJson($path)
+    public static function loadJson($path)
     {
         if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
         return json_decode(file_get_contents($path), true);

@@ -11,6 +11,7 @@ use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\State;
 use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
 use MenaraSolutions\Geographer\City;
+use MenaraSolutions\Geographer\Repositories\File;
 
 class Memcached implements RepositoryInterface
 {
@@ -124,13 +125,14 @@ class Memcached implements RepositoryInterface
      */
     protected function getCodeFromIndex($path, $id)
     {
-        if (! isset($this->cache[$path])) {
-            $this->cache[$path] = static::loadJson($path);
+        if (! $index = $this->client->get($path)) {
+            $index = File::loadJson($path);
+            $this->client->set($path, $index, 0);
         }
 
-        if (! isset($this->cache[$path][$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
+        if (! isset($index[$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
 
-        return $this->cache[$path][$id];
+        return $index[$id];
     }
 
     /**
@@ -147,7 +149,7 @@ class Memcached implements RepositoryInterface
         $path = self::getPath($class, $this->prefix, [ $key => $code ]);
 
         if (! isset($this->cache[$path])) {
-            $this->cache[$path] = static::loadJson($path);
+            $this->cache[$path] = File::loadJson($path);
         }
 
         foreach ($this->cache[$path] as $member) {
@@ -155,18 +157,6 @@ class Memcached implements RepositoryInterface
         }
 
         throw new ObjectNotFoundException('Cannot find meta for division #' . $id);
-    }
-
-    /**
-     * @param string $path
-     * @return array
-     * @throws ObjectNotFoundException
-     * @throws FileNotFoundException
-     */
-    protected static function loadJson($path)
-    {
-        if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
-        return json_decode(file_get_contents($path), true);
     }
 
     /**
@@ -198,10 +188,10 @@ class Memcached implements RepositoryInterface
      */
     protected function loadTranslations($path)
     {
-        $meta = static::loadJson($path);
+        $meta = File::loadJson($path);
 
         foreach ($meta as $one) {
-            $this->cache[$path][$one['code']] = $one;
+            $this->client->set($path . $one['code'], $one, 0);
         }
     }
 }
