@@ -22,17 +22,18 @@ class MemberCollection extends \ArrayObject
     /**
      * @var ManagerInterface
      */
-    protected $config;
+    protected $manager;
 
     /**
      * MemberCollection constructor.
      * @param ManagerInterface $config
+     * @param array $divisions
      */
     public function __construct(ManagerInterface $config, $divisions = [])
     {
         parent::__construct();
 
-        $this->config = $config;
+        $this->manager = $config;
 	    $this->divisions = $divisions;
     }
     
@@ -75,10 +76,10 @@ class MemberCollection extends \ArrayObject
     public function filter(callable $callback = null)
     {
         if ($callback) {
-            return new static($this->config, array_filter($this->divisions, $callback));
+            return new static($this->manager, array_filter($this->divisions, $callback));
         }
 
-        return new static($this->config, array_filter($this->divisions));
+        return new static($this->manager, array_filter($this->divisions));
     }
 
     /**
@@ -105,6 +106,6 @@ class MemberCollection extends \ArrayObject
             $results[$key] = $this->divisions[$key];
         }
 
-        return new static($this->config, $results);
+        return new static($this->manager, $results);
     }
 }

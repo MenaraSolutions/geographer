@@ -14,7 +14,7 @@ trait HasManager
      */
     public function setLanguage($language)
     {
-        $this->config->setLanguage($language);
+        $this->manager->setLanguage($language);
 
         return $this;
     }
@@ -25,7 +25,7 @@ trait HasManager
      */
     public function inflict($form)
     {
-        $this->config->setForm($form);
+        $this->manager->setForm($form);
 
         return $this;
     }
@@ -35,7 +35,7 @@ trait HasManager
      */
     public function useLongNames()
     {
-        $this->config->useLongNames();
+        $this->manager->useLongNames();
 
         return $this;
     }
@@ -45,7 +45,7 @@ trait HasManager
      */
     public function useShortNames()
     {
-        $this->config->useShortNames();
+        $this->manager->useShortNames();
 
         return $this;
     }
@@ -55,7 +55,7 @@ trait HasManager
      */
     public function excludePrepositions()
     {
-        $this->config->excludePrepositions();
+        $this->manager->excludePrepositions();
 
         return $this;
     }
@@ -65,7 +65,7 @@ trait HasManager
      */
     public function includePrepositions()
     {
-        $this->config->includePrepositions();
+        $this->manager->includePrepositions();
 
         return $this;
     }

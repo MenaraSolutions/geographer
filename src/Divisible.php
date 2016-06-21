@@ -41,7 +41,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     /**
      * @var ManagerInterface
      */
-    protected $config;
+    protected $manager;
 
     /**
      * @var Divisible
@@ -62,13 +62,13 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      * Country constructor.
      * @param array $meta
      * @param string $parentCode
-     * @param ManagerInterface $config
+     * @param ManagerInterface $manager
      */
-    public function __construct(array $meta = [], $parentCode = null, ManagerInterface $config = null)
+    public function __construct(array $meta = [], $parentCode = null, ManagerInterface $manager = null)
     {
         $this->meta = $meta;
         $this->parentCode = $parentCode;
-        $this->config = $config ?: new DefaultManager();
+        $this->manager = $manager ?: new DefaultManager();
     }
 
     /**
@@ -105,7 +105,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function find(array $params = [])
     {
-        $members = new MemberCollection($this->config);
+        $members = new MemberCollection($this->manager);
 
         foreach($this->getMembers() as $member) {
             if ($this->match($member, $params)) {
@@ -131,14 +131,14 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     protected function loadMembers(MemberCollection $collection = null)
     {
-        $data = $this->config->getRepository()->getData(get_class($this), [
+        $data = $this->manager->getRepository()->getData(get_class($this), [
             'code' => $this->getCode(), 'parentCode' => $this->getParentCode()
         ]);
 
-        $collection = $collection ?: (new MemberCollection($this->config));
+        $collection = $collection ?: (new MemberCollection($this->manager));
 
         foreach($data as $meta) {
-            $collection->add(new $this->memberClass($meta, $this->getCode(), $this->config));
+            $collection->add(new $this->memberClass($meta, $this->getCode(), $this->manager));
         }
 
         $this->members = $collection;
@@ -151,7 +151,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function getName()
     {
-        return $this->config->expectsLongNames() ? $this->getLongName() : $this->getShortName();
+        return $this->manager->expectsLongNames() ? $this->getLongName() : $this->getShortName();
     }
 
 
@@ -160,7 +160,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function getShortName()
     {
-        $this->config->useShortNames();
+        $this->manager->useShortNames();
 
         return $this->translate();
     }
@@ -170,7 +170,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function getLongName()
     {
-        $this->config->useLongNames();
+        $this->manager->useLongNames();
 
         return $this->translate();
     }
@@ -180,7 +180,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function expectsLongNames()
     {
-        return $this->config->expectsLongNames();
+        return $this->manager->expectsLongNames();
     }
 
     /**
@@ -189,7 +189,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     public function parent()
     {
         if (! $this->parent) {
-            $this->parent = call_user_func([static::$parentClass, 'build'], $this->parentCode, $this->config);
+            $this->parent = call_user_func([static::$parentClass, 'build'], $this->parentCode, $this->manager);
         }
 
         return $this->parent;
@@ -217,10 +217,10 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function translate($language = null)
     {
-        if ($language) $this->config->setLanguage($language);
+        if ($language) $this->manager->setLanguage($language);
 
-        return $this->config->getTranslator()
-            ->translate($this, $this->config->getLanguage());
+        return $this->manager->getTranslator()
+            ->translate($this, $this->manager->getLanguage());
     }
     
     /**
