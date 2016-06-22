@@ -101,7 +101,7 @@ class Memcached implements RepositoryInterface
         $file = self::getPath($class, $this->prefix, $params);
 
         try {
-            $data = self::loadJson($file);
+            $data = File::loadJson($file);
         } catch (FileNotFoundException $e) {
             // Some divisions don't have data files, so we don't want to throw the exception
             return [];
@@ -176,10 +176,12 @@ class Memcached implements RepositoryInterface
             $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
         }
 
-        if (empty($this->cache[$path])) $this->loadTranslations($path);
+        $this->client->get($path);
+        if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) $this->loadTranslations($path);
 
-        return isset($this->cache[$path][$subject->getCode()]) ?
-            $this->cache[$path][$subject->getCode()] : null;
+        $translation = $this->client->get($path . $subject->getCode()) ?: null;
+
+        return $translation;
     }
 
     /**
@@ -189,6 +191,8 @@ class Memcached implements RepositoryInterface
     protected function loadTranslations($path)
     {
         $meta = File::loadJson($path);
+
+        $this->client->set($path, true, 0);
 
         foreach ($meta as $one) {
             $this->client->set($path . $one['code'], $one, 0);

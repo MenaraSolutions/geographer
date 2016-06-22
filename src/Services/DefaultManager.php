@@ -56,9 +56,17 @@ class DefaultManager implements ManagerInterface
      */
     public function __construct($path = null, TranslationAgencyInterface $translator = null, RepositoryInterface $repository= null)
     {
-        $this->path = $path ?: dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
+        $this->path = $path ?: self::getDefaultPrefix();
         $this->repository = $repository ?: new File($this->path);
         $this->translator = $translator ?: new TranslationAgency($this->path, $this->repository);
+    }
+
+    /**
+     * @return string
+     */
+    public static function getDefaultPrefix()
+    {
+        return dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR;
     }
 
     /**
