@@ -92,11 +92,28 @@ class Memcached implements RepositoryInterface
     }
 
     /**
-     * @param $class
+     * @param string $class
      * @param array $params
      * @return array
      */
     public function getData($class, array $params)
+    {
+        $path = self::getPath($class, $this->prefix, $params);
+        $data = $this->client->get($path);
+
+        if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) {
+            $data = $this->getDataFromFile($class, $params);
+        }
+
+        return $data;
+    }
+
+    /**
+     * @param $class
+     * @param array $params
+     * @return array
+     */
+    public function getDataFromFile($class, array $params)
     {
         $file = self::getPath($class, $this->prefix, $params);
 
@@ -125,7 +142,9 @@ class Memcached implements RepositoryInterface
      */
     protected function getCodeFromIndex($path, $id)
     {
-        if (! $index = $this->client->get($path)) {
+        $index = $this->client->get($path);
+
+        if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) {
             $index = File::loadJson($path);
             $this->client->set($path, $index, 0);
         }
@@ -148,11 +167,14 @@ class Memcached implements RepositoryInterface
         $key = ($class == State::class) ? 'parentCode' : 'code';
         $path = self::getPath($class, $this->prefix, [ $key => $code ]);
 
-        if (! isset($this->cache[$path])) {
-            $this->cache[$path] = File::loadJson($path);
+        $cache = $this->client->get($path);
+
+        if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) {
+            $cache = File::loadJson($path);
+            $this->client->set($path, $cache, 0);
         }
 
-        foreach ($this->cache[$path] as $member) {
+        foreach ($cache as $member) {
             if ($member['ids']['geonames'] == $id) return $member;
         }
 

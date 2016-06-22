@@ -124,6 +124,7 @@ class DefaultManager implements ManagerInterface
     public function setRepository(RepositoryInterface $repository)
     {
         $this->repository = $repository;
+        $this->translator->setRepository($repository);
 
         return $this;
     }
