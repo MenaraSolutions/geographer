@@ -58,13 +58,26 @@ class MemberCollection extends \ArrayObject
     {
         return reset($this->divisions);
     }
-    
+
+    /**
+     * @param $key
+     * @return mixed
+     */
+    public function get($key)
+    {
+        return $this->divisions[$key];
+    }
+
     /**
      * @param $division
+     * @param string|int $key
+     * @return $this
      */
-    public function add($division)
+    public function add($division, $key)
     {
-        $this->divisions[] = $division;
+        $this->divisions[$key] = $division;
+
+        return $this;
     }
     
     /**

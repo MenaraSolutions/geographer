@@ -107,9 +107,9 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     {
         $members = new MemberCollection($this->manager);
 
-        foreach($this->getMembers() as $member) {
+        foreach($this->getMembers() as $key => $member) {
             if ($this->match($member, $params)) {
-                $members->add($member);
+                $members->add($member, $key);
             }
         }
 
@@ -122,6 +122,10 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     public function findOne(array $params = [])
     {
+        if (array_keys($params) == ['code']) {
+            return $this->getMembers()->get(strtoupper($params['code']));
+        }
+
         return $this->find($params)->first();
     }
 
@@ -138,7 +142,8 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
         $collection = $collection ?: (new MemberCollection($this->manager));
 
         foreach($data as $meta) {
-            $collection->add(new $this->memberClass($meta, $this->getCode(), $this->manager));
+            $entity = new $this->memberClass($meta, $this->getCode(), $this->manager);
+            $collection->add($entity, $entity->getCode());
         }
 
         $this->members = $collection;
