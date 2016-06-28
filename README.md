@@ -110,6 +110,7 @@ $earth->getAsia();
 $earth->getOceania();
 
 $earth->getCountries(); // A collection of all countries
+$earth->withoutMicro(); // Only countries that have population of at least 100,000
 ```
 
 ## Country API
