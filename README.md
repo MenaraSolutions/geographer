@@ -201,8 +201,8 @@ Time: 6 ms, memory: 81056 bytes
 ## Todo
 
 1. Add basic spatial index
-2. Add Memcached repository driver
-3. Add some unit tests (in addition to existing integration tests)
+2. Add some unit tests (in addition to existing integration tests)
+3. Add ISO 3166-2 for the rest of the states
 
 ## Projects using Geographer
 
