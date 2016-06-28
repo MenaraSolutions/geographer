@@ -133,8 +133,10 @@ $country->getStates(); // A collection of all states
 At this moment Geographer only keeps cities with population above 50,000 for the sake of performance.
 
 ```php
-$state->getCode(); // Either ISO 3166 (US, CH, BE and ME) or FIPS code
-$state->getGeonamesCode(); // Geonames ID
+$state->getCode(); // Get default code (currently Geonames)
+$state->getIsoCode(); // Get ISO 3166 code (only US, CH, BE and ME) 
+$state->getFipsCode(); // Get FIPS code
+$state->getGeonamesCode(); // Get Geonames code
 
 $state->getCities(); // A collection of all cities
 $state = State::build($id); // Instantiate a state directly, based on $id provided (Geonames) 

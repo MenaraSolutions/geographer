@@ -3,6 +3,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "17",
+            "fips": "17",
             "geonames": 786233
         },
         "long": {
@@ -13,6 +14,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "21",
+            "fips": "21",
             "geonames": 3186995
         },
         "long": {
@@ -23,6 +25,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "20",
+            "fips": "20",
             "geonames": 3188514
         },
         "long": {
@@ -33,6 +36,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "19",
+            "fips": "19",
             "geonames": 3189071
         },
         "long": {
@@ -43,6 +47,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "16",
+            "fips": "16",
             "geonames": 3189077
         },
         "long": {
@@ -53,6 +58,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "18",
+            "fips": "18",
             "geonames": 3191221
         },
         "long": {
@@ -63,6 +69,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "15",
+            "fips": "15",
             "geonames": 3193129
         },
         "long": {
@@ -73,6 +80,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "14",
+            "fips": "14",
             "geonames": 3193160
         },
         "long": {
@@ -83,6 +91,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "13",
+            "fips": "13",
             "geonames": 3193227
         },
         "long": {
@@ -93,6 +102,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "12",
+            "fips": "12",
             "geonames": 3194493
         },
         "long": {
@@ -103,6 +113,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "11",
+            "fips": "11",
             "geonames": 3194925
         },
         "long": {
@@ -113,6 +124,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "10",
+            "fips": "10",
             "geonames": 3197537
         },
         "long": {
@@ -123,6 +135,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "09",
+            "fips": "09",
             "geonames": 3197895
         },
         "long": {
@@ -133,6 +146,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "03",
+            "fips": "03",
             "geonames": 3199070
         },
         "long": {
@@ -143,6 +157,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "08",
+            "fips": "08",
             "geonames": 3199393
         },
         "long": {
@@ -153,6 +168,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "07",
+            "fips": "07",
             "geonames": 3202193
         },
         "long": {
@@ -163,6 +179,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "06",
+            "fips": "06",
             "geonames": 3202640
         },
         "long": {
@@ -173,6 +190,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "05",
+            "fips": "05",
             "geonames": 3203104
         },
         "long": {
@@ -183,6 +201,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "04",
+            "fips": "04",
             "geonames": 3204173
         },
         "long": {
@@ -193,6 +212,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "02",
+            "fips": "02",
             "geonames": 3204508
         },
         "long": {
@@ -203,6 +223,7 @@
         "parent": "ME",
         "ids": {
             "iso_3166": "01",
+            "fips": "01",
             "geonames": 3343959
         },
         "long": {

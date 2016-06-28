@@ -3,6 +3,7 @@
         "parent": "BE",
         "ids": {
             "iso_3166": "BRU",
+            "fips": "11",
             "geonames": 2800867
         },
         "long": {
@@ -13,6 +14,7 @@
         "parent": "BE",
         "ids": {
             "iso_3166": "WAL",
+            "fips": "10",
             "geonames": 3337387
         },
         "long": {
@@ -23,6 +25,7 @@
         "parent": "BE",
         "ids": {
             "iso_3166": "VLG",
+            "fips": "12",
             "geonames": 3337388
         },
         "long": {
