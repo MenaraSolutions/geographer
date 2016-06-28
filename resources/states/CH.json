@@ -3,6 +3,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "ZH",
+            "fips": "25",
             "geonames": 2657895
         },
         "long": {
@@ -13,6 +14,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "ZG",
+            "fips": "24",
             "geonames": 2657907
         },
         "long": {
@@ -23,6 +25,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "VD",
+            "fips": "23",
             "geonames": 2658182
         },
         "long": {
@@ -33,6 +36,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "VS",
+            "fips": "22",
             "geonames": 2658205
         },
         "long": {
@@ -43,6 +47,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "UR",
+            "fips": "21",
             "geonames": 2658226
         },
         "long": {
@@ -53,6 +58,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "TI",
+            "fips": "20",
             "geonames": 2658370
         },
         "long": {
@@ -63,6 +69,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "TG",
+            "fips": "19",
             "geonames": 2658372
         },
         "long": {
@@ -73,6 +80,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "SO",
+            "fips": "18",
             "geonames": 2658563
         },
         "long": {
@@ -83,6 +91,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "SZ",
+            "fips": "17",
             "geonames": 2658664
         },
         "long": {
@@ -93,6 +102,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "SH",
+            "fips": "16",
             "geonames": 2658760
         },
         "long": {
@@ -103,6 +113,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "SG",
+            "fips": "15",
             "geonames": 2658821
         },
         "long": {
@@ -113,6 +124,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "OW",
+            "fips": "14",
             "geonames": 2659315
         },
         "long": {
@@ -123,6 +135,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "NW",
+            "fips": "13",
             "geonames": 2659471
         },
         "long": {
@@ -133,6 +146,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "NE",
+            "fips": "12",
             "geonames": 2659495
         },
         "long": {
@@ -143,6 +157,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "LU",
+            "fips": "11",
             "geonames": 2659810
         },
         "long": {
@@ -153,6 +168,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "JU",
+            "fips": "26",
             "geonames": 2660207
         },
         "long": {
@@ -163,6 +179,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "GR",
+            "fips": "09",
             "geonames": 2660522
         },
         "long": {
@@ -173,6 +190,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "GL",
+            "fips": "08",
             "geonames": 2660593
         },
         "long": {
@@ -183,6 +201,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "GE",
+            "fips": "07",
             "geonames": 2660645
         },
         "long": {
@@ -193,6 +212,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "FR",
+            "fips": "06",
             "geonames": 2660717
         },
         "long": {
@@ -203,6 +223,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "BE",
+            "fips": "05",
             "geonames": 2661551
         },
         "long": {
@@ -213,6 +234,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "BS",
+            "fips": "04",
             "geonames": 2661602
         },
         "long": {
@@ -223,6 +245,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "BL",
+            "fips": "03",
             "geonames": 2661603
         },
         "long": {
@@ -233,6 +256,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "AR",
+            "fips": "02",
             "geonames": 2661739
         },
         "long": {
@@ -243,6 +267,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "AI",
+            "fips": "10",
             "geonames": 2661741
         },
         "long": {
@@ -253,6 +278,7 @@
         "parent": "CH",
         "ids": {
             "iso_3166": "AG",
+            "fips": "01",
             "geonames": 2661876
         },
         "long": {
