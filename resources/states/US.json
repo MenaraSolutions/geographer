@@ -3,6 +3,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "AR",
+            "fips": "05",
             "geonames": 4099753
         },
         "long": {
@@ -13,6 +14,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "DC",
+            "fips": "11",
             "geonames": 4138106
         },
         "long": {
@@ -23,6 +25,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "DE",
+            "fips": "10",
             "geonames": 4142224
         },
         "long": {
@@ -33,6 +36,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "FL",
+            "fips": "12",
             "geonames": 4155751
         },
         "long": {
@@ -43,6 +47,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "GA",
+            "fips": "13",
             "geonames": 4197000
         },
         "long": {
@@ -53,6 +58,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "KS",
+            "fips": "20",
             "geonames": 4273857
         },
         "long": {
@@ -63,6 +69,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "LA",
+            "fips": "22",
             "geonames": 4331987
         },
         "long": {
@@ -73,6 +80,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MD",
+            "fips": "24",
             "geonames": 4361885
         },
         "long": {
@@ -83,6 +91,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MO",
+            "fips": "29",
             "geonames": 4398678
         },
         "long": {
@@ -93,6 +102,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MS",
+            "fips": "28",
             "geonames": 4436296
         },
         "long": {
@@ -103,6 +113,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NC",
+            "fips": "37",
             "geonames": 4482348
         },
         "long": {
@@ -113,6 +124,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "OK",
+            "fips": "40",
             "geonames": 4544379
         },
         "long": {
@@ -123,6 +135,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "SC",
+            "fips": "45",
             "geonames": 4597040
         },
         "long": {
@@ -133,6 +146,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "TN",
+            "fips": "47",
             "geonames": 4662168
         },
         "long": {
@@ -143,6 +157,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "TX",
+            "fips": "48",
             "geonames": 4736286
         },
         "long": {
@@ -153,6 +168,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "WV",
+            "fips": "54",
             "geonames": 4826850
         },
         "long": {
@@ -173,6 +189,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "CT",
+            "fips": "09",
             "geonames": 4831725
         },
         "long": {
@@ -183,6 +200,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "IA",
+            "fips": "19",
             "geonames": 4862182
         },
         "long": {
@@ -193,6 +211,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "IL",
+            "fips": "17",
             "geonames": 4896861
         },
         "long": {
@@ -203,6 +222,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "IN",
+            "fips": "18",
             "geonames": 4921868
         },
         "long": {
@@ -213,6 +233,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "ME",
+            "fips": "23",
             "geonames": 4971068
         },
         "long": {
@@ -223,6 +244,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MI",
+            "fips": "26",
             "geonames": 5001836
         },
         "long": {
@@ -233,6 +255,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MN",
+            "fips": "27",
             "geonames": 5037779
         },
         "long": {
@@ -243,6 +266,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NE",
+            "fips": "31",
             "geonames": 5073708
         },
         "long": {
@@ -253,6 +277,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NH",
+            "fips": "33",
             "geonames": 5090174
         },
         "long": {
@@ -263,6 +288,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NJ",
+            "fips": "34",
             "geonames": 5101760
         },
         "long": {
@@ -273,6 +299,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NY",
+            "fips": "36",
             "geonames": 5128638
         },
         "long": {
@@ -283,6 +310,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "OH",
+            "fips": "39",
             "geonames": 5165418
         },
         "long": {
@@ -293,6 +321,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "RI",
+            "fips": "44",
             "geonames": 5224323
         },
         "long": {
@@ -303,6 +332,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "VT",
+            "fips": "50",
             "geonames": 5242283
         },
         "long": {
@@ -313,6 +343,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "WI",
+            "fips": "55",
             "geonames": 5279468
         },
         "long": {
@@ -323,6 +354,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "CA",
+            "fips": "06",
             "geonames": 5332921
         },
         "long": {
@@ -333,6 +365,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "CO",
+            "fips": "08",
             "geonames": 5417618
         },
         "long": {
@@ -343,6 +376,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NM",
+            "fips": "35",
             "geonames": 5481136
         },
         "long": {
@@ -353,6 +387,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "NV",
+            "fips": "32",
             "geonames": 5509151
         },
         "long": {
@@ -363,6 +398,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "UT",
+            "fips": "49",
             "geonames": 5549030
         },
         "long": {
@@ -373,6 +409,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "AZ",
+            "fips": "04",
             "geonames": 5551752
         },
         "long": {
@@ -383,6 +420,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "ID",
+            "fips": "16",
             "geonames": 5596512
         },
         "long": {
@@ -393,6 +431,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MT",
+            "fips": "30",
             "geonames": 5667009
         },
         "long": {
@@ -403,6 +442,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "ND",
+            "fips": "38",
             "geonames": 5690763
         },
         "long": {
@@ -413,6 +453,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "OR",
+            "fips": "41",
             "geonames": 5744337
         },
         "long": {
@@ -423,6 +464,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "SD",
+            "fips": "46",
             "geonames": 5769223
         },
         "long": {
@@ -433,6 +475,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "WA",
+            "fips": "53",
             "geonames": 5815135
         },
         "long": {
@@ -443,6 +486,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "WY",
+            "fips": "56",
             "geonames": 5843591
         },
         "long": {
@@ -453,6 +497,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "HI",
+            "fips": "15",
             "geonames": 5855797
         },
         "long": {
@@ -463,6 +508,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "AK",
+            "fips": "02",
             "geonames": 5879092
         },
         "long": {
@@ -473,6 +519,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "KY",
+            "fips": "21",
             "geonames": 6254925
         },
         "long": {
@@ -483,6 +530,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "MA",
+            "fips": "25",
             "geonames": 6254926
         },
         "long": {
@@ -493,6 +541,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "PA",
+            "fips": "42",
             "geonames": 6254927
         },
         "long": {
@@ -503,6 +552,7 @@
         "parent": "US",
         "ids": {
             "iso_3166": "VA",
+            "fips": "51",
             "geonames": 6254928
         },
         "long": {
