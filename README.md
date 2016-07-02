@@ -15,7 +15,7 @@ Includes integrations with: Laravel 5, Lumen 5
 
 ## Dependencies
 
-* PHP >= 5.6
+* PHP >= 5.5
 
 ## Installation via Composer
 
