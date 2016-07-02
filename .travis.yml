@@ -1,12 +1,27 @@
 language: php
 
 php:
-  - '5.6'
-  - '7.0'
+  - 5.5
+  - 5.6
+  - 7.0
+  - nightly
 
-before_script:
+install:
   - composer install --dev
 
 addons:
     code_climate:
         repo_token: 68fffc20946fecc3411b3e452df63f400d3ed472a5bfc06e068bd92844bdfbdc
+
+
+matrix:
+  allow_failures:
+    - php: nightly
+
+fast_finish: true
+
+# cache vendors
+cache:
+  directories:
+    - vendor
+    - $HOME/.composer/cache
