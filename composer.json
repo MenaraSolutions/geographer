@@ -16,10 +16,9 @@
         "php": ">=5.5.0"
     },
     "require-dev": {
-        "php": ">=5.6.0",
-        "phpunit/phpunit": "5.*",
+        "phpunit/phpunit": "4.*|5.*",
         "codeclimate/php-test-reporter": "dev-master",
-	    "illuminate/support": "5.*"
+        "illuminate/support": "5.*"
     },
     "autoload": {
         "psr-4": {
