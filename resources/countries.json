@@ -11,6 +11,9 @@
             "geonames": 1149361
         },
         "long": {
+            "default": "Islamic Republic of Afghanistan"
+        },
+        "short": {
             "default": "Afghanistan"
         },
         "area": 647500,
@@ -51,6 +54,9 @@
             "geonames": 783754
         },
         "long": {
+            "default": "Republic of Albania"
+        },
+        "short": {
             "default": "Albania"
         },
         "area": 28748,
@@ -71,6 +77,9 @@
             "geonames": 2589581
         },
         "long": {
+            "default": "People's Democratic Republic of Algeria"
+        },
+        "short": {
             "default": "Algeria"
         },
         "area": 2381740,
@@ -111,6 +120,9 @@
             "geonames": 3041565
         },
         "long": {
+            "default": "Principality of Andorra"
+        },
+        "short": {
             "default": "Andorra"
         },
         "area": 468,
@@ -131,6 +143,9 @@
             "geonames": 3351879
         },
         "long": {
+            "default": "Republic of Angola"
+        },
+        "short": {
             "default": "Angola"
         },
         "area": 1246700,
@@ -208,6 +223,9 @@
             "geonames": 3865483
         },
         "long": {
+            "default": "Argentine Republic"
+        },
+        "short": {
             "default": "Argentina"
         },
         "area": 2766890,
@@ -228,6 +246,9 @@
             "geonames": 174982
         },
         "long": {
+            "default": "Republic of Armenia"
+        },
+        "short": {
             "default": "Armenia"
         },
         "area": 29800,
@@ -268,6 +289,9 @@
             "geonames": 2077456
         },
         "long": {
+            "default": "Commonwealth of Australia"
+        },
+        "short": {
             "default": "Australia"
         },
         "area": 7686850,
@@ -288,6 +312,9 @@
             "geonames": 2782113
         },
         "long": {
+            "default": "Republic of Austria"
+        },
+        "short": {
             "default": "Austria"
         },
         "area": 83858,
@@ -308,6 +335,9 @@
             "geonames": 587116
         },
         "long": {
+            "default": "Republic of Azerbaijan"
+        },
+        "short": {
             "default": "Azerbaijan"
         },
         "area": 86600,
@@ -328,6 +358,9 @@
             "geonames": 3572887
         },
         "long": {
+            "default": "Commonwealth of the Bahamas"
+        },
+        "short": {
             "default": "Bahamas"
         },
         "area": 13940,
@@ -348,6 +381,9 @@
             "geonames": 290291
         },
         "long": {
+            "default": "Kingdom of Bahrain"
+        },
+        "short": {
             "default": "Bahrain"
         },
         "area": 665,

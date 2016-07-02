@@ -13,7 +13,7 @@ class StateTest extends Test
      */
     public function all_states_of_all_countries_have_geonames_ids_and_names()
     {
-        $planet = new Earth();
+        $planet = (new Earth())->inflict('from')->setLanguage('ru');
         $countries = $planet->getCountries();
 
         foreach ($countries as $country) {
@@ -23,10 +23,16 @@ class StateTest extends Test
             $states = $country->getStates();
 
             foreach ($states as $state) {
-                $array = $state->inflict('from')->setLanguage('ru')->toArray();
+                $array = $state->toArray();
                 $this->assertTrue(isset($array['code']) && is_int($array['code']));
                 $this->assertTrue(isset($array['name']) && is_string($array['name']));
-                //if ($country->getCode() == 'AE') echo $array['name'] . "\n";
+
+                /*
+                if ($country->getCode() == 'AF') {
+                    echo $state->inflict('default')->getName() . "\n";
+                    echo $state->inflict('from')->getName() . "\n";
+                    echo $state->inflict('in')->getName() . "\n";
+                }*/
             }
         }
     }

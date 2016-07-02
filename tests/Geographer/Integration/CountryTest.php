@@ -6,6 +6,7 @@ use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Divisible;
 use MenaraSolutions\Geographer\Earth;
+use MenaraSolutions\Geographer\Services\TranslationAgency;
 
 class CountryTest extends Test
 {
@@ -27,6 +28,7 @@ class CountryTest extends Test
             $this->assertArrayHasKey('code3', $array);
             $this->assertArrayHasKey('name', $array);
             $this->assertNotEmpty($country->getContinent());
+            //$country->inflict('in');
             //echo $country->getShortName() . "\n";
             //echo $country->getLongName() . "\n";
             //echo $array['name'] . "\n";
@@ -85,7 +87,7 @@ class CountryTest extends Test
     {
         $russia = (new Earth())->findOne(['code' => 'br'])->setLanguage('ru');
         $defaultName = $russia->getName();
-        $russia->inflict('from')->useShortNames()->includePrepositions();
+        $russia->inflict(TranslationAgency::FORM_IN)->useShortNames()->includePrepositions();
         $this->assertNotEquals($defaultName, $russia->getName());
         $this->assertNotEquals($russia->getName(), $russia->excludePrepositions()->getName());
     }

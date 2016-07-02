@@ -46,17 +46,34 @@ class TranslationAgency implements TranslationAgencyInterface
     protected $prepositions = true;
 
     /**
+     * Constants for available languages
+     */
+    const LANG_RUSSIAN = 'ru';
+    const LANG_ENGLISH = 'en';
+    const LANG_SPANISH = 'es';
+    const LANG_ITALIAN = 'it';
+    const LANG_FRENCH = 'fr';
+    const LANG_CHINESE = 'zh';
+
+    /**
+     * Constants for available forms
+     */
+    const FORM_DEFAULT = 'default';
+    const FORM_IN = 'in';
+    const FORM_FROM = 'from';
+    
+    /**
      * List of available translators
      *
      * @var array
      */
     protected $languages = [
-        'ru' => Russian::class,
-        'en' => English::class,
-        'es' => Spanish::class,
-        'it' => Italian::class,
-        'fr' => French::class,
-        'zh' => Mandarin::class
+        self::LANG_RUSSIAN => Russian::class,
+        self::LANG_ENGLISH => English::class,
+        self::LANG_SPANISH => Spanish::class,
+        self::LANG_ITALIAN => Italian::class,
+        self::LANG_FRENCH => French::class,
+        self::LANG_CHINESE => Mandarin::class
     ];
 
     /**

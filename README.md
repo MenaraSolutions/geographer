@@ -62,6 +62,9 @@ $thailand->getStates()->setLanguage('ru')->toArray();
 // Oh, but I want them inflicted to 'in' form (eg. 'in Spain')
 $thailand->getStates()->setLanguage('ru')->inflict('in')->toArray();
 
+// Or if you prefer constants for the sake of IDE auto-complete
+$thailand->getStates()->setLanguage(TranslationAgency::LANG_RUSSIAN)->inflict(TranslationAgency::FORM_IN)->toArray();
+
 // What's the capital and do you have a geonames ID for that? Or maybe latitude and longitude?
 $capital = $thailand->getCapital();
 $capital->getGeonamesId();
