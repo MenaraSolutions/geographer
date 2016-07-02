@@ -53,6 +53,7 @@ $earth->getCountries()->useShortNames()->toArray();
 // Now please give me all states of Thailand
 $countries = $earth->getCountries();
 $thailand = $countries->findOne(['code' => 'TH']);
+$thailand = $countries->findOneByCode('TH'); // Alternative shorter syntax
 $thailand->getStates()->toArray();
 
 // Oh, but I want them in Russian
@@ -77,6 +78,8 @@ way of implementing arrays. Some of the available methods are:
 $states->sortBy('name'); // States will be sorted by name
 $states->setLanguage('ru')->sortBy('name'); // States will be sorted by Russian translations/names
 $states->find(['code' => 472039]); // Find 1+ divisions that match specified parameters 
+$states->findOne(['code' => 472039]); // Return the first match only
+$states->findOneByCode(472039); // Convenience magic method
 ```
 
 ## Common methods on division objects

@@ -103,7 +103,13 @@ trait ExposesFields
             return $this->__get($field);
         }
 
-        throw new UnknownFieldException('Method doesn\'t exist');
+        if (preg_match('~^(findOneBy)([A-Z])(.*)$~', $methodName, $matches)) {
+            $field = strtolower($matches[2]) . $matches[3];
+
+            return $this->findOne([$field => $args[0]]);
+        }
+
+        throw new UnknownFieldException('Method ' . $methodName . ' doesn\'t exist');
     }
 
     /**

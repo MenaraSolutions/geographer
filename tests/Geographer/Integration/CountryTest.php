@@ -48,6 +48,17 @@ class CountryTest extends Test
     /**
      * @test
      */
+    public function magic_getter_for_findone_works()
+    {
+        $earth = new Earth();
+        $russia = $earth->findOneByCode('RU');
+        $this->assertInstanceOf(Country::class, $russia);
+        $this->assertNotEmpty($russia->getName());
+    }
+
+    /**
+     * @test
+     */
     public function data_can_be_accesses_as_properties_and_as_array_keys()
     {
         $earth = new Earth();
