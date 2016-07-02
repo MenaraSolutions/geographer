@@ -9,6 +9,7 @@ use MenaraSolutions\Geographer\Services\DefaultManager;
 use MenaraSolutions\Geographer\Traits\ExposesFields;
 use MenaraSolutions\Geographer\Traits\HasManager;
 use MenaraSolutions\Geographer\Repositories\File;
+use MenaraSolutions\Geographer\Traits\HasCollection;
 
 /**
  * Class Divisible
@@ -16,7 +17,7 @@ use MenaraSolutions\Geographer\Repositories\File;
  */
 abstract class Divisible implements IdentifiableInterface, \ArrayAccess
 {
-    use HasManager, ExposesFields;
+    use HasManager, ExposesFields, HasCollection;
 
     /**
      * @var array $meta
@@ -81,54 +82,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
 
         return $this->members;
     }
-
-    /**
-     * @param Divisible $member
-     * @param array $params
-     * @return bool
-     */
-    private function match(Divisible $member, array $params)
-    {
-        $memberArray = $member->toArray();
-        $match = true;
-
-        foreach ($params as $key => $value) {
-            if (!isset($memberArray[$key]) || strcasecmp($memberArray[$key], $value) != 0) $match = false;
-        }
-
-        return $match;
-    }
-
-    /**
-     * @param array $params
-     * @return MemberCollection
-     */
-    public function find(array $params = [])
-    {
-        $members = new MemberCollection($this->manager);
-
-        foreach($this->getMembers() as $key => $member) {
-            if ($this->match($member, $params)) {
-                $members->add($member, $key);
-            }
-        }
-
-        return $members;
-    }
-
-    /**
-     * @param array $params
-     * @return Divisible|bool
-     */
-    public function findOne(array $params = [])
-    {
-        if (array_keys($params) == ['code']) {
-            return $this->getMembers()->get(strtoupper($params['code']));
-        }
-
-        return $this->find($params)->first();
-    }
-
+    
     /**
      * @param MemberCollection $collection
      * @return void
