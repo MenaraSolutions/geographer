@@ -51,9 +51,9 @@ $earth->getCountries()->toArray();
 $earth->getCountries()->useShortNames()->toArray();
 
 // Now please give me all states of Thailand
-$countries = $earth->getCountries();
-$thailand = $countries->findOne(['code' => 'TH']);
-$thailand = $countries->findOneByCode('TH'); // Alternative shorter syntax
+$thailand = $earth->getCountries()->findOne(['code' => 'TH']); // You can call find on collection
+$thailand = $earth->findOne(['code' => 'TH']); // Or right away on division
+$thailand = $earth->findOneByCode('TH'); // Alternative shorter syntax
 $thailand->getStates()->toArray();
 
 // Oh, but I want them in Russian
