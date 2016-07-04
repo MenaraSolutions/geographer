@@ -6,7 +6,8 @@
         "ids": {
             "iso_3166_1": [
                 "AF",
-                "AFG"
+                "AFG",
+                "004"
             ],
             "geonames": 1149361
         },
@@ -29,7 +30,8 @@
         "ids": {
             "iso_3166_1": [
                 "AX",
-                "ALA"
+                "ALA",
+                "248"
             ],
             "geonames": 661882
         },
@@ -49,7 +51,8 @@
         "ids": {
             "iso_3166_1": [
                 "AL",
-                "ALB"
+                "ALB",
+                "008"
             ],
             "geonames": 783754
         },
@@ -72,7 +75,8 @@
         "ids": {
             "iso_3166_1": [
                 "DZ",
-                "DZA"
+                "DZA",
+                "012"
             ],
             "geonames": 2589581
         },
@@ -95,7 +99,8 @@
         "ids": {
             "iso_3166_1": [
                 "AS",
-                "ASM"
+                "ASM",
+                "016"
             ],
             "geonames": 5880801
         },
@@ -115,7 +120,8 @@
         "ids": {
             "iso_3166_1": [
                 "AD",
-                "AND"
+                "AND",
+                "020"
             ],
             "geonames": 3041565
         },
@@ -138,7 +144,8 @@
         "ids": {
             "iso_3166_1": [
                 "AO",
-                "AGO"
+                "AGO",
+                "024"
             ],
             "geonames": 3351879
         },
@@ -161,7 +168,8 @@
         "ids": {
             "iso_3166_1": [
                 "AI",
-                "AIA"
+                "AIA",
+                "660"
             ],
             "geonames": 3573511
         },
@@ -181,7 +189,8 @@
         "ids": {
             "iso_3166_1": [
                 "AQ",
-                "ATA"
+                "ATA",
+                "010"
             ],
             "geonames": 6697173
         },
@@ -198,7 +207,8 @@
         "ids": {
             "iso_3166_1": [
                 "AG",
-                "ATG"
+                "ATG",
+                "028"
             ],
             "geonames": 3576396
         },
@@ -218,7 +228,8 @@
         "ids": {
             "iso_3166_1": [
                 "AR",
-                "ARG"
+                "ARG",
+                "032"
             ],
             "geonames": 3865483
         },
@@ -241,7 +252,8 @@
         "ids": {
             "iso_3166_1": [
                 "AM",
-                "ARM"
+                "ARM",
+                "051"
             ],
             "geonames": 174982
         },
@@ -264,7 +276,8 @@
         "ids": {
             "iso_3166_1": [
                 "AW",
-                "ABW"
+                "ABW",
+                "533"
             ],
             "geonames": 3577279
         },
@@ -284,7 +297,8 @@
         "ids": {
             "iso_3166_1": [
                 "AU",
-                "AUS"
+                "AUS",
+                "036"
             ],
             "geonames": 2077456
         },
@@ -307,7 +321,8 @@
         "ids": {
             "iso_3166_1": [
                 "AT",
-                "AUT"
+                "AUT",
+                "040"
             ],
             "geonames": 2782113
         },
@@ -330,7 +345,8 @@
         "ids": {
             "iso_3166_1": [
                 "AZ",
-                "AZE"
+                "AZE",
+                "031"
             ],
             "geonames": 587116
         },
@@ -353,7 +369,8 @@
         "ids": {
             "iso_3166_1": [
                 "BS",
-                "BHS"
+                "BHS",
+                "044"
             ],
             "geonames": 3572887
         },
@@ -376,7 +393,8 @@
         "ids": {
             "iso_3166_1": [
                 "BH",
-                "BHR"
+                "BHR",
+                "048"
             ],
             "geonames": 290291
         },
@@ -399,7 +417,8 @@
         "ids": {
             "iso_3166_1": [
                 "BD",
-                "BGD"
+                "BGD",
+                "050"
             ],
             "geonames": 1210997
         },
@@ -419,7 +438,8 @@
         "ids": {
             "iso_3166_1": [
                 "BB",
-                "BRB"
+                "BRB",
+                "052"
             ],
             "geonames": 3374084
         },
@@ -439,7 +459,8 @@
         "ids": {
             "iso_3166_1": [
                 "BY",
-                "BLR"
+                "BLR",
+                "112"
             ],
             "geonames": 630336
         },
@@ -459,7 +480,8 @@
         "ids": {
             "iso_3166_1": [
                 "BE",
-                "BEL"
+                "BEL",
+                "056"
             ],
             "geonames": 2802361
         },
@@ -479,7 +501,8 @@
         "ids": {
             "iso_3166_1": [
                 "BZ",
-                "BLZ"
+                "BLZ",
+                "084"
             ],
             "geonames": 3582678
         },
@@ -499,7 +522,8 @@
         "ids": {
             "iso_3166_1": [
                 "BJ",
-                "BEN"
+                "BEN",
+                "204"
             ],
             "geonames": 2395170
         },
@@ -519,7 +543,8 @@
         "ids": {
             "iso_3166_1": [
                 "BM",
-                "BMU"
+                "BMU",
+                "060"
             ],
             "geonames": 3573345
         },
@@ -539,7 +564,8 @@
         "ids": {
             "iso_3166_1": [
                 "BT",
-                "BTN"
+                "BTN",
+                "064"
             ],
             "geonames": 1252634
         },
@@ -559,16 +585,17 @@
         "ids": {
             "iso_3166_1": [
                 "BO",
-                "BOL"
+                "BOL",
+                "068"
             ],
             "geonames": 3923057
         },
         "long": {
             "default": "Plurinational State of Bolivia"
         },
-	"short": {
-	    "default": "Bolivia"
-	},
+        "short": {
+            "default": "Bolivia"
+        },
         "area": 1098580,
         "currency": "BOB",
         "phone": "591",
@@ -582,7 +609,8 @@
         "ids": {
             "iso_3166_1": [
                 "BQ",
-                "BES"
+                "BES",
+                null
             ],
             "geonames": 7626844
         },
@@ -602,7 +630,8 @@
         "ids": {
             "iso_3166_1": [
                 "BA",
-                "BIH"
+                "BIH",
+                "070"
             ],
             "geonames": 3277605
         },
@@ -622,7 +651,8 @@
         "ids": {
             "iso_3166_1": [
                 "BW",
-                "BWA"
+                "BWA",
+                "072"
             ],
             "geonames": 933860
         },
@@ -642,7 +672,8 @@
         "ids": {
             "iso_3166_1": [
                 "BV",
-                "BVT"
+                "BVT",
+                "074"
             ],
             "geonames": 3371123
         },
@@ -660,7 +691,8 @@
         "ids": {
             "iso_3166_1": [
                 "BR",
-                "BRA"
+                "BRA",
+                "076"
             ],
             "geonames": 3469034
         },
@@ -680,7 +712,8 @@
         "ids": {
             "iso_3166_1": [
                 "IO",
-                "IOT"
+                "IOT",
+                "086"
             ],
             "geonames": 1282588
         },
@@ -700,16 +733,17 @@
         "ids": {
             "iso_3166_1": [
                 "BN",
-                "BRN"
+                "BRN",
+                "096"
             ],
             "geonames": 1820814
         },
         "long": {
             "default": "Nation of Brunei"
         },
-	"short": {
-	    "default": "Brunei"
-	},
+        "short": {
+            "default": "Brunei"
+        },
         "area": 5770,
         "currency": "BND",
         "phone": "673",
@@ -723,7 +757,8 @@
         "ids": {
             "iso_3166_1": [
                 "BG",
-                "BGR"
+                "BGR",
+                "100"
             ],
             "geonames": 732800
         },
@@ -743,7 +778,8 @@
         "ids": {
             "iso_3166_1": [
                 "BF",
-                "BFA"
+                "BFA",
+                "854"
             ],
             "geonames": 2361809
         },
@@ -763,7 +799,8 @@
         "ids": {
             "iso_3166_1": [
                 "BI",
-                "BDI"
+                "BDI",
+                "108"
             ],
             "geonames": 433561
         },
@@ -783,7 +820,8 @@
         "ids": {
             "iso_3166_1": [
                 "CV",
-                "CPV"
+                "CPV",
+                "132"
             ],
             "geonames": 3374766
         },
@@ -803,7 +841,8 @@
         "ids": {
             "iso_3166_1": [
                 "KH",
-                "KHM"
+                "KHM",
+                "116"
             ],
             "geonames": 1831722
         },
@@ -823,7 +862,8 @@
         "ids": {
             "iso_3166_1": [
                 "CM",
-                "CMR"
+                "CMR",
+                "120"
             ],
             "geonames": 2233387
         },
@@ -843,7 +883,8 @@
         "ids": {
             "iso_3166_1": [
                 "CA",
-                "CAN"
+                "CAN",
+                "124"
             ],
             "geonames": 6251999
         },
@@ -863,7 +904,8 @@
         "ids": {
             "iso_3166_1": [
                 "KY",
-                "CYM"
+                "CYM",
+                "136"
             ],
             "geonames": 3580718
         },
@@ -883,7 +925,8 @@
         "ids": {
             "iso_3166_1": [
                 "CF",
-                "CAF"
+                "CAF",
+                "140"
             ],
             "geonames": 239880
         },
@@ -903,13 +946,14 @@
         "ids": {
             "iso_3166_1": [
                 "TD",
-                "TCD"
+                "TCD",
+                "148"
             ],
             "geonames": 2434508
         },
-	"long": {
-	    "default": "Republic of Chad"
-	},
+        "long": {
+            "default": "Republic of Chad"
+        },
         "short": {
             "default": "Chad"
         },
@@ -926,13 +970,14 @@
         "ids": {
             "iso_3166_1": [
                 "CL",
-                "CHL"
+                "CHL",
+                "152"
             ],
             "geonames": 3895114
         },
-	"long": {
-	    "default": "Republic of Chile"
-	},
+        "long": {
+            "default": "Republic of Chile"
+        },
         "short": {
             "default": "Chile"
         },
@@ -949,13 +994,14 @@
         "ids": {
             "iso_3166_1": [
                 "CN",
-                "CHN"
+                "CHN",
+                "156"
             ],
             "geonames": 1814991
         },
-	"long": {
-	    "default": "People's Republic of China"
-	},
+        "long": {
+            "default": "People's Republic of China"
+        },
         "short": {
             "default": "China"
         },
@@ -972,7 +1018,8 @@
         "ids": {
             "iso_3166_1": [
                 "CX",
-                "CXR"
+                "CXR",
+                "162"
             ],
             "geonames": 2078138
         },
@@ -992,7 +1039,8 @@
         "ids": {
             "iso_3166_1": [
                 "CC",
-                "CCK"
+                "CCK",
+                "166"
             ],
             "geonames": 1547376
         },
@@ -1012,13 +1060,14 @@
         "ids": {
             "iso_3166_1": [
                 "CO",
-                "COL"
+                "COL",
+                "170"
             ],
             "geonames": 3686110
         },
-	"long": {
-	    "default": "Republic of Colombia"
-	},
+        "long": {
+            "default": "Republic of Colombia"
+        },
         "short": {
             "default": "Colombia"
         },
@@ -1035,7 +1084,8 @@
         "ids": {
             "iso_3166_1": [
                 "KM",
-                "COM"
+                "COM",
+                "174"
             ],
             "geonames": 921929
         },
@@ -1055,16 +1105,17 @@
         "ids": {
             "iso_3166_1": [
                 "CG",
-                "COG"
+                "COG",
+                "178"
             ],
             "geonames": 2260494
         },
         "long": {
             "default": "Republic of the Congo"
         },
-	"short": {
-	    "default": "Congo-Brazzaville"
-	},
+        "short": {
+            "default": "Congo-Brazzaville"
+        },
         "area": 342000,
         "currency": "XAF",
         "phone": "242",
@@ -1078,16 +1129,17 @@
         "ids": {
             "iso_3166_1": [
                 "CD",
-                "COD"
+                "COD",
+                "180"
             ],
             "geonames": 203312
         },
         "long": {
             "default": "Democratic Republic of the Congo"
         },
-	"short": {
-	    "default": "Congo"
-	},
+        "short": {
+            "default": "Congo"
+        },
         "area": 2345410,
         "currency": "CDF",
         "phone": "243",
@@ -1101,7 +1153,8 @@
         "ids": {
             "iso_3166_1": [
                 "CK",
-                "COK"
+                "COK",
+                "184"
             ],
             "geonames": 1899402
         },
@@ -1121,13 +1174,14 @@
         "ids": {
             "iso_3166_1": [
                 "CR",
-                "CRI"
+                "CRI",
+                "188"
             ],
             "geonames": 3624060
         },
-	"long": {
-	    "default": "Republic of Costa Rica"
-	},
+        "long": {
+            "default": "Republic of Costa Rica"
+        },
         "short": {
             "default": "Costa Rica"
         },
@@ -1144,7 +1198,8 @@
         "ids": {
             "iso_3166_1": [
                 "CI",
-                "CIV"
+                "CIV",
+                "384"
             ],
             "geonames": 2287781
         },
@@ -1164,13 +1219,14 @@
         "ids": {
             "iso_3166_1": [
                 "HR",
-                "HRV"
+                "HRV",
+                "191"
             ],
             "geonames": 3202326
         },
-	"long": {
-	    "default": "Republic of Croatia"
-	},
+        "long": {
+            "default": "Republic of Croatia"
+        },
         "short": {
             "default": "Croatia"
         },
@@ -1187,13 +1243,14 @@
         "ids": {
             "iso_3166_1": [
                 "CU",
-                "CUB"
+                "CUB",
+                "192"
             ],
             "geonames": 3562981
         },
-	"long": {
-	    "default": "Republic of Cuba"
-	},
+        "long": {
+            "default": "Republic of Cuba"
+        },
         "short": {
             "default": "Cuba"
         },
@@ -1210,7 +1267,8 @@
         "ids": {
             "iso_3166_1": [
                 "CW",
-                "CUW"
+                "CUW",
+                "531"
             ],
             "geonames": 7626836
         },
@@ -1230,13 +1288,14 @@
         "ids": {
             "iso_3166_1": [
                 "CY",
-                "CYP"
+                "CYP",
+                "196"
             ],
             "geonames": 146669
         },
-	"long": {
-	    "default": "Republic of Cyprus"
-	},
+        "long": {
+            "default": "Republic of Cyprus"
+        },
         "short": {
             "default": "Cyprus"
         },
@@ -1253,13 +1312,14 @@
         "ids": {
             "iso_3166_1": [
                 "CZ",
-                "CZE"
+                "CZE",
+                "203"
             ],
             "geonames": 3077311
         },
-	"short": {
-	    "default": "Czechia"
-	},
+        "short": {
+            "default": "Czechia"
+        },
         "long": {
             "default": "Czech Republic"
         },
@@ -1276,7 +1336,8 @@
         "ids": {
             "iso_3166_1": [
                 "DK",
-                "DNK"
+                "DNK",
+                "208"
             ],
             "geonames": 2623032
         },
@@ -1296,7 +1357,8 @@
         "ids": {
             "iso_3166_1": [
                 "DJ",
-                "DJI"
+                "DJI",
+                "262"
             ],
             "geonames": 223816
         },
@@ -1316,7 +1378,8 @@
         "ids": {
             "iso_3166_1": [
                 "DM",
-                "DMA"
+                "DMA",
+                "212"
             ],
             "geonames": 3575830
         },
@@ -1336,7 +1399,8 @@
         "ids": {
             "iso_3166_1": [
                 "DO",
-                "DOM"
+                "DOM",
+                "214"
             ],
             "geonames": 3508796
         },
@@ -1356,7 +1420,8 @@
         "ids": {
             "iso_3166_1": [
                 "EC",
-                "ECU"
+                "ECU",
+                "218"
             ],
             "geonames": 3658394
         },
@@ -1376,7 +1441,8 @@
         "ids": {
             "iso_3166_1": [
                 "EG",
-                "EGY"
+                "EGY",
+                "818"
             ],
             "geonames": 357994
         },
@@ -1396,7 +1462,8 @@
         "ids": {
             "iso_3166_1": [
                 "SV",
-                "SLV"
+                "SLV",
+                "222"
             ],
             "geonames": 3585968
         },
@@ -1416,7 +1483,8 @@
         "ids": {
             "iso_3166_1": [
                 "GQ",
-                "GNQ"
+                "GNQ",
+                "226"
             ],
             "geonames": 2309096
         },
@@ -1436,7 +1504,8 @@
         "ids": {
             "iso_3166_1": [
                 "ER",
-                "ERI"
+                "ERI",
+                "232"
             ],
             "geonames": 338010
         },
@@ -1456,7 +1525,8 @@
         "ids": {
             "iso_3166_1": [
                 "EE",
-                "EST"
+                "EST",
+                "233"
             ],
             "geonames": 453733
         },
@@ -1476,7 +1546,8 @@
         "ids": {
             "iso_3166_1": [
                 "ET",
-                "ETH"
+                "ETH",
+                "231"
             ],
             "geonames": 337996
         },
@@ -1496,7 +1567,8 @@
         "ids": {
             "iso_3166_1": [
                 "FK",
-                "FLK"
+                "FLK",
+                "238"
             ],
             "geonames": 3474414
         },
@@ -1516,7 +1588,8 @@
         "ids": {
             "iso_3166_1": [
                 "FO",
-                "FRO"
+                "FRO",
+                "234"
             ],
             "geonames": 2622320
         },
@@ -1536,7 +1609,8 @@
         "ids": {
             "iso_3166_1": [
                 "FJ",
-                "FJI"
+                "FJI",
+                "242"
             ],
             "geonames": 2205218
         },
@@ -1556,7 +1630,8 @@
         "ids": {
             "iso_3166_1": [
                 "FI",
-                "FIN"
+                "FIN",
+                "246"
             ],
             "geonames": 660013
         },
@@ -1576,7 +1651,8 @@
         "ids": {
             "iso_3166_1": [
                 "FR",
-                "FRA"
+                "FRA",
+                "250"
             ],
             "geonames": 3017382
         },
@@ -1596,7 +1672,8 @@
         "ids": {
             "iso_3166_1": [
                 "GF",
-                "GUF"
+                "GUF",
+                "254"
             ],
             "geonames": 3381670
         },
@@ -1616,7 +1693,8 @@
         "ids": {
             "iso_3166_1": [
                 "PF",
-                "PYF"
+                "PYF",
+                "258"
             ],
             "geonames": 4030656
         },
@@ -1636,7 +1714,8 @@
         "ids": {
             "iso_3166_1": [
                 "TF",
-                "ATF"
+                "ATF",
+                "260"
             ],
             "geonames": 1546748
         },
@@ -1655,7 +1734,8 @@
         "ids": {
             "iso_3166_1": [
                 "GA",
-                "GAB"
+                "GAB",
+                "266"
             ],
             "geonames": 2400553
         },
@@ -1675,7 +1755,8 @@
         "ids": {
             "iso_3166_1": [
                 "GM",
-                "GMB"
+                "GMB",
+                "270"
             ],
             "geonames": 2413451
         },
@@ -1695,7 +1776,8 @@
         "ids": {
             "iso_3166_1": [
                 "GE",
-                "GEO"
+                "GEO",
+                "268"
             ],
             "geonames": 614540
         },
@@ -1715,7 +1797,8 @@
         "ids": {
             "iso_3166_1": [
                 "DE",
-                "DEU"
+                "DEU",
+                "276"
             ],
             "geonames": 2921044
         },
@@ -1735,7 +1818,8 @@
         "ids": {
             "iso_3166_1": [
                 "GH",
-                "GHA"
+                "GHA",
+                "288"
             ],
             "geonames": 2300660
         },
@@ -1755,7 +1839,8 @@
         "ids": {
             "iso_3166_1": [
                 "GI",
-                "GIB"
+                "GIB",
+                "292"
             ],
             "geonames": 2411586
         },
@@ -1775,7 +1860,8 @@
         "ids": {
             "iso_3166_1": [
                 "GR",
-                "GRC"
+                "GRC",
+                "300"
             ],
             "geonames": 390903
         },
@@ -1795,7 +1881,8 @@
         "ids": {
             "iso_3166_1": [
                 "GL",
-                "GRL"
+                "GRL",
+                "304"
             ],
             "geonames": 3425505
         },
@@ -1815,7 +1902,8 @@
         "ids": {
             "iso_3166_1": [
                 "GD",
-                "GRD"
+                "GRD",
+                "308"
             ],
             "geonames": 3580239
         },
@@ -1835,7 +1923,8 @@
         "ids": {
             "iso_3166_1": [
                 "GP",
-                "GLP"
+                "GLP",
+                "312"
             ],
             "geonames": 3579143
         },
@@ -1855,7 +1944,8 @@
         "ids": {
             "iso_3166_1": [
                 "GU",
-                "GUM"
+                "GUM",
+                "316"
             ],
             "geonames": 4043988
         },
@@ -1875,7 +1965,8 @@
         "ids": {
             "iso_3166_1": [
                 "GT",
-                "GTM"
+                "GTM",
+                "320"
             ],
             "geonames": 3595528
         },
@@ -1895,7 +1986,8 @@
         "ids": {
             "iso_3166_1": [
                 "GG",
-                "GGY"
+                "GGY",
+                "831"
             ],
             "geonames": 3042362
         },
@@ -1915,7 +2007,8 @@
         "ids": {
             "iso_3166_1": [
                 "GN",
-                "GIN"
+                "GIN",
+                "324"
             ],
             "geonames": 2420477
         },
@@ -1935,7 +2028,8 @@
         "ids": {
             "iso_3166_1": [
                 "GW",
-                "GNB"
+                "GNB",
+                "624"
             ],
             "geonames": 2372248
         },
@@ -1955,7 +2049,8 @@
         "ids": {
             "iso_3166_1": [
                 "GY",
-                "GUY"
+                "GUY",
+                "328"
             ],
             "geonames": 3378535
         },
@@ -1975,7 +2070,8 @@
         "ids": {
             "iso_3166_1": [
                 "HT",
-                "HTI"
+                "HTI",
+                "332"
             ],
             "geonames": 3723988
         },
@@ -1995,7 +2091,8 @@
         "ids": {
             "iso_3166_1": [
                 "HM",
-                "HMD"
+                "HMD",
+                "334"
             ],
             "geonames": 1547314
         },
@@ -2014,16 +2111,17 @@
         "ids": {
             "iso_3166_1": [
                 "VA",
-                "VAT"
+                "VAT",
+                "336"
             ],
             "geonames": 3164670
         },
         "long": {
             "default": "Holy See"
         },
-	"short": {
-	    "default": "Vatican"
-	},
+        "short": {
+            "default": "Vatican"
+        },
         "area": 0,
         "currency": "EUR",
         "phone": "379",
@@ -2037,7 +2135,8 @@
         "ids": {
             "iso_3166_1": [
                 "HN",
-                "HND"
+                "HND",
+                "340"
             ],
             "geonames": 3608932
         },
@@ -2057,7 +2156,8 @@
         "ids": {
             "iso_3166_1": [
                 "HK",
-                "HKG"
+                "HKG",
+                "344"
             ],
             "geonames": 1819730
         },
@@ -2077,7 +2177,8 @@
         "ids": {
             "iso_3166_1": [
                 "HU",
-                "HUN"
+                "HUN",
+                "348"
             ],
             "geonames": 719819
         },
@@ -2097,7 +2198,8 @@
         "ids": {
             "iso_3166_1": [
                 "IS",
-                "ISL"
+                "ISL",
+                "352"
             ],
             "geonames": 2629691
         },
@@ -2117,7 +2219,8 @@
         "ids": {
             "iso_3166_1": [
                 "IN",
-                "IND"
+                "IND",
+                "356"
             ],
             "geonames": 1269750
         },
@@ -2137,7 +2240,8 @@
         "ids": {
             "iso_3166_1": [
                 "ID",
-                "IDN"
+                "IDN",
+                "360"
             ],
             "geonames": 1643084
         },
@@ -2157,7 +2261,8 @@
         "ids": {
             "iso_3166_1": [
                 "IR",
-                "IRN"
+                "IRN",
+                "364"
             ],
             "geonames": 130758
         },
@@ -2177,7 +2282,8 @@
         "ids": {
             "iso_3166_1": [
                 "IQ",
-                "IRQ"
+                "IRQ",
+                "368"
             ],
             "geonames": 99237
         },
@@ -2197,7 +2303,8 @@
         "ids": {
             "iso_3166_1": [
                 "IE",
-                "IRL"
+                "IRL",
+                "372"
             ],
             "geonames": 2963597
         },
@@ -2217,7 +2324,8 @@
         "ids": {
             "iso_3166_1": [
                 "IM",
-                "IMN"
+                "IMN",
+                "833"
             ],
             "geonames": 3042225
         },
@@ -2237,7 +2345,8 @@
         "ids": {
             "iso_3166_1": [
                 "IL",
-                "ISR"
+                "ISR",
+                "376"
             ],
             "geonames": 294640
         },
@@ -2257,7 +2366,8 @@
         "ids": {
             "iso_3166_1": [
                 "IT",
-                "ITA"
+                "ITA",
+                "380"
             ],
             "geonames": 3175395
         },
@@ -2277,7 +2387,8 @@
         "ids": {
             "iso_3166_1": [
                 "JM",
-                "JAM"
+                "JAM",
+                "388"
             ],
             "geonames": 3489940
         },
@@ -2297,7 +2408,8 @@
         "ids": {
             "iso_3166_1": [
                 "JP",
-                "JPN"
+                "JPN",
+                "392"
             ],
             "geonames": 1861060
         },
@@ -2317,7 +2429,8 @@
         "ids": {
             "iso_3166_1": [
                 "JE",
-                "JEY"
+                "JEY",
+                "832"
             ],
             "geonames": 3042142
         },
@@ -2337,7 +2450,8 @@
         "ids": {
             "iso_3166_1": [
                 "JO",
-                "JOR"
+                "JOR",
+                "400"
             ],
             "geonames": 248816
         },
@@ -2357,7 +2471,8 @@
         "ids": {
             "iso_3166_1": [
                 "KZ",
-                "KAZ"
+                "KAZ",
+                "398"
             ],
             "geonames": 1522867
         },
@@ -2377,7 +2492,8 @@
         "ids": {
             "iso_3166_1": [
                 "KE",
-                "KEN"
+                "KEN",
+                "404"
             ],
             "geonames": 192950
         },
@@ -2397,7 +2513,8 @@
         "ids": {
             "iso_3166_1": [
                 "KI",
-                "KIR"
+                "KIR",
+                "296"
             ],
             "geonames": 4030945
         },
@@ -2417,7 +2534,8 @@
         "ids": {
             "iso_3166_1": [
                 "KP",
-                "PRK"
+                "PRK",
+                "408"
             ],
             "geonames": 1873107
         },
@@ -2437,7 +2555,8 @@
         "ids": {
             "iso_3166_1": [
                 "KR",
-                "KOR"
+                "KOR",
+                "410"
             ],
             "geonames": 1835841
         },
@@ -2457,7 +2576,8 @@
         "ids": {
             "iso_3166_1": [
                 "KW",
-                "KWT"
+                "KWT",
+                "414"
             ],
             "geonames": 285570
         },
@@ -2477,7 +2597,8 @@
         "ids": {
             "iso_3166_1": [
                 "KG",
-                "KGZ"
+                "KGZ",
+                "417"
             ],
             "geonames": 1527747
         },
@@ -2497,7 +2618,8 @@
         "ids": {
             "iso_3166_1": [
                 "LA",
-                "LAO"
+                "LAO",
+                "418"
             ],
             "geonames": 1655842
         },
@@ -2517,7 +2639,8 @@
         "ids": {
             "iso_3166_1": [
                 "LV",
-                "LVA"
+                "LVA",
+                "428"
             ],
             "geonames": 458258
         },
@@ -2537,7 +2660,8 @@
         "ids": {
             "iso_3166_1": [
                 "LB",
-                "LBN"
+                "LBN",
+                "422"
             ],
             "geonames": 272103
         },
@@ -2557,7 +2681,8 @@
         "ids": {
             "iso_3166_1": [
                 "LS",
-                "LSO"
+                "LSO",
+                "426"
             ],
             "geonames": 932692
         },
@@ -2577,7 +2702,8 @@
         "ids": {
             "iso_3166_1": [
                 "LR",
-                "LBR"
+                "LBR",
+                "430"
             ],
             "geonames": 2275384
         },
@@ -2597,7 +2723,8 @@
         "ids": {
             "iso_3166_1": [
                 "LY",
-                "LBY"
+                "LBY",
+                "434"
             ],
             "geonames": 2215636
         },
@@ -2617,7 +2744,8 @@
         "ids": {
             "iso_3166_1": [
                 "LI",
-                "LIE"
+                "LIE",
+                "438"
             ],
             "geonames": 3042058
         },
@@ -2637,7 +2765,8 @@
         "ids": {
             "iso_3166_1": [
                 "LT",
-                "LTU"
+                "LTU",
+                "440"
             ],
             "geonames": 597427
         },
@@ -2657,7 +2786,8 @@
         "ids": {
             "iso_3166_1": [
                 "LU",
-                "LUX"
+                "LUX",
+                "442"
             ],
             "geonames": 2960313
         },
@@ -2677,7 +2807,8 @@
         "ids": {
             "iso_3166_1": [
                 "MO",
-                "MAC"
+                "MAC",
+                "446"
             ],
             "geonames": 1821275
         },
@@ -2697,7 +2828,8 @@
         "ids": {
             "iso_3166_1": [
                 "MK",
-                "MKD"
+                "MKD",
+                "807"
             ],
             "geonames": 718075
         },
@@ -2717,7 +2849,8 @@
         "ids": {
             "iso_3166_1": [
                 "MG",
-                "MDG"
+                "MDG",
+                "450"
             ],
             "geonames": 1062947
         },
@@ -2737,7 +2870,8 @@
         "ids": {
             "iso_3166_1": [
                 "MW",
-                "MWI"
+                "MWI",
+                "454"
             ],
             "geonames": 927384
         },
@@ -2757,7 +2891,8 @@
         "ids": {
             "iso_3166_1": [
                 "MY",
-                "MYS"
+                "MYS",
+                "458"
             ],
             "geonames": 1733045
         },
@@ -2777,7 +2912,8 @@
         "ids": {
             "iso_3166_1": [
                 "MV",
-                "MDV"
+                "MDV",
+                "462"
             ],
             "geonames": 1282028
         },
@@ -2797,7 +2933,8 @@
         "ids": {
             "iso_3166_1": [
                 "ML",
-                "MLI"
+                "MLI",
+                "466"
             ],
             "geonames": 2453866
         },
@@ -2817,7 +2954,8 @@
         "ids": {
             "iso_3166_1": [
                 "MT",
-                "MLT"
+                "MLT",
+                "470"
             ],
             "geonames": 2562770
         },
@@ -2837,7 +2975,8 @@
         "ids": {
             "iso_3166_1": [
                 "MH",
-                "MHL"
+                "MHL",
+                "584"
             ],
             "geonames": 2080185
         },
@@ -2857,7 +2996,8 @@
         "ids": {
             "iso_3166_1": [
                 "MQ",
-                "MTQ"
+                "MTQ",
+                "474"
             ],
             "geonames": 3570311
         },
@@ -2877,7 +3017,8 @@
         "ids": {
             "iso_3166_1": [
                 "MR",
-                "MRT"
+                "MRT",
+                "478"
             ],
             "geonames": 2378080
         },
@@ -2897,7 +3038,8 @@
         "ids": {
             "iso_3166_1": [
                 "MU",
-                "MUS"
+                "MUS",
+                "480"
             ],
             "geonames": 934292
         },
@@ -2917,7 +3059,8 @@
         "ids": {
             "iso_3166_1": [
                 "YT",
-                "MYT"
+                "MYT",
+                "175"
             ],
             "geonames": 1024031
         },
@@ -2937,7 +3080,8 @@
         "ids": {
             "iso_3166_1": [
                 "MX",
-                "MEX"
+                "MEX",
+                "484"
             ],
             "geonames": 3996063
         },
@@ -2957,7 +3101,8 @@
         "ids": {
             "iso_3166_1": [
                 "FM",
-                "FSM"
+                "FSM",
+                "583"
             ],
             "geonames": 2081918
         },
@@ -2977,7 +3122,8 @@
         "ids": {
             "iso_3166_1": [
                 "MD",
-                "MDA"
+                "MDA",
+                "498"
             ],
             "geonames": 617790
         },
@@ -2997,7 +3143,8 @@
         "ids": {
             "iso_3166_1": [
                 "MC",
-                "MCO"
+                "MCO",
+                "492"
             ],
             "geonames": 2993457
         },
@@ -3017,7 +3164,8 @@
         "ids": {
             "iso_3166_1": [
                 "MN",
-                "MNG"
+                "MNG",
+                "496"
             ],
             "geonames": 2029969
         },
@@ -3037,7 +3185,8 @@
         "ids": {
             "iso_3166_1": [
                 "ME",
-                "MNE"
+                "MNE",
+                "499"
             ],
             "geonames": 3194884
         },
@@ -3057,7 +3206,8 @@
         "ids": {
             "iso_3166_1": [
                 "MS",
-                "MSR"
+                "MSR",
+                "500"
             ],
             "geonames": 3578097
         },
@@ -3077,7 +3227,8 @@
         "ids": {
             "iso_3166_1": [
                 "MA",
-                "MAR"
+                "MAR",
+                "504"
             ],
             "geonames": 2542007
         },
@@ -3097,7 +3248,8 @@
         "ids": {
             "iso_3166_1": [
                 "MZ",
-                "MOZ"
+                "MOZ",
+                "508"
             ],
             "geonames": 1036973
         },
@@ -3117,7 +3269,8 @@
         "ids": {
             "iso_3166_1": [
                 "MM",
-                "MMR"
+                "MMR",
+                "104"
             ],
             "geonames": 1327865
         },
@@ -3137,7 +3290,8 @@
         "ids": {
             "iso_3166_1": [
                 "NA",
-                "NAM"
+                "NAM",
+                "516"
             ],
             "geonames": 3355338
         },
@@ -3157,7 +3311,8 @@
         "ids": {
             "iso_3166_1": [
                 "NR",
-                "NRU"
+                "NRU",
+                "520"
             ],
             "geonames": 2110425
         },
@@ -3177,7 +3332,8 @@
         "ids": {
             "iso_3166_1": [
                 "NP",
-                "NPL"
+                "NPL",
+                "524"
             ],
             "geonames": 1282988
         },
@@ -3197,7 +3353,8 @@
         "ids": {
             "iso_3166_1": [
                 "NL",
-                "NLD"
+                "NLD",
+                "528"
             ],
             "geonames": 2750405
         },
@@ -3217,7 +3374,8 @@
         "ids": {
             "iso_3166_1": [
                 "NC",
-                "NCL"
+                "NCL",
+                "540"
             ],
             "geonames": 2139685
         },
@@ -3237,7 +3395,8 @@
         "ids": {
             "iso_3166_1": [
                 "NZ",
-                "NZL"
+                "NZL",
+                "554"
             ],
             "geonames": 2186224
         },
@@ -3257,7 +3416,8 @@
         "ids": {
             "iso_3166_1": [
                 "NI",
-                "NIC"
+                "NIC",
+                "558"
             ],
             "geonames": 3617476
         },
@@ -3277,7 +3437,8 @@
         "ids": {
             "iso_3166_1": [
                 "NE",
-                "NER"
+                "NER",
+                "562"
             ],
             "geonames": 2440476
         },
@@ -3297,7 +3458,8 @@
         "ids": {
             "iso_3166_1": [
                 "NG",
-                "NGA"
+                "NGA",
+                "566"
             ],
             "geonames": 2328926
         },
@@ -3317,7 +3479,8 @@
         "ids": {
             "iso_3166_1": [
                 "NU",
-                "NIU"
+                "NIU",
+                "570"
             ],
             "geonames": 4036232
         },
@@ -3337,7 +3500,8 @@
         "ids": {
             "iso_3166_1": [
                 "NF",
-                "NFK"
+                "NFK",
+                "574"
             ],
             "geonames": 2155115
         },
@@ -3357,7 +3521,8 @@
         "ids": {
             "iso_3166_1": [
                 "MP",
-                "MNP"
+                "MNP",
+                "580"
             ],
             "geonames": 4041468
         },
@@ -3377,7 +3542,8 @@
         "ids": {
             "iso_3166_1": [
                 "NO",
-                "NOR"
+                "NOR",
+                "578"
             ],
             "geonames": 3144096
         },
@@ -3397,7 +3563,8 @@
         "ids": {
             "iso_3166_1": [
                 "OM",
-                "OMN"
+                "OMN",
+                "512"
             ],
             "geonames": 286963
         },
@@ -3417,7 +3584,8 @@
         "ids": {
             "iso_3166_1": [
                 "PK",
-                "PAK"
+                "PAK",
+                "586"
             ],
             "geonames": 1168579
         },
@@ -3437,7 +3605,8 @@
         "ids": {
             "iso_3166_1": [
                 "PW",
-                "PLW"
+                "PLW",
+                "585"
             ],
             "geonames": 1559582
         },
@@ -3457,7 +3626,8 @@
         "ids": {
             "iso_3166_1": [
                 "PS",
-                "PSE"
+                "PSE",
+                "275"
             ],
             "geonames": 6254930
         },
@@ -3477,7 +3647,8 @@
         "ids": {
             "iso_3166_1": [
                 "PA",
-                "PAN"
+                "PAN",
+                "591"
             ],
             "geonames": 3703430
         },
@@ -3497,7 +3668,8 @@
         "ids": {
             "iso_3166_1": [
                 "PG",
-                "PNG"
+                "PNG",
+                "598"
             ],
             "geonames": 2088628
         },
@@ -3517,7 +3689,8 @@
         "ids": {
             "iso_3166_1": [
                 "PY",
-                "PRY"
+                "PRY",
+                "600"
             ],
             "geonames": 3437598
         },
@@ -3537,7 +3710,8 @@
         "ids": {
             "iso_3166_1": [
                 "PE",
-                "PER"
+                "PER",
+                "604"
             ],
             "geonames": 3932488
         },
@@ -3557,7 +3731,8 @@
         "ids": {
             "iso_3166_1": [
                 "PH",
-                "PHL"
+                "PHL",
+                "608"
             ],
             "geonames": 1694008
         },
@@ -3577,7 +3752,8 @@
         "ids": {
             "iso_3166_1": [
                 "PN",
-                "PCN"
+                "PCN",
+                "612"
             ],
             "geonames": 4030699
         },
@@ -3597,7 +3773,8 @@
         "ids": {
             "iso_3166_1": [
                 "PL",
-                "POL"
+                "POL",
+                "616"
             ],
             "geonames": 798544
         },
@@ -3617,7 +3794,8 @@
         "ids": {
             "iso_3166_1": [
                 "PT",
-                "PRT"
+                "PRT",
+                "620"
             ],
             "geonames": 2264397
         },
@@ -3637,7 +3815,8 @@
         "ids": {
             "iso_3166_1": [
                 "PR",
-                "PRI"
+                "PRI",
+                "630"
             ],
             "geonames": 4566966
         },
@@ -3657,7 +3836,8 @@
         "ids": {
             "iso_3166_1": [
                 "QA",
-                "QAT"
+                "QAT",
+                "634"
             ],
             "geonames": 289688
         },
@@ -3677,7 +3857,8 @@
         "ids": {
             "iso_3166_1": [
                 "RE",
-                "REU"
+                "REU",
+                "638"
             ],
             "geonames": 935317
         },
@@ -3697,7 +3878,8 @@
         "ids": {
             "iso_3166_1": [
                 "RO",
-                "ROU"
+                "ROU",
+                "642"
             ],
             "geonames": 798549
         },
@@ -3717,7 +3899,8 @@
         "ids": {
             "iso_3166_1": [
                 "RU",
-                "RUS"
+                "RUS",
+                "643"
             ],
             "geonames": 2017370
         },
@@ -3740,7 +3923,8 @@
         "ids": {
             "iso_3166_1": [
                 "RW",
-                "RWA"
+                "RWA",
+                "646"
             ],
             "geonames": 49518
         },
@@ -3760,7 +3944,8 @@
         "ids": {
             "iso_3166_1": [
                 "BL",
-                "BLM"
+                "BLM",
+                "652"
             ],
             "geonames": 3578476
         },
@@ -3780,7 +3965,8 @@
         "ids": {
             "iso_3166_1": [
                 "SH",
-                "SHN"
+                "SHN",
+                "654"
             ],
             "geonames": 3370751
         },
@@ -3800,7 +3986,8 @@
         "ids": {
             "iso_3166_1": [
                 "KN",
-                "KNA"
+                "KNA",
+                "659"
             ],
             "geonames": 3575174
         },
@@ -3820,7 +4007,8 @@
         "ids": {
             "iso_3166_1": [
                 "LC",
-                "LCA"
+                "LCA",
+                "662"
             ],
             "geonames": 3576468
         },
@@ -3840,7 +4028,8 @@
         "ids": {
             "iso_3166_1": [
                 "MF",
-                "MAF"
+                "MAF",
+                "663"
             ],
             "geonames": 3578421
         },
@@ -3860,7 +4049,8 @@
         "ids": {
             "iso_3166_1": [
                 "PM",
-                "SPM"
+                "SPM",
+                "666"
             ],
             "geonames": 3424932
         },
@@ -3880,7 +4070,8 @@
         "ids": {
             "iso_3166_1": [
                 "VC",
-                "VCT"
+                "VCT",
+                "670"
             ],
             "geonames": 3577815
         },
@@ -3900,7 +4091,8 @@
         "ids": {
             "iso_3166_1": [
                 "WS",
-                "WSM"
+                "WSM",
+                "882"
             ],
             "geonames": 4034894
         },
@@ -3920,7 +4112,8 @@
         "ids": {
             "iso_3166_1": [
                 "SM",
-                "SMR"
+                "SMR",
+                "674"
             ],
             "geonames": 3168068
         },
@@ -3940,7 +4133,8 @@
         "ids": {
             "iso_3166_1": [
                 "ST",
-                "STP"
+                "STP",
+                "678"
             ],
             "geonames": 2410758
         },
@@ -3960,7 +4154,8 @@
         "ids": {
             "iso_3166_1": [
                 "SA",
-                "SAU"
+                "SAU",
+                "682"
             ],
             "geonames": 102358
         },
@@ -3980,7 +4175,8 @@
         "ids": {
             "iso_3166_1": [
                 "SN",
-                "SEN"
+                "SEN",
+                "686"
             ],
             "geonames": 2245662
         },
@@ -4000,7 +4196,8 @@
         "ids": {
             "iso_3166_1": [
                 "RS",
-                "SRB"
+                "SRB",
+                "688"
             ],
             "geonames": 6290252
         },
@@ -4020,7 +4217,8 @@
         "ids": {
             "iso_3166_1": [
                 "SC",
-                "SYC"
+                "SYC",
+                "690"
             ],
             "geonames": 241170
         },
@@ -4040,7 +4238,8 @@
         "ids": {
             "iso_3166_1": [
                 "SL",
-                "SLE"
+                "SLE",
+                "694"
             ],
             "geonames": 2403846
         },
@@ -4060,7 +4259,8 @@
         "ids": {
             "iso_3166_1": [
                 "SG",
-                "SGP"
+                "SGP",
+                "702"
             ],
             "geonames": 1880251
         },
@@ -4080,7 +4280,8 @@
         "ids": {
             "iso_3166_1": [
                 "SX",
-                "SXM"
+                "SXM",
+                "534"
             ],
             "geonames": 7609695
         },
@@ -4100,7 +4301,8 @@
         "ids": {
             "iso_3166_1": [
                 "SK",
-                "SVK"
+                "SVK",
+                "703"
             ],
             "geonames": 3057568
         },
@@ -4120,7 +4322,8 @@
         "ids": {
             "iso_3166_1": [
                 "SI",
-                "SVN"
+                "SVN",
+                "705"
             ],
             "geonames": 3190538
         },
@@ -4140,7 +4343,8 @@
         "ids": {
             "iso_3166_1": [
                 "SB",
-                "SLB"
+                "SLB",
+                "090"
             ],
             "geonames": 2103350
         },
@@ -4160,7 +4364,8 @@
         "ids": {
             "iso_3166_1": [
                 "SO",
-                "SOM"
+                "SOM",
+                "706"
             ],
             "geonames": 51537
         },
@@ -4180,7 +4385,8 @@
         "ids": {
             "iso_3166_1": [
                 "ZA",
-                "ZAF"
+                "ZAF",
+                "710"
             ],
             "geonames": 953987
         },
@@ -4200,7 +4406,8 @@
         "ids": {
             "iso_3166_1": [
                 "GS",
-                "SGS"
+                "SGS",
+                "239"
             ],
             "geonames": 3474415
         },
@@ -4219,7 +4426,8 @@
         "ids": {
             "iso_3166_1": [
                 "SS",
-                "SSD"
+                "SSD",
+                "728"
             ],
             "geonames": 7909807
         },
@@ -4239,7 +4447,8 @@
         "ids": {
             "iso_3166_1": [
                 "ES",
-                "ESP"
+                "ESP",
+                "724"
             ],
             "geonames": 2510769
         },
@@ -4259,7 +4468,8 @@
         "ids": {
             "iso_3166_1": [
                 "LK",
-                "LKA"
+                "LKA",
+                "144"
             ],
             "geonames": 1227603
         },
@@ -4279,7 +4489,8 @@
         "ids": {
             "iso_3166_1": [
                 "SD",
-                "SDN"
+                "SDN",
+                "736"
             ],
             "geonames": 366755
         },
@@ -4299,7 +4510,8 @@
         "ids": {
             "iso_3166_1": [
                 "SR",
-                "SUR"
+                "SUR",
+                "740"
             ],
             "geonames": 3382998
         },
@@ -4319,7 +4531,8 @@
         "ids": {
             "iso_3166_1": [
                 "SJ",
-                "SJM"
+                "SJM",
+                "744"
             ],
             "geonames": 607072
         },
@@ -4339,7 +4552,8 @@
         "ids": {
             "iso_3166_1": [
                 "SZ",
-                "SWZ"
+                "SWZ",
+                "748"
             ],
             "geonames": 934841
         },
@@ -4359,7 +4573,8 @@
         "ids": {
             "iso_3166_1": [
                 "SE",
-                "SWE"
+                "SWE",
+                "752"
             ],
             "geonames": 2661886
         },
@@ -4379,7 +4594,8 @@
         "ids": {
             "iso_3166_1": [
                 "CH",
-                "CHE"
+                "CHE",
+                "756"
             ],
             "geonames": 2658434
         },
@@ -4399,7 +4615,8 @@
         "ids": {
             "iso_3166_1": [
                 "SY",
-                "SYR"
+                "SYR",
+                "760"
             ],
             "geonames": 163843
         },
@@ -4419,7 +4636,8 @@
         "ids": {
             "iso_3166_1": [
                 "TW",
-                "TWN"
+                "TWN",
+                "158"
             ],
             "geonames": 1668284
         },
@@ -4439,7 +4657,8 @@
         "ids": {
             "iso_3166_1": [
                 "TJ",
-                "TJK"
+                "TJK",
+                "762"
             ],
             "geonames": 1220409
         },
@@ -4459,7 +4678,8 @@
         "ids": {
             "iso_3166_1": [
                 "TZ",
-                "TZA"
+                "TZA",
+                "834"
             ],
             "geonames": 149590
         },
@@ -4479,7 +4699,8 @@
         "ids": {
             "iso_3166_1": [
                 "TH",
-                "THA"
+                "THA",
+                "764"
             ],
             "geonames": 1605651
         },
@@ -4499,7 +4720,8 @@
         "ids": {
             "iso_3166_1": [
                 "TL",
-                "TLS"
+                "TLS",
+                "626"
             ],
             "geonames": 1966436
         },
@@ -4519,7 +4741,8 @@
         "ids": {
             "iso_3166_1": [
                 "TG",
-                "TGO"
+                "TGO",
+                "768"
             ],
             "geonames": 2363686
         },
@@ -4539,7 +4762,8 @@
         "ids": {
             "iso_3166_1": [
                 "TK",
-                "TKL"
+                "TKL",
+                "772"
             ],
             "geonames": 4031074
         },
@@ -4559,7 +4783,8 @@
         "ids": {
             "iso_3166_1": [
                 "TO",
-                "TON"
+                "TON",
+                "776"
             ],
             "geonames": 4032283
         },
@@ -4579,7 +4804,8 @@
         "ids": {
             "iso_3166_1": [
                 "TT",
-                "TTO"
+                "TTO",
+                "780"
             ],
             "geonames": 3573591
         },
@@ -4599,7 +4825,8 @@
         "ids": {
             "iso_3166_1": [
                 "TN",
-                "TUN"
+                "TUN",
+                "788"
             ],
             "geonames": 2464461
         },
@@ -4619,7 +4846,8 @@
         "ids": {
             "iso_3166_1": [
                 "TR",
-                "TUR"
+                "TUR",
+                "792"
             ],
             "geonames": 298795
         },
@@ -4639,7 +4867,8 @@
         "ids": {
             "iso_3166_1": [
                 "TM",
-                "TKM"
+                "TKM",
+                "795"
             ],
             "geonames": 1218197
         },
@@ -4659,7 +4888,8 @@
         "ids": {
             "iso_3166_1": [
                 "TC",
-                "TCA"
+                "TCA",
+                "796"
             ],
             "geonames": 3576916
         },
@@ -4679,7 +4909,8 @@
         "ids": {
             "iso_3166_1": [
                 "TV",
-                "TUV"
+                "TUV",
+                "798"
             ],
             "geonames": 2110297
         },
@@ -4699,7 +4930,8 @@
         "ids": {
             "iso_3166_1": [
                 "UG",
-                "UGA"
+                "UGA",
+                "800"
             ],
             "geonames": 226074
         },
@@ -4719,7 +4951,8 @@
         "ids": {
             "iso_3166_1": [
                 "UA",
-                "UKR"
+                "UKR",
+                "804"
             ],
             "geonames": 690791
         },
@@ -4739,7 +4972,8 @@
         "ids": {
             "iso_3166_1": [
                 "AE",
-                "ARE"
+                "ARE",
+                "784"
             ],
             "geonames": 290557
         },
@@ -4759,7 +4993,8 @@
         "ids": {
             "iso_3166_1": [
                 "GB",
-                "GBR"
+                "GBR",
+                "826"
             ],
             "geonames": 2635167
         },
@@ -4779,7 +5014,8 @@
         "ids": {
             "iso_3166_1": [
                 "US",
-                "USA"
+                "USA",
+                "840"
             ],
             "geonames": 6252001
         },
@@ -4799,7 +5035,8 @@
         "ids": {
             "iso_3166_1": [
                 "UM",
-                "UMI"
+                "UMI",
+                "581"
             ],
             "geonames": 5854968
         },
@@ -4817,7 +5054,8 @@
         "ids": {
             "iso_3166_1": [
                 "UY",
-                "URY"
+                "URY",
+                "858"
             ],
             "geonames": 3439705
         },
@@ -4837,7 +5075,8 @@
         "ids": {
             "iso_3166_1": [
                 "UZ",
-                "UZB"
+                "UZB",
+                "860"
             ],
             "geonames": 1512440
         },
@@ -4857,7 +5096,8 @@
         "ids": {
             "iso_3166_1": [
                 "VU",
-                "VUT"
+                "VUT",
+                "548"
             ],
             "geonames": 2134431
         },
@@ -4877,7 +5117,8 @@
         "ids": {
             "iso_3166_1": [
                 "VE",
-                "VEN"
+                "VEN",
+                "862"
             ],
             "geonames": 3625428
         },
@@ -4897,7 +5138,8 @@
         "ids": {
             "iso_3166_1": [
                 "VN",
-                "VNM"
+                "VNM",
+                "704"
             ],
             "geonames": 1562822
         },
@@ -4917,7 +5159,8 @@
         "ids": {
             "iso_3166_1": [
                 "VG",
-                "VGB"
+                "VGB",
+                "092"
             ],
             "geonames": 3577718
         },
@@ -4937,7 +5180,8 @@
         "ids": {
             "iso_3166_1": [
                 "VI",
-                "VIR"
+                "VIR",
+                "850"
             ],
             "geonames": 4796775
         },
@@ -4957,7 +5201,8 @@
         "ids": {
             "iso_3166_1": [
                 "WF",
-                "WLF"
+                "WLF",
+                "876"
             ],
             "geonames": 4034749
         },
@@ -4977,7 +5222,8 @@
         "ids": {
             "iso_3166_1": [
                 "EH",
-                "ESH"
+                "ESH",
+                "732"
             ],
             "geonames": 2461445
         },
@@ -4997,7 +5243,8 @@
         "ids": {
             "iso_3166_1": [
                 "YE",
-                "YEM"
+                "YEM",
+                "887"
             ],
             "geonames": 69543
         },
@@ -5017,7 +5264,8 @@
         "ids": {
             "iso_3166_1": [
                 "ZM",
-                "ZMB"
+                "ZMB",
+                "894"
             ],
             "geonames": 895949
         },
@@ -5037,13 +5285,14 @@
         "ids": {
             "iso_3166_1": [
                 "ZW",
-                "ZWE"
+                "ZWE",
+                "716"
             ],
             "geonames": 878675
         },
-	"long": {
-	    "default": "Republic of Zimbabwe"
-	},
+        "long": {
+            "default": "Republic of Zimbabwe"
+        },
         "short": {
             "default": "Zimbabwe"
         },

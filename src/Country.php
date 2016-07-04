@@ -26,6 +26,7 @@ class Country extends Divisible
     protected $exposed = [
         'code' => 'ids.iso_3166_1.0',
         'code3' => 'ids.iso_3166_1.1',
+        'numericCode' => 'ids.iso_3166_1.2',
         'geonamesCode' => 'ids.geonames',
         'area',
         'currency',
