@@ -123,8 +123,8 @@ $earth->withoutMicro(); // Only countries that have population of at least 100,0
 
 Country objects got the following encapsulated data:
 ```php
-$country->getCode(); // ISO 3611 2 character code
-$country->getCode3(); // ISO 3611 3 character code
+$country->getCode(); //ISO 3166-1 alpha-2 (2 character) code
+$country->getCode3(); // ISO 3166-1 alpha-3
 $country->getGeonamesCode(); // Geonames ID
 $country->getArea(); // Area in square kilometers
 $country->getCurrencyCode(); // National currency, eg. USD
@@ -140,7 +140,7 @@ At this moment Geographer only keeps cities with population above 50,000 for the
 
 ```php
 $state->getCode(); // Get default code (currently Geonames)
-$state->getIsoCode(); // Get ISO 3166 code (only US, CH, BE and ME) 
+$state->getIsoCode(); // Get ISO 3166-2 code (only US, CH, BE and ME) 
 $state->getFipsCode(); // Get FIPS code
 $state->getGeonamesCode(); // Get Geonames code
 
