@@ -57,7 +57,7 @@ class File implements RepositoryInterface
      * @return string
      * @throws MisconfigurationException
      */
-    public static function getPath($class, $prefix, array $params)
+    public function getPath($class, $prefix, array $params)
     {
         if (! isset(self::$paths[$class])) throw new MisconfigurationException($class . ' is not supposed to load data');
 
@@ -79,7 +79,7 @@ class File implements RepositoryInterface
      */
     public function getData($class, array $params)
     {
-        $file = self::getPath($class, $this->prefix, $params);
+        $file = $this->getPath($class, $this->prefix, $params);
 
         try {
             $data = self::loadJson($file);
@@ -107,7 +107,7 @@ class File implements RepositoryInterface
     protected function getCodeFromIndex($path, $id)
     {
         if (! isset($this->cache[$path])) {
-            $this->cache[$path] = static::loadJson($path);
+            $this->cache[$path] = $this->loadJson($path);
         }
 
         if (! isset($this->cache[$path][$id])) throw new ObjectNotFoundException('Cannot find object with id ' . $id);
@@ -129,7 +129,7 @@ class File implements RepositoryInterface
         $path = self::getPath($class, $this->prefix, [ $key => $code ]);
 
         if (! isset($this->cache[$path])) {
-            $this->cache[$path] = static::loadJson($path);
+            $this->cache[$path] = $this->loadJson($path);
         }
 
         foreach ($this->cache[$path] as $member) {
@@ -145,7 +145,7 @@ class File implements RepositoryInterface
      * @throws ObjectNotFoundException
      * @throws FileNotFoundException
      */
-    public static function loadJson($path)
+    public function loadJson($path)
     {
         if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
         return json_decode(file_get_contents($path), true);
@@ -180,7 +180,7 @@ class File implements RepositoryInterface
      */
     protected function loadTranslations($path)
     {
-        $meta = static::loadJson($path);
+        $meta = $this->loadJson($path);
 
         foreach ($meta as $one) {
             $this->cache[$path][$one['code']] = $one;

@@ -210,6 +210,8 @@ Time: 6 ms, memory: 81056 bytes
 1. Add basic spatial index
 2. Add some unit tests (in addition to existing integration tests)
 3. Add ISO 3166-2 for the rest of the states
+4. Move Laravel integration out to a separate package
+5. Move languages (translations) to separate packages
 
 ## Projects using Geographer
 

@@ -13,35 +13,8 @@ use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
 use MenaraSolutions\Geographer\City;
 use MenaraSolutions\Geographer\Repositories\File;
 
-class Memcached implements RepositoryInterface
+class Memcached extends File implements RepositoryInterface
 {
-    /**
-     * @var string
-     */
-    protected $prefix;
-
-    /**
-     * @var array $paths
-     */
-    protected static $paths = [
-        Earth::class => 'countries.json',
-        Country::class => 'states' . DIRECTORY_SEPARATOR . 'code.json',
-        State::class => 'cities' . DIRECTORY_SEPARATOR . 'parentCode.json'
-    ];
-
-    /**
-     * @var array
-     */
-    protected static $indexes = [
-        Country::class => 'indexCountry.json',
-        State::class => 'indexState.json'
-    ];
-
-    /**
-     * @var array
-     */
-    protected $cache = [];
-
     /**
      * @var Memcached
      */
@@ -55,7 +28,7 @@ class Memcached implements RepositoryInterface
      */
     public function __construct($prefix, $client = null)
     {
-        $this->prefix = $prefix;
+        parent::__construct($prefix);
 
         if (! class_exists(\Memcached::class)) {
             throw new MisconfigurationException('Memcached repository requires Memcached module');
@@ -71,64 +44,16 @@ class Memcached implements RepositoryInterface
 
     /**
      * @param string $class
-     * @param string $prefix
-     * @param array $params
-     * @return string
-     * @throws MisconfigurationException
-     */
-    public static function getPath($class, $prefix, array $params)
-    {
-        if (! isset(self::$paths[$class])) throw new MisconfigurationException($class . ' is not supposed to load data');
-
-        return str_replace(array_keys($params), array_values($params), $prefix . self::$paths[$class]);
-    }
-
-    /**
-     * @param string $prefix
-     */
-    public function setPrefix($prefix)
-    {
-        $this->prefix = $prefix;
-    }
-
-    /**
-     * @param string $class
      * @param array $params
      * @return array
      */
     public function getData($class, array $params)
     {
-        $path = self::getPath($class, $this->prefix, $params);
+        $path = $this->getPath($class, $this->prefix, $params);
         $data = $this->client->get($path);
 
         if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) {
-            $data = $this->getDataFromFile($class, $params);
-        }
-
-        return $data;
-    }
-
-    /**
-     * @param $class
-     * @param array $params
-     * @return array
-     */
-    public function getDataFromFile($class, array $params)
-    {
-        $file = self::getPath($class, $this->prefix, $params);
-
-        try {
-            $data = File::loadJson($file);
-        } catch (FileNotFoundException $e) {
-            // Some divisions don't have data files, so we don't want to throw the exception
-            return [];
-        }
-
-        // ToDo: remove this logic from here
-        if ($class == State::class && isset($params['code'])) {
-            foreach ($data as $key => $meta) {
-                if ($meta['parent'] != $params['code']) unset($data[$key]);
-            }
+            $data = parent::getData($class, $params);
         }
 
         return $data;
@@ -145,7 +70,7 @@ class Memcached implements RepositoryInterface
         $index = $this->client->get($path);
 
         if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) {
-            $index = File::loadJson($path);
+            $index = $this->loadJson($path);
             $this->client->set($path, $index, 0);
         }
 
@@ -165,12 +90,12 @@ class Memcached implements RepositoryInterface
         $code = $this->getCodeFromIndex($this->prefix . self::$indexes[$class], $id);
 
         $key = ($class == State::class) ? 'parentCode' : 'code';
-        $path = self::getPath($class, $this->prefix, [ $key => $code ]);
+        $path = $this->getPath($class, $this->prefix, [ $key => $code ]);
 
         $cache = $this->client->get($path);
 
         if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) {
-            $cache = File::loadJson($path);
+            $cache = $this->loadJson($path);
             $this->client->set($path, $cache, 0);
         }
 
@@ -212,7 +137,7 @@ class Memcached implements RepositoryInterface
      */
     protected function loadTranslations($path)
     {
-        $meta = File::loadJson($path);
+        $meta = $this->loadJson($path);
 
         $this->client->set($path, true, 0);
 
