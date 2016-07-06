@@ -105,7 +105,7 @@ class Memcached extends File implements RepositoryInterface
 
         throw new ObjectNotFoundException('Cannot find meta for division #' . $id);
     }
-
+    
     /**
      * @param IdentifiableInterface $subject
      * @param $language
@@ -113,15 +113,7 @@ class Memcached extends File implements RepositoryInterface
      */
     public function getTranslations(IdentifiableInterface $subject, $language)
     {
-        $elements = explode('\\', get_class($subject));
-        $key = strtolower(end($elements));
-
-        if (get_class($subject) == City::class) {
-            $country = $subject->getMeta()['country'];
-            $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . DIRECTORY_SEPARATOR . $country .  '.json';
-        } else {
-            $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
-        }
+        $path = $this->getTranslationsPath($subject, $language);
 
         $this->client->get($path);
         if ($this->client->getResultCode() == \Memcached::RES_NOTFOUND) $this->loadTranslations($path);

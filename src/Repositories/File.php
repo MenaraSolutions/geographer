@@ -65,6 +65,24 @@ class File implements RepositoryInterface
     }
 
     /**
+     * @param IdentifiableInterface $subject
+     * @param $language
+     * @return string
+     */
+    public function getTranslationsPath(IdentifiableInterface $subject, $language)
+    {
+        $elements = explode('\\', get_class($subject));
+        $key = strtolower(end($elements));
+
+        if (get_class($subject) == City::class) {
+            $country = $subject->getMeta()['country'];
+            return $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . DIRECTORY_SEPARATOR . $country .  '.json';
+        }
+        
+        return $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
+    }
+
+    /**
      * @param string $prefix
      */
     public function setPrefix($prefix)
@@ -158,16 +176,7 @@ class File implements RepositoryInterface
      */
     public function getTranslations(IdentifiableInterface $subject, $language)
     {
-        $elements = explode('\\', get_class($subject));
-        $key = strtolower(end($elements));
-
-        if (get_class($subject) == City::class) {
-            $country = $subject->getMeta()['country'];
-            $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . DIRECTORY_SEPARATOR . $country .  '.json';
-        } else {
-            $path = $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
-        }
-
+        $path = $this->getTranslationsPath($subject, $language);
         if (empty($this->cache[$path])) $this->loadTranslations($path);
 
         return isset($this->cache[$path][$subject->getCode()]) ?
