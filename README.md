@@ -67,7 +67,7 @@ $thailand->getStates()->setLanguage(TranslationAgency::LANG_RUSSIAN)->inflict(Tr
 
 // What's the capital and do you have a geonames ID for that? Or maybe latitude and longitude?
 $capital = $thailand->getCapital();
-$capital->getGeonamesId();
+$capital->getGeonamesCode();
 $capital->getLatitude();
 $capital->getLongitude();
 ```
@@ -154,6 +154,9 @@ $state = State::build($id); // Instantiate a state directly, based on $id provid
 ```php
 $city->getCode(); // This is always a Geonames code for now
 $city = City::build($id); // Instantiate a city directly, based on $id provided (Geonames) 
+$city->getLatitude(); // City's latitude
+$city->getLongitude(); // City's longitude
+$city->getPopulation(); // Population
 ```
 
 ## Usage in Laravel 5
