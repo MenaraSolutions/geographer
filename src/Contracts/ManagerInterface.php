@@ -55,7 +55,7 @@ interface ManagerInterface
      * @param string $language
      * @return ManagerInterface
      */
-    public function setLanguage($language);
+    public function setLocale($language);
 
     /**
      * @return ManagerInterface

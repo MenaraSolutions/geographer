@@ -9,12 +9,12 @@ namespace MenaraSolutions\Geographer\Traits;
 trait HasManager
 {
     /**
-     * @param string $language
+     * @param string $locale
      * @return $this
      */
-    public function setLanguage($language)
+    public function setLocale($locale)
     {
-        $this->manager->setLanguage($language);
+        $this->manager->setLocale($locale);
 
         return $this;
     }

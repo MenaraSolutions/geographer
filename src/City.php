@@ -25,8 +25,8 @@ class City extends Divisible
         'code' => 'ids.geonames',
         'geonamesCode' => 'ids.geonames',
         'name',
-        'lat',
-        'lng',
+        'latitude' => 'lat',
+        'longitude' => 'lng',
         'population'
     ];
 }

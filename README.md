@@ -57,13 +57,13 @@ $thailand = $earth->findOneByCode('TH'); // Alternative shorter syntax
 $thailand->getStates()->toArray();
 
 // Oh, but I want them in Russian
-$thailand->getStates()->setLanguage('ru')->toArray();
+$thailand->getStates()->setLocale('ru')->toArray();
 
 // Oh, but I want them inflicted to 'in' form (eg. 'in Spain')
-$thailand->getStates()->setLanguage('ru')->inflict('in')->toArray();
+$thailand->getStates()->setLocale('ru')->inflict('in')->toArray();
 
 // Or if you prefer constants for the sake of IDE auto-complete
-$thailand->getStates()->setLanguage(TranslationAgency::LANG_RUSSIAN)->inflict(TranslationAgency::FORM_IN)->toArray();
+$thailand->getStates()->setLocale(TranslationAgency::LANG_RUSSIAN)->inflict(TranslationAgency::FORM_IN)->toArray();
 
 // What's the capital and do you have a geonames ID for that? Or maybe latitude and longitude?
 $capital = $thailand->getCapital();
@@ -79,7 +79,7 @@ way of implementing arrays. Some of the available methods are:
 
 ```php
 $states->sortBy('name'); // States will be sorted by name
-$states->setLanguage('ru')->sortBy('name'); // States will be sorted by Russian translations/names
+$states->setLocale('ru')->sortBy('name'); // States will be sorted by Russian translations/names
 $states->find(['code' => 472039]); // Find 1+ divisions that match specified parameters 
 $states->findOne(['code' => 472039]); // Return the first match only
 $states->findOneByCode(472039); // Convenience magic method
@@ -131,6 +131,7 @@ $country->getArea(); // Area in square kilometers
 $country->getCurrencyCode(); // National currency, eg. USD
 $country->getPhonePrefix(); // Phone code, eg. 7 for Russia
 $country->getPopulation(); // Population
+$country->getLanguage(); // Country's first official language
 
 $country->getStates(); // A collection of all states
 ```

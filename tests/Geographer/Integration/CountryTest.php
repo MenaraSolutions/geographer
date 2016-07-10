@@ -16,7 +16,7 @@ class CountryTest extends Test
     public function can_fetch_states_for_all_countries()
     {
         $earth = new Earth();
-        $countries = $earth->withoutMicro()->setLanguage('ru')->sortBy('name');
+        $countries = $earth->withoutMicro()->setLocale('ru')->sortBy('name');
 
         foreach($countries as $country) {
             $states = $country->getStates();
@@ -86,7 +86,7 @@ class CountryTest extends Test
      */
     public function country_can_ask_for_inflicted_russian_name_with_and_without_prep()
     {
-        $russia = (new Earth())->findOne(['code' => 'br'])->setLanguage('ru');
+        $russia = (new Earth())->findOne(['code' => 'br'])->setLocale('ru');
         $defaultName = $russia->getName();
         $russia->inflict(TranslationAgency::FORM_IN)->useShortNames()->includePrepositions();
         $this->assertNotEquals($defaultName, $russia->getName());

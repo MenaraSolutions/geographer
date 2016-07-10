@@ -13,7 +13,7 @@ class StateTest extends Test
      */
     public function all_states_of_all_countries_have_geonames_ids_and_names()
     {
-        $planet = (new Earth())->inflict('from')->setLanguage('ru');
+        $planet = (new Earth())->inflict('from')->setLocale('ru');
         $countries = $planet->getCountries();
 
         foreach ($countries as $country) {

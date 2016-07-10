@@ -130,12 +130,12 @@ class DefaultManager implements ManagerInterface
     }
 
     /**
-     * @param $language
+     * @param $locale
      * @return $this
      */
-    public function setLanguage($language)
+    public function setLocale($locale)
     {
-        $this->language = strtolower(substr($language, 0, 2));
+        $this->language = strtolower(substr($locale, 0, 2));
 
         return $this;
     }

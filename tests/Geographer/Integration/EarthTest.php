@@ -46,7 +46,7 @@ class EarthTest extends Test
         $earth = new Earth();
         $country = $earth->findOne(['code' => 'ru']);
         $original = $country->getLongName();
-        $country->setLanguage('ru');
+        $country->setLocale('ru');
         $this->assertTrue(!empty($country->getLongName()));
         $this->assertNotEquals($original, $country->getLongName());
     }

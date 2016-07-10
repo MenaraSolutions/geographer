@@ -28,7 +28,7 @@ class Russian extends Test
         $countries = $earth->getCountries();
 
         foreach($countries as $country) {
-            $this->assertNotEquals($country->setLanguage($this->languageCode)->getName(), $country->setLanguage('en')->getName());
+            $this->assertNotEquals($country->setLocale($this->languageCode)->getName(), $country->setLocale('en')->getName());
 //            echo $country->inflict('from')->setLanguage($this->languageCode)->getName() . "\n";
         }
     }
@@ -48,7 +48,7 @@ class Russian extends Test
             $stateCount =+ count($states);
 
             foreach($states as $state) {
-                if ($state->setLanguage($this->languageCode)->getName() != $state->setLanguage('en')->getName()) {
+                if ($state->setLocale($this->languageCode)->getName() != $state->setLocale('en')->getName()) {
                     $translatedCount++;
                 }
             }

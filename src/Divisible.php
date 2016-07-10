@@ -106,10 +106,13 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     /**
      * Best effort name
      *
+     * @param string $locale
      * @return string
      */
-    public function getName()
+    public function getName($locale = null)
     {
+        if ($locale) $this->setLocale($locale);
+
         return $this->manager->expectsLongNames() ? $this->getLongName() : $this->getShortName();
     }
 
@@ -171,12 +174,12 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     }
 
     /**
-     * @param string $language
+     * @param string $locale
      * @return string
      */
-    public function translate($language = null)
+    public function translate($locale = null)
     {
-        if ($language) $this->manager->setLanguage($language);
+        if ($locale) $this->manager->setLocale($locale);
 
         return $this->manager->getTranslator()
             ->translate($this, $this->manager->getLanguage());
