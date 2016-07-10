@@ -66,7 +66,6 @@ abstract class Base implements PoliglottaInterface
 	    if ($result && $preposition) return $result;
 	    if ($result && ! $preposition) return mb_substr($result, mb_strpos($result, ' '));
 
-	    //$result = $this->extract($meta, $subject->expectsLongNames(), $form, true);
         $result = $this->inflictDefault($meta, $subject->expectsLongNames());
 	    if ($form == 'default') return $result;
 

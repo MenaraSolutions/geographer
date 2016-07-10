@@ -2,8 +2,6 @@
 
 namespace MenaraSolutions\Geographer\Services\Poliglottas;
 
-use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
-
 /**
  * Class Mandarin
  * @package MenaraSolutions\FluentGeonames\Services\Poliglottas
