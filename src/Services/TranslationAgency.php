@@ -13,6 +13,7 @@ use MenaraSolutions\Geographer\Services\Poliglottas\Russian;
 use MenaraSolutions\Geographer\Services\Poliglottas\English;
 use MenaraSolutions\Geographer\Services\Poliglottas\Spanish;
 use MenaraSolutions\Geographer\Services\Poliglottas\Italian;
+use MenaraSolutions\Geographer\Services\Poliglottas\Ukraine;
 
 /**
  * Class TranslationAgency
@@ -54,6 +55,7 @@ class TranslationAgency implements TranslationAgencyInterface
     const LANG_ITALIAN = 'it';
     const LANG_FRENCH = 'fr';
     const LANG_CHINESE = 'zh';
+    const LANG_UKRAINE = 'uk';
 
     /**
      * Constants for available forms
@@ -73,7 +75,8 @@ class TranslationAgency implements TranslationAgencyInterface
         self::LANG_SPANISH => Spanish::class,
         self::LANG_ITALIAN => Italian::class,
         self::LANG_FRENCH => French::class,
-        self::LANG_CHINESE => Mandarin::class
+        self::LANG_CHINESE => Mandarin::class,
+        self::LANG_UKRAINE => Ukraine::class,
     ];
 
     /**
