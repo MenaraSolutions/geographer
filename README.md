@@ -22,7 +22,7 @@ Includes integrations with: Laravel 5, Lumen 5
 To install simply run:
 
 ```
-composer require menarasolutions/geographer
+$ composer require menarasolutions/geographer
 ```
 
 Or add it to `composer.json` manually:
@@ -33,6 +33,13 @@ Or add it to `composer.json` manually:
         "menarasolutions/geographer": "~0.1"
     }
 }
+```
+
+Main package is shipped with English language so add extra dependencies for your
+other languages, eg.:
+
+```
+$ composer require menarasolutions/geographer-es
 ```
 
 ## Usage
@@ -162,6 +169,12 @@ $city->getPopulation(); // Population
 
 ## Usage in Laravel 5
 
+Install Laravel integration package first:
+
+```
+$ composer require menarasolutions/geographer-laravel
+```
+
 Good news is that Laravel will take care of singleton instance for you, so no matter how many times you call it – it's the same object.
 
 ```php
@@ -183,15 +196,21 @@ Geographer::getCountries()->useShortNames()->toArray();
 
 ## Current coverage
 
-| Language  |  Countries   |   States   |    Cities    |
-|-----------|--------------|------------|--------------|
-| English   | ✓            | ✓         | ✓            |
-| Russian   | ✓            | ✓         | ✓            |
-| Spanish   | ✓            | ✓         | ✓           |            
-| Italian   | ✓            | ✓         | ✓           |
-| French    | ✓            | ✓         | ✓           |
-| Chinese Mandarin | ✓            | ✓         | ✓           |
-| Bahasa Indonesia | WIP   | WIP        | WIP          |
+By default Geographer assumes that you use Packagist (Composer) to install language packages, therefore
+we will expect them in vendor/ folder. There is no need to manually turn on an extra language, but if you
+attempt to use a non-existing language – expect an exception.
+
+| Language  |  Countries   |   States   |    Cities    | Package |
+|-----------|--------------|------------|--------------|---------|
+| English   | ✓            | ✓         | ✓            | --- |
+| Russian   | ✓            | ✓         | ✓            | [geographer-ru](https://github.com/MenaraSolutions/geographer-ru) | 
+| Ukrainian | ✓            | ✓         | ✓           | [geographer-uk](https://github.com/MenaraSolutions/geographer-uk) |           
+| Spanish   | ✓            | ✓         | ✓           | [geographer-es](https://github.com/MenaraSolutions/geographer-es) |           
+| Italian   | ✓            | ✓         | ✓           | [geographer-it](https://github.com/MenaraSolutions/geographer-it) |
+| French    | ✓            | ✓         | ✓           | [geographer-fr](https://github.com/MenaraSolutions/geographer-fr) |
+| Chinese Mandarin | ✓            | ✓         | ✓           | [geographer-zh](https://github.com/MenaraSolutions/geographer-zh) |
+
+English texts are included in the main package and are used as default metadata.
 
 ## Vision
 

@@ -13,6 +13,7 @@
     <testsuites>
         <testsuite name="Geographer library Test Suite">
             <directory suffix=".php">tests/Geographer/</directory>
+            <exclude>tests/Geographer/Languages</exclude>
         </testsuite>
     </testsuites>
 

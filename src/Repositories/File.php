@@ -15,9 +15,18 @@ use MenaraSolutions\Geographer\City;
 class File implements RepositoryInterface
 {
     /**
+     * Path to resource files
+     *
      * @var string
      */
     protected $prefix;
+
+    /**
+     * Path to translation files
+     *
+     * @var string
+     */
+    protected $translationsPrefix;
 
     /**
      * @var array $paths
@@ -44,10 +53,12 @@ class File implements RepositoryInterface
     /**
      * File constructor.
      * @param string $prefix
+     * @param string $translationsPrefix
      */
-    public function __construct($prefix)
+    public function __construct($prefix, $translationsPrefix = null)
     {
         $this->prefix = $prefix;
+        $this->translationsPrefix = $translationsPrefix ?: $this->guessTranslationsPrefix();
     }
 
     /**
@@ -65,6 +76,34 @@ class File implements RepositoryInterface
     }
 
     /**
+     * @return string
+     */
+    public function getTranslationsPrefix()
+    {
+        return $this->translationsPrefix;
+    }
+
+    /**
+     * @param string $prefix
+     * @return $this
+     */
+    public function setTranslationsPrefix($prefix)
+    {
+        $this->translationsPrefix = $prefix;
+
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function guessTranslationsPrefix()
+    {
+        // By default, we assume that language package was installed using Composer
+        return dirname(dirname(dirname(dirname(__FILE__))));
+    }
+
+    /**
      * @param IdentifiableInterface $subject
      * @param $language
      * @return string
@@ -73,13 +112,14 @@ class File implements RepositoryInterface
     {
         $elements = explode('\\', get_class($subject));
         $key = strtolower(end($elements));
+        $root = $this->getTranslationsPrefix() . DIRECTORY_SEPARATOR . 'geographer-' . $language;
 
         if (get_class($subject) == City::class) {
             $country = $subject->getMeta()['country'];
-            return $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . DIRECTORY_SEPARATOR . $country .  '.json';
+            return $root . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR . $key . DIRECTORY_SEPARATOR . $country . '.json';
         }
         
-        return $this->prefix . 'translations/' . $key . DIRECTORY_SEPARATOR . $language . '.json';
+        return $root . DIRECTORY_SEPARATOR . 'resources' . DIRECTORY_SEPARATOR . $key . DIRECTORY_SEPARATOR . 'all.json';
     }
 
     /**
