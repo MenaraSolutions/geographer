@@ -30,12 +30,12 @@ Or add it to `composer.json` manually:
 ```json
 {
     "require": {
-        "menarasolutions/geographer": "~0.1"
+        "menarasolutions/geographer": "~0.2"
     }
 }
 ```
 
-Main package is shipped with English language so add extra dependencies for your
+This, main package is shipped with English language so add extra dependencies for your
 other languages, eg.:
 
 ```
@@ -233,8 +233,6 @@ Time: 6 ms, memory: 81056 bytes
 1. Add basic spatial index
 2. Add some unit tests (in addition to existing integration tests)
 3. Add ISO 3166-2 for the rest of the states
-4. Move Laravel integration out to a separate package
-5. Move languages (translations) to separate packages
 
 ## Projects using Geographer
 
@@ -242,6 +240,10 @@ Time: 6 ms, memory: 81056 bytes
 * [Rapport – Real-time random photo and video streams](https://www.rapport.fm)
 
 Tell us about yours!
+
+## Contribution
+
+Read our [Contribution guide](/MenaraSolutions/geographer/blob/master/CONTRIBUTING.md)
 
 ## License
 
