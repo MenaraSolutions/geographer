@@ -99,6 +99,9 @@ class File implements RepositoryInterface
      */
     public function guessTranslationsPrefix()
     {
+        if (is_dir(dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'menarasolutions'))
+            return dirname(dirname(dirname(__FILE__))) . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'menarasolutions';
+
         // By default, we assume that language package was installed using Composer
         return dirname(dirname(dirname(dirname(__FILE__))));
     }
