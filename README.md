@@ -243,7 +243,7 @@ Tell us about yours!
 
 ## Contribution
 
-Read our [Contribution guide](/MenaraSolutions/geographer/blob/master/CONTRIBUTING.md)
+Read our [Contribution guide](https://github.com/MenaraSolutions/geographer/blob/master/CONTRIBUTING.md)
 
 ## License
 
