@@ -9,7 +9,6 @@ php:
 install:
   - composer install --dev
   - mkdir -p build/logs
-  - vendor/bin/phpunit
 
 after_script:
   - vendor/bin/test-reporter
