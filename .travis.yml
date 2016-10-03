@@ -8,10 +8,11 @@ php:
 
 install:
   - composer install --dev
+  - mkdir -p build/logs
+  - vendor/bin/phpunit
 
-addons:
-    code_climate:
-        repo_token: 68fffc20946fecc3411b3e452df63f400d3ed472a5bfc06e068bd92844bdfbdc
+after_script:
+  - vendor/bin/test-reporter
 
 matrix:
   allow_failures:
