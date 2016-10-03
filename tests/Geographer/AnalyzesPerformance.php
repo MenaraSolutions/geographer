@@ -7,12 +7,12 @@ trait AnalyzesPerformance
     /**
      * @var float Maximum execution time in seconds
      */
-    protected $performanceTimeGoal = 3;
+    protected $performanceTimeGoal = 4;
 
     /**
      * @var int Maximum memory usage in bytes
      */
-    protected $performanceMemoryGoal = 8000000;
+    protected $performanceMemoryGoal = 10000000;
 
     /**
      * @var int
