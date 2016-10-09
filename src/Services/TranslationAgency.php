@@ -8,6 +8,7 @@ use MenaraSolutions\Geographer\Contracts\RepositoryInterface;
 use MenaraSolutions\Geographer\Contracts\TranslationAgencyInterface;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Services\Poliglottas\French;
+use MenaraSolutions\Geographer\Services\Poliglottas\German;
 use MenaraSolutions\Geographer\Services\Poliglottas\Mandarin;
 use MenaraSolutions\Geographer\Services\Poliglottas\Russian;
 use MenaraSolutions\Geographer\Services\Poliglottas\English;
@@ -56,6 +57,7 @@ class TranslationAgency implements TranslationAgencyInterface
     const LANG_FRENCH = 'fr';
     const LANG_CHINESE = 'zh';
     const LANG_UKRAINIAN = 'uk';
+    const LANG_GERMAN = 'de';
 
     /**
      * Constants for available forms
@@ -77,6 +79,7 @@ class TranslationAgency implements TranslationAgencyInterface
         self::LANG_FRENCH => French::class,
         self::LANG_CHINESE => Mandarin::class,
         self::LANG_UKRAINIAN => Ukrainian::class,
+        self::LANG_GERMAN => German::class,
     ];
 
     /**
