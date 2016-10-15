@@ -2,9 +2,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "28",
+            "fips": "AF28",
             "geonames": 1121143,
-            "iso_3166_2": "ZAB"
+            "iso_3166_2": "AF-ZAB"
         },
         "long": {
             "default": "Zabul"
@@ -13,9 +13,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "27",
+            "fips": "AF27",
             "geonames": 1121863,
-            "iso_3166_2": "WAR"
+            "iso_3166_2": "AF-WAR"
         },
         "long": {
             "default": "Vardak"
@@ -24,9 +24,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "26",
+            "fips": "AF26",
             "geonames": 1123230,
-            "iso_3166_2": "TAK"
+            "iso_3166_2": "AF-TAK"
         },
         "long": {
             "default": "Takhar"
@@ -35,9 +35,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "33",
+            "fips": "AF33",
             "geonames": 1127106,
-            "iso_3166_2": "SAR"
+            "iso_3166_2": "AF-SAR"
         },
         "long": {
             "default": "Sar-e Pol"
@@ -46,9 +46,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "32",
+            "fips": "AF32",
             "geonames": 1127766,
-            "iso_3166_2": "SAM"
+            "iso_3166_2": "AF-SAM"
         },
         "long": {
             "default": "Samangan"
@@ -57,9 +57,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "40",
+            "fips": "AF40",
             "geonames": 1131054,
-            "iso_3166_2": "PAR"
+            "iso_3166_2": "AF-PAR"
         },
         "long": {
             "default": "Parwan"
@@ -68,9 +68,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "29",
+            "fips": "AF29",
             "geonames": 1131256,
-            "iso_3166_2": "PKA"
+            "iso_3166_2": "AF-PKA"
         },
         "long": {
             "default": "Paktika"
@@ -79,9 +79,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "36",
+            "fips": "AF36",
             "geonames": 1131257,
-            "iso_3166_2": "PIA"
+            "iso_3166_2": "AF-PIA"
         },
         "long": {
             "default": "Paktia"
@@ -90,9 +90,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "39",
+            "fips": "AF39",
             "geonames": 1131461,
-            "iso_3166_2": "URU"
+            "iso_3166_2": "AF-URU"
         },
         "long": {
             "default": "Oruzgan"
@@ -101,9 +101,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "19",
+            "fips": "AF19",
             "geonames": 1131821,
-            "iso_3166_2": "NIM"
+            "iso_3166_2": "AF-NIM"
         },
         "long": {
             "default": "Nimroz"
@@ -112,9 +112,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "18",
+            "fips": "AF18",
             "geonames": 1132366,
-            "iso_3166_2": "NAN"
+            "iso_3166_2": "AF-NAN"
         },
         "long": {
             "default": "Nangarhar"
@@ -123,9 +123,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "17",
+            "fips": "AF17",
             "geonames": 1134561,
-            "iso_3166_2": "LOG"
+            "iso_3166_2": "AF-LOG"
         },
         "long": {
             "default": "Logar"
@@ -134,9 +134,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "35",
+            "fips": "AF35",
             "geonames": 1135022,
-            "iso_3166_2": "LAG"
+            "iso_3166_2": "AF-LAG"
         },
         "long": {
             "default": "Laghman"
@@ -145,9 +145,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "24",
+            "fips": "AF24",
             "geonames": 1135690,
-            "iso_3166_2": "KDZ"
+            "iso_3166_2": "AF-KDZ"
         },
         "long": {
             "default": "Kunduz"
@@ -156,9 +156,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "34",
+            "fips": "AF34",
             "geonames": 1135702,
-            "iso_3166_2": "KNR"
+            "iso_3166_2": "AF-KNR"
         },
         "long": {
             "default": "Kunar"
@@ -167,9 +167,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "14",
+            "fips": "AF14",
             "geonames": 1138255,
-            "iso_3166_2": "KAP"
+            "iso_3166_2": "AF-KAP"
         },
         "long": {
             "default": "Kapisa"
@@ -178,9 +178,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "23",
+            "fips": "AF23",
             "geonames": 1138335,
-            "iso_3166_2": "KAN"
+            "iso_3166_2": "AF-KAN"
         },
         "long": {
             "default": "Kandahar"
@@ -189,9 +189,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "13",
+            "fips": "AF13",
             "geonames": 1138957,
-            "iso_3166_2": "KAB"
+            "iso_3166_2": "AF-KAB"
         },
         "long": {
             "default": "Kabul"
@@ -200,9 +200,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "31",
+            "fips": "AF31",
             "geonames": 1139049,
-            "iso_3166_2": "JOW"
+            "iso_3166_2": "AF-JOW"
         },
         "long": {
             "default": "Jowzjan"
@@ -211,9 +211,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "11",
+            "fips": "AF11",
             "geonames": 1140025,
-            "iso_3166_2": "HER"
+            "iso_3166_2": "AF-HER"
         },
         "long": {
             "default": "Herat"
@@ -222,9 +222,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "10",
+            "fips": "AF10",
             "geonames": 1140043,
-            "iso_3166_2": "HEL"
+            "iso_3166_2": "AF-HEL"
         },
         "long": {
             "default": "Helmand"
@@ -233,9 +233,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "09",
+            "fips": "AF09",
             "geonames": 1141103,
-            "iso_3166_2": "GHO"
+            "iso_3166_2": "AF-GHO"
         },
         "long": {
             "default": "Ghowr"
@@ -244,9 +244,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "08",
+            "fips": "AF08",
             "geonames": 1141268,
-            "iso_3166_2": "GHA"
+            "iso_3166_2": "AF-GHA"
         },
         "long": {
             "default": "Ghazni"
@@ -255,9 +255,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "07",
+            "fips": "AF07",
             "geonames": 1142226,
-            "iso_3166_2": "FYB"
+            "iso_3166_2": "AF-FYB"
         },
         "long": {
             "default": "Faryab"
@@ -266,9 +266,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "06",
+            "fips": "AF06",
             "geonames": 1142263,
-            "iso_3166_2": "FRA"
+            "iso_3166_2": "AF-FRA"
         },
         "long": {
             "default": "Farah"
@@ -277,9 +277,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "05",
+            "fips": "AF05",
             "geonames": 1147239,
-            "iso_3166_2": "BAM"
+            "iso_3166_2": "AF-BAM"
         },
         "long": {
             "default": "Bamyan"
@@ -288,9 +288,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "30",
+            "fips": "AF30",
             "geonames": 1147288,
-            "iso_3166_2": "BAL"
+            "iso_3166_2": "AF-BAL"
         },
         "long": {
             "default": "Balkh"
@@ -299,9 +299,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "03",
+            "fips": "AF03",
             "geonames": 1147537,
-            "iso_3166_2": "BGL"
+            "iso_3166_2": "AF-BGL"
         },
         "long": {
             "default": "Baghlan"
@@ -310,9 +310,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "02",
+            "fips": "AF02",
             "geonames": 1147707,
-            "iso_3166_2": "BDG"
+            "iso_3166_2": "AF-BDG"
         },
         "long": {
             "default": "Badghis"
@@ -321,9 +321,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "01",
+            "fips": "AF01",
             "geonames": 1147745,
-            "iso_3166_2": "BDS"
+            "iso_3166_2": "AF-BDS"
         },
         "long": {
             "default": "Badakhshan"
@@ -332,9 +332,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "37",
+            "fips": "AF37",
             "geonames": 1444362,
-            "iso_3166_2": "KHO"
+            "iso_3166_2": "AF-KHO"
         },
         "long": {
             "default": "Khowst"
@@ -343,9 +343,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "38",
+            "fips": "AF38",
             "geonames": 1444363,
-            "iso_3166_2": "NUR"
+            "iso_3166_2": "AF-NUR"
         },
         "long": {
             "default": "Nuristan"
@@ -354,9 +354,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "41",
+            "fips": "AF41",
             "geonames": 6957553,
-            "iso_3166_2": "DAY"
+            "iso_3166_2": "AF-DAY"
         },
         "long": {
             "default": "Daykundi"
@@ -365,9 +365,9 @@
     {
         "parent": "AF",
         "ids": {
-            "fips": "42",
+            "fips": "AF42",
             "geonames": 6957555,
-            "iso_3166_2": "PAN"
+            "iso_3166_2": "AF-PAN"
         },
         "long": {
             "default": "Panjshir"

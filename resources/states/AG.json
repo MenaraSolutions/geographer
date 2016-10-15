@@ -2,8 +2,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "08",
-            "geonames": 3576015
+            "fips": "AC08",
+            "geonames": 3576015,
+            "iso_3166_2": "AG-08"
         },
         "long": {
             "default": "Saint Philip"
@@ -12,8 +13,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "07",
-            "geonames": 3576016
+            "fips": "AC07",
+            "geonames": 3576016,
+            "iso_3166_2": "AG-07"
         },
         "long": {
             "default": "Saint Peter"
@@ -22,8 +24,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "06",
-            "geonames": 3576017
+            "fips": "AC06",
+            "geonames": 3576017,
+            "iso_3166_2": "AG-06"
         },
         "long": {
             "default": "Saint Paul"
@@ -32,8 +35,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "05",
-            "geonames": 3576018
+            "fips": "AC05",
+            "geonames": 3576018,
+            "iso_3166_2": "AG-05"
         },
         "long": {
             "default": "Saint Mary"
@@ -42,8 +46,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "04",
-            "geonames": 3576023
+            "fips": "AC04",
+            "geonames": 3576023,
+            "iso_3166_2": "AG-04"
         },
         "long": {
             "default": "Saint John"
@@ -52,8 +57,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "03",
-            "geonames": 3576024
+            "fips": "AC03",
+            "geonames": 3576024,
+            "iso_3166_2": "AG-03"
         },
         "long": {
             "default": "Saint George"
@@ -62,8 +68,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "09",
-            "geonames": 3576037
+            "fips": "AC09",
+            "geonames": 3576037,
+            "iso_3166_2": "AG-11"
         },
         "long": {
             "default": "Redonda"
@@ -72,8 +79,9 @@
     {
         "parent": "AG",
         "ids": {
-            "fips": "01",
-            "geonames": 3576390
+            "fips": "AC01",
+            "geonames": 3576390,
+            "iso_3166_2": "AG-10"
         },
         "long": {
             "default": "Barbuda"

@@ -2,8 +2,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "06",
-            "geonames": 3039162
+            "fips": "AN06",
+            "geonames": 3039162,
+            "iso_3166_2": "AD-06"
         },
         "long": {
             "default": "Sant Julià de Loria"
@@ -12,8 +13,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "05",
-            "geonames": 3039676
+            "fips": "AN05",
+            "geonames": 3039676,
+            "iso_3166_2": "AD-05"
         },
         "long": {
             "default": "Ordino"
@@ -22,8 +24,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "04",
-            "geonames": 3040131
+            "fips": "AN04",
+            "geonames": 3040131,
+            "iso_3166_2": "AD-04"
         },
         "long": {
             "default": "La Massana"
@@ -32,8 +35,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "03",
-            "geonames": 3040684
+            "fips": "AN03",
+            "geonames": 3040684,
+            "iso_3166_2": "AD-03"
         },
         "long": {
             "default": "Encamp"
@@ -42,8 +46,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "02",
-            "geonames": 3041203
+            "fips": "AN02",
+            "geonames": 3041203,
+            "iso_3166_2": "AD-02"
         },
         "long": {
             "default": "Canillo"
@@ -52,8 +57,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "07",
-            "geonames": 3041566
+            "fips": "AN07",
+            "geonames": 3041566,
+            "iso_3166_2": "AD-07"
         },
         "long": {
             "default": "Andorra la Vella"
@@ -62,8 +68,9 @@
     {
         "parent": "AD",
         "ids": {
-            "fips": "08",
-            "geonames": 3338529
+            "fips": "AN08",
+            "geonames": 3338529,
+            "iso_3166_2": "AD-08"
         },
         "long": {
             "default": "Escaldes-Engordany"

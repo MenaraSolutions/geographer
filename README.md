@@ -143,19 +143,23 @@ $country->getLanguage(); // Country's first official language
 $country->getStates(); // A collection of all states
 ```
 
+Geonames, ISO 3166-1 alpha-2 and alpha-3 are three viable options to reference country in your data store.
+
 ## State API
 
 At this moment Geographer only keeps cities with population above 50,000 for the sake of performance.
 
 ```php
 $state->getCode(); // Get default code (currently Geonames)
-$state->getIsoCode(); // Get ISO 3166-2 code (only US, CH, BE and ME) 
+$state->getIsoCode(); // Get ISO 3166-2 code  
 $state->getFipsCode(); // Get FIPS code
 $state->getGeonamesCode(); // Get Geonames code
 
 $state->getCities(); // A collection of all cities
 $state = State::build($id); // Instantiate a state directly, based on $id provided (Geonames) 
 ```
+
+Geonames, ISO 3166-2 and FIPS are all unique codes so all three can be used to reference states in your data store.
 
 ## City API
 
@@ -167,32 +171,11 @@ $city->getLongitude(); // City's longitude
 $city->getPopulation(); // Population
 ```
 
-## Usage in Laravel 5
+Geonames ID is currently the only viable option to reference a city in your data store. 
 
-Install Laravel integration package first:
+## Integrations with frameworks
 
-```
-$ composer require menarasolutions/geographer-laravel
-```
-
-Good news is that Laravel will take care of singleton instance for you, so no matter how many times you call it – it's the same object.
-
-```php
-// Add in your config/app.php
-
-'providers' => [
-    '...',
-    MenaraSolutions\Geographer\Integrations\LaravelServiceProvider::class,
-];
-
-'aliases' => [
-    '...',
-    'Geographer' => MenaraSolutions\Geographer\Integrations\LaravelFacade::class,
-];
-
-// Start playing with it, all the same calls
-Geographer::getCountries()->useShortNames()->toArray();
-```
+[Official Laravel package](https://github.com/MenaraSolutions/geographer-laravel)
 
 ## Current coverage
 

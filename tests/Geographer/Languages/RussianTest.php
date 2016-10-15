@@ -34,6 +34,22 @@ class RussianTest extends Test
     }
 
     /**
+     * 
+     */
+    public function specific_country_has_all_states()
+    {
+        $country = (new Earth())->findOneByCode('AG')->setLocale('ru');
+        $states = $country->getStates();
+
+        foreach ($states as $state) {
+            echo "id: " . $state->getCode() . " names: "
+                . $state->inflict('default')->getName() . "  "
+                . $state->inflict('in')->getName() . "  "
+                . $state->inflict('from')->getName() . "\n";
+        }
+    }
+
+    /**
      * @test
      */
     public function many_states_have_translated_names()
