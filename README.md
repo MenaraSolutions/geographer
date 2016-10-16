@@ -214,9 +214,11 @@ Time: 6 ms, memory: 81056 bytes
 
 ## Todo
 
-1. Add basic spatial index
+1. Add a basic spatial index
 2. Add some unit tests (in addition to existing integration tests)
 3. Add ISO 3166-2 for the rest of the states
+4. Add ISO 3166-1 numeric codes for countries
+5. Add coverage information for language packages
 
 ## Projects using Geographer
 
