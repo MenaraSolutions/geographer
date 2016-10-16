@@ -4,6 +4,7 @@ namespace MenaraSolutions\Geographer\Collections;
 
 use MenaraSolutions\Geographer\Collections\Traits\ImplementsArray;
 use MenaraSolutions\Geographer\Contracts\ManagerInterface;
+use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
 use MenaraSolutions\Geographer\Traits\HasManager;
 use MenaraSolutions\Geographer\Divisible;
 
@@ -63,9 +64,12 @@ class MemberCollection extends \ArrayObject
     /**
      * @param $key
      * @return mixed
+     * @throws ObjectNotFoundException
      */
     public function get($key)
     {
+        if (! isset($this->divisions[$key])) throw new ObjectNotFoundException('Unknown code');
+
         return $this->divisions[$key];
     }
 

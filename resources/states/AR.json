@@ -2,28 +2,31 @@
     {
         "parent": "AR",
         "ids": {
-            "fips": "14",
-            "geonames": 3430657
+            "fips": "AR14",
+            "geonames": 3430657,
+            "iso_3166_2": "AR-N"
         },
         "long": {
-            "default": "Misiones Province"
+            "default": "Misiones"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "09",
-            "geonames": 3433896
+            "fips": "AR09",
+            "geonames": 3433896,
+            "iso_3166_2": "AR-P"
         },
         "long": {
-            "default": "Formosa Province"
+            "default": "Formosa"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "07",
-            "geonames": 3433955
+            "fips": "AR07",
+            "geonames": 3433955,
+            "iso_3166_2": "AR-C"
         },
         "long": {
             "default": "Buenos Aires F.D."
@@ -32,28 +35,31 @@
     {
         "parent": "AR",
         "ids": {
-            "fips": "08",
-            "geonames": 3434137
+            "fips": "AR08",
+            "geonames": 3434137,
+            "iso_3166_2": "AR-E"
         },
         "long": {
-            "default": "Entre Ríos Province"
+            "default": "Entre Ríos"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "06",
-            "geonames": 3435214
+            "fips": "AR06",
+            "geonames": 3435214,
+            "iso_3166_2": "AR-W"
         },
         "long": {
-            "default": "Corrientes Province"
+            "default": "Corrientes"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "01",
-            "geonames": 3435907
+            "fips": "AR01",
+            "geonames": 3435907,
+            "iso_3166_2": "AR-B"
         },
         "long": {
             "default": "Buenos Aires"
@@ -62,181 +68,199 @@
     {
         "parent": "AR",
         "ids": {
-            "fips": "24",
-            "geonames": 3833578
+            "fips": "AR24",
+            "geonames": 3833578,
+            "iso_3166_2": "AR-T"
         },
         "long": {
-            "default": "Tucumán Province"
+            "default": "Tucumán"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "23",
-            "geonames": 3834450
+            "fips": "AR23",
+            "geonames": 3834450,
+            "iso_3166_2": "AR-V"
         },
         "long": {
-            "default": "Tierra del Fuego Province"
+            "default": "Tierra del Fuego"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "22",
-            "geonames": 3835868
+            "fips": "AR22",
+            "geonames": 3835868,
+            "iso_3166_2": "AR-G"
         },
         "long": {
-            "default": "Santiago del Estero Province"
+            "default": "Santiago del Estero"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "21",
-            "geonames": 3836276
+            "fips": "AR21",
+            "geonames": 3836276,
+            "iso_3166_2": "AR-S"
         },
         "long": {
-            "default": "Santa Fe Province"
+            "default": "Santa Fe"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "20",
-            "geonames": 3836350
+            "fips": "AR20",
+            "geonames": 3836350,
+            "iso_3166_2": "AR-Z"
         },
         "long": {
-            "default": "Santa Cruz Province"
+            "default": "Santa Cruz"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "19",
-            "geonames": 3837029
+            "fips": "AR19",
+            "geonames": 3837029,
+            "iso_3166_2": "AR-D"
         },
         "long": {
-            "default": "San Luis Province"
+            "default": "San Luis"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "18",
-            "geonames": 3837152
+            "fips": "AR18",
+            "geonames": 3837152,
+            "iso_3166_2": "AR-J"
         },
         "long": {
-            "default": "San Juan Province"
+            "default": "San Juan"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "17",
-            "geonames": 3838231
+            "fips": "AR17",
+            "geonames": 3838231,
+            "iso_3166_2": "AR-A"
         },
         "long": {
-            "default": "Salta Province"
+            "default": "Salta"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "16",
-            "geonames": 3838830
+            "fips": "AR16",
+            "geonames": 3838830,
+            "iso_3166_2": "AR-R"
         },
         "long": {
-            "default": "Río Negro Province"
+            "default": "Río Negro"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "15",
-            "geonames": 3843122
+            "fips": "AR15",
+            "geonames": 3843122,
+            "iso_3166_2": "AR-Q"
         },
         "long": {
-            "default": "Neuquén Province"
+            "default": "Neuquén"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "13",
-            "geonames": 3844419
+            "fips": "AR13",
+            "geonames": 3844419,
+            "iso_3166_2": "AR-M"
         },
         "long": {
-            "default": "Mendoza Province"
+            "default": "Mendoza"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "12",
-            "geonames": 3848949
+            "fips": "AR12",
+            "geonames": 3848949,
+            "iso_3166_2": "AR-F"
         },
         "long": {
-            "default": "La Rioja Province"
+            "default": "La Rioja"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "11",
-            "geonames": 3849574
+            "fips": "AR11",
+            "geonames": 3849574,
+            "iso_3166_2": "AR-L"
         },
         "long": {
-            "default": "La Pampa Province"
+            "default": "La Pampa"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "10",
-            "geonames": 3853404
+            "fips": "AR10",
+            "geonames": 3853404,
+            "iso_3166_2": "AR-Y"
         },
         "long": {
-            "default": "Jujuy Province"
+            "default": "Jujuy"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "05",
-            "geonames": 3860255
+            "fips": "AR05",
+            "geonames": 3860255,
+            "iso_3166_2": "AR-X"
         },
         "long": {
-            "default": "Cordoba Province"
+            "default": "Cordoba"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "04",
-            "geonames": 3861244
+            "fips": "AR04",
+            "geonames": 3861244,
+            "iso_3166_2": "AR-U"
         },
         "long": {
-            "default": "Chubut Province"
+            "default": "Chubut"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "03",
-            "geonames": 3861887
+            "fips": "AR03",
+            "geonames": 3861887,
+            "iso_3166_2": "AR-H"
         },
         "long": {
-            "default": "Chaco Province"
+            "default": "Chaco"
         }
     },
     {
         "parent": "AR",
         "ids": {
-            "fips": "02",
-            "geonames": 3862286
+            "fips": "AR02",
+            "geonames": 3862286,
+            "iso_3166_2": "AR-K"
         },
         "long": {
-            "default": "Catamarca Province"
+            "default": "Catamarca"
         }
     }
 ]

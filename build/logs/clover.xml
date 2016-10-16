@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1476610855">
-  <project timestamp="1476610855">
+<coverage generated="1476613199">
+  <project timestamp="1476613199">
     <package name="MenaraSolutions\Geographer">
       <file name="/Users/duster/repos/geographer/src/City.php">
         <class name="City" namespace="MenaraSolutions\Geographer" fullPackage="MenaraSolutions" package="MenaraSolutions">
@@ -116,56 +116,57 @@
     <package name="MenaraSolutions\Geographer\Collections">
       <file name="/Users/duster/repos/geographer/src/Collections/MemberCollection.php">
         <class name="MemberCollection" namespace="MenaraSolutions\Geographer\Collections" fullPackage="MenaraSolutions" package="MenaraSolutions">
-          <metrics methods="10" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="37" coveredstatements="9" elements="47" coveredelements="12"/>
+          <metrics methods="10" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="38" coveredstatements="10" elements="48" coveredelements="13"/>
         </class>
-        <line num="33" type="method" name="__construct" crap="1" count="3"/>
-        <line num="35" type="stmt" count="3"/>
-        <line num="37" type="stmt" count="3"/>
+        <line num="34" type="method" name="__construct" crap="1" count="3"/>
+        <line num="36" type="stmt" count="3"/>
         <line num="38" type="stmt" count="3"/>
         <line num="39" type="stmt" count="3"/>
-        <line num="44" type="method" name="toArray" crap="6" count="0"/>
-        <line num="46" type="stmt" count="0"/>
-        <line num="48" type="stmt" count="0"/>
+        <line num="40" type="stmt" count="3"/>
+        <line num="45" type="method" name="toArray" crap="6" count="0"/>
+        <line num="47" type="stmt" count="0"/>
         <line num="49" type="stmt" count="0"/>
-        <line num="52" type="stmt" count="0"/>
-        <line num="58" type="method" name="first" crap="2" count="0"/>
-        <line num="60" type="stmt" count="0"/>
-        <line num="67" type="method" name="get" crap="1" count="1"/>
-        <line num="69" type="stmt" count="1"/>
-        <line num="77" type="method" name="add" crap="1" count="3"/>
-        <line num="79" type="stmt" count="3"/>
-        <line num="81" type="stmt" count="3"/>
-        <line num="90" type="method" name="filter" crap="6" count="0"/>
-        <line num="92" type="stmt" count="0"/>
-        <line num="93" type="stmt" count="0"/>
+        <line num="50" type="stmt" count="0"/>
+        <line num="53" type="stmt" count="0"/>
+        <line num="59" type="method" name="first" crap="2" count="0"/>
+        <line num="61" type="stmt" count="0"/>
+        <line num="69" type="method" name="get" crap="2" count="1"/>
+        <line num="71" type="stmt" count="1"/>
+        <line num="73" type="stmt" count="1"/>
+        <line num="81" type="method" name="add" crap="1" count="3"/>
+        <line num="83" type="stmt" count="3"/>
+        <line num="85" type="stmt" count="3"/>
+        <line num="94" type="method" name="filter" crap="6" count="0"/>
         <line num="96" type="stmt" count="0"/>
-        <line num="104" type="method" name="match" crap="20" count="0"/>
-        <line num="106" type="stmt" count="0"/>
-        <line num="107" type="stmt" count="0"/>
-        <line num="109" type="stmt" count="0"/>
+        <line num="97" type="stmt" count="0"/>
+        <line num="100" type="stmt" count="0"/>
+        <line num="108" type="method" name="match" crap="20" count="0"/>
         <line num="110" type="stmt" count="0"/>
+        <line num="111" type="stmt" count="0"/>
         <line num="113" type="stmt" count="0"/>
-        <line num="120" type="method" name="find" crap="12" count="0"/>
-        <line num="122" type="stmt" count="0"/>
-        <line num="124" type="stmt" count="0"/>
-        <line num="125" type="stmt" count="0"/>
+        <line num="114" type="stmt" count="0"/>
+        <line num="117" type="stmt" count="0"/>
+        <line num="124" type="method" name="find" crap="12" count="0"/>
         <line num="126" type="stmt" count="0"/>
+        <line num="128" type="stmt" count="0"/>
+        <line num="129" type="stmt" count="0"/>
         <line num="130" type="stmt" count="0"/>
-        <line num="137" type="method" name="findOne" crap="2.15" count="1"/>
-        <line num="139" type="stmt" count="1"/>
-        <line num="140" type="stmt" count="1"/>
-        <line num="143" type="stmt" count="0"/>
-        <line num="154" type="method" name="sortBy" crap="20" count="0"/>
-        <line num="156" type="stmt" count="0"/>
-        <line num="158" type="stmt" count="0"/>
-        <line num="159" type="stmt" count="0"/>
+        <line num="134" type="stmt" count="0"/>
+        <line num="141" type="method" name="findOne" crap="2.15" count="1"/>
+        <line num="143" type="stmt" count="1"/>
+        <line num="144" type="stmt" count="1"/>
+        <line num="147" type="stmt" count="0"/>
+        <line num="158" type="method" name="sortBy" crap="20" count="0"/>
         <line num="160" type="stmt" count="0"/>
+        <line num="162" type="stmt" count="0"/>
         <line num="163" type="stmt" count="0"/>
         <line num="164" type="stmt" count="0"/>
-        <line num="166" type="stmt" count="0"/>
         <line num="167" type="stmt" count="0"/>
+        <line num="168" type="stmt" count="0"/>
         <line num="170" type="stmt" count="0"/>
-        <metrics loc="172" ncloc="115" classes="1" methods="10" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="37" coveredstatements="9" elements="47" coveredelements="12"/>
+        <line num="171" type="stmt" count="0"/>
+        <line num="174" type="stmt" count="0"/>
+        <metrics loc="176" ncloc="118" classes="1" methods="10" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="38" coveredstatements="10" elements="48" coveredelements="13"/>
       </file>
     </package>
     <package name="MenaraSolutions\Geographer\Collections\Traits">
@@ -552,7 +553,7 @@
       </file>
       <file name="/Users/duster/repos/geographer/src/Services/Poliglottas/Russian.php">
         <class name="Russian" namespace="MenaraSolutions\Geographer\Services\Poliglottas" fullPackage="MenaraSolutions" package="MenaraSolutions">
-          <metrics methods="9" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="31" coveredstatements="28" elements="40" coveredelements="34"/>
+          <metrics methods="9" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="31" coveredstatements="29" elements="40" coveredelements="36"/>
         </class>
         <line num="60" type="method" name="removeLastLetterIfNeeded" crap="2" count="1"/>
         <line num="62" type="stmt" count="1"/>
@@ -592,9 +593,9 @@
         <line num="165" type="stmt" count="1"/>
         <line num="166" type="stmt" count="0"/>
         <line num="169" type="stmt" count="1"/>
-        <line num="176" type="method" name="isVowel" crap="2" count="0"/>
-        <line num="178" type="stmt" count="0"/>
-        <metrics loc="180" ncloc="121" classes="1" methods="9" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="31" coveredstatements="28" elements="40" coveredelements="34"/>
+        <line num="176" type="method" name="isVowel" crap="1" count="1"/>
+        <line num="178" type="stmt" count="1"/>
+        <metrics loc="180" ncloc="121" classes="1" methods="9" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="31" coveredstatements="29" elements="40" coveredelements="36"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Services/Poliglottas/Spanish.php">
         <class name="Spanish" namespace="MenaraSolutions\Geographer\Services\Poliglottas" fullPackage="MenaraSolutions" package="MenaraSolutions">
@@ -675,6 +676,6 @@
         <metrics loc="71" ncloc="47" classes="1" methods="6" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="12" coveredstatements="4" elements="18" coveredelements="6"/>
       </file>
     </package>
-    <metrics files="33" loc="2525" ncloc="1579" classes="27" methods="119" coveredmethods="52" conditionals="0" coveredconditionals="0" statements="359" coveredstatements="175" elements="478" coveredelements="227"/>
+    <metrics files="33" loc="2529" ncloc="1582" classes="27" methods="119" coveredmethods="53" conditionals="0" coveredconditionals="0" statements="360" coveredstatements="177" elements="479" coveredelements="230"/>
   </project>
 </coverage>
