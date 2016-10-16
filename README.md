@@ -143,7 +143,7 @@ $country->getLanguage(); // Country's first official language
 $country->getStates(); // A collection of all states
 ```
 
-Geonames, ISO 3166-1 alpha-2 and alpha-3 are three viable options to reference country in your data store.
+Geonames, ISO 3166-1 alpha-2, alpha-3 and numeric codes are four viable options to reference country in your data store.
 
 ## State API
 
@@ -217,8 +217,7 @@ Time: 6 ms, memory: 81056 bytes
 1. Add a basic spatial index
 2. Add some unit tests (in addition to existing integration tests)
 3. Add ISO 3166-2 for the rest of the states
-4. Add ISO 3166-1 numeric codes for countries
-5. Add coverage information for language packages
+4. Add coverage information for language packages
 
 ## Projects using Geographer
 

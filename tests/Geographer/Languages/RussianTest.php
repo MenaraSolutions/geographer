@@ -34,7 +34,7 @@ class RussianTest extends Test
     }
 
     /**
-     * 
+     *
      */
     public function specific_country_has_all_states()
     {
