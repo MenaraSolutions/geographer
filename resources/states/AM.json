@@ -2,38 +2,42 @@
     {
         "parent": "AM",
         "ids": {
-            "fips": "02",
-            "geonames": 409313
+            "fips": "AM02",
+            "geonames": 409313,
+            "iso_3166_2": "AM-AR"
         },
         "long": {
-            "default": "Ararat Province"
+            "default": "Ararat"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "08",
-            "geonames": 409314
+            "fips": "AM08",
+            "geonames": 409314,
+            "iso_3166_2": "AM-SU"
         },
         "long": {
-            "default": "Syunik Province"
+            "default": "Syunik"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "10",
-            "geonames": 409315
+            "fips": "AM10",
+            "geonames": 409315,
+            "iso_3166_2": "AM-VD"
         },
         "long": {
-            "default": "Vayots Dzor Province"
+            "default": "Vayots Dzor"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "11",
-            "geonames": 616051
+            "fips": "AM11",
+            "geonames": 616051,
+            "iso_3166_2": "AM-ER"
         },
         "long": {
             "default": "Yerevan"
@@ -42,71 +46,78 @@
     {
         "parent": "AM",
         "ids": {
-            "fips": "01",
-            "geonames": 828259
+            "fips": "AM01",
+            "geonames": 828259,
+            "iso_3166_2": "AM-AG"
         },
         "long": {
-            "default": "Aragatsotn Province"
+            "default": "Aragatsotn"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "03",
-            "geonames": 828260
+            "fips": "AM03",
+            "geonames": 828260,
+            "iso_3166_2": "AM-AV"
         },
         "long": {
-            "default": "Armavir Province"
+            "default": "Armavir"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "04",
-            "geonames": 828261
+            "fips": "AM04",
+            "geonames": 828261,
+            "iso_3166_2": "AM-GR"
         },
         "long": {
-            "default": "Gegharkunik Province"
+            "default": "Gegharkunik"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "05",
-            "geonames": 828262
+            "fips": "AM05",
+            "geonames": 828262,
+            "iso_3166_2": "AM-KT"
         },
         "long": {
-            "default": "Kotayk Province"
+            "default": "Kotayk"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "06",
-            "geonames": 828263
+            "fips": "AM06",
+            "geonames": 828263,
+            "iso_3166_2": "AM-LO"
         },
         "long": {
-            "default": "Lori Province"
+            "default": "Lori"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "07",
-            "geonames": 828264
+            "fips": "AM07",
+            "geonames": 828264,
+            "iso_3166_2": "AM-SH"
         },
         "long": {
-            "default": "Shirak Province"
+            "default": "Shirak"
         }
     },
     {
         "parent": "AM",
         "ids": {
-            "fips": "09",
-            "geonames": 828265
+            "fips": "AM09",
+            "geonames": 828265,
+            "iso_3166_2": "AM-TV"
         },
         "long": {
-            "default": "Tavush Province"
+            "default": "Tavush"
         }
     }
 ]

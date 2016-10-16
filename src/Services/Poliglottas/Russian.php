@@ -74,6 +74,10 @@ class Russian extends Base
     {
         $output = $this->removeLastLetterIfNeeded($template);
 
+        if ($this->isTwoWords($template)) {
+            $output = $this->attemptToInflictFirstWordFrom($output);
+        }
+
         if (array_key_exists($this->getLastLetter($template), $this->replacementsIn)) {
             $output .= $this->replacementsIn[$this->getLastLetter($template)];
         }

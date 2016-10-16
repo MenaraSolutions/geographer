@@ -2,8 +2,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "40",
-            "geonames": 865730
+            "fips": "AL40",
+            "geonames": 865730,
+            "iso_3166_2": "AL-01"
         },
         "long": {
             "default": "Berat"
@@ -12,8 +13,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "41",
-            "geonames": 865731
+            "fips": "AL41",
+            "geonames": 865731,
+            "iso_3166_2": "AL-09"
         },
         "long": {
             "default": "Dibër"
@@ -22,8 +24,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "43",
-            "geonames": 865732
+            "fips": "AL43",
+            "geonames": 865732,
+            "iso_3166_2": "AL-03"
         },
         "long": {
             "default": "Elbasan"
@@ -32,8 +35,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "45",
-            "geonames": 865733
+            "fips": "AL45",
+            "geonames": 865733,
+            "iso_3166_2": "AL-05"
         },
         "long": {
             "default": "Gjirokastër"
@@ -42,8 +46,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "46",
-            "geonames": 865734
+            "fips": "AL46",
+            "geonames": 865734,
+            "iso_3166_2": "AL-06"
         },
         "long": {
             "default": "Korçë"
@@ -52,8 +57,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "47",
-            "geonames": 865735
+            "fips": "AL47",
+            "geonames": 865735,
+            "iso_3166_2": "AL-07"
         },
         "long": {
             "default": "Kukës"
@@ -62,8 +68,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "42",
-            "geonames": 3344947
+            "fips": "AL42",
+            "geonames": 3344947,
+            "iso_3166_2": "AL-02"
         },
         "long": {
             "default": "Durrës"
@@ -72,8 +79,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "44",
-            "geonames": 3344948
+            "fips": "AL44",
+            "geonames": 3344948,
+            "iso_3166_2": "AL-04"
         },
         "long": {
             "default": "Fier"
@@ -82,8 +90,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "48",
-            "geonames": 3344949
+            "fips": "AL48",
+            "geonames": 3344949,
+            "iso_3166_2": "AL-08"
         },
         "long": {
             "default": "Lezhë"
@@ -92,8 +101,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "49",
-            "geonames": 3344950
+            "fips": "AL49",
+            "geonames": 3344950,
+            "iso_3166_2": "AL-10"
         },
         "long": {
             "default": "Shkodër"
@@ -102,8 +112,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "50",
-            "geonames": 3344951
+            "fips": "AL50",
+            "geonames": 3344951,
+            "iso_3166_2": "AL-11"
         },
         "long": {
             "default": "Tiranë"
@@ -112,8 +123,9 @@
     {
         "parent": "AL",
         "ids": {
-            "fips": "51",
-            "geonames": 3344952
+            "fips": "AL51",
+            "geonames": 3344952,
+            "iso_3166_2": "AL-12"
         },
         "long": {
             "default": "Vlorë"
