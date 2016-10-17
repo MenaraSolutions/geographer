@@ -2,8 +2,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "08",
-            "geonames": 2058645
+            "fips": "AS08",
+            "geonames": 2058645,
+            "iso_3166_2": "AU-WA"
         },
         "long": {
             "default": "Western Australia"
@@ -12,8 +13,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "05",
-            "geonames": 2061327
+            "fips": "AS05",
+            "geonames": 2061327,
+            "iso_3166_2": "AU-SA"
         },
         "long": {
             "default": "South Australia"
@@ -22,8 +24,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "03",
-            "geonames": 2064513
+            "fips": "AS03",
+            "geonames": 2064513,
+            "iso_3166_2": "AU-NT"
         },
         "long": {
             "default": "Northern Territory"
@@ -32,8 +35,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "07",
-            "geonames": 2145234
+            "fips": "AS07",
+            "geonames": 2145234,
+            "iso_3166_2": "AU-VIC"
         },
         "long": {
             "default": "Victoria"
@@ -42,8 +46,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "06",
-            "geonames": 2147291
+            "fips": "AS06",
+            "geonames": 2147291,
+            "iso_3166_2": "AU-TAS"
         },
         "long": {
             "default": "Tasmania"
@@ -52,8 +57,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "04",
-            "geonames": 2152274
+            "fips": "AS04",
+            "geonames": 2152274,
+            "iso_3166_2": "AU-QLD"
         },
         "long": {
             "default": "Queensland"
@@ -62,8 +68,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "02",
-            "geonames": 2155400
+            "fips": "AS02",
+            "geonames": 2155400,
+            "iso_3166_2": "AU-NSW"
         },
         "long": {
             "default": "New South Wales"
@@ -72,8 +79,9 @@
     {
         "parent": "AU",
         "ids": {
-            "fips": "01",
-            "geonames": 2177478
+            "fips": "AS01",
+            "geonames": 2177478,
+            "iso_3166_2": "AU-ACT"
         },
         "long": {
             "default": "Australian Capital Territory"

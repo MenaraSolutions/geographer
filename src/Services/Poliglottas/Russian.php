@@ -75,7 +75,7 @@ class Russian extends Base
         $output = $this->removeLastLetterIfNeeded($template);
 
         if ($this->isTwoWords($template)) {
-            $output = $this->attemptToInflictFirstWordFrom($output);
+            $output = $this->attemptToInflictFirstWordIn($output);
         }
 
         if (array_key_exists($this->getLastLetter($template), $this->replacementsIn)) {
@@ -108,6 +108,27 @@ class Russian extends Base
      * @param $string
      * @return string
      */
+    private function attemptToInflictFirstWordIn($string)
+    {
+        list($first, $second) = explode(' ', $string);
+
+        if (mb_substr($first, mb_strlen($first) - 2) == 'ая') {
+            $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ой';
+        }
+
+        if (mb_substr($first, mb_strlen($first) - 2) == 'ий' || mb_substr($first, mb_strlen($first) - 2) == 'ый') {
+            $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ом';
+        }
+
+        if (mb_strtolower($first) == 'республика') $first = 'Республике';
+
+        return $first . ' ' . $second;
+    }
+
+    /**
+     * @param $string
+     * @return string
+     */
     private function attemptToInflictFirstWordFrom($string)
     {   
 	    list($first, $second) = explode(' ', $string);
@@ -116,7 +137,7 @@ class Russian extends Base
 	        $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ой';
     	}
 
-        if (mb_substr($first, mb_strlen($first) - 2) == 'ий') {
+        if (mb_substr($first, mb_strlen($first) - 2) == 'ий' || mb_substr($first, mb_strlen($first) - 2) == 'ый') {
             $first = mb_substr($first, 0, mb_strlen($first) - 2) . 'ого';
         }
 

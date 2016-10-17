@@ -2,8 +2,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "09",
-            "geonames": 2761367
+            "fips": "AU09",
+            "geonames": 2761367,
+            "iso_3166_2": "AT-9"
         },
         "long": {
             "default": "Vienna"
@@ -12,8 +13,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "08",
-            "geonames": 2762300
+            "fips": "AU08",
+            "geonames": 2762300,
+            "iso_3166_2": "AT-8"
         },
         "long": {
             "default": "Vorarlberg"
@@ -22,8 +24,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "07",
-            "geonames": 2763586
+            "fips": "AU07",
+            "geonames": 2763586,
+            "iso_3166_2": "AT-7"
         },
         "long": {
             "default": "Tyrol"
@@ -32,8 +35,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "06",
-            "geonames": 2764581
+            "fips": "AU06",
+            "geonames": 2764581,
+            "iso_3166_2": "AT-6"
         },
         "long": {
             "default": "Styria"
@@ -42,8 +46,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "05",
-            "geonames": 2766823
+            "fips": "AU05",
+            "geonames": 2766823,
+            "iso_3166_2": "AT-5"
         },
         "long": {
             "default": "Salzburg"
@@ -52,8 +57,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "04",
-            "geonames": 2769848
+            "fips": "AU04",
+            "geonames": 2769848,
+            "iso_3166_2": "AT-4"
         },
         "long": {
             "default": "Upper Austria"
@@ -62,8 +68,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "03",
-            "geonames": 2770542
+            "fips": "AU03",
+            "geonames": 2770542,
+            "iso_3166_2": "AT-3"
         },
         "long": {
             "default": "Lower Austria"
@@ -72,8 +79,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "02",
-            "geonames": 2774686
+            "fips": "AU02",
+            "geonames": 2774686,
+            "iso_3166_2": "AT-2"
         },
         "long": {
             "default": "Carinthia"
@@ -82,8 +90,9 @@
     {
         "parent": "AT",
         "ids": {
-            "fips": "01",
-            "geonames": 2781194
+            "fips": "AU01",
+            "geonames": 2781194,
+            "iso_3166_2": "AT-1"
         },
         "long": {
             "default": "Burgenland"
