@@ -2,8 +2,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "11",
-            "geonames": 3373551
+            "fips": "BB11",
+            "geonames": 3373551,
+            "iso_3166_2": "BB-11"
         },
         "long": {
             "default": "Saint Thomas"
@@ -12,8 +13,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "10",
-            "geonames": 3373553
+            "fips": "BB10",
+            "geonames": 3373553,
+            "iso_3166_2": "BB-10"
         },
         "long": {
             "default": "Saint Philip"
@@ -22,8 +24,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "09",
-            "geonames": 3373554
+            "fips": "BB09",
+            "geonames": 3373554,
+            "iso_3166_2": "BB-09"
         },
         "long": {
             "default": "Saint Peter"
@@ -32,8 +35,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "08",
-            "geonames": 3373557
+            "fips": "BB08",
+            "geonames": 3373557,
+            "iso_3166_2": "BB-08"
         },
         "long": {
             "default": "Saint Michael"
@@ -42,8 +46,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "07",
-            "geonames": 3373565
+            "fips": "BB07",
+            "geonames": 3373565,
+            "iso_3166_2": "BB-07"
         },
         "long": {
             "default": "Saint Lucy"
@@ -52,8 +57,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "06",
-            "geonames": 3373568
+            "fips": "BB06",
+            "geonames": 3373568,
+            "iso_3166_2": "BB-06"
         },
         "long": {
             "default": "Saint Joseph"
@@ -62,8 +68,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "05",
-            "geonames": 3373569
+            "fips": "BB05",
+            "geonames": 3373569,
+            "iso_3166_2": "BB-05"
         },
         "long": {
             "default": "Saint John"
@@ -72,8 +79,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "04",
-            "geonames": 3373570
+            "fips": "BB04",
+            "geonames": 3373570,
+            "iso_3166_2": "BB-04"
         },
         "long": {
             "default": "Saint James"
@@ -82,8 +90,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "03",
-            "geonames": 3373572
+            "fips": "BB03",
+            "geonames": 3373572,
+            "iso_3166_2": "BB-03"
         },
         "long": {
             "default": "Saint George"
@@ -92,8 +101,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "02",
-            "geonames": 3373580
+            "fips": "BB02",
+            "geonames": 3373580,
+            "iso_3166_2": "BB-02"
         },
         "long": {
             "default": "Saint Andrew"
@@ -102,8 +112,9 @@
     {
         "parent": "BB",
         "ids": {
-            "fips": "01",
-            "geonames": 3373988
+            "fips": "BB01",
+            "geonames": 3373988,
+            "iso_3166_2": "BB-01"
         },
         "long": {
             "default": "Christ Church"

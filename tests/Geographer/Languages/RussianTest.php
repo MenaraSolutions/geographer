@@ -38,12 +38,12 @@ class RussianTest extends Test
      */
     public function specific_country_has_all_states()
     {
-        $country = (new Earth())->findOneByCode('AZ')->setLocale('ru');
+        $country = (new Earth())->findOneByCode('BE')->setLocale('ru');
         $states = $country->getStates();
 
         $array = [];
         $output = [
-            'code' => 0,
+            'code' => "0",
             'long' => [
                 'default' => ''
             ]

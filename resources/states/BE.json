@@ -2,19 +2,19 @@
     {
         "parent": "BE",
         "ids": {
-            "iso_3166": "BRU",
-            "fips": "11",
+            "iso_3166_2": "BE-BRU",
+            "fips": "BE11",
             "geonames": 2800867
         },
         "long": {
-            "default": "Brussels Capital"
+            "default": "Brussels"
         }
     },
     {
         "parent": "BE",
         "ids": {
-            "iso_3166": "WAL",
-            "fips": "10",
+            "iso_3166_2": "BE-WAL",
+            "fips": "BE10",
             "geonames": 3337387
         },
         "long": {
@@ -24,8 +24,8 @@
     {
         "parent": "BE",
         "ids": {
-            "iso_3166": "VLG",
-            "fips": "12",
+            "iso_3166_2": "BE-VLG",
+            "fips": "BE12",
             "geonames": 3337388
         },
         "long": {

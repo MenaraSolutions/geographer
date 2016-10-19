@@ -2,18 +2,20 @@
     {
         "parent": "BD",
         "ids": {
-            "fips": "83",
-            "geonames": 1337166
+            "fips": "BG83",
+            "geonames": 1337166,
+            "iso_3166_2": "BD-E"
         },
         "long": {
-            "default": "Rājshāhi"
+            "default": "Rajshahi"
         }
     },
     {
         "parent": "BD",
         "ids": {
-            "fips": "81",
-            "geonames": 1337179
+            "fips": "BG81",
+            "geonames": 1337179,
+            "iso_3166_2": "BD-C"
         },
         "long": {
             "default": "Dhaka"
@@ -22,8 +24,9 @@
     {
         "parent": "BD",
         "ids": {
-            "fips": "84",
-            "geonames": 1337200
+            "fips": "BG84",
+            "geonames": 1337200,
+            "iso_3166_2": "BD-B"
         },
         "long": {
             "default": "Chittagong"
@@ -32,8 +35,9 @@
     {
         "parent": "BD",
         "ids": {
-            "fips": "82",
-            "geonames": 1337210
+            "fips": "BG82",
+            "geonames": 1337210,
+            "iso_3166_2": "BD-D"
         },
         "long": {
             "default": "Khulna"
@@ -42,18 +46,20 @@
     {
         "parent": "BD",
         "ids": {
-            "fips": "85",
-            "geonames": 1337229
+            "fips": "BG85",
+            "geonames": 1337229,
+            "iso_3166_2": "BD-A"
         },
         "long": {
-            "default": "Barisāl"
+            "default": "Barisal"
         }
     },
     {
         "parent": "BD",
         "ids": {
-            "fips": "86",
-            "geonames": 1477362
+            "fips": "BG86",
+            "geonames": 1477362,
+            "iso_3166_2": "BD-G"
         },
         "long": {
             "default": "Sylhet"
@@ -62,11 +68,12 @@
     {
         "parent": "BD",
         "ids": {
-            "fips": "87",
-            "geonames": 7671048
+            "fips": "BG87",
+            "geonames": 7671048,
+            "iso_3166_2": "BD-F"
         },
         "long": {
-            "default": "Rangpur Division"
+            "default": "Rangpur"
         }
     }
 ]

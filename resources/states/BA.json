@@ -2,8 +2,9 @@
     {
         "parent": "BA",
         "ids": {
-            "fips": "01",
-            "geonames": 3229999
+            "fips": "BK01",
+            "geonames": 3229999,
+            "iso_3166_2": "BA-BIH"
         },
         "long": {
             "default": "Federation of Bosnia and Herzegovina"
@@ -12,8 +13,9 @@
     {
         "parent": "BA",
         "ids": {
-            "fips": "02",
-            "geonames": 3230000
+            "fips": "BK02",
+            "geonames": 3230000,
+            "iso_3166_2": "BA-SRP"
         },
         "long": {
             "default": "Republika Srpska"
@@ -22,8 +24,9 @@
     {
         "parent": "BA",
         "ids": {
-            "fips": "BRC",
-            "geonames": 3294903
+            "fips": false,
+            "geonames": 3294903,
+            "iso_3166_2": "BA-BRC"
         },
         "long": {
             "default": "Brčko"
