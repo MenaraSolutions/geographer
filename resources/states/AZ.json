@@ -2,48 +2,53 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "12",
-            "geonames": 146879
+            "fips": "AJ12",
+            "geonames": 146879,
+            "iso_3166_2": "AZ-BEY"
         },
         "long": {
-            "default": "Beyləqan"
+            "default": "Beylagan"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "69",
-            "geonames": 146900
+            "fips": "AJ69",
+            "geonames": 146900,
+            "iso_3166_2": "AZ-ZAN"
         },
         "long": {
-            "default": "Zǝngilan"
+            "default": "Zangilan"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "66",
-            "geonames": 146962
+            "fips": "AJ66",
+            "geonames": 146962,
+            "iso_3166_2": "AZ-YAR"
         },
         "long": {
-            "default": "Yardımlı"
+            "default": "Yardymli"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "55",
-            "geonames": 147163
+            "fips": "AJ55",
+            "geonames": 147163,
+            "iso_3166_2": "AZ-SUS"
         },
         "long": {
-            "default": "Şuşa"
+            "default": "Shusha"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "49",
-            "geonames": 147269
+            "fips": "AJ49",
+            "geonames": 147269,
+            "iso_3166_2": "AZ-SAL"
         },
         "long": {
             "default": "Salyan"
@@ -52,8 +57,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "46",
-            "geonames": 147284
+            "fips": "AJ46",
+            "geonames": 147284,
+            "iso_3166_2": "AZ-SAB"
         },
         "long": {
             "default": "Sabirabad"
@@ -62,48 +68,53 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "45",
-            "geonames": 147287
+            "fips": "AJ45",
+            "geonames": 147287,
+            "iso_3166_2": "AZ-SAT"
         },
         "long": {
-            "default": "Saatlı"
+            "default": "Saatly"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "13",
-            "geonames": 147310
+            "fips": "AJ13",
+            "geonames": 147310,
+            "iso_3166_2": "AZ-BIL"
         },
         "long": {
-            "default": "Bilǝsuvar"
+            "default": "Bilasuvar"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "36",
-            "geonames": 147422
+            "fips": "AJ36",
+            "geonames": 147422,
+            "iso_3166_2": "AZ-NEF"
         },
         "long": {
-            "default": "Neftçala"
+            "default": "Neftchala"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "35",
-            "geonames": 147435
+            "fips": "AJ35",
+            "geonames": 147435,
+            "iso_3166_2": "AZ-NV"
         },
         "long": {
-            "default": "Nakhichevan"
+            "default": "Nakhchivan"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "32",
-            "geonames": 147551
+            "fips": "AJ32",
+            "geonames": 147551,
+            "iso_3166_2": "AZ-MAS"
         },
         "long": {
             "default": "Masally"
@@ -112,8 +123,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "31",
-            "geonames": 147610
+            "fips": "AJ31",
+            "geonames": 147610,
+            "iso_3166_2": "AZ-LER"
         },
         "long": {
             "default": "Lerik"
@@ -122,8 +134,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "29",
-            "geonames": 147613
+            "fips": "AJ29",
+            "geonames": 147613,
+            "iso_3166_2": "AZ-LAN"
         },
         "long": {
             "default": "Lənkəran"
@@ -132,18 +145,20 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "28",
-            "geonames": 147626
+            "fips": "AJ28",
+            "geonames": 147626,
+            "iso_3166_2": "AZ-LAC"
         },
         "long": {
-            "default": "Laçın"
+            "default": "Lachın"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "43",
-            "geonames": 147694
+            "fips": "AJ43",
+            "geonames": 147694,
+            "iso_3166_2": "AZ-QBI"
         },
         "long": {
             "default": "Qubadlı"
@@ -152,28 +167,31 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "24",
-            "geonames": 147983
+            "fips": "AJ24",
+            "geonames": 147983,
+            "iso_3166_2": "AZ-IMI"
         },
         "long": {
-            "default": "İmişli"
+            "default": "Imishli"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "18",
-            "geonames": 148107
+            "fips": "AJ18",
+            "geonames": 148107,
+            "iso_3166_2": "AZ-FUZ"
         },
         "long": {
-            "default": "Füzuli"
+            "default": "Fuzuli"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "14",
-            "geonames": 148140
+            "fips": "AJ14",
+            "geonames": 148140,
+            "iso_3166_2": "AZ-CAB"
         },
         "long": {
             "default": "Jabrayil"
@@ -182,8 +200,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "15",
-            "geonames": 148155
+            "fips": "AJ15",
+            "geonames": 148155,
+            "iso_3166_2": "AZ-CAL"
         },
         "long": {
             "default": "Jalilabad"
@@ -192,8 +211,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "08",
-            "geonames": 148442
+            "fips": "AJ08",
+            "geonames": 148442,
+            "iso_3166_2": "AZ-AST"
         },
         "long": {
             "default": "Astara"
@@ -202,38 +222,42 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "64",
-            "geonames": 148449
+            "fips": "AJ64",
+            "geonames": 148449,
+            "iso_3166_2": "AZ-XCI"
         },
         "long": {
-            "default": "Xocalı"
+            "default": "Khojaly"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "02",
-            "geonames": 148615
+            "fips": "AJ02",
+            "geonames": 148615,
+            "iso_3166_2": "AZ-AGC"
         },
         "long": {
-            "default": "Ağcabǝdi"
+            "default": "Aghjabadi"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "03",
-            "geonames": 148617
+            "fips": "AJ03",
+            "geonames": 148617,
+            "iso_3166_2": "AZ-AGM"
         },
         "long": {
-            "default": "Ağdam"
+            "default": "Agdam"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "07",
-            "geonames": 409417
+            "fips": "AJ07",
+            "geonames": 409417,
+            "iso_3166_2": "AZ-SR"
         },
         "long": {
             "default": "Shirvan"
@@ -242,8 +266,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "30",
-            "geonames": 409418
+            "fips": "AJ30",
+            "geonames": 409418,
+            "iso_3166_2": "AZ-LA"
         },
         "long": {
             "default": "Lankaran Sahari"
@@ -252,38 +277,42 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "56",
-            "geonames": 409419
+            "fips": "AJ56",
+            "geonames": 409419,
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Şuşa Şəhəri"
+            "default": "Shusha Sahari"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "57",
-            "geonames": 409420
+            "fips": "AJ57",
+            "geonames": 409420,
+            "iso_3166_2": "AZ-TAR"
         },
         "long": {
-            "default": "Tǝrtǝr"
+            "default": "Tartar"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "61",
-            "geonames": 409421
+            "fips": "AJ61",
+            "geonames": 409421,
+            "iso_3166_2": "AZ-XA"
         },
         "long": {
-            "default": "Xankǝndi"
+            "default": "Stepanakert"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "65",
-            "geonames": 409423
+            "fips": "AJ65",
+            "geonames": 409423,
+            "iso_3166_2": "AZ-XVD"
         },
         "long": {
             "default": "Khojavend"
@@ -292,8 +321,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "71",
-            "geonames": 584583
+            "fips": "AJ71",
+            "geonames": 584583,
+            "iso_3166_2": "AZ-ZAR"
         },
         "long": {
             "default": "Zərdab"
@@ -302,8 +332,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "70",
-            "geonames": 584604
+            "fips": "AJ70",
+            "geonames": 584604,
+            "iso_3166_2": "AZ-ZAQ"
         },
         "long": {
             "default": "Zaqatala"
@@ -312,8 +343,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "67",
-            "geonames": 584650
+            "fips": "AJ67",
+            "geonames": 584650,
+            "iso_3166_2": "AZ-YEV"
         },
         "long": {
             "default": "Yevlax"
@@ -322,28 +354,31 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "37",
-            "geonames": 584742
+            "fips": "AJ37",
+            "geonames": 584742,
+            "iso_3166_2": "AZ-OGU"
         },
         "long": {
-            "default": "Oğuz"
+            "default": "Oghuz"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "59",
-            "geonames": 584783
+            "fips": "AJ59",
+            "geonames": 584783,
+            "iso_3166_2": "AZ-UCA"
         },
         "long": {
-            "default": "Ucar"
+            "default": "Ujar"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "58",
-            "geonames": 584861
+            "fips": "AJ58",
+            "geonames": 584861,
+            "iso_3166_2": "AZ-TOV"
         },
         "long": {
             "default": "Tovuz"
@@ -352,18 +387,20 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "50",
-            "geonames": 585030
+            "fips": "AJ50",
+            "geonames": 585030,
+            "iso_3166_2": "AZ-SMI"
         },
         "long": {
-            "default": "Şamaxı"
+            "default": "Şhamakhı"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "47",
-            "geonames": 585031
+            "fips": "AJ47",
+            "geonames": 585031,
+            "iso_3166_2": "AZ-SAK"
         },
         "long": {
             "default": "Şǝki"
@@ -372,8 +409,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "51",
-            "geonames": 585059
+            "fips": "AJ51",
+            "geonames": 585059,
+            "iso_3166_2": "AZ-SKR"
         },
         "long": {
             "default": "Şǝmkir"
@@ -382,28 +420,31 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "27",
-            "geonames": 585686
+            "fips": "AJ27",
+            "geonames": 585686,
+            "iso_3166_2": "AZ-KUR"
         },
         "long": {
-            "default": "Kürdǝmir"
+            "default": "Kurdamir"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "38",
-            "geonames": 585738
+            "fips": "AJ38",
+            "geonames": 585738,
+            "iso_3166_2": "AZ-QAB"
         },
         "long": {
-            "default": "Qǝbǝlǝ"
+            "default": "Qbala"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "44",
-            "geonames": 585749
+            "fips": "AJ44",
+            "geonames": 585749,
+            "iso_3166_2": "AZ-QUS"
         },
         "long": {
             "default": "Qusar"
@@ -412,8 +453,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "42",
-            "geonames": 585786
+            "fips": "AJ42",
+            "geonames": 585786,
+            "iso_3166_2": "AZ-QBA"
         },
         "long": {
             "default": "Quba"
@@ -422,28 +464,31 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "62",
-            "geonames": 585967
+            "fips": "AJ62",
+            "geonames": 585967,
+            "iso_3166_2": "AZ-GYG"
         },
         "long": {
-            "default": "Goygol Rayon"
+            "default": "Goygol"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "60",
-            "geonames": 586001
+            "fips": "AJ60",
+            "geonames": 586001,
+            "iso_3166_2": "AZ-XAC"
         },
         "long": {
-            "default": "Xaçmaz"
+            "default": "Khachmaz"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "26",
-            "geonames": 586047
+            "fips": "AJ26",
+            "geonames": 586047,
+            "iso_3166_2": "AZ-KAL"
         },
         "long": {
             "default": "Kalbajar"
@@ -452,18 +497,20 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "40",
-            "geonames": 586087
+            "fips": "AJ40",
+            "geonames": 586087,
+            "iso_3166_2": "AZ-QAZ"
         },
         "long": {
-            "default": "Qazax"
+            "default": "Qazakh"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "21",
-            "geonames": 586112
+            "fips": "AJ21",
+            "geonames": 586112,
+            "iso_3166_2": "AZ-GOR"
         },
         "long": {
             "default": "Goranboy"
@@ -472,38 +519,42 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "39",
-            "geonames": 586290
+            "fips": "AJ39",
+            "geonames": 586290,
+            "iso_3166_2": "AZ-QAX"
         },
         "long": {
-            "default": "Qǝx"
+            "default": "Qakh"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "25",
-            "geonames": 586320
+            "fips": "AJ25",
+            "geonames": 586320,
+            "iso_3166_2": "AZ-ISM"
         },
         "long": {
-            "default": "İsmayıllı"
+            "default": "Ismailli"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "22",
-            "geonames": 586482
+            "fips": "AJ22",
+            "geonames": 586482,
+            "iso_3166_2": "AZ-GOY"
         },
         "long": {
-            "default": "Göyçay"
+            "default": "Goychay"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "17",
-            "geonames": 586725
+            "fips": "AJ17",
+            "geonames": 586725,
+            "iso_3166_2": "AZ-SBN"
         },
         "long": {
             "default": "Shabran"
@@ -512,18 +563,20 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "16",
-            "geonames": 586771
+            "fips": "AJ16",
+            "geonames": 586771,
+            "iso_3166_2": "AZ-DAS"
         },
         "long": {
-            "default": "Daşkǝsǝn"
+            "default": "Dashkasan"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "10",
-            "geonames": 587010
+            "fips": "AJ10",
+            "geonames": 587010,
+            "iso_3166_2": "AZ-BAL"
         },
         "long": {
             "default": "Balakǝn"
@@ -532,8 +585,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "11",
-            "geonames": 587056
+            "fips": "AJ11",
+            "geonames": 587056,
+            "iso_3166_2": "AZ-BAR"
         },
         "long": {
             "default": "Bǝrdǝ"
@@ -542,8 +596,9 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "09",
-            "geonames": 587081
+            "fips": "AJ09",
+            "geonames": 587081,
+            "iso_3166_2": "AZ-BA"
         },
         "long": {
             "default": "Baki"
@@ -552,38 +607,42 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "01",
-            "geonames": 587245
+            "fips": "AJ01",
+            "geonames": 587245,
+            "iso_3166_2": "AZ-ABS"
         },
         "long": {
-            "default": "Abşeron"
+            "default": "Absheron"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "06",
-            "geonames": 587342
+            "fips": "AJ06",
+            "geonames": 587342,
+            "iso_3166_2": "AZ-AGU"
         },
         "long": {
-            "default": "Ağsu"
+            "default": "Agsu"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "04",
-            "geonames": 587376
+            "fips": "AJ04",
+            "geonames": 587376,
+            "iso_3166_2": "AZ-AGS"
         },
         "long": {
-            "default": "Ağdaş"
+            "default": "Agdash"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "19",
-            "geonames": 627535
+            "fips": "AJ19",
+            "geonames": 627535,
+            "iso_3166_2": "AZ-GAD"
         },
         "long": {
             "default": "Gǝdǝbǝy"
@@ -592,38 +651,42 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "05",
-            "geonames": 828297
+            "fips": "AJ05",
+            "geonames": 828297,
+            "iso_3166_2": "AZ-AGA"
         },
         "long": {
-            "default": "Ağstafa"
+            "default": "Agstafa"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "20",
-            "geonames": 828298
+            "fips": "AJ20",
+            "geonames": 828298,
+            "iso_3166_2": "AZ-GA"
         },
         "long": {
-            "default": "Gǝncǝ"
+            "default": "Ganja"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "33",
-            "geonames": 828299
+            "fips": "AJ33",
+            "geonames": 828299,
+            "iso_3166_2": "AZ-MI"
         },
         "long": {
-            "default": "Mingǝcevir"
+            "default": "Mingachevir"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "34",
-            "geonames": 828300
+            "fips": "AJ34",
+            "geonames": 828300,
+            "iso_3166_2": "AZ-NA"
         },
         "long": {
             "default": "Naftalan"
@@ -632,28 +695,31 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "41",
-            "geonames": 828301
+            "fips": "AJ41",
+            "geonames": 828301,
+            "iso_3166_2": "AZ-QOB"
         },
         "long": {
-            "default": "Qobustan"
+            "default": "Gobustan"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "52",
-            "geonames": 828302
+            "fips": "AJ52",
+            "geonames": 828302,
+            "iso_3166_2": "AZ-SMX"
         },
         "long": {
-            "default": "Samux"
+            "default": "Samukh"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "48",
-            "geonames": 828303
+            "fips": "AJ48",
+            "geonames": 828303,
+            "iso_3166_2": "AZ-SA"
         },
         "long": {
             "default": "Shaki City"
@@ -662,18 +728,20 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "53",
-            "geonames": 828304
+            "fips": "AJ53",
+            "geonames": 828304,
+            "iso_3166_2": "AZ-SIY"
         },
         "long": {
-            "default": "Siyǝzǝn"
+            "default": "Siazan"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "54",
-            "geonames": 828305
+            "fips": "AJ54",
+            "geonames": 828305,
+            "iso_3166_2": "AZ-SM"
         },
         "long": {
             "default": "Sumqayit"
@@ -682,41 +750,34 @@
     {
         "parent": "AZ",
         "ids": {
-            "fips": "63",
-            "geonames": 828306
+            "fips": "AJ63",
+            "geonames": 828306,
+            "iso_3166_2": "AZ-XIZ"
         },
         "long": {
-            "default": "Xızı"
+            "default": "Khizi"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "68",
-            "geonames": 828307
+            "fips": "AJ68",
+            "geonames": 828307,
+            "iso_3166_2": "AZ-YE"
         },
         "long": {
-            "default": "Yevlax City"
+            "default": "Yevlakh City"
         }
     },
     {
         "parent": "AZ",
         "ids": {
-            "fips": "23",
-            "geonames": 828315
+            "fips": "AJ23",
+            "geonames": 828315,
+            "iso_3166_2": "AZ-HAC"
         },
         "long": {
-            "default": "Hacıqabul"
-        }
-    },
-    {
-        "parent": "AZ",
-        "ids": {
-            "fips": "75",
-            "geonames": 8411069
-        },
-        "long": {
-            "default": "Nakhchivan"
+            "default": "Hajigabul"
         }
     }
 ]

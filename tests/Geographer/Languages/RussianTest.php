@@ -38,15 +38,30 @@ class RussianTest extends Test
      */
     public function specific_country_has_all_states()
     {
-        $country = (new Earth())->findOneByCode('AU')->setLocale('ru');
+        $country = (new Earth())->findOneByCode('AZ')->setLocale('ru');
         $states = $country->getStates();
+
+        $array = [];
+        $output = [
+            'code' => 0,
+            'long' => [
+                'default' => ''
+            ]
+        ];
 
         foreach ($states as $state) {
             echo "id: " . $state->getCode() . " names: "
                 . $state->inflict('default')->getName() . "  "
                 . $state->inflict('in')->getName() . "  "
                 . $state->inflict('from')->getName() . "\n";
+
+            if (preg_match('/[A-Za-z]+/', $state->inflict('default')->getName())) {
+                $output['code'] = strval($state->getCode());
+                $array[] = $output;
+            }
         }
+
+        echo json_encode($array);
     }
 
     /**

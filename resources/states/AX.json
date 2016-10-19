@@ -2,8 +2,9 @@
     {
         "parent": "AX",
         "ids": {
-            "fips": "211",
-            "geonames": 9611689
+            "fips": false,
+            "geonames": 9611689,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Mariehamns stad"
@@ -12,8 +13,9 @@
     {
         "parent": "AX",
         "ids": {
-            "fips": "212",
-            "geonames": 9611692
+            "fips": false,
+            "geonames": 9611692,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Ålands landsbygd"
@@ -22,8 +24,9 @@
     {
         "parent": "AX",
         "ids": {
-            "fips": "213",
-            "geonames": 9611694
+            "fips": false,
+            "geonames": 9611694,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Ålands skärgård"
