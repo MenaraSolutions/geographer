@@ -2,8 +2,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "01",
-            "geonames": 6930701
+            "fips": false,
+            "geonames": 6930701,
+            "iso_3166_2": "BF-01"
         },
         "long": {
             "default": "Boucle du Mouhoun"
@@ -12,8 +13,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "02",
-            "geonames": 6930703
+            "fips": false,
+            "geonames": 6930703,
+            "iso_3166_2": "BF-02"
         },
         "long": {
             "default": "Cascades"
@@ -22,8 +24,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "03",
-            "geonames": 6930704
+            "fips": "UV05",
+            "geonames": 6930704,
+            "iso_3166_2": "BF-03"
         },
         "long": {
             "default": "Centre"
@@ -32,8 +35,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "04",
-            "geonames": 6930705
+            "fips": "UV06",
+            "geonames": 6930705,
+            "iso_3166_2": "BF-04"
         },
         "long": {
             "default": "Centre-Est"
@@ -42,8 +46,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "05",
-            "geonames": 6930706
+            "fips": "UV07",
+            "geonames": 6930706,
+            "iso_3166_2": "BF-05"
         },
         "long": {
             "default": "Centre-Nord"
@@ -52,8 +57,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "06",
-            "geonames": 6930707
+            "fips": "UV08",
+            "geonames": 6930707,
+            "iso_3166_2": "BF-06"
         },
         "long": {
             "default": "Centre-Ouest"
@@ -62,8 +68,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "07",
-            "geonames": 6930708
+            "fips": false,
+            "geonames": 6930708,
+            "iso_3166_2": "BF-07"
         },
         "long": {
             "default": "Centre-Sud"
@@ -72,8 +79,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "08",
-            "geonames": 6930709
+            "fips": "UV09",
+            "geonames": 6930709,
+            "iso_3166_2": "BF-08"
         },
         "long": {
             "default": "Est"
@@ -82,8 +90,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "09",
-            "geonames": 6930710
+            "fips": "UV10",
+            "geonames": 6930710,
+            "iso_3166_2": "BF-09"
         },
         "long": {
             "default": "Hauts-Bassins"
@@ -92,8 +101,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "10",
-            "geonames": 6930711
+            "fips": "UV11",
+            "geonames": 6930711,
+            "iso_3166_2": "BF-10"
         },
         "long": {
             "default": "Nord"
@@ -102,8 +112,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "11",
-            "geonames": 6930712
+            "fips": false,
+            "geonames": 6930712,
+            "iso_3166_2": "BF-11"
         },
         "long": {
             "default": "Plateau-Central"
@@ -112,8 +123,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "12",
-            "geonames": 6930713
+            "fips": "UV12",
+            "geonames": 6930713,
+            "iso_3166_2": "BF-12"
         },
         "long": {
             "default": "Sahel"
@@ -122,8 +134,9 @@
     {
         "parent": "BF",
         "ids": {
-            "fips": "13",
-            "geonames": 6930714
+            "fips": "UV13",
+            "geonames": 6930714,
+            "iso_3166_2": "BF-13"
         },
         "long": {
             "default": "Sud-Ouest"

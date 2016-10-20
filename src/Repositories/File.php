@@ -205,11 +205,15 @@ class File implements RepositoryInterface
      * @return array
      * @throws ObjectNotFoundException
      * @throws FileNotFoundException
+     * @throws MisconfigurationException
      */
     public function loadJson($path)
     {
         if (! file_exists($path)) throw new FileNotFoundException('File not found: ' . $path);
-        return json_decode(file_get_contents($path), true);
+        $decoded = json_decode(file_get_contents($path), true);
+        if ($decoded === null) throw new MisconfigurationException('Unable to decode JSON for ' . $path);
+
+        return $decoded;
     }
 
     /**

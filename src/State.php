@@ -24,7 +24,7 @@ class State extends Divisible
     protected $exposed = [
         'code' => 'ids.geonames',
         'fipsCode' => 'ids.fips',
-        'isoCode' => 'ids.iso_3166',
+        'isoCode' => 'ids.iso_3166_2',
         'geonamesCode' => 'ids.geonames',
         'name'
     ];
