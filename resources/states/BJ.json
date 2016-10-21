@@ -2,8 +2,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "18",
-            "geonames": 2390719
+            "fips": "BN18",
+            "geonames": 2390719,
+            "iso_3166_2": "BJ-ZO"
         },
         "long": {
             "default": "Zou"
@@ -12,8 +13,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "16",
-            "geonames": 2392325
+            "fips": "BN16",
+            "geonames": 2392325,
+            "iso_3166_2": "BJ-OU"
         },
         "long": {
             "default": "Ouémé"
@@ -22,8 +24,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "15",
-            "geonames": 2392716
+            "fips": "BN15",
+            "geonames": 2392716,
+            "iso_3166_2": "BJ-MO"
         },
         "long": {
             "default": "Mono"
@@ -32,8 +35,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "10",
-            "geonames": 2394992
+            "fips": "BN10",
+            "geonames": 2394992,
+            "iso_3166_2": "BJ-BO"
         },
         "long": {
             "default": "Borgou"
@@ -42,8 +46,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "09",
-            "geonames": 2395504
+            "fips": "BN09",
+            "geonames": 2395504,
+            "iso_3166_2": "BJ-AQ"
         },
         "long": {
             "default": "Atlantique"
@@ -52,18 +57,20 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "08",
-            "geonames": 2395524
+            "fips": "BN08",
+            "geonames": 2395524,
+            "iso_3166_2": "BJ-AK"
         },
         "long": {
-            "default": "Atakora"
+            "default": "Atacora"
         }
     },
     {
         "parent": "BJ",
         "ids": {
-            "fips": "07",
-            "geonames": 2597271
+            "fips": "BN07",
+            "geonames": 2597271,
+            "iso_3166_2": "BJ-AL"
         },
         "long": {
             "default": "Alibori"
@@ -72,8 +79,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "11",
-            "geonames": 2597272
+            "fips": "BN11",
+            "geonames": 2597272,
+            "iso_3166_2": "BJ-CO"
         },
         "long": {
             "default": "Collines"
@@ -82,18 +90,20 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "12",
-            "geonames": 2597273
+            "fips": "BN12",
+            "geonames": 2597273,
+            "iso_3166_2": "BJ-KO"
         },
         "long": {
-            "default": "Kouffo"
+            "default": "Couffo"
         }
     },
     {
         "parent": "BJ",
         "ids": {
-            "fips": "13",
-            "geonames": 2597274
+            "fips": "BN13",
+            "geonames": 2597274,
+            "iso_3166_2": "BJ-DO"
         },
         "long": {
             "default": "Donga"
@@ -102,8 +112,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "14",
-            "geonames": 2597275
+            "fips": "BN14",
+            "geonames": 2597275,
+            "iso_3166_2": "BJ-LI"
         },
         "long": {
             "default": "Littoral"
@@ -112,8 +123,9 @@
     {
         "parent": "BJ",
         "ids": {
-            "fips": "17",
-            "geonames": 2597277
+            "fips": "BN17",
+            "geonames": 2597277,
+            "iso_3166_2": "BJ-PL"
         },
         "long": {
             "default": "Plateau"

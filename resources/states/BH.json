@@ -2,8 +2,9 @@
     {
         "parent": "BH",
         "ids": {
-            "fips": "15",
-            "geonames": 290333
+            "fips": "BA15",
+            "geonames": 290333,
+            "iso_3166_2": "BH-15"
         },
         "long": {
             "default": "Muharraq"
@@ -12,18 +13,20 @@
     {
         "parent": "BH",
         "ids": {
-            "fips": "16",
-            "geonames": 7090954
+            "fips": "BA16",
+            "geonames": 7090954,
+            "iso_3166_2": "BH-13"
         },
         "long": {
-            "default": "Manama"
+            "default": "Capital Governorate"
         }
     },
     {
         "parent": "BH",
         "ids": {
-            "fips": "17",
-            "geonames": 7090972
+            "fips": "BA17",
+            "geonames": 7090972,
+            "iso_3166_2": "BH-14"
         },
         "long": {
             "default": "Southern Governorate"
@@ -32,8 +35,9 @@
     {
         "parent": "BH",
         "ids": {
-            "fips": "18",
-            "geonames": 7090973
+            "fips": "BA18",
+            "geonames": 7090973,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Central Governorate"
@@ -42,8 +46,9 @@
     {
         "parent": "BH",
         "ids": {
-            "fips": "19",
-            "geonames": 7090974
+            "fips": "BA19",
+            "geonames": 7090974,
+            "iso_3166_2": "BH-17"
         },
         "long": {
             "default": "Northern"

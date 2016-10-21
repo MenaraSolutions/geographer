@@ -38,7 +38,7 @@ class RussianTest extends Test
      */
     public function specific_country_has_all_states()
     {
-        $country = (new Earth())->findOneByCode('BG')->setLocale('ru');
+        $country = (new Earth())->findOneByCode('BJ')->setLocale('ru');
         $states = $country->getStates();
 
         $array = [];

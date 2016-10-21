@@ -2,8 +2,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "17",
-            "geonames": 422233
+            "fips": "BY17",
+            "geonames": 422233,
+            "iso_3166_2": "BI-MA"
         },
         "long": {
             "default": "Makamba"
@@ -12,8 +13,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "10",
-            "geonames": 423327
+            "fips": "BY10",
+            "geonames": 423327,
+            "iso_3166_2": "BI-BR"
         },
         "long": {
             "default": "Bururi"
@@ -22,8 +24,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "22",
-            "geonames": 425550
+            "fips": "BY22",
+            "geonames": 425550,
+            "iso_3166_2": "BI-MU"
         },
         "long": {
             "default": "Muramvya"
@@ -32,8 +35,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "13",
-            "geonames": 426271
+            "fips": "BY13",
+            "geonames": 426271,
+            "iso_3166_2": "BI-GI"
         },
         "long": {
             "default": "Gitega"
@@ -42,8 +46,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "21",
-            "geonames": 426699
+            "fips": "BY21",
+            "geonames": 426699,
+            "iso_3166_2": "BI-RY"
         },
         "long": {
             "default": "Ruyigi"
@@ -52,8 +57,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "11",
-            "geonames": 427700
+            "fips": "BY11",
+            "geonames": 427700,
+            "iso_3166_2": "BI-CA"
         },
         "long": {
             "default": "Cankuzo"
@@ -62,8 +68,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "14",
-            "geonames": 428218
+            "fips": "BY14",
+            "geonames": 428218,
+            "iso_3166_2": "BI-KR"
         },
         "long": {
             "default": "Karuzi"
@@ -72,8 +79,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "09",
-            "geonames": 428514
+            "fips": "BY09",
+            "geonames": 428514,
+            "iso_3166_2": "BI-BB"
         },
         "long": {
             "default": "Bubanza"
@@ -82,8 +90,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "12",
-            "geonames": 430020
+            "fips": "BY12",
+            "geonames": 430020,
+            "iso_3166_2": "BI-CI"
         },
         "long": {
             "default": "Cibitoke"
@@ -92,8 +101,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "19",
-            "geonames": 430567
+            "fips": "BY19",
+            "geonames": 430567,
+            "iso_3166_2": "BI-NG"
         },
         "long": {
             "default": "Ngozi"
@@ -102,8 +112,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "15",
-            "geonames": 430951
+            "fips": "BY15",
+            "geonames": 430951,
+            "iso_3166_2": "BI-KY"
         },
         "long": {
             "default": "Kayanza"
@@ -112,8 +123,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "18",
-            "geonames": 431747
+            "fips": "BY18",
+            "geonames": 431747,
+            "iso_3166_2": "BI-MY"
         },
         "long": {
             "default": "Muyinga"
@@ -122,8 +134,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "16",
-            "geonames": 432455
+            "fips": "BY16",
+            "geonames": 432455,
+            "iso_3166_2": "BI-KI"
         },
         "long": {
             "default": "Kirundo"
@@ -132,8 +145,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "20",
-            "geonames": 434147
+            "fips": "BY20",
+            "geonames": 434147,
+            "iso_3166_2": "BI-RT"
         },
         "long": {
             "default": "Rutana"
@@ -142,8 +156,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "23",
-            "geonames": 434386
+            "fips": "BY23",
+            "geonames": 434386,
+            "iso_3166_2": "BI-MW"
         },
         "long": {
             "default": "Mwaro"
@@ -152,8 +167,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "24",
-            "geonames": 7303939
+            "fips": "BY24",
+            "geonames": 7303939,
+            "iso_3166_2": "BI-BM"
         },
         "long": {
             "default": "Bujumbura Mairie"
@@ -162,8 +178,9 @@
     {
         "parent": "BI",
         "ids": {
-            "fips": "25",
-            "geonames": 7303940
+            "fips": "BY25",
+            "geonames": 7303940,
+            "iso_3166_2": "BI-BL"
         },
         "long": {
             "default": "Bujumbura Rural"
