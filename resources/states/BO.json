@@ -2,8 +2,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "09",
-            "geonames": 3903319
+            "fips": "BL09",
+            "geonames": 3903319,
+            "iso_3166_2": "BO-T"
         },
         "long": {
             "default": "Tarija"
@@ -12,8 +13,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "08",
-            "geonames": 3904907
+            "fips": "BL08",
+            "geonames": 3904907,
+            "iso_3166_2": "BO-S"
         },
         "long": {
             "default": "Santa Cruz"
@@ -22,8 +24,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "07",
-            "geonames": 3907580
+            "fips": "BL07",
+            "geonames": 3907580,
+            "iso_3166_2": "BO-P"
         },
         "long": {
             "default": "Potosí"
@@ -32,8 +35,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "06",
-            "geonames": 3908600
+            "fips": "BL06",
+            "geonames": 3908600,
+            "iso_3166_2": "BO-N"
         },
         "long": {
             "default": "Pando"
@@ -42,8 +46,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "05",
-            "geonames": 3909233
+            "fips": "BL05",
+            "geonames": 3909233,
+            "iso_3166_2": "BO-O"
         },
         "long": {
             "default": "Oruro"
@@ -52,8 +57,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "04",
-            "geonames": 3911924
+            "fips": "BL04",
+            "geonames": 3911924,
+            "iso_3166_2": "BO-L"
         },
         "long": {
             "default": "La Paz"
@@ -62,8 +68,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "02",
-            "geonames": 3919966
+            "fips": "BL02",
+            "geonames": 3919966,
+            "iso_3166_2": "BO-C"
         },
         "long": {
             "default": "Cochabamba"
@@ -72,8 +79,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "01",
-            "geonames": 3920177
+            "fips": "BL01",
+            "geonames": 3920177,
+            "iso_3166_2": "BO-H"
         },
         "long": {
             "default": "Chuquisaca"
@@ -82,8 +90,9 @@
     {
         "parent": "BO",
         "ids": {
-            "fips": "03",
-            "geonames": 3923172
+            "fips": "BL03",
+            "geonames": 3923172,
+            "iso_3166_2": "BO-B"
         },
         "long": {
             "default": "El Beni"

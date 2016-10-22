@@ -2,8 +2,9 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "11",
-            "geonames": 3572972
+            "fips": "BD11",
+            "geonames": 3572972,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Warwick"
@@ -12,8 +13,9 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "10",
-            "geonames": 3573026
+            "fips": "BD10",
+            "geonames": 3573026,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Southampton"
@@ -22,8 +24,9 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "09",
-            "geonames": 3573031
+            "fips": "BD09",
+            "geonames": 3573031,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Smithʼs"
@@ -32,8 +35,9 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "08",
-            "geonames": 3573050
+            "fips": "BD08",
+            "geonames": 3573050,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Sandys"
@@ -42,28 +46,31 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "07",
-            "geonames": 3573057
+            "fips": "BD07",
+            "geonames": 3573057,
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Saint Georgeʼs"
+            "default": "Saint Georgeʼs Parish"
         }
     },
     {
         "parent": "BM",
         "ids": {
-            "fips": "06",
-            "geonames": 3573062
+            "fips": "BD06",
+            "geonames": 3573062,
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Saint George"
+            "default": "Saint George City"
         }
     },
     {
         "parent": "BM",
         "ids": {
-            "fips": "05",
-            "geonames": 3573095
+            "fips": "BD05",
+            "geonames": 3573095,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Pembroke"
@@ -72,8 +79,9 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "04",
-            "geonames": 3573103
+            "fips": "BD04",
+            "geonames": 3573103,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Paget"
@@ -82,8 +90,9 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "02",
-            "geonames": 3573195
+            "fips": "BD02",
+            "geonames": 3573195,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Hamilton Parish"
@@ -92,18 +101,20 @@
     {
         "parent": "BM",
         "ids": {
-            "fips": "03",
-            "geonames": 3573198
+            "fips": "BD03",
+            "geonames": 3573198,
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Hamilton city"
+            "default": "Hamilton City"
         }
     },
     {
         "parent": "BM",
         "ids": {
-            "fips": "01",
-            "geonames": 3573251
+            "fips": "BD01",
+            "geonames": 3573251,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Devonshire"

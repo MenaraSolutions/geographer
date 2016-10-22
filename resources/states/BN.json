@@ -2,8 +2,9 @@
     {
         "parent": "BN",
         "ids": {
-            "fips": "04",
-            "geonames": 1820068
+            "fips": "BX04",
+            "geonames": 1820068,
+            "iso_3166_2": "BN-TU"
         },
         "long": {
             "default": "Tutong"
@@ -12,8 +13,9 @@
     {
         "parent": "BN",
         "ids": {
-            "fips": "03",
-            "geonames": 1820106
+            "fips": "BX03",
+            "geonames": 1820106,
+            "iso_3166_2": "BN-TE"
         },
         "long": {
             "default": "Temburong"
@@ -22,18 +24,20 @@
     {
         "parent": "BN",
         "ids": {
-            "fips": "02",
-            "geonames": 1820818
+            "fips": "BX02",
+            "geonames": 1820818,
+            "iso_3166_2": "BN-BM"
         },
         "long": {
-            "default": "Brunei and Muara"
+            "default": "Brunei-Muara"
         }
     },
     {
         "parent": "BN",
         "ids": {
-            "fips": "01",
-            "geonames": 1820869
+            "fips": "BX01",
+            "geonames": 1820869,
+            "iso_3166_2": "BN-BE"
         },
         "long": {
             "default": "Belait"
