@@ -2,8 +2,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "22",
-            "geonames": 3390290
+            "fips": "BR22",
+            "geonames": 3390290,
+            "iso_3166_2": "BR-RN"
         },
         "long": {
             "default": "Rio Grande do Norte"
@@ -12,8 +13,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "20",
-            "geonames": 3392213
+            "fips": "BR20",
+            "geonames": 3392213,
+            "iso_3166_2": "BR-PI"
         },
         "long": {
             "default": "Piauí"
@@ -22,8 +24,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "30",
-            "geonames": 3392268
+            "fips": "BR30",
+            "geonames": 3392268,
+            "iso_3166_2": "BR-PE"
         },
         "long": {
             "default": "Pernambuco"
@@ -32,8 +35,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "17",
-            "geonames": 3393098
+            "fips": "BR17",
+            "geonames": 3393098,
+            "iso_3166_2": "BR-PB"
         },
         "long": {
             "default": "Paraíba"
@@ -42,8 +46,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "16",
-            "geonames": 3393129
+            "fips": "BR16",
+            "geonames": 3393129,
+            "iso_3166_2": "BR-PA"
         },
         "long": {
             "default": "Pará"
@@ -52,8 +57,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "13",
-            "geonames": 3395443
+            "fips": "BR13",
+            "geonames": 3395443,
+            "iso_3166_2": "BR-MA"
         },
         "long": {
             "default": "Maranhão"
@@ -62,8 +68,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "06",
-            "geonames": 3402362
+            "fips": "BR06",
+            "geonames": 3402362,
+            "iso_3166_2": "BR-CE"
         },
         "long": {
             "default": "Ceará"
@@ -72,8 +79,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "03",
-            "geonames": 3407762
+            "fips": "BR03",
+            "geonames": 3407762,
+            "iso_3166_2": "BR-AP"
         },
         "long": {
             "default": "Amapá"
@@ -82,8 +90,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "02",
-            "geonames": 3408096
+            "fips": "BR02",
+            "geonames": 3408096,
+            "iso_3166_2": "BR-AL"
         },
         "long": {
             "default": "Alagoas"
@@ -92,8 +101,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "28",
-            "geonames": 3447799
+            "fips": "BR28",
+            "geonames": 3447799,
+            "iso_3166_2": "BR-SE"
         },
         "long": {
             "default": "Sergipe"
@@ -102,8 +112,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "27",
-            "geonames": 3448433
+            "fips": "BR27",
+            "geonames": 3448433,
+            "iso_3166_2": "BR-SP"
         },
         "long": {
             "default": "São Paulo"
@@ -112,8 +123,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "26",
-            "geonames": 3450387
+            "fips": "BR26",
+            "geonames": 3450387,
+            "iso_3166_2": "BR-SC"
         },
         "long": {
             "default": "Santa Catarina"
@@ -122,8 +134,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "23",
-            "geonames": 3451133
+            "fips": "BR23",
+            "geonames": 3451133,
+            "iso_3166_2": "BR-RS"
         },
         "long": {
             "default": "Rio Grande do Sul"
@@ -132,8 +145,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "21",
-            "geonames": 3451189
+            "fips": "BR21",
+            "geonames": 3451189,
+            "iso_3166_2": "BR-RJ"
         },
         "long": {
             "default": "Rio de Janeiro"
@@ -142,8 +156,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "18",
-            "geonames": 3455077
+            "fips": "BR18",
+            "geonames": 3455077,
+            "iso_3166_2": "BR-PR"
         },
         "long": {
             "default": "Paraná"
@@ -152,8 +167,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "15",
-            "geonames": 3457153
+            "fips": "BR15",
+            "geonames": 3457153,
+            "iso_3166_2": "BR-MG"
         },
         "long": {
             "default": "Minas Gerais"
@@ -162,8 +178,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "11",
-            "geonames": 3457415
+            "fips": "BR11",
+            "geonames": 3457415,
+            "iso_3166_2": "BR-MS"
         },
         "long": {
             "default": "Mato Grosso do Sul"
@@ -172,8 +189,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "14",
-            "geonames": 3457419
+            "fips": "BR14",
+            "geonames": 3457419,
+            "iso_3166_2": "BR-MT"
         },
         "long": {
             "default": "Mato Grosso"
@@ -182,8 +200,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "29",
-            "geonames": 3462372
+            "fips": "BR29",
+            "geonames": 3462372,
+            "iso_3166_2": "BR-GO"
         },
         "long": {
             "default": "Goiás"
@@ -192,18 +211,20 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "07",
-            "geonames": 3463504
+            "fips": "BR07",
+            "geonames": 3463504,
+            "iso_3166_2": "BR-DF"
         },
         "long": {
-            "default": "Federal District"
+            "default": "Distrito Federal"
         }
     },
     {
         "parent": "BR",
         "ids": {
-            "fips": "08",
-            "geonames": 3463930
+            "fips": "BR08",
+            "geonames": 3463930,
+            "iso_3166_2": "BR-ES"
         },
         "long": {
             "default": "Espírito Santo"
@@ -212,8 +233,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "05",
-            "geonames": 3471168
+            "fips": "BR05",
+            "geonames": 3471168,
+            "iso_3166_2": "BR-BA"
         },
         "long": {
             "default": "Bahia"
@@ -222,8 +244,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "31",
-            "geonames": 3474575
+            "fips": "BR31",
+            "geonames": 3474575,
+            "iso_3166_2": "BR-TO"
         },
         "long": {
             "default": "Tocantins"
@@ -232,8 +255,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "25",
-            "geonames": 3662560
+            "fips": "BR25",
+            "geonames": 3662560,
+            "iso_3166_2": "BR-RR"
         },
         "long": {
             "default": "Roraima"
@@ -242,8 +266,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "04",
-            "geonames": 3665361
+            "fips": "BR04",
+            "geonames": 3665361,
+            "iso_3166_2": "BR-AM"
         },
         "long": {
             "default": "Amazonas"
@@ -252,8 +277,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "01",
-            "geonames": 3665474
+            "fips": "BR01",
+            "geonames": 3665474,
+            "iso_3166_2": "BR-AC"
         },
         "long": {
             "default": "Acre"
@@ -262,8 +288,9 @@
     {
         "parent": "BR",
         "ids": {
-            "fips": "24",
-            "geonames": 3924825
+            "fips": "BR24",
+            "geonames": 3924825,
+            "iso_3166_2": "BR-RO"
         },
         "long": {
             "default": "Rondônia"

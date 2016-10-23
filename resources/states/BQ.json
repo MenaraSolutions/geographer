@@ -2,8 +2,9 @@
     {
         "parent": "BQ",
         "ids": {
-            "fips": "BO",
-            "geonames": 7609816
+            "fips": false,
+            "geonames": 7609816,
+            "iso_3166_2": "BQ-BO"
         },
         "long": {
             "default": "Bonaire"
@@ -12,8 +13,9 @@
     {
         "parent": "BQ",
         "ids": {
-            "fips": "SB",
-            "geonames": 7610358
+            "fips": false,
+            "geonames": 7610358,
+            "iso_3166_2": "BQ-SA"
         },
         "long": {
             "default": "Saba"
@@ -22,8 +24,9 @@
     {
         "parent": "BQ",
         "ids": {
-            "fips": "SE",
-            "geonames": 7610359
+            "fips": false,
+            "geonames": 7610359,
+            "iso_3166_2": "BQ-SE"
         },
         "long": {
             "default": "Sint Eustatius"
