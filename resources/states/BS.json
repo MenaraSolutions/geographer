@@ -2,8 +2,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "35",
-            "geonames": 3571493
+            "fips": "BF35",
+            "geonames": 3571493,
+            "iso_3166_2": "BS-SS"
         },
         "long": {
             "default": "San Salvador"
@@ -12,8 +13,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "18",
-            "geonames": 3571629
+            "fips": "BF18",
+            "geonames": 3571629,
+            "iso_3166_2": "BS-RI"
         },
         "long": {
             "default": "Ragged Island"
@@ -22,8 +24,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "32",
-            "geonames": 3571809
+            "fips": "BF32",
+            "geonames": 3571809,
+            "iso_3166_2": "BS-BY"
         },
         "long": {
             "default": "Berry Islands"
@@ -32,8 +35,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "23",
-            "geonames": 3571815
+            "fips": "BF23",
+            "geonames": 3571815,
+            "iso_3166_2": false
         },
         "long": {
             "default": "New Providence"
@@ -42,8 +46,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "16",
-            "geonames": 3571894
+            "fips": "BF16",
+            "geonames": 3571894,
+            "iso_3166_2": "BS-MG"
         },
         "long": {
             "default": "Mayaguana"
@@ -52,8 +57,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "15",
-            "geonames": 3572005
+            "fips": "BF15",
+            "geonames": 3572005,
+            "iso_3166_2": "BS-LI"
         },
         "long": {
             "default": "Long Island"
@@ -62,8 +68,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "13",
-            "geonames": 3572154
+            "fips": "BF13",
+            "geonames": 3572154,
+            "iso_3166_2": "BS-IN"
         },
         "long": {
             "default": "Inagua"
@@ -72,8 +79,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "22",
-            "geonames": 3572238
+            "fips": "BF22",
+            "geonames": 3572238,
+            "iso_3166_2": "BS-HI"
         },
         "long": {
             "default": "Harbour Island"
@@ -82,8 +90,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "25",
-            "geonames": 3572374
+            "fips": "BF25",
+            "geonames": 3572374,
+            "iso_3166_2": "BS-FP"
         },
         "long": {
             "default": "Freeport"
@@ -92,8 +101,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "10",
-            "geonames": 3572427
+            "fips": "BF10",
+            "geonames": 3572427,
+            "iso_3166_2": "BS-EX"
         },
         "long": {
             "default": "Exuma"
@@ -102,8 +112,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "06",
-            "geonames": 3572678
+            "fips": "BF06",
+            "geonames": 3572678,
+            "iso_3166_2": "BS-CI"
         },
         "long": {
             "default": "Cat Island"
@@ -112,8 +123,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "05",
-            "geonames": 3572807
+            "fips": "BF05",
+            "geonames": 3572807,
+            "iso_3166_2": "BS-BI"
         },
         "long": {
             "default": "Bimini"
@@ -122,8 +134,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "24",
-            "geonames": 3572937
+            "fips": "BF24",
+            "geonames": 3572937,
+            "iso_3166_2": "BS-AK"
         },
         "long": {
             "default": "Acklins"
@@ -132,8 +145,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "36",
-            "geonames": 8030541
+            "fips": "BF36",
+            "geonames": 8030541,
+            "iso_3166_2": "BS-BP"
         },
         "long": {
             "default": "Black Point"
@@ -142,8 +156,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "37",
-            "geonames": 8030542
+            "fips": "BF37",
+            "geonames": 8030542,
+            "iso_3166_2": "BS-CO"
         },
         "long": {
             "default": "Central Abaco"
@@ -152,8 +167,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "38",
-            "geonames": 8030543
+            "fips": "BF38",
+            "geonames": 8030543,
+            "iso_3166_2": "BS-CS"
         },
         "long": {
             "default": "Central Andros"
@@ -162,8 +178,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "39",
-            "geonames": 8030544
+            "fips": "BF39",
+            "geonames": 8030544,
+            "iso_3166_2": "BS-CE"
         },
         "long": {
             "default": "Central Eleuthera"
@@ -172,8 +189,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "40",
-            "geonames": 8030545
+            "fips": "BF40",
+            "geonames": 8030545,
+            "iso_3166_2": "BS-CK"
         },
         "long": {
             "default": "Crooked Island and Long Cay"
@@ -182,8 +200,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "41",
-            "geonames": 8030546
+            "fips": "BF41",
+            "geonames": 8030546,
+            "iso_3166_2": "BS-EG"
         },
         "long": {
             "default": "East Grand Bahama"
@@ -192,8 +211,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "42",
-            "geonames": 8030547
+            "fips": "BF42",
+            "geonames": 8030547,
+            "iso_3166_2": "BS-GC"
         },
         "long": {
             "default": "Grand Cay"
@@ -202,8 +222,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "43",
-            "geonames": 8030548
+            "fips": "BF43",
+            "geonames": 8030548,
+            "iso_3166_2": "BS-HT"
         },
         "long": {
             "default": "Hope Town"
@@ -212,8 +233,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "44",
-            "geonames": 8030549
+            "fips": "BF44",
+            "geonames": 8030549,
+            "iso_3166_2": "BS-MC"
         },
         "long": {
             "default": "Mangrove Cay"
@@ -222,8 +244,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "45",
-            "geonames": 8030550
+            "fips": "BF45",
+            "geonames": 8030550,
+            "iso_3166_2": "BS-MI"
         },
         "long": {
             "default": "Moore’s Island"
@@ -232,8 +255,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "46",
-            "geonames": 8030551
+            "fips": "BF46",
+            "geonames": 8030551,
+            "iso_3166_2": "BS-NO"
         },
         "long": {
             "default": "North Abaco"
@@ -242,8 +266,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "47",
-            "geonames": 8030552
+            "fips": "BF47",
+            "geonames": 8030552,
+            "iso_3166_2": "BS-NS"
         },
         "long": {
             "default": "North Andros"
@@ -252,8 +277,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "48",
-            "geonames": 8030553
+            "fips": "BF48",
+            "geonames": 8030553,
+            "iso_3166_2": "BS-NE"
         },
         "long": {
             "default": "North Eleuthera"
@@ -262,8 +288,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "49",
-            "geonames": 8030554
+            "fips": "BF49",
+            "geonames": 8030554,
+            "iso_3166_2": "BS-RC"
         },
         "long": {
             "default": "Rum Cay"
@@ -272,8 +299,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "50",
-            "geonames": 8030555
+            "fips": "BF50",
+            "geonames": 8030555,
+            "iso_3166_2": "BS-SO"
         },
         "long": {
             "default": "South Abaco"
@@ -282,8 +310,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "51",
-            "geonames": 8030556
+            "fips": "BF51",
+            "geonames": 8030556,
+            "iso_3166_2": "BS-SA"
         },
         "long": {
             "default": "South Andros"
@@ -292,8 +321,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "52",
-            "geonames": 8030557
+            "fips": "BF52",
+            "geonames": 8030557,
+            "iso_3166_2": "BS-SE"
         },
         "long": {
             "default": "South Eleuthera"
@@ -302,8 +332,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "53",
-            "geonames": 8030558
+            "fips": "BF53",
+            "geonames": 8030558,
+            "iso_3166_2": "BS-SW"
         },
         "long": {
             "default": "Spanish Wells"
@@ -312,8 +343,9 @@
     {
         "parent": "BS",
         "ids": {
-            "fips": "54",
-            "geonames": 8030559
+            "fips": "BF54",
+            "geonames": 8030559,
+            "iso_3166_2": "BS-WG"
         },
         "long": {
             "default": "West Grand Bahama"
