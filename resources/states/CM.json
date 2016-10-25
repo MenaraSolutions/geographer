@@ -3,7 +3,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM09",
-            "geonames": 2221788
+            "geonames": 2221788,
+            "iso_3166_2": "CM-SW"
         },
         "long": {
             "default": "South-West"
@@ -13,7 +14,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM14",
-            "geonames": 2221789
+            "geonames": 2221789,
+            "iso_3166_2": "CM-SU"
         },
         "long": {
             "default": "South"
@@ -23,7 +25,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM08",
-            "geonames": 2222934
+            "geonames": 2222934,
+            "iso_3166_2": "CM-OU"
         },
         "long": {
             "default": "West"
@@ -33,7 +36,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM07",
-            "geonames": 2223602
+            "geonames": 2223602,
+            "iso_3166_2": "CM-NW"
         },
         "long": {
             "default": "North-West"
@@ -43,7 +47,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM13",
-            "geonames": 2223603
+            "geonames": 2223603,
+            "iso_3166_2": "CM-NO"
         },
         "long": {
             "default": "North"
@@ -53,7 +58,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM05",
-            "geonames": 2229336
+            "geonames": 2229336,
+            "iso_3166_2": "CM-LT"
         },
         "long": {
             "default": "Littoral"
@@ -63,7 +69,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM12",
-            "geonames": 2231755
+            "geonames": 2231755,
+            "iso_3166_2": "CM-EN"
         },
         "long": {
             "default": "Far North"
@@ -73,7 +80,8 @@
         "parent": "CM",
         "ids": {
             "fips": "CM04",
-            "geonames": 2231835
+            "geonames": 2231835,
+            "iso_3166_2": "CM-ES"
         },
         "long": {
             "default": "East"
