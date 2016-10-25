@@ -2,8 +2,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "27",
-            "geonames": 3492112
+            "fips": "DR27",
+            "geonames": 3492112,
+            "iso_3166_2": "DO-27"
         },
         "long": {
             "default": "Valverde"
@@ -12,8 +13,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "26",
-            "geonames": 3492912
+            "fips": "DR26",
+            "geonames": 3492912,
+            "iso_3166_2": "DO-26"
         },
         "long": {
             "default": "Santiago Rodríguez"
@@ -22,8 +24,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "25",
-            "geonames": 3492918
+            "fips": "DR25",
+            "geonames": 3492918,
+            "iso_3166_2": "DO-25"
         },
         "long": {
             "default": "Santiago"
@@ -32,7 +35,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "24",
+            "fips": "DR24",
             "geonames": 3493031
         },
         "long": {
@@ -42,7 +45,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "23",
+            "fips": "DR23",
             "geonames": 3493091
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "33",
+            "fips": "DR33",
             "geonames": 3493186
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "21",
+            "fips": "DR21",
             "geonames": 3493192
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "20",
+            "fips": "DR20",
             "geonames": 3493232
         },
         "long": {
@@ -82,7 +85,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "19",
+            "fips": "DR19",
             "geonames": 3493282
         },
         "long": {
@@ -92,8 +95,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "18",
-            "geonames": 3494267
+            "fips": "DR18",
+            "geonames": 3494267,
+            "iso_3166_2": "DO-18"
         },
         "long": {
             "default": "Puerto Plata"
@@ -102,8 +106,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "35",
-            "geonames": 3495015
+            "fips": "DR35",
+            "geonames": 3495015,
+            "iso_3166_2": "DO-17"
         },
         "long": {
             "default": "Peravia"
@@ -112,8 +117,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "16",
-            "geonames": 3495136
+            "fips": "DR16",
+            "geonames": 3495136,
+            "iso_3166_2": "DO-16"
         },
         "long": {
             "default": "Pedernales"
@@ -122,7 +128,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "34",
+            "fips": "DR34",
             "geonames": 3496024
         },
         "long": {
@@ -132,8 +138,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "32",
-            "geonames": 3496132
+            "fips": "DR32",
+            "geonames": 3496132,
+            "iso_3166_2": "DO-29"
         },
         "long": {
             "default": "Monte Plata"
@@ -142,8 +149,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "15",
-            "geonames": 3496200
+            "fips": "DR15",
+            "geonames": 3496200,
+            "iso_3166_2": "DO-15"
         },
         "long": {
             "default": "Monte Cristi"
@@ -152,7 +160,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "31",
+            "fips": "DR31",
             "geonames": 3496274
         },
         "long": {
@@ -162,7 +170,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "14",
+            "fips": "DR14",
             "geonames": 3496772
         },
         "long": {
@@ -172,8 +180,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "30",
-            "geonames": 3499977
+            "fips": "DR30",
+            "geonames": 3499977,
+            "iso_3166_2": "DO-13"
         },
         "long": {
             "default": "La Vega"
@@ -182,8 +191,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "12",
-            "geonames": 3500955
+            "fips": "DR12",
+            "geonames": 3500955,
+            "iso_3166_2": "DO-12"
         },
         "long": {
             "default": "La Romana"
@@ -192,8 +202,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "10",
-            "geonames": 3503706
+            "fips": "DR10",
+            "geonames": 3503706,
+            "iso_3166_2": "DO-11"
         },
         "long": {
             "default": "La Altagracia"
@@ -202,8 +213,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "09",
-            "geonames": 3504326
+            "fips": "DR09",
+            "geonames": 3504326,
+            "iso_3166_2": "DO-10"
         },
         "long": {
             "default": "Independencia"
@@ -212,8 +224,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "29",
-            "geonames": 3504766
+            "fips": "DR29",
+            "geonames": 3504766,
+            "iso_3166_2": "DO-30"
         },
         "long": {
             "default": "Hato Mayor"
@@ -222,8 +235,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "08",
-            "geonames": 3505867
+            "fips": "DR08",
+            "geonames": 3505867,
+            "iso_3166_2": "DO-09"
         },
         "long": {
             "default": "Espaillat"
@@ -232,7 +246,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "28",
+            "fips": "DR28",
             "geonames": 3506189
         },
         "long": {
@@ -242,7 +256,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "11",
+            "fips": "DR11",
             "geonames": 3507269
         },
         "long": {
@@ -252,8 +266,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "06",
-            "geonames": 3508718
+            "fips": "DR06",
+            "geonames": 3508718,
+            "iso_3166_2": "DO-06"
         },
         "long": {
             "default": "Duarte"
@@ -262,7 +277,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "04",
+            "fips": "DR04",
             "geonames": 3508951
         },
         "long": {
@@ -272,8 +287,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "03",
-            "geonames": 3512042
+            "fips": "DR03",
+            "geonames": 3512042,
+            "iso_3166_2": "DO-04"
         },
         "long": {
             "default": "Barahona"
@@ -282,8 +298,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "02",
-            "geonames": 3512050
+            "fips": "DR02",
+            "geonames": 3512050,
+            "iso_3166_2": "DO-03"
         },
         "long": {
             "default": "Baoruco"
@@ -292,8 +309,9 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "01",
-            "geonames": 3512209
+            "fips": "DR01",
+            "geonames": 3512209,
+            "iso_3166_2": "DO-02"
         },
         "long": {
             "default": "Azua"
@@ -302,7 +320,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "36",
+            "fips": "DR36",
             "geonames": 6201372
         },
         "long": {
@@ -312,7 +330,7 @@
     {
         "parent": "DO",
         "ids": {
-            "fips": "37",
+            "fips": "DR37",
             "geonames": 6201373
         },
         "long": {

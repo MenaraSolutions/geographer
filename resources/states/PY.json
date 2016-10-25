@@ -2,8 +2,9 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "17",
-            "geonames": 3437027
+            "fips": "PA17",
+            "geonames": 3437027,
+            "iso_3166_2": "PY-2"
         },
         "long": {
             "default": "San Pedro"
@@ -12,8 +13,9 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "16",
-            "geonames": 3437443
+            "fips": "PA16",
+            "geonames": 3437443,
+            "iso_3166_2": "PY-15"
         },
         "long": {
             "default": "Presidente Hayes"
@@ -22,7 +24,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "15",
+            "fips": "PA15",
             "geonames": 3437599
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "13",
+            "fips": "PA13",
             "geonames": 3437677
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "12",
+            "fips": "PA12",
             "geonames": 3437727
         },
         "long": {
@@ -52,7 +54,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "11",
+            "fips": "PA11",
             "geonames": 3437923
         },
         "long": {
@@ -62,7 +64,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "10",
+            "fips": "PA10",
             "geonames": 3438049
         },
         "long": {
@@ -72,8 +74,9 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "08",
-            "geonames": 3438827
+            "fips": "PA08",
+            "geonames": 3438827,
+            "iso_3166_2": "PY-3"
         },
         "long": {
             "default": "Cordillera"
@@ -82,7 +85,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "07",
+            "fips": "PA07",
             "geonames": 3438833
         },
         "long": {
@@ -92,7 +95,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "06",
+            "fips": "PA06",
             "geonames": 3439137
         },
         "long": {
@@ -102,7 +105,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "19",
+            "fips": "PA19",
             "geonames": 3439216
         },
         "long": {
@@ -112,7 +115,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "05",
+            "fips": "PA05",
             "geonames": 3439296
         },
         "long": {
@@ -122,7 +125,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "04",
+            "fips": "PA04",
             "geonames": 3439312
         },
         "long": {
@@ -132,8 +135,9 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "02",
-            "geonames": 3439433
+            "fips": "PA02",
+            "geonames": 3439433,
+            "iso_3166_2": "PY-13"
         },
         "long": {
             "default": "Amambay"
@@ -142,7 +146,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "01",
+            "fips": "PA01",
             "geonames": 3439440
         },
         "long": {
@@ -152,8 +156,9 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "23",
-            "geonames": 3439441
+            "fips": "PA23",
+            "geonames": 3439441,
+            "iso_3166_2": "PY-16"
         },
         "long": {
             "default": "Alto Paraguay"
@@ -162,7 +167,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "22",
+            "fips": "PA22",
             "geonames": 3474570
         },
         "long": {
@@ -172,7 +177,7 @@
     {
         "parent": "PY",
         "ids": {
-            "fips": "24",
+            "fips": "PA24",
             "geonames": 3867442
         },
         "long": {

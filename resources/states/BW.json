@@ -2,48 +2,53 @@
     {
         "parent": "BW",
         "ids": {
-            "fips": "10",
-            "geonames": 933043
+            "fips": "BC10",
+            "geonames": 933043,
+            "iso_3166_2": "BW-SO"
         },
         "long": {
-            "default": "Ngwaketsi"
+            "default": "Southern"
         }
     },
     {
         "parent": "BW",
         "ids": {
-            "fips": "09",
-            "geonames": 933044
+            "fips": "BC09",
+            "geonames": 933044,
+            "iso_3166_2": "BW-SE"
         },
         "long": {
-            "default": "South-East"
+            "default": "South East"
         }
     },
     {
         "parent": "BW",
         "ids": {
-            "fips": "08",
-            "geonames": 933210
+            "fips": "BC08",
+            "geonames": 933210,
+            "iso_3166_2": "BW-NE"
         },
         "long": {
-            "default": "North-East"
+            "default": "North East"
         }
     },
     {
         "parent": "BW",
         "ids": {
-            "fips": "11",
-            "geonames": 933230
+            "fips": "BC11",
+            "geonames": 933230,
+            "iso_3166_2": "BW-NW"
         },
         "long": {
-            "default": "North-West"
+            "default": "North West"
         }
     },
     {
         "parent": "BW",
         "ids": {
-            "fips": "06",
-            "geonames": 933562
+            "fips": "BC06",
+            "geonames": 933562,
+            "iso_3166_2": "BW-KW"
         },
         "long": {
             "default": "Kweneng"
@@ -52,8 +57,9 @@
     {
         "parent": "BW",
         "ids": {
-            "fips": "05",
-            "geonames": 933654
+            "fips": "BC05",
+            "geonames": 933654,
+            "iso_3166_2": "BW-KL"
         },
         "long": {
             "default": "Kgatleng"
@@ -62,8 +68,9 @@
     {
         "parent": "BW",
         "ids": {
-            "fips": "04",
-            "geonames": 933657
+            "fips": "BC04",
+            "geonames": 933657,
+            "iso_3166_2": "BW-KG"
         },
         "long": {
             "default": "Kgalagadi"
@@ -72,8 +79,9 @@
     {
         "parent": "BW",
         "ids": {
-            "fips": "03",
-            "geonames": 933758
+            "fips": "BC03",
+            "geonames": 933758,
+            "iso_3166_2": "BW-GH"
         },
         "long": {
             "default": "Ghanzi"
@@ -82,11 +90,89 @@
     {
         "parent": "BW",
         "ids": {
-            "fips": "01",
-            "geonames": 933851
+            "fips": "BC01",
+            "geonames": 933851,
+            "iso_3166_2": "BW-CE"
         },
         "long": {
             "default": "Central"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-CH"
+        },
+        "long": {
+            "default": "Chobe"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-FR"
+        },
+        "long": {
+            "default": "Francistown city"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-GA"
+        },
+        "long": {
+            "default": "Gaborone city"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-JW"
+        },
+        "long": {
+            "default": "Jwaneng city"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-LO"
+        },
+        "long": {
+            "default": "Lobatse"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-SP"
+        },
+        "long": {
+            "default": "Selibe Phikwe city"
+        }
+    },
+    {
+        "parent": "BW",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BW-ST"
+        },
+        "long": {
+            "default": "Sowa city"
         }
     }
 ]

@@ -2,7 +2,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "07",
+            "fips": "KZ07",
             "geonames": 607847
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "09",
+            "fips": "KZ09",
             "geonames": 608879
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "06",
+            "fips": "KZ06",
             "geonames": 609862
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "04",
+            "fips": "KZ04",
             "geonames": 610688
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "15",
+            "fips": "KZ15",
             "geonames": 1517381
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "03",
+            "fips": "KZ03",
             "geonames": 1518003
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "16",
+            "fips": "KZ16",
             "geonames": 1519367
         },
         "long": {
@@ -72,7 +72,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "11",
+            "fips": "KZ11",
             "geonames": 1520239
         },
         "long": {
@@ -82,7 +82,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "14",
+            "fips": "KZ14",
             "geonames": 1521406
         },
         "long": {
@@ -92,7 +92,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "13",
+            "fips": "KZ13",
             "geonames": 1521671
         },
         "long": {
@@ -102,7 +102,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "12",
+            "fips": "KZ12",
             "geonames": 1523401
         },
         "long": {
@@ -112,7 +112,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "17",
+            "fips": "KZ17",
             "geonames": 1524444
         },
         "long": {
@@ -122,7 +122,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "10",
+            "fips": "KZ10",
             "geonames": 1524787
         },
         "long": {
@@ -132,7 +132,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "02",
+            "fips": "KZ02",
             "geonames": 1526395
         },
         "long": {
@@ -142,8 +142,9 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "01",
-            "geonames": 1537162
+            "fips": "KZ01",
+            "geonames": 1537162,
+            "iso_3166_2": "KZ-ALM"
         },
         "long": {
             "default": "Almaty Oblysy"
@@ -152,7 +153,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "08",
+            "fips": "KZ08",
             "geonames": 1538316
         },
         "long": {
@@ -162,7 +163,7 @@
     {
         "parent": "KZ",
         "ids": {
-            "fips": "05",
+            "fips": "KZ05",
             "geonames": 1538317
         },
         "long": {

@@ -2,7 +2,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "01",
+            "fips": "MU01",
             "geonames": 411735
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "02",
+            "fips": "MU02",
             "geonames": 411736
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "03",
+            "fips": "MU03",
             "geonames": 411737
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "04",
+            "fips": "MU04",
             "geonames": 411738
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "09",
+            "fips": "MU09",
             "geonames": 411739
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "06",
+            "fips": "MU06",
             "geonames": 411740
         },
         "long": {
@@ -62,8 +62,9 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "07",
-            "geonames": 411741
+            "fips": "MU07",
+            "geonames": 411741,
+            "iso_3166_2": "OM-MU"
         },
         "long": {
             "default": "Musandam"
@@ -72,7 +73,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "08",
+            "fips": "MU08",
             "geonames": 411742
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "10",
+            "fips": "MU10",
             "geonames": 7110710
         },
         "long": {
@@ -92,7 +93,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "12",
+            "fips": "MU12",
             "geonames": 8394433
         },
         "long": {
@@ -102,7 +103,7 @@
     {
         "parent": "OM",
         "ids": {
-            "fips": "11",
+            "fips": "MU11",
             "geonames": 8394434
         },
         "long": {

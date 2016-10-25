@@ -2,7 +2,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "09",
+            "fips": "CM09",
             "geonames": 2221788
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "14",
+            "fips": "CM14",
             "geonames": 2221789
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "08",
+            "fips": "CM08",
             "geonames": 2222934
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "07",
+            "fips": "CM07",
             "geonames": 2223602
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "13",
+            "fips": "CM13",
             "geonames": 2223603
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "05",
+            "fips": "CM05",
             "geonames": 2229336
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "12",
+            "fips": "CM12",
             "geonames": 2231755
         },
         "long": {
@@ -72,7 +72,7 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "04",
+            "fips": "CM04",
             "geonames": 2231835
         },
         "long": {
@@ -82,8 +82,9 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "11",
-            "geonames": 2233376
+            "fips": "CM11",
+            "geonames": 2233376,
+            "iso_3166_2": "CM-CE"
         },
         "long": {
             "default": "Centre"
@@ -92,8 +93,9 @@
     {
         "parent": "CM",
         "ids": {
-            "fips": "10",
-            "geonames": 2236015
+            "fips": "CM10",
+            "geonames": 2236015,
+            "iso_3166_2": "CM-AD"
         },
         "long": {
             "default": "Adamaoua"

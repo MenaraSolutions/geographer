@@ -2,8 +2,9 @@
     {
         "parent": "TM",
         "ids": {
-            "fips": "02",
-            "geonames": 162152
+            "fips": "TX02",
+            "geonames": 162152,
+            "iso_3166_2": "TM-B"
         },
         "long": {
             "default": "Balkan"
@@ -12,8 +13,9 @@
     {
         "parent": "TM",
         "ids": {
-            "fips": "01",
-            "geonames": 162181
+            "fips": "TX01",
+            "geonames": 162181,
+            "iso_3166_2": "TM-A"
         },
         "long": {
             "default": "Ahal"
@@ -22,7 +24,7 @@
     {
         "parent": "TM",
         "ids": {
-            "fips": "03",
+            "fips": "TX03",
             "geonames": 601465
         },
         "long": {
@@ -32,8 +34,9 @@
     {
         "parent": "TM",
         "ids": {
-            "fips": "05",
-            "geonames": 1218666
+            "fips": "TX05",
+            "geonames": 1218666,
+            "iso_3166_2": "TM-M"
         },
         "long": {
             "default": "Mary"
@@ -42,8 +45,9 @@
     {
         "parent": "TM",
         "ids": {
-            "fips": "04",
-            "geonames": 1219651
+            "fips": "TX04",
+            "geonames": 1219651,
+            "iso_3166_2": "TM-L"
         },
         "long": {
             "default": "Lebap"

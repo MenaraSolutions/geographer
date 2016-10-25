@@ -3,7 +3,8 @@
         "parent": "MQ",
         "ids": {
             "fips": "MQ",
-            "geonames": 6690603
+            "geonames": 6690603,
+            "iso_3166_2": "MQ"
         },
         "long": {
             "default": "Martinique"

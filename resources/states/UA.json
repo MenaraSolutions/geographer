@@ -2,7 +2,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "27",
+            "fips": "UP27",
             "geonames": 686966
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "26",
+            "fips": "UP26",
             "geonames": 687699
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "25",
+            "fips": "UP25",
             "geonames": 687869
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "24",
+            "fips": "UP24",
             "geonames": 689064
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "23",
+            "fips": "UP23",
             "geonames": 689559
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "22",
+            "fips": "UP22",
             "geonames": 691649
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "21",
+            "fips": "UP21",
             "geonames": 692196
         },
         "long": {
@@ -72,7 +72,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "20",
+            "fips": "UP20",
             "geonames": 694422
         },
         "long": {
@@ -82,7 +82,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "19",
+            "fips": "UP19",
             "geonames": 695592
         },
         "long": {
@@ -92,7 +92,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "18",
+            "fips": "UP18",
             "geonames": 696634
         },
         "long": {
@@ -102,7 +102,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "17",
+            "fips": "UP17",
             "geonames": 698738
         },
         "long": {
@@ -112,7 +112,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "16",
+            "fips": "UP16",
             "geonames": 700567
         },
         "long": {
@@ -122,7 +122,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "15",
+            "fips": "UP15",
             "geonames": 702549
         },
         "long": {
@@ -132,7 +132,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "14",
+            "fips": "UP14",
             "geonames": 702657
         },
         "long": {
@@ -142,8 +142,9 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "13",
-            "geonames": 703446
+            "fips": "UP13",
+            "geonames": 703446,
+            "iso_3166_2": "UA-30"
         },
         "long": {
             "default": "Kyiv"
@@ -152,7 +153,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "12",
+            "fips": "UP12",
             "geonames": 703447
         },
         "long": {
@@ -162,7 +163,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "11",
+            "fips": "UP11",
             "geonames": 703883
         },
         "long": {
@@ -172,7 +173,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "10",
+            "fips": "UP10",
             "geonames": 705811
         },
         "long": {
@@ -182,7 +183,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "09",
+            "fips": "UP09",
             "geonames": 706370
         },
         "long": {
@@ -192,7 +193,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "08",
+            "fips": "UP08",
             "geonames": 706442
         },
         "long": {
@@ -202,7 +203,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "07",
+            "fips": "UP07",
             "geonames": 706482
         },
         "long": {
@@ -212,7 +213,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "06",
+            "fips": "UP06",
             "geonames": 707470
         },
         "long": {
@@ -222,7 +223,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "05",
+            "fips": "UP05",
             "geonames": 709716
         },
         "long": {
@@ -232,7 +233,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "04",
+            "fips": "UP04",
             "geonames": 709929
         },
         "long": {
@@ -242,7 +243,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "03",
+            "fips": "UP03",
             "geonames": 710720
         },
         "long": {
@@ -252,7 +253,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "02",
+            "fips": "UP02",
             "geonames": 710734
         },
         "long": {
@@ -262,7 +263,7 @@
     {
         "parent": "UA",
         "ids": {
-            "fips": "01",
+            "fips": "UP01",
             "geonames": 710802
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "15",
-            "geonames": 3617051
+            "fips": "NU15",
+            "geonames": 3617051,
+            "iso_3166_2": "NI-RI"
         },
         "long": {
             "default": "Rivas"
@@ -12,7 +13,7 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "14",
+            "fips": "NU14",
             "geonames": 3617056
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "13",
-            "geonames": 3617458
+            "fips": "NU13",
+            "geonames": 3617458,
+            "iso_3166_2": "NI-NS"
         },
         "long": {
             "default": "Nueva Segovia"
@@ -32,8 +34,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "12",
-            "geonames": 3617707
+            "fips": "NU12",
+            "geonames": 3617707,
+            "iso_3166_2": "NI-MT"
         },
         "long": {
             "default": "Matagalpa"
@@ -42,8 +45,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "11",
-            "geonames": 3617722
+            "fips": "NU11",
+            "geonames": 3617722,
+            "iso_3166_2": "NI-MS"
         },
         "long": {
             "default": "Masaya"
@@ -52,8 +56,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "10",
-            "geonames": 3617762
+            "fips": "NU10",
+            "geonames": 3617762,
+            "iso_3166_2": "NI-MN"
         },
         "long": {
             "default": "Managua"
@@ -62,8 +67,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "09",
-            "geonames": 3617796
+            "fips": "NU09",
+            "geonames": 3617796,
+            "iso_3166_2": "NI-MD"
         },
         "long": {
             "default": "Madriz"
@@ -72,7 +78,7 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "08",
+            "fips": "NU08",
             "geonames": 3618029
         },
         "long": {
@@ -82,8 +88,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "07",
-            "geonames": 3618928
+            "fips": "NU07",
+            "geonames": 3618928,
+            "iso_3166_2": "NI-JI"
         },
         "long": {
             "default": "Jinotega"
@@ -92,8 +99,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "06",
-            "geonames": 3619135
+            "fips": "NU06",
+            "geonames": 3619135,
+            "iso_3166_2": "NI-GR"
         },
         "long": {
             "default": "Granada"
@@ -102,7 +110,7 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "05",
+            "fips": "NU05",
             "geonames": 3619193
         },
         "long": {
@@ -112,8 +120,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "04",
-            "geonames": 3620368
+            "fips": "NU04",
+            "geonames": 3620368,
+            "iso_3166_2": "NI-CO"
         },
         "long": {
             "default": "Chontales"
@@ -122,8 +131,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "03",
-            "geonames": 3620380
+            "fips": "NU03",
+            "geonames": 3620380,
+            "iso_3166_2": "NI-CI"
         },
         "long": {
             "default": "Chinandega"
@@ -132,8 +142,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "02",
-            "geonames": 3620481
+            "fips": "NU02",
+            "geonames": 3620481,
+            "iso_3166_2": "NI-CA"
         },
         "long": {
             "default": "Carazo"
@@ -142,8 +153,9 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "01",
-            "geonames": 3620673
+            "fips": "NU01",
+            "geonames": 3620673,
+            "iso_3166_2": "NI-BO"
         },
         "long": {
             "default": "Boaco"
@@ -152,7 +164,7 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "17",
+            "fips": "NU17",
             "geonames": 3830307
         },
         "long": {
@@ -162,7 +174,7 @@
     {
         "parent": "NI",
         "ids": {
-            "fips": "18",
+            "fips": "NU18",
             "geonames": 3830308
         },
         "long": {

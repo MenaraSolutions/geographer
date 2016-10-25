@@ -2,8 +2,9 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "07",
-            "geonames": 2368955
+            "fips": "PU07",
+            "geonames": 2368955,
+            "iso_3166_2": "GW-TO"
         },
         "long": {
             "default": "Tombali"
@@ -12,8 +13,9 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "02",
-            "geonames": 2370360
+            "fips": "PU02",
+            "geonames": 2370360,
+            "iso_3166_2": "GW-QU"
         },
         "long": {
             "default": "Quinara"
@@ -22,8 +24,9 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "04",
-            "geonames": 2371071
+            "fips": "PU04",
+            "geonames": 2371071,
+            "iso_3166_2": "GW-OI"
         },
         "long": {
             "default": "Oio"
@@ -32,7 +35,7 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "10",
+            "fips": "PU10",
             "geonames": 2372533
         },
         "long": {
@@ -42,8 +45,9 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "06",
-            "geonames": 2374312
+            "fips": "PU06",
+            "geonames": 2374312,
+            "iso_3166_2": "GW-CA"
         },
         "long": {
             "default": "Cacheu"
@@ -52,7 +56,7 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "05",
+            "fips": "PU05",
             "geonames": 2374689
         },
         "long": {
@@ -62,8 +66,9 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "11",
-            "geonames": 2374776
+            "fips": "PU11",
+            "geonames": 2374776,
+            "iso_3166_2": "GW-BS"
         },
         "long": {
             "default": "Bissau"
@@ -72,8 +77,9 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "12",
-            "geonames": 2374820
+            "fips": "PU12",
+            "geonames": 2374820,
+            "iso_3166_2": "GW-BM"
         },
         "long": {
             "default": "Biombo"
@@ -82,7 +88,7 @@
     {
         "parent": "GW",
         "ids": {
-            "fips": "01",
+            "fips": "PU01",
             "geonames": 2375255
         },
         "long": {

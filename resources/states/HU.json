@@ -2,8 +2,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "18",
-            "geonames": 715593
+            "fips": "HU18",
+            "geonames": 715593,
+            "iso_3166_2": "HU-SZ"
         },
         "long": {
             "default": "Szabolcs-Szatmár-Bereg"
@@ -12,8 +13,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "20",
-            "geonames": 719637
+            "fips": "HU20",
+            "geonames": 719637,
+            "iso_3166_2": "HU-JN"
         },
         "long": {
             "default": "Jász-Nagykun-Szolnok"
@@ -22,8 +24,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "11",
-            "geonames": 720002
+            "fips": "HU11",
+            "geonames": 720002,
+            "iso_3166_2": "HU-HE"
         },
         "long": {
             "default": "Heves"
@@ -32,7 +35,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "10",
+            "fips": "HU10",
             "geonames": 720293
         },
         "long": {
@@ -42,7 +45,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "06",
+            "fips": "HU06",
             "geonames": 721589
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "04",
+            "fips": "HU04",
             "geonames": 722064
         },
         "long": {
@@ -62,8 +65,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "03",
-            "geonames": 722433
+            "fips": "HU03",
+            "geonames": 722433,
+            "iso_3166_2": "HU-BE"
         },
         "long": {
             "default": "Bekes"
@@ -72,8 +76,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "24",
-            "geonames": 3042613
+            "fips": "HU24",
+            "geonames": 3042613,
+            "iso_3166_2": "HU-ZA"
         },
         "long": {
             "default": "Zala"
@@ -82,7 +87,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "23",
+            "fips": "HU23",
             "geonames": 3042925
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "22",
-            "geonames": 3043047
+            "fips": "HU22",
+            "geonames": 3043047,
+            "iso_3166_2": "HU-VA"
         },
         "long": {
             "default": "Vas"
@@ -102,8 +108,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "21",
-            "geonames": 3043845
+            "fips": "HU21",
+            "geonames": 3043845,
+            "iso_3166_2": "HU-TO"
         },
         "long": {
             "default": "Tolna"
@@ -112,8 +119,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "17",
-            "geonames": 3045226
+            "fips": "HU17",
+            "geonames": 3045226,
+            "iso_3166_2": "HU-SO"
         },
         "long": {
             "default": "Somogy"
@@ -122,8 +130,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "16",
-            "geonames": 3046431
+            "fips": "HU16",
+            "geonames": 3046431,
+            "iso_3166_2": "HU-PE"
         },
         "long": {
             "default": "Pest"
@@ -132,7 +141,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "14",
+            "fips": "HU14",
             "geonames": 3047348
         },
         "long": {
@@ -142,8 +151,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "12",
-            "geonames": 3049518
+            "fips": "HU12",
+            "geonames": 3049518,
+            "iso_3166_2": "HU-KE"
         },
         "long": {
             "default": "Komárom-Esztergom"
@@ -152,8 +162,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "09",
-            "geonames": 3051977
+            "fips": "HU09",
+            "geonames": 3051977,
+            "iso_3166_2": "HU-GS"
         },
         "long": {
             "default": "Győr-Moson-Sopron"
@@ -162,7 +173,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "08",
+            "fips": "HU08",
             "geonames": 3053028
         },
         "long": {
@@ -172,8 +183,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "05",
-            "geonames": 3054638
+            "fips": "HU05",
+            "geonames": 3054638,
+            "iso_3166_2": "HU-BU"
         },
         "long": {
             "default": "Budapest"
@@ -182,8 +194,9 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "02",
-            "geonames": 3055399
+            "fips": "HU02",
+            "geonames": 3055399,
+            "iso_3166_2": "HU-BA"
         },
         "long": {
             "default": "Baranya"
@@ -192,7 +205,7 @@
     {
         "parent": "HU",
         "ids": {
-            "fips": "01",
+            "fips": "HU01",
             "geonames": 3055744
         },
         "long": {

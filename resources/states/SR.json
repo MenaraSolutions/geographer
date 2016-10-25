@@ -2,8 +2,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "19",
-            "geonames": 3382761
+            "fips": "NS19",
+            "geonames": 3382761,
+            "iso_3166_2": "SR-WA"
         },
         "long": {
             "default": "Wanica"
@@ -12,7 +13,7 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "18",
+            "fips": "NS18",
             "geonames": 3383062
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "17",
-            "geonames": 3383110
+            "fips": "NS17",
+            "geonames": 3383110,
+            "iso_3166_2": "SR-SA"
         },
         "long": {
             "default": "Saramacca"
@@ -32,8 +34,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "16",
-            "geonames": 3383329
+            "fips": "NS16",
+            "geonames": 3383329,
+            "iso_3166_2": "SR-PM"
         },
         "long": {
             "default": "Paramaribo"
@@ -42,7 +45,7 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "15",
+            "fips": "NS15",
             "geonames": 3383337
         },
         "long": {
@@ -52,8 +55,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "14",
-            "geonames": 3383438
+            "fips": "NS14",
+            "geonames": 3383438,
+            "iso_3166_2": "SR-NI"
         },
         "long": {
             "default": "Nickerie"
@@ -62,8 +66,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "13",
-            "geonames": 3383560
+            "fips": "NS13",
+            "geonames": 3383560,
+            "iso_3166_2": "SR-MA"
         },
         "long": {
             "default": "Marowijne"
@@ -72,8 +77,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "12",
-            "geonames": 3384397
+            "fips": "NS12",
+            "geonames": 3384397,
+            "iso_3166_2": "SR-CR"
         },
         "long": {
             "default": "Coronie"
@@ -82,8 +88,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "11",
-            "geonames": 3384418
+            "fips": "NS11",
+            "geonames": 3384418,
+            "iso_3166_2": "SR-CM"
         },
         "long": {
             "default": "Commewijne"
@@ -92,8 +99,9 @@
     {
         "parent": "SR",
         "ids": {
-            "fips": "10",
-            "geonames": 3384481
+            "fips": "NS10",
+            "geonames": 3384481,
+            "iso_3166_2": "SR-BR"
         },
         "long": {
             "default": "Brokopondo"

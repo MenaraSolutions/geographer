@@ -2,7 +2,7 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "05",
+            "fips": "NO05",
             "geonames": 780166
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "20",
-            "geonames": 3132015
+            "fips": "NO20",
+            "geonames": 3132015,
+            "iso_3166_2": "NO-07"
         },
         "long": {
             "default": "Vestfold"
@@ -22,8 +23,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "19",
-            "geonames": 3132064
+            "fips": "NO19",
+            "geonames": 3132064,
+            "iso_3166_2": "NO-10"
         },
         "long": {
             "default": "Vest-Agder"
@@ -32,8 +34,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "18",
-            "geonames": 3133897
+            "fips": "NO18",
+            "geonames": 3133897,
+            "iso_3166_2": "NO-19"
         },
         "long": {
             "default": "Troms"
@@ -42,8 +45,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "17",
-            "geonames": 3134723
+            "fips": "NO17",
+            "geonames": 3134723,
+            "iso_3166_2": "NO-08"
         },
         "long": {
             "default": "Telemark"
@@ -52,7 +56,7 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "16",
+            "fips": "NO16",
             "geonames": 3137400
         },
         "long": {
@@ -62,8 +66,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "15",
-            "geonames": 3137966
+            "fips": "NO15",
+            "geonames": 3137966,
+            "iso_3166_2": "NO-14"
         },
         "long": {
             "default": "Sogn og Fjordane"
@@ -72,8 +77,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "14",
-            "geonames": 3141558
+            "fips": "NO14",
+            "geonames": 3141558,
+            "iso_3166_2": "NO-11"
         },
         "long": {
             "default": "Rogaland"
@@ -82,7 +88,7 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "13",
+            "fips": "NO13",
             "geonames": 3143188
         },
         "long": {
@@ -92,8 +98,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "12",
-            "geonames": 3143242
+            "fips": "NO12",
+            "geonames": 3143242,
+            "iso_3166_2": "NO-03"
         },
         "long": {
             "default": "Oslo"
@@ -102,8 +109,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "11",
-            "geonames": 3143487
+            "fips": "NO11",
+            "geonames": 3143487,
+            "iso_3166_2": "NO-05"
         },
         "long": {
             "default": "Oppland"
@@ -112,7 +120,7 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "10",
+            "fips": "NO10",
             "geonames": 3144148
         },
         "long": {
@@ -122,8 +130,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "09",
-            "geonames": 3144301
+            "fips": "NO09",
+            "geonames": 3144301,
+            "iso_3166_2": "NO-18"
         },
         "long": {
             "default": "Nordland"
@@ -132,8 +141,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "08",
-            "geonames": 3145495
+            "fips": "NO08",
+            "geonames": 3145495,
+            "iso_3166_2": "NO-15"
         },
         "long": {
             "default": "Møre og Romsdal"
@@ -142,8 +152,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "07",
-            "geonames": 3151864
+            "fips": "NO07",
+            "geonames": 3151864,
+            "iso_3166_2": "NO-12"
         },
         "long": {
             "default": "Hordaland"
@@ -152,8 +163,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "06",
-            "geonames": 3153403
+            "fips": "NO06",
+            "geonames": 3153403,
+            "iso_3166_2": "NO-04"
         },
         "long": {
             "default": "Hedmark"
@@ -162,8 +174,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "04",
-            "geonames": 3159665
+            "fips": "NO04",
+            "geonames": 3159665,
+            "iso_3166_2": "NO-06"
         },
         "long": {
             "default": "Buskerud"
@@ -172,8 +185,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "02",
-            "geonames": 3162354
+            "fips": "NO02",
+            "geonames": 3162354,
+            "iso_3166_2": "NO-09"
         },
         "long": {
             "default": "Aust-Agder"
@@ -182,8 +196,9 @@
     {
         "parent": "NO",
         "ids": {
-            "fips": "01",
-            "geonames": 3163480
+            "fips": "NO01",
+            "geonames": 3163480,
+            "iso_3166_2": "NO-02"
         },
         "long": {
             "default": "Akershus"

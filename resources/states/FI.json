@@ -2,7 +2,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "19",
+            "fips": "FI19",
             "geonames": 830603
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "18",
-            "geonames": 830664
+            "fips": "FI18",
+            "geonames": 830664,
+            "iso_3166_2": "FI-05"
         },
         "long": {
             "default": "Kainuu"
@@ -22,7 +23,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "17",
+            "fips": "FI17",
             "geonames": 830667
         },
         "long": {
@@ -32,7 +33,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "16",
+            "fips": "FI16",
             "geonames": 830675
         },
         "long": {
@@ -42,7 +43,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "15",
+            "fips": "FI15",
             "geonames": 830676
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "14",
+            "fips": "FI14",
             "geonames": 830682
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "13",
+            "fips": "FI13",
             "geonames": 830685
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "12",
+            "fips": "FI12",
             "geonames": 830686
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "11",
+            "fips": "FI11",
             "geonames": 830690
         },
         "long": {
@@ -92,7 +93,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "10",
+            "fips": "FI10",
             "geonames": 830695
         },
         "long": {
@@ -102,7 +103,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "09",
+            "fips": "FI09",
             "geonames": 830699
         },
         "long": {
@@ -112,8 +113,9 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "08",
-            "geonames": 830703
+            "fips": "FI08",
+            "geonames": 830703,
+            "iso_3166_2": "FI-09"
         },
         "long": {
             "default": "Kymenlaakso"
@@ -122,8 +124,9 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "06",
-            "geonames": 830704
+            "fips": "FI06",
+            "geonames": 830704,
+            "iso_3166_2": "FI-11"
         },
         "long": {
             "default": "Pirkanmaa"
@@ -132,7 +135,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "05",
+            "fips": "FI05",
             "geonames": 830705
         },
         "long": {
@@ -142,7 +145,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "02",
+            "fips": "FI02",
             "geonames": 830708
         },
         "long": {
@@ -152,8 +155,9 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "01",
-            "geonames": 830709
+            "fips": "FI01",
+            "geonames": 830709,
+            "iso_3166_2": "FI-18"
         },
         "long": {
             "default": "Uusimaa"
@@ -162,7 +166,7 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "07",
+            "fips": "FI07",
             "geonames": 831040
         },
         "long": {
@@ -172,8 +176,9 @@
     {
         "parent": "FI",
         "ids": {
-            "fips": "04",
-            "geonames": 831041
+            "fips": "FI04",
+            "geonames": 831041,
+            "iso_3166_2": "FI-17"
         },
         "long": {
             "default": "Satakunta"

@@ -2,7 +2,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "007",
+            "fips": "RM007",
             "geonames": 7303491
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "010",
-            "geonames": 7303492
+            "fips": "RM010",
+            "geonames": 7303492,
+            "iso_3166_2": "MH-ALL"
         },
         "long": {
             "default": "Ailinglaplap Atoll"
@@ -22,8 +23,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "030",
-            "geonames": 7303493
+            "fips": "RM030",
+            "geonames": 7303493,
+            "iso_3166_2": "MH-ALK"
         },
         "long": {
             "default": "Ailuk Atoll"
@@ -32,8 +34,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "040",
-            "geonames": 7303494
+            "fips": "RM040",
+            "geonames": 7303494,
+            "iso_3166_2": "MH-ARN"
         },
         "long": {
             "default": "Arno Atoll"
@@ -42,8 +45,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "050",
-            "geonames": 7303495
+            "fips": "RM050",
+            "geonames": 7303495,
+            "iso_3166_2": "MH-AUR"
         },
         "long": {
             "default": "Aur Atoll"
@@ -52,7 +56,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "060",
+            "fips": "RM060",
             "geonames": 7303496
         },
         "long": {
@@ -62,7 +66,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "070",
+            "fips": "RM070",
             "geonames": 7303497
         },
         "long": {
@@ -72,8 +76,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "080",
-            "geonames": 7303498
+            "fips": "RM080",
+            "geonames": 7303498,
+            "iso_3166_2": "MH-EBO"
         },
         "long": {
             "default": "Ebon Atoll"
@@ -82,8 +87,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "090",
-            "geonames": 7303499
+            "fips": "RM090",
+            "geonames": 7303499,
+            "iso_3166_2": "MH-ENI"
         },
         "long": {
             "default": "Enewetak Atoll"
@@ -92,7 +98,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "100",
+            "fips": "RM100",
             "geonames": 7303500
         },
         "long": {
@@ -102,8 +108,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "120",
-            "geonames": 7303501
+            "fips": "RM120",
+            "geonames": 7303501,
+            "iso_3166_2": "MH-JAL"
         },
         "long": {
             "default": "Jaluit Atoll"
@@ -112,8 +119,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "150",
-            "geonames": 7303502
+            "fips": "RM150",
+            "geonames": 7303502,
+            "iso_3166_2": "MH-KWA"
         },
         "long": {
             "default": "Kwajalein Atoll"
@@ -122,8 +130,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "160",
-            "geonames": 7303503
+            "fips": "RM160",
+            "geonames": 7303503,
+            "iso_3166_2": "MH-LAE"
         },
         "long": {
             "default": "Lae Atoll"
@@ -132,8 +141,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "180",
-            "geonames": 7303504
+            "fips": "RM180",
+            "geonames": 7303504,
+            "iso_3166_2": "MH-LIK"
         },
         "long": {
             "default": "Likiep Atoll"
@@ -142,8 +152,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "190",
-            "geonames": 7303505
+            "fips": "RM190",
+            "geonames": 7303505,
+            "iso_3166_2": "MH-MAJ"
         },
         "long": {
             "default": "Majuro Atoll"
@@ -152,8 +163,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "300",
-            "geonames": 7303506
+            "fips": "RM300",
+            "geonames": 7303506,
+            "iso_3166_2": "MH-MAL"
         },
         "long": {
             "default": "Maloelap Atoll"
@@ -162,8 +174,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "320",
-            "geonames": 7303507
+            "fips": "RM320",
+            "geonames": 7303507,
+            "iso_3166_2": "MH-MIL"
         },
         "long": {
             "default": "Mili Atoll"
@@ -172,8 +185,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "330",
-            "geonames": 7303508
+            "fips": "RM330",
+            "geonames": 7303508,
+            "iso_3166_2": "MH-NMK"
         },
         "long": {
             "default": "Namdrik Atoll"
@@ -182,8 +196,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "340",
-            "geonames": 7303509
+            "fips": "RM340",
+            "geonames": 7303509,
+            "iso_3166_2": "MH-NMU"
         },
         "long": {
             "default": "Namu Atoll"
@@ -192,8 +207,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "350",
-            "geonames": 7303510
+            "fips": "RM350",
+            "geonames": 7303510,
+            "iso_3166_2": "MH-RON"
         },
         "long": {
             "default": "Rongelap Atoll"
@@ -202,7 +218,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "360",
+            "fips": "RM360",
             "geonames": 7303511
         },
         "long": {
@@ -212,7 +228,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "385",
+            "fips": "RM385",
             "geonames": 7303512
         },
         "long": {
@@ -222,7 +238,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "073",
+            "fips": "RM073",
             "geonames": 7303513
         },
         "long": {
@@ -232,8 +248,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "390",
-            "geonames": 7303514
+            "fips": "RM390",
+            "geonames": 7303514,
+            "iso_3166_2": "MH-UJA"
         },
         "long": {
             "default": "Ujae Atoll"
@@ -242,7 +259,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "400",
+            "fips": "RM400",
             "geonames": 7303515
         },
         "long": {
@@ -252,8 +269,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "410",
-            "geonames": 7303516
+            "fips": "RM410",
+            "geonames": 7303516,
+            "iso_3166_2": "MH-UTI"
         },
         "long": {
             "default": "Utrik Atoll"
@@ -262,8 +280,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "420",
-            "geonames": 7303517
+            "fips": "RM420",
+            "geonames": 7303517,
+            "iso_3166_2": "MH-WTH"
         },
         "long": {
             "default": "Wotho Atoll"
@@ -272,8 +291,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "430",
-            "geonames": 7303518
+            "fips": "RM430",
+            "geonames": 7303518,
+            "iso_3166_2": "MH-WTJ"
         },
         "long": {
             "default": "Wotje Atoll"
@@ -282,8 +302,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "110",
-            "geonames": 7303519
+            "fips": "RM110",
+            "geonames": 7303519,
+            "iso_3166_2": "MH-JAB"
         },
         "long": {
             "default": "Jabat Island"
@@ -292,7 +313,7 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "130",
+            "fips": "RM130",
             "geonames": 7303520
         },
         "long": {
@@ -302,8 +323,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "140",
-            "geonames": 7303521
+            "fips": "RM140",
+            "geonames": 7303521,
+            "iso_3166_2": "MH-KIL"
         },
         "long": {
             "default": "Kili Island"
@@ -312,8 +334,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "170",
-            "geonames": 7303522
+            "fips": "RM170",
+            "geonames": 7303522,
+            "iso_3166_2": "MH-LIB"
         },
         "long": {
             "default": "Lib Island"
@@ -322,8 +345,9 @@
     {
         "parent": "MH",
         "ids": {
-            "fips": "310",
-            "geonames": 7303523
+            "fips": "RM310",
+            "geonames": 7303523,
+            "iso_3166_2": "MH-MEJ"
         },
         "long": {
             "default": "Mejit Island"

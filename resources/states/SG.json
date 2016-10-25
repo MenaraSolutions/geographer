@@ -2,7 +2,7 @@
     {
         "parent": "SG",
         "ids": {
-            "fips": "01",
+            "fips": "SN01",
             "geonames": 7535954
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "SG",
         "ids": {
-            "fips": "02",
+            "fips": "SN02",
             "geonames": 7535955
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "SG",
         "ids": {
-            "fips": "04",
+            "fips": "SN04",
             "geonames": 7535956
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "SG",
         "ids": {
-            "fips": "05",
+            "fips": "SN05",
             "geonames": 7535957
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "SG",
         "ids": {
-            "fips": "03",
+            "fips": "SN03",
             "geonames": 7535958
         },
         "long": {

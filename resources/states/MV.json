@@ -2,7 +2,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "47",
+            "fips": "MV47",
             "geonames": 1281843
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "46",
+            "fips": "MV46",
             "geonames": 1281881
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "45",
+            "fips": "MV45",
             "geonames": 1281892
         },
         "long": {
@@ -32,8 +32,9 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "01",
-            "geonames": 1281893
+            "fips": "MV01",
+            "geonames": 1281893,
+            "iso_3166_2": "MV-01"
         },
         "long": {
             "default": "Seenu"
@@ -42,7 +43,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "44",
+            "fips": "MV44",
             "geonames": 1281918
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "43",
+            "fips": "MV43",
             "geonames": 1281937
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "42",
+            "fips": "MV42",
             "geonames": 1281945
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "41",
+            "fips": "MV41",
             "geonames": 1281985
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "39",
+            "fips": "MV39",
             "geonames": 1282096
         },
         "long": {
@@ -92,8 +93,9 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "05",
-            "geonames": 1282101
+            "fips": "MV05",
+            "geonames": 1282101,
+            "iso_3166_2": "MV-05"
         },
         "long": {
             "default": "Laamu"
@@ -102,7 +104,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "38",
+            "fips": "MV38",
             "geonames": 1282208
         },
         "long": {
@@ -112,7 +114,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "37",
+            "fips": "MV37",
             "geonames": 1282293
         },
         "long": {
@@ -122,7 +124,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "36",
+            "fips": "MV36",
             "geonames": 1282294
         },
         "long": {
@@ -132,7 +134,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "35",
+            "fips": "MV35",
             "geonames": 1282328
         },
         "long": {
@@ -142,7 +144,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "34",
+            "fips": "MV34",
             "geonames": 1282329
         },
         "long": {
@@ -152,7 +154,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "33",
+            "fips": "MV33",
             "geonames": 1282393
         },
         "long": {
@@ -162,7 +164,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "32",
+            "fips": "MV32",
             "geonames": 1282447
         },
         "long": {
@@ -172,7 +174,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "31",
+            "fips": "MV31",
             "geonames": 1282478
         },
         "long": {
@@ -182,7 +184,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "30",
+            "fips": "MV30",
             "geonames": 1282497
         },
         "long": {
@@ -192,7 +194,7 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "10346475",
+            "fips": "MV10346475",
             "geonames": 10346475
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "10",
-            "geonames": 2255329
+            "fips": "CF10",
+            "geonames": 2255329,
+            "iso_3166_2": "CG-13"
         },
         "long": {
             "default": "Sangha"
@@ -12,8 +13,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "11",
-            "geonames": 2255404
+            "fips": "CF11",
+            "geonames": 2255404,
+            "iso_3166_2": "CG-12"
         },
         "long": {
             "default": "Pool"
@@ -22,8 +24,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "08",
-            "geonames": 2255422
+            "fips": "CF08",
+            "geonames": 2255422,
+            "iso_3166_2": "CG-14"
         },
         "long": {
             "default": "Plateaux"
@@ -32,8 +35,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "07",
-            "geonames": 2256175
+            "fips": "CF07",
+            "geonames": 2256175,
+            "iso_3166_2": "CG-9"
         },
         "long": {
             "default": "Niari"
@@ -42,8 +46,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "06",
-            "geonames": 2258431
+            "fips": "CF06",
+            "geonames": 2258431,
+            "iso_3166_2": "CG-7"
         },
         "long": {
             "default": "Likouala"
@@ -52,7 +57,7 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "05",
+            "fips": "CF05",
             "geonames": 2258534
         },
         "long": {
@@ -62,7 +67,7 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "04",
+            "fips": "CF04",
             "geonames": 2258738
         },
         "long": {
@@ -72,8 +77,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "13",
-            "geonames": 2260487
+            "fips": "CF13",
+            "geonames": 2260487,
+            "iso_3166_2": "CG-8"
         },
         "long": {
             "default": "Cuvette"
@@ -82,8 +88,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "01",
-            "geonames": 2260668
+            "fips": "CF01",
+            "geonames": 2260668,
+            "iso_3166_2": "CG-11"
         },
         "long": {
             "default": "Bouenza"
@@ -92,8 +99,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "12",
-            "geonames": 2572183
+            "fips": "CF12",
+            "geonames": 2572183,
+            "iso_3166_2": "CG-BZV"
         },
         "long": {
             "default": "Brazzaville"
@@ -102,8 +110,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "14",
-            "geonames": 2593118
+            "fips": "CF14",
+            "geonames": 2593118,
+            "iso_3166_2": "CG-15"
         },
         "long": {
             "default": "Cuvette-Ouest"
@@ -112,8 +121,9 @@
     {
         "parent": "CG",
         "ids": {
-            "fips": "7280295",
-            "geonames": 7280295
+            "fips": "CF7280295",
+            "geonames": 7280295,
+            "iso_3166_2": "CG-16"
         },
         "long": {
             "default": "Pointe-Noire"

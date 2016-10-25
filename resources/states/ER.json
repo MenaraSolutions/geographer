@@ -2,7 +2,7 @@
     {
         "parent": "ER",
         "ids": {
-            "fips": "01",
+            "fips": "ER01",
             "geonames": 448497
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "ER",
         "ids": {
-            "fips": "02",
+            "fips": "ER02",
             "geonames": 448498
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "ER",
         "ids": {
-            "fips": "03",
+            "fips": "ER03",
             "geonames": 448499
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "ER",
         "ids": {
-            "fips": "04",
+            "fips": "ER04",
             "geonames": 448500
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "ER",
         "ids": {
-            "fips": "05",
+            "fips": "ER05",
             "geonames": 448501
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "ER",
         "ids": {
-            "fips": "06",
+            "fips": "ER06",
             "geonames": 448502
         },
         "long": {

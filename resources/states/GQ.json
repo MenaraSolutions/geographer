@@ -2,7 +2,7 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "03",
+            "fips": "EK03",
             "geonames": 2310307
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "04",
-            "geonames": 2566978
+            "fips": "EK04",
+            "geonames": 2566978,
+            "iso_3166_2": "GQ-BN"
         },
         "long": {
             "default": "Bioko Norte"
@@ -22,8 +23,9 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "05",
-            "geonames": 2566979
+            "fips": "EK05",
+            "geonames": 2566979,
+            "iso_3166_2": "GQ-BS"
         },
         "long": {
             "default": "Bioko Sur"
@@ -32,8 +34,9 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "06",
-            "geonames": 2566980
+            "fips": "EK06",
+            "geonames": 2566980,
+            "iso_3166_2": "GQ-CS"
         },
         "long": {
             "default": "Centro Sur"
@@ -42,7 +45,7 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "07",
+            "fips": "EK07",
             "geonames": 2566981
         },
         "long": {
@@ -52,8 +55,9 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "08",
-            "geonames": 2566982
+            "fips": "EK08",
+            "geonames": 2566982,
+            "iso_3166_2": "GQ-LI"
         },
         "long": {
             "default": "Litoral"
@@ -62,8 +66,9 @@
     {
         "parent": "GQ",
         "ids": {
-            "fips": "09",
-            "geonames": 2566983
+            "fips": "EK09",
+            "geonames": 2566983,
+            "iso_3166_2": "GQ-WN"
         },
         "long": {
             "default": "Wele-Nzas"

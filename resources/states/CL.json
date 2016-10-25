@@ -2,7 +2,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "01",
+            "fips": "CI01",
             "geonames": 3868621
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "15",
+            "fips": "CI15",
             "geonames": 3870116
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "12",
+            "fips": "CI12",
             "geonames": 3873544
         },
         "long": {
@@ -32,8 +32,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "11",
-            "geonames": 3880306
+            "fips": "CI11",
+            "geonames": 3880306,
+            "iso_3166_2": "CL-ML"
         },
         "long": {
             "default": "Maule"
@@ -42,8 +43,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "14",
-            "geonames": 3881974
+            "fips": "CI14",
+            "geonames": 3881974,
+            "iso_3166_2": "CL-LL"
         },
         "long": {
             "default": "Los Lagos"
@@ -52,7 +54,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "08",
+            "fips": "CI08",
             "geonames": 3883281
         },
         "long": {
@@ -62,8 +64,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "07",
-            "geonames": 3893623
+            "fips": "CI07",
+            "geonames": 3893623,
+            "iso_3166_2": "CL-CO"
         },
         "long": {
             "default": "Coquimbo"
@@ -72,7 +75,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "06",
+            "fips": "CI06",
             "geonames": 3898380
         },
         "long": {
@@ -82,8 +85,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "05",
-            "geonames": 3899191
+            "fips": "CI05",
+            "geonames": 3899191,
+            "iso_3166_2": "CL-AT"
         },
         "long": {
             "default": "Atacama"
@@ -92,7 +96,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "04",
+            "fips": "CI04",
             "geonames": 3899463
         },
         "long": {
@@ -102,8 +106,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "03",
-            "geonames": 3899537
+            "fips": "CI03",
+            "geonames": 3899537,
+            "iso_3166_2": "CL-AN"
         },
         "long": {
             "default": "Antofagasta"
@@ -112,7 +117,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "02",
+            "fips": "CI02",
             "geonames": 3900333
         },
         "long": {
@@ -122,8 +127,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "10",
-            "geonames": 4036650
+            "fips": "CI10",
+            "geonames": 4036650,
+            "iso_3166_2": "CL-MA"
         },
         "long": {
             "default": "Magallanes"
@@ -132,8 +138,9 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "16",
-            "geonames": 6693562
+            "fips": "CI16",
+            "geonames": 6693562,
+            "iso_3166_2": "CL-AP"
         },
         "long": {
             "default": "Arica y Parinacota"
@@ -142,7 +149,7 @@
     {
         "parent": "CL",
         "ids": {
-            "fips": "17",
+            "fips": "CI17",
             "geonames": 6693563
         },
         "long": {

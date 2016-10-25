@@ -2,8 +2,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "01",
-            "geonames": 5883102
+            "fips": "CA01",
+            "geonames": 5883102,
+            "iso_3166_2": "CA-AB"
         },
         "long": {
             "default": "Alberta"
@@ -12,8 +13,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "02",
-            "geonames": 5909050
+            "fips": "CA02",
+            "geonames": 5909050,
+            "iso_3166_2": "CA-BC"
         },
         "long": {
             "default": "British Columbia"
@@ -22,8 +24,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "03",
-            "geonames": 6065171
+            "fips": "CA03",
+            "geonames": 6065171,
+            "iso_3166_2": "CA-MB"
         },
         "long": {
             "default": "Manitoba"
@@ -32,8 +35,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "04",
-            "geonames": 6087430
+            "fips": "CA04",
+            "geonames": 6087430,
+            "iso_3166_2": "CA-NB"
         },
         "long": {
             "default": "New Brunswick"
@@ -42,8 +46,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "13",
-            "geonames": 6091069
+            "fips": "CA13",
+            "geonames": 6091069,
+            "iso_3166_2": "CA-NT"
         },
         "long": {
             "default": "Northwest Territories"
@@ -52,8 +57,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "07",
-            "geonames": 6091530
+            "fips": "CA07",
+            "geonames": 6091530,
+            "iso_3166_2": "CA-NS"
         },
         "long": {
             "default": "Nova Scotia"
@@ -62,8 +68,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "14",
-            "geonames": 6091732
+            "fips": "CA14",
+            "geonames": 6091732,
+            "iso_3166_2": "CA-NU"
         },
         "long": {
             "default": "Nunavut"
@@ -72,8 +79,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "08",
-            "geonames": 6093943
+            "fips": "CA08",
+            "geonames": 6093943,
+            "iso_3166_2": "CA-ON"
         },
         "long": {
             "default": "Ontario"
@@ -82,8 +90,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "09",
-            "geonames": 6113358
+            "fips": "CA09",
+            "geonames": 6113358,
+            "iso_3166_2": "CA-PE"
         },
         "long": {
             "default": "Prince Edward Island"
@@ -92,8 +101,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "10",
-            "geonames": 6115047
+            "fips": "CA10",
+            "geonames": 6115047,
+            "iso_3166_2": "CA-QC"
         },
         "long": {
             "default": "Quebec"
@@ -102,8 +112,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "11",
-            "geonames": 6141242
+            "fips": "CA11",
+            "geonames": 6141242,
+            "iso_3166_2": "CA-SK"
         },
         "long": {
             "default": "Saskatchewan"
@@ -112,8 +123,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "12",
-            "geonames": 6185811
+            "fips": "CA12",
+            "geonames": 6185811,
+            "iso_3166_2": "CA-YT"
         },
         "long": {
             "default": "Yukon"
@@ -122,8 +134,9 @@
     {
         "parent": "CA",
         "ids": {
-            "fips": "05",
-            "geonames": 6354959
+            "fips": "CA05",
+            "geonames": 6354959,
+            "iso_3166_2": "CA-NL"
         },
         "long": {
             "default": "Newfoundland and Labrador"

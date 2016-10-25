@@ -2,8 +2,9 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "14",
-            "geonames": 163342
+            "fips": "SY14",
+            "geonames": 163342,
+            "iso_3166_2": "SY-TA"
         },
         "long": {
             "default": "Tartus"
@@ -12,8 +13,9 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "13",
-            "geonames": 167541
+            "fips": "SY13",
+            "geonames": 167541,
+            "iso_3166_2": "SY-DI"
         },
         "long": {
             "default": "Dimashq"
@@ -22,8 +24,9 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "12",
-            "geonames": 169387
+            "fips": "SY12",
+            "geonames": 169387,
+            "iso_3166_2": "SY-ID"
         },
         "long": {
             "default": "Idlib"
@@ -32,7 +35,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "11",
+            "fips": "SY11",
             "geonames": 169575
         },
         "long": {
@@ -42,7 +45,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "10",
+            "fips": "SY10",
             "geonames": 170015
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "09",
+            "fips": "SY09",
             "geonames": 170062
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "08",
+            "fips": "SY08",
             "geonames": 170652
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "07",
+            "fips": "SY07",
             "geonames": 170792
         },
         "long": {
@@ -82,7 +85,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "06",
+            "fips": "SY06",
             "geonames": 170903
         },
         "long": {
@@ -92,7 +95,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "05",
+            "fips": "SY05",
             "geonames": 172410
         },
         "long": {
@@ -102,7 +105,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "04",
+            "fips": "SY04",
             "geonames": 172957
         },
         "long": {
@@ -112,7 +115,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "03",
+            "fips": "SY03",
             "geonames": 173336
         },
         "long": {
@@ -122,7 +125,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "02",
+            "fips": "SY02",
             "geonames": 173578
         },
         "long": {
@@ -132,7 +135,7 @@
     {
         "parent": "SY",
         "ids": {
-            "fips": "01",
+            "fips": "SY01",
             "geonames": 173813
         },
         "long": {

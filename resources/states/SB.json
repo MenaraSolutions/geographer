@@ -2,7 +2,7 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "11",
+            "fips": "BP11",
             "geonames": 2101556
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "03",
-            "geonames": 2106552
+            "fips": "BP03",
+            "geonames": 2106552,
+            "iso_3166_2": "SB-ML"
         },
         "long": {
             "default": "Malaita"
@@ -22,8 +23,9 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "07",
-            "geonames": 2108262
+            "fips": "BP07",
+            "geonames": 2108262,
+            "iso_3166_2": "SB-IS"
         },
         "long": {
             "default": "Isabel"
@@ -32,8 +34,9 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "06",
-            "geonames": 2108831
+            "fips": "BP06",
+            "geonames": 2108831,
+            "iso_3166_2": "SB-GU"
         },
         "long": {
             "default": "Guadalcanal"
@@ -42,7 +45,7 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "10",
+            "fips": "BP10",
             "geonames": 2109495
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "09",
+            "fips": "BP09",
             "geonames": 2178472
         },
         "long": {
@@ -62,8 +65,9 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "08",
-            "geonames": 2178730
+            "fips": "BP08",
+            "geonames": 2178730,
+            "iso_3166_2": "SB-MK"
         },
         "long": {
             "default": "Makira"
@@ -72,7 +76,7 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "12",
+            "fips": "BP12",
             "geonames": 7280292
         },
         "long": {
@@ -82,7 +86,7 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "13",
+            "fips": "BP13",
             "geonames": 7280293
         },
         "long": {
@@ -92,7 +96,7 @@
     {
         "parent": "SB",
         "ids": {
-            "fips": "14",
+            "fips": "BP14",
             "geonames": 9259067
         },
         "long": {

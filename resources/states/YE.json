@@ -2,7 +2,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "25",
+            "fips": "YM25",
             "geonames": 70222
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "05",
-            "geonames": 70935
+            "fips": "YM05",
+            "geonames": 70935,
+            "iso_3166_2": "YE-SH"
         },
         "long": {
             "default": "Shabwah"
@@ -22,7 +23,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "16",
+            "fips": "YM16",
             "geonames": 71132
         },
         "long": {
@@ -32,7 +33,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "15",
+            "fips": "YM15",
             "geonames": 71333
         },
         "long": {
@@ -42,8 +43,9 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "27",
-            "geonames": 71532
+            "fips": "YM27",
+            "geonames": 71532,
+            "iso_3166_2": "YE-RA"
         },
         "long": {
             "default": "Raymah"
@@ -52,7 +54,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "14",
+            "fips": "YM14",
             "geonames": 72966
         },
         "long": {
@@ -62,7 +64,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "10",
+            "fips": "YM10",
             "geonames": 73200
         },
         "long": {
@@ -72,7 +74,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "21",
+            "fips": "YM21",
             "geonames": 74222
         },
         "long": {
@@ -82,7 +84,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "04",
+            "fips": "YM04",
             "geonames": 75411
         },
         "long": {
@@ -92,7 +94,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "11",
+            "fips": "YM11",
             "geonames": 76183
         },
         "long": {
@@ -102,8 +104,9 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "03",
-            "geonames": 78985
+            "fips": "YM03",
+            "geonames": 78985,
+            "iso_3166_2": "YE-MR"
         },
         "long": {
             "default": "Al Mahrah"
@@ -112,7 +115,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "08",
+            "fips": "YM08",
             "geonames": 79416
         },
         "long": {
@@ -122,7 +125,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "20",
+            "fips": "YM20",
             "geonames": 79838
         },
         "long": {
@@ -132,7 +135,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "02",
+            "fips": "YM02",
             "geonames": 80412
         },
         "long": {
@@ -142,8 +145,9 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "01",
-            "geonames": 80425
+            "fips": "YM01",
+            "geonames": 80425,
+            "iso_3166_2": "YE-AB"
         },
         "long": {
             "default": "Abyan"
@@ -152,7 +156,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "18",
+            "fips": "YM18",
             "geonames": 6201193
         },
         "long": {
@@ -162,7 +166,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "19",
+            "fips": "YM19",
             "geonames": 6201194
         },
         "long": {
@@ -172,7 +176,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "22",
+            "fips": "YM22",
             "geonames": 6201195
         },
         "long": {
@@ -182,8 +186,9 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "23",
-            "geonames": 6201196
+            "fips": "YM23",
+            "geonames": 6201196,
+            "iso_3166_2": "YE-IB"
         },
         "long": {
             "default": "Ibb"
@@ -192,7 +197,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "24",
+            "fips": "YM24",
             "geonames": 6201197
         },
         "long": {
@@ -202,8 +207,9 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "26",
-            "geonames": 6940571
+            "fips": "YM26",
+            "geonames": 6940571,
+            "iso_3166_2": "YE-SA"
         },
         "long": {
             "default": "Amanat Al Asimah"
@@ -212,7 +218,7 @@
     {
         "parent": "YE",
         "ids": {
-            "fips": "28",
+            "fips": "YM28",
             "geonames": 9645387
         },
         "long": {

@@ -2,7 +2,7 @@
     {
         "parent": "GL",
         "ids": {
-            "fips": "05",
+            "fips": "GL05",
             "geonames": 7602003
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "GL",
         "ids": {
-            "fips": "04",
+            "fips": "GL04",
             "geonames": 7602005
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "GL",
         "ids": {
-            "fips": "06",
+            "fips": "GL06",
             "geonames": 7602006
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "GL",
         "ids": {
-            "fips": "07",
+            "fips": "GL07",
             "geonames": 7602007
         },
         "long": {

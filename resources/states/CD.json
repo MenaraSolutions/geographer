@@ -2,7 +2,7 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "12",
+            "fips": "CG12",
             "geonames": 205413
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "05",
-            "geonames": 205703
+            "fips": "CG05",
+            "geonames": 205703,
+            "iso_3166_2": "CD-KA"
         },
         "long": {
             "default": "Katanga"
@@ -22,7 +23,7 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "11",
+            "fips": "CG11",
             "geonames": 206938
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "10",
-            "geonames": 209610
+            "fips": "CG10",
+            "geonames": 209610,
+            "iso_3166_2": "CD-MA"
         },
         "long": {
             "default": "Maniema"
@@ -42,7 +44,7 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "04",
+            "fips": "CG04",
             "geonames": 214138
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "03",
-            "geonames": 214139
+            "fips": "CG03",
+            "geonames": 214139,
+            "iso_3166_2": "CD-KW"
         },
         "long": {
             "default": "Kasaï-Occidental"
@@ -62,8 +65,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "09",
-            "geonames": 216139
+            "fips": "CG09",
+            "geonames": 216139,
+            "iso_3166_2": "CD-OR"
         },
         "long": {
             "default": "Orientale"
@@ -72,7 +76,7 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "02",
+            "fips": "CG02",
             "geonames": 216661
         },
         "long": {
@@ -82,8 +86,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "06",
-            "geonames": 2314300
+            "fips": "CG06",
+            "geonames": 2314300,
+            "iso_3166_2": "CD-KN"
         },
         "long": {
             "default": "Kinshasa"
@@ -92,8 +97,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "08",
-            "geonames": 2317277
+            "fips": "CG08",
+            "geonames": 2317277,
+            "iso_3166_2": "CD-BC"
         },
         "long": {
             "default": "Bas-Congo"
@@ -102,8 +108,9 @@
     {
         "parent": "CD",
         "ids": {
-            "fips": "01",
-            "geonames": 2317396
+            "fips": "CG01",
+            "geonames": 2317396,
+            "iso_3166_2": "CD-BN"
         },
         "long": {
             "default": "Bandundu"

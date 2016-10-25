@@ -2,8 +2,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "18",
-            "geonames": 3600193
+            "fips": "HO18",
+            "geonames": 3600193,
+            "iso_3166_2": "HN-YO"
         },
         "long": {
             "default": "Yoro"
@@ -12,8 +13,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "17",
-            "geonames": 3600456
+            "fips": "HO17",
+            "geonames": 3600456,
+            "iso_3166_2": "HN-VA"
         },
         "long": {
             "default": "Valle"
@@ -22,7 +24,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "16",
+            "fips": "HO16",
             "geonames": 3601689
         },
         "long": {
@@ -32,8 +34,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "15",
-            "geonames": 3604249
+            "fips": "HO15",
+            "geonames": 3604249,
+            "iso_3166_2": "HN-OL"
         },
         "long": {
             "default": "Olancho"
@@ -42,8 +45,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "14",
-            "geonames": 3604318
+            "fips": "HO14",
+            "geonames": 3604318,
+            "iso_3166_2": "HN-OC"
         },
         "long": {
             "default": "Ocotepeque"
@@ -52,8 +56,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "13",
-            "geonames": 3606066
+            "fips": "HO13",
+            "geonames": 3606066,
+            "iso_3166_2": "HN-LE"
         },
         "long": {
             "default": "Lempira"
@@ -62,7 +67,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "12",
+            "fips": "HO12",
             "geonames": 3607251
         },
         "long": {
@@ -72,7 +77,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "11",
+            "fips": "HO11",
             "geonames": 3608814
         },
         "long": {
@@ -82,7 +87,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "10",
+            "fips": "HO10",
             "geonames": 3608833
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "09",
-            "geonames": 3609583
+            "fips": "HO09",
+            "geonames": 3609583,
+            "iso_3166_2": "HN-GD"
         },
         "long": {
             "default": "Gracias a Dios"
@@ -102,8 +108,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "08",
-            "geonames": 3609672
+            "fips": "HO08",
+            "geonames": 3609672,
+            "iso_3166_2": "HN-FM"
         },
         "long": {
             "default": "Francisco Morazán"
@@ -112,7 +119,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "07",
+            "fips": "HO07",
             "geonames": 3610942
         },
         "long": {
@@ -122,7 +129,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "06",
+            "fips": "HO06",
             "geonames": 3613140
         },
         "long": {
@@ -132,7 +139,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "05",
+            "fips": "HO05",
             "geonames": 3613229
         },
         "long": {
@@ -142,8 +149,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "04",
-            "geonames": 3613319
+            "fips": "HO04",
+            "geonames": 3613319,
+            "iso_3166_2": "HN-CM"
         },
         "long": {
             "default": "Comayagua"
@@ -152,7 +160,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "03",
+            "fips": "HO03",
             "geonames": 3613358
         },
         "long": {
@@ -162,8 +170,9 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "02",
-            "geonames": 3613527
+            "fips": "HO02",
+            "geonames": 3613527,
+            "iso_3166_2": "HN-CH"
         },
         "long": {
             "default": "Choluteca"
@@ -172,7 +181,7 @@
     {
         "parent": "HN",
         "ids": {
-            "fips": "01",
+            "fips": "HO01",
             "geonames": 3615027
         },
         "long": {

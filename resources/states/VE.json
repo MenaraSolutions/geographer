@@ -2,8 +2,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "23",
-            "geonames": 3625035
+            "fips": "VE23",
+            "geonames": 3625035,
+            "iso_3166_2": "VE-V"
         },
         "long": {
             "default": "Zulia"
@@ -12,8 +13,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "22",
-            "geonames": 3625210
+            "fips": "VE22",
+            "geonames": 3625210,
+            "iso_3166_2": "VE-U"
         },
         "long": {
             "default": "Yaracuy"
@@ -22,8 +24,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "21",
-            "geonames": 3625974
+            "fips": "VE21",
+            "geonames": 3625974,
+            "iso_3166_2": "VE-T"
         },
         "long": {
             "default": "Trujillo"
@@ -32,7 +35,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "20",
+            "fips": "VE20",
             "geonames": 3626553
         },
         "long": {
@@ -42,7 +45,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "19",
+            "fips": "VE19",
             "geonames": 3626655
         },
         "long": {
@@ -52,8 +55,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "18",
-            "geonames": 3629941
+            "fips": "VE18",
+            "geonames": 3629941,
+            "iso_3166_2": "VE-P"
         },
         "long": {
             "default": "Portuguesa"
@@ -62,8 +66,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "17",
-            "geonames": 3631462
+            "fips": "VE17",
+            "geonames": 3631462,
+            "iso_3166_2": "VE-O"
         },
         "long": {
             "default": "Nueva Esparta"
@@ -72,8 +77,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "16",
-            "geonames": 3632100
+            "fips": "VE16",
+            "geonames": 3632100,
+            "iso_3166_2": "VE-N"
         },
         "long": {
             "default": "Monagas"
@@ -82,8 +88,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "15",
-            "geonames": 3632191
+            "fips": "VE15",
+            "geonames": 3632191,
+            "iso_3166_2": "VE-M"
         },
         "long": {
             "default": "Miranda"
@@ -92,7 +99,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "14",
+            "fips": "VE14",
             "geonames": 3632306
         },
         "long": {
@@ -102,8 +109,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "13",
-            "geonames": 3636539
+            "fips": "VE13",
+            "geonames": 3636539,
+            "iso_3166_2": "VE-K"
         },
         "long": {
             "default": "Lara"
@@ -112,7 +120,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "12",
+            "fips": "VE12",
             "geonames": 3640017
         },
         "long": {
@@ -122,7 +130,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "24",
+            "fips": "VE24",
             "geonames": 3640846
         },
         "long": {
@@ -132,7 +140,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "25",
+            "fips": "VE25",
             "geonames": 3640847
         },
         "long": {
@@ -142,7 +150,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "11",
+            "fips": "VE11",
             "geonames": 3640873
         },
         "long": {
@@ -152,8 +160,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "09",
-            "geonames": 3644541
+            "fips": "VE09",
+            "geonames": 3644541,
+            "iso_3166_2": "VE-Y"
         },
         "long": {
             "default": "Delta Amacuro"
@@ -162,8 +171,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "08",
-            "geonames": 3645386
+            "fips": "VE08",
+            "geonames": 3645386,
+            "iso_3166_2": "VE-H"
         },
         "long": {
             "default": "Cojedes"
@@ -172,8 +182,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "07",
-            "geonames": 3646751
+            "fips": "VE07",
+            "geonames": 3646751,
+            "iso_3166_2": "VE-G"
         },
         "long": {
             "default": "Carabobo"
@@ -182,7 +193,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "06",
+            "fips": "VE06",
             "geonames": 3648106
         },
         "long": {
@@ -192,8 +203,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "05",
-            "geonames": 3648544
+            "fips": "VE05",
+            "geonames": 3648544,
+            "iso_3166_2": "VE-E"
         },
         "long": {
             "default": "Barinas"
@@ -202,8 +214,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "04",
-            "geonames": 3649110
+            "fips": "VE04",
+            "geonames": 3649110,
+            "iso_3166_2": "VE-D"
         },
         "long": {
             "default": "Aragua"
@@ -212,8 +225,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "03",
-            "geonames": 3649151
+            "fips": "VE03",
+            "geonames": 3649151,
+            "iso_3166_2": "VE-C"
         },
         "long": {
             "default": "Apure"
@@ -222,7 +236,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "02",
+            "fips": "VE02",
             "geonames": 3649198
         },
         "long": {
@@ -232,7 +246,7 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "01",
+            "fips": "VE01",
             "geonames": 3649302
         },
         "long": {
@@ -242,8 +256,9 @@
     {
         "parent": "VE",
         "ids": {
-            "fips": "26",
-            "geonames": 3830309
+            "fips": "VE26",
+            "geonames": 3830309,
+            "iso_3166_2": "VE-X"
         },
         "long": {
             "default": "Vargas"

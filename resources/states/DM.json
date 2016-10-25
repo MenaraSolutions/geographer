@@ -2,7 +2,7 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "11",
+            "fips": "DO11",
             "geonames": 3575618
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "10",
+            "fips": "DO10",
             "geonames": 3575619
         },
         "long": {
@@ -22,8 +22,9 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "09",
-            "geonames": 3575620
+            "fips": "DO09",
+            "geonames": 3575620,
+            "iso_3166_2": "DM-09"
         },
         "long": {
             "default": "Saint Patrick"
@@ -32,8 +33,9 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "08",
-            "geonames": 3575621
+            "fips": "DO08",
+            "geonames": 3575621,
+            "iso_3166_2": "DM-08"
         },
         "long": {
             "default": "Saint Mark"
@@ -42,8 +44,9 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "07",
-            "geonames": 3575622
+            "fips": "DO07",
+            "geonames": 3575622,
+            "iso_3166_2": "DM-07"
         },
         "long": {
             "default": "Saint Luke"
@@ -52,7 +55,7 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "06",
+            "fips": "DO06",
             "geonames": 3575625
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "05",
+            "fips": "DO05",
             "geonames": 3575626
         },
         "long": {
@@ -72,8 +75,9 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "04",
-            "geonames": 3575628
+            "fips": "DO04",
+            "geonames": 3575628,
+            "iso_3166_2": "DM-04"
         },
         "long": {
             "default": "Saint George"
@@ -82,8 +86,9 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "03",
-            "geonames": 3575630
+            "fips": "DO03",
+            "geonames": 3575630,
+            "iso_3166_2": "DM-03"
         },
         "long": {
             "default": "Saint David"
@@ -92,8 +97,9 @@
     {
         "parent": "DM",
         "ids": {
-            "fips": "02",
-            "geonames": 3575632
+            "fips": "DO02",
+            "geonames": 3575632,
+            "iso_3166_2": "DM-02"
         },
         "long": {
             "default": "Saint Andrew"

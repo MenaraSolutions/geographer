@@ -2,8 +2,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "17",
-            "fips": "17",
+            "fips": "MJ17",
             "geonames": 786233
         },
         "long": {
@@ -13,8 +12,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "21",
-            "fips": "21",
+            "fips": "MJ21",
             "geonames": 3186995
         },
         "long": {
@@ -24,9 +22,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "20",
-            "fips": "20",
-            "geonames": 3188514
+            "fips": "MJ20",
+            "geonames": 3188514,
+            "iso_3166_2": "ME-20"
         },
         "long": {
             "default": "Ulcinj"
@@ -35,9 +33,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "19",
-            "fips": "19",
-            "geonames": 3189071
+            "fips": "MJ19",
+            "geonames": 3189071,
+            "iso_3166_2": "ME-19"
         },
         "long": {
             "default": "Tivat"
@@ -46,9 +44,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "16",
-            "fips": "16",
-            "geonames": 3189077
+            "fips": "MJ16",
+            "geonames": 3189077,
+            "iso_3166_2": "ME-16"
         },
         "long": {
             "default": "Podgorica"
@@ -57,8 +55,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "18",
-            "fips": "18",
+            "fips": "MJ18",
             "geonames": 3191221
         },
         "long": {
@@ -68,8 +65,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "15",
-            "fips": "15",
+            "fips": "MJ15",
             "geonames": 3193129
         },
         "long": {
@@ -79,8 +75,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "14",
-            "fips": "14",
+            "fips": "MJ14",
             "geonames": 3193160
         },
         "long": {
@@ -90,8 +85,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "13",
-            "fips": "13",
+            "fips": "MJ13",
             "geonames": 3193227
         },
         "long": {
@@ -101,8 +95,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "12",
-            "fips": "12",
+            "fips": "MJ12",
             "geonames": 3194493
         },
         "long": {
@@ -112,9 +105,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "11",
-            "fips": "11",
-            "geonames": 3194925
+            "fips": "MJ11",
+            "geonames": 3194925,
+            "iso_3166_2": "ME-11"
         },
         "long": {
             "default": "Mojkovac"
@@ -123,9 +116,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "10",
-            "fips": "10",
-            "geonames": 3197537
+            "fips": "MJ10",
+            "geonames": 3197537,
+            "iso_3166_2": "ME-10"
         },
         "long": {
             "default": "Kotor"
@@ -134,8 +127,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "09",
-            "fips": "09",
+            "fips": "MJ09",
             "geonames": 3197895
         },
         "long": {
@@ -145,8 +137,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "03",
-            "fips": "03",
+            "fips": "MJ03",
             "geonames": 3199070
         },
         "long": {
@@ -156,9 +147,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "08",
-            "fips": "08",
-            "geonames": 3199393
+            "fips": "MJ08",
+            "geonames": 3199393,
+            "iso_3166_2": "ME-08"
         },
         "long": {
             "default": "Herceg Novi"
@@ -167,9 +158,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "07",
-            "fips": "07",
-            "geonames": 3202193
+            "fips": "MJ07",
+            "geonames": 3202193,
+            "iso_3166_2": "ME-07"
         },
         "long": {
             "default": "Danilovgrad"
@@ -178,9 +169,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "06",
-            "fips": "06",
-            "geonames": 3202640
+            "fips": "MJ06",
+            "geonames": 3202640,
+            "iso_3166_2": "ME-06"
         },
         "long": {
             "default": "Cetinje"
@@ -189,9 +180,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "05",
-            "fips": "05",
-            "geonames": 3203104
+            "fips": "MJ05",
+            "geonames": 3203104,
+            "iso_3166_2": "ME-05"
         },
         "long": {
             "default": "Budva"
@@ -200,8 +191,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "04",
-            "fips": "04",
+            "fips": "MJ04",
             "geonames": 3204173
         },
         "long": {
@@ -211,9 +201,9 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "02",
-            "fips": "02",
-            "geonames": 3204508
+            "fips": "MJ02",
+            "geonames": 3204508,
+            "iso_3166_2": "ME-02"
         },
         "long": {
             "default": "Bar"
@@ -222,8 +212,7 @@
     {
         "parent": "ME",
         "ids": {
-            "iso_3166": "01",
-            "fips": "01",
+            "fips": "MJ01",
             "geonames": 3343959
         },
         "long": {

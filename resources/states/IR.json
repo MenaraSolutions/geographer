@@ -2,7 +2,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "26",
+            "fips": "IR26",
             "geonames": 110791
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "36",
-            "geonames": 111452
+            "fips": "IR36",
+            "geonames": 111452,
+            "iso_3166_2": "IR-11"
         },
         "long": {
             "default": "Zanjan"
@@ -22,8 +23,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "40",
-            "geonames": 111821
+            "fips": "IR40",
+            "geonames": 111821,
+            "iso_3166_2": "IR-25"
         },
         "long": {
             "default": "Yazd"
@@ -32,7 +34,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "25",
+            "fips": "IR25",
             "geonames": 116401
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "35",
+            "fips": "IR35",
             "geonames": 124544
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "34",
-            "geonames": 124763
+            "fips": "IR34",
+            "geonames": 124763,
+            "iso_3166_2": "IR-22"
         },
         "long": {
             "default": "Markazi"
@@ -62,7 +65,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "23",
+            "fips": "IR23",
             "geonames": 125605
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "16",
+            "fips": "IR16",
             "geonames": 126584
         },
         "long": {
@@ -82,7 +85,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "05",
+            "fips": "IR05",
             "geonames": 126878
         },
         "long": {
@@ -92,8 +95,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "15",
-            "geonames": 127082
+            "fips": "IR15",
+            "geonames": 127082,
+            "iso_3166_2": "IR-10"
         },
         "long": {
             "default": "Khuzestan"
@@ -102,7 +106,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "13",
+            "fips": "IR13",
             "geonames": 128222
         },
         "long": {
@@ -112,8 +116,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "29",
-            "geonames": 128231
+            "fips": "IR29",
+            "geonames": 128231,
+            "iso_3166_2": "IR-15"
         },
         "long": {
             "default": "Kerman"
@@ -122,7 +127,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "10",
+            "fips": "IR10",
             "geonames": 130801
         },
         "long": {
@@ -132,8 +137,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "11",
-            "geonames": 131222
+            "fips": "IR11",
+            "geonames": 131222,
+            "iso_3166_2": "IR-23"
         },
         "long": {
             "default": "Hormozgan"
@@ -142,7 +148,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "09",
+            "fips": "IR09",
             "geonames": 132142
         },
         "long": {
@@ -152,7 +158,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "08",
+            "fips": "IR08",
             "geonames": 133349
         },
         "long": {
@@ -162,8 +168,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "07",
-            "geonames": 134766
+            "fips": "IR07",
+            "geonames": 134766,
+            "iso_3166_2": "IR-14"
         },
         "long": {
             "default": "Fars"
@@ -172,7 +179,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "03",
+            "fips": "IR03",
             "geonames": 139677
         },
         "long": {
@@ -182,8 +189,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "22",
-            "geonames": 139816
+            "fips": "IR22",
+            "geonames": 139816,
+            "iso_3166_2": "IR-06"
         },
         "long": {
             "default": "Bushehr"
@@ -192,7 +200,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "33",
+            "fips": "IR33",
             "geonames": 142549
         },
         "long": {
@@ -202,7 +210,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "01",
+            "fips": "IR01",
             "geonames": 142550
         },
         "long": {
@@ -212,7 +220,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "32",
+            "fips": "IR32",
             "geonames": 413931
         },
         "long": {
@@ -222,7 +230,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "28",
+            "fips": "IR28",
             "geonames": 418862
         },
         "long": {
@@ -232,7 +240,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "37",
+            "fips": "IR37",
             "geonames": 443792
         },
         "long": {
@@ -242,7 +250,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "38",
+            "fips": "IR38",
             "geonames": 443793
         },
         "long": {
@@ -252,8 +260,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "39",
-            "geonames": 443794
+            "fips": "IR39",
+            "geonames": 443794,
+            "iso_3166_2": "IR-26"
         },
         "long": {
             "default": "Qom"
@@ -262,8 +271,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "04",
-            "geonames": 1159456
+            "fips": "IR04",
+            "geonames": 1159456,
+            "iso_3166_2": "IR-13"
         },
         "long": {
             "default": "Sistan and Baluchestan"
@@ -272,7 +282,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "41",
+            "fips": "IR41",
             "geonames": 6201374
         },
         "long": {
@@ -282,7 +292,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "42",
+            "fips": "IR42",
             "geonames": 6201375
         },
         "long": {
@@ -292,7 +302,7 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "43",
+            "fips": "IR43",
             "geonames": 6201376
         },
         "long": {
@@ -302,8 +312,9 @@
     {
         "parent": "IR",
         "ids": {
-            "fips": "44",
-            "geonames": 7648907
+            "fips": "IR44",
+            "geonames": 7648907,
+            "iso_3166_2": "IR-32"
         },
         "long": {
             "default": "Alborz"

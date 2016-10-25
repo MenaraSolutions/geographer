@@ -2,7 +2,7 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "31",
+            "fips": "MX31",
             "geonames": 3514211
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "30",
-            "geonames": 3514780
+            "fips": "MX30",
+            "geonames": 3514780,
+            "iso_3166_2": "MX-VER"
         },
         "long": {
             "default": "Veracruz"
@@ -22,8 +23,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "29",
-            "geonames": 3515359
+            "fips": "MX29",
+            "geonames": 3515359,
+            "iso_3166_2": "MX-TLA"
         },
         "long": {
             "default": "Tlaxcala"
@@ -32,8 +34,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "28",
-            "geonames": 3516391
+            "fips": "MX28",
+            "geonames": 3516391,
+            "iso_3166_2": "MX-TAM"
         },
         "long": {
             "default": "Tamaulipas"
@@ -42,8 +45,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "27",
-            "geonames": 3516458
+            "fips": "MX27",
+            "geonames": 3516458,
+            "iso_3166_2": "MX-TAB"
         },
         "long": {
             "default": "Tabasco"
@@ -52,8 +56,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "23",
-            "geonames": 3520887
+            "fips": "MX23",
+            "geonames": 3520887,
+            "iso_3166_2": "MX-ROO"
         },
         "long": {
             "default": "Quintana Roo"
@@ -62,7 +67,7 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "22",
+            "fips": "MX22",
             "geonames": 3520914
         },
         "long": {
@@ -72,8 +77,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "21",
-            "geonames": 3521082
+            "fips": "MX21",
+            "geonames": 3521082,
+            "iso_3166_2": "MX-PUE"
         },
         "long": {
             "default": "Puebla"
@@ -82,8 +88,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "20",
-            "geonames": 3522509
+            "fips": "MX20",
+            "geonames": 3522509,
+            "iso_3166_2": "MX-OAX"
         },
         "long": {
             "default": "Oaxaca"
@@ -92,7 +99,7 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "19",
+            "fips": "MX19",
             "geonames": 3522542
         },
         "long": {
@@ -102,8 +109,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "17",
-            "geonames": 3522961
+            "fips": "MX17",
+            "geonames": 3522961,
+            "iso_3166_2": "MX-MOR"
         },
         "long": {
             "default": "Morelos"
@@ -112,7 +120,7 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "15",
+            "fips": "MX15",
             "geonames": 3523272
         },
         "long": {
@@ -122,8 +130,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "13",
-            "geonames": 3527115
+            "fips": "MX13",
+            "geonames": 3527115,
+            "iso_3166_2": "MX-HID"
         },
         "long": {
             "default": "Hidalgo"
@@ -132,8 +141,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "12",
-            "geonames": 3527213
+            "fips": "MX12",
+            "geonames": 3527213,
+            "iso_3166_2": "MX-GRO"
         },
         "long": {
             "default": "Guerrero"
@@ -142,7 +152,7 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "09",
+            "fips": "MX09",
             "geonames": 3527646
         },
         "long": {
@@ -152,8 +162,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "05",
-            "geonames": 3531011
+            "fips": "MX05",
+            "geonames": 3531011,
+            "iso_3166_2": "MX-CHP"
         },
         "long": {
             "default": "Chiapas"
@@ -162,8 +173,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "04",
-            "geonames": 3531730
+            "fips": "MX04",
+            "geonames": 3531730,
+            "iso_3166_2": "MX-CAM"
         },
         "long": {
             "default": "Campeche"
@@ -172,8 +184,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "32",
-            "geonames": 3979840
+            "fips": "MX32",
+            "geonames": 3979840,
+            "iso_3166_2": "MX-ZAC"
         },
         "long": {
             "default": "Zacatecas"
@@ -182,8 +195,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "26",
-            "geonames": 3982846
+            "fips": "MX26",
+            "geonames": 3982846,
+            "iso_3166_2": "MX-SON"
         },
         "long": {
             "default": "Sonora"
@@ -192,8 +206,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "25",
-            "geonames": 3983035
+            "fips": "MX25",
+            "geonames": 3983035,
+            "iso_3166_2": "MX-SIN"
         },
         "long": {
             "default": "Sinaloa"
@@ -202,8 +217,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "24",
-            "geonames": 3985605
+            "fips": "MX24",
+            "geonames": 3985605,
+            "iso_3166_2": "MX-SLP"
         },
         "long": {
             "default": "San Luis Potosí"
@@ -212,8 +228,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "18",
-            "geonames": 3995012
+            "fips": "MX18",
+            "geonames": 3995012,
+            "iso_3166_2": "MX-NAY"
         },
         "long": {
             "default": "Nayarit"
@@ -222,7 +239,7 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "16",
+            "fips": "MX16",
             "geonames": 3995955
         },
         "long": {
@@ -232,8 +249,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "14",
-            "geonames": 4004156
+            "fips": "MX14",
+            "geonames": 4004156,
+            "iso_3166_2": "MX-JAL"
         },
         "long": {
             "default": "Jalisco"
@@ -242,8 +260,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "11",
-            "geonames": 4005267
+            "fips": "MX11",
+            "geonames": 4005267,
+            "iso_3166_2": "MX-GUA"
         },
         "long": {
             "default": "Guanajuato"
@@ -252,8 +271,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "10",
-            "geonames": 4011741
+            "fips": "MX10",
+            "geonames": 4011741,
+            "iso_3166_2": "MX-DUR"
         },
         "long": {
             "default": "Durango"
@@ -262,8 +282,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "08",
-            "geonames": 4013513
+            "fips": "MX08",
+            "geonames": 4013513,
+            "iso_3166_2": "MX-COL"
         },
         "long": {
             "default": "Colima"
@@ -272,8 +293,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "07",
-            "geonames": 4013674
+            "fips": "MX07",
+            "geonames": 4013674,
+            "iso_3166_2": "MX-COA"
         },
         "long": {
             "default": "Coahuila"
@@ -282,8 +304,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "06",
-            "geonames": 4014336
+            "fips": "MX06",
+            "geonames": 4014336,
+            "iso_3166_2": "MX-CHH"
         },
         "long": {
             "default": "Chihuahua"
@@ -292,8 +315,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "03",
-            "geonames": 4017698
+            "fips": "MX03",
+            "geonames": 4017698,
+            "iso_3166_2": "MX-BCS"
         },
         "long": {
             "default": "Baja California Sur"
@@ -302,8 +326,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "02",
-            "geonames": 4017700
+            "fips": "MX02",
+            "geonames": 4017700,
+            "iso_3166_2": "MX-BCN"
         },
         "long": {
             "default": "Baja California"
@@ -312,8 +337,9 @@
     {
         "parent": "MX",
         "ids": {
-            "fips": "01",
-            "geonames": 4019231
+            "fips": "MX01",
+            "geonames": 4019231,
+            "iso_3166_2": "MX-AGU"
         },
         "long": {
             "default": "Aguascalientes"

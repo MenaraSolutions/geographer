@@ -2,7 +2,7 @@
     {
         "parent": "KW",
         "ids": {
-            "fips": "08",
+            "fips": "KU08",
             "geonames": 285628
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "KW",
         "ids": {
-            "fips": "02",
+            "fips": "KU02",
             "geonames": 285788
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "KW",
         "ids": {
-            "fips": "05",
+            "fips": "KU05",
             "geonames": 285798
         },
         "long": {
@@ -32,8 +32,9 @@
     {
         "parent": "KW",
         "ids": {
-            "fips": "07",
-            "geonames": 285816
+            "fips": "KU07",
+            "geonames": 285816,
+            "iso_3166_2": "KW-FA"
         },
         "long": {
             "default": "Al Farwaniyah"
@@ -42,7 +43,7 @@
     {
         "parent": "KW",
         "ids": {
-            "fips": "04",
+            "fips": "KU04",
             "geonames": 285841
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "KW",
         "ids": {
-            "fips": "09",
+            "fips": "KU09",
             "geonames": 7733358
         },
         "long": {

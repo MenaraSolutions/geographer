@@ -83,7 +83,8 @@
         "parent": "UM",
         "ids": {
             "fips": "400",
-            "geonames": 5854952
+            "geonames": 5854952,
+            "iso_3166_2": "UM-95"
         },
         "long": {
             "default": "Palmyra Atoll"

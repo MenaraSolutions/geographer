@@ -2,8 +2,9 @@
     {
         "parent": "FM",
         "ids": {
-            "fips": "04",
-            "geonames": 2081175
+            "fips": "FM04",
+            "geonames": 2081175,
+            "iso_3166_2": "FM-YAP"
         },
         "long": {
             "default": "Yap"
@@ -12,8 +13,9 @@
     {
         "parent": "FM",
         "ids": {
-            "fips": "02",
-            "geonames": 2081550
+            "fips": "FM02",
+            "geonames": 2081550,
+            "iso_3166_2": "FM-PNI"
         },
         "long": {
             "default": "Pohnpei"
@@ -22,8 +24,9 @@
     {
         "parent": "FM",
         "ids": {
-            "fips": "01",
-            "geonames": 2082036
+            "fips": "FM01",
+            "geonames": 2082036,
+            "iso_3166_2": "FM-KSA"
         },
         "long": {
             "default": "Kosrae"
@@ -32,8 +35,9 @@
     {
         "parent": "FM",
         "ids": {
-            "fips": "03",
-            "geonames": 2082282
+            "fips": "FM03",
+            "geonames": 2082282,
+            "iso_3166_2": "FM-TRK"
         },
         "long": {
             "default": "Chuuk"

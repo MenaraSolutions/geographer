@@ -2,7 +2,7 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "14",
+            "fips": "CH14",
             "geonames": 1279685
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "06",
-            "geonames": 1280239
+            "fips": "CH06",
+            "geonames": 1280239,
+            "iso_3166_2": "CN-63"
         },
         "long": {
             "default": "Qinghai"
@@ -22,7 +23,7 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "13",
+            "fips": "CH13",
             "geonames": 1529047
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "02",
-            "geonames": 1784764
+            "fips": "CH02",
+            "geonames": 1784764,
+            "iso_3166_2": "CN-33"
         },
         "long": {
             "default": "Zhejiang"
@@ -42,8 +44,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "29",
-            "geonames": 1785694
+            "fips": "CH29",
+            "geonames": 1785694,
+            "iso_3166_2": "CN-53"
         },
         "long": {
             "default": "Yunnan"
@@ -52,8 +55,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "28",
-            "geonames": 1792943
+            "fips": "CH28",
+            "geonames": 1792943,
+            "iso_3166_2": "CN-12"
         },
         "long": {
             "default": "Tianjin"
@@ -62,8 +66,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "32",
-            "geonames": 1794299
+            "fips": "CH32",
+            "geonames": 1794299,
+            "iso_3166_2": "CN-51"
         },
         "long": {
             "default": "Sichuan"
@@ -72,8 +77,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "24",
-            "geonames": 1795912
+            "fips": "CH24",
+            "geonames": 1795912,
+            "iso_3166_2": "CN-14"
         },
         "long": {
             "default": "Shanxi"
@@ -82,8 +88,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "23",
-            "geonames": 1796231
+            "fips": "CH23",
+            "geonames": 1796231,
+            "iso_3166_2": "CN-31"
         },
         "long": {
             "default": "Shanghai"
@@ -92,8 +99,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "25",
-            "geonames": 1796328
+            "fips": "CH25",
+            "geonames": 1796328,
+            "iso_3166_2": "CN-37"
         },
         "long": {
             "default": "Shandong"
@@ -102,8 +110,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "26",
-            "geonames": 1796480
+            "fips": "CH26",
+            "geonames": 1796480,
+            "iso_3166_2": "CN-14"
         },
         "long": {
             "default": "Shaanxi"
@@ -112,7 +121,7 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "21",
+            "fips": "CH21",
             "geonames": 1799355
         },
         "long": {
@@ -122,8 +131,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "03",
-            "geonames": 1806222
+            "fips": "CH03",
+            "geonames": 1806222,
+            "iso_3166_2": "CN-36"
         },
         "long": {
             "default": "Jiangxi"
@@ -132,8 +142,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "04",
-            "geonames": 1806260
+            "fips": "CH04",
+            "geonames": 1806260,
+            "iso_3166_2": "CN-32"
         },
         "long": {
             "default": "Jiangsu"
@@ -142,8 +153,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "11",
-            "geonames": 1806691
+            "fips": "CH11",
+            "geonames": 1806691,
+            "iso_3166_2": "CN-43"
         },
         "long": {
             "default": "Hunan"
@@ -152,8 +164,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "12",
-            "geonames": 1806949
+            "fips": "CH12",
+            "geonames": 1806949,
+            "iso_3166_2": "CN-42"
         },
         "long": {
             "default": "Hubei"
@@ -162,8 +175,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "09",
-            "geonames": 1808520
+            "fips": "CH09",
+            "geonames": 1808520,
+            "iso_3166_2": "CN-41"
         },
         "long": {
             "default": "Henan"
@@ -172,8 +186,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "10",
-            "geonames": 1808773
+            "fips": "CH10",
+            "geonames": 1808773,
+            "iso_3166_2": "CN-13"
         },
         "long": {
             "default": "Hebei"
@@ -182,8 +197,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "31",
-            "geonames": 1809054
+            "fips": "CH31",
+            "geonames": 1809054,
+            "iso_3166_2": "CN-46"
         },
         "long": {
             "default": "Hainan"
@@ -192,8 +208,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "18",
-            "geonames": 1809445
+            "fips": "CH18",
+            "geonames": 1809445,
+            "iso_3166_2": "CN-52"
         },
         "long": {
             "default": "Guizhou"
@@ -202,7 +219,7 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "16",
+            "fips": "CH16",
             "geonames": 1809867
         },
         "long": {
@@ -212,8 +229,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "30",
-            "geonames": 1809935
+            "fips": "CH30",
+            "geonames": 1809935,
+            "iso_3166_2": "CN-44"
         },
         "long": {
             "default": "Guangdong"
@@ -222,8 +240,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "15",
-            "geonames": 1810676
+            "fips": "CH15",
+            "geonames": 1810676,
+            "iso_3166_2": "CN-62"
         },
         "long": {
             "default": "Gansu"
@@ -232,8 +251,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "07",
-            "geonames": 1811017
+            "fips": "CH07",
+            "geonames": 1811017,
+            "iso_3166_2": "CN-35"
         },
         "long": {
             "default": "Fujian"
@@ -242,8 +262,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "33",
-            "geonames": 1814905
+            "fips": "CH33",
+            "geonames": 1814905,
+            "iso_3166_2": "CN-50"
         },
         "long": {
             "default": "Chongqing"
@@ -252,8 +273,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "01",
-            "geonames": 1818058
+            "fips": "CH01",
+            "geonames": 1818058,
+            "iso_3166_2": "CN-34"
         },
         "long": {
             "default": "Anhui"
@@ -262,7 +284,7 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "20",
+            "fips": "CH20",
             "geonames": 2035607
         },
         "long": {
@@ -272,8 +294,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "19",
-            "geonames": 2036115
+            "fips": "CH19",
+            "geonames": 2036115,
+            "iso_3166_2": "CN-21"
         },
         "long": {
             "default": "Liaoning"
@@ -282,8 +305,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "05",
-            "geonames": 2036500
+            "fips": "CH05",
+            "geonames": 2036500,
+            "iso_3166_2": "CN-22"
         },
         "long": {
             "default": "Jilin"
@@ -292,8 +316,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "08",
-            "geonames": 2036965
+            "fips": "CH08",
+            "geonames": 2036965,
+            "iso_3166_2": "CN-23"
         },
         "long": {
             "default": "Heilongjiang"
@@ -302,8 +327,9 @@
     {
         "parent": "CN",
         "ids": {
-            "fips": "22",
-            "geonames": 2038349
+            "fips": "CH22",
+            "geonames": 2038349,
+            "iso_3166_2": "CN-11"
         },
         "long": {
             "default": "Beijing"

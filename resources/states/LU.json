@@ -2,7 +2,7 @@
     {
         "parent": "LU",
         "ids": {
-            "fips": "03",
+            "fips": "LU03",
             "geonames": 2960314
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "LU",
         "ids": {
-            "fips": "02",
-            "geonames": 2960513
+            "fips": "LU02",
+            "geonames": 2960513,
+            "iso_3166_2": "LU-G"
         },
         "long": {
             "default": "Grevenmacher"
@@ -22,8 +23,9 @@
     {
         "parent": "LU",
         "ids": {
-            "fips": "01",
-            "geonames": 2960655
+            "fips": "LU01",
+            "geonames": 2960655,
+            "iso_3166_2": "LU-D"
         },
         "long": {
             "default": "Diekirch"

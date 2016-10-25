@@ -2,7 +2,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "73",
+            "fips": "MD73",
             "geonames": 617077
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "92",
-            "geonames": 617181
+            "fips": "MD92",
+            "geonames": 617181,
+            "iso_3166_2": "MD-UN"
         },
         "long": {
             "default": "Ungheni"
@@ -22,7 +23,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "91",
+            "fips": "MD91",
             "geonames": 617255
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "90",
-            "geonames": 617264
+            "fips": "MD90",
+            "geonames": 617264,
+            "iso_3166_2": "MD-TA"
         },
         "long": {
             "default": "Taraclia"
@@ -42,7 +44,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "88",
+            "fips": "MD88",
             "geonames": 617283
         },
         "long": {
@@ -52,7 +54,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "89",
+            "fips": "MD89",
             "geonames": 617301
         },
         "long": {
@@ -62,7 +64,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "87",
+            "fips": "MD87",
             "geonames": 617366
         },
         "long": {
@@ -72,7 +74,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "84",
+            "fips": "MD84",
             "geonames": 617483
         },
         "long": {
@@ -82,8 +84,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "83",
-            "geonames": 617501
+            "fips": "MD83",
+            "geonames": 617501,
+            "iso_3166_2": "MD-RE"
         },
         "long": {
             "default": "Rezina"
@@ -92,8 +95,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "82",
-            "geonames": 617639
+            "fips": "MD82",
+            "geonames": 617639,
+            "iso_3166_2": "MD-OR"
         },
         "long": {
             "default": "Orhei"
@@ -102,7 +106,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "81",
+            "fips": "MD81",
             "geonames": 617656
         },
         "long": {
@@ -112,8 +116,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "59",
-            "geonames": 617715
+            "fips": "MD59",
+            "geonames": 617715,
+            "iso_3166_2": "MD-AN"
         },
         "long": {
             "default": "Anenii Noi"
@@ -122,8 +127,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "80",
-            "geonames": 617754
+            "fips": "MD80",
+            "geonames": 617754,
+            "iso_3166_2": "MD-NI"
         },
         "long": {
             "default": "Nisporeni"
@@ -132,8 +138,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "79",
-            "geonames": 617903
+            "fips": "MD79",
+            "geonames": 617903,
+            "iso_3166_2": "MD-LE"
         },
         "long": {
             "default": "Leova"
@@ -142,7 +149,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "85",
+            "fips": "MD85",
             "geonames": 617913
         },
         "long": {
@@ -152,8 +159,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "69",
-            "geonames": 617962
+            "fips": "MD69",
+            "geonames": 617962,
+            "iso_3166_2": "MD-CR"
         },
         "long": {
             "default": "Criuleni"
@@ -162,7 +170,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "78",
+            "fips": "MD78",
             "geonames": 617991
         },
         "long": {
@@ -172,7 +180,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "57",
+            "fips": "MD57",
             "geonames": 618069
         },
         "long": {
@@ -182,7 +190,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "67",
+            "fips": "MD67",
             "geonames": 618119
         },
         "long": {
@@ -192,8 +200,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "65",
-            "geonames": 618142
+            "fips": "MD65",
+            "geonames": 618142,
+            "iso_3166_2": "MD-CT"
         },
         "long": {
             "default": "Cantemir"
@@ -202,7 +211,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "66",
+            "fips": "MD66",
             "geonames": 618162
         },
         "long": {
@@ -212,8 +221,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "64",
-            "geonames": 618164
+            "fips": "MD64",
+            "geonames": 618164,
+            "iso_3166_2": "MD-CA"
         },
         "long": {
             "default": "Cahul"
@@ -222,8 +232,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "76",
-            "geonames": 618260
+            "fips": "MD76",
+            "geonames": 618260,
+            "iso_3166_2": "MD-GL"
         },
         "long": {
             "default": "Glodeni"
@@ -232,7 +243,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "75",
+            "fips": "MD75",
             "geonames": 618331
         },
         "long": {
@@ -242,7 +253,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "74",
+            "fips": "MD74",
             "geonames": 618345
         },
         "long": {
@@ -252,7 +263,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "72",
+            "fips": "MD72",
             "geonames": 618363
         },
         "long": {
@@ -262,8 +273,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "71",
-            "geonames": 618369
+            "fips": "MD71",
+            "geonames": 618369,
+            "iso_3166_2": "MD-DR"
         },
         "long": {
             "default": "Drochia"
@@ -272,7 +284,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "70",
+            "fips": "MD70",
             "geonames": 618381
         },
         "long": {
@@ -282,7 +294,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "68",
+            "fips": "MD68",
             "geonames": 618430
         },
         "long": {
@@ -292,8 +304,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "63",
-            "geonames": 618511
+            "fips": "MD63",
+            "geonames": 618511,
+            "iso_3166_2": "MD-BR"
         },
         "long": {
             "default": "Briceni"
@@ -302,8 +315,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "61",
-            "geonames": 618565
+            "fips": "MD61",
+            "geonames": 618565,
+            "iso_3166_2": "MD-BS"
         },
         "long": {
             "default": "Basarabeasca"
@@ -312,7 +326,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "77",
+            "fips": "MD77",
             "geonames": 858803
         },
         "long": {
@@ -322,7 +336,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "86",
+            "fips": "MD86",
             "geonames": 858808
         },
         "long": {
@@ -332,7 +346,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "58",
+            "fips": "MD58",
             "geonames": 858889
         },
         "long": {
@@ -342,7 +356,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "51",
+            "fips": "MD51",
             "geonames": 858895
         },
         "long": {
@@ -352,8 +366,9 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "62",
-            "geonames": 861487
+            "fips": "MD62",
+            "geonames": 861487,
+            "iso_3166_2": "MD-TI"
         },
         "long": {
             "default": "Bender"
@@ -362,7 +377,7 @@
     {
         "parent": "MD",
         "ids": {
-            "fips": "60",
+            "fips": "MD60",
             "geonames": 873909
         },
         "long": {

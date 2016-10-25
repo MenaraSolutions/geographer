@@ -2,8 +2,9 @@
     {
         "parent": "DJ",
         "ids": {
-            "fips": "05",
-            "geonames": 220781
+            "fips": "DJ05",
+            "geonames": 220781,
+            "iso_3166_2": "DJ-TA"
         },
         "long": {
             "default": "Tadjourah"
@@ -12,8 +13,9 @@
     {
         "parent": "DJ",
         "ids": {
-            "fips": "04",
-            "geonames": 221525
+            "fips": "DJ04",
+            "geonames": 221525,
+            "iso_3166_2": "DJ-OB"
         },
         "long": {
             "default": "Obock"
@@ -22,8 +24,9 @@
     {
         "parent": "DJ",
         "ids": {
-            "fips": "07",
-            "geonames": 223818
+            "fips": "DJ07",
+            "geonames": 223818,
+            "iso_3166_2": "DJ-DJ"
         },
         "long": {
             "default": "Djibouti"
@@ -32,8 +35,9 @@
     {
         "parent": "DJ",
         "ids": {
-            "fips": "06",
-            "geonames": 223889
+            "fips": "DJ06",
+            "geonames": 223889,
+            "iso_3166_2": "DJ-DI"
         },
         "long": {
             "default": "Dikhil"
@@ -42,8 +46,9 @@
     {
         "parent": "DJ",
         "ids": {
-            "fips": "01",
-            "geonames": 225282
+            "fips": "DJ01",
+            "geonames": 225282,
+            "iso_3166_2": "DJ-AS"
         },
         "long": {
             "default": "Ali Sabieh"
@@ -52,8 +57,9 @@
     {
         "parent": "DJ",
         "ids": {
-            "fips": "08",
-            "geonames": 449265
+            "fips": "DJ08",
+            "geonames": 449265,
+            "iso_3166_2": "DJ-AR"
         },
         "long": {
             "default": "Arta"

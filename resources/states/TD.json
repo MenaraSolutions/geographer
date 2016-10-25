@@ -2,8 +2,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "13",
-            "geonames": 242048
+            "fips": "CD13",
+            "geonames": 242048,
+            "iso_3166_2": "TD-SA"
         },
         "long": {
             "default": "Salamat"
@@ -12,7 +13,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "12",
+            "fips": "CD12",
             "geonames": 242246
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "02",
-            "geonames": 244877
+            "fips": "CD02",
+            "geonames": 244877,
+            "iso_3166_2": "TD-WF"
         },
         "long": {
             "default": "Wadi Fira"
@@ -32,7 +34,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "14",
+            "fips": "CD14",
             "geonames": 2425287
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "17",
-            "geonames": 2427315
+            "fips": "CD17",
+            "geonames": 2427315,
+            "iso_3166_2": "TD-MC"
         },
         "long": {
             "default": "Moyen-Chari"
@@ -52,8 +55,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "16",
-            "geonames": 2428132
+            "fips": "CD16",
+            "geonames": 2428132,
+            "iso_3166_2": "TD-ME"
         },
         "long": {
             "default": "Mayo-Kebbi Est"
@@ -62,8 +66,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "09",
-            "geonames": 2429058
+            "fips": "CD09",
+            "geonames": 2429058,
+            "iso_3166_2": "TD-LR"
         },
         "long": {
             "default": "Logone Oriental"
@@ -72,8 +77,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "08",
-            "geonames": 2429060
+            "fips": "CD08",
+            "geonames": 2429060,
+            "iso_3166_2": "TD-LO"
         },
         "long": {
             "default": "Logone Occidental"
@@ -82,8 +88,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "07",
-            "geonames": 2429323
+            "fips": "CD07",
+            "geonames": 2429323,
+            "iso_3166_2": "TD-LC"
         },
         "long": {
             "default": "Lac"
@@ -92,8 +99,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "06",
-            "geonames": 2430873
+            "fips": "CD06",
+            "geonames": 2430873,
+            "iso_3166_2": "TD-KA"
         },
         "long": {
             "default": "Kanem"
@@ -102,7 +110,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "05",
+            "fips": "CD05",
             "geonames": 2431555
         },
         "long": {
@@ -112,8 +120,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "15",
-            "geonames": 2434478
+            "fips": "CD15",
+            "geonames": 2434478,
+            "iso_3166_2": "TD-CB"
         },
         "long": {
             "default": "Chari-Baguirmi"
@@ -122,8 +131,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "01",
-            "geonames": 2435899
+            "fips": "CD01",
+            "geonames": 2435899,
+            "iso_3166_2": "TD-BA"
         },
         "long": {
             "default": "Batha"
@@ -132,8 +142,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "23",
-            "geonames": 7602866
+            "fips": "CD23",
+            "geonames": 7602866,
+            "iso_3166_2": "TD-BO"
         },
         "long": {
             "default": "Borkou"
@@ -142,8 +153,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "18",
-            "geonames": 7603251
+            "fips": "CD18",
+            "geonames": 7603251,
+            "iso_3166_2": "TD-HL"
         },
         "long": {
             "default": "Hadjer-Lamis"
@@ -152,8 +164,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "19",
-            "geonames": 7603252
+            "fips": "CD19",
+            "geonames": 7603252,
+            "iso_3166_2": "TD-MA"
         },
         "long": {
             "default": "Mandoul"
@@ -162,8 +175,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "20",
-            "geonames": 7603253
+            "fips": "CD20",
+            "geonames": 7603253,
+            "iso_3166_2": "TD-MO"
         },
         "long": {
             "default": "Mayo-Kebbi Ouest"
@@ -172,7 +186,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "21",
+            "fips": "CD21",
             "geonames": 7603254
         },
         "long": {
@@ -182,8 +196,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "22",
-            "geonames": 7603255
+            "fips": "CD22",
+            "geonames": 7603255,
+            "iso_3166_2": "TD-BG"
         },
         "long": {
             "default": "Barh el Gazel"
@@ -192,7 +207,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "25",
+            "fips": "CD25",
             "geonames": 7603257
         },
         "long": {
@@ -202,8 +217,9 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "26",
-            "geonames": 7603258
+            "fips": "CD26",
+            "geonames": 7603258,
+            "iso_3166_2": "TD-TI"
         },
         "long": {
             "default": "Tibesti"
@@ -212,7 +228,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "28",
+            "fips": "CD28",
             "geonames": 8604857
         },
         "long": {
@@ -222,7 +238,7 @@
     {
         "parent": "TD",
         "ids": {
-            "fips": "27",
+            "fips": "CD27",
             "geonames": 8604858
         },
         "long": {

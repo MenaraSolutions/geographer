@@ -2,7 +2,7 @@
     {
         "parent": "KM",
         "ids": {
-            "fips": "03",
+            "fips": "CN03",
             "geonames": 921780
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "KM",
         "ids": {
-            "fips": "02",
-            "geonames": 921882
+            "fips": "CN02",
+            "geonames": 921882,
+            "iso_3166_2": "KM-G"
         },
         "long": {
             "default": "Grande Comore"
@@ -22,8 +23,9 @@
     {
         "parent": "KM",
         "ids": {
-            "fips": "01",
-            "geonames": 922001
+            "fips": "CN01",
+            "geonames": 922001,
+            "iso_3166_2": "KM-A"
         },
         "long": {
             "default": "Anjouan"

@@ -2,8 +2,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "11",
-            "geonames": 3573606
+            "fips": "TD11",
+            "geonames": 3573606,
+            "iso_3166_2": "TT-TOB"
         },
         "long": {
             "default": "Tobago"
@@ -12,7 +13,7 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "10",
+            "fips": "TD10",
             "geonames": 3573739
         },
         "long": {
@@ -22,7 +23,7 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "05",
+            "fips": "TD05",
             "geonames": 3573891
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "03",
-            "geonames": 3574155
+            "fips": "TD03",
+            "geonames": 3574155,
+            "iso_3166_2": "TT-MRC"
         },
         "long": {
             "default": "Mayaro"
@@ -42,7 +44,7 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "01",
+            "fips": "TD01",
             "geonames": 3575052
         },
         "long": {

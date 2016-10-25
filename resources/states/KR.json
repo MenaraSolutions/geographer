@@ -2,8 +2,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "21",
-            "geonames": 1833742
+            "fips": "KS21",
+            "geonames": 1833742,
+            "iso_3166_2": "KR-31"
         },
         "long": {
             "default": "Ulsan"
@@ -12,8 +13,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "19",
-            "geonames": 1835224
+            "fips": "KS19",
+            "geonames": 1835224,
+            "iso_3166_2": "KR-30"
         },
         "long": {
             "default": "Daejeon"
@@ -22,8 +24,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "15",
-            "geonames": 1835327
+            "fips": "KS15",
+            "geonames": 1835327,
+            "iso_3166_2": "KR-27"
         },
         "long": {
             "default": "Daegu"
@@ -32,8 +35,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "11",
-            "geonames": 1835847
+            "fips": "KS11",
+            "geonames": 1835847,
+            "iso_3166_2": "KR-11"
         },
         "long": {
             "default": "Seoul"
@@ -42,8 +46,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "10",
-            "geonames": 1838519
+            "fips": "KS10",
+            "geonames": 1838519,
+            "iso_3166_2": "KR-26"
         },
         "long": {
             "default": "Busan"
@@ -52,7 +57,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "14",
+            "fips": "KS14",
             "geonames": 1841597
         },
         "long": {
@@ -62,7 +67,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "13",
+            "fips": "KS13",
             "geonames": 1841610
         },
         "long": {
@@ -72,8 +77,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "18",
-            "geonames": 1841808
+            "fips": "KS18",
+            "geonames": 1841808,
+            "iso_3166_2": "KR-29"
         },
         "long": {
             "default": "Gwangju"
@@ -82,7 +88,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "06",
+            "fips": "KS06",
             "geonames": 1843125
         },
         "long": {
@@ -92,8 +98,9 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "12",
-            "geonames": 1843561
+            "fips": "KS12",
+            "geonames": 1843561,
+            "iso_3166_2": "KR-28"
         },
         "long": {
             "default": "Incheon"
@@ -102,7 +109,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "17",
+            "fips": "KS17",
             "geonames": 1845105
         },
         "long": {
@@ -112,7 +119,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "05",
+            "fips": "KS05",
             "geonames": 1845106
         },
         "long": {
@@ -122,7 +129,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "16",
+            "fips": "KS16",
             "geonames": 1845788
         },
         "long": {
@@ -132,7 +139,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "03",
+            "fips": "KS03",
             "geonames": 1845789
         },
         "long": {
@@ -142,7 +149,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "01",
+            "fips": "KS01",
             "geonames": 1846265
         },
         "long": {
@@ -152,7 +159,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "20",
+            "fips": "KS20",
             "geonames": 1902028
         },
         "long": {
@@ -162,7 +169,7 @@
     {
         "parent": "KR",
         "ids": {
-            "fips": "22",
+            "fips": "KS22",
             "geonames": 8394437
         },
         "long": {

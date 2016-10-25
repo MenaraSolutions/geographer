@@ -2,7 +2,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "55",
+            "fips": "KE55",
             "geonames": 178145
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "54",
+            "fips": "KE54",
             "geonames": 178440
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "52",
+            "fips": "KE52",
             "geonames": 178837
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "51",
+            "fips": "KE51",
             "geonames": 178914
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "50",
+            "fips": "KE50",
             "geonames": 179068
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "49",
+            "fips": "KE49",
             "geonames": 179380
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "48",
+            "fips": "KE48",
             "geonames": 179585
         },
         "long": {
@@ -72,7 +72,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "46",
+            "fips": "KE46",
             "geonames": 180320
         },
         "long": {
@@ -82,7 +82,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "45",
+            "fips": "KE45",
             "geonames": 180782
         },
         "long": {
@@ -92,8 +92,9 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "05",
-            "geonames": 184742
+            "fips": "KE05",
+            "geonames": 184742,
+            "iso_3166_2": "KE-110"
         },
         "long": {
             "default": "Nairobi Area"
@@ -102,7 +103,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "38",
+            "fips": "KE38",
             "geonames": 185578
         },
         "long": {
@@ -112,7 +113,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "37",
+            "fips": "KE37",
             "geonames": 186298
         },
         "long": {
@@ -122,7 +123,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "35",
+            "fips": "KE35",
             "geonames": 186824
         },
         "long": {
@@ -132,7 +133,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "34",
+            "fips": "KE34",
             "geonames": 187583
         },
         "long": {
@@ -142,7 +143,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "33",
+            "fips": "KE33",
             "geonames": 187895
         },
         "long": {
@@ -152,7 +153,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "29",
+            "fips": "KE29",
             "geonames": 189794
         },
         "long": {
@@ -162,7 +163,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "28",
+            "fips": "KE28",
             "geonames": 190106
         },
         "long": {
@@ -172,7 +173,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "27",
+            "fips": "KE27",
             "geonames": 191037
         },
         "long": {
@@ -182,7 +183,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "26",
+            "fips": "KE26",
             "geonames": 191242
         },
         "long": {
@@ -192,7 +193,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "25",
+            "fips": "KE25",
             "geonames": 191298
         },
         "long": {
@@ -202,7 +203,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "24",
+            "fips": "KE24",
             "geonames": 191420
         },
         "long": {
@@ -212,7 +213,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "23",
+            "fips": "KE23",
             "geonames": 192064
         },
         "long": {
@@ -222,7 +223,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "22",
+            "fips": "KE22",
             "geonames": 192709
         },
         "long": {
@@ -232,7 +233,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "21",
+            "fips": "KE21",
             "geonames": 192898
         },
         "long": {
@@ -242,7 +243,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "20",
+            "fips": "KE20",
             "geonames": 195271
         },
         "long": {
@@ -252,7 +253,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "18",
+            "fips": "KE18",
             "geonames": 196228
         },
         "long": {
@@ -262,7 +263,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "16",
+            "fips": "KE16",
             "geonames": 197744
         },
         "long": {
@@ -272,7 +273,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "15",
+            "fips": "KE15",
             "geonames": 198474
         },
         "long": {
@@ -282,7 +283,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "13",
+            "fips": "KE13",
             "geonames": 199987
         },
         "long": {
@@ -292,7 +293,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "12",
+            "fips": "KE12",
             "geonames": 200066
         },
         "long": {
@@ -302,7 +303,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "10",
+            "fips": "KE10",
             "geonames": 200573
         },
         "long": {
@@ -312,7 +313,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "43",
+            "fips": "KE43",
             "geonames": 7603036
         },
         "long": {
@@ -322,7 +323,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "53",
+            "fips": "KE53",
             "geonames": 7667638
         },
         "long": {
@@ -332,7 +333,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "30",
+            "fips": "KE30",
             "geonames": 7667643
         },
         "long": {
@@ -342,7 +343,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "31",
+            "fips": "KE31",
             "geonames": 7667644
         },
         "long": {
@@ -352,7 +353,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "32",
+            "fips": "KE32",
             "geonames": 7667645
         },
         "long": {
@@ -362,7 +363,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "14",
+            "fips": "KE14",
             "geonames": 7667646
         },
         "long": {
@@ -372,7 +373,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "47",
+            "fips": "KE47",
             "geonames": 7667652
         },
         "long": {
@@ -382,7 +383,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "19",
+            "fips": "KE19",
             "geonames": 7667657
         },
         "long": {
@@ -392,7 +393,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "44",
+            "fips": "KE44",
             "geonames": 7667661
         },
         "long": {
@@ -402,7 +403,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "17",
+            "fips": "KE17",
             "geonames": 7667665
         },
         "long": {
@@ -412,7 +413,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "11",
+            "fips": "KE11",
             "geonames": 7667666
         },
         "long": {
@@ -422,7 +423,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "36",
+            "fips": "KE36",
             "geonames": 7667678
         },
         "long": {
@@ -432,7 +433,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "39",
+            "fips": "KE39",
             "geonames": 7668902
         },
         "long": {
@@ -442,7 +443,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "41",
+            "fips": "KE41",
             "geonames": 7668904
         },
         "long": {
@@ -452,7 +453,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "42",
+            "fips": "KE42",
             "geonames": 7806857
         },
         "long": {
@@ -462,7 +463,7 @@
     {
         "parent": "KE",
         "ids": {
-            "fips": "40",
+            "fips": "KE40",
             "geonames": 8051212
         },
         "long": {

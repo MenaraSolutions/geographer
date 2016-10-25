@@ -2,8 +2,9 @@
     {
         "parent": "SZ",
         "ids": {
-            "fips": "04",
-            "geonames": 934867
+            "fips": "WZ04",
+            "geonames": 934867,
+            "iso_3166_2": "SZ-SH"
         },
         "long": {
             "default": "Shiselweni"
@@ -12,8 +13,9 @@
     {
         "parent": "SZ",
         "ids": {
-            "fips": "03",
-            "geonames": 934994
+            "fips": "WZ03",
+            "geonames": 934994,
+            "iso_3166_2": "SZ-MA"
         },
         "long": {
             "default": "Manzini"
@@ -22,8 +24,9 @@
     {
         "parent": "SZ",
         "ids": {
-            "fips": "02",
-            "geonames": 935042
+            "fips": "WZ02",
+            "geonames": 935042,
+            "iso_3166_2": "SZ-LU"
         },
         "long": {
             "default": "Lubombo"
@@ -32,8 +35,9 @@
     {
         "parent": "SZ",
         "ids": {
-            "fips": "01",
-            "geonames": 935085
+            "fips": "WZ01",
+            "geonames": 935085,
+            "iso_3166_2": "SZ-HH"
         },
         "long": {
             "default": "Hhohho"

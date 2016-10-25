@@ -2,8 +2,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "28",
-            "geonames": 1252881
+            "fips": "IN28",
+            "geonames": 1252881,
+            "iso_3166_2": "IN-WB"
         },
         "long": {
             "default": "West Bengal"
@@ -12,8 +13,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "36",
-            "geonames": 1253626
+            "fips": "IN36",
+            "geonames": 1253626,
+            "iso_3166_2": "IN-UP"
         },
         "long": {
             "default": "Uttar Pradesh"
@@ -22,8 +24,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "26",
-            "geonames": 1254169
+            "fips": "IN26",
+            "geonames": 1254169,
+            "iso_3166_2": "IN-TR"
         },
         "long": {
             "default": "Tripura"
@@ -32,8 +35,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "40",
-            "geonames": 1254788
+            "fips": "IN40",
+            "geonames": 1254788,
+            "iso_3166_2": "IN-TG"
         },
         "long": {
             "default": "Telangana"
@@ -42,8 +46,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "25",
-            "geonames": 1255053
+            "fips": "IN25",
+            "geonames": 1255053,
+            "iso_3166_2": "IN-TN"
         },
         "long": {
             "default": "Tamil Nadu"
@@ -52,8 +57,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "29",
-            "geonames": 1256312
+            "fips": "IN29",
+            "geonames": 1256312,
+            "iso_3166_2": "IN-SK"
         },
         "long": {
             "default": "Sikkim"
@@ -62,8 +68,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "24",
-            "geonames": 1258899
+            "fips": "IN24",
+            "geonames": 1258899,
+            "iso_3166_2": "IN-RJ"
         },
         "long": {
             "default": "Rajasthan"
@@ -72,8 +79,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "23",
-            "geonames": 1259223
+            "fips": "IN23",
+            "geonames": 1259223,
+            "iso_3166_2": "IN-PB"
         },
         "long": {
             "default": "Punjab"
@@ -82,7 +90,7 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "22",
+            "fips": "IN22",
             "geonames": 1259424
         },
         "long": {
@@ -92,8 +100,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "21",
-            "geonames": 1261029
+            "fips": "IN21",
+            "geonames": 1261029,
+            "iso_3166_2": "IN-OR"
         },
         "long": {
             "default": "Odisha"
@@ -102,8 +111,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "20",
-            "geonames": 1262271
+            "fips": "IN20",
+            "geonames": 1262271,
+            "iso_3166_2": "IN-NL"
         },
         "long": {
             "default": "Nagaland"
@@ -112,8 +122,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "31",
-            "geonames": 1262963
+            "fips": "IN31",
+            "geonames": 1262963,
+            "iso_3166_2": "IN-MZ"
         },
         "long": {
             "default": "Mizoram"
@@ -122,8 +133,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "18",
-            "geonames": 1263207
+            "fips": "IN18",
+            "geonames": 1263207,
+            "iso_3166_2": "IN-ML"
         },
         "long": {
             "default": "Meghalaya"
@@ -132,8 +144,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "17",
-            "geonames": 1263706
+            "fips": "IN17",
+            "geonames": 1263706,
+            "iso_3166_2": "IN-MN"
         },
         "long": {
             "default": "Manipur"
@@ -142,8 +155,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "16",
-            "geonames": 1264418
+            "fips": "IN16",
+            "geonames": 1264418,
+            "iso_3166_2": "IN-MH"
         },
         "long": {
             "default": "Maharashtra"
@@ -152,8 +166,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "35",
-            "geonames": 1264542
+            "fips": "IN35",
+            "geonames": 1264542,
+            "iso_3166_2": "IN-MP"
         },
         "long": {
             "default": "Madhya Pradesh"
@@ -162,7 +177,7 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "14",
+            "fips": "IN14",
             "geonames": 1265206
         },
         "long": {
@@ -172,8 +187,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "13",
-            "geonames": 1267254
+            "fips": "IN13",
+            "geonames": 1267254,
+            "iso_3166_2": "IN-KL"
         },
         "long": {
             "default": "Kerala"
@@ -182,8 +198,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "19",
-            "geonames": 1267701
+            "fips": "IN19",
+            "geonames": 1267701,
+            "iso_3166_2": "IN-KA"
         },
         "long": {
             "default": "Karnataka"
@@ -192,7 +209,7 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "12",
+            "fips": "IN12",
             "geonames": 1269320
         },
         "long": {
@@ -202,8 +219,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "11",
-            "geonames": 1270101
+            "fips": "IN11",
+            "geonames": 1270101,
+            "iso_3166_2": "IN-HP"
         },
         "long": {
             "default": "Himachal Pradesh"
@@ -212,8 +230,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "10",
-            "geonames": 1270260
+            "fips": "IN10",
+            "geonames": 1270260,
+            "iso_3166_2": "IN-HR"
         },
         "long": {
             "default": "Haryana"
@@ -222,8 +241,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "09",
-            "geonames": 1270770
+            "fips": "IN09",
+            "geonames": 1270770,
+            "iso_3166_2": "IN-GJ"
         },
         "long": {
             "default": "Gujarat"
@@ -232,8 +252,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "32",
-            "geonames": 1271155
+            "fips": "IN32",
+            "geonames": 1271155,
+            "iso_3166_2": "IN-DD"
         },
         "long": {
             "default": "Daman and Diu"
@@ -242,8 +263,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "33",
-            "geonames": 1271157
+            "fips": "IN33",
+            "geonames": 1271157,
+            "iso_3166_2": "IN-GA"
         },
         "long": {
             "default": "Goa"
@@ -252,7 +274,7 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "07",
+            "fips": "IN07",
             "geonames": 1273293
         },
         "long": {
@@ -262,8 +284,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "06",
-            "geonames": 1273726
+            "fips": "IN06",
+            "geonames": 1273726,
+            "iso_3166_2": "IN-DN"
         },
         "long": {
             "default": "Dadra and Nagar Haveli"
@@ -272,8 +295,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "05",
-            "geonames": 1274744
+            "fips": "IN05",
+            "geonames": 1274744,
+            "iso_3166_2": "IN-CH"
         },
         "long": {
             "default": "Chandigarh"
@@ -282,8 +306,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "34",
-            "geonames": 1275715
+            "fips": "IN34",
+            "geonames": 1275715,
+            "iso_3166_2": "IN-BR"
         },
         "long": {
             "default": "Bihar"
@@ -292,8 +317,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "03",
-            "geonames": 1278253
+            "fips": "IN03",
+            "geonames": 1278253,
+            "iso_3166_2": "IN-AS"
         },
         "long": {
             "default": "Assam"
@@ -302,8 +328,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "30",
-            "geonames": 1278341
+            "fips": "IN30",
+            "geonames": 1278341,
+            "iso_3166_2": "IN-AR"
         },
         "long": {
             "default": "Arunachal Pradesh"
@@ -312,8 +339,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "02",
-            "geonames": 1278629
+            "fips": "IN02",
+            "geonames": 1278629,
+            "iso_3166_2": "IN-AP"
         },
         "long": {
             "default": "Andhra Pradesh"
@@ -322,8 +350,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "01",
-            "geonames": 1278647
+            "fips": "IN01",
+            "geonames": 1278647,
+            "iso_3166_2": "IN-AN"
         },
         "long": {
             "default": "Andaman and Nicobar Islands"
@@ -332,8 +361,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "37",
-            "geonames": 1444364
+            "fips": "IN37",
+            "geonames": 1444364,
+            "iso_3166_2": "IN-CT"
         },
         "long": {
             "default": "Chhattisgarh"
@@ -342,8 +372,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "38",
-            "geonames": 1444365
+            "fips": "IN38",
+            "geonames": 1444365,
+            "iso_3166_2": "IN-JH"
         },
         "long": {
             "default": "Jharkhand"
@@ -352,8 +383,9 @@
     {
         "parent": "IN",
         "ids": {
-            "fips": "39",
-            "geonames": 1444366
+            "fips": "IN39",
+            "geonames": 1444366,
+            "iso_3166_2": "IN-UT"
         },
         "long": {
             "default": "Uttarakhand"

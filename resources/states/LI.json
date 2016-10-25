@@ -2,8 +2,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "11",
-            "geonames": 3042031
+            "fips": "LS11",
+            "geonames": 3042031,
+            "iso_3166_2": "LI-11"
         },
         "long": {
             "default": "Vaduz"
@@ -12,8 +13,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "10",
-            "geonames": 3042034
+            "fips": "LS10",
+            "geonames": 3042034,
+            "iso_3166_2": "LI-10"
         },
         "long": {
             "default": "Triesenberg"
@@ -22,8 +24,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "09",
-            "geonames": 3042036
+            "fips": "LS09",
+            "geonames": 3042036,
+            "iso_3166_2": "LI-09"
         },
         "long": {
             "default": "Triesen"
@@ -32,8 +35,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "08",
-            "geonames": 3042038
+            "fips": "LS08",
+            "geonames": 3042038,
+            "iso_3166_2": "LI-08"
         },
         "long": {
             "default": "Schellenberg"
@@ -42,8 +46,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "07",
-            "geonames": 3042042
+            "fips": "LS07",
+            "geonames": 3042042,
+            "iso_3166_2": "LI-07"
         },
         "long": {
             "default": "Schaan"
@@ -52,8 +57,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "06",
-            "geonames": 3042047
+            "fips": "LS06",
+            "geonames": 3042047,
+            "iso_3166_2": "LI-06"
         },
         "long": {
             "default": "Ruggell"
@@ -62,8 +68,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "05",
-            "geonames": 3042050
+            "fips": "LS05",
+            "geonames": 3042050,
+            "iso_3166_2": "LI-05"
         },
         "long": {
             "default": "Planken"
@@ -72,8 +79,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "04",
-            "geonames": 3042056
+            "fips": "LS04",
+            "geonames": 3042056,
+            "iso_3166_2": "LI-04"
         },
         "long": {
             "default": "Mauren"
@@ -82,8 +90,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "03",
-            "geonames": 3042063
+            "fips": "LS03",
+            "geonames": 3042063,
+            "iso_3166_2": "LI-03"
         },
         "long": {
             "default": "Gamprin"
@@ -92,8 +101,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "02",
-            "geonames": 3042069
+            "fips": "LS02",
+            "geonames": 3042069,
+            "iso_3166_2": "LI-02"
         },
         "long": {
             "default": "Eschen"
@@ -102,8 +112,9 @@
     {
         "parent": "LI",
         "ids": {
-            "fips": "01",
-            "geonames": 3042074
+            "fips": "LS01",
+            "geonames": 3042074,
+            "iso_3166_2": "LI-01"
         },
         "long": {
             "default": "Balzers"

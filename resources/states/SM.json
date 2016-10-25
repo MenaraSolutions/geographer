@@ -2,8 +2,9 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "09",
-            "geonames": 3166650
+            "fips": "SM09",
+            "geonames": 3166650,
+            "iso_3166_2": "SM-09"
         },
         "long": {
             "default": "Serravalle"
@@ -12,8 +13,9 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "02",
-            "geonames": 3178807
+            "fips": "SM02",
+            "geonames": 3178807,
+            "iso_3166_2": "SM-02"
         },
         "long": {
             "default": "Chiesanuova"
@@ -22,8 +24,9 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "07",
-            "geonames": 3345302
+            "fips": "SM07",
+            "geonames": 3345302,
+            "iso_3166_2": "SM-07"
         },
         "long": {
             "default": "San Marino"
@@ -32,8 +35,9 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "01",
-            "geonames": 3345303
+            "fips": "SM01",
+            "geonames": 3345303,
+            "iso_3166_2": "SM-01"
         },
         "long": {
             "default": "Acquaviva"
@@ -42,7 +46,7 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "06",
+            "fips": "SM06",
             "geonames": 3345304
         },
         "long": {
@@ -52,7 +56,7 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "03",
+            "fips": "SM03",
             "geonames": 3345305
         },
         "long": {
@@ -62,7 +66,7 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "04",
+            "fips": "SM04",
             "geonames": 3345306
         },
         "long": {
@@ -72,7 +76,7 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "05",
+            "fips": "SM05",
             "geonames": 3345307
         },
         "long": {
@@ -82,7 +86,7 @@
     {
         "parent": "SM",
         "ids": {
-            "fips": "08",
+            "fips": "SM08",
             "geonames": 3345308
         },
         "long": {

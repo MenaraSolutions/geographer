@@ -2,8 +2,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "12",
-            "geonames": 1293118
+            "fips": "BM12",
+            "geonames": 1293118,
+            "iso_3166_2": "MM-05"
         },
         "long": {
             "default": "Tanintharyi"
@@ -12,8 +13,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "11",
-            "geonames": 1297099
+            "fips": "BM11",
+            "geonames": 1297099,
+            "iso_3166_2": "MM-17"
         },
         "long": {
             "default": "Shan"
@@ -22,8 +24,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "10",
-            "geonames": 1298480
+            "fips": "BM10",
+            "geonames": 1298480,
+            "iso_3166_2": "MM-01"
         },
         "long": {
             "default": "Sagain"
@@ -32,8 +35,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "17",
-            "geonames": 1298822
+            "fips": "BM17",
+            "geonames": 1298822,
+            "iso_3166_2": "MM-06"
         },
         "long": {
             "default": "Yangon"
@@ -42,8 +46,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "01",
-            "geonames": 1298852
+            "fips": "BM01",
+            "geonames": 1298852,
+            "iso_3166_2": "MM-16"
         },
         "long": {
             "default": "Rakhine"
@@ -52,8 +57,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "16",
-            "geonames": 1300463
+            "fips": "BM16",
+            "geonames": 1300463,
+            "iso_3166_2": "MM-02"
         },
         "long": {
             "default": "Bago"
@@ -62,8 +68,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "13",
-            "geonames": 1308528
+            "fips": "BM13",
+            "geonames": 1308528,
+            "iso_3166_2": "MM-15"
         },
         "long": {
             "default": "Mon"
@@ -72,8 +79,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "08",
-            "geonames": 1311871
+            "fips": "BM08",
+            "geonames": 1311871,
+            "iso_3166_2": "MM-04"
         },
         "long": {
             "default": "Mandalay"
@@ -82,8 +90,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "15",
-            "geonames": 1312604
+            "fips": "BM15",
+            "geonames": 1312604,
+            "iso_3166_2": "MM-03"
         },
         "long": {
             "default": "Magway"
@@ -92,8 +101,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "06",
-            "geonames": 1319539
+            "fips": "BM06",
+            "geonames": 1319539,
+            "iso_3166_2": "MM-12"
         },
         "long": {
             "default": "Kayah"
@@ -102,8 +112,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "05",
-            "geonames": 1320233
+            "fips": "BM05",
+            "geonames": 1320233,
+            "iso_3166_2": "MM-13"
         },
         "long": {
             "default": "Kayin"
@@ -112,8 +123,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "04",
-            "geonames": 1321702
+            "fips": "BM04",
+            "geonames": 1321702,
+            "iso_3166_2": "MM-11"
         },
         "long": {
             "default": "Kachin"
@@ -122,8 +134,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "03",
-            "geonames": 1321850
+            "fips": "BM03",
+            "geonames": 1321850,
+            "iso_3166_2": "MM-07"
         },
         "long": {
             "default": "Ayeyarwady"
@@ -132,8 +145,9 @@
     {
         "parent": "MM",
         "ids": {
-            "fips": "02",
-            "geonames": 1327132
+            "fips": "BM02",
+            "geonames": 1327132,
+            "iso_3166_2": "MM-14"
         },
         "long": {
             "default": "Chin"

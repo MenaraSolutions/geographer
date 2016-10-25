@@ -2,7 +2,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "24",
+            "fips": "EG24",
             "geonames": 347794
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "27",
+            "fips": "EG27",
             "geonames": 349401
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "23",
+            "fips": "EG23",
             "geonames": 350546
         },
         "long": {
@@ -32,8 +32,9 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "22",
-            "geonames": 352603
+            "fips": "EG22",
+            "geonames": 352603,
+            "iso_3166_2": "EG-MT"
         },
         "long": {
             "default": "Matruh"
@@ -42,7 +43,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "21",
+            "fips": "EG21",
             "geonames": 354500
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "26",
+            "fips": "EG26",
             "geonames": 355182
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "20",
+            "fips": "EG20",
             "geonames": 358044
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "19",
+            "fips": "EG19",
             "geonames": 358617
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "18",
+            "fips": "EG18",
             "geonames": 359171
         },
         "long": {
@@ -92,8 +93,9 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "17",
-            "geonames": 359781
+            "fips": "EG17",
+            "geonames": 359781,
+            "iso_3166_2": "EG-AST"
         },
         "long": {
             "default": "Asyut"
@@ -102,8 +104,9 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "16",
-            "geonames": 359787
+            "fips": "EG16",
+            "geonames": 359787,
+            "iso_3166_2": "EG-ASN"
         },
         "long": {
             "default": "Aswan"
@@ -112,7 +115,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "15",
+            "fips": "EG15",
             "geonames": 359797
         },
         "long": {
@@ -122,7 +125,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "14",
+            "fips": "EG14",
             "geonames": 360016
         },
         "long": {
@@ -132,7 +135,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "13",
+            "fips": "EG13",
             "geonames": 360483
         },
         "long": {
@@ -142,7 +145,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "12",
+            "fips": "EG12",
             "geonames": 360621
         },
         "long": {
@@ -152,7 +155,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "11",
+            "fips": "EG11",
             "geonames": 360631
         },
         "long": {
@@ -162,7 +165,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "10",
+            "fips": "EG10",
             "geonames": 360688
         },
         "long": {
@@ -172,7 +175,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "09",
+            "fips": "EG09",
             "geonames": 360689
         },
         "long": {
@@ -182,7 +185,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "08",
+            "fips": "EG08",
             "geonames": 360997
         },
         "long": {
@@ -192,7 +195,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "07",
+            "fips": "EG07",
             "geonames": 361056
         },
         "long": {
@@ -202,7 +205,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "06",
+            "fips": "EG06",
             "geonames": 361059
         },
         "long": {
@@ -212,7 +215,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "05",
+            "fips": "EG05",
             "geonames": 361294
         },
         "long": {
@@ -222,7 +225,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "04",
+            "fips": "EG04",
             "geonames": 361323
         },
         "long": {
@@ -232,7 +235,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "03",
+            "fips": "EG03",
             "geonames": 361370
         },
         "long": {
@@ -242,7 +245,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "02",
+            "fips": "EG02",
             "geonames": 361468
         },
         "long": {
@@ -252,7 +255,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "01",
+            "fips": "EG01",
             "geonames": 361849
         },
         "long": {
@@ -262,7 +265,7 @@
     {
         "parent": "EG",
         "ids": {
-            "fips": "28",
+            "fips": "EG28",
             "geonames": 7603259
         },
         "long": {

@@ -2,7 +2,7 @@
     {
         "parent": "TF",
         "ids": {
-            "fips": "02",
+            "fips": "FS02",
             "geonames": 936339
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "TF",
         "ids": {
-            "fips": "03",
+            "fips": "FS03",
             "geonames": 1546558
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "TF",
         "ids": {
-            "fips": "01",
+            "fips": "FS01",
             "geonames": 1547221
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "TF",
         "ids": {
-            "fips": "05",
+            "fips": "FS05",
             "geonames": 6690916
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "TF",
         "ids": {
-            "fips": "04",
+            "fips": "FS04",
             "geonames": 6690917
         },
         "long": {

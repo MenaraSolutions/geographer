@@ -2,7 +2,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "01",
+            "fips": "HR01",
             "geonames": 3337511
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "02",
+            "fips": "HR02",
             "geonames": 3337512
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "03",
+            "fips": "HR03",
             "geonames": 3337513
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "04",
+            "fips": "HR04",
             "geonames": 3337514
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "05",
+            "fips": "HR05",
             "geonames": 3337515
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "06",
+            "fips": "HR06",
             "geonames": 3337518
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "07",
+            "fips": "HR07",
             "geonames": 3337519
         },
         "long": {
@@ -72,7 +72,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "08",
+            "fips": "HR08",
             "geonames": 3337520
         },
         "long": {
@@ -82,7 +82,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "09",
+            "fips": "HR09",
             "geonames": 3337521
         },
         "long": {
@@ -92,7 +92,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "10",
+            "fips": "HR10",
             "geonames": 3337522
         },
         "long": {
@@ -102,7 +102,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "11",
+            "fips": "HR11",
             "geonames": 3337523
         },
         "long": {
@@ -112,7 +112,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "12",
+            "fips": "HR12",
             "geonames": 3337524
         },
         "long": {
@@ -122,7 +122,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "13",
+            "fips": "HR13",
             "geonames": 3337525
         },
         "long": {
@@ -132,7 +132,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "14",
+            "fips": "HR14",
             "geonames": 3337526
         },
         "long": {
@@ -142,7 +142,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "15",
+            "fips": "HR15",
             "geonames": 3337527
         },
         "long": {
@@ -152,7 +152,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "16",
+            "fips": "HR16",
             "geonames": 3337528
         },
         "long": {
@@ -162,7 +162,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "18",
+            "fips": "HR18",
             "geonames": 3337529
         },
         "long": {
@@ -172,7 +172,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "19",
+            "fips": "HR19",
             "geonames": 3337530
         },
         "long": {
@@ -182,7 +182,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "20",
+            "fips": "HR20",
             "geonames": 3337531
         },
         "long": {
@@ -192,8 +192,9 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "21",
-            "geonames": 3337532
+            "fips": "HR21",
+            "geonames": 3337532,
+            "iso_3166_2": "HR-21"
         },
         "long": {
             "default": "Grad Zagreb"
@@ -202,7 +203,7 @@
     {
         "parent": "HR",
         "ids": {
-            "fips": "17",
+            "fips": "HR17",
             "geonames": 3337533
         },
         "long": {

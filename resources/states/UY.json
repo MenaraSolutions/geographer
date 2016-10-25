@@ -2,8 +2,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "19",
-            "geonames": 3439780
+            "fips": "UY19",
+            "geonames": 3439780,
+            "iso_3166_2": "UY-TT"
         },
         "long": {
             "default": "Treinta y Tres"
@@ -12,7 +13,7 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "18",
+            "fips": "UY18",
             "geonames": 3440033
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "17",
-            "geonames": 3440054
+            "fips": "UY17",
+            "geonames": 3440054,
+            "iso_3166_2": "UY-SO"
         },
         "long": {
             "default": "Soriano"
@@ -32,7 +34,7 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "16",
+            "fips": "UY16",
             "geonames": 3440645
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "15",
-            "geonames": 3440711
+            "fips": "UY15",
+            "geonames": 3440711,
+            "iso_3166_2": "UY-SA"
         },
         "long": {
             "default": "Salto"
@@ -52,8 +55,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "14",
-            "geonames": 3440771
+            "fips": "UY14",
+            "geonames": 3440771,
+            "iso_3166_2": "UY-RO"
         },
         "long": {
             "default": "Rocha"
@@ -62,8 +66,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "13",
-            "geonames": 3440780
+            "fips": "UY13",
+            "geonames": 3440780,
+            "iso_3166_2": "UY-RV"
         },
         "long": {
             "default": "Rivera"
@@ -72,7 +77,7 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "12",
+            "fips": "UY12",
             "geonames": 3440789
         },
         "long": {
@@ -82,7 +87,7 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "11",
+            "fips": "UY11",
             "geonames": 3441242
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "10",
-            "geonames": 3441572
+            "fips": "UY10",
+            "geonames": 3441572,
+            "iso_3166_2": "UY-MO"
         },
         "long": {
             "default": "Montevideo"
@@ -102,8 +108,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "09",
-            "geonames": 3441890
+            "fips": "UY09",
+            "geonames": 3441890,
+            "iso_3166_2": "UY-MA"
         },
         "long": {
             "default": "Maldonado"
@@ -112,8 +119,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "08",
-            "geonames": 3442007
+            "fips": "UY08",
+            "geonames": 3442007,
+            "iso_3166_2": "UY-LA"
         },
         "long": {
             "default": "Lavalleja"
@@ -122,7 +130,7 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "07",
+            "fips": "UY07",
             "geonames": 3442584
         },
         "long": {
@@ -132,8 +140,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "06",
-            "geonames": 3442587
+            "fips": "UY06",
+            "geonames": 3442587,
+            "iso_3166_2": "UY-FS"
         },
         "long": {
             "default": "Flores"
@@ -142,8 +151,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "05",
-            "geonames": 3442720
+            "fips": "UY05",
+            "geonames": 3442720,
+            "iso_3166_2": "UY-DU"
         },
         "long": {
             "default": "Durazno"
@@ -152,8 +162,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "04",
-            "geonames": 3443025
+            "fips": "UY04",
+            "geonames": 3443025,
+            "iso_3166_2": "UY-CO"
         },
         "long": {
             "default": "Colonia"
@@ -162,8 +173,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "03",
-            "geonames": 3443173
+            "fips": "UY03",
+            "geonames": 3443173,
+            "iso_3166_2": "UY-CL"
         },
         "long": {
             "default": "Cerro Largo"
@@ -172,8 +184,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "02",
-            "geonames": 3443411
+            "fips": "UY02",
+            "geonames": 3443411,
+            "iso_3166_2": "UY-CA"
         },
         "long": {
             "default": "Canelones"
@@ -182,8 +195,9 @@
     {
         "parent": "UY",
         "ids": {
-            "fips": "01",
-            "geonames": 3443756
+            "fips": "UY01",
+            "geonames": 3443756,
+            "iso_3166_2": "UY-AR"
         },
         "long": {
             "default": "Artigas"

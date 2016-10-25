@@ -3,7 +3,8 @@
         "parent": "SS",
         "ids": {
             "fips": "07",
-            "geonames": 381229
+            "geonames": 381229,
+            "iso_3166_2": "SS-NU"
         },
         "long": {
             "default": "Upper Nile"
@@ -13,7 +14,8 @@
         "parent": "SS",
         "ids": {
             "fips": "04",
-            "geonames": 408647
+            "geonames": 408647,
+            "iso_3166_2": "SS-LK"
         },
         "long": {
             "default": "Lakes"
@@ -23,7 +25,8 @@
         "parent": "SS",
         "ids": {
             "fips": "06",
-            "geonames": 408650
+            "geonames": 408650,
+            "iso_3166_2": "SS-UY"
         },
         "long": {
             "default": "Unity"
@@ -33,7 +36,8 @@
         "parent": "SS",
         "ids": {
             "fips": "01",
-            "geonames": 408655
+            "geonames": 408655,
+            "iso_3166_2": "SS-EC"
         },
         "long": {
             "default": "Central Equatoria"
@@ -43,7 +47,8 @@
         "parent": "SS",
         "ids": {
             "fips": "10",
-            "geonames": 408656
+            "geonames": 408656,
+            "iso_3166_2": "SS-EW"
         },
         "long": {
             "default": "Western Equatoria"
@@ -53,7 +58,8 @@
         "parent": "SS",
         "ids": {
             "fips": "09",
-            "geonames": 408657
+            "geonames": 408657,
+            "iso_3166_2": "SS-BW"
         },
         "long": {
             "default": "Western Bahr al Ghazal"
@@ -63,7 +69,8 @@
         "parent": "SS",
         "ids": {
             "fips": "03",
-            "geonames": 408662
+            "geonames": 408662,
+            "iso_3166_2": "SS-JG"
         },
         "long": {
             "default": "Jonglei"
@@ -73,7 +80,8 @@
         "parent": "SS",
         "ids": {
             "fips": "05",
-            "geonames": 408665
+            "geonames": 408665,
+            "iso_3166_2": "SS-BN"
         },
         "long": {
             "default": "Northern Bahr al Ghazal"
@@ -83,7 +91,8 @@
         "parent": "SS",
         "ids": {
             "fips": "02",
-            "geonames": 408668
+            "geonames": 408668,
+            "iso_3166_2": "SS-EE"
         },
         "long": {
             "default": "Eastern Equatoria"
@@ -93,7 +102,8 @@
         "parent": "SS",
         "ids": {
             "fips": "08",
-            "geonames": 408670
+            "geonames": 408670,
+            "iso_3166_2": "SS-WR"
         },
         "long": {
             "default": "Warrap"

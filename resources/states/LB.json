@@ -2,8 +2,9 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "05",
-            "geonames": 273607
+            "fips": "LE05",
+            "geonames": 273607,
+            "iso_3166_2": "LB-JL"
         },
         "long": {
             "default": "Mont-Liban"
@@ -12,8 +13,9 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "04",
-            "geonames": 276780
+            "fips": "LE04",
+            "geonames": 276780,
+            "iso_3166_2": "LB-BA"
         },
         "long": {
             "default": "Beyrouth"
@@ -22,8 +24,9 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "09",
-            "geonames": 278297
+            "fips": "LE09",
+            "geonames": 278297,
+            "iso_3166_2": "LB-AS"
         },
         "long": {
             "default": "Liban-Nord"
@@ -32,7 +35,7 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "06",
+            "fips": "LE06",
             "geonames": 279894
         },
         "long": {
@@ -42,7 +45,7 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "08",
+            "fips": "LE08",
             "geonames": 280282
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "07",
+            "fips": "LE07",
             "geonames": 444191
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "10",
+            "fips": "LE10",
             "geonames": 6201370
         },
         "long": {
@@ -72,8 +75,9 @@
     {
         "parent": "LB",
         "ids": {
-            "fips": "11",
-            "geonames": 6201371
+            "fips": "LE11",
+            "geonames": 6201371,
+            "iso_3166_2": "LB-BH"
         },
         "long": {
             "default": "Baalbek-Hermel"

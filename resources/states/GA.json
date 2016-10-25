@@ -2,8 +2,9 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "09",
-            "geonames": 2396076
+            "fips": "GB09",
+            "geonames": 2396076,
+            "iso_3166_2": "GA-9"
         },
         "long": {
             "default": "Woleu-Ntem"
@@ -12,8 +13,9 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "08",
-            "geonames": 2396924
+            "fips": "GB08",
+            "geonames": 2396924,
+            "iso_3166_2": "GA-8"
         },
         "long": {
             "default": "Ogooué-Maritime"
@@ -22,7 +24,7 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "07",
+            "fips": "GB07",
             "geonames": 2396925
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "06",
+            "fips": "GB06",
             "geonames": 2396926
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "05",
-            "geonames": 2397141
+            "fips": "GB05",
+            "geonames": 2397141,
+            "iso_3166_2": "GA-5"
         },
         "long": {
             "default": "Nyanga"
@@ -52,8 +55,9 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "04",
-            "geonames": 2397466
+            "fips": "GB04",
+            "geonames": 2397466,
+            "iso_3166_2": "GA-4"
         },
         "long": {
             "default": "Ngouni"
@@ -62,7 +66,7 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "03",
+            "fips": "GB03",
             "geonames": 2397842
         },
         "long": {
@@ -72,7 +76,7 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "02",
+            "fips": "GB02",
             "geonames": 2400454
         },
         "long": {
@@ -82,8 +86,9 @@
     {
         "parent": "GA",
         "ids": {
-            "fips": "01",
-            "geonames": 2400682
+            "fips": "GB01",
+            "geonames": 2400682,
+            "iso_3166_2": "GA-1"
         },
         "long": {
             "default": "Estuaire"

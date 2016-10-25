@@ -2,7 +2,7 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "11",
+            "fips": "NL11",
             "geonames": 2743698
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "10",
-            "geonames": 2744011
+            "fips": "NL10",
+            "geonames": 2744011,
+            "iso_3166_2": "NL-ZE"
         },
         "long": {
             "default": "Zeeland"
@@ -22,8 +23,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "09",
-            "geonames": 2745909
+            "fips": "NL09",
+            "geonames": 2745909,
+            "iso_3166_2": "NL-UT"
         },
         "long": {
             "default": "Utrecht"
@@ -32,8 +34,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "15",
-            "geonames": 2748838
+            "fips": "NL15",
+            "geonames": 2748838,
+            "iso_3166_2": "NL-OV"
         },
         "long": {
             "default": "Overijssel"
@@ -42,7 +45,7 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "07",
+            "fips": "NL07",
             "geonames": 2749879
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "06",
+            "fips": "NL06",
             "geonames": 2749990
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "05",
+            "fips": "NL05",
             "geonames": 2751596
         },
         "long": {
@@ -72,8 +75,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "04",
-            "geonames": 2755249
+            "fips": "NL04",
+            "geonames": 2755249,
+            "iso_3166_2": "NL-GR"
         },
         "long": {
             "default": "Groningen"
@@ -82,8 +86,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "03",
-            "geonames": 2755634
+            "fips": "NL03",
+            "geonames": 2755634,
+            "iso_3166_2": "NL-GE"
         },
         "long": {
             "default": "Gelderland"
@@ -92,7 +97,7 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "02",
+            "fips": "NL02",
             "geonames": 2755812
         },
         "long": {
@@ -102,8 +107,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "01",
-            "geonames": 2756631
+            "fips": "NL01",
+            "geonames": 2756631,
+            "iso_3166_2": "NL-DR"
         },
         "long": {
             "default": "Drenthe"
@@ -112,8 +118,9 @@
     {
         "parent": "NL",
         "ids": {
-            "fips": "16",
-            "geonames": 3319179
+            "fips": "NL16",
+            "geonames": 3319179,
+            "iso_3166_2": "NL-FL"
         },
         "long": {
             "default": "Flevoland"

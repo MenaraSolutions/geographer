@@ -2,8 +2,9 @@
     {
         "parent": "FJ",
         "ids": {
-            "fips": "05",
-            "geonames": 2194371
+            "fips": "FJ05",
+            "geonames": 2194371,
+            "iso_3166_2": "FJ-W"
         },
         "long": {
             "default": "Western"
@@ -12,8 +13,9 @@
     {
         "parent": "FJ",
         "ids": {
-            "fips": "03",
-            "geonames": 2199295
+            "fips": "FJ03",
+            "geonames": 2199295,
+            "iso_3166_2": "FJ-N"
         },
         "long": {
             "default": "Northern"
@@ -22,7 +24,7 @@
     {
         "parent": "FJ",
         "ids": {
-            "fips": "01",
+            "fips": "FJ01",
             "geonames": 2205272
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "FJ",
         "ids": {
-            "fips": "02",
+            "fips": "FJ02",
             "geonames": 4036647
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "FJ",
         "ids": {
-            "fips": "04",
+            "fips": "FJ04",
             "geonames": 6324593
         },
         "long": {

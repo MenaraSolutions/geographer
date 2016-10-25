@@ -2,7 +2,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "19",
+            "fips": "PO19",
             "geonames": 2262961
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "18",
+            "fips": "PO18",
             "geonames": 2263478
         },
         "long": {
@@ -22,8 +22,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "16",
-            "geonames": 2264507
+            "fips": "PO16",
+            "geonames": 2264507,
+            "iso_3166_2": "PT-12"
         },
         "long": {
             "default": "Portalegre"
@@ -32,7 +33,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "14",
+            "fips": "PO14",
             "geonames": 2267056
         },
         "long": {
@@ -42,8 +43,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "13",
-            "geonames": 2267094
+            "fips": "PO13",
+            "geonames": 2267094,
+            "iso_3166_2": "PT-10"
         },
         "long": {
             "default": "Leiria"
@@ -52,8 +54,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "09",
-            "geonames": 2268337
+            "fips": "PO09",
+            "geonames": 2268337,
+            "iso_3166_2": "PT-08"
         },
         "long": {
             "default": "Faro"
@@ -62,7 +65,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "08",
+            "fips": "PO08",
             "geonames": 2268404
         },
         "long": {
@@ -72,8 +75,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "06",
-            "geonames": 2269513
+            "fips": "PO06",
+            "geonames": 2269513,
+            "iso_3166_2": "PT-05"
         },
         "long": {
             "default": "Castelo Branco"
@@ -82,8 +86,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "03",
-            "geonames": 2270984
+            "fips": "PO03",
+            "geonames": 2270984,
+            "iso_3166_2": "PT-02"
         },
         "long": {
             "default": "Beja"
@@ -92,7 +97,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "10",
+            "fips": "PO10",
             "geonames": 2593105
         },
         "long": {
@@ -102,8 +107,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "22",
-            "geonames": 2732264
+            "fips": "PO22",
+            "geonames": 2732264,
+            "iso_3166_2": "PT-18"
         },
         "long": {
             "default": "Viseu"
@@ -112,8 +118,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "21",
-            "geonames": 2732437
+            "fips": "PO21",
+            "geonames": 2732437,
+            "iso_3166_2": "PT-17"
         },
         "long": {
             "default": "Vila Real"
@@ -122,8 +129,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "20",
-            "geonames": 2732772
+            "fips": "PO20",
+            "geonames": 2732772,
+            "iso_3166_2": "PT-16"
         },
         "long": {
             "default": "Viana do Castelo"
@@ -132,8 +140,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "17",
-            "geonames": 2735941
+            "fips": "PO17",
+            "geonames": 2735941,
+            "iso_3166_2": "PT-13"
         },
         "long": {
             "default": "Porto"
@@ -142,8 +151,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "11",
-            "geonames": 2738782
+            "fips": "PO11",
+            "geonames": 2738782,
+            "iso_3166_2": "PT-09"
         },
         "long": {
             "default": "Guarda"
@@ -152,8 +162,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "07",
-            "geonames": 2740636
+            "fips": "PO07",
+            "geonames": 2740636,
+            "iso_3166_2": "PT-06"
         },
         "long": {
             "default": "Coimbra"
@@ -162,7 +173,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "05",
+            "fips": "PO05",
             "geonames": 2742026
         },
         "long": {
@@ -172,8 +183,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "04",
-            "geonames": 2742031
+            "fips": "PO04",
+            "geonames": 2742031,
+            "iso_3166_2": "PT-03"
         },
         "long": {
             "default": "Braga"
@@ -182,8 +194,9 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "02",
-            "geonames": 2742610
+            "fips": "PO02",
+            "geonames": 2742610,
+            "iso_3166_2": "PT-01"
         },
         "long": {
             "default": "Aveiro"
@@ -192,7 +205,7 @@
     {
         "parent": "PT",
         "ids": {
-            "fips": "23",
+            "fips": "PO23",
             "geonames": 3411865
         },
         "long": {

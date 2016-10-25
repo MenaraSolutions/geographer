@@ -2,8 +2,9 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "19",
-            "geonames": 101627
+            "fips": "SA19",
+            "geonames": 101627,
+            "iso_3166_2": "SA-07"
         },
         "long": {
             "default": "Tabuk"
@@ -12,8 +13,9 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "16",
-            "geonames": 103628
+            "fips": "SA16",
+            "geonames": 103628,
+            "iso_3166_2": "SA-10"
         },
         "long": {
             "default": "Najran"
@@ -22,7 +24,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "14",
+            "fips": "SA14",
             "geonames": 104514
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "17",
+            "fips": "SA17",
             "geonames": 105298
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "13",
+            "fips": "SA13",
             "geonames": 106280
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "11",
-            "geonames": 108179
+            "fips": "SA11",
+            "geonames": 108179,
+            "iso_3166_2": "SA-14"
         },
         "long": {
             "default": "'Asir"
@@ -62,7 +65,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "06",
+            "fips": "SA06",
             "geonames": 108241
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "10",
+            "fips": "SA10",
             "geonames": 108411
         },
         "long": {
@@ -82,7 +85,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "08",
+            "fips": "SA08",
             "geonames": 108933
         },
         "long": {
@@ -92,8 +95,9 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "05",
-            "geonames": 109224
+            "fips": "SA05",
+            "geonames": 109224,
+            "iso_3166_2": "SA-03"
         },
         "long": {
             "default": "Al Madīnah al Munawwarah"
@@ -102,8 +106,9 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "20",
-            "geonames": 109470
+            "fips": "SA20",
+            "geonames": 109470,
+            "iso_3166_2": "SA-12"
         },
         "long": {
             "default": "Al Jawf"
@@ -112,7 +117,7 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "15",
+            "fips": "SA15",
             "geonames": 109579
         },
         "long": {
@@ -122,8 +127,9 @@
     {
         "parent": "SA",
         "ids": {
-            "fips": "02",
-            "geonames": 109954
+            "fips": "SA02",
+            "geonames": 109954,
+            "iso_3166_2": "SA-11"
         },
         "long": {
             "default": "Al Bahah"

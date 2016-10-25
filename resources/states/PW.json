@@ -2,8 +2,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "11",
-            "geonames": 1559532
+            "fips": "PS11",
+            "geonames": 1559532,
+            "iso_3166_2": "PW-224"
         },
         "long": {
             "default": "Ngatpang"
@@ -12,7 +13,7 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "16",
+            "fips": "PS16",
             "geonames": 1559630
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "05",
-            "geonames": 1559774
+            "fips": "PS05",
+            "geonames": 1559774,
+            "iso_3166_2": "PW-100"
         },
         "long": {
             "default": "Kayangel"
@@ -32,7 +34,7 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "04",
+            "fips": "PS04",
             "geonames": 1559776
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "01",
-            "geonames": 1559964
+            "fips": "PS01",
+            "geonames": 1559964,
+            "iso_3166_2": "PW-002"
         },
         "long": {
             "default": "Aimeliik"
@@ -52,8 +55,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "02",
-            "geonames": 4037645
+            "fips": "PS02",
+            "geonames": 4037645,
+            "iso_3166_2": "PW-004"
         },
         "long": {
             "default": "Airai"
@@ -62,8 +66,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "03",
-            "geonames": 4037653
+            "fips": "PS03",
+            "geonames": 4037653,
+            "iso_3166_2": "PW-010"
         },
         "long": {
             "default": "Angaur"
@@ -72,8 +77,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "06",
-            "geonames": 4037892
+            "fips": "PS06",
+            "geonames": 4037892,
+            "iso_3166_2": "PW-150"
         },
         "long": {
             "default": "Koror"
@@ -82,8 +88,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "07",
-            "geonames": 4037930
+            "fips": "PS07",
+            "geonames": 4037930,
+            "iso_3166_2": "PW-212"
         },
         "long": {
             "default": "Melekeok"
@@ -92,8 +99,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "08",
-            "geonames": 4037962
+            "fips": "PS08",
+            "geonames": 4037962,
+            "iso_3166_2": "PW-214"
         },
         "long": {
             "default": "Ngaraard"
@@ -102,7 +110,7 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "12",
+            "fips": "PS12",
             "geonames": 4037976
         },
         "long": {
@@ -112,8 +120,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "09",
-            "geonames": 4038037
+            "fips": "PS09",
+            "geonames": 4038037,
+            "iso_3166_2": "PW-218"
         },
         "long": {
             "default": "Ngarchelong"
@@ -122,8 +131,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "10",
-            "geonames": 4038043
+            "fips": "PS10",
+            "geonames": 4038043,
+            "iso_3166_2": "PW-222"
         },
         "long": {
             "default": "Ngardmau"
@@ -132,7 +142,7 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "13",
+            "fips": "PS13",
             "geonames": 4038068
         },
         "long": {
@@ -142,8 +152,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "14",
-            "geonames": 4038179
+            "fips": "PS14",
+            "geonames": 4038179,
+            "iso_3166_2": "PW-228"
         },
         "long": {
             "default": "Ngiwal"
@@ -152,8 +163,9 @@
     {
         "parent": "PW",
         "ids": {
-            "fips": "15",
-            "geonames": 4038261
+            "fips": "PS15",
+            "geonames": 4038261,
+            "iso_3166_2": "PW-350"
         },
         "long": {
             "default": "Peleliu"

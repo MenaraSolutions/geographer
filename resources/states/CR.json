@@ -2,7 +2,7 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "08",
+            "fips": "CS08",
             "geonames": 3621837
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "07",
-            "geonames": 3622226
+            "fips": "CS07",
+            "geonames": 3622226,
+            "iso_3166_2": "CR-P"
         },
         "long": {
             "default": "Puntarenas"
@@ -22,7 +23,7 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "06",
+            "fips": "CS06",
             "geonames": 3623064
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "04",
-            "geonames": 3623484
+            "fips": "CS04",
+            "geonames": 3623484,
+            "iso_3166_2": "CR-H"
         },
         "long": {
             "default": "Heredia"
@@ -42,8 +44,9 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "03",
-            "geonames": 3623582
+            "fips": "CS03",
+            "geonames": 3623582,
+            "iso_3166_2": "CR-G"
         },
         "long": {
             "default": "Guanacaste"
@@ -52,8 +55,9 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "02",
-            "geonames": 3624368
+            "fips": "CS02",
+            "geonames": 3624368,
+            "iso_3166_2": "CR-C"
         },
         "long": {
             "default": "Cartago"
@@ -62,8 +66,9 @@
     {
         "parent": "CR",
         "ids": {
-            "fips": "01",
-            "geonames": 3624953
+            "fips": "CS01",
+            "geonames": 3624953,
+            "iso_3166_2": "CR-A"
         },
         "long": {
             "default": "Alajuela"

@@ -2,7 +2,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "14",
+            "fips": "ES14",
             "geonames": 3582882
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "13",
-            "geonames": 3583101
+            "fips": "ES13",
+            "geonames": 3583101,
+            "iso_3166_2": "SV-SO"
         },
         "long": {
             "default": "Sonsonate"
@@ -22,8 +23,9 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "12",
-            "geonames": 3583176
+            "fips": "ES12",
+            "geonames": 3583176,
+            "iso_3166_2": "SV-SV"
         },
         "long": {
             "default": "San Vicente"
@@ -32,8 +34,9 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "11",
-            "geonames": 3583332
+            "fips": "ES11",
+            "geonames": 3583332,
+            "iso_3166_2": "SV-SA"
         },
         "long": {
             "default": "Santa Ana"
@@ -42,8 +45,9 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "10",
-            "geonames": 3583360
+            "fips": "ES10",
+            "geonames": 3583360,
+            "iso_3166_2": "SV-SS"
         },
         "long": {
             "default": "San Salvador"
@@ -52,8 +56,9 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "09",
-            "geonames": 3583462
+            "fips": "ES09",
+            "geonames": 3583462,
+            "iso_3166_2": "SV-SM"
         },
         "long": {
             "default": "San Miguel"
@@ -62,7 +67,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "08",
+            "fips": "ES08",
             "geonames": 3584317
         },
         "long": {
@@ -72,7 +77,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "07",
+            "fips": "ES07",
             "geonames": 3584767
         },
         "long": {
@@ -82,7 +87,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "06",
+            "fips": "ES06",
             "geonames": 3585087
         },
         "long": {
@@ -92,7 +97,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "05",
+            "fips": "ES05",
             "geonames": 3585155
         },
         "long": {
@@ -102,7 +107,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "04",
+            "fips": "ES04",
             "geonames": 3586831
         },
         "long": {
@@ -112,8 +117,9 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "03",
-            "geonames": 3587090
+            "fips": "ES03",
+            "geonames": 3587090,
+            "iso_3166_2": "SV-CH"
         },
         "long": {
             "default": "Chalatenango"
@@ -122,7 +128,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "02",
+            "fips": "ES02",
             "geonames": 3587217
         },
         "long": {
@@ -132,7 +138,7 @@
     {
         "parent": "SV",
         "ids": {
-            "fips": "01",
+            "fips": "ES01",
             "geonames": 3587425
         },
         "long": {

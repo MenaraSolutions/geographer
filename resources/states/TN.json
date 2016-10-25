@@ -2,7 +2,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "37",
+            "fips": "TS37",
             "geonames": 2464038
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "36",
+            "fips": "TS36",
             "geonames": 2464464
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "35",
+            "fips": "TS35",
             "geonames": 2464645
         },
         "long": {
@@ -32,8 +32,9 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "34",
-            "geonames": 2464698
+            "fips": "TS34",
+            "geonames": 2464698,
+            "iso_3166_2": "TN-83"
         },
         "long": {
             "default": "Tataouine"
@@ -42,7 +43,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "23",
+            "fips": "TS23",
             "geonames": 2464912
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "22",
+            "fips": "TS22",
             "geonames": 2465027
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "33",
+            "fips": "TS33",
             "geonames": 2465837
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "32",
+            "fips": "TS32",
             "geonames": 2467450
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "31",
+            "fips": "TS31",
             "geonames": 2468014
         },
         "long": {
@@ -92,8 +93,9 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "30",
-            "geonames": 2468351
+            "fips": "TS30",
+            "geonames": 2468351,
+            "iso_3166_2": "TN-71"
         },
         "long": {
             "default": "Gafsa"
@@ -102,7 +104,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "29",
+            "fips": "TS29",
             "geonames": 2468365
         },
         "long": {
@@ -112,7 +114,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "19",
+            "fips": "TS19",
             "geonames": 2468576
         },
         "long": {
@@ -122,7 +124,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "28",
+            "fips": "TS28",
             "geonames": 2469470
         },
         "long": {
@@ -132,7 +134,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "06",
+            "fips": "TS06",
             "geonames": 2470085
         },
         "long": {
@@ -142,7 +144,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "27",
+            "fips": "TS27",
             "geonames": 2472477
         },
         "long": {
@@ -152,7 +154,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "18",
+            "fips": "TS18",
             "geonames": 2472699
         },
         "long": {
@@ -162,7 +164,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "17",
+            "fips": "TS17",
             "geonames": 2472770
         },
         "long": {
@@ -172,8 +174,9 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "38",
-            "geonames": 2473245
+            "fips": "TS38",
+            "geonames": 2473245,
+            "iso_3166_2": "TN-12"
         },
         "long": {
             "default": "Ariana"
@@ -182,7 +185,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "03",
+            "fips": "TS03",
             "geonames": 2473451
         },
         "long": {
@@ -192,7 +195,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "02",
+            "fips": "TS02",
             "geonames": 2473460
         },
         "long": {
@@ -202,7 +205,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "16",
+            "fips": "TS16",
             "geonames": 2473495
         },
         "long": {
@@ -212,7 +215,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "15",
+            "fips": "TS15",
             "geonames": 2473574
         },
         "long": {
@@ -222,7 +225,7 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "14",
+            "fips": "TS14",
             "geonames": 2473637
         },
         "long": {
@@ -232,8 +235,9 @@
     {
         "parent": "TN",
         "ids": {
-            "fips": "39",
-            "geonames": 6201192
+            "fips": "TS39",
+            "geonames": 6201192,
+            "iso_3166_2": "TN-14"
         },
         "long": {
             "default": "Manouba"

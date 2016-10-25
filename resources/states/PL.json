@@ -2,7 +2,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "75",
+            "fips": "PL75",
             "geonames": 858785
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "77",
+            "fips": "PL77",
             "geonames": 858786
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "78",
+            "fips": "PL78",
             "geonames": 858787
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "80",
+            "fips": "PL80",
             "geonames": 858788
         },
         "long": {
@@ -42,8 +42,9 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "81",
-            "geonames": 858789
+            "fips": "PL81",
+            "geonames": 858789,
+            "iso_3166_2": "PL-PD"
         },
         "long": {
             "default": "Podlasie"
@@ -52,7 +53,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "84",
+            "fips": "PL84",
             "geonames": 858790
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "85",
+            "fips": "PL85",
             "geonames": 858791
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "72",
+            "fips": "PL72",
             "geonames": 3337492
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "74",
+            "fips": "PL74",
             "geonames": 3337493
         },
         "long": {
@@ -92,7 +93,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "76",
+            "fips": "PL76",
             "geonames": 3337494
         },
         "long": {
@@ -102,7 +103,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "79",
+            "fips": "PL79",
             "geonames": 3337495
         },
         "long": {
@@ -112,7 +113,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "82",
+            "fips": "PL82",
             "geonames": 3337496
         },
         "long": {
@@ -122,7 +123,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "83",
+            "fips": "PL83",
             "geonames": 3337497
         },
         "long": {
@@ -132,7 +133,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "86",
+            "fips": "PL86",
             "geonames": 3337498
         },
         "long": {
@@ -142,7 +143,7 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "87",
+            "fips": "PL87",
             "geonames": 3337499
         },
         "long": {
@@ -152,8 +153,9 @@
     {
         "parent": "PL",
         "ids": {
-            "fips": "73",
-            "geonames": 3337500
+            "fips": "PL73",
+            "geonames": 3337500,
+            "iso_3166_2": "PL-KP"
         },
         "long": {
             "default": "Kujawsko-Pomorskie"

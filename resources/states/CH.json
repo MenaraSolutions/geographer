@@ -2,9 +2,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "ZH",
-            "fips": "25",
-            "geonames": 2657895
+            "fips": "SZ25",
+            "geonames": 2657895,
+            "iso_3166_2": "CH-ZH"
         },
         "long": {
             "default": "Zurich"
@@ -13,9 +13,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "ZG",
-            "fips": "24",
-            "geonames": 2657907
+            "fips": "SZ24",
+            "geonames": 2657907,
+            "iso_3166_2": "CH-ZG"
         },
         "long": {
             "default": "Zug"
@@ -24,9 +24,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "VD",
-            "fips": "23",
-            "geonames": 2658182
+            "fips": "SZ23",
+            "geonames": 2658182,
+            "iso_3166_2": "CH-VD"
         },
         "long": {
             "default": "Vaud"
@@ -35,9 +35,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "VS",
-            "fips": "22",
-            "geonames": 2658205
+            "fips": "SZ22",
+            "geonames": 2658205,
+            "iso_3166_2": "CH-VS"
         },
         "long": {
             "default": "Valais"
@@ -46,9 +46,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "UR",
-            "fips": "21",
-            "geonames": 2658226
+            "fips": "SZ21",
+            "geonames": 2658226,
+            "iso_3166_2": "CH-UR"
         },
         "long": {
             "default": "Uri"
@@ -57,9 +57,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "TI",
-            "fips": "20",
-            "geonames": 2658370
+            "fips": "SZ20",
+            "geonames": 2658370,
+            "iso_3166_2": "CH-TI"
         },
         "long": {
             "default": "Ticino"
@@ -68,9 +68,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "TG",
-            "fips": "19",
-            "geonames": 2658372
+            "fips": "SZ19",
+            "geonames": 2658372,
+            "iso_3166_2": "CH-TG"
         },
         "long": {
             "default": "Thurgau"
@@ -79,9 +79,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "SO",
-            "fips": "18",
-            "geonames": 2658563
+            "fips": "SZ18",
+            "geonames": 2658563,
+            "iso_3166_2": "CH-SO"
         },
         "long": {
             "default": "Solothurn"
@@ -90,9 +90,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "SZ",
-            "fips": "17",
-            "geonames": 2658664
+            "fips": "SZ17",
+            "geonames": 2658664,
+            "iso_3166_2": "CH-SZ"
         },
         "long": {
             "default": "Schwyz"
@@ -101,9 +101,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "SH",
-            "fips": "16",
-            "geonames": 2658760
+            "fips": "SZ16",
+            "geonames": 2658760,
+            "iso_3166_2": "CH-SH"
         },
         "long": {
             "default": "Schaffhausen"
@@ -112,9 +112,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "SG",
-            "fips": "15",
-            "geonames": 2658821
+            "fips": "SZ15",
+            "geonames": 2658821,
+            "iso_3166_2": "CH-SG"
         },
         "long": {
             "default": "Saint Gallen"
@@ -123,9 +123,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "OW",
-            "fips": "14",
-            "geonames": 2659315
+            "fips": "SZ14",
+            "geonames": 2659315,
+            "iso_3166_2": "CH-OW"
         },
         "long": {
             "default": "Obwalden"
@@ -134,9 +134,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "NW",
-            "fips": "13",
-            "geonames": 2659471
+            "fips": "SZ13",
+            "geonames": 2659471,
+            "iso_3166_2": "CH-NW"
         },
         "long": {
             "default": "Nidwalden"
@@ -145,8 +145,7 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "NE",
-            "fips": "12",
+            "fips": "SZ12",
             "geonames": 2659495
         },
         "long": {
@@ -156,8 +155,7 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "LU",
-            "fips": "11",
+            "fips": "SZ11",
             "geonames": 2659810
         },
         "long": {
@@ -167,9 +165,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "JU",
-            "fips": "26",
-            "geonames": 2660207
+            "fips": "SZ26",
+            "geonames": 2660207,
+            "iso_3166_2": "CH-JU"
         },
         "long": {
             "default": "Jura"
@@ -178,8 +176,7 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "GR",
-            "fips": "09",
+            "fips": "SZ09",
             "geonames": 2660522
         },
         "long": {
@@ -189,9 +186,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "GL",
-            "fips": "08",
-            "geonames": 2660593
+            "fips": "SZ08",
+            "geonames": 2660593,
+            "iso_3166_2": "CH-GL"
         },
         "long": {
             "default": "Glarus"
@@ -200,8 +197,7 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "GE",
-            "fips": "07",
+            "fips": "SZ07",
             "geonames": 2660645
         },
         "long": {
@@ -211,9 +207,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "FR",
-            "fips": "06",
-            "geonames": 2660717
+            "fips": "SZ06",
+            "geonames": 2660717,
+            "iso_3166_2": "CH-FR"
         },
         "long": {
             "default": "Fribourg"
@@ -222,9 +218,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "BE",
-            "fips": "05",
-            "geonames": 2661551
+            "fips": "SZ05",
+            "geonames": 2661551,
+            "iso_3166_2": "CH-BE"
         },
         "long": {
             "default": "Bern"
@@ -233,8 +229,7 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "BS",
-            "fips": "04",
+            "fips": "SZ04",
             "geonames": 2661602
         },
         "long": {
@@ -244,9 +239,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "BL",
-            "fips": "03",
-            "geonames": 2661603
+            "fips": "SZ03",
+            "geonames": 2661603,
+            "iso_3166_2": "CH-BL"
         },
         "long": {
             "default": "Basel-Landschaft"
@@ -255,9 +250,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "AR",
-            "fips": "02",
-            "geonames": 2661739
+            "fips": "SZ02",
+            "geonames": 2661739,
+            "iso_3166_2": "CH-AR"
         },
         "long": {
             "default": "Appenzell Ausserrhoden"
@@ -266,9 +261,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "AI",
-            "fips": "10",
-            "geonames": 2661741
+            "fips": "SZ10",
+            "geonames": 2661741,
+            "iso_3166_2": "CH-AI"
         },
         "long": {
             "default": "Appenzell Innerrhoden"
@@ -277,9 +272,9 @@
     {
         "parent": "CH",
         "ids": {
-            "iso_3166": "AG",
-            "fips": "01",
-            "geonames": 2661876
+            "fips": "SZ01",
+            "geonames": 2661876,
+            "iso_3166_2": "CH-AG"
         },
         "long": {
             "default": "Aargau"

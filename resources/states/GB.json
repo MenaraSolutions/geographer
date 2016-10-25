@@ -3,7 +3,8 @@
         "parent": "GB",
         "ids": {
             "fips": "WLS",
-            "geonames": 2634895
+            "geonames": 2634895,
+            "iso_3166_2": "GB-WLS"
         },
         "long": {
             "default": "Wales"
@@ -13,7 +14,8 @@
         "parent": "GB",
         "ids": {
             "fips": "SCT",
-            "geonames": 2638360
+            "geonames": 2638360,
+            "iso_3166_2": "GB-SCT"
         },
         "long": {
             "default": "Scotland"
@@ -23,7 +25,8 @@
         "parent": "GB",
         "ids": {
             "fips": "NIR",
-            "geonames": 2641364
+            "geonames": 2641364,
+            "iso_3166_2": "GB-NIR"
         },
         "long": {
             "default": "Northern Ireland"
@@ -33,7 +36,8 @@
         "parent": "GB",
         "ids": {
             "fips": "ENG",
-            "geonames": 6269131
+            "geonames": 6269131,
+            "iso_3166_2": "GB-ENG"
         },
         "long": {
             "default": "England"

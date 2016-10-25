@@ -2,8 +2,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "07",
-            "geonames": 2437797
+            "fips": "NG07",
+            "geonames": 2437797,
+            "iso_3166_2": "NE-7"
         },
         "long": {
             "default": "Zinder"
@@ -12,8 +13,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "06",
-            "geonames": 2439374
+            "fips": "NG06",
+            "geonames": 2439374,
+            "iso_3166_2": "NE-5"
         },
         "long": {
             "default": "Tahoua"
@@ -22,8 +24,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "04",
-            "geonames": 2441289
+            "fips": "NG04",
+            "geonames": 2441289,
+            "iso_3166_2": "NE-4"
         },
         "long": {
             "default": "Maradi"
@@ -32,8 +35,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "03",
-            "geonames": 2445486
+            "fips": "NG03",
+            "geonames": 2445486,
+            "iso_3166_2": "NE-3"
         },
         "long": {
             "default": "Dosso"
@@ -42,8 +46,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "02",
-            "geonames": 2445702
+            "fips": "NG02",
+            "geonames": 2445702,
+            "iso_3166_2": "NE-2"
         },
         "long": {
             "default": "Diffa"
@@ -52,8 +57,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "01",
-            "geonames": 2448083
+            "fips": "NG01",
+            "geonames": 2448083,
+            "iso_3166_2": "NE-1"
         },
         "long": {
             "default": "Agadez"
@@ -62,7 +68,7 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "09",
+            "fips": "NG09",
             "geonames": 2595293
         },
         "long": {
@@ -72,8 +78,9 @@
     {
         "parent": "NE",
         "ids": {
-            "fips": "08",
-            "geonames": 2595294
+            "fips": "NG08",
+            "geonames": 2595294,
+            "iso_3166_2": "NE-8"
         },
         "long": {
             "default": "Niamey"

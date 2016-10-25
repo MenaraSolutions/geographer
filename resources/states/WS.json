@@ -2,7 +2,7 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "11",
+            "fips": "WS11",
             "geonames": 4034910
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "06",
+            "fips": "WS06",
             "geonames": 4034943
         },
         "long": {
@@ -22,8 +22,9 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "10",
-            "geonames": 4034977
+            "fips": "WS10",
+            "geonames": 4034977,
+            "iso_3166_2": "WS-TU"
         },
         "long": {
             "default": "Tuamasaga"
@@ -32,7 +33,7 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "09",
+            "fips": "WS09",
             "geonames": 4035046
         },
         "long": {
@@ -42,8 +43,9 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "08",
-            "geonames": 4035154
+            "fips": "WS08",
+            "geonames": 4035154,
+            "iso_3166_2": "WS-PA"
         },
         "long": {
             "default": "Palauli"
@@ -52,8 +54,9 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "07",
-            "geonames": 4035313
+            "fips": "WS07",
+            "geonames": 4035313,
+            "iso_3166_2": "WS-GI"
         },
         "long": {
             "default": "Gagaifomauga"
@@ -62,7 +65,7 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "05",
+            "fips": "WS05",
             "geonames": 4035314
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "04",
+            "fips": "WS04",
             "geonames": 4035383
         },
         "long": {
@@ -82,8 +85,9 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "03",
-            "geonames": 4035402
+            "fips": "WS03",
+            "geonames": 4035402,
+            "iso_3166_2": "WS-AT"
         },
         "long": {
             "default": "Atua"
@@ -92,7 +96,7 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "02",
+            "fips": "WS02",
             "geonames": 4035425
         },
         "long": {
@@ -102,8 +106,9 @@
     {
         "parent": "WS",
         "ids": {
-            "fips": "01",
-            "geonames": 4035434
+            "fips": "WS01",
+            "geonames": 4035434,
+            "iso_3166_2": "WS-AA"
         },
         "long": {
             "default": "A'ana"

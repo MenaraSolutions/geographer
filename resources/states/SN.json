@@ -2,8 +2,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "12",
-            "geonames": 2243939
+            "fips": "SG12",
+            "geonames": 2243939,
+            "iso_3166_2": "SN-ZG"
         },
         "long": {
             "default": "Ziguinchor"
@@ -12,7 +13,7 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "07",
+            "fips": "SG07",
             "geonames": 2244800
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "05",
-            "geonames": 2244990
+            "fips": "SG05",
+            "geonames": 2244990,
+            "iso_3166_2": "SN-TC"
         },
         "long": {
             "default": "Tambacounda"
@@ -32,8 +34,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "14",
-            "geonames": 2246451
+            "fips": "SG14",
+            "geonames": 2246451,
+            "iso_3166_2": "SN-SL"
         },
         "long": {
             "default": "Saint-Louis"
@@ -42,8 +45,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "15",
-            "geonames": 2248753
+            "fips": "SG15",
+            "geonames": 2248753,
+            "iso_3166_2": "SN-MT"
         },
         "long": {
             "default": "Matam"
@@ -52,8 +56,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "13",
-            "geonames": 2249221
+            "fips": "SG13",
+            "geonames": 2249221,
+            "iso_3166_2": "SN-LG"
         },
         "long": {
             "default": "Louga"
@@ -62,8 +67,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "11",
-            "geonames": 2249781
+            "fips": "SG11",
+            "geonames": 2249781,
+            "iso_3166_2": "SN-KD"
         },
         "long": {
             "default": "Kolda"
@@ -72,8 +78,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "10",
-            "geonames": 2250804
+            "fips": "SG10",
+            "geonames": 2250804,
+            "iso_3166_2": "SN-KL"
         },
         "long": {
             "default": "Kaolack"
@@ -82,8 +89,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "09",
-            "geonames": 2251910
+            "fips": "SG09",
+            "geonames": 2251910,
+            "iso_3166_2": "SN-FK"
         },
         "long": {
             "default": "Fatick"
@@ -92,8 +100,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "03",
-            "geonames": 2252308
+            "fips": "SG03",
+            "geonames": 2252308,
+            "iso_3166_2": "SN-DB"
         },
         "long": {
             "default": "Diourbel"
@@ -102,8 +111,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "01",
-            "geonames": 2253350
+            "fips": "SG01",
+            "geonames": 2253350,
+            "iso_3166_2": "SN-DK"
         },
         "long": {
             "default": "Dakar"
@@ -112,8 +122,9 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "16",
-            "geonames": 7303935
+            "fips": "SG16",
+            "geonames": 7303935,
+            "iso_3166_2": "SN-KA"
         },
         "long": {
             "default": "Kaffrine"
@@ -122,7 +133,7 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "17",
+            "fips": "SG17",
             "geonames": 7303936
         },
         "long": {
@@ -132,7 +143,7 @@
     {
         "parent": "SN",
         "ids": {
-            "fips": "18",
+            "fips": "SG18",
             "geonames": 7303937
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "20",
-            "geonames": 50360
+            "fips": "SO20",
+            "geonames": 50360,
+            "iso_3166_2": "SO-WO"
         },
         "long": {
             "default": "Woqooyi Galbeed"
@@ -12,8 +13,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "19",
-            "geonames": 51230
+            "fips": "SO19",
+            "geonames": 51230,
+            "iso_3166_2": "SO-TO"
         },
         "long": {
             "default": "Togdheer"
@@ -22,7 +24,7 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "14",
+            "fips": "SO14",
             "geonames": 51966
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "13",
+            "fips": "SO13",
             "geonames": 51967
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "12",
-            "geonames": 52187
+            "fips": "SO12",
+            "geonames": 52187,
+            "iso_3166_2": "SO-SA"
         },
         "long": {
             "default": "Sanaag"
@@ -52,8 +55,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "18",
-            "geonames": 53477
+            "fips": "SO18",
+            "geonames": 53477,
+            "iso_3166_2": "SO-NU"
         },
         "long": {
             "default": "Nugaal"
@@ -62,8 +66,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "10",
-            "geonames": 53707
+            "fips": "SO10",
+            "geonames": 53707,
+            "iso_3166_2": "SO-MU"
         },
         "long": {
             "default": "Mudug"
@@ -72,7 +77,7 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "09",
+            "fips": "SO09",
             "geonames": 56083
         },
         "long": {
@@ -82,7 +87,7 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "08",
+            "fips": "SO08",
             "geonames": 56084
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "07",
-            "geonames": 57060
+            "fips": "SO07",
+            "geonames": 57060,
+            "iso_3166_2": "SO-HI"
         },
         "long": {
             "default": "Hiiraan"
@@ -102,8 +108,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "06",
-            "geonames": 58802
+            "fips": "SO06",
+            "geonames": 58802,
+            "iso_3166_2": "SO-GE"
         },
         "long": {
             "default": "Gedo"
@@ -112,8 +119,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "05",
-            "geonames": 59362
+            "fips": "SO05",
+            "geonames": 59362,
+            "iso_3166_2": "SO-GA"
         },
         "long": {
             "default": "Galguduud"
@@ -122,8 +130,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "04",
-            "geonames": 64538
+            "fips": "SO04",
+            "geonames": 64538,
+            "iso_3166_2": "SO-BY"
         },
         "long": {
             "default": "Bay"
@@ -132,8 +141,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "03",
-            "geonames": 64661
+            "fips": "SO03",
+            "geonames": 64661,
+            "iso_3166_2": "SO-BR"
         },
         "long": {
             "default": "Bari"
@@ -142,8 +152,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "02",
-            "geonames": 64833
+            "fips": "SO02",
+            "geonames": 64833,
+            "iso_3166_2": "SO-BN"
         },
         "long": {
             "default": "Banaadir"
@@ -152,8 +163,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "01",
-            "geonames": 64982
+            "fips": "SO01",
+            "geonames": 64982,
+            "iso_3166_2": "SO-BK"
         },
         "long": {
             "default": "Bakool"
@@ -162,8 +174,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "21",
-            "geonames": 6268943
+            "fips": "SO21",
+            "geonames": 6268943,
+            "iso_3166_2": "SO-AW"
         },
         "long": {
             "default": "Awdal"
@@ -172,8 +185,9 @@
     {
         "parent": "SO",
         "ids": {
-            "fips": "22",
-            "geonames": 6268947
+            "fips": "SO22",
+            "geonames": 6268947,
+            "iso_3166_2": "SO-SO"
         },
         "long": {
             "default": "Sool"

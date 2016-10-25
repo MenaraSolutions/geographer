@@ -2,38 +2,42 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "12",
-            "geonames": 1821301
+            "fips": "CB12",
+            "geonames": 1821301,
+            "iso_3166_2": "KH-15"
         },
         "long": {
-            "default": "Pursat"
+            "default": "Pousaat"
         }
     },
     {
         "parent": "KH",
         "ids": {
-            "fips": "29",
-            "geonames": 1821310
+            "fips": "CB29",
+            "geonames": 1821310,
+            "iso_3166_2": "KH-2"
         },
         "long": {
-            "default": "Battambang"
+            "default": "Baat Dambang"
         }
     },
     {
         "parent": "KH",
         "ids": {
-            "fips": "19",
-            "geonames": 1821939
+            "fips": "CB19",
+            "geonames": 1821939,
+            "iso_3166_2": "KH-21"
         },
         "long": {
-            "default": "Takeo"
+            "default": "Taakaev"
         }
     },
     {
         "parent": "KH",
         "ids": {
-            "fips": "18",
-            "geonames": 1821992
+            "fips": "CB18",
+            "geonames": 1821992,
+            "iso_3166_2": "KH-20"
         },
         "long": {
             "default": "Svay Rieng"
@@ -42,8 +46,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "17",
-            "geonames": 1822028
+            "fips": "CB17",
+            "geonames": 1822028,
+            "iso_3166_2": "KH-19"
         },
         "long": {
             "default": "Stung Treng"
@@ -52,8 +57,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "27",
-            "geonames": 1822210
+            "fips": "CB27",
+            "geonames": 1822210,
+            "iso_3166_2": "KH-22"
         },
         "long": {
             "default": "Ŏtâr Méanchey"
@@ -62,8 +68,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "24",
-            "geonames": 1822213
+            "fips": "CB24",
+            "geonames": 1822213,
+            "iso_3166_2": "KH-17"
         },
         "long": {
             "default": "Siem Reap"
@@ -72,8 +79,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "23",
-            "geonames": 1822449
+            "fips": "CB23",
+            "geonames": 1822449,
+            "iso_3166_2": "KH-16"
         },
         "long": {
             "default": "Ratanakiri"
@@ -82,8 +90,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "14",
-            "geonames": 1822609
+            "fips": "CB14",
+            "geonames": 1822609,
+            "iso_3166_2": "KH-14"
         },
         "long": {
             "default": "Prey Veng"
@@ -92,8 +101,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "13",
-            "geonames": 1822676
+            "fips": "CB13",
+            "geonames": 1822676,
+            "iso_3166_2": "KH-13"
         },
         "long": {
             "default": "Preah Vihear"
@@ -102,8 +112,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "22",
-            "geonames": 1830103
+            "fips": "CB22",
+            "geonames": 1830103,
+            "iso_3166_2": "KH-12"
         },
         "long": {
             "default": "Phnom Penh"
@@ -112,8 +123,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "30",
-            "geonames": 1830206
+            "fips": "CB30",
+            "geonames": 1830206,
+            "iso_3166_2": "KH-24"
         },
         "long": {
             "default": "Pailin"
@@ -122,8 +134,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "10",
-            "geonames": 1830306
+            "fips": "CB10",
+            "geonames": 1830306,
+            "iso_3166_2": "KH-11"
         },
         "long": {
             "default": "Mondolkiri"
@@ -132,8 +145,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "09",
-            "geonames": 1830563
+            "fips": "CB09",
+            "geonames": 1830563,
+            "iso_3166_2": "KH-10"
         },
         "long": {
             "default": "Kratie"
@@ -142,8 +156,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "26",
-            "geonames": 1830937
+            "fips": "CB26",
+            "geonames": 1830937,
+            "iso_3166_2": "KH-23"
         },
         "long": {
             "default": "Kep"
@@ -152,8 +167,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "08",
-            "geonames": 1831037
+            "fips": "CB08",
+            "geonames": 1831037,
+            "iso_3166_2": "KH-9"
         },
         "long": {
             "default": "Koh Kong"
@@ -162,8 +178,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "07",
-            "geonames": 1831095
+            "fips": "CB07",
+            "geonames": 1831095,
+            "iso_3166_2": "KH-8"
         },
         "long": {
             "default": "Kandal"
@@ -172,8 +189,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "21",
-            "geonames": 1831111
+            "fips": "CB21",
+            "geonames": 1831111,
+            "iso_3166_2": "KH-7"
         },
         "long": {
             "default": "Kampot"
@@ -182,8 +200,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "05",
-            "geonames": 1831124
+            "fips": "CB05",
+            "geonames": 1831124,
+            "iso_3166_2": "KH-6"
         },
         "long": {
             "default": "Kampong Thom"
@@ -192,8 +211,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "04",
-            "geonames": 1831132
+            "fips": "CB04",
+            "geonames": 1831132,
+            "iso_3166_2": "KH-5"
         },
         "long": {
             "default": "Kampong Speu"
@@ -202,8 +222,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "03",
-            "geonames": 1831166
+            "fips": "CB03",
+            "geonames": 1831166,
+            "iso_3166_2": "KH-4"
         },
         "long": {
             "default": "Kampong Chhnang"
@@ -212,8 +233,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "02",
-            "geonames": 1831172
+            "fips": "CB02",
+            "geonames": 1831172,
+            "iso_3166_2": "KH-3"
         },
         "long": {
             "default": "Kampong Cham"
@@ -222,8 +244,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "28",
-            "geonames": 1899262
+            "fips": "CB28",
+            "geonames": 1899262,
+            "iso_3166_2": "KH-18"
         },
         "long": {
             "default": "Preah Sihanouk"
@@ -232,8 +255,9 @@
     {
         "parent": "KH",
         "ids": {
-            "fips": "25",
-            "geonames": 1899273
+            "fips": "CB25",
+            "geonames": 1899273,
+            "iso_3166_2": "KH-1"
         },
         "long": {
             "default": "Banteay Meanchey"

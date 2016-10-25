@@ -2,8 +2,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "66",
-            "geonames": 296560
+            "fips": "TU66",
+            "geonames": 296560,
+            "iso_3166_2": "TR-66"
         },
         "long": {
             "default": "Yozgat"
@@ -12,8 +13,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "65",
-            "geonames": 298113
+            "fips": "TU65",
+            "geonames": 298113,
+            "iso_3166_2": "TR-65"
         },
         "long": {
             "default": "Van"
@@ -22,7 +24,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "64",
+            "fips": "TU64",
             "geonames": 298298
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "63",
+            "fips": "TU63",
             "geonames": 298332
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "62",
-            "geonames": 298845
+            "fips": "TU62",
+            "geonames": 298845,
+            "iso_3166_2": "TR-62"
         },
         "long": {
             "default": "Tunceli"
@@ -52,8 +55,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "58",
-            "geonames": 300617
+            "fips": "TU58",
+            "geonames": 300617,
+            "iso_3166_2": "TR-58"
         },
         "long": {
             "default": "Sivas"
@@ -62,8 +66,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "74",
-            "geonames": 300821
+            "fips": "TU74",
+            "geonames": 300821,
+            "iso_3166_2": "TR-56"
         },
         "long": {
             "default": "Siirt"
@@ -72,7 +77,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "73",
+            "fips": "TU73",
             "geonames": 303826
         },
         "long": {
@@ -82,7 +87,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "50",
+            "fips": "TU50",
             "geonames": 303830
         },
         "long": {
@@ -92,7 +97,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "49",
+            "fips": "TU49",
             "geonames": 304041
         },
         "long": {
@@ -102,7 +107,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "48",
+            "fips": "TU48",
             "geonames": 304183
         },
         "long": {
@@ -112,8 +117,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "72",
-            "geonames": 304794
+            "fips": "TU72",
+            "geonames": 304794,
+            "iso_3166_2": "TR-47"
         },
         "long": {
             "default": "Mardin"
@@ -122,8 +128,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "45",
-            "geonames": 304825
+            "fips": "TU45",
+            "geonames": 304825,
+            "iso_3166_2": "TR-45"
         },
         "long": {
             "default": "Manisa"
@@ -132,8 +139,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "44",
-            "geonames": 304919
+            "fips": "TU44",
+            "geonames": 304919,
+            "iso_3166_2": "TR-44"
         },
         "long": {
             "default": "Malatya"
@@ -142,7 +150,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "43",
+            "fips": "TU43",
             "geonames": 305267
         },
         "long": {
@@ -152,8 +160,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "71",
-            "geonames": 306569
+            "fips": "TU71",
+            "geonames": 306569,
+            "iso_3166_2": "TR-42"
         },
         "long": {
             "default": "Konya"
@@ -162,7 +171,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "40",
+            "fips": "TU40",
             "geonames": 307513
         },
         "long": {
@@ -172,8 +181,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "38",
-            "geonames": 308463
+            "fips": "TU38",
+            "geonames": 308463,
+            "iso_3166_2": "TR-38"
         },
         "long": {
             "default": "Kayseri"
@@ -182,7 +192,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "46",
+            "fips": "TU46",
             "geonames": 310858
         },
         "long": {
@@ -192,7 +202,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "35",
+            "fips": "TU35",
             "geonames": 311044
         },
         "long": {
@@ -202,8 +212,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "33",
-            "geonames": 311071
+            "fips": "TU33",
+            "geonames": 311071,
+            "iso_3166_2": "TR-32"
         },
         "long": {
             "default": "Isparta"
@@ -212,8 +223,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "32",
-            "geonames": 311728
+            "fips": "TU32",
+            "geonames": 311728,
+            "iso_3166_2": "TR-33"
         },
         "long": {
             "default": "Mersin"
@@ -222,8 +234,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "31",
-            "geonames": 312394
+            "fips": "TU31",
+            "geonames": 312394,
+            "iso_3166_2": "TR-31"
         },
         "long": {
             "default": "Hatay"
@@ -232,7 +245,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "70",
+            "fips": "TU70",
             "geonames": 312888
         },
         "long": {
@@ -242,8 +255,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "83",
-            "geonames": 314829
+            "fips": "TU83",
+            "geonames": 314829,
+            "iso_3166_2": "TR-27"
         },
         "long": {
             "default": "Gaziantep"
@@ -252,7 +266,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "26",
+            "fips": "TU26",
             "geonames": 315201
         },
         "long": {
@@ -262,8 +276,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "25",
-            "geonames": 315367
+            "fips": "TU25",
+            "geonames": 315367,
+            "iso_3166_2": "TR-25"
         },
         "long": {
             "default": "Erzurum"
@@ -272,8 +287,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "24",
-            "geonames": 315372
+            "fips": "TU24",
+            "geonames": 315372,
+            "iso_3166_2": "TR-24"
         },
         "long": {
             "default": "Erzincan"
@@ -282,7 +298,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "23",
+            "fips": "TU23",
             "geonames": 315807
         },
         "long": {
@@ -292,7 +308,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "21",
+            "fips": "TU21",
             "geonames": 316540
         },
         "long": {
@@ -302,8 +318,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "20",
-            "geonames": 317106
+            "fips": "TU20",
+            "geonames": 317106,
+            "iso_3166_2": "TR-20"
         },
         "long": {
             "default": "Denizli"
@@ -312,8 +329,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "15",
-            "geonames": 320390
+            "fips": "TU15",
+            "geonames": 320390,
+            "iso_3166_2": "TR-15"
         },
         "long": {
             "default": "Burdur"
@@ -322,8 +340,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "13",
-            "geonames": 321022
+            "fips": "TU13",
+            "geonames": 321022,
+            "iso_3166_2": "TR-13"
         },
         "long": {
             "default": "Bitlis"
@@ -332,7 +351,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "12",
+            "fips": "TU12",
             "geonames": 321079
         },
         "long": {
@@ -342,8 +361,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "11",
-            "geonames": 321122
+            "fips": "TU11",
+            "geonames": 321122,
+            "iso_3166_2": "TR-11"
         },
         "long": {
             "default": "Bilecik"
@@ -352,7 +372,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "10",
+            "fips": "TU10",
             "geonames": 322164
         },
         "long": {
@@ -362,7 +382,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "09",
+            "fips": "TU09",
             "geonames": 322819
         },
         "long": {
@@ -372,8 +392,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "07",
-            "geonames": 323776
+            "fips": "TU07",
+            "geonames": 323776,
+            "iso_3166_2": "TR-07"
         },
         "long": {
             "default": "Antalya"
@@ -382,8 +403,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "68",
-            "geonames": 323784
+            "fips": "TU68",
+            "geonames": 323784,
+            "iso_3166_2": "TR-06"
         },
         "long": {
             "default": "Ankara"
@@ -392,7 +414,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "04",
+            "fips": "TU04",
             "geonames": 325163
         },
         "long": {
@@ -402,8 +424,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "03",
-            "geonames": 325302
+            "fips": "TU03",
+            "geonames": 325302,
+            "iso_3166_2": "TR-03"
         },
         "long": {
             "default": "Afyonkarahisar"
@@ -412,7 +435,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "02",
+            "fips": "TU02",
             "geonames": 325329
         },
         "long": {
@@ -422,8 +445,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "81",
-            "geonames": 325361
+            "fips": "TU81",
+            "geonames": 325361,
+            "iso_3166_2": "TR-01"
         },
         "long": {
             "default": "Adana"
@@ -432,8 +456,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "91",
-            "geonames": 443183
+            "fips": "TU91",
+            "geonames": 443183,
+            "iso_3166_2": "TR-80"
         },
         "long": {
             "default": "Osmaniye"
@@ -442,7 +467,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "88",
+            "fips": "TU88",
             "geonames": 443184
         },
         "long": {
@@ -452,8 +477,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "75",
-            "geonames": 443185
+            "fips": "TU75",
+            "geonames": 443185,
+            "iso_3166_2": "TR-68"
         },
         "long": {
             "default": "Aksaray"
@@ -462,8 +488,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "76",
-            "geonames": 443186
+            "fips": "TU76",
+            "geonames": 443186,
+            "iso_3166_2": "TR-72"
         },
         "long": {
             "default": "Batman"
@@ -472,8 +499,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "78",
-            "geonames": 443187
+            "fips": "TU78",
+            "geonames": 443187,
+            "iso_3166_2": "TR-70"
         },
         "long": {
             "default": "Karaman"
@@ -482,7 +510,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "79",
+            "fips": "TU79",
             "geonames": 443188
         },
         "long": {
@@ -492,7 +520,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "80",
+            "fips": "TU80",
             "geonames": 443189
         },
         "long": {
@@ -502,8 +530,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "90",
-            "geonames": 443213
+            "fips": "TU90",
+            "geonames": 443213,
+            "iso_3166_2": "TR-79"
         },
         "long": {
             "default": "Kilis"
@@ -512,8 +541,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "85",
-            "geonames": 737021
+            "fips": "TU85",
+            "geonames": 737021,
+            "iso_3166_2": "TR-67"
         },
         "long": {
             "default": "Zonguldak"
@@ -522,8 +552,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "61",
-            "geonames": 738647
+            "fips": "TU61",
+            "geonames": 738647,
+            "iso_3166_2": "TR-61"
         },
         "long": {
             "default": "Trabzon"
@@ -532,8 +563,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "60",
-            "geonames": 738742
+            "fips": "TU60",
+            "geonames": 738742,
+            "iso_3166_2": "TR-60"
         },
         "long": {
             "default": "Tokat"
@@ -542,7 +574,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "59",
+            "fips": "TU59",
             "geonames": 738926
         },
         "long": {
@@ -552,8 +584,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "57",
-            "geonames": 739598
+            "fips": "TU57",
+            "geonames": 739598,
+            "iso_3166_2": "TR-57"
         },
         "long": {
             "default": "Sinop"
@@ -562,8 +595,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "55",
-            "geonames": 740263
+            "fips": "TU55",
+            "geonames": 740263,
+            "iso_3166_2": "TR-55"
         },
         "long": {
             "default": "Samsun"
@@ -572,8 +606,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "54",
-            "geonames": 740352
+            "fips": "TU54",
+            "geonames": 740352,
+            "iso_3166_2": "TR-54"
         },
         "long": {
             "default": "Sakarya"
@@ -582,8 +617,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "53",
-            "geonames": 740481
+            "fips": "TU53",
+            "geonames": 740481,
+            "iso_3166_2": "TR-53"
         },
         "long": {
             "default": "Rize"
@@ -592,8 +628,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "52",
-            "geonames": 741098
+            "fips": "TU52",
+            "geonames": 741098,
+            "iso_3166_2": "TR-52"
         },
         "long": {
             "default": "Ordu"
@@ -602,8 +639,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "41",
-            "geonames": 742865
+            "fips": "TU41",
+            "geonames": 742865,
+            "iso_3166_2": "TR-41"
         },
         "long": {
             "default": "Kocaeli"
@@ -612,7 +650,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "39",
+            "fips": "TU39",
             "geonames": 743165
         },
         "long": {
@@ -622,8 +660,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "37",
-            "geonames": 743881
+            "fips": "TU37",
+            "geonames": 743881,
+            "iso_3166_2": "TR-37"
         },
         "long": {
             "default": "Kastamonu"
@@ -632,8 +671,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "84",
-            "geonames": 743942
+            "fips": "TU84",
+            "geonames": 743942,
+            "iso_3166_2": "TR-36"
         },
         "long": {
             "default": "Kars"
@@ -642,8 +682,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "34",
-            "geonames": 745042
+            "fips": "TU34",
+            "geonames": 745042,
+            "iso_3166_2": "TR-34"
         },
         "long": {
             "default": "Istanbul"
@@ -652,7 +693,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "69",
+            "fips": "TU69",
             "geonames": 746423
         },
         "long": {
@@ -662,8 +703,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "28",
-            "geonames": 746878
+            "fips": "TU28",
+            "geonames": 746878,
+            "iso_3166_2": "TR-28"
         },
         "long": {
             "default": "Giresun"
@@ -672,8 +714,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "22",
-            "geonames": 747711
+            "fips": "TU22",
+            "geonames": 747711,
+            "iso_3166_2": "TR-22"
         },
         "long": {
             "default": "Edirne"
@@ -682,7 +725,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "19",
+            "fips": "TU19",
             "geonames": 748877
         },
         "long": {
@@ -692,7 +735,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "82",
+            "fips": "TU82",
             "geonames": 749747
         },
         "long": {
@@ -702,7 +745,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "17",
+            "fips": "TU17",
             "geonames": 749778
         },
         "long": {
@@ -712,8 +755,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "16",
-            "geonames": 750268
+            "fips": "TU16",
+            "geonames": 750268,
+            "iso_3166_2": "TR-16"
         },
         "long": {
             "default": "Bursa"
@@ -722,8 +766,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "14",
-            "geonames": 750510
+            "fips": "TU14",
+            "geonames": 750510,
+            "iso_3166_2": "TR-14"
         },
         "long": {
             "default": "Bolu"
@@ -732,8 +777,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "08",
-            "geonames": 751816
+            "fips": "TU08",
+            "geonames": 751816,
+            "iso_3166_2": "TR-08"
         },
         "long": {
             "default": "Artvin"
@@ -742,8 +788,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "05",
-            "geonames": 752014
+            "fips": "TU05",
+            "geonames": 752014,
+            "iso_3166_2": "TR-05"
         },
         "long": {
             "default": "Amasya"
@@ -752,7 +799,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "87",
+            "fips": "TU87",
             "geonames": 862467
         },
         "long": {
@@ -762,7 +809,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "89",
+            "fips": "TU89",
             "geonames": 862468
         },
         "long": {
@@ -772,8 +819,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "92",
-            "geonames": 862469
+            "fips": "TU92",
+            "geonames": 862469,
+            "iso_3166_2": "TR-77"
         },
         "long": {
             "default": "Yalova"
@@ -782,8 +830,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "86",
-            "geonames": 862470
+            "fips": "TU86",
+            "geonames": 862470,
+            "iso_3166_2": "TR-75"
         },
         "long": {
             "default": "Ardahan"
@@ -792,8 +841,9 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "77",
-            "geonames": 862471
+            "fips": "TU77",
+            "geonames": 862471,
+            "iso_3166_2": "TR-69"
         },
         "long": {
             "default": "Bayburt"
@@ -802,7 +852,7 @@
     {
         "parent": "TR",
         "ids": {
-            "fips": "93",
+            "fips": "TU93",
             "geonames": 865521
         },
         "long": {

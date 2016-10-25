@@ -2,7 +2,7 @@
     {
         "parent": "TW",
         "ids": {
-            "fips": "01",
+            "fips": "TW01",
             "geonames": 7280288
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "TW",
         "ids": {
-            "fips": "02",
+            "fips": "TW02",
             "geonames": 7280289
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "TW",
         "ids": {
-            "fips": "03",
+            "fips": "TW03",
             "geonames": 7280290
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "TW",
         "ids": {
-            "fips": "04",
+            "fips": "TW04",
             "geonames": 7280291
         },
         "long": {

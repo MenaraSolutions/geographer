@@ -2,8 +2,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "16",
-            "geonames": 3488081
+            "fips": "JM16",
+            "geonames": 3488081,
+            "iso_3166_2": "JM-10"
         },
         "long": {
             "default": "Westmoreland"
@@ -12,8 +13,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "15",
-            "geonames": 3488222
+            "fips": "JM15",
+            "geonames": 3488222,
+            "iso_3166_2": "JM-07"
         },
         "long": {
             "default": "Trelawny"
@@ -22,8 +24,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "14",
-            "geonames": 3488688
+            "fips": "JM14",
+            "geonames": 3488688,
+            "iso_3166_2": "JM-03"
         },
         "long": {
             "default": "Saint Thomas"
@@ -32,7 +35,7 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "13",
+            "fips": "JM13",
             "geonames": 3488693
         },
         "long": {
@@ -42,7 +45,7 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "12",
+            "fips": "JM12",
             "geonames": 3488700
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "11",
+            "fips": "JM11",
             "geonames": 3488708
         },
         "long": {
@@ -62,8 +65,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "10",
-            "geonames": 3488711
+            "fips": "JM10",
+            "geonames": 3488711,
+            "iso_3166_2": "JM-14"
         },
         "long": {
             "default": "Saint Catherine"
@@ -72,8 +76,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "09",
-            "geonames": 3488715
+            "fips": "JM09",
+            "geonames": 3488715,
+            "iso_3166_2": "JM-06"
         },
         "long": {
             "default": "Saint Ann"
@@ -82,7 +87,7 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "08",
+            "fips": "JM08",
             "geonames": 3488716
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "07",
-            "geonames": 3488997
+            "fips": "JM07",
+            "geonames": 3488997,
+            "iso_3166_2": "JM-04"
         },
         "long": {
             "default": "Portland"
@@ -102,8 +108,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "04",
-            "geonames": 3489586
+            "fips": "JM04",
+            "geonames": 3489586,
+            "iso_3166_2": "JM-12"
         },
         "long": {
             "default": "Manchester"
@@ -112,8 +119,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "17",
-            "geonames": 3489853
+            "fips": "JM17",
+            "geonames": 3489853,
+            "iso_3166_2": "JM-01"
         },
         "long": {
             "default": "Kingston"
@@ -122,8 +130,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "02",
-            "geonames": 3490145
+            "fips": "JM02",
+            "geonames": 3490145,
+            "iso_3166_2": "JM-09"
         },
         "long": {
             "default": "Hanover"
@@ -132,8 +141,9 @@
     {
         "parent": "JM",
         "ids": {
-            "fips": "01",
-            "geonames": 3490952
+            "fips": "JM01",
+            "geonames": 3490952,
+            "iso_3166_2": "JM-13"
         },
         "long": {
             "default": "Clarendon"

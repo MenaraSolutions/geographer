@@ -2,8 +2,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "46",
-            "geonames": 1848649
+            "fips": "JA46",
+            "geonames": 1848649,
+            "iso_3166_2": "JP-19"
         },
         "long": {
             "default": "Yamanashi"
@@ -12,8 +13,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "45",
-            "geonames": 1848681
+            "fips": "JA45",
+            "geonames": 1848681,
+            "iso_3166_2": "JP-35"
         },
         "long": {
             "default": "Yamaguchi"
@@ -22,8 +24,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "43",
-            "geonames": 1848938
+            "fips": "JA43",
+            "geonames": 1848938,
+            "iso_3166_2": "JP-30"
         },
         "long": {
             "default": "Wakayama"
@@ -32,8 +35,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "42",
-            "geonames": 1849872
+            "fips": "JA42",
+            "geonames": 1849872,
+            "iso_3166_2": "JP-16"
         },
         "long": {
             "default": "Toyama"
@@ -42,8 +46,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "41",
-            "geonames": 1849890
+            "fips": "JA41",
+            "geonames": 1849890,
+            "iso_3166_2": "JP-31"
         },
         "long": {
             "default": "Tottori"
@@ -52,8 +57,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "40",
-            "geonames": 1850144
+            "fips": "JA40",
+            "geonames": 1850144,
+            "iso_3166_2": "JP-13"
         },
         "long": {
             "default": "Tokyo"
@@ -62,8 +68,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "39",
-            "geonames": 1850157
+            "fips": "JA39",
+            "geonames": 1850157,
+            "iso_3166_2": "JP-36"
         },
         "long": {
             "default": "Tokushima"
@@ -72,8 +79,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "38",
-            "geonames": 1850310
+            "fips": "JA38",
+            "geonames": 1850310,
+            "iso_3166_2": "JP-09"
         },
         "long": {
             "default": "Tochigi"
@@ -82,8 +90,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "37",
-            "geonames": 1851715
+            "fips": "JA37",
+            "geonames": 1851715,
+            "iso_3166_2": "JP-22"
         },
         "long": {
             "default": "Shizuoka"
@@ -92,8 +101,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "36",
-            "geonames": 1852442
+            "fips": "JA36",
+            "geonames": 1852442,
+            "iso_3166_2": "JP-32"
         },
         "long": {
             "default": "Shimane"
@@ -102,7 +112,7 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "35",
+            "fips": "JA35",
             "geonames": 1852553
         },
         "long": {
@@ -112,8 +122,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "34",
-            "geonames": 1853226
+            "fips": "JA34",
+            "geonames": 1853226,
+            "iso_3166_2": "JP-11"
         },
         "long": {
             "default": "Saitama"
@@ -122,7 +133,7 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "33",
+            "fips": "JA33",
             "geonames": 1853299
         },
         "long": {
@@ -132,7 +143,7 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "32",
+            "fips": "JA32",
             "geonames": 1853904
         },
         "long": {
@@ -142,8 +153,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "47",
-            "geonames": 1854345
+            "fips": "JA47",
+            "geonames": 1854345,
+            "iso_3166_2": "JP-47"
         },
         "long": {
             "default": "Okinawa"
@@ -152,8 +164,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "31",
-            "geonames": 1854381
+            "fips": "JA31",
+            "geonames": 1854381,
+            "iso_3166_2": "JP-33"
         },
         "long": {
             "default": "Okayama"
@@ -162,8 +175,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "30",
-            "geonames": 1854484
+            "fips": "JA30",
+            "geonames": 1854484,
+            "iso_3166_2": "JP-44"
         },
         "long": {
             "default": "Oita"
@@ -172,8 +186,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "29",
-            "geonames": 1855429
+            "fips": "JA29",
+            "geonames": 1855429,
+            "iso_3166_2": "JP-15"
         },
         "long": {
             "default": "Niigata"
@@ -182,8 +197,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "28",
-            "geonames": 1855608
+            "fips": "JA28",
+            "geonames": 1855608,
+            "iso_3166_2": "JP-29"
         },
         "long": {
             "default": "Nara"
@@ -192,8 +208,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "27",
-            "geonames": 1856156
+            "fips": "JA27",
+            "geonames": 1856156,
+            "iso_3166_2": "JP-42"
         },
         "long": {
             "default": "Nagasaki"
@@ -202,8 +219,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "26",
-            "geonames": 1856210
+            "fips": "JA26",
+            "geonames": 1856210,
+            "iso_3166_2": "JP-20"
         },
         "long": {
             "default": "Nagano"
@@ -212,8 +230,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "25",
-            "geonames": 1856710
+            "fips": "JA25",
+            "geonames": 1856710,
+            "iso_3166_2": "JP-45"
         },
         "long": {
             "default": "Miyazaki"
@@ -222,8 +241,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "23",
-            "geonames": 1857352
+            "fips": "JA23",
+            "geonames": 1857352,
+            "iso_3166_2": "JP-24"
         },
         "long": {
             "default": "Mie"
@@ -232,8 +252,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "22",
-            "geonames": 1857907
+            "fips": "JA22",
+            "geonames": 1857907,
+            "iso_3166_2": "JP-26"
         },
         "long": {
             "default": "Kyoto"
@@ -242,8 +263,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "21",
-            "geonames": 1858419
+            "fips": "JA21",
+            "geonames": 1858419,
+            "iso_3166_2": "JP-43"
         },
         "long": {
             "default": "Kumamoto"
@@ -252,8 +274,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "20",
-            "geonames": 1859133
+            "fips": "JA20",
+            "geonames": 1859133,
+            "iso_3166_2": "JP-39"
         },
         "long": {
             "default": "Kochi"
@@ -262,8 +285,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "19",
-            "geonames": 1860291
+            "fips": "JA19",
+            "geonames": 1860291,
+            "iso_3166_2": "JP-14"
         },
         "long": {
             "default": "Kanagawa"
@@ -272,8 +296,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "18",
-            "geonames": 1860825
+            "fips": "JA18",
+            "geonames": 1860825,
+            "iso_3166_2": "JP-46"
         },
         "long": {
             "default": "Kagoshima"
@@ -282,8 +307,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "17",
-            "geonames": 1860834
+            "fips": "JA17",
+            "geonames": 1860834,
+            "iso_3166_2": "JP-37"
         },
         "long": {
             "default": "Kagawa"
@@ -292,8 +318,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "15",
-            "geonames": 1861387
+            "fips": "JA15",
+            "geonames": 1861387,
+            "iso_3166_2": "JP-17"
         },
         "long": {
             "default": "Ishikawa"
@@ -302,7 +329,7 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "13",
+            "fips": "JA13",
             "geonames": 1862047
         },
         "long": {
@@ -312,8 +339,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "11",
-            "geonames": 1862413
+            "fips": "JA11",
+            "geonames": 1862413,
+            "iso_3166_2": "JP-34"
         },
         "long": {
             "default": "Hiroshima"
@@ -322,8 +350,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "10",
-            "geonames": 1863501
+            "fips": "JA10",
+            "geonames": 1863501,
+            "iso_3166_2": "JP-10"
         },
         "long": {
             "default": "Gunma"
@@ -332,8 +361,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "09",
-            "geonames": 1863640
+            "fips": "JA09",
+            "geonames": 1863640,
+            "iso_3166_2": "JP-21"
         },
         "long": {
             "default": "Gifu"
@@ -342,8 +372,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "07",
-            "geonames": 1863958
+            "fips": "JA07",
+            "geonames": 1863958,
+            "iso_3166_2": "JP-40"
         },
         "long": {
             "default": "Fukuoka"
@@ -352,8 +383,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "06",
-            "geonames": 1863983
+            "fips": "JA06",
+            "geonames": 1863983,
+            "iso_3166_2": "JP-18"
         },
         "long": {
             "default": "Fukui"
@@ -362,8 +394,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "05",
-            "geonames": 1864226
+            "fips": "JA05",
+            "geonames": 1864226,
+            "iso_3166_2": "JP-38"
         },
         "long": {
             "default": "Ehime"
@@ -372,8 +405,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "01",
-            "geonames": 1865694
+            "fips": "JA01",
+            "geonames": 1865694,
+            "iso_3166_2": "JP-23"
         },
         "long": {
             "default": "Aichi"
@@ -382,8 +416,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "44",
-            "geonames": 2110554
+            "fips": "JA44",
+            "geonames": 2110554,
+            "iso_3166_2": "JP-06"
         },
         "long": {
             "default": "Yamagata"
@@ -392,8 +427,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "24",
-            "geonames": 2111888
+            "fips": "JA24",
+            "geonames": 2111888,
+            "iso_3166_2": "JP-04"
         },
         "long": {
             "default": "Miyagi"
@@ -402,8 +438,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "16",
-            "geonames": 2112518
+            "fips": "JA16",
+            "geonames": 2112518,
+            "iso_3166_2": "JP-03"
         },
         "long": {
             "default": "Iwate"
@@ -412,8 +449,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "14",
-            "geonames": 2112669
+            "fips": "JA14",
+            "geonames": 2112669,
+            "iso_3166_2": "JP-08"
         },
         "long": {
             "default": "Ibaraki"
@@ -422,8 +460,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "08",
-            "geonames": 2112922
+            "fips": "JA08",
+            "geonames": 2112922,
+            "iso_3166_2": "JP-07"
         },
         "long": {
             "default": "Fukushima"
@@ -432,8 +471,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "04",
-            "geonames": 2113014
+            "fips": "JA04",
+            "geonames": 2113014,
+            "iso_3166_2": "JP-12"
         },
         "long": {
             "default": "Chiba"
@@ -442,8 +482,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "02",
-            "geonames": 2113124
+            "fips": "JA02",
+            "geonames": 2113124,
+            "iso_3166_2": "JP-05"
         },
         "long": {
             "default": "Akita"
@@ -452,8 +493,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "12",
-            "geonames": 2130037
+            "fips": "JA12",
+            "geonames": 2130037,
+            "iso_3166_2": "JP-01"
         },
         "long": {
             "default": "Hokkaido"
@@ -462,8 +504,9 @@
     {
         "parent": "JP",
         "ids": {
-            "fips": "03",
-            "geonames": 2130656
+            "fips": "JA03",
+            "geonames": 2130656,
+            "iso_3166_2": "JP-02"
         },
         "long": {
             "default": "Aomori"

@@ -2,7 +2,7 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "08",
+            "fips": "PK08",
             "geonames": 1162015
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "05",
-            "geonames": 1164807
+            "fips": "PK05",
+            "geonames": 1164807,
+            "iso_3166_2": "PK-SD"
         },
         "long": {
             "default": "Sindh"
@@ -22,7 +23,7 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "04",
+            "fips": "PK04",
             "geonames": 1167710
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "03",
-            "geonames": 1168873
+            "fips": "PK03",
+            "geonames": 1168873,
+            "iso_3166_2": "PK-KP"
         },
         "long": {
             "default": "Khyber Pakhtunkhwa"
@@ -42,8 +44,9 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "07",
-            "geonames": 1168878
+            "fips": "PK07",
+            "geonames": 1168878,
+            "iso_3166_2": "PK-GB"
         },
         "long": {
             "default": "Gilgit-Baltistan"
@@ -52,8 +55,9 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "01",
-            "geonames": 1179245
+            "fips": "PK01",
+            "geonames": 1179245,
+            "iso_3166_2": "PK-TA"
         },
         "long": {
             "default": "Federally Administered Tribal Areas"
@@ -62,7 +66,7 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "02",
+            "fips": "PK02",
             "geonames": 1183606
         },
         "long": {
@@ -72,8 +76,9 @@
     {
         "parent": "PK",
         "ids": {
-            "fips": "06",
-            "geonames": 1184196
+            "fips": "PK06",
+            "geonames": 1184196,
+            "iso_3166_2": "PK-JK"
         },
         "long": {
             "default": "Azad Kashmir"

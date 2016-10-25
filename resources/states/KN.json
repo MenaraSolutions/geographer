@@ -2,7 +2,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "15",
+            "fips": "SC15",
             "geonames": 3575114
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "13",
+            "fips": "SC13",
             "geonames": 3575164
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "12",
+            "fips": "SC12",
             "geonames": 3575165
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "11",
+            "fips": "SC11",
             "geonames": 3575168
         },
         "long": {
@@ -42,8 +42,9 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "10",
-            "geonames": 3575171
+            "fips": "SC10",
+            "geonames": 3575171,
+            "iso_3166_2": "KN-09"
         },
         "long": {
             "default": "Saint Paul Charlestown"
@@ -52,7 +53,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "09",
+            "fips": "SC09",
             "geonames": 3575172
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "08",
+            "fips": "SC08",
             "geonames": 3575173
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "07",
+            "fips": "SC07",
             "geonames": 3575175
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "06",
+            "fips": "SC06",
             "geonames": 3575176
         },
         "long": {
@@ -92,7 +93,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "05",
+            "fips": "SC05",
             "geonames": 3575177
         },
         "long": {
@@ -102,7 +103,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "04",
+            "fips": "SC04",
             "geonames": 3575179
         },
         "long": {
@@ -112,8 +113,9 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "03",
-            "geonames": 3575180
+            "fips": "SC03",
+            "geonames": 3575180,
+            "iso_3166_2": "KN-03"
         },
         "long": {
             "default": "Saint George Basseterre"
@@ -122,7 +124,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "02",
+            "fips": "SC02",
             "geonames": 3575183
         },
         "long": {
@@ -132,7 +134,7 @@
     {
         "parent": "KN",
         "ids": {
-            "fips": "01",
+            "fips": "SC01",
             "geonames": 3575476
         },
         "long": {

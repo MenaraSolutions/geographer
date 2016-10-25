@@ -2,8 +2,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "51",
-            "geonames": 611716
+            "fips": "GG51",
+            "geonames": 611716,
+            "iso_3166_2": "GE-TBS"
         },
         "long": {
             "default": "T'bilisi"
@@ -12,8 +13,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "04",
-            "geonames": 615929
+            "fips": "GG04",
+            "geonames": 615929,
+            "iso_3166_2": "GE-AJ"
         },
         "long": {
             "default": "Ajaria"
@@ -22,8 +24,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "68",
-            "geonames": 865536
+            "fips": "GG68",
+            "geonames": 865536,
+            "iso_3166_2": "GE-KK"
         },
         "long": {
             "default": "Kvemo Kartli"
@@ -32,8 +35,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "67",
-            "geonames": 865537
+            "fips": "GG67",
+            "geonames": 865537,
+            "iso_3166_2": "GE-KA"
         },
         "long": {
             "default": "Kakheti"
@@ -42,8 +46,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "65",
-            "geonames": 865538
+            "fips": "GG65",
+            "geonames": 865538,
+            "iso_3166_2": "GE-GU"
         },
         "long": {
             "default": "Guria"
@@ -52,8 +57,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "66",
-            "geonames": 865539
+            "fips": "GG66",
+            "geonames": 865539,
+            "iso_3166_2": "GE-IM"
         },
         "long": {
             "default": "Imereti"
@@ -62,8 +68,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "73",
-            "geonames": 865540
+            "fips": "GG73",
+            "geonames": 865540,
+            "iso_3166_2": "GE-SK"
         },
         "long": {
             "default": "Shida Kartli"
@@ -72,8 +79,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "69",
-            "geonames": 865541
+            "fips": "GG69",
+            "geonames": 865541,
+            "iso_3166_2": "GE-MM"
         },
         "long": {
             "default": "Mtskheta-Mtianeti"
@@ -82,8 +90,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "70",
-            "geonames": 865542
+            "fips": "GG70",
+            "geonames": 865542,
+            "iso_3166_2": "GE-RL"
         },
         "long": {
             "default": "Racha-Lechkhumi and Kvemo Svaneti"
@@ -92,8 +101,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "71",
-            "geonames": 865543
+            "fips": "GG71",
+            "geonames": 865543,
+            "iso_3166_2": "GE-SZ"
         },
         "long": {
             "default": "Samegrelo and Zemo Svaneti"
@@ -102,8 +112,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "72",
-            "geonames": 865544
+            "fips": "GG72",
+            "geonames": 865544,
+            "iso_3166_2": "GE-SJ"
         },
         "long": {
             "default": "Samtskhe-Javakheti"
@@ -112,8 +123,9 @@
     {
         "parent": "GE",
         "ids": {
-            "fips": "02",
-            "geonames": 6643410
+            "fips": "GG02",
+            "geonames": 6643410,
+            "iso_3166_2": "GE-AB"
         },
         "long": {
             "default": "Abkhazia"

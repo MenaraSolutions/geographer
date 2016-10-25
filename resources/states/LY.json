@@ -2,8 +2,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "70",
-            "geonames": 87204
+            "fips": "LY70",
+            "geonames": 87204,
+            "iso_3166_2": "LY-DR"
         },
         "long": {
             "default": "Darnah"
@@ -12,7 +13,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "69",
+            "fips": "LY69",
             "geonames": 88318
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "66",
-            "geonames": 88904
+            "fips": "LY66",
+            "geonames": 88904,
+            "iso_3166_2": "LY-MJ"
         },
         "long": {
             "default": "Al Marj"
@@ -32,8 +34,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "65",
-            "geonames": 88932
+            "fips": "LY65",
+            "geonames": 88932,
+            "iso_3166_2": "LY-KF"
         },
         "long": {
             "default": "Al Kufrah"
@@ -42,7 +45,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "63",
+            "fips": "LY63",
             "geonames": 443289
         },
         "long": {
@@ -52,7 +55,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "77",
+            "fips": "LY77",
             "geonames": 2210245
         },
         "long": {
@@ -62,8 +65,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "76",
-            "geonames": 2210553
+            "fips": "LY76",
+            "geonames": 2210553,
+            "iso_3166_2": "LY-SR"
         },
         "long": {
             "default": "Surt"
@@ -72,7 +76,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "75",
+            "fips": "LY75",
             "geonames": 2212774
         },
         "long": {
@@ -82,7 +86,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "74",
+            "fips": "LY74",
             "geonames": 2214432
         },
         "long": {
@@ -92,8 +96,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "73",
-            "geonames": 2214602
+            "fips": "LY73",
+            "geonames": 2214602,
+            "iso_3166_2": "LY-MQ"
         },
         "long": {
             "default": "Murzuq"
@@ -102,7 +107,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "72",
+            "fips": "LY72",
             "geonames": 2214845
         },
         "long": {
@@ -112,7 +117,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "71",
+            "fips": "LY71",
             "geonames": 2217350
         },
         "long": {
@@ -122,7 +127,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "68",
+            "fips": "LY68",
             "geonames": 2218972
         },
         "long": {
@@ -132,7 +137,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "78",
+            "fips": "LY78",
             "geonames": 2219413
         },
         "long": {
@@ -142,8 +147,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "64",
-            "geonames": 2219944
+            "fips": "LY64",
+            "geonames": 2219944,
+            "iso_3166_2": "LY-JU"
         },
         "long": {
             "default": "Al Jufrah"
@@ -152,7 +158,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "67",
+            "fips": "LY67",
             "geonames": 2593778
         },
         "long": {
@@ -162,7 +168,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "79",
+            "fips": "LY79",
             "geonames": 7602688
         },
         "long": {
@@ -172,7 +178,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "80",
+            "fips": "LY80",
             "geonames": 7602689
         },
         "long": {
@@ -182,7 +188,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "81",
+            "fips": "LY81",
             "geonames": 7602690
         },
         "long": {
@@ -192,8 +198,9 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "82",
-            "geonames": 7602691
+            "fips": "LY82",
+            "geonames": 7602691,
+            "iso_3166_2": "LY-MB"
         },
         "long": {
             "default": "Al Marqab"
@@ -202,7 +209,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "83",
+            "fips": "LY83",
             "geonames": 7602692
         },
         "long": {
@@ -212,7 +219,7 @@
     {
         "parent": "LY",
         "ids": {
-            "fips": "84",
+            "fips": "LY84",
             "geonames": 7602693
         },
         "long": {

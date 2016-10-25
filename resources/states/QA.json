@@ -2,7 +2,7 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "08",
+            "fips": "QA08",
             "geonames": 389462
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "04",
+            "fips": "QA04",
             "geonames": 389465
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "09",
+            "fips": "QA09",
             "geonames": 389467
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "06",
+            "fips": "QA06",
             "geonames": 389469
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "01",
+            "fips": "QA01",
             "geonames": 389470
         },
         "long": {
@@ -52,8 +52,9 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "10",
-            "geonames": 389472
+            "fips": "QA10",
+            "geonames": 389472,
+            "iso_3166_2": "QA-WA"
         },
         "long": {
             "default": "Al Wakrah"
@@ -62,7 +63,7 @@
     {
         "parent": "QA",
         "ids": {
-            "fips": "13",
+            "fips": "QA13",
             "geonames": 8030540
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "19",
-            "geonames": 932011
+            "fips": "LT19",
+            "geonames": 932011,
+            "iso_3166_2": "LS-K"
         },
         "long": {
             "default": "Thaba-Tseka"
@@ -12,8 +13,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "18",
-            "geonames": 932184
+            "fips": "LT18",
+            "geonames": 932184,
+            "iso_3166_2": "LS-G"
         },
         "long": {
             "default": "Quthing"
@@ -22,7 +24,7 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "17",
+            "fips": "LT17",
             "geonames": 932219
         },
         "long": {
@@ -32,8 +34,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "16",
-            "geonames": 932418
+            "fips": "LT16",
+            "geonames": 932418,
+            "iso_3166_2": "LS-J"
         },
         "long": {
             "default": "Mokhotlong"
@@ -42,7 +45,7 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "15",
+            "fips": "LT15",
             "geonames": 932439
         },
         "long": {
@@ -52,8 +55,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "14",
-            "geonames": 932506
+            "fips": "LT14",
+            "geonames": 932506,
+            "iso_3166_2": "LS-A"
         },
         "long": {
             "default": "Maseru"
@@ -62,8 +66,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "13",
-            "geonames": 932615
+            "fips": "LT13",
+            "geonames": 932615,
+            "iso_3166_2": "LS-E"
         },
         "long": {
             "default": "Mafeteng"
@@ -72,8 +77,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "12",
-            "geonames": 932700
+            "fips": "LT12",
+            "geonames": 932700,
+            "iso_3166_2": "LS-C"
         },
         "long": {
             "default": "Leribe"
@@ -82,8 +88,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "11",
-            "geonames": 932888
+            "fips": "LT11",
+            "geonames": 932888,
+            "iso_3166_2": "LS-B"
         },
         "long": {
             "default": "Butha-Buthe"
@@ -92,8 +99,9 @@
     {
         "parent": "LS",
         "ids": {
-            "fips": "10",
-            "geonames": 932932
+            "fips": "LT10",
+            "geonames": 932932,
+            "iso_3166_2": "LS-D"
         },
         "long": {
             "default": "Berea"

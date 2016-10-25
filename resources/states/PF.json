@@ -2,7 +2,7 @@
     {
         "parent": "PF",
         "ids": {
-            "fips": "04",
+            "fips": "FP04",
             "geonames": 4019991
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "PF",
         "ids": {
-            "fips": "03",
+            "fips": "FP03",
             "geonames": 4030621
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "PF",
         "ids": {
-            "fips": "02",
+            "fips": "FP02",
             "geonames": 4034364
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "PF",
         "ids": {
-            "fips": "01",
+            "fips": "FP01",
             "geonames": 4034365
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "PF",
         "ids": {
-            "fips": "05",
+            "fips": "FP05",
             "geonames": 4034366
         },
         "long": {

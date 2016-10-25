@@ -2,7 +2,7 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "03",
+            "fips": "SF03",
             "geonames": 967573
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "02",
-            "geonames": 972062
+            "fips": "SF02",
+            "geonames": 972062,
+            "iso_3166_2": "ZA-NL"
         },
         "long": {
             "default": "KwaZulu-Natal"
@@ -22,8 +23,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "05",
-            "geonames": 1085593
+            "fips": "SF05",
+            "geonames": 1085593,
+            "iso_3166_2": "ZA-EC"
         },
         "long": {
             "default": "Eastern Cape"
@@ -32,8 +34,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "06",
-            "geonames": 1085594
+            "fips": "SF06",
+            "geonames": 1085594,
+            "iso_3166_2": "ZA-GT"
         },
         "long": {
             "default": "Gauteng"
@@ -42,8 +45,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "07",
-            "geonames": 1085595
+            "fips": "SF07",
+            "geonames": 1085595,
+            "iso_3166_2": "ZA-MP"
         },
         "long": {
             "default": "Mpumalanga"
@@ -52,8 +56,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "08",
-            "geonames": 1085596
+            "fips": "SF08",
+            "geonames": 1085596,
+            "iso_3166_2": "ZA-NC"
         },
         "long": {
             "default": "Northern Cape"
@@ -62,8 +67,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "09",
-            "geonames": 1085597
+            "fips": "SF09",
+            "geonames": 1085597,
+            "iso_3166_2": "ZA-LP"
         },
         "long": {
             "default": "Limpopo"
@@ -72,7 +78,7 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "10",
+            "fips": "SF10",
             "geonames": 1085598
         },
         "long": {
@@ -82,8 +88,9 @@
     {
         "parent": "ZA",
         "ids": {
-            "fips": "11",
-            "geonames": 1085599
+            "fips": "SF11",
+            "geonames": 1085599,
+            "iso_3166_2": "ZA-WC"
         },
         "long": {
             "default": "Western Cape"

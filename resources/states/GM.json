@@ -2,7 +2,7 @@
     {
         "parent": "GM",
         "ids": {
-            "fips": "05",
+            "fips": "GA05",
             "geonames": 2411683
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "GM",
         "ids": {
-            "fips": "04",
-            "geonames": 2411711
+            "fips": "GA04",
+            "geonames": 2411711,
+            "iso_3166_2": "GM-U"
         },
         "long": {
             "default": "Upper River"
@@ -22,8 +23,9 @@
     {
         "parent": "GM",
         "ids": {
-            "fips": "07",
-            "geonames": 2412353
+            "fips": "GA07",
+            "geonames": 2412353,
+            "iso_3166_2": "GM-N"
         },
         "long": {
             "default": "North Bank"
@@ -32,8 +34,9 @@
     {
         "parent": "GM",
         "ids": {
-            "fips": "03",
-            "geonames": 2412707
+            "fips": "GA03",
+            "geonames": 2412707,
+            "iso_3166_2": "GM-M"
         },
         "long": {
             "default": "Central River"
@@ -42,8 +45,9 @@
     {
         "parent": "GM",
         "ids": {
-            "fips": "02",
-            "geonames": 2412716
+            "fips": "GA02",
+            "geonames": 2412716,
+            "iso_3166_2": "GM-L"
         },
         "long": {
             "default": "Lower River"
@@ -52,8 +56,9 @@
     {
         "parent": "GM",
         "ids": {
-            "fips": "01",
-            "geonames": 2413875
+            "fips": "GA01",
+            "geonames": 2413875,
+            "iso_3166_2": "GM-B"
         },
         "long": {
             "default": "Banjul"

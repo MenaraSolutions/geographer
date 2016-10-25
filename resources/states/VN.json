@@ -2,7 +2,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "58",
+            "fips": "VM58",
             "geonames": 1559969
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "59",
+            "fips": "VM59",
             "geonames": 1559970
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "60",
+            "fips": "VM60",
             "geonames": 1559971
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "65",
+            "fips": "VM65",
             "geonames": 1559972
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "67",
+            "fips": "VM67",
             "geonames": 1559975
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "68",
+            "fips": "VM68",
             "geonames": 1559976
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "69",
+            "fips": "VM69",
             "geonames": 1559977
         },
         "long": {
@@ -72,7 +72,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "70",
+            "fips": "VM70",
             "geonames": 1559978
         },
         "long": {
@@ -82,7 +82,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "90",
+            "fips": "VM90",
             "geonames": 1562412
         },
         "long": {
@@ -92,7 +92,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "37",
+            "fips": "VM37",
             "geonames": 1564676
         },
         "long": {
@@ -102,7 +102,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "66",
+            "fips": "VM66",
             "geonames": 1565033
         },
         "long": {
@@ -112,7 +112,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "55",
+            "fips": "VM55",
             "geonames": 1565088
         },
         "long": {
@@ -122,7 +122,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "34",
+            "fips": "VM34",
             "geonames": 1566165
         },
         "long": {
@@ -132,7 +132,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "35",
+            "fips": "VM35",
             "geonames": 1566338
         },
         "long": {
@@ -142,7 +142,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "33",
+            "fips": "VM33",
             "geonames": 1566557
         },
         "long": {
@@ -152,7 +152,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "32",
+            "fips": "VM32",
             "geonames": 1567643
         },
         "long": {
@@ -162,7 +162,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "64",
+            "fips": "VM64",
             "geonames": 1568733
         },
         "long": {
@@ -172,7 +172,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "30",
+            "fips": "VM30",
             "geonames": 1568758
         },
         "long": {
@@ -182,7 +182,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "63",
+            "fips": "VM63",
             "geonames": 1568769
         },
         "long": {
@@ -192,7 +192,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "62",
+            "fips": "VM62",
             "geonames": 1568839
         },
         "long": {
@@ -202,7 +202,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "61",
+            "fips": "VM61",
             "geonames": 1569805
         },
         "long": {
@@ -212,7 +212,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "53",
+            "fips": "VM53",
             "geonames": 1572594
         },
         "long": {
@@ -222,8 +222,9 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "24",
-            "geonames": 1575788
+            "fips": "VM24",
+            "geonames": 1575788,
+            "iso_3166_2": "VN-41"
         },
         "long": {
             "default": "Long An"
@@ -232,7 +233,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "39",
+            "fips": "VM39",
             "geonames": 1576632
         },
         "long": {
@@ -242,7 +243,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "23",
+            "fips": "VM23",
             "geonames": 1577882
         },
         "long": {
@@ -252,7 +253,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "89",
+            "fips": "VM89",
             "geonames": 1577954
         },
         "long": {
@@ -262,7 +263,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "21",
+            "fips": "VM21",
             "geonames": 1579008
         },
         "long": {
@@ -272,7 +273,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "54",
+            "fips": "VM54",
             "geonames": 1579634
         },
         "long": {
@@ -282,7 +283,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "20",
+            "fips": "VM20",
             "geonames": 1580578
         },
         "long": {
@@ -292,7 +293,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "52",
+            "fips": "VM52",
             "geonames": 1580700
         },
         "long": {
@@ -302,7 +303,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "50",
+            "fips": "VM50",
             "geonames": 1581030
         },
         "long": {
@@ -312,8 +313,9 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "49",
-            "geonames": 1581088
+            "fips": "VM49",
+            "geonames": 1581088,
+            "iso_3166_2": "VN-30"
         },
         "long": {
             "default": "Gia Lai"
@@ -322,7 +324,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "44",
+            "fips": "VM44",
             "geonames": 1581129
         },
         "long": {
@@ -332,7 +334,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "87",
+            "fips": "VM87",
             "geonames": 1581188
         },
         "long": {
@@ -342,7 +344,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "13",
+            "fips": "VM13",
             "geonames": 1581297
         },
         "long": {
@@ -352,7 +354,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "47",
+            "fips": "VM47",
             "geonames": 1581882
         },
         "long": {
@@ -362,7 +364,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "09",
+            "fips": "VM09",
             "geonames": 1582562
         },
         "long": {
@@ -372,7 +374,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "43",
+            "fips": "VM43",
             "geonames": 1582720
         },
         "long": {
@@ -382,7 +384,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "88",
+            "fips": "VM88",
             "geonames": 1584169
         },
         "long": {
@@ -392,7 +394,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "45",
+            "fips": "VM45",
             "geonames": 1584534
         },
         "long": {
@@ -402,7 +404,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "05",
+            "fips": "VM05",
             "geonames": 1586182
         },
         "long": {
@@ -412,7 +414,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "46",
+            "fips": "VM46",
             "geonames": 1587871
         },
         "long": {
@@ -422,7 +424,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "03",
+            "fips": "VM03",
             "geonames": 1587974
         },
         "long": {
@@ -432,8 +434,9 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "01",
-            "geonames": 1594446
+            "fips": "VM01",
+            "geonames": 1594446,
+            "iso_3166_2": "VN-44"
         },
         "long": {
             "default": "An Giang"
@@ -442,7 +445,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "91",
+            "fips": "VM91",
             "geonames": 1904987
         },
         "long": {
@@ -452,7 +455,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "92",
+            "fips": "VM92",
             "geonames": 1905099
         },
         "long": {
@@ -462,7 +465,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "74",
+            "fips": "VM74",
             "geonames": 1905412
         },
         "long": {
@@ -472,7 +475,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "71",
+            "fips": "VM71",
             "geonames": 1905419
         },
         "long": {
@@ -482,7 +485,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "78",
+            "fips": "VM78",
             "geonames": 1905468
         },
         "long": {
@@ -492,7 +495,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "75",
+            "fips": "VM75",
             "geonames": 1905475
         },
         "long": {
@@ -502,7 +505,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "76",
+            "fips": "VM76",
             "geonames": 1905480
         },
         "long": {
@@ -512,7 +515,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "85",
+            "fips": "VM85",
             "geonames": 1905497
         },
         "long": {
@@ -522,7 +525,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "84",
+            "fips": "VM84",
             "geonames": 1905516
         },
         "long": {
@@ -532,7 +535,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "83",
+            "fips": "VM83",
             "geonames": 1905577
         },
         "long": {
@@ -542,7 +545,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "82",
+            "fips": "VM82",
             "geonames": 1905626
         },
         "long": {
@@ -552,7 +555,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "80",
+            "fips": "VM80",
             "geonames": 1905637
         },
         "long": {
@@ -562,7 +565,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "72",
+            "fips": "VM72",
             "geonames": 1905669
         },
         "long": {
@@ -572,7 +575,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "73",
+            "fips": "VM73",
             "geonames": 1905675
         },
         "long": {
@@ -582,7 +585,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "77",
+            "fips": "VM77",
             "geonames": 1905678
         },
         "long": {
@@ -592,7 +595,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "79",
+            "fips": "VM79",
             "geonames": 1905686
         },
         "long": {
@@ -602,7 +605,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "81",
+            "fips": "VM81",
             "geonames": 1905699
         },
         "long": {
@@ -612,7 +615,7 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "86",
+            "fips": "VM86",
             "geonames": 1905856
         },
         "long": {
@@ -622,8 +625,9 @@
     {
         "parent": "VN",
         "ids": {
-            "fips": "93",
-            "geonames": 7506719
+            "fips": "VM93",
+            "geonames": 7506719,
+            "iso_3166_2": "VN-03"
         },
         "long": {
             "default": "Hau Giang"

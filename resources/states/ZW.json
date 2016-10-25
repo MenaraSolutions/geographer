@@ -2,8 +2,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "02",
-            "geonames": 886119
+            "fips": "ZI02",
+            "geonames": 886119,
+            "iso_3166_2": "ZW-MI"
         },
         "long": {
             "default": "Midlands"
@@ -12,8 +13,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "07",
-            "geonames": 886747
+            "fips": "ZI07",
+            "geonames": 886747,
+            "iso_3166_2": "ZW-MS"
         },
         "long": {
             "default": "Matabeleland South"
@@ -22,8 +24,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "06",
-            "geonames": 886748
+            "fips": "ZI06",
+            "geonames": 886748,
+            "iso_3166_2": "ZW-MN"
         },
         "long": {
             "default": "Matabeleland North"
@@ -32,8 +35,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "08",
-            "geonames": 886761
+            "fips": "ZI08",
+            "geonames": 886761,
+            "iso_3166_2": "ZW-MV"
         },
         "long": {
             "default": "Masvingo"
@@ -42,8 +46,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "05",
-            "geonames": 886841
+            "fips": "ZI05",
+            "geonames": 886841,
+            "iso_3166_2": "ZW-MW"
         },
         "long": {
             "default": "Mashonaland West"
@@ -52,8 +57,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "04",
-            "geonames": 886842
+            "fips": "ZI04",
+            "geonames": 886842,
+            "iso_3166_2": "ZW-ME"
         },
         "long": {
             "default": "Mashonaland East"
@@ -62,8 +68,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "03",
-            "geonames": 886843
+            "fips": "ZI03",
+            "geonames": 886843,
+            "iso_3166_2": "ZW-MC"
         },
         "long": {
             "default": "Mashonaland Central"
@@ -72,8 +79,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "01",
-            "geonames": 887358
+            "fips": "ZI01",
+            "geonames": 887358,
+            "iso_3166_2": "ZW-MA"
         },
         "long": {
             "default": "Manicaland"
@@ -82,8 +90,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "09",
-            "geonames": 1105843
+            "fips": "ZI09",
+            "geonames": 1105843,
+            "iso_3166_2": "ZW-BU"
         },
         "long": {
             "default": "Bulawayo"
@@ -92,8 +101,9 @@
     {
         "parent": "ZW",
         "ids": {
-            "fips": "10",
-            "geonames": 1105844
+            "fips": "ZI10",
+            "geonames": 1105844,
+            "iso_3166_2": "ZW-HA"
         },
         "long": {
             "default": "Harare"

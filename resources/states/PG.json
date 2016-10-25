@@ -2,8 +2,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "17",
-            "geonames": 2083546
+            "fips": "PP17",
+            "geonames": 2083546,
+            "iso_3166_2": "PG-WBK"
         },
         "long": {
             "default": "West New Britain"
@@ -12,7 +13,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "06",
+            "fips": "PP06",
             "geonames": 2083549
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "16",
-            "geonames": 2083551
+            "fips": "PP16",
+            "geonames": 2083551,
+            "iso_3166_2": "PG-WHM"
         },
         "long": {
             "default": "Western Highlands"
@@ -32,8 +34,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "05",
-            "geonames": 2086331
+            "fips": "PP05",
+            "geonames": 2086331,
+            "iso_3166_2": "PG-SHM"
         },
         "long": {
             "default": "Southern Highlands"
@@ -42,7 +45,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "18",
+            "fips": "PP18",
             "geonames": 2087246
         },
         "long": {
@@ -52,8 +55,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "07",
-            "geonames": 2089470
+            "fips": "PP07",
+            "geonames": 2089470,
+            "iso_3166_2": "PG-NSB"
         },
         "long": {
             "default": "Bougainville"
@@ -62,7 +66,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "04",
+            "fips": "PP04",
             "geonames": 2089478
         },
         "long": {
@@ -72,8 +76,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "15",
-            "geonames": 2089693
+            "fips": "PP15",
+            "geonames": 2089693,
+            "iso_3166_2": "PG-NIK"
         },
         "long": {
             "default": "New Ireland"
@@ -82,7 +87,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "20",
+            "fips": "PP20",
             "geonames": 2089856
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "14",
-            "geonames": 2090468
+            "fips": "PP14",
+            "geonames": 2090468,
+            "iso_3166_2": "PG-MPL"
         },
         "long": {
             "default": "Morobe"
@@ -102,8 +108,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "13",
-            "geonames": 2091495
+            "fips": "PP13",
+            "geonames": 2091495,
+            "iso_3166_2": "PG-MRL"
         },
         "long": {
             "default": "Manus"
@@ -112,8 +119,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "12",
-            "geonames": 2091993
+            "fips": "PP12",
+            "geonames": 2091993,
+            "iso_3166_2": "PG-MPM"
         },
         "long": {
             "default": "Madang"
@@ -122,8 +130,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "02",
-            "geonames": 2096633
+            "fips": "PP02",
+            "geonames": 2096633,
+            "iso_3166_2": "PG-GPK"
         },
         "long": {
             "default": "Gulf"
@@ -132,8 +141,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "19",
-            "geonames": 2097655
+            "fips": "PP19",
+            "geonames": 2097655,
+            "iso_3166_2": "PG-EPW"
         },
         "long": {
             "default": "Enga"
@@ -142,8 +152,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "11",
-            "geonames": 2097846
+            "fips": "PP11",
+            "geonames": 2097846,
+            "iso_3166_2": "PG-ESW"
         },
         "long": {
             "default": "East Sepik"
@@ -152,8 +163,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "10",
-            "geonames": 2097853
+            "fips": "PP10",
+            "geonames": 2097853,
+            "iso_3166_2": "PG-EBR"
         },
         "long": {
             "default": "East New Britain"
@@ -162,8 +174,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "09",
-            "geonames": 2097855
+            "fips": "PP09",
+            "geonames": 2097855,
+            "iso_3166_2": "PG-EHG"
         },
         "long": {
             "default": "Eastern Highlands"
@@ -172,8 +185,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "08",
-            "geonames": 2098593
+            "fips": "PP08",
+            "geonames": 2098593,
+            "iso_3166_2": "PG-CPK"
         },
         "long": {
             "default": "Chimbu"
@@ -182,8 +196,9 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "03",
-            "geonames": 2132895
+            "fips": "PP03",
+            "geonames": 2132895,
+            "iso_3166_2": "PG-MBA"
         },
         "long": {
             "default": "Milne Bay"
@@ -192,7 +207,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "01",
+            "fips": "PP01",
             "geonames": 2133763
         },
         "long": {
@@ -202,7 +217,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "21",
+            "fips": "PP21",
             "geonames": 8521658
         },
         "long": {
@@ -212,7 +227,7 @@
     {
         "parent": "PG",
         "ids": {
-            "fips": "22",
+            "fips": "PP22",
             "geonames": 8521660
         },
         "long": {

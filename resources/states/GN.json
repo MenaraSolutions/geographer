@@ -2,8 +2,9 @@
     {
         "parent": "GN",
         "ids": {
-            "fips": "04",
-            "geonames": 2422464
+            "fips": "GV04",
+            "geonames": 2422464,
+            "iso_3166_2": "GN-C"
         },
         "long": {
             "default": "Conakry"
@@ -13,7 +14,8 @@
         "parent": "GN",
         "ids": {
             "fips": "B",
-            "geonames": 8335085
+            "geonames": 8335085,
+            "iso_3166_2": "GN-BK"
         },
         "long": {
             "default": "Boke"
@@ -23,7 +25,8 @@
         "parent": "GN",
         "ids": {
             "fips": "F",
-            "geonames": 8335086
+            "geonames": 8335086,
+            "iso_3166_2": "GN-FA"
         },
         "long": {
             "default": "Faranah"
@@ -33,7 +36,8 @@
         "parent": "GN",
         "ids": {
             "fips": "K",
-            "geonames": 8335087
+            "geonames": 8335087,
+            "iso_3166_2": "GN-KA"
         },
         "long": {
             "default": "Kankan"
@@ -43,7 +47,8 @@
         "parent": "GN",
         "ids": {
             "fips": "D",
-            "geonames": 8335088
+            "geonames": 8335088,
+            "iso_3166_2": "GN-KD"
         },
         "long": {
             "default": "Kindia"
@@ -53,7 +58,8 @@
         "parent": "GN",
         "ids": {
             "fips": "L",
-            "geonames": 8335089
+            "geonames": 8335089,
+            "iso_3166_2": "GN-LA"
         },
         "long": {
             "default": "Labe"
@@ -63,7 +69,8 @@
         "parent": "GN",
         "ids": {
             "fips": "M",
-            "geonames": 8335090
+            "geonames": 8335090,
+            "iso_3166_2": "GN-MM"
         },
         "long": {
             "default": "Mamou"
@@ -73,7 +80,8 @@
         "parent": "GN",
         "ids": {
             "fips": "N",
-            "geonames": 8335091
+            "geonames": 8335091,
+            "iso_3166_2": "GN-NZ"
         },
         "long": {
             "default": "Nzerekore"

@@ -2,7 +2,7 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "15",
+            "fips": "GM15",
             "geonames": 2822542
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "10",
-            "geonames": 2838632
+            "fips": "GM10",
+            "geonames": 2838632,
+            "iso_3166_2": "DE-SH"
         },
         "long": {
             "default": "Schleswig-Holstein"
@@ -22,7 +23,7 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "14",
+            "fips": "GM14",
             "geonames": 2842565
         },
         "long": {
@@ -32,7 +33,7 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "13",
+            "fips": "GM13",
             "geonames": 2842566
         },
         "long": {
@@ -42,8 +43,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "09",
-            "geonames": 2842635
+            "fips": "GM09",
+            "geonames": 2842635,
+            "iso_3166_2": "DE-SL"
         },
         "long": {
             "default": "Saarland"
@@ -52,8 +54,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "08",
-            "geonames": 2847618
+            "fips": "GM08",
+            "geonames": 2847618,
+            "iso_3166_2": "DE-RP"
         },
         "long": {
             "default": "Rheinland-Pfalz"
@@ -62,7 +65,7 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "07",
+            "fips": "GM07",
             "geonames": 2861876
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "06",
+            "fips": "GM06",
             "geonames": 2862926
         },
         "long": {
@@ -82,8 +85,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "12",
-            "geonames": 2872567
+            "fips": "GM12",
+            "geonames": 2872567,
+            "iso_3166_2": "DE-MV"
         },
         "long": {
             "default": "Mecklenburg-Vorpommern"
@@ -92,8 +96,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "05",
-            "geonames": 2905330
+            "fips": "GM05",
+            "geonames": 2905330,
+            "iso_3166_2": "DE-HE"
         },
         "long": {
             "default": "Hesse"
@@ -102,8 +107,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "04",
-            "geonames": 2911297
+            "fips": "GM04",
+            "geonames": 2911297,
+            "iso_3166_2": "DE-HH"
         },
         "long": {
             "default": "Hamburg"
@@ -112,8 +118,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "03",
-            "geonames": 2944387
+            "fips": "GM03",
+            "geonames": 2944387,
+            "iso_3166_2": "DE-HB"
         },
         "long": {
             "default": "Bremen"
@@ -122,8 +129,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "11",
-            "geonames": 2945356
+            "fips": "GM11",
+            "geonames": 2945356,
+            "iso_3166_2": "DE-BB"
         },
         "long": {
             "default": "Brandenburg"
@@ -132,8 +140,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "16",
-            "geonames": 2950157
+            "fips": "GM16",
+            "geonames": 2950157,
+            "iso_3166_2": "DE-BE"
         },
         "long": {
             "default": "Berlin"
@@ -142,7 +151,7 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "02",
+            "fips": "GM02",
             "geonames": 2951839
         },
         "long": {
@@ -152,8 +161,9 @@
     {
         "parent": "DE",
         "ids": {
-            "fips": "01",
-            "geonames": 2953481
+            "fips": "GM01",
+            "geonames": 2953481,
+            "iso_3166_2": "DE-BW"
         },
         "long": {
             "default": "Baden-Württemberg"

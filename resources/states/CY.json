@@ -2,8 +2,9 @@
     {
         "parent": "CY",
         "ids": {
-            "fips": "06",
-            "geonames": 146213
+            "fips": "CY06",
+            "geonames": 146213,
+            "iso_3166_2": "CY-05"
         },
         "long": {
             "default": "Pafos"
@@ -12,7 +13,7 @@
     {
         "parent": "CY",
         "ids": {
-            "fips": "04",
+            "fips": "CY04",
             "geonames": 146267
         },
         "long": {
@@ -22,7 +23,7 @@
     {
         "parent": "CY",
         "ids": {
-            "fips": "05",
+            "fips": "CY05",
             "geonames": 146383
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "CY",
         "ids": {
-            "fips": "03",
-            "geonames": 146398
+            "fips": "CY03",
+            "geonames": 146398,
+            "iso_3166_2": "CY-03"
         },
         "long": {
             "default": "Larnaka"
@@ -42,8 +44,9 @@
     {
         "parent": "CY",
         "ids": {
-            "fips": "02",
-            "geonames": 146411
+            "fips": "CY02",
+            "geonames": 146411,
+            "iso_3166_2": "CY-06"
         },
         "long": {
             "default": "Keryneia"
@@ -52,8 +55,9 @@
     {
         "parent": "CY",
         "ids": {
-            "fips": "01",
-            "geonames": 146615
+            "fips": "CY01",
+            "geonames": 146615,
+            "iso_3166_2": "CY-04"
         },
         "long": {
             "default": "Ammochostos"

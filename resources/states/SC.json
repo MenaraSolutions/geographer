@@ -2,7 +2,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "23",
+            "fips": "SE23",
             "geonames": 241151
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "22",
+            "fips": "SE22",
             "geonames": 241181
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "27",
+            "fips": "SE27",
             "geonames": 241215
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "20",
+            "fips": "SE20",
             "geonames": 241221
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "19",
+            "fips": "SE19",
             "geonames": 241224
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "18",
+            "fips": "SE18",
             "geonames": 241251
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "17",
+            "fips": "SE17",
             "geonames": 241252
         },
         "long": {
@@ -72,8 +72,9 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "26",
-            "geonames": 241302
+            "fips": "SE26",
+            "geonames": 241302,
+            "iso_3166_2": "SC-16"
         },
         "long": {
             "default": "English River"
@@ -82,7 +83,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "25",
+            "fips": "SE25",
             "geonames": 241311
         },
         "long": {
@@ -92,7 +93,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "24",
+            "fips": "SE24",
             "geonames": 241330
         },
         "long": {
@@ -102,7 +103,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "14",
+            "fips": "SE14",
             "geonames": 241331
         },
         "long": {
@@ -112,7 +113,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "12",
+            "fips": "SE12",
             "geonames": 241336
         },
         "long": {
@@ -122,7 +123,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "11",
+            "fips": "SE11",
             "geonames": 241396
         },
         "long": {
@@ -132,7 +133,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "10",
+            "fips": "SE10",
             "geonames": 241424
         },
         "long": {
@@ -142,7 +143,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "09",
+            "fips": "SE09",
             "geonames": 241426
         },
         "long": {
@@ -152,7 +153,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "08",
+            "fips": "SE08",
             "geonames": 241428
         },
         "long": {
@@ -162,7 +163,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "07",
+            "fips": "SE07",
             "geonames": 241438
         },
         "long": {
@@ -172,7 +173,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "06",
+            "fips": "SE06",
             "geonames": 241439
         },
         "long": {
@@ -182,7 +183,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "05",
+            "fips": "SE05",
             "geonames": 241444
         },
         "long": {
@@ -192,7 +193,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "03",
+            "fips": "SE03",
             "geonames": 241447
         },
         "long": {
@@ -202,7 +203,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "02",
+            "fips": "SE02",
             "geonames": 241449
         },
         "long": {
@@ -212,7 +213,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "01",
+            "fips": "SE01",
             "geonames": 241450
         },
         "long": {
@@ -222,7 +223,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "29",
+            "fips": "SE29",
             "geonames": 448408
         },
         "long": {
@@ -232,7 +233,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "30",
+            "fips": "SE30",
             "geonames": 448409
         },
         "long": {
@@ -242,7 +243,7 @@
     {
         "parent": "SC",
         "ids": {
-            "fips": "28",
+            "fips": "SE28",
             "geonames": 448410
         },
         "long": {

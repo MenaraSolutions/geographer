@@ -2,8 +2,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "31",
-            "geonames": 3666082
+            "fips": "CO31",
+            "geonames": 3666082,
+            "iso_3166_2": "CO-VID"
         },
         "long": {
             "default": "Vichada"
@@ -12,7 +13,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "30",
+            "fips": "CO30",
             "geonames": 3666254
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "29",
-            "geonames": 3666313
+            "fips": "CO29",
+            "geonames": 3666313,
+            "iso_3166_2": "CO-VAC"
         },
         "long": {
             "default": "Valle del Cauca"
@@ -32,8 +34,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "28",
-            "geonames": 3666951
+            "fips": "CO28",
+            "geonames": 3666951,
+            "iso_3166_2": "CO-TOL"
         },
         "long": {
             "default": "Tolima"
@@ -42,8 +45,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "27",
-            "geonames": 3667725
+            "fips": "CO27",
+            "geonames": 3667725,
+            "iso_3166_2": "CO-SUC"
         },
         "long": {
             "default": "Sucre"
@@ -52,8 +56,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "26",
-            "geonames": 3668578
+            "fips": "CO26",
+            "geonames": 3668578,
+            "iso_3166_2": "CO-SAN"
         },
         "long": {
             "default": "Santander"
@@ -62,7 +67,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "25",
+            "fips": "CO25",
             "geonames": 3670205
         },
         "long": {
@@ -72,8 +77,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "24",
-            "geonames": 3670698
+            "fips": "CO24",
+            "geonames": 3670698,
+            "iso_3166_2": "CO-RIS"
         },
         "long": {
             "default": "Risaralda"
@@ -82,7 +88,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "23",
+            "fips": "CO23",
             "geonames": 3671087
         },
         "long": {
@@ -92,8 +98,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "22",
-            "geonames": 3671178
+            "fips": "CO22",
+            "geonames": 3671178,
+            "iso_3166_2": "CO-PUT"
         },
         "long": {
             "default": "Putumayo"
@@ -102,8 +109,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "21",
-            "geonames": 3673798
+            "fips": "CO21",
+            "geonames": 3673798,
+            "iso_3166_2": "CO-NSA"
         },
         "long": {
             "default": "Norte de Santander"
@@ -112,7 +120,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "20",
+            "fips": "CO20",
             "geonames": 3674021
         },
         "long": {
@@ -122,8 +130,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "19",
-            "geonames": 3674810
+            "fips": "CO19",
+            "geonames": 3674810,
+            "iso_3166_2": "CO-MET"
         },
         "long": {
             "default": "Meta"
@@ -132,8 +141,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "38",
-            "geonames": 3675686
+            "fips": "CO38",
+            "geonames": 3675686,
+            "iso_3166_2": "CO-MAG"
         },
         "long": {
             "default": "Magdalena"
@@ -142,8 +152,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "17",
-            "geonames": 3678847
+            "fips": "CO17",
+            "geonames": 3678847,
+            "iso_3166_2": "CO-LAG"
         },
         "long": {
             "default": "La Guajira"
@@ -152,7 +163,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "16",
+            "fips": "CO16",
             "geonames": 3680692
         },
         "long": {
@@ -162,8 +173,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "14",
-            "geonames": 3681344
+            "fips": "CO14",
+            "geonames": 3681344,
+            "iso_3166_2": "CO-GUV"
         },
         "long": {
             "default": "Guaviare"
@@ -172,7 +184,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "15",
+            "fips": "CO15",
             "geonames": 3681652
         },
         "long": {
@@ -182,8 +194,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "33",
-            "geonames": 3685413
+            "fips": "CO33",
+            "geonames": 3685413,
+            "iso_3166_2": "CO-CUN"
         },
         "long": {
             "default": "Cundinamarca"
@@ -192,7 +205,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "12",
+            "fips": "CO12",
             "geonames": 3685889
         },
         "long": {
@@ -202,7 +215,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "11",
+            "fips": "CO11",
             "geonames": 3686431
         },
         "long": {
@@ -212,8 +225,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "10",
-            "geonames": 3686880
+            "fips": "CO10",
+            "geonames": 3686880,
+            "iso_3166_2": "CO-CES"
         },
         "long": {
             "default": "Cesar"
@@ -222,8 +236,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "09",
-            "geonames": 3687029
+            "fips": "CO09",
+            "geonames": 3687029,
+            "iso_3166_2": "CO-CAU"
         },
         "long": {
             "default": "Cauca"
@@ -232,8 +247,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "32",
-            "geonames": 3687173
+            "fips": "CO32",
+            "geonames": 3687173,
+            "iso_3166_2": "CO-CAS"
         },
         "long": {
             "default": "Casanare"
@@ -242,7 +258,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "08",
+            "fips": "CO08",
             "geonames": 3687479
         },
         "long": {
@@ -252,8 +268,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "37",
-            "geonames": 3687951
+            "fips": "CO37",
+            "geonames": 3687951,
+            "iso_3166_2": "CO-CAL"
         },
         "long": {
             "default": "Caldas"
@@ -262,7 +279,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "36",
+            "fips": "CO36",
             "geonames": 3688536
         },
         "long": {
@@ -272,7 +289,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "35",
+            "fips": "CO35",
             "geonames": 3688650
         },
         "long": {
@@ -282,7 +299,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "34",
+            "fips": "CO34",
             "geonames": 3688685
         },
         "long": {
@@ -292,7 +309,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "04",
+            "fips": "CO04",
             "geonames": 3689436
         },
         "long": {
@@ -302,8 +319,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "03",
-            "geonames": 3689717
+            "fips": "CO03",
+            "geonames": 3689717,
+            "iso_3166_2": "CO-ARA"
         },
         "long": {
             "default": "Arauca"
@@ -312,8 +330,9 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "02",
-            "geonames": 3689815
+            "fips": "CO02",
+            "geonames": 3689815,
+            "iso_3166_2": "CO-ANT"
         },
         "long": {
             "default": "Antioquia"
@@ -322,7 +341,7 @@
     {
         "parent": "CO",
         "ids": {
-            "fips": "01",
+            "fips": "CO01",
             "geonames": 3689982
         },
         "long": {

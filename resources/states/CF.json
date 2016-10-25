@@ -2,7 +2,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "14",
+            "fips": "CT14",
             "geonames": 236178
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "11",
-            "geonames": 236887
+            "fips": "CT11",
+            "geonames": 236887,
+            "iso_3166_2": "CF-UK"
         },
         "long": {
             "default": "Ouaka"
@@ -22,8 +23,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "08",
-            "geonames": 237556
+            "fips": "CT08",
+            "geonames": 237556,
+            "iso_3166_2": "CF-MB"
         },
         "long": {
             "default": "Mbomou"
@@ -32,8 +34,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "05",
-            "geonames": 238639
+            "fips": "CT05",
+            "geonames": 238639,
+            "iso_3166_2": "CF-HM"
         },
         "long": {
             "default": "Haut-Mbomou"
@@ -42,8 +45,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "03",
-            "geonames": 238640
+            "fips": "CT03",
+            "geonames": 238640,
+            "iso_3166_2": "CF-HK"
         },
         "long": {
             "default": "Haute-Kotto"
@@ -52,8 +56,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "02",
-            "geonames": 240396
+            "fips": "CT02",
+            "geonames": 240396,
+            "iso_3166_2": "CF-BK"
         },
         "long": {
             "default": "Basse-Kotto"
@@ -62,8 +67,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "01",
-            "geonames": 240591
+            "fips": "CT01",
+            "geonames": 240591,
+            "iso_3166_2": "CF-BB"
         },
         "long": {
             "default": "Bamingui-Bangoran"
@@ -72,7 +78,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "16",
+            "fips": "CT16",
             "geonames": 2383204
         },
         "long": {
@@ -82,7 +88,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "13",
+            "fips": "CT13",
             "geonames": 2383650
         },
         "long": {
@@ -92,8 +98,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "12",
-            "geonames": 2383653
+            "fips": "CT12",
+            "geonames": 2383653,
+            "iso_3166_2": "CF-AC"
         },
         "long": {
             "default": "Ouham"
@@ -102,7 +109,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "17",
+            "fips": "CT17",
             "geonames": 2383765
         },
         "long": {
@@ -112,7 +119,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "09",
+            "fips": "CT09",
             "geonames": 2384205
         },
         "long": {
@@ -122,8 +129,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "07",
-            "geonames": 2385105
+            "fips": "CT07",
+            "geonames": 2385105,
+            "iso_3166_2": "CF-LB"
         },
         "long": {
             "default": "Lobaye"
@@ -132,7 +140,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "06",
+            "fips": "CT06",
             "geonames": 2385836
         },
         "long": {
@@ -142,7 +150,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "04",
+            "fips": "CT04",
             "geonames": 2386161
         },
         "long": {
@@ -152,7 +160,7 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "15",
+            "fips": "CT15",
             "geonames": 2386243
         },
         "long": {
@@ -162,8 +170,9 @@
     {
         "parent": "CF",
         "ids": {
-            "fips": "18",
-            "geonames": 2596686
+            "fips": "CT18",
+            "geonames": 2596686,
+            "iso_3166_2": "CF-BGF"
         },
         "long": {
             "default": "Bangui"

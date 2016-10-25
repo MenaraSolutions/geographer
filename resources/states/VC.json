@@ -2,7 +2,7 @@
     {
         "parent": "VC",
         "ids": {
-            "fips": "05",
+            "fips": "VC05",
             "geonames": 3577818
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "VC",
         "ids": {
-            "fips": "04",
+            "fips": "VC04",
             "geonames": 3577819
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "VC",
         "ids": {
-            "fips": "03",
+            "fips": "VC03",
             "geonames": 3577821
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "VC",
         "ids": {
-            "fips": "02",
+            "fips": "VC02",
             "geonames": 3577822
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "VC",
         "ids": {
-            "fips": "06",
+            "fips": "VC06",
             "geonames": 3577892
         },
         "long": {
@@ -52,8 +52,9 @@
     {
         "parent": "VC",
         "ids": {
-            "fips": "01",
-            "geonames": 3577934
+            "fips": "VC01",
+            "geonames": 3577934,
+            "iso_3166_2": "VC-01"
         },
         "long": {
             "default": "Charlotte"

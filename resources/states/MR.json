@@ -2,8 +2,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "06",
-            "geonames": 2375742
+            "fips": "MR06",
+            "geonames": 2375742,
+            "iso_3166_2": "MR-06"
         },
         "long": {
             "default": "Trarza"
@@ -12,8 +13,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "11",
-            "geonames": 2375989
+            "fips": "MR11",
+            "geonames": 2375989,
+            "iso_3166_2": "MR-11"
         },
         "long": {
             "default": "Tiris Zemmour"
@@ -22,8 +24,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "09",
-            "geonames": 2376551
+            "fips": "MR09",
+            "geonames": 2376551,
+            "iso_3166_2": "MR-09"
         },
         "long": {
             "default": "Tagant"
@@ -33,7 +36,8 @@
         "parent": "MR",
         "ids": {
             "fips": "NKC",
-            "geonames": 2377449
+            "geonames": 2377449,
+            "iso_3166_2": "MR-NKC"
         },
         "long": {
             "default": "Nouakchott"
@@ -42,8 +46,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "12",
-            "geonames": 2378903
+            "fips": "MR12",
+            "geonames": 2378903,
+            "iso_3166_2": "MR-12"
         },
         "long": {
             "default": "Inchiri"
@@ -52,8 +57,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "02",
-            "geonames": 2379024
+            "fips": "MR02",
+            "geonames": 2379024,
+            "iso_3166_2": "MR-02"
         },
         "long": {
             "default": "Hodh El Gharbi"
@@ -62,8 +68,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "01",
-            "geonames": 2379025
+            "fips": "MR01",
+            "geonames": 2379025,
+            "iso_3166_2": "MR-01"
         },
         "long": {
             "default": "Hodh ech Chargui"
@@ -72,8 +79,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "10",
-            "geonames": 2379216
+            "fips": "MR10",
+            "geonames": 2379216,
+            "iso_3166_2": "MR-10"
         },
         "long": {
             "default": "Guidimaka"
@@ -82,8 +90,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "04",
-            "geonames": 2379384
+            "fips": "MR04",
+            "geonames": 2379384,
+            "iso_3166_2": "MR-04"
         },
         "long": {
             "default": "Gorgol"
@@ -92,8 +101,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "08",
-            "geonames": 2380426
+            "fips": "MR08",
+            "geonames": 2380426,
+            "iso_3166_2": "MR-08"
         },
         "long": {
             "default": "Dakhlet Nouadhibou"
@@ -102,8 +112,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "05",
-            "geonames": 2380635
+            "fips": "MR05",
+            "geonames": 2380635,
+            "iso_3166_2": "MR-05"
         },
         "long": {
             "default": "Brakna"
@@ -112,8 +123,9 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "03",
-            "geonames": 2381344
+            "fips": "MR03",
+            "geonames": 2381344,
+            "iso_3166_2": "MR-03"
         },
         "long": {
             "default": "Assaba"
@@ -122,7 +134,7 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "07",
+            "fips": "MR07",
             "geonames": 2381972
         },
         "long": {

@@ -2,7 +2,7 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "09",
+            "fips": "UZ09",
             "geonames": 453752
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "12",
-            "geonames": 1114926
+            "fips": "UZ12",
+            "geonames": 1114926,
+            "iso_3166_2": "UZ-SU"
         },
         "long": {
             "default": "Surxondaryo"
@@ -22,8 +23,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "10",
-            "geonames": 1114927
+            "fips": "UZ10",
+            "geonames": 1114927,
+            "iso_3166_2": "UZ-SA"
         },
         "long": {
             "default": "Samarqand"
@@ -32,8 +34,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "08",
-            "geonames": 1114928
+            "fips": "UZ08",
+            "geonames": 1114928,
+            "iso_3166_2": "UZ-QA"
         },
         "long": {
             "default": "Qashqadaryo"
@@ -42,7 +45,7 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "02",
+            "fips": "UZ02",
             "geonames": 1114929
         },
         "long": {
@@ -52,8 +55,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "14",
-            "geonames": 1484838
+            "fips": "UZ14",
+            "geonames": 1484838,
+            "iso_3166_2": "UZ-TO"
         },
         "long": {
             "default": "Toshkent"
@@ -62,7 +66,7 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "13",
+            "fips": "UZ13",
             "geonames": 1484839
         },
         "long": {
@@ -72,8 +76,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "16",
-            "geonames": 1484840
+            "fips": "UZ16",
+            "geonames": 1484840,
+            "iso_3166_2": "UZ-SI"
         },
         "long": {
             "default": "Sirdaryo"
@@ -82,8 +87,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "07",
-            "geonames": 1484841
+            "fips": "UZ07",
+            "geonames": 1484841,
+            "iso_3166_2": "UZ-NW"
         },
         "long": {
             "default": "Navoiy"
@@ -92,8 +98,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "06",
-            "geonames": 1484842
+            "fips": "UZ06",
+            "geonames": 1484842,
+            "iso_3166_2": "UZ-NG"
         },
         "long": {
             "default": "Namangan"
@@ -102,8 +109,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "05",
-            "geonames": 1484843
+            "fips": "UZ05",
+            "geonames": 1484843,
+            "iso_3166_2": "UZ-XO"
         },
         "long": {
             "default": "Xorazm"
@@ -112,8 +120,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "15",
-            "geonames": 1484844
+            "fips": "UZ15",
+            "geonames": 1484844,
+            "iso_3166_2": "UZ-JI"
         },
         "long": {
             "default": "Jizzax"
@@ -122,7 +131,7 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "03",
+            "fips": "UZ03",
             "geonames": 1484845
         },
         "long": {
@@ -132,8 +141,9 @@
     {
         "parent": "UZ",
         "ids": {
-            "fips": "01",
-            "geonames": 1484846
+            "fips": "UZ01",
+            "geonames": 1484846,
+            "iso_3166_2": "UZ-AN"
         },
         "long": {
             "default": "Andijon"

@@ -2,7 +2,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "21",
+            "fips": "EN21",
             "geonames": 587448
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "20",
-            "geonames": 587590
+            "fips": "EN20",
+            "geonames": 587590,
+            "iso_3166_2": "EE-84"
         },
         "long": {
             "default": "Viljandimaa"
@@ -22,8 +23,9 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "19",
-            "geonames": 587875
+            "fips": "EN19",
+            "geonames": 587875,
+            "iso_3166_2": "EE-82"
         },
         "long": {
             "default": "Valgamaa"
@@ -32,7 +34,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "18",
+            "fips": "EN18",
             "geonames": 588334
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "14",
+            "fips": "EN14",
             "geonames": 588879
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "13",
-            "geonames": 589115
+            "fips": "EN13",
+            "geonames": 589115,
+            "iso_3166_2": "EE-70"
         },
         "long": {
             "default": "Raplamaa"
@@ -62,7 +65,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "12",
+            "fips": "EN12",
             "geonames": 589373
         },
         "long": {
@@ -72,7 +75,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "11",
+            "fips": "EN11",
             "geonames": 589576
         },
         "long": {
@@ -82,7 +85,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "08",
+            "fips": "EN08",
             "geonames": 590854
         },
         "long": {
@@ -92,7 +95,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "07",
+            "fips": "EN07",
             "geonames": 590856
         },
         "long": {
@@ -102,7 +105,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "05",
+            "fips": "EN05",
             "geonames": 591901
         },
         "long": {
@@ -112,7 +115,7 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "04",
+            "fips": "EN04",
             "geonames": 591961
         },
         "long": {
@@ -122,8 +125,9 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "03",
-            "geonames": 592075
+            "fips": "EN03",
+            "geonames": 592075,
+            "iso_3166_2": "EE-44"
         },
         "long": {
             "default": "Ida-Virumaa"
@@ -132,8 +136,9 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "02",
-            "geonames": 592133
+            "fips": "EN02",
+            "geonames": 592133,
+            "iso_3166_2": "EE-39"
         },
         "long": {
             "default": "Hiiumaa"
@@ -142,8 +147,9 @@
     {
         "parent": "EE",
         "ids": {
-            "fips": "01",
-            "geonames": 592170
+            "fips": "EN01",
+            "geonames": 592170,
+            "iso_3166_2": "EE-37"
         },
         "long": {
             "default": "Harjumaa"

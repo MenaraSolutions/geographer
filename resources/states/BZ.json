@@ -2,8 +2,9 @@
     {
         "parent": "BZ",
         "ids": {
-            "fips": "06",
-            "geonames": 3580913
+            "fips": "BH06",
+            "geonames": 3580913,
+            "iso_3166_2": "BZ-TOL"
         },
         "long": {
             "default": "Toledo"
@@ -12,8 +13,9 @@
     {
         "parent": "BZ",
         "ids": {
-            "fips": "05",
-            "geonames": 3580975
+            "fips": "BH05",
+            "geonames": 3580975,
+            "iso_3166_2": "BZ-SC"
         },
         "long": {
             "default": "Stann Creek"
@@ -22,8 +24,9 @@
     {
         "parent": "BZ",
         "ids": {
-            "fips": "04",
-            "geonames": 3581511
+            "fips": "BH04",
+            "geonames": 3581511,
+            "iso_3166_2": "BZ-OW"
         },
         "long": {
             "default": "Orange Walk"
@@ -32,8 +35,9 @@
     {
         "parent": "BZ",
         "ids": {
-            "fips": "03",
-            "geonames": 3582302
+            "fips": "BH03",
+            "geonames": 3582302,
+            "iso_3166_2": "BZ-CZL"
         },
         "long": {
             "default": "Corozal"
@@ -42,8 +46,9 @@
     {
         "parent": "BZ",
         "ids": {
-            "fips": "02",
-            "geonames": 3582429
+            "fips": "BH02",
+            "geonames": 3582429,
+            "iso_3166_2": "BZ-CY"
         },
         "long": {
             "default": "Cayo"
@@ -52,8 +57,9 @@
     {
         "parent": "BZ",
         "ids": {
-            "fips": "01",
-            "geonames": 3582676
+            "fips": "BH01",
+            "geonames": 3582676,
+            "iso_3166_2": "BZ-BZ"
         },
         "long": {
             "default": "Belize"

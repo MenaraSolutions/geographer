@@ -2,8 +2,9 @@
     {
         "parent": "TG",
         "ids": {
-            "fips": "26",
-            "geonames": 2364205
+            "fips": "TO26",
+            "geonames": 2364205,
+            "iso_3166_2": "TG-S"
         },
         "long": {
             "default": "Savanes"
@@ -12,7 +13,7 @@
     {
         "parent": "TG",
         "ids": {
-            "fips": "25",
+            "fips": "TO25",
             "geonames": 2364370
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "TG",
         "ids": {
-            "fips": "24",
-            "geonames": 2365173
+            "fips": "TO24",
+            "geonames": 2365173,
+            "iso_3166_2": "TG-M"
         },
         "long": {
             "default": "Maritime"
@@ -32,7 +34,7 @@
     {
         "parent": "TG",
         "ids": {
-            "fips": "22",
+            "fips": "TO22",
             "geonames": 2367237
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "TG",
         "ids": {
-            "fips": "23",
-            "geonames": 2597439
+            "fips": "TO23",
+            "geonames": 2597439,
+            "iso_3166_2": "TG-K"
         },
         "long": {
             "default": "Kara"

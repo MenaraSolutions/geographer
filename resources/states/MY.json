@@ -2,8 +2,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "04",
-            "geonames": 1733035
+            "fips": "MY04",
+            "geonames": 1733035,
+            "iso_3166_2": "MY-04"
         },
         "long": {
             "default": "Melaka"
@@ -12,8 +13,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "13",
-            "geonames": 1733036
+            "fips": "MY13",
+            "geonames": 1733036,
+            "iso_3166_2": "MY-11"
         },
         "long": {
             "default": "Terengganu"
@@ -22,8 +24,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "12",
-            "geonames": 1733037
+            "fips": "MY12",
+            "geonames": 1733037,
+            "iso_3166_2": "MY-10"
         },
         "long": {
             "default": "Selangor"
@@ -32,8 +35,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "11",
-            "geonames": 1733038
+            "fips": "MY11",
+            "geonames": 1733038,
+            "iso_3166_2": "MY-13"
         },
         "long": {
             "default": "Sarawak"
@@ -42,8 +46,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "16",
-            "geonames": 1733039
+            "fips": "MY16",
+            "geonames": 1733039,
+            "iso_3166_2": "MY-12"
         },
         "long": {
             "default": "Sabah"
@@ -52,8 +57,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "08",
-            "geonames": 1733040
+            "fips": "MY08",
+            "geonames": 1733040,
+            "iso_3166_2": "MY-09"
         },
         "long": {
             "default": "Perlis"
@@ -62,8 +68,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "07",
-            "geonames": 1733041
+            "fips": "MY07",
+            "geonames": 1733041,
+            "iso_3166_2": "MY-08"
         },
         "long": {
             "default": "Perak"
@@ -72,8 +79,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "06",
-            "geonames": 1733042
+            "fips": "MY06",
+            "geonames": 1733042,
+            "iso_3166_2": "MY-06"
         },
         "long": {
             "default": "Pahang"
@@ -82,8 +90,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "05",
-            "geonames": 1733043
+            "fips": "MY05",
+            "geonames": 1733043,
+            "iso_3166_2": "MY-05"
         },
         "long": {
             "default": "Negeri Sembilan"
@@ -92,8 +101,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "03",
-            "geonames": 1733044
+            "fips": "MY03",
+            "geonames": 1733044,
+            "iso_3166_2": "MY-03"
         },
         "long": {
             "default": "Kelantan"
@@ -102,7 +112,7 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "14",
+            "fips": "MY14",
             "geonames": 1733046
         },
         "long": {
@@ -112,7 +122,7 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "09",
+            "fips": "MY09",
             "geonames": 1733047
         },
         "long": {
@@ -122,8 +132,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "02",
-            "geonames": 1733048
+            "fips": "MY02",
+            "geonames": 1733048,
+            "iso_3166_2": "MY-02"
         },
         "long": {
             "default": "Kedah"
@@ -132,8 +143,9 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "01",
-            "geonames": 1733049
+            "fips": "MY01",
+            "geonames": 1733049,
+            "iso_3166_2": "MY-01"
         },
         "long": {
             "default": "Johor"
@@ -142,7 +154,7 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "15",
+            "fips": "MY15",
             "geonames": 1734240
         },
         "long": {
@@ -152,7 +164,7 @@
     {
         "parent": "MY",
         "ids": {
-            "fips": "17",
+            "fips": "MY17",
             "geonames": 1996552
         },
         "long": {

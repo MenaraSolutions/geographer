@@ -2,8 +2,9 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "14",
-            "geonames": 2110418
+            "fips": "NR14",
+            "geonames": 2110418,
+            "iso_3166_2": "NR-14"
         },
         "long": {
             "default": "Yaren"
@@ -12,7 +13,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "13",
+            "fips": "NR13",
             "geonames": 2110420
         },
         "long": {
@@ -22,7 +23,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "12",
+            "fips": "NR12",
             "geonames": 2110423
         },
         "long": {
@@ -32,7 +33,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "11",
+            "fips": "NR11",
             "geonames": 2110431
         },
         "long": {
@@ -42,7 +43,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "10",
+            "fips": "NR10",
             "geonames": 2110432
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "09",
+            "fips": "NR09",
             "geonames": 2110435
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "08",
+            "fips": "NR08",
             "geonames": 2110437
         },
         "long": {
@@ -72,7 +73,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "07",
+            "fips": "NR07",
             "geonames": 2110440
         },
         "long": {
@@ -82,7 +83,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "06",
+            "fips": "NR06",
             "geonames": 2110441
         },
         "long": {
@@ -92,7 +93,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "05",
+            "fips": "NR05",
             "geonames": 2110442
         },
         "long": {
@@ -102,7 +103,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "04",
+            "fips": "NR04",
             "geonames": 2110445
         },
         "long": {
@@ -112,7 +113,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "03",
+            "fips": "NR03",
             "geonames": 2110448
         },
         "long": {
@@ -122,7 +123,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "02",
+            "fips": "NR02",
             "geonames": 2110449
         },
         "long": {
@@ -132,7 +133,7 @@
     {
         "parent": "NR",
         "ids": {
-            "fips": "01",
+            "fips": "NR01",
             "geonames": 2110451
         },
         "long": {

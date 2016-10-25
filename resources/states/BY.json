@@ -2,38 +2,42 @@
     {
         "parent": "BY",
         "ids": {
-            "fips": "07",
-            "geonames": 620134
+            "fips": "BO07",
+            "geonames": 620134,
+            "iso_3166_2": "BY-VI"
         },
         "long": {
-            "default": "Vitebsk"
+            "default": "Vitebsk region"
         }
     },
     {
         "parent": "BY",
         "ids": {
-            "fips": "06",
-            "geonames": 625073
+            "fips": "BO06",
+            "geonames": 625073,
+            "iso_3166_2": "BY-MA"
         },
         "long": {
-            "default": "Mogilev"
+            "default": "Mogilev region"
         }
     },
     {
         "parent": "BY",
         "ids": {
-            "fips": "05",
-            "geonames": 625142
+            "fips": "BO05",
+            "geonames": 625142,
+            "iso_3166_2": "BY-MI"
         },
         "long": {
-            "default": "Minsk"
+            "default": "Minsk region"
         }
     },
     {
         "parent": "BY",
         "ids": {
-            "fips": "04",
-            "geonames": 625143
+            "fips": "BO04",
+            "geonames": 625143,
+            "iso_3166_2": "BY-HM"
         },
         "long": {
             "default": "Minsk City"
@@ -42,31 +46,34 @@
     {
         "parent": "BY",
         "ids": {
-            "fips": "03",
-            "geonames": 628035
+            "fips": "BO03",
+            "geonames": 628035,
+            "iso_3166_2": "BY-HR"
         },
         "long": {
-            "default": "Grodnenskaya"
+            "default": "Grodno region"
         }
     },
     {
         "parent": "BY",
         "ids": {
-            "fips": "02",
-            "geonames": 628281
+            "fips": "BO02",
+            "geonames": 628281,
+            "iso_3166_2": "BY-HO"
         },
         "long": {
-            "default": "Gomel"
+            "default": "Gomel region"
         }
     },
     {
         "parent": "BY",
         "ids": {
-            "fips": "01",
-            "geonames": 629631
+            "fips": "BO01",
+            "geonames": 629631,
+            "iso_3166_2": "BY-BR"
         },
         "long": {
-            "default": "Brest"
+            "default": "Brest region"
         }
     }
 ]

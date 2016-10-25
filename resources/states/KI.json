@@ -2,8 +2,9 @@
     {
         "parent": "KI",
         "ids": {
-            "fips": "01",
-            "geonames": 2110215
+            "fips": "KR01",
+            "geonames": 2110215,
+            "iso_3166_2": "KI-G"
         },
         "long": {
             "default": "Gilbert Islands"
@@ -12,8 +13,9 @@
     {
         "parent": "KI",
         "ids": {
-            "fips": "02",
-            "geonames": 4030940
+            "fips": "KR02",
+            "geonames": 4030940,
+            "iso_3166_2": "KI-L"
         },
         "long": {
             "default": "Line Islands"
@@ -22,7 +24,7 @@
     {
         "parent": "KI",
         "ids": {
-            "fips": "03",
+            "fips": "KR03",
             "geonames": 7521379
         },
         "long": {

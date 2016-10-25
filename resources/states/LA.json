@@ -2,8 +2,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "14",
-            "geonames": 1652077
+            "fips": "LA14",
+            "geonames": 1652077,
+            "iso_3166_2": "LA-XI"
         },
         "long": {
             "default": "Xiangkhoang"
@@ -12,8 +13,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "13",
-            "geonames": 1652210
+            "fips": "LA13",
+            "geonames": 1652210,
+            "iso_3166_2": "LA-XA"
         },
         "long": {
             "default": "Xiagnabouli"
@@ -22,7 +24,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "27",
+            "fips": "LA27",
             "geonames": 1652238
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "20",
+            "fips": "LA20",
             "geonames": 1653315
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "19",
-            "geonames": 1653333
+            "fips": "LA19",
+            "geonames": 1653333,
+            "iso_3166_2": "LA-SL"
         },
         "long": {
             "default": "Salavan"
@@ -52,7 +55,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "18",
+            "fips": "LA18",
             "geonames": 1653893
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "07",
+            "fips": "LA07",
             "geonames": 1654491
         },
         "long": {
@@ -72,8 +75,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "17",
-            "geonames": 1655558
+            "fips": "LA17",
+            "geonames": 1655558,
+            "iso_3166_2": "LA-LP"
         },
         "long": {
             "default": "Louangphabang"
@@ -82,7 +86,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "16",
+            "fips": "LA16",
             "geonames": 1655561
         },
         "long": {
@@ -92,8 +96,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "15",
-            "geonames": 1656538
+            "fips": "LA15",
+            "geonames": 1656538,
+            "iso_3166_2": "LA-KH"
         },
         "long": {
             "default": "Khammouan"
@@ -102,8 +107,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "03",
-            "geonames": 1657114
+            "fips": "LA03",
+            "geonames": 1657114,
+            "iso_3166_2": "LA-HO"
         },
         "long": {
             "default": "Houaphan"
@@ -112,8 +118,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "02",
-            "geonames": 1657818
+            "fips": "LA02",
+            "geonames": 1657818,
+            "iso_3166_2": "LA-CH"
         },
         "long": {
             "default": "Champasak"
@@ -122,8 +129,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "01",
-            "geonames": 1665045
+            "fips": "LA01",
+            "geonames": 1665045,
+            "iso_3166_2": "LA-AT"
         },
         "long": {
             "default": "Attapu"
@@ -132,7 +140,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "26",
+            "fips": "LA26",
             "geonames": 1904615
         },
         "long": {
@@ -142,7 +150,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "22",
+            "fips": "LA22",
             "geonames": 1904616
         },
         "long": {
@@ -152,7 +160,7 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "23",
+            "fips": "LA23",
             "geonames": 1904617
         },
         "long": {
@@ -162,8 +170,9 @@
     {
         "parent": "LA",
         "ids": {
-            "fips": "24",
-            "geonames": 1904618
+            "fips": "LA24",
+            "geonames": 1904618,
+            "iso_3166_2": "LA-VI"
         },
         "long": {
             "default": "Vientiane"

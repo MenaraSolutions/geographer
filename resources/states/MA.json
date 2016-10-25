@@ -2,7 +2,7 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "49",
+            "fips": "MO49",
             "geonames": 2538470
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "48",
-            "geonames": 2542710
+            "fips": "MO48",
+            "geonames": 2542710,
+            "iso_3166_2": "MA-06"
         },
         "long": {
             "default": "Meknès-Tafilalet"
@@ -22,8 +23,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "47",
-            "geonames": 2542995
+            "fips": "MO47",
+            "geonames": 2542995,
+            "iso_3166_2": "MA-11"
         },
         "long": {
             "default": "Marrakech-Tensift-Al Haouz"
@@ -32,7 +34,7 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "46",
+            "fips": "MO46",
             "geonames": 2548882
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "45",
-            "geonames": 2553603
+            "fips": "MO45",
+            "geonames": 2553603,
+            "iso_3166_2": "MA-08"
         },
         "long": {
             "default": "Grand Casablanca"
@@ -52,8 +55,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "50",
-            "geonames": 2597548
+            "fips": "MO50",
+            "geonames": 2597548,
+            "iso_3166_2": "MA-09"
         },
         "long": {
             "default": "Chaouia-Ouardigha"
@@ -62,8 +66,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "51",
-            "geonames": 2597549
+            "fips": "MO51",
+            "geonames": 2597549,
+            "iso_3166_2": "MA-10"
         },
         "long": {
             "default": "Doukkala-Abda"
@@ -72,8 +77,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "52",
-            "geonames": 2597550
+            "fips": "MO52",
+            "geonames": 2597550,
+            "iso_3166_2": "MA-02"
         },
         "long": {
             "default": "Gharb-Chrarda-Beni Hssen"
@@ -82,8 +88,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "53",
-            "geonames": 2597551
+            "fips": "MO53",
+            "geonames": 2597551,
+            "iso_3166_2": "MA-14"
         },
         "long": {
             "default": "Guelmim-Es Smara"
@@ -92,7 +99,7 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "54",
+            "fips": "MO54",
             "geonames": 2597553
         },
         "long": {
@@ -102,8 +109,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "55",
-            "geonames": 2597554
+            "fips": "MO55",
+            "geonames": 2597554,
+            "iso_3166_2": "MA-13"
         },
         "long": {
             "default": "Souss-Massa-Drâa"
@@ -112,8 +120,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "56",
-            "geonames": 2597555
+            "fips": "MO56",
+            "geonames": 2597555,
+            "iso_3166_2": "MA-12"
         },
         "long": {
             "default": "Tadla-Azilal"
@@ -122,7 +131,7 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "57",
+            "fips": "MO57",
             "geonames": 2597556
         },
         "long": {
@@ -132,8 +141,9 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "58",
-            "geonames": 2597557
+            "fips": "MO58",
+            "geonames": 2597557,
+            "iso_3166_2": "MA-03"
         },
         "long": {
             "default": "Taza-Al Hoceima-Taounate"
@@ -142,7 +152,7 @@
     {
         "parent": "MA",
         "ids": {
-            "fips": "59",
+            "fips": "MO59",
             "geonames": 6545402
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "BT",
         "ids": {
-            "fips": "05",
-            "geonames": 1337278
+            "fips": "BT05",
+            "geonames": 1337278,
+            "iso_3166_2": "BT-33"
         },
         "long": {
             "default": "Bumthang"
@@ -12,78 +13,86 @@
     {
         "parent": "BT",
         "ids": {
-            "fips": "06",
-            "geonames": 1337279
+            "fips": "BT06",
+            "geonames": 1337279,
+            "iso_3166_2": "BT-12"
         },
         "long": {
-            "default": "Chukha District"
+            "default": "Chukha"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "08",
-            "geonames": 1337280
+            "fips": "BT08",
+            "geonames": 1337280,
+            "iso_3166_2": "BT-22"
         },
         "long": {
-            "default": "Dagana District"
+            "default": "Dagana"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "07",
-            "geonames": 1337281
+            "fips": "BT07",
+            "geonames": 1337281,
+            "iso_3166_2": "BT-21"
         },
         "long": {
-            "default": "Chirang"
+            "default": "Tsirang"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "09",
-            "geonames": 1337282
+            "fips": "BT09",
+            "geonames": 1337282,
+            "iso_3166_2": "BT-31"
         },
         "long": {
-            "default": "Geylegphug"
+            "default": "Sarpang"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "10",
-            "geonames": 1337283
+            "fips": "BT10",
+            "geonames": 1337283,
+            "iso_3166_2": "BT-13"
         },
         "long": {
-            "default": "Haa District"
+            "default": "Ha"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "11",
-            "geonames": 1337284
+            "fips": "BT11",
+            "geonames": 1337284,
+            "iso_3166_2": "BT-44"
         },
         "long": {
-            "default": "Lhuntse District"
+            "default": "Lhuentse"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "12",
-            "geonames": 1337285
+            "fips": "BT12",
+            "geonames": 1337285,
+            "iso_3166_2": "BT-42"
         },
         "long": {
-            "default": "Mongar District"
+            "default": "Monggar"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "13",
-            "geonames": 1337286
+            "fips": "BT13",
+            "geonames": 1337286,
+            "iso_3166_2": "BT-11"
         },
         "long": {
             "default": "Paro"
@@ -92,18 +101,20 @@
     {
         "parent": "BT",
         "ids": {
-            "fips": "14",
-            "geonames": 1337287
+            "fips": "BT14",
+            "geonames": 1337287,
+            "iso_3166_2": "BT-43"
         },
         "long": {
-            "default": "Pemagatshel District"
+            "default": "Pemagatshel"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "15",
-            "geonames": 1337288
+            "fips": "BT15",
+            "geonames": 1337288,
+            "iso_3166_2": "BT-23"
         },
         "long": {
             "default": "Punakha"
@@ -112,48 +123,53 @@
     {
         "parent": "BT",
         "ids": {
-            "fips": "16",
-            "geonames": 1337289
+            "fips": "BT16",
+            "geonames": 1337289,
+            "iso_3166_2": "BT-14"
         },
         "long": {
-            "default": "Samchi"
+            "default": "Samtse"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "17",
-            "geonames": 1337290
+            "fips": "BT17",
+            "geonames": 1337290,
+            "iso_3166_2": "BT-45"
         },
         "long": {
-            "default": "Samdrup Jongkhar"
+            "default": "Samdrup Jongkha"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "18",
-            "geonames": 1337291
+            "fips": "BT18",
+            "geonames": 1337291,
+            "iso_3166_2": "BT-34"
         },
         "long": {
-            "default": "Shemgang"
+            "default": "Zhemgang"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "19",
-            "geonames": 1337292
+            "fips": "BT19",
+            "geonames": 1337292,
+            "iso_3166_2": "BT-41"
         },
         "long": {
-            "default": "Tashigang"
+            "default": "Trashigang"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "20",
-            "geonames": 1337293
+            "fips": "BT20",
+            "geonames": 1337293,
+            "iso_3166_2": "BT-15"
         },
         "long": {
             "default": "Thimphu"
@@ -162,38 +178,42 @@
     {
         "parent": "BT",
         "ids": {
-            "fips": "21",
-            "geonames": 1337294
+            "fips": "BT21",
+            "geonames": 1337294,
+            "iso_3166_2": "BT-32"
         },
         "long": {
-            "default": "Tongsa"
+            "default": "Trongsa"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "22",
-            "geonames": 1337295
+            "fips": "BT22",
+            "geonames": 1337295,
+            "iso_3166_2": "BT-24"
         },
         "long": {
-            "default": "Wangdi Phodrang"
+            "default": "Wangdue Phodrang"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "23",
-            "geonames": 7303651
+            "fips": "BT23",
+            "geonames": 7303651,
+            "iso_3166_2": "BT-GA"
         },
         "long": {
-            "default": "Gasa District"
+            "default": "Gasa"
         }
     },
     {
         "parent": "BT",
         "ids": {
-            "fips": "24",
-            "geonames": 7303653
+            "fips": "BT24",
+            "geonames": 7303653,
+            "iso_3166_2": "BT-TY"
         },
         "long": {
             "default": "Trashi Yangste"

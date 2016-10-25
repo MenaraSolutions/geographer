@@ -2,7 +2,7 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "09",
+            "fips": "MZ09",
             "geonames": 1024312
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "08",
-            "geonames": 1026010
+            "fips": "MZ08",
+            "geonames": 1026010,
+            "iso_3166_2": "MZ-T"
         },
         "long": {
             "default": "Tete"
@@ -22,8 +23,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "05",
-            "geonames": 1026804
+            "fips": "MZ05",
+            "geonames": 1026804,
+            "iso_3166_2": "MZ-S"
         },
         "long": {
             "default": "Sofala"
@@ -32,8 +34,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "07",
-            "geonames": 1030006
+            "fips": "MZ07",
+            "geonames": 1030006,
+            "iso_3166_2": "MZ-A"
         },
         "long": {
             "default": "Niassa"
@@ -42,8 +45,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "06",
-            "geonames": 1033354
+            "fips": "MZ06",
+            "geonames": 1033354,
+            "iso_3166_2": "MZ-N"
         },
         "long": {
             "default": "Nampula"
@@ -52,8 +56,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "04",
-            "geonames": 1040649
+            "fips": "MZ04",
+            "geonames": 1040649,
+            "iso_3166_2": "MZ-L"
         },
         "long": {
             "default": "Maputo"
@@ -62,8 +67,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "10",
-            "geonames": 1040947
+            "fips": "MZ10",
+            "geonames": 1040947,
+            "iso_3166_2": "MZ-B"
         },
         "long": {
             "default": "Manica"
@@ -72,8 +78,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "03",
-            "geonames": 1045110
+            "fips": "MZ03",
+            "geonames": 1045110,
+            "iso_3166_2": "MZ-I"
         },
         "long": {
             "default": "Inhambane"
@@ -82,8 +89,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "02",
-            "geonames": 1046058
+            "fips": "MZ02",
+            "geonames": 1046058,
+            "iso_3166_2": "MZ-G"
         },
         "long": {
             "default": "Gaza"
@@ -92,8 +100,9 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "01",
-            "geonames": 1051823
+            "fips": "MZ01",
+            "geonames": 1051823,
+            "iso_3166_2": "MZ-P"
         },
         "long": {
             "default": "Cabo Delgado"
@@ -102,7 +111,7 @@
     {
         "parent": "MZ",
         "ids": {
-            "fips": "11",
+            "fips": "MZ11",
             "geonames": 1105845
         },
         "long": {

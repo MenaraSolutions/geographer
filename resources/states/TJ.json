@@ -2,7 +2,7 @@
     {
         "parent": "TJ",
         "ids": {
-            "fips": "03",
+            "fips": "TI03",
             "geonames": 1221092
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "TJ",
         "ids": {
-            "fips": "01",
+            "fips": "TI01",
             "geonames": 1221692
         },
         "long": {
@@ -22,8 +22,9 @@
     {
         "parent": "TJ",
         "ids": {
-            "fips": "02",
-            "geonames": 1347488
+            "fips": "TI02",
+            "geonames": 1347488,
+            "iso_3166_2": "TJ-KT"
         },
         "long": {
             "default": "Khatlon"
@@ -42,7 +43,7 @@
     {
         "parent": "TJ",
         "ids": {
-            "fips": "7280679",
+            "fips": "TI7280679",
             "geonames": 7280679
         },
         "long": {

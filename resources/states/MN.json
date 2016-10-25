@@ -2,8 +2,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "19",
-            "geonames": 1514967
+            "fips": "MG19",
+            "geonames": 1514967,
+            "iso_3166_2": "MN-046"
         },
         "long": {
             "default": "Uvs"
@@ -12,8 +13,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "12",
-            "geonames": 1515696
+            "fips": "MG12",
+            "geonames": 1515696,
+            "iso_3166_2": "MN-043"
         },
         "long": {
             "default": "Hovd"
@@ -22,7 +24,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "10",
+            "fips": "MG10",
             "geonames": 1515917
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "09",
+            "fips": "MG09",
             "geonames": 1516012
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "03",
+            "fips": "MG03",
             "geonames": 1516278
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "02",
-            "geonames": 1516290
+            "fips": "MG02",
+            "geonames": 1516290,
+            "iso_3166_2": "MN-069"
         },
         "long": {
             "default": "Bayanhongor"
@@ -62,8 +65,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "20",
-            "geonames": 2028461
+            "fips": "MG20",
+            "geonames": 2028461,
+            "iso_3166_2": "MN-1"
         },
         "long": {
             "default": "Ulaanbaatar"
@@ -72,7 +76,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "18",
+            "fips": "MG18",
             "geonames": 2028849
         },
         "long": {
@@ -82,7 +86,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "17",
+            "fips": "MG17",
             "geonames": 2029155
         },
         "long": {
@@ -92,8 +96,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "16",
-            "geonames": 2029432
+            "fips": "MG16",
+            "geonames": 2029432,
+            "iso_3166_2": "MN-049"
         },
         "long": {
             "default": "Selenge"
@@ -102,7 +107,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "15",
+            "fips": "MG15",
             "geonames": 2029546
         },
         "long": {
@@ -112,7 +117,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "14",
+            "fips": "MG14",
             "geonames": 2029669
         },
         "long": {
@@ -122,7 +127,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "13",
+            "fips": "MG13",
             "geonames": 2030469
         },
         "long": {
@@ -132,8 +137,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "11",
-            "geonames": 2030783
+            "fips": "MG11",
+            "geonames": 2030783,
+            "iso_3166_2": "MN-039"
         },
         "long": {
             "default": "Hentiy"
@@ -142,7 +148,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "08",
+            "fips": "MG08",
             "geonames": 2031740
         },
         "long": {
@@ -152,7 +158,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "07",
+            "fips": "MG07",
             "geonames": 2031798
         },
         "long": {
@@ -162,7 +168,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "06",
+            "fips": "MG06",
             "geonames": 2031799
         },
         "long": {
@@ -172,8 +178,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "21",
-            "geonames": 2032199
+            "fips": "MG21",
+            "geonames": 2032199,
+            "iso_3166_2": "MN-067"
         },
         "long": {
             "default": "Bulgan"
@@ -182,8 +189,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "01",
-            "geonames": 2032855
+            "fips": "MG01",
+            "geonames": 2032855,
+            "iso_3166_2": "MN-073"
         },
         "long": {
             "default": "Arhangay"
@@ -192,7 +200,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "23",
+            "fips": "MG23",
             "geonames": 2055111
         },
         "long": {
@@ -202,7 +210,7 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "24",
+            "fips": "MG24",
             "geonames": 2055112
         },
         "long": {
@@ -212,8 +220,9 @@
     {
         "parent": "MN",
         "ids": {
-            "fips": "25",
-            "geonames": 2055113
+            "fips": "MG25",
+            "geonames": 2055113,
+            "iso_3166_2": "MN-035"
         },
         "long": {
             "default": "Orhon"

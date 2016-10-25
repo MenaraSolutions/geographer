@@ -2,8 +2,9 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "93",
-            "geonames": 2985244
+            "fips": "FR93",
+            "geonames": 2985244,
+            "iso_3166_2": "FR-U"
         },
         "long": {
             "default": "Provence-Alpes-Côte d'Azur"
@@ -12,8 +13,9 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "52",
-            "geonames": 2988289
+            "fips": "FR52",
+            "geonames": 2988289,
+            "iso_3166_2": "FR-R"
         },
         "long": {
             "default": "Pays de la Loire"
@@ -22,7 +24,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "11",
+            "fips": "FR11",
             "geonames": 3012874
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "94",
+            "fips": "FR94",
             "geonames": 3023519
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "24",
+            "fips": "FR24",
             "geonames": 3027939
         },
         "long": {
@@ -52,7 +54,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "53",
+            "fips": "FR53",
             "geonames": 3030293
         },
         "long": {
@@ -62,7 +64,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "27",
+            "fips": "FR27",
             "geonames": 11071619
         },
         "long": {
@@ -72,7 +74,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "75",
+            "fips": "FR75",
             "geonames": 11071620
         },
         "long": {
@@ -82,7 +84,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "28",
+            "fips": "FR28",
             "geonames": 11071621
         },
         "long": {
@@ -92,7 +94,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "44",
+            "fips": "FR44",
             "geonames": 11071622
         },
         "long": {
@@ -102,7 +104,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "76",
+            "fips": "FR76",
             "geonames": 11071623
         },
         "long": {
@@ -112,7 +114,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "32",
+            "fips": "FR32",
             "geonames": 11071624
         },
         "long": {
@@ -122,7 +124,7 @@
     {
         "parent": "FR",
         "ids": {
-            "fips": "84",
+            "fips": "FR84",
             "geonames": 11071625
         },
         "long": {

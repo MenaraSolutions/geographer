@@ -2,7 +2,7 @@
     {
         "parent": "TO",
         "ids": {
-            "fips": "03",
+            "fips": "TN03",
             "geonames": 4032231
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "TO",
         "ids": {
-            "fips": "02",
-            "geonames": 4032279
+            "fips": "TN02",
+            "geonames": 4032279,
+            "iso_3166_2": "TO-04"
         },
         "long": {
             "default": "Tongatapu"
@@ -22,7 +23,7 @@
     {
         "parent": "TO",
         "ids": {
-            "fips": "01",
+            "fips": "TN01",
             "geonames": 4032637
         },
         "long": {

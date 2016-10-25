@@ -2,7 +2,7 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "21",
+            "fips": "MP21",
             "geonames": 448254
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "20",
-            "geonames": 934017
+            "fips": "MP20",
+            "geonames": 934017,
+            "iso_3166_2": "MU-SA"
         },
         "long": {
             "default": "Savanne"
@@ -22,8 +23,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "19",
-            "geonames": 934090
+            "fips": "MP19",
+            "geonames": 934090,
+            "iso_3166_2": "MU-RR"
         },
         "long": {
             "default": "Rivière du Rempart"
@@ -32,8 +34,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "18",
-            "geonames": 934153
+            "fips": "MP18",
+            "geonames": 934153,
+            "iso_3166_2": "MU-PL"
         },
         "long": {
             "default": "Port Louis"
@@ -42,8 +45,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "17",
-            "geonames": 934166
+            "fips": "MP17",
+            "geonames": 934166,
+            "iso_3166_2": "MU-PW"
         },
         "long": {
             "default": "Plaines Wilhems"
@@ -52,8 +56,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "16",
-            "geonames": 934212
+            "fips": "MP16",
+            "geonames": 934212,
+            "iso_3166_2": "MU-PA"
         },
         "long": {
             "default": "Pamplemousses"
@@ -62,8 +67,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "15",
-            "geonames": 934275
+            "fips": "MP15",
+            "geonames": 934275,
+            "iso_3166_2": "MU-MO"
         },
         "long": {
             "default": "Moka"
@@ -72,8 +78,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "14",
-            "geonames": 934466
+            "fips": "MP14",
+            "geonames": 934466,
+            "iso_3166_2": "MU-GP"
         },
         "long": {
             "default": "Grand Port"
@@ -82,8 +89,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "13",
-            "geonames": 934522
+            "fips": "MP13",
+            "geonames": 934522,
+            "iso_3166_2": "MU-FL"
         },
         "long": {
             "default": "Flacq"
@@ -92,8 +100,9 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "12",
-            "geonames": 934718
+            "fips": "MP12",
+            "geonames": 934718,
+            "iso_3166_2": "MU-BL"
         },
         "long": {
             "default": "Black River"
@@ -102,7 +111,7 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "22",
+            "fips": "MP22",
             "geonames": 1106583
         },
         "long": {
@@ -112,7 +121,7 @@
     {
         "parent": "MU",
         "ids": {
-            "fips": "23",
+            "fips": "MP23",
             "geonames": 1547449
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "20",
-            "geonames": 3374161
+            "fips": "CV20",
+            "geonames": 3374161,
+            "iso_3166_2": "CV-TA"
         },
         "long": {
             "default": "Tarrafal"
@@ -12,8 +13,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "11",
-            "geonames": 3374198
+            "fips": "CV11",
+            "geonames": 3374198,
+            "iso_3166_2": "CV-SV"
         },
         "long": {
             "default": "São Vicente"
@@ -22,8 +24,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "15",
-            "geonames": 3374226
+            "fips": "CV15",
+            "geonames": 3374226,
+            "iso_3166_2": "CV-CA"
         },
         "long": {
             "default": "Santa Catarina"
@@ -32,8 +35,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "08",
-            "geonames": 3374249
+            "fips": "CV08",
+            "geonames": 3374249,
+            "iso_3166_2": "CV-SL"
         },
         "long": {
             "default": "Sal"
@@ -42,8 +46,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "07",
-            "geonames": 3374274
+            "fips": "CV07",
+            "geonames": 3374274,
+            "iso_3166_2": "CV-RG"
         },
         "long": {
             "default": "Ribeira Grande"
@@ -52,8 +57,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "14",
-            "geonames": 3374332
+            "fips": "CV14",
+            "geonames": 3374332,
+            "iso_3166_2": "CV-PR"
         },
         "long": {
             "default": "Praia"
@@ -62,8 +68,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "05",
-            "geonames": 3374391
+            "fips": "CV05",
+            "geonames": 3374391,
+            "iso_3166_2": "CV-PA"
         },
         "long": {
             "default": "Paul"
@@ -72,8 +79,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "04",
-            "geonames": 3374487
+            "fips": "CV04",
+            "geonames": 3374487,
+            "iso_3166_2": "CV-MA"
         },
         "long": {
             "default": "Maio"
@@ -82,8 +90,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "02",
-            "geonames": 3374832
+            "fips": "CV02",
+            "geonames": 3374832,
+            "iso_3166_2": "CV-BR"
         },
         "long": {
             "default": "Brava"
@@ -92,8 +101,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "01",
-            "geonames": 3374855
+            "fips": "CV01",
+            "geonames": 3374855,
+            "iso_3166_2": "CV-BV"
         },
         "long": {
             "default": "Boa Vista"
@@ -102,8 +112,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "13",
-            "geonames": 3411924
+            "fips": "CV13",
+            "geonames": 3411924,
+            "iso_3166_2": "CV-MO"
         },
         "long": {
             "default": "Mosteiros"
@@ -112,8 +123,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "16",
-            "geonames": 3411925
+            "fips": "CV16",
+            "geonames": 3411925,
+            "iso_3166_2": "CV-CR"
         },
         "long": {
             "default": "Santa Cruz"
@@ -122,8 +134,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "17",
-            "geonames": 3411926
+            "fips": "CV17",
+            "geonames": 3411926,
+            "iso_3166_2": "CV-SD"
         },
         "long": {
             "default": "São Domingos"
@@ -132,8 +145,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "18",
-            "geonames": 3411927
+            "fips": "CV18",
+            "geonames": 3411927,
+            "iso_3166_2": "CV-SF"
         },
         "long": {
             "default": "São Filipe"
@@ -142,8 +156,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "19",
-            "geonames": 3411928
+            "fips": "CV19",
+            "geonames": 3411928,
+            "iso_3166_2": "CV-SM"
         },
         "long": {
             "default": "São Miguel"
@@ -152,8 +167,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "21",
-            "geonames": 7602868
+            "fips": "CV21",
+            "geonames": 7602868,
+            "iso_3166_2": "CV-PN"
         },
         "long": {
             "default": "Porto Novo"
@@ -162,8 +178,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "22",
-            "geonames": 7602869
+            "fips": "CV22",
+            "geonames": 7602869,
+            "iso_3166_2": "CV-RB"
         },
         "long": {
             "default": "Ribeira Brava"
@@ -172,8 +189,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "24",
-            "geonames": 7602870
+            "fips": "CV24",
+            "geonames": 7602870,
+            "iso_3166_2": "CV-CF"
         },
         "long": {
             "default": "Santa Catarina do Fogo"
@@ -182,8 +200,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "26",
-            "geonames": 7602871
+            "fips": "CV26",
+            "geonames": 7602871,
+            "iso_3166_2": "CV-SS"
         },
         "long": {
             "default": "São Salvador do Mundo"
@@ -192,8 +211,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "27",
-            "geonames": 7602872
+            "fips": "CV27",
+            "geonames": 7602872,
+            "iso_3166_2": "CV-TS"
         },
         "long": {
             "default": "Tarrafal de São Nicolau"
@@ -202,8 +222,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "25",
-            "geonames": 7602873
+            "fips": "CV25",
+            "geonames": 7602873,
+            "iso_3166_2": "CV-SO"
         },
         "long": {
             "default": "São Lourenço dos Órgãos"
@@ -212,8 +233,9 @@
     {
         "parent": "CV",
         "ids": {
-            "fips": "23",
-            "geonames": 7603281
+            "fips": "CV23",
+            "geonames": 7603281,
+            "iso_3166_2": "CV-RS"
         },
         "long": {
             "default": "Ribeira Grande de Santiago"

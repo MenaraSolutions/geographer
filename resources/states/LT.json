@@ -2,8 +2,9 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "56",
-            "geonames": 864389
+            "fips": "LH56",
+            "geonames": 864389,
+            "iso_3166_2": "LT-AL"
         },
         "long": {
             "default": "Alytaus apskritis"
@@ -12,8 +13,9 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "57",
-            "geonames": 864477
+            "fips": "LH57",
+            "geonames": 864477,
+            "iso_3166_2": "LT-KU"
         },
         "long": {
             "default": "Kauno apskritis"
@@ -22,7 +24,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "58",
+            "fips": "LH58",
             "geonames": 864478
         },
         "long": {
@@ -32,7 +34,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "59",
+            "fips": "LH59",
             "geonames": 864479
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "60",
+            "fips": "LH60",
             "geonames": 864480
         },
         "long": {
@@ -52,7 +54,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "61",
+            "fips": "LH61",
             "geonames": 864481
         },
         "long": {
@@ -62,7 +64,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "62",
+            "fips": "LH62",
             "geonames": 864482
         },
         "long": {
@@ -72,7 +74,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "63",
+            "fips": "LH63",
             "geonames": 864483
         },
         "long": {
@@ -82,7 +84,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "64",
+            "fips": "LH64",
             "geonames": 864484
         },
         "long": {
@@ -92,7 +94,7 @@
     {
         "parent": "LT",
         "ids": {
-            "fips": "65",
+            "fips": "LH65",
             "geonames": 864485
         },
         "long": {

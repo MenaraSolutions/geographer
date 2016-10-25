@@ -2,8 +2,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "28",
-            "geonames": 1090052
+            "fips": "WA28",
+            "geonames": 1090052,
+            "iso_3166_2": "NA-CA"
         },
         "long": {
             "default": "Zambezi"
@@ -12,8 +13,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "21",
-            "geonames": 3352137
+            "fips": "WA21",
+            "geonames": 3352137,
+            "iso_3166_2": "NA-KH"
         },
         "long": {
             "default": "Khomas"
@@ -22,8 +24,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "29",
-            "geonames": 3371199
+            "fips": "WA29",
+            "geonames": 3371199,
+            "iso_3166_2": "NA-ER"
         },
         "long": {
             "default": "Erongo"
@@ -32,8 +35,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "30",
-            "geonames": 3371200
+            "fips": "WA30",
+            "geonames": 3371200,
+            "iso_3166_2": "NA-HA"
         },
         "long": {
             "default": "Hardap"
@@ -42,8 +46,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "31",
-            "geonames": 3371201
+            "fips": "WA31",
+            "geonames": 3371201,
+            "iso_3166_2": "NA-KA"
         },
         "long": {
             "default": "Karas"
@@ -52,8 +57,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "32",
-            "geonames": 3371202
+            "fips": "WA32",
+            "geonames": 3371202,
+            "iso_3166_2": "NA-KU"
         },
         "long": {
             "default": "Kunene"
@@ -62,8 +68,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "33",
-            "geonames": 3371203
+            "fips": "WA33",
+            "geonames": 3371203,
+            "iso_3166_2": "NA-OW"
         },
         "long": {
             "default": "Ohangwena"
@@ -72,8 +79,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "35",
-            "geonames": 3371205
+            "fips": "WA35",
+            "geonames": 3371205,
+            "iso_3166_2": "NA-OH"
         },
         "long": {
             "default": "Omaheke"
@@ -82,8 +90,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "36",
-            "geonames": 3371206
+            "fips": "WA36",
+            "geonames": 3371206,
+            "iso_3166_2": "NA-OS"
         },
         "long": {
             "default": "Omusati"
@@ -92,8 +101,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "37",
-            "geonames": 3371207
+            "fips": "WA37",
+            "geonames": 3371207,
+            "iso_3166_2": "NA-ON"
         },
         "long": {
             "default": "Oshana"
@@ -102,8 +112,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "38",
-            "geonames": 3371208
+            "fips": "WA38",
+            "geonames": 3371208,
+            "iso_3166_2": "NA-OT"
         },
         "long": {
             "default": "Oshikoto"
@@ -112,8 +123,9 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "39",
-            "geonames": 3371209
+            "fips": "WA39",
+            "geonames": 3371209,
+            "iso_3166_2": "NA-OD"
         },
         "long": {
             "default": "Otjozondjupa"
@@ -122,7 +134,7 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "40",
+            "fips": "WA40",
             "geonames": 8693188
         },
         "long": {
@@ -132,7 +144,7 @@
     {
         "parent": "NA",
         "ids": {
-            "fips": "41",
+            "fips": "WA41",
             "geonames": 8693189
         },
         "long": {

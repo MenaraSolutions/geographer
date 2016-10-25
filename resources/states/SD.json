@@ -2,7 +2,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "43",
+            "fips": "SU43",
             "geonames": 378389
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "29",
-            "geonames": 379253
+            "fips": "SU29",
+            "geonames": 379253,
+            "iso_3166_2": "SD-KH"
         },
         "long": {
             "default": "Khartoum"
@@ -22,8 +23,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "36",
-            "geonames": 408646
+            "fips": "SU36",
+            "geonames": 408646,
+            "iso_3166_2": "SD-RS"
         },
         "long": {
             "default": "Red Sea"
@@ -32,7 +34,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "38",
+            "fips": "SU38",
             "geonames": 408648
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "39",
+            "fips": "SU39",
             "geonames": 408649
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "41",
-            "geonames": 408653
+            "fips": "SU41",
+            "geonames": 408653,
+            "iso_3166_2": "SD-NW"
         },
         "long": {
             "default": "White Nile"
@@ -62,8 +65,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "42",
-            "geonames": 408654
+            "fips": "SU42",
+            "geonames": 408654,
+            "iso_3166_2": "SD-NB"
         },
         "long": {
             "default": "Blue Nile"
@@ -72,7 +76,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "47",
+            "fips": "SU47",
             "geonames": 408658
         },
         "long": {
@@ -82,7 +86,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "62",
+            "fips": "SU62",
             "geonames": 408659
         },
         "long": {
@@ -92,7 +96,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "49",
+            "fips": "SU49",
             "geonames": 408660
         },
         "long": {
@@ -102,8 +106,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "50",
-            "geonames": 408661
+            "fips": "SU50",
+            "geonames": 408661,
+            "iso_3166_2": "SD-KS"
         },
         "long": {
             "default": "Southern Kordofan"
@@ -112,8 +117,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "52",
-            "geonames": 408663
+            "fips": "SU52",
+            "geonames": 408663,
+            "iso_3166_2": "SD-KA"
         },
         "long": {
             "default": "Kassala"
@@ -122,8 +128,9 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "53",
-            "geonames": 408664
+            "fips": "SU53",
+            "geonames": 408664,
+            "iso_3166_2": "SD-NR"
         },
         "long": {
             "default": "River Nile"
@@ -132,7 +139,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "55",
+            "fips": "SU55",
             "geonames": 408666
         },
         "long": {
@@ -142,7 +149,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "56",
+            "fips": "SU56",
             "geonames": 408667
         },
         "long": {
@@ -152,7 +159,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "58",
+            "fips": "SU58",
             "geonames": 408669
         },
         "long": {
@@ -162,7 +169,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "60",
+            "fips": "SU60",
             "geonames": 8394435
         },
         "long": {
@@ -172,7 +179,7 @@
     {
         "parent": "SD",
         "ids": {
-            "fips": "61",
+            "fips": "SU61",
             "geonames": 8394436
         },
         "long": {

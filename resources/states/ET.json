@@ -2,7 +2,7 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "44",
+            "fips": "ET44",
             "geonames": 444178
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "45",
+            "fips": "ET45",
             "geonames": 444179
         },
         "long": {
@@ -22,8 +22,9 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "46",
-            "geonames": 444180
+            "fips": "ET46",
+            "geonames": 444180,
+            "iso_3166_2": "ET-AM"
         },
         "long": {
             "default": "Amhara"
@@ -32,8 +33,9 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "47",
-            "geonames": 444181
+            "fips": "ET47",
+            "geonames": 444181,
+            "iso_3166_2": "ET-BE"
         },
         "long": {
             "default": "Bīnshangul Gumuz"
@@ -42,8 +44,9 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "48",
-            "geonames": 444182
+            "fips": "ET48",
+            "geonames": 444182,
+            "iso_3166_2": "ET-DD"
         },
         "long": {
             "default": "Dire Dawa"
@@ -52,7 +55,7 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "49",
+            "fips": "ET49",
             "geonames": 444183
         },
         "long": {
@@ -62,7 +65,7 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "50",
+            "fips": "ET50",
             "geonames": 444184
         },
         "long": {
@@ -72,8 +75,9 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "51",
-            "geonames": 444185
+            "fips": "ET51",
+            "geonames": 444185,
+            "iso_3166_2": "ET-OR"
         },
         "long": {
             "default": "Oromiya"
@@ -82,7 +86,7 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "52",
+            "fips": "ET52",
             "geonames": 444186
         },
         "long": {
@@ -92,8 +96,9 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "53",
-            "geonames": 444187
+            "fips": "ET53",
+            "geonames": 444187,
+            "iso_3166_2": "ET-TI"
         },
         "long": {
             "default": "Tigray"
@@ -102,7 +107,7 @@
     {
         "parent": "ET",
         "ids": {
-            "fips": "54",
+            "fips": "ET54",
             "geonames": 444188
         },
         "long": {

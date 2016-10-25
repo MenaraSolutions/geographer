@@ -2,8 +2,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "51",
-            "geonames": 2322907
+            "fips": "NI51",
+            "geonames": 2322907,
+            "iso_3166_2": "NG-SO"
         },
         "long": {
             "default": "Sokoto"
@@ -12,8 +13,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "50",
-            "geonames": 2324433
+            "fips": "NI50",
+            "geonames": 2324433,
+            "iso_3166_2": "NG-RI"
         },
         "long": {
             "default": "Rivers"
@@ -22,7 +24,7 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "49",
+            "fips": "NI49",
             "geonames": 2324828
         },
         "long": {
@@ -32,8 +34,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "32",
-            "geonames": 2325190
+            "fips": "NI32",
+            "geonames": 2325190,
+            "iso_3166_2": "NG-OY"
         },
         "long": {
             "default": "Oyo"
@@ -42,8 +45,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "48",
-            "geonames": 2326168
+            "fips": "NI48",
+            "geonames": 2326168,
+            "iso_3166_2": "NG-ON"
         },
         "long": {
             "default": "Ondo"
@@ -52,8 +56,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "16",
-            "geonames": 2327546
+            "fips": "NI16",
+            "geonames": 2327546,
+            "iso_3166_2": "NG-OG"
         },
         "long": {
             "default": "Ogun"
@@ -62,8 +67,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "31",
-            "geonames": 2328925
+            "fips": "NI31",
+            "geonames": 2328925,
+            "iso_3166_2": "NG-NI"
         },
         "long": {
             "default": "Niger"
@@ -72,8 +78,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "05",
-            "geonames": 2332453
+            "fips": "NI05",
+            "geonames": 2332453,
+            "iso_3166_2": "NG-LA"
         },
         "long": {
             "default": "Lagos"
@@ -82,8 +89,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "30",
-            "geonames": 2332785
+            "fips": "NI30",
+            "geonames": 2332785,
+            "iso_3166_2": "NG-KW"
         },
         "long": {
             "default": "Kwara"
@@ -92,8 +100,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "24",
-            "geonames": 2334797
+            "fips": "NI24",
+            "geonames": 2334797,
+            "iso_3166_2": "NG-KT"
         },
         "long": {
             "default": "Katsina"
@@ -102,8 +111,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "29",
-            "geonames": 2335196
+            "fips": "NI29",
+            "geonames": 2335196,
+            "iso_3166_2": "NG-KN"
         },
         "long": {
             "default": "Kano"
@@ -112,8 +122,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "23",
-            "geonames": 2335722
+            "fips": "NI23",
+            "geonames": 2335722,
+            "iso_3166_2": "NG-KD"
         },
         "long": {
             "default": "Kaduna"
@@ -122,8 +133,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "28",
-            "geonames": 2337542
+            "fips": "NI28",
+            "geonames": 2337542,
+            "iso_3166_2": "NG-IM"
         },
         "long": {
             "default": "Imo"
@@ -132,8 +144,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "22",
-            "geonames": 2345891
+            "fips": "NI22",
+            "geonames": 2345891,
+            "iso_3166_2": "NG-CR"
         },
         "long": {
             "default": "Cross River"
@@ -142,8 +155,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "27",
-            "geonames": 2346794
+            "fips": "NI27",
+            "geonames": 2346794,
+            "iso_3166_2": "NG-BO"
         },
         "long": {
             "default": "Borno"
@@ -152,8 +166,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "26",
-            "geonames": 2347266
+            "fips": "NI26",
+            "geonames": 2347266,
+            "iso_3166_2": "NG-BE"
         },
         "long": {
             "default": "Benue"
@@ -162,8 +177,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "46",
-            "geonames": 2347468
+            "fips": "NI46",
+            "geonames": 2347468,
+            "iso_3166_2": "NG-BA"
         },
         "long": {
             "default": "Bauchi"
@@ -172,8 +188,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "25",
-            "geonames": 2349961
+            "fips": "NI25",
+            "geonames": 2349961,
+            "iso_3166_2": "NG-AN"
         },
         "long": {
             "default": "Anambra"
@@ -182,8 +199,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "21",
-            "geonames": 2350813
+            "fips": "NI21",
+            "geonames": 2350813,
+            "iso_3166_2": "NG-AK"
         },
         "long": {
             "default": "Akwa Ibom"
@@ -192,8 +210,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "11",
-            "geonames": 2352776
+            "fips": "NI11",
+            "geonames": 2352776,
+            "iso_3166_2": "NG-FC"
         },
         "long": {
             "default": "Abuja Federal Capital Territory"
@@ -202,8 +221,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "45",
-            "geonames": 2565340
+            "fips": "NI45",
+            "geonames": 2565340,
+            "iso_3166_2": "NG-AB"
         },
         "long": {
             "default": "Abia"
@@ -212,8 +232,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "36",
-            "geonames": 2565341
+            "fips": "NI36",
+            "geonames": 2565341,
+            "iso_3166_2": "NG-DE"
         },
         "long": {
             "default": "Delta"
@@ -222,8 +243,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "35",
-            "geonames": 2565342
+            "fips": "NI35",
+            "geonames": 2565342,
+            "iso_3166_2": "NG-AD"
         },
         "long": {
             "default": "Adamawa"
@@ -232,8 +254,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "37",
-            "geonames": 2565343
+            "fips": "NI37",
+            "geonames": 2565343,
+            "iso_3166_2": "NG-ED"
         },
         "long": {
             "default": "Edo"
@@ -242,8 +265,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "47",
-            "geonames": 2565344
+            "fips": "NI47",
+            "geonames": 2565344,
+            "iso_3166_2": "NG-EN"
         },
         "long": {
             "default": "Enugu"
@@ -252,8 +276,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "39",
-            "geonames": 2565345
+            "fips": "NI39",
+            "geonames": 2565345,
+            "iso_3166_2": "NG-JI"
         },
         "long": {
             "default": "Jigawa"
@@ -262,8 +287,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "52",
-            "geonames": 2595344
+            "fips": "NI52",
+            "geonames": 2595344,
+            "iso_3166_2": "NG-BY"
         },
         "long": {
             "default": "Bayelsa"
@@ -272,8 +298,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "53",
-            "geonames": 2595345
+            "fips": "NI53",
+            "geonames": 2595345,
+            "iso_3166_2": "NG-EB"
         },
         "long": {
             "default": "Ebonyi"
@@ -282,8 +309,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "54",
-            "geonames": 2595346
+            "fips": "NI54",
+            "geonames": 2595346,
+            "iso_3166_2": "NG-EK"
         },
         "long": {
             "default": "Ekiti"
@@ -292,8 +320,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "55",
-            "geonames": 2595347
+            "fips": "NI55",
+            "geonames": 2595347,
+            "iso_3166_2": "NG-GO"
         },
         "long": {
             "default": "Gombe"
@@ -302,8 +331,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "56",
-            "geonames": 2595348
+            "fips": "NI56",
+            "geonames": 2595348,
+            "iso_3166_2": "NG-NA"
         },
         "long": {
             "default": "Nassarawa"
@@ -312,8 +342,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "57",
-            "geonames": 2595349
+            "fips": "NI57",
+            "geonames": 2595349,
+            "iso_3166_2": "NG-ZA"
         },
         "long": {
             "default": "Zamfara"
@@ -322,8 +353,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "40",
-            "geonames": 2597363
+            "fips": "NI40",
+            "geonames": 2597363,
+            "iso_3166_2": "NG-KE"
         },
         "long": {
             "default": "Kebbi"
@@ -332,8 +364,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "41",
-            "geonames": 2597364
+            "fips": "NI41",
+            "geonames": 2597364,
+            "iso_3166_2": "NG-KO"
         },
         "long": {
             "default": "Kogi"
@@ -342,8 +375,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "42",
-            "geonames": 2597365
+            "fips": "NI42",
+            "geonames": 2597365,
+            "iso_3166_2": "NG-OS"
         },
         "long": {
             "default": "Osun"
@@ -352,8 +386,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "43",
-            "geonames": 2597366
+            "fips": "NI43",
+            "geonames": 2597366,
+            "iso_3166_2": "NG-TA"
         },
         "long": {
             "default": "Taraba"
@@ -362,8 +397,9 @@
     {
         "parent": "NG",
         "ids": {
-            "fips": "44",
-            "geonames": 2597367
+            "fips": "NI44",
+            "geonames": 2597367,
+            "iso_3166_2": "NG-YO"
         },
         "long": {
             "default": "Yobe"

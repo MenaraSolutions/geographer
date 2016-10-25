@@ -2,8 +2,9 @@
     {
         "parent": "SL",
         "ids": {
-            "fips": "04",
-            "geonames": 2403068
+            "fips": "SL04",
+            "geonames": 2403068,
+            "iso_3166_2": "SL-W"
         },
         "long": {
             "default": "Western Area"
@@ -12,7 +13,7 @@
     {
         "parent": "SL",
         "ids": {
-            "fips": "03",
+            "fips": "SL03",
             "geonames": 2403745
         },
         "long": {
@@ -22,7 +23,7 @@
     {
         "parent": "SL",
         "ids": {
-            "fips": "02",
+            "fips": "SL02",
             "geonames": 2404798
         },
         "long": {
@@ -32,7 +33,7 @@
     {
         "parent": "SL",
         "ids": {
-            "fips": "01",
+            "fips": "SL01",
             "geonames": 2409543
         },
         "long": {

@@ -28,6 +28,7 @@ class Country extends Divisible
         'code3' => 'ids.iso_3166_1.1',
         'numericCode' => 'ids.iso_3166_1.2',
         'geonamesCode' => 'ids.geonames',
+        'fipsCode' => 'ids.fips',
         'area',
         'currency',
         'phonePrefix' => 'phone',

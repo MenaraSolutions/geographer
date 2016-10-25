@@ -2,7 +2,7 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "19",
+            "fips": "GY19",
             "geonames": 3375463
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "18",
-            "geonames": 3375469
+            "fips": "GY18",
+            "geonames": 3375469,
+            "iso_3166_2": "GY-UD"
         },
         "long": {
             "default": "Upper Demerara-Berbice"
@@ -22,7 +23,7 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "17",
+            "fips": "GY17",
             "geonames": 3376386
         },
         "long": {
@@ -32,8 +33,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "16",
-            "geonames": 3376407
+            "fips": "GY16",
+            "geonames": 3376407,
+            "iso_3166_2": "GY-PM"
         },
         "long": {
             "default": "Pomeroon-Supenaam"
@@ -42,8 +44,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "15",
-            "geonames": 3377274
+            "fips": "GY15",
+            "geonames": 3377274,
+            "iso_3166_2": "GY-MA"
         },
         "long": {
             "default": "Mahaica-Berbice"
@@ -52,8 +55,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "14",
-            "geonames": 3378741
+            "fips": "GY14",
+            "geonames": 3378741,
+            "iso_3166_2": "GY-ES"
         },
         "long": {
             "default": "Essequibo Islands-West Demerara"
@@ -62,8 +66,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "13",
-            "geonames": 3378840
+            "fips": "GY13",
+            "geonames": 3378840,
+            "iso_3166_2": "GY-EB"
         },
         "long": {
             "default": "East Berbice-Corentyne"
@@ -72,8 +77,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "12",
-            "geonames": 3378950
+            "fips": "GY12",
+            "geonames": 3378950,
+            "iso_3166_2": "GY-DE"
         },
         "long": {
             "default": "Demerara-Mahaica"
@@ -82,8 +88,9 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "11",
-            "geonames": 3379023
+            "fips": "GY11",
+            "geonames": 3379023,
+            "iso_3166_2": "GY-CU"
         },
         "long": {
             "default": "Cuyuni-Mazaruni"
@@ -92,7 +99,7 @@
     {
         "parent": "GY",
         "ids": {
-            "fips": "10",
+            "fips": "GY10",
             "geonames": 3379515
         },
         "long": {

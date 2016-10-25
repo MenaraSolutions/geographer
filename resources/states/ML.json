@@ -2,8 +2,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "08",
-            "geonames": 2449066
+            "fips": "ML08",
+            "geonames": 2449066,
+            "iso_3166_2": "ML-6"
         },
         "long": {
             "default": "Tombouctou"
@@ -12,8 +13,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "06",
-            "geonames": 2451184
+            "fips": "ML06",
+            "geonames": 2451184,
+            "iso_3166_2": "ML-3"
         },
         "long": {
             "default": "Sikasso"
@@ -22,7 +24,7 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "05",
+            "fips": "ML05",
             "geonames": 2451477
         },
         "long": {
@@ -32,8 +34,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "04",
-            "geonames": 2453347
+            "fips": "ML04",
+            "geonames": 2453347,
+            "iso_3166_2": "ML-5"
         },
         "long": {
             "default": "Mopti"
@@ -42,8 +45,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "07",
-            "geonames": 2454532
+            "fips": "ML07",
+            "geonames": 2454532,
+            "iso_3166_2": "ML-2"
         },
         "long": {
             "default": "Koulikoro"
@@ -52,8 +56,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "03",
-            "geonames": 2455517
+            "fips": "ML03",
+            "geonames": 2455517,
+            "iso_3166_2": "ML-1"
         },
         "long": {
             "default": "Kayes"
@@ -62,8 +67,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "09",
-            "geonames": 2457161
+            "fips": "ML09",
+            "geonames": 2457161,
+            "iso_3166_2": "ML-7"
         },
         "long": {
             "default": "Gao"
@@ -72,8 +78,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "01",
-            "geonames": 2460594
+            "fips": "ML01",
+            "geonames": 2460594,
+            "iso_3166_2": "ML-BKO"
         },
         "long": {
             "default": "Bamako"
@@ -82,8 +89,9 @@
     {
         "parent": "ML",
         "ids": {
-            "fips": "10",
-            "geonames": 2597449
+            "fips": "ML10",
+            "geonames": 2597449,
+            "iso_3166_2": "ML-8"
         },
         "long": {
             "default": "Kidal"

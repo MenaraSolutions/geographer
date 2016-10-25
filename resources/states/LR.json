@@ -2,8 +2,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "10",
-            "geonames": 2273898
+            "fips": "LI10",
+            "geonames": 2273898,
+            "iso_3166_2": "LR-SI"
         },
         "long": {
             "default": "Sinoe"
@@ -12,8 +13,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "09",
-            "geonames": 2274688
+            "fips": "LI09",
+            "geonames": 2274688,
+            "iso_3166_2": "LR-NI"
         },
         "long": {
             "default": "Nimba"
@@ -22,8 +24,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "14",
-            "geonames": 2274890
+            "fips": "LI14",
+            "geonames": 2274890,
+            "iso_3166_2": "LR-MO"
         },
         "long": {
             "default": "Montserrado"
@@ -32,8 +35,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "13",
-            "geonames": 2275099
+            "fips": "LI13",
+            "geonames": 2275099,
+            "iso_3166_2": "LR-MY"
         },
         "long": {
             "default": "Maryland"
@@ -42,8 +46,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "20",
-            "geonames": 2275344
+            "fips": "LI20",
+            "geonames": 2275344,
+            "iso_3166_2": "LR-LO"
         },
         "long": {
             "default": "Lofa"
@@ -52,8 +57,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "19",
-            "geonames": 2276622
+            "fips": "LI19",
+            "geonames": 2276622,
+            "iso_3166_2": "LR-GG"
         },
         "long": {
             "default": "Grand Gedeh"
@@ -62,8 +68,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "12",
-            "geonames": 2276627
+            "fips": "LI12",
+            "geonames": 2276627,
+            "iso_3166_2": "LR-CM"
         },
         "long": {
             "default": "Grand Cape Mount"
@@ -72,8 +79,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "11",
-            "geonames": 2276630
+            "fips": "LI11",
+            "geonames": 2276630,
+            "iso_3166_2": "LR-GB"
         },
         "long": {
             "default": "Grand Bassa"
@@ -82,8 +90,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "01",
-            "geonames": 2278292
+            "fips": "LI01",
+            "geonames": 2278292,
+            "iso_3166_2": "LR-BG"
         },
         "long": {
             "default": "Bong"
@@ -92,8 +101,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "15",
-            "geonames": 2278324
+            "fips": "LI15",
+            "geonames": 2278324,
+            "iso_3166_2": "LR-BM"
         },
         "long": {
             "default": "Bomi"
@@ -102,8 +112,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "16",
-            "geonames": 2588490
+            "fips": "LI16",
+            "geonames": 2588490,
+            "iso_3166_2": "LR-GK"
         },
         "long": {
             "default": "Grand Kru"
@@ -112,8 +123,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "17",
-            "geonames": 2588491
+            "fips": "LI17",
+            "geonames": 2588491,
+            "iso_3166_2": "LR-MG"
         },
         "long": {
             "default": "Margibi"
@@ -122,8 +134,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "18",
-            "geonames": 2588492
+            "fips": "LI18",
+            "geonames": 2588492,
+            "iso_3166_2": "LR-RI"
         },
         "long": {
             "default": "River Cess"
@@ -132,8 +145,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "21",
-            "geonames": 2593119
+            "fips": "LI21",
+            "geonames": 2593119,
+            "iso_3166_2": "LR-GP"
         },
         "long": {
             "default": "Gbarpolu"
@@ -142,8 +156,9 @@
     {
         "parent": "LR",
         "ids": {
-            "fips": "22",
-            "geonames": 2593120
+            "fips": "LI22",
+            "geonames": 2593120,
+            "iso_3166_2": "LR-RG"
         },
         "long": {
             "default": "River Gee"

@@ -2,8 +2,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "25",
-            "geonames": 3691099
+            "fips": "PE25",
+            "geonames": 3691099,
+            "iso_3166_2": "PE-UCA"
         },
         "long": {
             "default": "Ucayali"
@@ -12,8 +13,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "24",
-            "geonames": 3691146
+            "fips": "PE24",
+            "geonames": 3691146,
+            "iso_3166_2": "PE-TUM"
         },
         "long": {
             "default": "Tumbes"
@@ -22,7 +24,7 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "22",
+            "fips": "PE22",
             "geonames": 3692385
         },
         "long": {
@@ -32,8 +34,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "20",
-            "geonames": 3693525
+            "fips": "PE20",
+            "geonames": 3693525,
+            "iso_3166_2": "PE-PIU"
         },
         "long": {
             "default": "Piura"
@@ -42,8 +45,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "16",
-            "geonames": 3695238
+            "fips": "PE16",
+            "geonames": 3695238,
+            "iso_3166_2": "PE-LOR"
         },
         "long": {
             "default": "Loreto"
@@ -52,8 +56,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "14",
-            "geonames": 3695753
+            "fips": "PE14",
+            "geonames": 3695753,
+            "iso_3166_2": "PE-LAM"
         },
         "long": {
             "default": "Lambayeque"
@@ -62,8 +67,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "13",
-            "geonames": 3695781
+            "fips": "PE13",
+            "geonames": 3695781,
+            "iso_3166_2": "PE-LAL"
         },
         "long": {
             "default": "La Libertad"
@@ -72,8 +78,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "10",
-            "geonames": 3696416
+            "fips": "PE10",
+            "geonames": 3696416,
+            "iso_3166_2": "PE-HUC"
         },
         "long": {
             "default": "Huanuco"
@@ -82,8 +89,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "06",
-            "geonames": 3699087
+            "fips": "PE06",
+            "geonames": 3699087,
+            "iso_3166_2": "PE-CAJ"
         },
         "long": {
             "default": "Cajamarca"
@@ -92,8 +100,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "02",
-            "geonames": 3699674
+            "fips": "PE02",
+            "geonames": 3699674,
+            "iso_3166_2": "PE-ANC"
         },
         "long": {
             "default": "Ancash"
@@ -102,7 +111,7 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "01",
+            "fips": "PE01",
             "geonames": 3699699
         },
         "long": {
@@ -112,8 +121,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "23",
-            "geonames": 3928127
+            "fips": "PE23",
+            "geonames": 3928127,
+            "iso_3166_2": "PE-TAC"
         },
         "long": {
             "default": "Tacna"
@@ -122,8 +132,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "21",
-            "geonames": 3931275
+            "fips": "PE21",
+            "geonames": 3931275,
+            "iso_3166_2": "PE-PUN"
         },
         "long": {
             "default": "Puno"
@@ -132,7 +143,7 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "19",
+            "fips": "PE19",
             "geonames": 3932834
         },
         "long": {
@@ -142,8 +153,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "18",
-            "geonames": 3934607
+            "fips": "PE18",
+            "geonames": 3934607,
+            "iso_3166_2": "PE-MOQ"
         },
         "long": {
             "default": "Moquegua"
@@ -152,8 +164,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "17",
-            "geonames": 3935619
+            "fips": "PE17",
+            "geonames": 3935619,
+            "iso_3166_2": "PE-MDD"
         },
         "long": {
             "default": "Madre de Dios"
@@ -172,7 +185,7 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "15",
+            "fips": "PE15",
             "geonames": 3936452
         },
         "long": {
@@ -182,7 +195,7 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "12",
+            "fips": "PE12",
             "geonames": 3937485
         },
         "long": {
@@ -192,8 +205,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "11",
-            "geonames": 3938526
+            "fips": "PE11",
+            "geonames": 3938526,
+            "iso_3166_2": "PE-ICA"
         },
         "long": {
             "default": "Ica"
@@ -202,8 +216,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "09",
-            "geonames": 3939467
+            "fips": "PE09",
+            "geonames": 3939467,
+            "iso_3166_2": "PE-HUV"
         },
         "long": {
             "default": "Huancavelica"
@@ -212,8 +227,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "08",
-            "geonames": 3941583
+            "fips": "PE08",
+            "geonames": 3941583,
+            "iso_3166_2": "PE-CUS"
         },
         "long": {
             "default": "Cusco"
@@ -222,8 +238,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "07",
-            "geonames": 3946080
+            "fips": "PE07",
+            "geonames": 3946080,
+            "iso_3166_2": "PE-CAL"
         },
         "long": {
             "default": "Callao"
@@ -232,8 +249,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "05",
-            "geonames": 3947018
+            "fips": "PE05",
+            "geonames": 3947018,
+            "iso_3166_2": "PE-AYA"
         },
         "long": {
             "default": "Ayacucho"
@@ -242,8 +260,9 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "04",
-            "geonames": 3947319
+            "fips": "PE04",
+            "geonames": 3947319,
+            "iso_3166_2": "PE-ARE"
         },
         "long": {
             "default": "Arequipa"
@@ -252,7 +271,7 @@
     {
         "parent": "PE",
         "ids": {
-            "fips": "03",
+            "fips": "PE03",
             "geonames": 3947421
         },
         "long": {

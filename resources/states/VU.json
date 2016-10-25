@@ -2,8 +2,9 @@
     {
         "parent": "VU",
         "ids": {
-            "fips": "15",
-            "geonames": 2134739
+            "fips": "NH15",
+            "geonames": 2134739,
+            "iso_3166_2": "VU-TAE"
         },
         "long": {
             "default": "Tafea"
@@ -12,8 +13,9 @@
     {
         "parent": "VU",
         "ids": {
-            "fips": "13",
-            "geonames": 2134898
+            "fips": "NH13",
+            "geonames": 2134898,
+            "iso_3166_2": "VU-SAM"
         },
         "long": {
             "default": "Sanma"
@@ -22,8 +24,9 @@
     {
         "parent": "VU",
         "ids": {
-            "fips": "07",
-            "geonames": 2137421
+            "fips": "NH07",
+            "geonames": 2137421,
+            "iso_3166_2": "VU-TOB"
         },
         "long": {
             "default": "Torba"
@@ -32,8 +35,9 @@
     {
         "parent": "VU",
         "ids": {
-            "fips": "16",
-            "geonames": 2208265
+            "fips": "NH16",
+            "geonames": 2208265,
+            "iso_3166_2": "VU-MAP"
         },
         "long": {
             "default": "Malampa"
@@ -42,7 +46,7 @@
     {
         "parent": "VU",
         "ids": {
-            "fips": "17",
+            "fips": "NH17",
             "geonames": 2208266
         },
         "long": {
@@ -52,8 +56,9 @@
     {
         "parent": "VU",
         "ids": {
-            "fips": "18",
-            "geonames": 2208267
+            "fips": "NH18",
+            "geonames": 2208267,
+            "iso_3166_2": "VU-SEE"
         },
         "long": {
             "default": "Shefa"

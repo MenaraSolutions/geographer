@@ -2,7 +2,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "33",
+            "fips": "LG33",
             "geonames": 454307
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "32",
-            "geonames": 454311
+            "fips": "LG32",
+            "geonames": 454311,
+            "iso_3166_2": "LV-106"
         },
         "long": {
             "default": "Ventspils"
@@ -22,7 +23,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "31",
+            "fips": "LG31",
             "geonames": 454564
         },
         "long": {
@@ -32,7 +33,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "30",
+            "fips": "LG30",
             "geonames": 454571
         },
         "long": {
@@ -42,7 +43,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "29",
+            "fips": "LG29",
             "geonames": 454771
         },
         "long": {
@@ -52,7 +53,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "28",
+            "fips": "LG28",
             "geonames": 454968
         },
         "long": {
@@ -62,7 +63,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "27",
+            "fips": "LG27",
             "geonames": 455888
         },
         "long": {
@@ -72,8 +73,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "25",
-            "geonames": 456173
+            "fips": "LG25",
+            "geonames": 456173,
+            "iso_3166_2": "LV-RIX"
         },
         "long": {
             "default": "Riga"
@@ -82,7 +84,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "24",
+            "fips": "LG24",
             "geonames": 456197
         },
         "long": {
@@ -92,7 +94,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "23",
+            "fips": "LG23",
             "geonames": 456203
         },
         "long": {
@@ -102,7 +104,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "22",
+            "fips": "LG22",
             "geonames": 456528
         },
         "long": {
@@ -112,7 +114,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "21",
+            "fips": "LG21",
             "geonames": 457061
         },
         "long": {
@@ -122,7 +124,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "20",
+            "fips": "LG20",
             "geonames": 457712
         },
         "long": {
@@ -132,7 +134,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "19",
+            "fips": "LG19",
             "geonames": 457773
         },
         "long": {
@@ -142,7 +144,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "18",
+            "fips": "LG18",
             "geonames": 457889
         },
         "long": {
@@ -152,7 +154,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "16",
+            "fips": "LG16",
             "geonames": 457955
         },
         "long": {
@@ -162,7 +164,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "15",
+            "fips": "LG15",
             "geonames": 458459
         },
         "long": {
@@ -172,7 +174,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "14",
+            "fips": "LG14",
             "geonames": 458621
         },
         "long": {
@@ -182,7 +184,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "13",
+            "fips": "LG13",
             "geonames": 459202
         },
         "long": {
@@ -192,7 +194,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "12",
+            "fips": "LG12",
             "geonames": 459278
         },
         "long": {
@@ -202,8 +204,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "11",
-            "geonames": 459281
+            "fips": "LG11",
+            "geonames": 459281,
+            "iso_3166_2": "LV-041"
         },
         "long": {
             "default": "Jelgava"
@@ -212,7 +215,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "10",
+            "fips": "LG10",
             "geonames": 459282
         },
         "long": {
@@ -222,7 +225,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "09",
+            "fips": "LG09",
             "geonames": 459664
         },
         "long": {
@@ -232,7 +235,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "08",
+            "fips": "LG08",
             "geonames": 460311
         },
         "long": {
@@ -242,7 +245,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "07",
+            "fips": "LG07",
             "geonames": 460410
         },
         "long": {
@@ -252,8 +255,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "06",
-            "geonames": 460414
+            "fips": "LG06",
+            "geonames": 460414,
+            "iso_3166_2": "LV-025"
         },
         "long": {
             "default": "Daugavpils"
@@ -262,7 +266,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "05",
+            "fips": "LG05",
             "geonames": 460569
         },
         "long": {
@@ -272,7 +276,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "04",
+            "fips": "LG04",
             "geonames": 461112
         },
         "long": {
@@ -282,7 +286,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "03",
+            "fips": "LG03",
             "geonames": 461160
         },
         "long": {
@@ -292,7 +296,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "02",
+            "fips": "LG02",
             "geonames": 461525
         },
         "long": {
@@ -302,7 +306,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "01",
+            "fips": "LG01",
             "geonames": 461613
         },
         "long": {
@@ -312,8 +316,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "60",
-            "geonames": 7628298
+            "fips": "LG60",
+            "geonames": 7628298,
+            "iso_3166_2": "LV-027"
         },
         "long": {
             "default": "Dundaga"
@@ -322,7 +327,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "40",
+            "fips": "LG40",
             "geonames": 7628299
         },
         "long": {
@@ -342,7 +347,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "99",
+            "fips": "LG99",
             "geonames": 7628301
         },
         "long": {
@@ -362,7 +367,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "65",
+            "fips": "LG65",
             "geonames": 7628303
         },
         "long": {
@@ -372,7 +377,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "61",
+            "fips": "LG61",
             "geonames": 7628304
         },
         "long": {
@@ -382,8 +387,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "37",
-            "geonames": 7628305
+            "fips": "LG37",
+            "geonames": 7628305,
+            "iso_3166_2": "LV-003"
         },
         "long": {
             "default": "Aizpute"
@@ -413,7 +419,8 @@
         "parent": "LV",
         "ids": {
             "fips": "C9",
-            "geonames": 7628308
+            "geonames": 7628308,
+            "iso_3166_2": "LV-093"
         },
         "long": {
             "default": "Skrunda"
@@ -422,7 +429,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "51",
+            "fips": "LG51",
             "geonames": 7628309
         },
         "long": {
@@ -433,7 +440,8 @@
         "parent": "LV",
         "ids": {
             "fips": "B4",
-            "geonames": 7628310
+            "geonames": 7628310,
+            "iso_3166_2": "LV-079"
         },
         "long": {
             "default": "Rojas"
@@ -442,7 +450,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "77",
+            "fips": "LG77",
             "geonames": 7628311
         },
         "long": {
@@ -452,7 +460,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "44",
+            "fips": "LG44",
             "geonames": 7628312
         },
         "long": {
@@ -462,8 +470,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "73",
-            "geonames": 7628313
+            "fips": "LG73",
+            "geonames": 7628313,
+            "iso_3166_2": "LV-040"
         },
         "long": {
             "default": "Jaunpils"
@@ -472,7 +481,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "62",
+            "fips": "LG62",
             "geonames": 7628314
         },
         "long": {
@@ -493,7 +502,8 @@
         "parent": "LV",
         "ids": {
             "fips": "A3",
-            "geonames": 7628316
+            "geonames": 7628316,
+            "iso_3166_2": "LV-069"
         },
         "long": {
             "default": "Ozolnieku"
@@ -512,7 +522,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "45",
+            "fips": "LG45",
             "geonames": 7628318
         },
         "long": {
@@ -522,7 +532,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "95",
+            "fips": "LG95",
             "geonames": 7628319
         },
         "long": {
@@ -533,7 +543,8 @@
         "parent": "LV",
         "ids": {
             "fips": "A2",
-            "geonames": 7628320
+            "geonames": 7628320,
+            "iso_3166_2": "LV-068"
         },
         "long": {
             "default": "Olaine"
@@ -542,7 +553,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "67",
+            "fips": "LG67",
             "geonames": 7628321
         },
         "long": {
@@ -552,7 +563,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "80",
+            "fips": "LG80",
             "geonames": 7628322
         },
         "long": {
@@ -572,7 +583,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "46",
+            "fips": "LG46",
             "geonames": 7628324
         },
         "long": {
@@ -592,8 +603,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "53",
-            "geonames": 7628326
+            "fips": "LG53",
+            "geonames": 7628326,
+            "iso_3166_2": "LV-020"
         },
         "long": {
             "default": "Carnikava"
@@ -602,7 +614,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "34",
+            "fips": "LG34",
             "geonames": 7628327
         },
         "long": {
@@ -612,7 +624,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "64",
+            "fips": "LG64",
             "geonames": 7628328
         },
         "long": {
@@ -632,7 +644,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "79",
+            "fips": "LG79",
             "geonames": 7628330
         },
         "long": {
@@ -642,7 +654,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "87",
+            "fips": "LG87",
             "geonames": 7628331
         },
         "long": {
@@ -662,8 +674,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "71",
-            "geonames": 7628333
+            "fips": "LG71",
+            "geonames": 7628333,
+            "iso_3166_2": "LV-038"
         },
         "long": {
             "default": "Jaunjelgava"
@@ -672,7 +685,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "98",
+            "fips": "LG98",
             "geonames": 7628334
         },
         "long": {
@@ -702,7 +715,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "74",
+            "fips": "LG74",
             "geonames": 7628337
         },
         "long": {
@@ -712,7 +725,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "38",
+            "fips": "LG38",
             "geonames": 7628338
         },
         "long": {
@@ -722,7 +735,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "69",
+            "fips": "LG69",
             "geonames": 7628339
         },
         "long": {
@@ -742,7 +755,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "90",
+            "fips": "LG90",
             "geonames": 7628341
         },
         "long": {
@@ -782,8 +795,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "35",
-            "geonames": 7628345
+            "fips": "LG35",
+            "geonames": 7628345,
+            "iso_3166_2": "LV-001"
         },
         "long": {
             "default": "Aglona"
@@ -792,8 +806,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "56",
-            "geonames": 7628346
+            "fips": "LG56",
+            "geonames": 7628346,
+            "iso_3166_2": "LV-023"
         },
         "long": {
             "default": "Cibla"
@@ -822,8 +837,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "47",
-            "geonames": 7628349
+            "fips": "LG47",
+            "geonames": 7628349,
+            "iso_3166_2": "LV-014"
         },
         "long": {
             "default": "Baltinava"
@@ -832,7 +848,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "57",
+            "fips": "LG57",
             "geonames": 7628350
         },
         "long": {
@@ -842,7 +858,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "78",
+            "fips": "LG78",
             "geonames": 7628351
         },
         "long": {
@@ -862,8 +878,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "55",
-            "geonames": 7628353
+            "fips": "LG55",
+            "geonames": 7628353,
+            "iso_3166_2": "LV-021"
         },
         "long": {
             "default": "Cesvaine"
@@ -872,7 +889,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "91",
+            "fips": "LG91",
             "geonames": 7628354
         },
         "long": {
@@ -882,7 +899,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "85",
+            "fips": "LG85",
             "geonames": 7628355
         },
         "long": {
@@ -902,8 +919,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "82",
-            "geonames": 7628357
+            "fips": "LG82",
+            "geonames": 7628357,
+            "iso_3166_2": "LV-046"
         },
         "long": {
             "default": "Koknese"
@@ -912,7 +930,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "68",
+            "fips": "LG68",
             "geonames": 7628358
         },
         "long": {
@@ -932,7 +950,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "70",
+            "fips": "LG70",
             "geonames": 7628360
         },
         "long": {
@@ -942,7 +960,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "84",
+            "fips": "LG84",
             "geonames": 7628361
         },
         "long": {
@@ -953,7 +971,8 @@
         "parent": "LV",
         "ids": {
             "fips": "C7",
-            "geonames": 7628362
+            "geonames": 7628362,
+            "iso_3166_2": "LV-091"
         },
         "long": {
             "default": "Sigulda"
@@ -962,7 +981,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "88",
+            "fips": "LG88",
             "geonames": 7628363
         },
         "long": {
@@ -972,7 +991,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "94",
+            "fips": "LG94",
             "geonames": 7628364
         },
         "long": {
@@ -1012,8 +1031,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "39",
-            "geonames": 7628368
+            "fips": "LG39",
+            "geonames": 7628368,
+            "iso_3166_2": "LV-005"
         },
         "long": {
             "default": "Aloja"
@@ -1022,7 +1042,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "97",
+            "fips": "LG97",
             "geonames": 7628369
         },
         "long": {
@@ -1042,7 +1062,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "96",
+            "fips": "LG96",
             "geonames": 7628371
         },
         "long": {
@@ -1052,7 +1072,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "52",
+            "fips": "LG52",
             "geonames": 7628372
         },
         "long": {
@@ -1072,7 +1092,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "81",
+            "fips": "LG81",
             "geonames": 7628374
         },
         "long": {
@@ -1082,7 +1102,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "42",
+            "fips": "LG42",
             "geonames": 7628375
         },
         "long": {
@@ -1122,7 +1142,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "50",
+            "fips": "LG50",
             "geonames": 7628379
         },
         "long": {
@@ -1142,8 +1162,9 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "72",
-            "geonames": 7628381
+            "fips": "LG72",
+            "geonames": 7628381,
+            "iso_3166_2": "LV-039"
         },
         "long": {
             "default": "Jaunpiebalga"
@@ -1152,7 +1173,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "63",
+            "fips": "LG63",
             "geonames": 7628382
         },
         "long": {
@@ -1172,7 +1193,7 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "43",
+            "fips": "LG43",
             "geonames": 7628384
         },
         "long": {

@@ -2,8 +2,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "22",
-            "geonames": 3587586
+            "fips": "GT22",
+            "geonames": 3587586,
+            "iso_3166_2": "GT-ZA"
         },
         "long": {
             "default": "Zacapa"
@@ -12,7 +13,7 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "21",
+            "fips": "GT21",
             "geonames": 3588257
         },
         "long": {
@@ -22,8 +23,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "20",
-            "geonames": 3588668
+            "fips": "GT20",
+            "geonames": 3588668,
+            "iso_3166_2": "GT-SU"
         },
         "long": {
             "default": "Suchitepeque"
@@ -32,7 +34,7 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "19",
+            "fips": "GT19",
             "geonames": 3588697
         },
         "long": {
@@ -42,8 +44,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "18",
-            "geonames": 3589172
+            "fips": "GT18",
+            "geonames": 3589172,
+            "iso_3166_2": "GT-SR"
         },
         "long": {
             "default": "Santa Rosa"
@@ -52,8 +55,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "17",
-            "geonames": 3589801
+            "fips": "GT17",
+            "geonames": 3589801,
+            "iso_3166_2": "GT-SM"
         },
         "long": {
             "default": "San Marcos"
@@ -62,7 +66,7 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "16",
+            "fips": "GT16",
             "geonames": 3590686
         },
         "long": {
@@ -72,8 +76,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "15",
-            "geonames": 3590857
+            "fips": "GT15",
+            "geonames": 3590857,
+            "iso_3166_2": "GT-RE"
         },
         "long": {
             "default": "Retalhuleu"
@@ -82,7 +87,7 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "14",
+            "fips": "GT14",
             "geonames": 3590964
         },
         "long": {
@@ -92,8 +97,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "13",
-            "geonames": 3590978
+            "fips": "GT13",
+            "geonames": 3590978,
+            "iso_3166_2": "GT-QZ"
         },
         "long": {
             "default": "Quetzaltenango"
@@ -102,7 +108,7 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "12",
+            "fips": "GT12",
             "geonames": 3591410
         },
         "long": {
@@ -112,8 +118,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "11",
-            "geonames": 3595067
+            "fips": "GT11",
+            "geonames": 3595067,
+            "iso_3166_2": "GT-JU"
         },
         "long": {
             "default": "Jutiapa"
@@ -122,8 +129,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "10",
-            "geonames": 3595236
+            "fips": "GT10",
+            "geonames": 3595236,
+            "iso_3166_2": "GT-JA"
         },
         "long": {
             "default": "Jalapa"
@@ -132,8 +140,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "09",
-            "geonames": 3595259
+            "fips": "GT09",
+            "geonames": 3595259,
+            "iso_3166_2": "GT-IZ"
         },
         "long": {
             "default": "Izabal"
@@ -142,8 +151,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "08",
-            "geonames": 3595415
+            "fips": "GT08",
+            "geonames": 3595415,
+            "iso_3166_2": "GT-HU"
         },
         "long": {
             "default": "Huehuetenango"
@@ -152,8 +162,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "07",
-            "geonames": 3595530
+            "fips": "GT07",
+            "geonames": 3595530,
+            "iso_3166_2": "GT-GU"
         },
         "long": {
             "default": "Guatemala"
@@ -162,8 +173,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "06",
-            "geonames": 3595802
+            "fips": "GT06",
+            "geonames": 3595802,
+            "iso_3166_2": "GT-ES"
         },
         "long": {
             "default": "Escuintla"
@@ -172,8 +184,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "05",
-            "geonames": 3596416
+            "fips": "GT05",
+            "geonames": 3596416,
+            "iso_3166_2": "GT-PR"
         },
         "long": {
             "default": "El Progreso"
@@ -182,8 +195,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "04",
-            "geonames": 3598464
+            "fips": "GT04",
+            "geonames": 3598464,
+            "iso_3166_2": "GT-CQ"
         },
         "long": {
             "default": "Chiquimula"
@@ -192,8 +206,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "03",
-            "geonames": 3598571
+            "fips": "GT03",
+            "geonames": 3598571,
+            "iso_3166_2": "GT-CM"
         },
         "long": {
             "default": "Chimaltenango"
@@ -202,8 +217,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "02",
-            "geonames": 3599602
+            "fips": "GT02",
+            "geonames": 3599602,
+            "iso_3166_2": "GT-BV"
         },
         "long": {
             "default": "Baja Verapaz"
@@ -212,8 +228,9 @@
     {
         "parent": "GT",
         "ids": {
-            "fips": "01",
-            "geonames": 3599773
+            "fips": "GT01",
+            "geonames": 3599773,
+            "iso_3166_2": "GT-AV"
         },
         "long": {
             "default": "Alta Verapaz"

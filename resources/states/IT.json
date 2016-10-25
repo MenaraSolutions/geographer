@@ -2,7 +2,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "15",
+            "fips": "IT15",
             "geonames": 2523119
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "14",
+            "fips": "IT14",
             "geonames": 2523228
         },
         "long": {
@@ -22,8 +22,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "03",
-            "geonames": 2525468
+            "fips": "IT03",
+            "geonames": 2525468,
+            "iso_3166_2": "IT-78"
         },
         "long": {
             "default": "Calabria"
@@ -32,8 +33,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "20",
-            "geonames": 3164604
+            "fips": "IT20",
+            "geonames": 3164604,
+            "iso_3166_2": "IT-34"
         },
         "long": {
             "default": "Veneto"
@@ -42,7 +44,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "19",
+            "fips": "IT19",
             "geonames": 3164857
         },
         "long": {
@@ -52,8 +54,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "18",
-            "geonames": 3165048
+            "fips": "IT18",
+            "geonames": 3165048,
+            "iso_3166_2": "IT-55"
         },
         "long": {
             "default": "Umbria"
@@ -62,8 +65,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "17",
-            "geonames": 3165244
+            "fips": "IT17",
+            "geonames": 3165244,
+            "iso_3166_2": "IT-32"
         },
         "long": {
             "default": "Trentino-Alto Adige"
@@ -72,7 +76,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "16",
+            "fips": "IT16",
             "geonames": 3165361
         },
         "long": {
@@ -82,7 +86,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "13",
+            "fips": "IT13",
             "geonames": 3169778
         },
         "long": {
@@ -92,7 +96,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "12",
+            "fips": "IT12",
             "geonames": 3170831
         },
         "long": {
@@ -102,8 +106,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "11",
-            "geonames": 3173222
+            "fips": "IT11",
+            "geonames": 3173222,
+            "iso_3166_2": "IT-67"
         },
         "long": {
             "default": "Molise"
@@ -112,7 +117,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "10",
+            "fips": "IT10",
             "geonames": 3174004
         },
         "long": {
@@ -122,7 +127,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "09",
+            "fips": "IT09",
             "geonames": 3174618
         },
         "long": {
@@ -132,8 +137,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "08",
-            "geonames": 3174725
+            "fips": "IT08",
+            "geonames": 3174725,
+            "iso_3166_2": "IT-42"
         },
         "long": {
             "default": "Liguria"
@@ -142,7 +148,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "07",
+            "fips": "IT07",
             "geonames": 3174976
         },
         "long": {
@@ -152,8 +158,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "06",
-            "geonames": 3176525
+            "fips": "IT06",
+            "geonames": 3176525,
+            "iso_3166_2": "IT-36"
         },
         "long": {
             "default": "Friuli Venezia Giulia"
@@ -162,8 +169,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "05",
-            "geonames": 3177401
+            "fips": "IT05",
+            "geonames": 3177401,
+            "iso_3166_2": "IT-45"
         },
         "long": {
             "default": "Emilia-Romagna"
@@ -172,8 +180,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "04",
-            "geonames": 3181042
+            "fips": "IT04",
+            "geonames": 3181042,
+            "iso_3166_2": "IT-72"
         },
         "long": {
             "default": "Campania"
@@ -182,7 +191,7 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "02",
+            "fips": "IT02",
             "geonames": 3182306
         },
         "long": {
@@ -192,8 +201,9 @@
     {
         "parent": "IT",
         "ids": {
-            "fips": "01",
-            "geonames": 3183560
+            "fips": "IT01",
+            "geonames": 3183560,
+            "iso_3166_2": "IT-65"
         },
         "long": {
             "default": "Abruzzo"

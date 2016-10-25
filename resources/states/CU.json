@@ -2,8 +2,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "16",
-            "geonames": 3534168
+            "fips": "CU16",
+            "geonames": 3534168,
+            "iso_3166_2": "CU-05"
         },
         "long": {
             "default": "Villa Clara"
@@ -12,8 +13,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "15",
-            "geonames": 3536725
+            "fips": "CU15",
+            "geonames": 3536725,
+            "iso_3166_2": "CU-13"
         },
         "long": {
             "default": "Santiago de Cuba"
@@ -22,8 +24,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "14",
-            "geonames": 3540665
+            "fips": "CU14",
+            "geonames": 3540665,
+            "iso_3166_2": "CU-07"
         },
         "long": {
             "default": "Sancti Spíritus"
@@ -32,7 +35,7 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "01",
+            "fips": "CU01",
             "geonames": 3544088
         },
         "long": {
@@ -42,8 +45,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "03",
-            "geonames": 3547394
+            "fips": "CU03",
+            "geonames": 3547394,
+            "iso_3166_2": "CU-04"
         },
         "long": {
             "default": "Matanzas"
@@ -52,8 +56,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "13",
-            "geonames": 3550595
+            "fips": "CU13",
+            "geonames": 3550595,
+            "iso_3166_2": "CU-10"
         },
         "long": {
             "default": "Las Tunas"
@@ -62,8 +67,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "04",
-            "geonames": 3556608
+            "fips": "CU04",
+            "geonames": 3556608,
+            "iso_3166_2": "CU-99"
         },
         "long": {
             "default": "Isla de la Juventud"
@@ -72,7 +78,7 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "12",
+            "fips": "CU12",
             "geonames": 3556965
         },
         "long": {
@@ -82,7 +88,7 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "10",
+            "fips": "CU10",
             "geonames": 3557685
         },
         "long": {
@@ -92,8 +98,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "09",
-            "geonames": 3558052
+            "fips": "CU09",
+            "geonames": 3558052,
+            "iso_3166_2": "CU-12"
         },
         "long": {
             "default": "Granma"
@@ -102,8 +109,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "02",
-            "geonames": 3564073
+            "fips": "CU02",
+            "geonames": 3564073,
+            "iso_3166_2": "CU-02"
         },
         "long": {
             "default": "La Habana"
@@ -112,8 +120,9 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "08",
-            "geonames": 3564120
+            "fips": "CU08",
+            "geonames": 3564120,
+            "iso_3166_2": "CU-06"
         },
         "long": {
             "default": "Cienfuegos"
@@ -122,7 +131,7 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "07",
+            "fips": "CU07",
             "geonames": 3564175
         },
         "long": {
@@ -132,7 +141,7 @@
     {
         "parent": "CU",
         "ids": {
-            "fips": "05",
+            "fips": "CU05",
             "geonames": 3566062
         },
         "long": {
@@ -143,7 +152,8 @@
         "parent": "CU",
         "ids": {
             "fips": "AR",
-            "geonames": 7668824
+            "geonames": 7668824,
+            "iso_3166_2": "CU-15"
         },
         "long": {
             "default": "Artemisa"
@@ -153,7 +163,8 @@
         "parent": "CU",
         "ids": {
             "fips": "MA",
-            "geonames": 7668827
+            "geonames": 7668827,
+            "iso_3166_2": "CU-16"
         },
         "long": {
             "default": "Mayabeque"

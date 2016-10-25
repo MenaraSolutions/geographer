@@ -3,7 +3,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "G2",
-            "geonames": 2179538
+            "geonames": 2179538,
+            "iso_3166_2": "NZ-WGN"
         },
         "long": {
             "default": "Wellington"
@@ -13,7 +14,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F3",
-            "geonames": 2179671
+            "geonames": 2179671,
+            "iso_3166_2": "NZ-MWT"
         },
         "long": {
             "default": "Manawatu-Wanganui"
@@ -23,7 +25,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "G1",
-            "geonames": 2180293
+            "geonames": 2180293,
+            "iso_3166_2": "NZ-WKO"
         },
         "long": {
             "default": "Waikato"
@@ -33,7 +36,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "TAS",
-            "geonames": 2181818
+            "geonames": 2181818,
+            "iso_3166_2": "NZ-TAS"
         },
         "long": {
             "default": "Tasman"
@@ -43,7 +47,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F9",
-            "geonames": 2181872
+            "geonames": 2181872,
+            "iso_3166_2": "NZ-TKI"
         },
         "long": {
             "default": "Taranaki"
@@ -53,7 +58,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F8",
-            "geonames": 2182501
+            "geonames": 2182501,
+            "iso_3166_2": "NZ-STL"
         },
         "long": {
             "default": "Southland"
@@ -83,7 +89,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F4",
-            "geonames": 2187304
+            "geonames": 2187304,
+            "iso_3166_2": "NZ-MBH"
         },
         "long": {
             "default": "Marlborough"
@@ -93,7 +100,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F2",
-            "geonames": 2190146
+            "geonames": 2190146,
+            "iso_3166_2": "NZ-HKB"
         },
         "long": {
             "default": "Hawke's Bay"
@@ -103,7 +111,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F1",
-            "geonames": 2190767
+            "geonames": 2190767,
+            "iso_3166_2": "NZ-GIS"
         },
         "long": {
             "default": "Gisborne"
@@ -113,7 +122,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "E9",
-            "geonames": 2192628
+            "geonames": 2192628,
+            "iso_3166_2": "NZ-CAN"
         },
         "long": {
             "default": "Canterbury"
@@ -123,7 +133,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "E7",
-            "geonames": 2193734
+            "geonames": 2193734,
+            "iso_3166_2": "NZ-AUK"
         },
         "long": {
             "default": "Auckland"
@@ -132,8 +143,9 @@
     {
         "parent": "NZ",
         "ids": {
-            "fips": "10",
-            "geonames": 4033013
+            "fips": "NZ10",
+            "geonames": 4033013,
+            "iso_3166_2": "NZ-CIT"
         },
         "long": {
             "default": "Chatham Islands"
@@ -143,7 +155,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F5",
-            "geonames": 6612108
+            "geonames": 6612108,
+            "iso_3166_2": "NZ-NSN"
         },
         "long": {
             "default": "Nelson"
@@ -153,7 +166,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "F7",
-            "geonames": 6612109
+            "geonames": 6612109,
+            "iso_3166_2": "NZ-OTA"
         },
         "long": {
             "default": "Otago"
@@ -163,7 +177,8 @@
         "parent": "NZ",
         "ids": {
             "fips": "G3",
-            "geonames": 6612113
+            "geonames": 6612113,
+            "iso_3166_2": "NZ-WTC"
         },
         "long": {
             "default": "West Coast"

@@ -2,7 +2,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "26",
+            "fips": "ID26",
             "geonames": 1213642
         },
         "long": {
@@ -12,8 +12,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "01",
-            "geonames": 1215638
+            "fips": "ID01",
+            "geonames": 1215638,
+            "iso_3166_2": "ID-AC"
         },
         "long": {
             "default": "Aceh"
@@ -22,8 +23,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "10",
-            "geonames": 1621176
+            "fips": "ID10",
+            "geonames": 1621176,
+            "iso_3166_2": "ID-YO"
         },
         "long": {
             "default": "Yogyakarta"
@@ -32,7 +34,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "32",
+            "fips": "ID32",
             "geonames": 1626196
         },
         "long": {
@@ -42,7 +44,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "24",
+            "fips": "ID24",
             "geonames": 1626197
         },
         "long": {
@@ -52,7 +54,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "31",
+            "fips": "ID31",
             "geonames": 1626229
         },
         "long": {
@@ -62,7 +64,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "22",
+            "fips": "ID22",
             "geonames": 1626230
         },
         "long": {
@@ -72,7 +74,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "21",
+            "fips": "ID21",
             "geonames": 1626231
         },
         "long": {
@@ -82,7 +84,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "38",
+            "fips": "ID38",
             "geonames": 1626232
         },
         "long": {
@@ -92,8 +94,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "37",
-            "geonames": 1629652
+            "fips": "ID37",
+            "geonames": 1629652,
+            "iso_3166_2": "ID-RI"
         },
         "long": {
             "default": "Riau"
@@ -102,7 +105,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "18",
+            "fips": "ID18",
             "geonames": 1633791
         },
         "long": {
@@ -112,7 +115,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "17",
+            "fips": "ID17",
             "geonames": 1633792
         },
         "long": {
@@ -122,8 +125,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "28",
-            "geonames": 1636627
+            "fips": "ID28",
+            "geonames": 1636627,
+            "iso_3166_2": "ID-MA"
         },
         "long": {
             "default": "Maluku"
@@ -132,8 +136,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "15",
-            "geonames": 1638535
+            "fips": "ID15",
+            "geonames": 1638535,
+            "iso_3166_2": "ID-LA"
         },
         "long": {
             "default": "Lampung"
@@ -142,7 +147,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "14",
+            "fips": "ID14",
             "geonames": 1641897
         },
         "long": {
@@ -152,7 +157,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "13",
+            "fips": "ID13",
             "geonames": 1641898
         },
         "long": {
@@ -162,7 +167,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "12",
+            "fips": "ID12",
             "geonames": 1641899
         },
         "long": {
@@ -172,7 +177,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "11",
+            "fips": "ID11",
             "geonames": 1641900
         },
         "long": {
@@ -182,7 +187,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "08",
+            "fips": "ID08",
             "geonames": 1642668
         },
         "long": {
@@ -192,7 +197,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "07",
+            "fips": "ID07",
             "geonames": 1642669
         },
         "long": {
@@ -202,7 +207,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "30",
+            "fips": "ID30",
             "geonames": 1642672
         },
         "long": {
@@ -212,8 +217,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "05",
-            "geonames": 1642856
+            "fips": "ID05",
+            "geonames": 1642856,
+            "iso_3166_2": "ID-JA"
         },
         "long": {
             "default": "Jambi"
@@ -222,7 +228,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "04",
+            "fips": "ID04",
             "geonames": 1642907
         },
         "long": {
@@ -232,8 +238,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "36",
-            "geonames": 1643012
+            "fips": "ID36",
+            "geonames": 1643012,
+            "iso_3166_2": "ID-PA"
         },
         "long": {
             "default": "Papua"
@@ -242,8 +249,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "03",
-            "geonames": 1649147
+            "fips": "ID03",
+            "geonames": 1649147,
+            "iso_3166_2": "ID-BE"
         },
         "long": {
             "default": "Bengkulu"
@@ -252,8 +260,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "02",
-            "geonames": 1650535
+            "fips": "ID02",
+            "geonames": 1650535,
+            "iso_3166_2": "ID-BA"
         },
         "long": {
             "default": "Bali"
@@ -262,8 +271,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "33",
-            "geonames": 1923045
+            "fips": "ID33",
+            "geonames": 1923045,
+            "iso_3166_2": "ID-BT"
         },
         "long": {
             "default": "Banten"
@@ -272,8 +282,9 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "34",
-            "geonames": 1923046
+            "fips": "ID34",
+            "geonames": 1923046,
+            "iso_3166_2": "ID-GO"
         },
         "long": {
             "default": "Gorontalo"
@@ -282,7 +293,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "35",
+            "fips": "ID35",
             "geonames": 1923047
         },
         "long": {
@@ -292,7 +303,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "29",
+            "fips": "ID29",
             "geonames": 1958070
         },
         "long": {
@@ -302,7 +313,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "39",
+            "fips": "ID39",
             "geonames": 1996549
         },
         "long": {
@@ -312,7 +323,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "41",
+            "fips": "ID41",
             "geonames": 1996550
         },
         "long": {
@@ -322,7 +333,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "40",
+            "fips": "ID40",
             "geonames": 1996551
         },
         "long": {
@@ -332,7 +343,7 @@
     {
         "parent": "ID",
         "ids": {
-            "fips": "42",
+            "fips": "ID42",
             "geonames": 8604684
         },
         "long": {

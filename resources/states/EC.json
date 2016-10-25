@@ -2,8 +2,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "20",
-            "geonames": 3649953
+            "fips": "EC20",
+            "geonames": 3649953,
+            "iso_3166_2": "EC-Z"
         },
         "long": {
             "default": "Zamora-Chinchipe"
@@ -12,8 +13,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "19",
-            "geonames": 3650445
+            "fips": "EC19",
+            "geonames": 3650445,
+            "iso_3166_2": "EC-T"
         },
         "long": {
             "default": "Tungurahua"
@@ -22,8 +24,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "18",
-            "geonames": 3653224
+            "fips": "EC18",
+            "geonames": 3653224,
+            "iso_3166_2": "EC-P"
         },
         "long": {
             "default": "Pichincha"
@@ -32,8 +35,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "17",
-            "geonames": 3653392
+            "fips": "EC17",
+            "geonames": 3653392,
+            "iso_3166_2": "EC-Y"
         },
         "long": {
             "default": "Pastaza"
@@ -42,8 +46,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "23",
-            "geonames": 3653890
+            "fips": "EC23",
+            "geonames": 3653890,
+            "iso_3166_2": "EC-N"
         },
         "long": {
             "default": "Napo"
@@ -52,8 +57,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "15",
-            "geonames": 3654005
+            "fips": "EC15",
+            "geonames": 3654005,
+            "iso_3166_2": "EC-S"
         },
         "long": {
             "default": "Morona-Santiago"
@@ -62,7 +68,7 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "14",
+            "fips": "EC14",
             "geonames": 3654451
         },
         "long": {
@@ -72,7 +78,7 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "13",
+            "fips": "EC13",
             "geonames": 3654592
         },
         "long": {
@@ -82,8 +88,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "12",
-            "geonames": 3654665
+            "fips": "EC12",
+            "geonames": 3654665,
+            "iso_3166_2": "EC-L"
         },
         "long": {
             "default": "Loja"
@@ -92,8 +99,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "11",
-            "geonames": 3655635
+            "fips": "EC11",
+            "geonames": 3655635,
+            "iso_3166_2": "EC-I"
         },
         "long": {
             "default": "Imbabura"
@@ -102,8 +110,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "10",
-            "geonames": 3657505
+            "fips": "EC10",
+            "geonames": 3657505,
+            "iso_3166_2": "EC-G"
         },
         "long": {
             "default": "Guayas"
@@ -112,7 +121,7 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "01",
+            "fips": "EC01",
             "geonames": 3657879
         },
         "long": {
@@ -122,8 +131,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "09",
-            "geonames": 3657986
+            "fips": "EC09",
+            "geonames": 3657986,
+            "iso_3166_2": "EC-E"
         },
         "long": {
             "default": "Esmeraldas"
@@ -132,8 +142,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "08",
-            "geonames": 3658195
+            "fips": "EC08",
+            "geonames": 3658195,
+            "iso_3166_2": "EC-O"
         },
         "long": {
             "default": "El Oro"
@@ -142,8 +153,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "07",
-            "geonames": 3658766
+            "fips": "EC07",
+            "geonames": 3658766,
+            "iso_3166_2": "EC-X"
         },
         "long": {
             "default": "Cotopaxi"
@@ -152,8 +164,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "06",
-            "geonames": 3659237
+            "fips": "EC06",
+            "geonames": 3659237,
+            "iso_3166_2": "EC-H"
         },
         "long": {
             "default": "Chimborazo"
@@ -162,8 +175,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "05",
-            "geonames": 3659718
+            "fips": "EC05",
+            "geonames": 3659718,
+            "iso_3166_2": "EC-C"
         },
         "long": {
             "default": "Carchi"
@@ -172,7 +186,7 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "04",
+            "fips": "EC04",
             "geonames": 3659849
         },
         "long": {
@@ -182,7 +196,7 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "03",
+            "fips": "EC03",
             "geonames": 3660130
         },
         "long": {
@@ -192,8 +206,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "02",
-            "geonames": 3660431
+            "fips": "EC02",
+            "geonames": 3660431,
+            "iso_3166_2": "EC-A"
         },
         "long": {
             "default": "Azuay"
@@ -202,8 +217,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "22",
-            "geonames": 3830305
+            "fips": "EC22",
+            "geonames": 3830305,
+            "iso_3166_2": "EC-U"
         },
         "long": {
             "default": "Sucumbios"
@@ -212,8 +228,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "24",
-            "geonames": 3830306
+            "fips": "EC24",
+            "geonames": 3830306,
+            "iso_3166_2": "EC-D"
         },
         "long": {
             "default": "Orellana"
@@ -222,7 +239,7 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "26",
+            "fips": "EC26",
             "geonames": 7062136
         },
         "long": {
@@ -232,8 +249,9 @@
     {
         "parent": "EC",
         "ids": {
-            "fips": "25",
-            "geonames": 7062138
+            "fips": "EC25",
+            "geonames": 7062138,
+            "iso_3166_2": "EC-SE"
         },
         "long": {
             "default": "Santa Elena"

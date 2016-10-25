@@ -2,7 +2,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "36",
+            "fips": "CE36",
             "geonames": 1223421
         },
         "long": {
@@ -12,7 +12,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "35",
+            "fips": "CE35",
             "geonames": 1225265
         },
         "long": {
@@ -22,7 +22,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "34",
+            "fips": "CE34",
             "geonames": 1227618
         },
         "long": {
@@ -32,7 +32,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "33",
+            "fips": "CE33",
             "geonames": 1228435
         },
         "long": {
@@ -42,7 +42,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "32",
+            "fips": "CE32",
             "geonames": 1232860
         },
         "long": {
@@ -52,7 +52,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "30",
+            "fips": "CE30",
             "geonames": 1232870
         },
         "long": {
@@ -62,7 +62,7 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "29",
+            "fips": "CE29",
             "geonames": 1249296
         },
         "long": {
@@ -72,8 +72,9 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "38",
-            "geonames": 7671049
+            "fips": "CE38",
+            "geonames": 7671049,
+            "iso_3166_2": "LK-4"
         },
         "long": {
             "default": "Northern Province"
@@ -82,8 +83,9 @@
     {
         "parent": "LK",
         "ids": {
-            "fips": "37",
-            "geonames": 8133521
+            "fips": "CE37",
+            "geonames": 8133521,
+            "iso_3166_2": "LK-5"
         },
         "long": {
             "default": "Eastern Province"
