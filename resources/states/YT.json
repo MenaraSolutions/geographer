@@ -2,8 +2,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97601",
-            "geonames": 7521421
+            "fips": false,
+            "geonames": 7521421,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Acoua"
@@ -12,8 +13,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97602",
-            "geonames": 7521422
+            "fips": false,
+            "geonames": 7521422,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bandraboua"
@@ -22,8 +24,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97603",
-            "geonames": 7521423
+            "fips": false,
+            "geonames": 7521423,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bandrele"
@@ -32,8 +35,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97604",
-            "geonames": 7521424
+            "fips": false,
+            "geonames": 7521424,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bouéni"
@@ -42,8 +46,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97605",
-            "geonames": 7521425
+            "fips": false,
+            "geonames": 7521425,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Chiconi"
@@ -52,8 +57,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97606",
-            "geonames": 7521426
+            "fips": false,
+            "geonames": 7521426,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Chirongui"
@@ -62,8 +68,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97607",
-            "geonames": 7521427
+            "fips": false,
+            "geonames": 7521427,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Dembeni"
@@ -72,8 +79,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97608",
-            "geonames": 7521428
+            "fips": false,
+            "geonames": 7521428,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Dzaoudzi"
@@ -82,8 +90,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97609",
-            "geonames": 7521429
+            "fips": false,
+            "geonames": 7521429,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Kani-Kéli"
@@ -92,8 +101,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97610",
-            "geonames": 7521430
+            "fips": false,
+            "geonames": 7521430,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Koungou"
@@ -102,8 +112,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97611",
-            "geonames": 7521431
+            "fips": false,
+            "geonames": 7521431,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Mamoudzou"
@@ -112,8 +123,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97612",
-            "geonames": 7521432
+            "fips": false,
+            "geonames": 7521432,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Mtsamboro"
@@ -122,8 +134,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97613",
-            "geonames": 7521433
+            "fips": false,
+            "geonames": 7521433,
+            "iso_3166_2": false
         },
         "long": {
             "default": "M'Tsangamouji"
@@ -132,8 +145,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97614",
-            "geonames": 7521434
+            "fips": false,
+            "geonames": 7521434,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Ouangani"
@@ -142,8 +156,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97615",
-            "geonames": 7521435
+            "fips": false,
+            "geonames": 7521435,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Pamandzi"
@@ -152,8 +167,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97616",
-            "geonames": 7521436
+            "fips": false,
+            "geonames": 7521436,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Sada"
@@ -162,8 +178,9 @@
     {
         "parent": "YT",
         "ids": {
-            "fips": "MF97617",
-            "geonames": 7521437
+            "fips": false,
+            "geonames": 7521437,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Tsingoni"

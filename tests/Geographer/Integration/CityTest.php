@@ -17,7 +17,7 @@ class CityTest extends \PHPUnit_Framework_TestCase
         'CK', 'CW', 'DM', 'FK', 'FO', 'PF', 'TF', 'GI', 'GL', 'GD', 'GU', 'GG', 'HM', 'VA', 'IM',
         'JE', 'KI', 'LI', 'MT', 'MH', 'FM', 'MC', 'MS', 'NR', 'NU', 'NF', 'MP', 'PW', 'PN', 'BL',
         'SH', 'KN', 'LC', 'MF', 'PM', 'VC', 'WS', 'SM', 'SC', 'SX', 'GS', 'SJ', 'TK', 'TO', 'TC',
-        'TV', 'UM', 'VU', 'VG', 'WF'
+        'TV', 'UM', 'VU', 'VG', 'WF', 'GF', 'HK', 'MO', 'YT', 'NC', 'PS', 'PR', 'RE', 'VI', 'EH'
     ];
 
     /**

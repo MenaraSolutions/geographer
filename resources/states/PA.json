@@ -14,17 +14,19 @@
         "parent": "PA",
         "ids": {
             "fips": "PM09",
-            "geonames": 3701537
+            "geonames": 3701537,
+            "iso_3166_2": "PA-KY"
         },
         "long": {
-            "default": "Guna Yala"
+            "default": "Kuna Yala"
         }
     },
     {
         "parent": "PA",
         "ids": {
             "fips": "PM08",
-            "geonames": 3703433
+            "geonames": 3703433,
+            "iso_3166_2": "PA-8"
         },
         "long": {
             "default": "Panamá"
@@ -56,7 +58,8 @@
         "parent": "PA",
         "ids": {
             "fips": "PM05",
-            "geonames": 3711671
+            "geonames": 3711671,
+            "iso_3166_2": "PA-5"
         },
         "long": {
             "default": "Darién"
@@ -66,7 +69,8 @@
         "parent": "PA",
         "ids": {
             "fips": "PM04",
-            "geonames": 3712073
+            "geonames": 3712073,
+            "iso_3166_2": "PA-3"
         },
         "long": {
             "default": "Colón"
@@ -76,7 +80,8 @@
         "parent": "PA",
         "ids": {
             "fips": "PM03",
-            "geonames": 3712162
+            "geonames": 3712162,
+            "iso_3166_2": "PA-2"
         },
         "long": {
             "default": "Coclé"
@@ -86,7 +91,8 @@
         "parent": "PA",
         "ids": {
             "fips": "PM02",
-            "geonames": 3712410
+            "geonames": 3712410,
+            "iso_3166_2": "PA-4"
         },
         "long": {
             "default": "Chiriquí"
@@ -107,7 +113,8 @@
         "parent": "PA",
         "ids": {
             "fips": "PM11",
-            "geonames": 7303686
+            "geonames": 7303686,
+            "iso_3166_2": "PA-EM"
         },
         "long": {
             "default": "Emberá"
@@ -117,10 +124,22 @@
         "parent": "PA",
         "ids": {
             "fips": "PM12",
-            "geonames": 7303688
+            "geonames": 7303688,
+            "iso_3166_2": "PA-NB"
         },
         "long": {
             "default": "Ngöbe-Buglé"
+        }
+    },
+    {
+        "parent": "PA",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "PA-10"
+        },
+        "long": {
+            "default": "Panamá Oeste"
         }
     }
 ]

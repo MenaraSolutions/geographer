@@ -61,6 +61,8 @@ class Country extends Divisible
      */
     public function getStates()
     {
-        return $this->getMembers();
+        return $this->getMembers()->filter(function($item) {
+            return ! empty($item->getIsoCode());
+        });
     }
 }

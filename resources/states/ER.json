@@ -3,7 +3,8 @@
         "parent": "ER",
         "ids": {
             "fips": "ER01",
-            "geonames": 448497
+            "geonames": 448497,
+            "iso_3166_2": "ER-AN"
         },
         "long": {
             "default": "Anseba"
@@ -13,7 +14,8 @@
         "parent": "ER",
         "ids": {
             "fips": "ER02",
-            "geonames": 448498
+            "geonames": 448498,
+            "iso_3166_2": "ER-DU"
         },
         "long": {
             "default": "Debub"
@@ -23,7 +25,8 @@
         "parent": "ER",
         "ids": {
             "fips": "ER03",
-            "geonames": 448499
+            "geonames": 448499,
+            "iso_3166_2": "ER-DK"
         },
         "long": {
             "default": "Southern Red Sea"
@@ -33,7 +36,8 @@
         "parent": "ER",
         "ids": {
             "fips": "ER04",
-            "geonames": 448500
+            "geonames": 448500,
+            "iso_3166_2": "ER-GB"
         },
         "long": {
             "default": "Gash-Barka"
@@ -43,7 +47,8 @@
         "parent": "ER",
         "ids": {
             "fips": "ER05",
-            "geonames": 448501
+            "geonames": 448501,
+            "iso_3166_2": "ER-MA"
         },
         "long": {
             "default": "Maekel"
@@ -53,7 +58,8 @@
         "parent": "ER",
         "ids": {
             "fips": "ER06",
-            "geonames": 448502
+            "geonames": 448502,
+            "iso_3166_2": "ER-SK"
         },
         "long": {
             "default": "Northern Red Sea"

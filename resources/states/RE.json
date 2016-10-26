@@ -2,8 +2,9 @@
     {
         "parent": "RE",
         "ids": {
-            "fips": "RE",
-            "geonames": 6690283
+            "fips": false,
+            "geonames": 6690283,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Réunion"

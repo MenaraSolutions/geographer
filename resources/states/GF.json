@@ -3,7 +3,8 @@
         "parent": "GF",
         "ids": {
             "fips": "GF",
-            "geonames": 6690605
+            "geonames": 6690605,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Guyane"

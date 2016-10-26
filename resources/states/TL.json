@@ -3,7 +3,8 @@
         "parent": "TL",
         "ids": {
             "fips": "VI",
-            "geonames": 1622470
+            "geonames": 1622470,
+            "iso_3166_2": "TL-VI"
         },
         "long": {
             "default": "Viqueque"
@@ -13,7 +14,8 @@
         "parent": "TL",
         "ids": {
             "fips": "MF",
-            "geonames": 1636309
+            "geonames": 1636309,
+            "iso_3166_2": "TL-MF"
         },
         "long": {
             "default": "Manufahi"
@@ -23,7 +25,8 @@
         "parent": "TL",
         "ids": {
             "fips": "MT",
-            "geonames": 1636525
+            "geonames": 1636525,
+            "iso_3166_2": "TL-MT"
         },
         "long": {
             "default": "Manatuto"
@@ -33,7 +36,8 @@
         "parent": "TL",
         "ids": {
             "fips": "LI",
-            "geonames": 1637729
+            "geonames": 1637729,
+            "iso_3166_2": "TL-LI"
         },
         "long": {
             "default": "Liquiçá"
@@ -43,7 +47,8 @@
         "parent": "TL",
         "ids": {
             "fips": "LA",
-            "geonames": 1638294
+            "geonames": 1638294,
+            "iso_3166_2": "TL-LA"
         },
         "long": {
             "default": "Lautém"
@@ -53,7 +58,8 @@
         "parent": "TL",
         "ids": {
             "fips": "CO",
-            "geonames": 1639462
+            "geonames": 1639462,
+            "iso_3166_2": "TL-CO"
         },
         "long": {
             "default": "Cova Lima"
@@ -63,17 +69,19 @@
         "parent": "TL",
         "ids": {
             "fips": "ER",
-            "geonames": 1644865
+            "geonames": 1644865,
+            "iso_3166_2": "TL-ER"
         },
         "long": {
-            "default": "Ermera District"
+            "default": "Ermera"
         }
     },
     {
         "parent": "TL",
         "ids": {
             "fips": "DI",
-            "geonames": 1645456
+            "geonames": 1645456,
+            "iso_3166_2": "TL-DI"
         },
         "long": {
             "default": "Díli"
@@ -83,7 +91,8 @@
         "parent": "TL",
         "ids": {
             "fips": "BO",
-            "geonames": 1648513
+            "geonames": 1648513,
+            "iso_3166_2": "TL-BO"
         },
         "long": {
             "default": "Bobonaro"
@@ -93,7 +102,8 @@
         "parent": "TL",
         "ids": {
             "fips": "BA",
-            "geonames": 1649538
+            "geonames": 1649538,
+            "iso_3166_2": "TL-BA"
         },
         "long": {
             "default": "Baucau"
@@ -103,17 +113,19 @@
         "parent": "TL",
         "ids": {
             "fips": "OE",
-            "geonames": 1651539
+            "geonames": 1651539,
+            "iso_3166_2": "TL-OE"
         },
         "long": {
-            "default": "Oecusse"
+            "default": "Oecussi"
         }
     },
     {
         "parent": "TL",
         "ids": {
             "fips": "AN",
-            "geonames": 1651809
+            "geonames": 1651809,
+            "iso_3166_2": "TL-AN"
         },
         "long": {
             "default": "Ainaro"
@@ -123,7 +135,8 @@
         "parent": "TL",
         "ids": {
             "fips": "AL",
-            "geonames": 1651815
+            "geonames": 1651815,
+            "iso_3166_2": "TL-AL"
         },
         "long": {
             "default": "Aileu"

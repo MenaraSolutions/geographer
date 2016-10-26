@@ -2,8 +2,9 @@
     {
         "parent": "RS",
         "ids": {
-            "fips": "VO",
-            "geonames": 784272
+            "fips": false,
+            "geonames": 784272,
+            "iso_3166_2": "RS-VO"
         },
         "long": {
             "default": "Vojvodina"
@@ -12,11 +13,12 @@
     {
         "parent": "RS",
         "ids": {
-            "fips": "SE",
-            "geonames": 785958
+            "fips": false,
+            "geonames": 785958,
+            "iso_3166_2": "RS-KM"
         },
         "long": {
-            "default": "Central Serbia"
+            "default": "Kosovo-Metohija"
         }
     }
 ]

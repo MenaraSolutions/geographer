@@ -2,8 +2,9 @@
     {
         "parent": "IE",
         "ids": {
-            "fips": "C",
-            "geonames": 7521313
+            "fips": false,
+            "geonames": 7521313,
+            "iso_3166_2": "IE-C"
         },
         "long": {
             "default": "Connaught"
@@ -12,8 +13,9 @@
     {
         "parent": "IE",
         "ids": {
-            "fips": "L",
-            "geonames": 7521314
+            "fips": false,
+            "geonames": 7521314,
+            "iso_3166_2": "IE-L"
         },
         "long": {
             "default": "Leinster"
@@ -22,8 +24,9 @@
     {
         "parent": "IE",
         "ids": {
-            "fips": "M",
-            "geonames": 7521315
+            "fips": false,
+            "geonames": 7521315,
+            "iso_3166_2": "IE-M"
         },
         "long": {
             "default": "Munster"
@@ -32,8 +35,9 @@
     {
         "parent": "IE",
         "ids": {
-            "fips": "U",
-            "geonames": 7521316
+            "fips": false,
+            "geonames": 7521316,
+            "iso_3166_2": "IE-U"
         },
         "long": {
             "default": "Ulster"

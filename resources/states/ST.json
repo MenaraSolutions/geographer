@@ -3,7 +3,8 @@
         "parent": "ST",
         "ids": {
             "fips": "TP02",
-            "geonames": 2410764
+            "geonames": 2410764,
+            "iso_3166_2": "ST-S"
         },
         "long": {
             "default": "São Tomé Island"
@@ -13,7 +14,8 @@
         "parent": "ST",
         "ids": {
             "fips": "TP01",
-            "geonames": 2410878
+            "geonames": 2410878,
+            "iso_3166_2": "ST-P"
         },
         "long": {
             "default": "Príncipe"

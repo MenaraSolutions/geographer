@@ -3,17 +3,19 @@
         "parent": "QA",
         "ids": {
             "fips": "QA08",
-            "geonames": 389462
+            "geonames": 389462,
+            "iso_3166_2": "QA-MS"
         },
         "long": {
-            "default": "Madīnat ash Shamāl"
+            "default": "Ash Shamāl"
         }
     },
     {
         "parent": "QA",
         "ids": {
             "fips": "QA04",
-            "geonames": 389465
+            "geonames": 389465,
+            "iso_3166_2": "QA-KH"
         },
         "long": {
             "default": "Al Khawr"
@@ -23,30 +25,33 @@
         "parent": "QA",
         "ids": {
             "fips": "QA09",
-            "geonames": 389467
+            "geonames": 389467,
+            "iso_3166_2": "QA-US"
         },
         "long": {
-            "default": "Baladīyat Umm Şalāl"
+            "default": "Umm Şalāl"
         }
     },
     {
         "parent": "QA",
         "ids": {
             "fips": "QA06",
-            "geonames": 389469
+            "geonames": 389469,
+            "iso_3166_2": "QA-RA"
         },
         "long": {
-            "default": "Baladīyat ar Rayyān"
+            "default": "Ar Rayyān"
         }
     },
     {
         "parent": "QA",
         "ids": {
             "fips": "QA01",
-            "geonames": 389470
+            "geonames": 389470,
+            "iso_3166_2": "QA-DA"
         },
         "long": {
-            "default": "Baladīyat ad Dawḩah"
+            "default": "Ad Dawḩah"
         }
     },
     {
@@ -64,10 +69,11 @@
         "parent": "QA",
         "ids": {
             "fips": "QA13",
-            "geonames": 8030540
+            "geonames": 8030540,
+            "iso_3166_2": "QA-ZA"
         },
         "long": {
-            "default": "Baladīyat az̧ Z̧a‘āyin"
+            "default": "Az̧ Z̧a‘āyin"
         }
     }
 ]

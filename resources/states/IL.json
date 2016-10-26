@@ -3,7 +3,8 @@
         "parent": "IL",
         "ids": {
             "fips": "IS06",
-            "geonames": 293198
+            "geonames": 293198,
+            "iso_3166_2": "IL-JM"
         },
         "long": {
             "default": "Jerusalem"
@@ -13,7 +14,8 @@
         "parent": "IL",
         "ids": {
             "fips": "IS05",
-            "geonames": 293396
+            "geonames": 293396,
+            "iso_3166_2": "IL-TA"
         },
         "long": {
             "default": "Tel Aviv"
@@ -23,7 +25,8 @@
         "parent": "IL",
         "ids": {
             "fips": "IS04",
-            "geonames": 294800
+            "geonames": 294800,
+            "iso_3166_2": "IL-HA"
         },
         "long": {
             "default": "Haifa"
@@ -33,7 +36,8 @@
         "parent": "IL",
         "ids": {
             "fips": "IS03",
-            "geonames": 294824
+            "geonames": 294824,
+            "iso_3166_2": "IL-Z"
         },
         "long": {
             "default": "Northern District"
@@ -43,7 +47,8 @@
         "parent": "IL",
         "ids": {
             "fips": "IS02",
-            "geonames": 294904
+            "geonames": 294904,
+            "iso_3166_2": "IL-M"
         },
         "long": {
             "default": "Central District"
@@ -53,7 +58,8 @@
         "parent": "IL",
         "ids": {
             "fips": "IS01",
-            "geonames": 294952
+            "geonames": 294952,
+            "iso_3166_2": "IL-D"
         },
         "long": {
             "default": "Southern District"

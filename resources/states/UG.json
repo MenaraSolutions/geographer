@@ -2,8 +2,9 @@
     {
         "parent": "UG",
         "ids": {
-            "fips": "C",
-            "geonames": 234594
+            "fips": false,
+            "geonames": 234594,
+            "iso_3166_2": "UG-C"
         },
         "long": {
             "default": "Central Region"
@@ -12,8 +13,9 @@
     {
         "parent": "UG",
         "ids": {
-            "fips": "E",
-            "geonames": 8260673
+            "fips": false,
+            "geonames": 8260673,
+            "iso_3166_2": "UG-E"
         },
         "long": {
             "default": "Eastern Region"
@@ -22,8 +24,9 @@
     {
         "parent": "UG",
         "ids": {
-            "fips": "N",
-            "geonames": 8260674
+            "fips": false,
+            "geonames": 8260674,
+            "iso_3166_2": "UG-N"
         },
         "long": {
             "default": "Northern Region"
@@ -32,8 +35,9 @@
     {
         "parent": "UG",
         "ids": {
-            "fips": "W",
-            "geonames": 8260675
+            "fips": false,
+            "geonames": 8260675,
+            "iso_3166_2": "UG-W"
         },
         "long": {
             "default": "Western Region"

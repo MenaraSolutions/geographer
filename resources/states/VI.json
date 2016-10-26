@@ -2,8 +2,9 @@
     {
         "parent": "VI",
         "ids": {
-            "fips": "VQ010",
-            "geonames": 7267902
+            "fips": false,
+            "geonames": 7267902,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saint Croix Island"
@@ -12,8 +13,9 @@
     {
         "parent": "VI",
         "ids": {
-            "fips": "VQ020",
-            "geonames": 7267903
+            "fips": false,
+            "geonames": 7267903,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saint John Island"
@@ -22,8 +24,9 @@
     {
         "parent": "VI",
         "ids": {
-            "fips": "VQ030",
-            "geonames": 7267904
+            "fips": false,
+            "geonames": 7267904,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Saint Thomas Island"

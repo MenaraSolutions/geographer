@@ -3,27 +3,30 @@
         "parent": "TW",
         "ids": {
             "fips": "TW01",
-            "geonames": 7280288
+            "geonames": 7280288,
+            "iso_3166_2": "TW-KIN"
         },
         "long": {
-            "default": "Fukien"
+            "default": "Kinmen"
         }
     },
     {
         "parent": "TW",
         "ids": {
             "fips": "TW02",
-            "geonames": 7280289
+            "geonames": 7280289,
+            "iso_3166_2": "TW-KHH"
         },
         "long": {
-            "default": "Takao"
+            "default": "Kaohsiung"
         }
     },
     {
         "parent": "TW",
         "ids": {
             "fips": "TW03",
-            "geonames": 7280290
+            "geonames": 7280290,
+            "iso_3166_2": "TW-TPE"
         },
         "long": {
             "default": "Taipei"
@@ -33,7 +36,8 @@
         "parent": "TW",
         "ids": {
             "fips": "TW04",
-            "geonames": 7280291
+            "geonames": 7280291,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Taiwan"

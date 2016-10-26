@@ -3,7 +3,8 @@
         "parent": "LU",
         "ids": {
             "fips": "LU03",
-            "geonames": 2960314
+            "geonames": 2960314,
+            "iso_3166_2": "LU-L"
         },
         "long": {
             "default": "Luxembourg"

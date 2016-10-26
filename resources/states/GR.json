@@ -2,8 +2,9 @@
     {
         "parent": "GR",
         "ids": {
-            "fips": "GR736572",
-            "geonames": 736572
+            "fips": "GR",
+            "geonames": 736572,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Mount Athos"
@@ -13,7 +14,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE31",
-            "geonames": 6692632
+            "geonames": 6692632,
+            "iso_3166_2": "GR-I"
         },
         "long": {
             "default": "Attica"
@@ -23,7 +25,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE24",
-            "geonames": 6697800
+            "geonames": 6697800,
+            "iso_3166_2": "GR-H"
         },
         "long": {
             "default": "Central Greece"
@@ -33,7 +36,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE12",
-            "geonames": 6697801
+            "geonames": 6697801,
+            "iso_3166_2": "GR-B"
         },
         "long": {
             "default": "Central Macedonia"
@@ -43,7 +47,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE43",
-            "geonames": 6697802
+            "geonames": 6697802,
+            "iso_3166_2": "GR-M"
         },
         "long": {
             "default": "Crete"
@@ -53,7 +58,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE11",
-            "geonames": 6697803
+            "geonames": 6697803,
+            "iso_3166_2": "GR-A"
         },
         "long": {
             "default": "East Macedonia and Thrace"
@@ -63,7 +69,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE21",
-            "geonames": 6697804
+            "geonames": 6697804,
+            "iso_3166_2": "GR-D"
         },
         "long": {
             "default": "Epirus"
@@ -73,7 +80,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE22",
-            "geonames": 6697805
+            "geonames": 6697805,
+            "iso_3166_2": "GR-F"
         },
         "long": {
             "default": "Ionian Islands"
@@ -83,7 +91,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE41",
-            "geonames": 6697806
+            "geonames": 6697806,
+            "iso_3166_2": "GR-K"
         },
         "long": {
             "default": "North Aegean"
@@ -93,7 +102,8 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE25",
-            "geonames": 6697807
+            "geonames": 6697807,
+            "iso_3166_2": "GR-J"
         },
         "long": {
             "default": "Peloponnese"
@@ -103,17 +113,19 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE42",
-            "geonames": 6697808
+            "geonames": 6697808,
+            "iso_3166_2": "GR-L"
         },
         "long": {
-            "default": "South Aegean"
+            "default": "Southern Aegean"
         }
     },
     {
         "parent": "GR",
         "ids": {
             "fips": "ESYE14",
-            "geonames": 6697809
+            "geonames": 6697809,
+            "iso_3166_2": "GR-E"
         },
         "long": {
             "default": "Thessaly"
@@ -123,20 +135,22 @@
         "parent": "GR",
         "ids": {
             "fips": "ESYE23",
-            "geonames": 6697810
+            "geonames": 6697810,
+            "iso_3166_2": "GR-G"
         },
         "long": {
-            "default": "West Greece"
+            "default": "Western Greece"
         }
     },
     {
         "parent": "GR",
         "ids": {
             "fips": "ESYE13",
-            "geonames": 6697811
+            "geonames": 6697811,
+            "iso_3166_2": "GR-C"
         },
         "long": {
-            "default": "West Macedonia"
+            "default": "Western Macedonia"
         }
     }
 ]

@@ -3,30 +3,33 @@
         "parent": "MV",
         "ids": {
             "fips": "MV47",
-            "geonames": 1281843
+            "geonames": 1281843,
+            "iso_3166_2": "MV-04"
         },
         "long": {
-            "default": "Vaavu Atholhu"
+            "default": "Vaavu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV46",
-            "geonames": 1281881
+            "geonames": 1281881,
+            "iso_3166_2": "MV-08"
         },
         "long": {
-            "default": "Thaa Atholhu"
+            "default": "Thaa Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV45",
-            "geonames": 1281892
+            "geonames": 1281892,
+            "iso_3166_2": "MV-24"
         },
         "long": {
-            "default": "Shaviyani Atholhu"
+            "default": "Shaviyani Atoll"
         }
     },
     {
@@ -44,7 +47,8 @@
         "parent": "MV",
         "ids": {
             "fips": "MV44",
-            "geonames": 1281918
+            "geonames": 1281918,
+            "iso_3166_2": "MV-13"
         },
         "long": {
             "default": "Raa Atoll"
@@ -54,7 +58,8 @@
         "parent": "MV",
         "ids": {
             "fips": "MV43",
-            "geonames": 1281937
+            "geonames": 1281937,
+            "iso_3166_2": "MV-25"
         },
         "long": {
             "default": "Noonu Atoll"
@@ -64,7 +69,8 @@
         "parent": "MV",
         "ids": {
             "fips": "MV42",
-            "geonames": 1281945
+            "geonames": 1281945,
+            "iso_3166_2": "MV-29"
         },
         "long": {
             "default": "Gnyaviyani Atoll"
@@ -74,20 +80,22 @@
         "parent": "MV",
         "ids": {
             "fips": "MV41",
-            "geonames": 1281985
+            "geonames": 1281985,
+            "iso_3166_2": "MV-12"
         },
         "long": {
-            "default": "Meemu Atholhu"
+            "default": "Meemu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV39",
-            "geonames": 1282096
+            "geonames": 1282096,
+            "iso_3166_2": "MV-03"
         },
         "long": {
-            "default": "Lhaviyani Atholhu"
+            "default": "Lhaviyani Atoll"
         }
     },
     {
@@ -105,7 +113,8 @@
         "parent": "MV",
         "ids": {
             "fips": "MV38",
-            "geonames": 1282208
+            "geonames": 1282208,
+            "iso_3166_2": "MV-26"
         },
         "long": {
             "default": "Kaafu Atoll"
@@ -115,77 +124,85 @@
         "parent": "MV",
         "ids": {
             "fips": "MV37",
-            "geonames": 1282293
+            "geonames": 1282293,
+            "iso_3166_2": "MV-23"
         },
         "long": {
-            "default": "Haa Dhaalu Atholhu"
+            "default": "Haa Dhaalu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV36",
-            "geonames": 1282294
+            "geonames": 1282294,
+            "iso_3166_2": "MV-07"
         },
         "long": {
-            "default": "Haa Alifu Atholhu"
+            "default": "Haa Alifu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV35",
-            "geonames": 1282328
+            "geonames": 1282328,
+            "iso_3166_2": "MV-28"
         },
         "long": {
-            "default": "Gaafu Dhaalu Atholhu"
+            "default": "Gaafu Dhaalu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV34",
-            "geonames": 1282329
+            "geonames": 1282329,
+            "iso_3166_2": "MV-27"
         },
         "long": {
-            "default": "Gaafu Alifu Atholhu"
+            "default": "Gaafu Alifu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV33",
-            "geonames": 1282393
+            "geonames": 1282393,
+            "iso_3166_2": "MV-14"
         },
         "long": {
-            "default": "Faafu Atholhu"
+            "default": "Faafu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV32",
-            "geonames": 1282447
+            "geonames": 1282447,
+            "iso_3166_2": "MV-17"
         },
         "long": {
-            "default": "Dhaalu Atholhu"
+            "default": "Dhaalu Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV31",
-            "geonames": 1282478
+            "geonames": 1282478,
+            "iso_3166_2": "MV-20"
         },
         "long": {
-            "default": "Baa Atholhu"
+            "default": "Baa Atoll"
         }
     },
     {
         "parent": "MV",
         "ids": {
             "fips": "MV30",
-            "geonames": 1282497
+            "geonames": 1282497,
+            "iso_3166_2": "MV-02"
         },
         "long": {
             "default": "Northern Ari Atoll"
@@ -194,8 +211,9 @@
     {
         "parent": "MV",
         "ids": {
-            "fips": "MV10346475",
-            "geonames": 10346475
+            "fips": false,
+            "geonames": 10346475,
+            "iso_3166_2": "MV-00"
         },
         "long": {
             "default": "Southern Ari Atoll"

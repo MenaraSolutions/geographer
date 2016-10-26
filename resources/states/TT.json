@@ -14,20 +14,22 @@
         "parent": "TT",
         "ids": {
             "fips": "TD10",
-            "geonames": 3573739
+            "geonames": 3573739,
+            "iso_3166_2": "TT-SFO"
         },
         "long": {
-            "default": "City of San Fernando"
+            "default": "San Fernando"
         }
     },
     {
         "parent": "TT",
         "ids": {
             "fips": "TD05",
-            "geonames": 3573891
+            "geonames": 3573891,
+            "iso_3166_2": "TT-POS"
         },
         "long": {
-            "default": "City of Port of Spain"
+            "default": "Port of Spain"
         }
     },
     {
@@ -38,24 +40,26 @@
             "iso_3166_2": "TT-MRC"
         },
         "long": {
-            "default": "Mayaro"
+            "default": "Mayaro-Rio Claro"
         }
     },
     {
         "parent": "TT",
         "ids": {
             "fips": "TD01",
-            "geonames": 3575052
+            "geonames": 3575052,
+            "iso_3166_2": "TT-ARI"
         },
         "long": {
-            "default": "Borough of Arima"
+            "default": "Arima"
         }
     },
     {
         "parent": "TT",
         "ids": {
-            "fips": "CHA",
-            "geonames": 7521937
+            "fips": false,
+            "geonames": 7521937,
+            "iso_3166_2": "TT-CHA"
         },
         "long": {
             "default": "Chaguanas"
@@ -64,8 +68,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "CTT",
-            "geonames": 7521938
+            "fips": false,
+            "geonames": 7521938,
+            "iso_3166_2": "TT-CTT"
         },
         "long": {
             "default": "Couva-Tabaquite-Talparo"
@@ -74,8 +79,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "DMN",
-            "geonames": 7521939
+            "fips": false,
+            "geonames": 7521939,
+            "iso_3166_2": "TT-DMN"
         },
         "long": {
             "default": "Diego Martin"
@@ -84,8 +90,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "ETO",
-            "geonames": 7521940
+            "fips": false,
+            "geonames": 7521940,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Eastern Tobago"
@@ -94,18 +101,20 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "PED",
-            "geonames": 7521941
+            "fips": false,
+            "geonames": 7521941,
+            "iso_3166_2": "TT-PED"
         },
         "long": {
-            "default": "Penal\/Debe"
+            "default": "Penal-Debe"
         }
     },
     {
         "parent": "TT",
         "ids": {
-            "fips": "PRT",
-            "geonames": 7521942
+            "fips": false,
+            "geonames": 7521942,
+            "iso_3166_2": "TT-PRT"
         },
         "long": {
             "default": "Princes Town"
@@ -114,8 +123,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "PTF",
-            "geonames": 7521943
+            "fips": false,
+            "geonames": 7521943,
+            "iso_3166_2": "TT-PTF"
         },
         "long": {
             "default": "Point Fortin"
@@ -124,8 +134,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "SGE",
-            "geonames": 7521944
+            "fips": false,
+            "geonames": 7521944,
+            "iso_3166_2": "TT-SGE"
         },
         "long": {
             "default": "Sangre Grande"
@@ -134,8 +145,9 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "SIP",
-            "geonames": 7521945
+            "fips": false,
+            "geonames": 7521945,
+            "iso_3166_2": "TT-SIP"
         },
         "long": {
             "default": "Siparia"
@@ -144,21 +156,23 @@
     {
         "parent": "TT",
         "ids": {
-            "fips": "SJL",
-            "geonames": 7521946
+            "fips": false,
+            "geonames": 7521946,
+            "iso_3166_2": "TT-SJL"
         },
         "long": {
-            "default": "San Juan\/Laventille"
+            "default": "San Juan-Laventille"
         }
     },
     {
         "parent": "TT",
         "ids": {
-            "fips": "TUP",
-            "geonames": 7521947
+            "fips": false,
+            "geonames": 7521947,
+            "iso_3166_2": "TT-TUP"
         },
         "long": {
-            "default": "Tunapuna\/Piarco"
+            "default": "Tunapuna-Piarco"
         }
     }
 ]

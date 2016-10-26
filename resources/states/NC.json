@@ -2,8 +2,9 @@
     {
         "parent": "NC",
         "ids": {
-            "fips": "NC02",
-            "geonames": 2140464
+            "fips": false,
+            "geonames": 2140464,
+            "iso_3166_2": false
         },
         "long": {
             "default": "South Province"
@@ -12,8 +13,9 @@
     {
         "parent": "NC",
         "ids": {
-            "fips": "NC01",
-            "geonames": 2140685
+            "fips": false,
+            "geonames": 2140685,
+            "iso_3166_2": false
         },
         "long": {
             "default": "North Province"
@@ -22,8 +24,9 @@
     {
         "parent": "NC",
         "ids": {
-            "fips": "NC03",
-            "geonames": 7521415
+            "fips": false,
+            "geonames": 7521415,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Loyalty Islands"

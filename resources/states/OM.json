@@ -3,17 +3,19 @@
         "parent": "OM",
         "ids": {
             "fips": "MU01",
-            "geonames": 411735
+            "geonames": 411735,
+            "iso_3166_2": "OM-DA"
         },
         "long": {
-            "default": "Muḩāfaz̧at ad Dākhilīyah"
+            "default": "Ad Dākhilīyah"
         }
     },
     {
         "parent": "OM",
         "ids": {
             "fips": "MU02",
-            "geonames": 411736
+            "geonames": 411736,
+            "iso_3166_2": "OM-BJ"
         },
         "long": {
             "default": "Al Batinah South Governorate"
@@ -23,7 +25,8 @@
         "parent": "OM",
         "ids": {
             "fips": "MU03",
-            "geonames": 411737
+            "geonames": 411737,
+            "iso_3166_2": "OM-WU"
         },
         "long": {
             "default": "Al Wusţá"
@@ -33,7 +36,8 @@
         "parent": "OM",
         "ids": {
             "fips": "MU04",
-            "geonames": 411738
+            "geonames": 411738,
+            "iso_3166_2": "OM-SJ"
         },
         "long": {
             "default": "Ash Sharqiyah South Governorate"
@@ -43,7 +47,8 @@
         "parent": "OM",
         "ids": {
             "fips": "MU09",
-            "geonames": 411739
+            "geonames": 411739,
+            "iso_3166_2": "OM-ZA"
         },
         "long": {
             "default": "Az̧ Z̧āhirah"
@@ -53,10 +58,11 @@
         "parent": "OM",
         "ids": {
             "fips": "MU06",
-            "geonames": 411740
+            "geonames": 411740,
+            "iso_3166_2": "OM-MA"
         },
         "long": {
-            "default": "Muḩāfaz̧at Masqaţ"
+            "default": "Masqaţ"
         }
     },
     {
@@ -74,7 +80,8 @@
         "parent": "OM",
         "ids": {
             "fips": "MU08",
-            "geonames": 411742
+            "geonames": 411742,
+            "iso_3166_2": "OM-ZU"
         },
         "long": {
             "default": "Z̧ufār"
@@ -84,17 +91,19 @@
         "parent": "OM",
         "ids": {
             "fips": "MU10",
-            "geonames": 7110710
+            "geonames": 7110710,
+            "iso_3166_2": "OM-BU"
         },
         "long": {
-            "default": "Al Buraimi"
+            "default": "Al Buraymi"
         }
     },
     {
         "parent": "OM",
         "ids": {
             "fips": "MU12",
-            "geonames": 8394433
+            "geonames": 8394433,
+            "iso_3166_2": "OM-SS"
         },
         "long": {
             "default": "Ash Sharqiyah North Governorate"
@@ -104,7 +113,8 @@
         "parent": "OM",
         "ids": {
             "fips": "MU11",
-            "geonames": 8394434
+            "geonames": 8394434,
+            "iso_3166_2": "OM-BS"
         },
         "long": {
             "default": "Al Batinah North Governorate"

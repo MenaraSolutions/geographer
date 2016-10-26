@@ -3,7 +3,8 @@
         "parent": "RW",
         "ids": {
             "fips": "RW11",
-            "geonames": 6413337
+            "geonames": 6413337,
+            "iso_3166_2": "RW-02"
         },
         "long": {
             "default": "Eastern Province"
@@ -13,7 +14,8 @@
         "parent": "RW",
         "ids": {
             "fips": "RW12",
-            "geonames": 6413338
+            "geonames": 6413338,
+            "iso_3166_2": "RW-01"
         },
         "long": {
             "default": "Kigali"
@@ -23,7 +25,8 @@
         "parent": "RW",
         "ids": {
             "fips": "RW13",
-            "geonames": 6413339
+            "geonames": 6413339,
+            "iso_3166_2": "RW-03"
         },
         "long": {
             "default": "Northern Province"
@@ -33,7 +36,8 @@
         "parent": "RW",
         "ids": {
             "fips": "RW14",
-            "geonames": 6413340
+            "geonames": 6413340,
+            "iso_3166_2": "RW-04"
         },
         "long": {
             "default": "Western Province"
@@ -43,7 +47,8 @@
         "parent": "RW",
         "ids": {
             "fips": "RW15",
-            "geonames": 6413341
+            "geonames": 6413341,
+            "iso_3166_2": "RW-05"
         },
         "long": {
             "default": "Southern Province"

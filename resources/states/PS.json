@@ -2,8 +2,9 @@
     {
         "parent": "PS",
         "ids": {
-            "fips": "GZ",
-            "geonames": 281132
+            "fips": false,
+            "geonames": 281132,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Gaza Strip"
@@ -12,8 +13,9 @@
     {
         "parent": "PS",
         "ids": {
-            "fips": "WE",
-            "geonames": 285153
+            "fips": false,
+            "geonames": 285153,
+            "iso_3166_2": false
         },
         "long": {
             "default": "West Bank"

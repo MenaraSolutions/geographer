@@ -3,7 +3,8 @@
         "parent": "DK",
         "ids": {
             "fips": "DA17",
-            "geonames": 6418538
+            "geonames": 6418538,
+            "iso_3166_2": "DK-84"
         },
         "long": {
             "default": "Capital Region"
@@ -13,17 +14,19 @@
         "parent": "DK",
         "ids": {
             "fips": "DA18",
-            "geonames": 6418539
+            "geonames": 6418539,
+            "iso_3166_2": "DK-82"
         },
         "long": {
-            "default": "Central Jutland"
+            "default": "Central Denmark"
         }
     },
     {
         "parent": "DK",
         "ids": {
             "fips": "DA19",
-            "geonames": 6418540
+            "geonames": 6418540,
+            "iso_3166_2": "DK-81"
         },
         "long": {
             "default": "North Denmark"
@@ -33,7 +36,8 @@
         "parent": "DK",
         "ids": {
             "fips": "DA20",
-            "geonames": 6418541
+            "geonames": 6418541,
+            "iso_3166_2": "DK-85"
         },
         "long": {
             "default": "Zealand"
@@ -43,7 +47,8 @@
         "parent": "DK",
         "ids": {
             "fips": "DA21",
-            "geonames": 6418542
+            "geonames": 6418542,
+            "iso_3166_2": "DK-83"
         },
         "long": {
             "default": "South Denmark"

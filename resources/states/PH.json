@@ -3,7 +3,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP14",
-            "geonames": 7115989
+            "geonames": 7115989,
+            "iso_3166_2": "PH-14"
         },
         "long": {
             "default": "Autonomous Region in Muslim Mindanao"
@@ -13,7 +14,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP10",
-            "geonames": 7521295
+            "geonames": 7521295,
+            "iso_3166_2": "PH-10"
         },
         "long": {
             "default": "Northern Mindanao"
@@ -23,7 +25,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP41",
-            "geonames": 7521296
+            "geonames": 7521296,
+            "iso_3166_2": "PH-41"
         },
         "long": {
             "default": "Mimaropa"
@@ -33,7 +36,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP02",
-            "geonames": 7521297
+            "geonames": 7521297,
+            "iso_3166_2": "PH-02"
         },
         "long": {
             "default": "Cagayan Valley"
@@ -43,7 +47,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP12",
-            "geonames": 7521298
+            "geonames": 7521298,
+            "iso_3166_2": "PH-12"
         },
         "long": {
             "default": "Soccsksargen"
@@ -53,7 +58,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP13",
-            "geonames": 7521299
+            "geonames": 7521299,
+            "iso_3166_2": "PH-13"
         },
         "long": {
             "default": "Caraga"
@@ -63,7 +69,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP15",
-            "geonames": 7521300
+            "geonames": 7521300,
+            "iso_3166_2": "PH-15"
         },
         "long": {
             "default": "Cordillera"
@@ -73,7 +80,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP01",
-            "geonames": 7521301
+            "geonames": 7521301,
+            "iso_3166_2": "PH-01"
         },
         "long": {
             "default": "Ilocos"
@@ -83,7 +91,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP40",
-            "geonames": 7521303
+            "geonames": 7521303,
+            "iso_3166_2": "PH-40"
         },
         "long": {
             "default": "Calabarzon"
@@ -93,7 +102,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP06",
-            "geonames": 7521304
+            "geonames": 7521304,
+            "iso_3166_2": "PH-06"
         },
         "long": {
             "default": "Western Visayas"
@@ -103,7 +113,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP03",
-            "geonames": 7521305
+            "geonames": 7521305,
+            "iso_3166_2": "PH-03"
         },
         "long": {
             "default": "Central Luzon"
@@ -113,7 +124,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP07",
-            "geonames": 7521306
+            "geonames": 7521306,
+            "iso_3166_2": "PH-07"
         },
         "long": {
             "default": "Central Visayas"
@@ -123,7 +135,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP08",
-            "geonames": 7521307
+            "geonames": 7521307,
+            "iso_3166_2": "PH-08"
         },
         "long": {
             "default": "Eastern Visayas"
@@ -133,7 +146,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP09",
-            "geonames": 7521308
+            "geonames": 7521308,
+            "iso_3166_2": "PH-09"
         },
         "long": {
             "default": "Zamboanga Peninsula"
@@ -143,7 +157,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP11",
-            "geonames": 7521309
+            "geonames": 7521309,
+            "iso_3166_2": "PH-11"
         },
         "long": {
             "default": "Davao"
@@ -153,7 +168,8 @@
         "parent": "PH",
         "ids": {
             "fips": "RP05",
-            "geonames": 7521310
+            "geonames": 7521310,
+            "iso_3166_2": "PH-05"
         },
         "long": {
             "default": "Bicol"
@@ -163,10 +179,11 @@
         "parent": "PH",
         "ids": {
             "fips": "NCR",
-            "geonames": 7521311
+            "geonames": 7521311,
+            "iso_3166_2": "PH-00"
         },
         "long": {
-            "default": "Metro Manila"
+            "default": "Capital Region"
         }
     }
 ]

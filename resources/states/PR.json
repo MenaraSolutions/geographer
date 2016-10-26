@@ -2,8 +2,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ001",
-            "geonames": 4562487
+            "fips": false,
+            "geonames": 4562487,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Adjuntas"
@@ -12,8 +13,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ003",
-            "geonames": 4562503
+            "fips": false,
+            "geonames": 4562503,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Aguada"
@@ -22,8 +24,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ005",
-            "geonames": 4562512
+            "fips": false,
+            "geonames": 4562512,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Aguadilla"
@@ -32,8 +35,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ007",
-            "geonames": 4562516
+            "fips": false,
+            "geonames": 4562516,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Aguas Buenas"
@@ -42,8 +46,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ009",
-            "geonames": 4562531
+            "fips": false,
+            "geonames": 4562531,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Aibonito"
@@ -52,8 +57,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ011",
-            "geonames": 4562605
+            "fips": false,
+            "geonames": 4562605,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Añasco"
@@ -62,8 +68,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ013",
-            "geonames": 4562640
+            "fips": false,
+            "geonames": 4562640,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Arecibo"
@@ -72,8 +79,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ015",
-            "geonames": 4562682
+            "fips": false,
+            "geonames": 4562682,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Arroyo"
@@ -82,8 +90,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ017",
-            "geonames": 4562771
+            "fips": false,
+            "geonames": 4562771,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Barceloneta"
@@ -92,8 +101,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ019",
-            "geonames": 4562779
+            "fips": false,
+            "geonames": 4562779,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Barranquitas"
@@ -102,8 +112,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ021",
-            "geonames": 4562837
+            "fips": false,
+            "geonames": 4562837,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bayamón"
@@ -112,8 +123,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ023",
-            "geonames": 4562997
+            "fips": false,
+            "geonames": 4562997,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Cabo Rojo"
@@ -122,8 +134,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ025",
-            "geonames": 4563011
+            "fips": false,
+            "geonames": 4563011,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Caguas"
@@ -132,8 +145,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ027",
-            "geonames": 4563065
+            "fips": false,
+            "geonames": 4563065,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Camuy"
@@ -142,8 +156,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ029",
-            "geonames": 4563169
+            "fips": false,
+            "geonames": 4563169,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Canovanas"
@@ -152,8 +167,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ031",
-            "geonames": 4563244
+            "fips": false,
+            "geonames": 4563244,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Carolina"
@@ -162,8 +178,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ033",
-            "geonames": 4563299
+            "fips": false,
+            "geonames": 4563299,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Catano"
@@ -172,8 +189,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ035",
-            "geonames": 4563309
+            "fips": false,
+            "geonames": 4563309,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Cayey"
@@ -182,8 +200,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ037",
-            "geonames": 4563380
+            "fips": false,
+            "geonames": 4563380,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Ceiba"
@@ -192,8 +211,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ039",
-            "geonames": 4563774
+            "fips": false,
+            "geonames": 4563774,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Ciales"
@@ -202,8 +222,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ041",
-            "geonames": 4563778
+            "fips": false,
+            "geonames": 4563778,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Cidra"
@@ -212,8 +233,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ043",
-            "geonames": 4563812
+            "fips": false,
+            "geonames": 4563812,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Coamo"
@@ -222,8 +244,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ045",
-            "geonames": 4563921
+            "fips": false,
+            "geonames": 4563921,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Comerio"
@@ -232,8 +255,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ047",
-            "geonames": 4564004
+            "fips": false,
+            "geonames": 4564004,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Corozal"
@@ -242,8 +266,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ049",
-            "geonames": 4564071
+            "fips": false,
+            "geonames": 4564071,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Culebra"
@@ -252,8 +277,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ051",
-            "geonames": 4564134
+            "fips": false,
+            "geonames": 4564134,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Dorado"
@@ -262,8 +288,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ053",
-            "geonames": 4564949
+            "fips": false,
+            "geonames": 4564949,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Fajardo"
@@ -272,8 +299,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ054",
-            "geonames": 4564993
+            "fips": false,
+            "geonames": 4564993,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Florida"
@@ -282,8 +310,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ055",
-            "geonames": 4565091
+            "fips": false,
+            "geonames": 4565091,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Guanica"
@@ -292,8 +321,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ057",
-            "geonames": 4565107
+            "fips": false,
+            "geonames": 4565107,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Guayama"
@@ -302,8 +332,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ059",
-            "geonames": 4565112
+            "fips": false,
+            "geonames": 4565112,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Guayanilla"
@@ -312,8 +343,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ061",
-            "geonames": 4565120
+            "fips": false,
+            "geonames": 4565120,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Guaynabo"
@@ -322,8 +354,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ063",
-            "geonames": 4565126
+            "fips": false,
+            "geonames": 4565126,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Gurabo"
@@ -332,8 +365,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ065",
-            "geonames": 4565348
+            "fips": false,
+            "geonames": 4565348,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Hatillo"
@@ -342,8 +376,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ067",
-            "geonames": 4565381
+            "fips": false,
+            "geonames": 4565381,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Hormigueros"
@@ -352,8 +387,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ069",
-            "geonames": 4565449
+            "fips": false,
+            "geonames": 4565449,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Humacao"
@@ -362,8 +398,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ071",
-            "geonames": 4565581
+            "fips": false,
+            "geonames": 4565581,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Isabela"
@@ -372,8 +409,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ073",
-            "geonames": 4565684
+            "fips": false,
+            "geonames": 4565684,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Municipio de Jayuya"
@@ -382,8 +420,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ075",
-            "geonames": 4565713
+            "fips": false,
+            "geonames": 4565713,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Juana Diaz"
@@ -392,8 +431,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ077",
-            "geonames": 4565720
+            "fips": false,
+            "geonames": 4565720,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Municipio de Juncos"
@@ -402,8 +442,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ079",
-            "geonames": 4565900
+            "fips": false,
+            "geonames": 4565900,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Lajas"
@@ -412,8 +453,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ081",
-            "geonames": 4565910
+            "fips": false,
+            "geonames": 4565910,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Lares"
@@ -422,8 +464,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ083",
-            "geonames": 4565961
+            "fips": false,
+            "geonames": 4565961,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Las Marias"
@@ -432,8 +475,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ085",
-            "geonames": 4565981
+            "fips": false,
+            "geonames": 4565981,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Las Piedras"
@@ -442,8 +486,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ087",
-            "geonames": 4566025
+            "fips": false,
+            "geonames": 4566025,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Loiza"
@@ -452,8 +497,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ089",
-            "geonames": 4566106
+            "fips": false,
+            "geonames": 4566106,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Luquillo"
@@ -462,8 +508,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ091",
-            "geonames": 4566138
+            "fips": false,
+            "geonames": 4566138,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Manati"
@@ -472,8 +519,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ093",
-            "geonames": 4566180
+            "fips": false,
+            "geonames": 4566180,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Maricao"
@@ -482,8 +530,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ095",
-            "geonames": 4566209
+            "fips": false,
+            "geonames": 4566209,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Maunabo"
@@ -492,8 +541,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ097",
-            "geonames": 4566217
+            "fips": false,
+            "geonames": 4566217,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Mayaguez"
@@ -502,8 +552,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ099",
-            "geonames": 4566272
+            "fips": false,
+            "geonames": 4566272,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Moca"
@@ -512,8 +563,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ101",
-            "geonames": 4566334
+            "fips": false,
+            "geonames": 4566334,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Morovis"
@@ -522,8 +574,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ103",
-            "geonames": 4566397
+            "fips": false,
+            "geonames": 4566397,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Naguabo"
@@ -532,8 +585,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ105",
-            "geonames": 4566403
+            "fips": false,
+            "geonames": 4566403,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Naranjito"
@@ -542,8 +596,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ107",
-            "geonames": 4566456
+            "fips": false,
+            "geonames": 4566456,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Orocovis"
@@ -552,8 +607,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ109",
-            "geonames": 4566654
+            "fips": false,
+            "geonames": 4566654,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Patillas"
@@ -562,8 +618,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ111",
-            "geonames": 4566689
+            "fips": false,
+            "geonames": 4566689,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Penuelas"
@@ -572,8 +629,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ113",
-            "geonames": 4566886
+            "fips": false,
+            "geonames": 4566886,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Ponce"
@@ -582,8 +640,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ117",
-            "geonames": 4567727
+            "fips": false,
+            "geonames": 4567727,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Rincon"
@@ -592,8 +651,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ115",
-            "geonames": 4567734
+            "fips": false,
+            "geonames": 4567734,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Quebradillas"
@@ -602,8 +662,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ119",
-            "geonames": 4567823
+            "fips": false,
+            "geonames": 4567823,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Rio Grande"
@@ -612,8 +673,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ121",
-            "geonames": 4568015
+            "fips": false,
+            "geonames": 4568015,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Sabana Grande"
@@ -622,8 +684,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ123",
-            "geonames": 4568043
+            "fips": false,
+            "geonames": 4568043,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Salinas"
@@ -632,8 +695,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ125",
-            "geonames": 4568105
+            "fips": false,
+            "geonames": 4568105,
+            "iso_3166_2": false
         },
         "long": {
             "default": "San German"
@@ -642,8 +706,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ127",
-            "geonames": 4568138
+            "fips": false,
+            "geonames": 4568138,
+            "iso_3166_2": false
         },
         "long": {
             "default": "San Juan"
@@ -652,8 +717,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ129",
-            "geonames": 4568150
+            "fips": false,
+            "geonames": 4568150,
+            "iso_3166_2": false
         },
         "long": {
             "default": "San Lorenzo"
@@ -662,8 +728,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ131",
-            "geonames": 4568177
+            "fips": false,
+            "geonames": 4568177,
+            "iso_3166_2": false
         },
         "long": {
             "default": "San Sebastian"
@@ -672,8 +739,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ133",
-            "geonames": 4568213
+            "fips": false,
+            "geonames": 4568213,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Santa Isabel Municipio"
@@ -682,8 +750,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ135",
-            "geonames": 4568404
+            "fips": false,
+            "geonames": 4568404,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Toa Alta"
@@ -692,8 +761,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ137",
-            "geonames": 4568408
+            "fips": false,
+            "geonames": 4568408,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Toa Baja"
@@ -702,8 +772,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ139",
-            "geonames": 4568452
+            "fips": false,
+            "geonames": 4568452,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Trujillo Alto"
@@ -712,8 +783,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ141",
-            "geonames": 4568491
+            "fips": false,
+            "geonames": 4568491,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Utuado"
@@ -722,8 +794,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ143",
-            "geonames": 4568529
+            "fips": false,
+            "geonames": 4568529,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Vega Alta"
@@ -732,8 +805,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ145",
-            "geonames": 4568534
+            "fips": false,
+            "geonames": 4568534,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Vega Baja"
@@ -742,8 +816,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ149",
-            "geonames": 4568684
+            "fips": false,
+            "geonames": 4568684,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Villalba"
@@ -752,8 +827,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ151",
-            "geonames": 4568909
+            "fips": false,
+            "geonames": 4568909,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Yabucoa"
@@ -762,8 +838,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ153",
-            "geonames": 4568918
+            "fips": false,
+            "geonames": 4568918,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Yauco"
@@ -772,8 +849,9 @@
     {
         "parent": "PR",
         "ids": {
-            "fips": "RQ147",
-            "geonames": 4568924
+            "fips": false,
+            "geonames": 4568924,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Vieques Municipality"

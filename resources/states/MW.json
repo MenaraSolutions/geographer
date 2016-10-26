@@ -2,8 +2,9 @@
     {
         "parent": "MW",
         "ids": {
-            "fips": "S",
-            "geonames": 923817
+            "fips": false,
+            "geonames": 923817,
+            "iso_3166_2": "MW-S"
         },
         "long": {
             "default": "Southern Region"
@@ -12,8 +13,9 @@
     {
         "parent": "MW",
         "ids": {
-            "fips": "N",
-            "geonames": 924591
+            "fips": false,
+            "geonames": 924591,
+            "iso_3166_2": "MW-N"
         },
         "long": {
             "default": "Northern Region"
@@ -22,8 +24,9 @@
     {
         "parent": "MW",
         "ids": {
-            "fips": "C",
-            "geonames": 931597
+            "fips": false,
+            "geonames": 931597,
+            "iso_3166_2": "MW-C"
         },
         "long": {
             "default": "Central Region"
