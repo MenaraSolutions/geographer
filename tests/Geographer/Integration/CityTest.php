@@ -48,6 +48,8 @@ class CityTest extends \PHPUnit_Framework_TestCase
             }
 
             if (! in_array($country->getCode(), $this->emptyCountries)) {
+                if ($citiesCount == 0) echo $country->getCode();
+                if ($citiesCount == 0) echo count($country->getStates());
                 $this->assertTrue($citiesCount > 0);
             }
         }
