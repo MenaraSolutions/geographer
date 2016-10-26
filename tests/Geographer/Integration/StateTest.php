@@ -37,7 +37,7 @@ class StateTest extends Test
     }
 
     /**
-     * 
+     *
      */
     public function count_states_with_iso_codes()
     {
