@@ -57,6 +57,16 @@
     {
         "parent": "BI",
         "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "BI-RM"
+        },
+        "long": {
+            "default": "Rumonge"
+        }
+    },    {
+        "parent": "BI",
+        "ids": {
             "fips": "BY11",
             "geonames": 427700,
             "iso_3166_2": "BI-CA"

@@ -37,7 +37,7 @@
         "ids": {
             "fips": "BF23",
             "geonames": 3571815,
-            "iso_3166_2": "BS-NP"
+            "iso_3166_2": false
         },
         "long": {
             "default": "New Providence"

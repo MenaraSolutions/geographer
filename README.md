@@ -126,6 +126,8 @@ $earth->getCountries(); // A collection of all countries
 $earth->withoutMicro(); // Only countries that have population of at least 100,000
 ```
 
+By default, we will use ISO 3166-1 country classification.
+
 ## Country API
 
 Country objects got the following encapsulated data:
@@ -144,6 +146,9 @@ $country->getStates(); // A collection of all states
 ```
 
 Geonames, ISO 3166-1 alpha-2, alpha-3 and numeric codes are four viable options to reference country in your data store.
+
+By default, we will use ISO 3166-2 state classification. Therefore, states that don't have ISO 3166-2 codes are not visible by default.
+Please note that FIPS is a deprecated (abandoned) standard. It's better not to rely on it – new states and/or countries won't appear in FIPS.
 
 ## State API
 

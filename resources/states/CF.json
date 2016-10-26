@@ -3,7 +3,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT14",
-            "geonames": 236178
+            "geonames": 236178,
+            "iso_3166_2": "CF-VK"
         },
         "long": {
             "default": "Vakaga"
@@ -79,7 +80,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT16",
-            "geonames": 2383204
+            "geonames": 2383204,
+            "iso_3166_2": "CF-SE"
         },
         "long": {
             "default": "Sangha-Mbaéré"
@@ -89,7 +91,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT13",
-            "geonames": 2383650
+            "geonames": 2383650,
+            "iso_3166_2": "CF-OP"
         },
         "long": {
             "default": "Ouham-Pendé"
@@ -110,7 +113,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT17",
-            "geonames": 2383765
+            "geonames": 2383765,
+            "iso_3166_2": "CF-MP"
         },
         "long": {
             "default": "Ombella-M'Poko"
@@ -120,7 +124,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT09",
-            "geonames": 2384205
+            "geonames": 2384205,
+            "iso_3166_2": "CF-NM"
         },
         "long": {
             "default": "Nana-Mambéré"
@@ -141,7 +146,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT06",
-            "geonames": 2385836
+            "geonames": 2385836,
+            "iso_3166_2": "CF-KG"
         },
         "long": {
             "default": "Kémo"
@@ -151,7 +157,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT04",
-            "geonames": 2386161
+            "geonames": 2386161,
+            "iso_3166_2": "CF-HS"
         },
         "long": {
             "default": "Mambéré-Kadéï"
@@ -161,7 +168,8 @@
         "parent": "CF",
         "ids": {
             "fips": "CT15",
-            "geonames": 2386243
+            "geonames": 2386243,
+            "iso_3166_2": "CF-KB"
         },
         "long": {
             "default": "Nana-Grébizi"

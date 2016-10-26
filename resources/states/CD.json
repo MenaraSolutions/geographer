@@ -3,7 +3,8 @@
         "parent": "CD",
         "ids": {
             "fips": "CG12",
-            "geonames": 205413
+            "geonames": 205413,
+            "iso_3166_2": "CD-SK"
         },
         "long": {
             "default": "South Kivu"
@@ -24,7 +25,8 @@
         "parent": "CD",
         "ids": {
             "fips": "CG11",
-            "geonames": 206938
+            "geonames": 206938,
+            "iso_3166_2": "CD-NK"
         },
         "long": {
             "default": "Nord Kivu"
@@ -45,7 +47,8 @@
         "parent": "CD",
         "ids": {
             "fips": "CG04",
-            "geonames": 214138
+            "geonames": 214138,
+            "iso_3166_2": "CD-KE"
         },
         "long": {
             "default": "Kasaï-Oriental"
@@ -77,7 +80,8 @@
         "parent": "CD",
         "ids": {
             "fips": "CG02",
-            "geonames": 216661
+            "geonames": 216661,
+            "iso_3166_2": "CD-EQ"
         },
         "long": {
             "default": "Équateur"

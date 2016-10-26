@@ -39,6 +39,24 @@ class StateTest extends Test
     /**
      * 
      */
+    public function count_states_with_iso_codes()
+    {
+        $planet = (new Earth());
+        $countries = $planet->getCountries()->sortBy('code');
+
+        echo "\n";
+        foreach ($countries as $country) {
+            /**
+             * @var MemberCollection $states
+             */
+            $states = $country->getStates();
+            echo "Country " . $country->getCode() . ' has ' . count($states) . " states\n";
+        }
+    }
+
+    /**
+     *
+     */
     public function all_states_have_iso_codes()
     {
         $codes = file_get_contents(dirname(dirname(dirname(__FILE__))) . '/iso3166-2.csv');
@@ -73,7 +91,7 @@ class StateTest extends Test
             $meta = isset($countryData[$country->getCode()]) ? $countryData[$country->getCode()] : [];
 
             foreach ($states as &$state) {
-                if (!empty($state['ids']['iso_3166_2'])) $counter++;
+                if (!isset($state['ids']['iso_3166_2'])) $counter++;
                 $name = $state['long']['default'];
 
                 if (isset($state['ids']['iso_3166'])) unset($state['ids']['iso_3166']);
@@ -94,8 +112,8 @@ class StateTest extends Test
             }
 
             $total = count($meta);
-            if ($total == 0 || $counter >= $total) continue;
             echo "Country " . $country->getCode() . " has " . $counter . "/" . $total . " states\n";
+            if ($total == 0 || $counter >= $total) continue;
         }
 
         echo "Guesses: " . $guesses . "\n";
