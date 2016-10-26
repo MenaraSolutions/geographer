@@ -14,7 +14,8 @@
         "parent": "UY",
         "ids": {
             "fips": "UY18",
-            "geonames": 3440033
+            "geonames": 3440033,
+            "iso_3166_2": "UY-TA"
         },
         "long": {
             "default": "Tacuarembó"
@@ -35,7 +36,8 @@
         "parent": "UY",
         "ids": {
             "fips": "UY16",
-            "geonames": 3440645
+            "geonames": 3440645,
+            "iso_3166_2": "UY-SJ"
         },
         "long": {
             "default": "San José"
@@ -78,7 +80,8 @@
         "parent": "UY",
         "ids": {
             "fips": "UY12",
-            "geonames": 3440789
+            "geonames": 3440789,
+            "iso_3166_2": "UY-RN"
         },
         "long": {
             "default": "Río Negro"
@@ -88,7 +91,8 @@
         "parent": "UY",
         "ids": {
             "fips": "UY11",
-            "geonames": 3441242
+            "geonames": 3441242,
+            "iso_3166_2": "UY-PA"
         },
         "long": {
             "default": "Paysandú"
@@ -131,7 +135,8 @@
         "parent": "UY",
         "ids": {
             "fips": "UY07",
-            "geonames": 3442584
+            "geonames": 3442584,
+            "iso_3166_2": "UY-FD"
         },
         "long": {
             "default": "Florida"

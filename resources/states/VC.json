@@ -3,7 +3,8 @@
         "parent": "VC",
         "ids": {
             "fips": "VC05",
-            "geonames": 3577818
+            "geonames": 3577818,
+            "iso_3166_2": "VC-05"
         },
         "long": {
             "default": "Saint Patrick"
@@ -13,7 +14,8 @@
         "parent": "VC",
         "ids": {
             "fips": "VC04",
-            "geonames": 3577819
+            "geonames": 3577819,
+            "iso_3166_2": "VC-04"
         },
         "long": {
             "default": "Saint George"
@@ -23,7 +25,8 @@
         "parent": "VC",
         "ids": {
             "fips": "VC03",
-            "geonames": 3577821
+            "geonames": 3577821,
+            "iso_3166_2": "VC-03"
         },
         "long": {
             "default": "Saint David"
@@ -33,7 +36,8 @@
         "parent": "VC",
         "ids": {
             "fips": "VC02",
-            "geonames": 3577822
+            "geonames": 3577822,
+            "iso_3166_2": "VC-02"
         },
         "long": {
             "default": "Saint Andrew"
@@ -43,7 +47,8 @@
         "parent": "VC",
         "ids": {
             "fips": "VC06",
-            "geonames": 3577892
+            "geonames": 3577892,
+            "iso_3166_2": "VC-06"
         },
         "long": {
             "default": "Grenadines"

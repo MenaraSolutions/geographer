@@ -36,7 +36,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE20",
-            "geonames": 3626553
+            "geonames": 3626553,
+            "iso_3166_2": "VE-S"
         },
         "long": {
             "default": "Táchira"
@@ -46,7 +47,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE19",
-            "geonames": 3626655
+            "geonames": 3626655,
+            "iso_3166_2": "VE-R"
         },
         "long": {
             "default": "Sucre"
@@ -100,7 +102,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE14",
-            "geonames": 3632306
+            "geonames": 3632306,
+            "iso_3166_2": "VE-L"
         },
         "long": {
             "default": "Mérida"
@@ -121,7 +124,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE12",
-            "geonames": 3640017
+            "geonames": 3640017,
+            "iso_3166_2": "VE-J"
         },
         "long": {
             "default": "Guárico"
@@ -131,7 +135,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE24",
-            "geonames": 3640846
+            "geonames": 3640846,
+            "iso_3166_2": "VE-W"
         },
         "long": {
             "default": "Dependencias Federales"
@@ -141,17 +146,19 @@
         "parent": "VE",
         "ids": {
             "fips": "VE25",
-            "geonames": 3640847
+            "geonames": 3640847,
+            "iso_3166_2": "VE-A"
         },
         "long": {
-            "default": "Capital"
+            "default": "Distrito Federal"
         }
     },
     {
         "parent": "VE",
         "ids": {
             "fips": "VE11",
-            "geonames": 3640873
+            "geonames": 3640873,
+            "iso_3166_2": "VE-I"
         },
         "long": {
             "default": "Falcón"
@@ -194,7 +201,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE06",
-            "geonames": 3648106
+            "geonames": 3648106,
+            "iso_3166_2": "VE-F"
         },
         "long": {
             "default": "Bolívar"
@@ -237,7 +245,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE02",
-            "geonames": 3649198
+            "geonames": 3649198,
+            "iso_3166_2": "VE-B"
         },
         "long": {
             "default": "Anzoátegui"
@@ -247,7 +256,8 @@
         "parent": "VE",
         "ids": {
             "fips": "VE01",
-            "geonames": 3649302
+            "geonames": 3649302,
+            "iso_3166_2": "VE-Z"
         },
         "long": {
             "default": "Amazonas"

@@ -14,7 +14,8 @@
         "parent": "US",
         "ids": {
             "fips": "US11",
-            "geonames": 4138106
+            "geonames": 4138106,
+            "iso_3166_2": "US-DC"
         },
         "long": {
             "default": "Washington, D.C."
@@ -79,7 +80,8 @@
         "parent": "US",
         "ids": {
             "fips": "US24",
-            "geonames": 4361885
+            "geonames": 4361885,
+            "iso_3166_2": "US-MD"
         },
         "long": {
             "default": "Maryland"
@@ -176,6 +178,7 @@
     {
         "parent": "US",
         "ids": {
+            "fips": "US01",
             "geonames": 4829764,
             "iso_3166_2": "US-AL"
         },
@@ -429,7 +432,8 @@
         "parent": "US",
         "ids": {
             "fips": "US30",
-            "geonames": 5667009
+            "geonames": 5667009,
+            "iso_3166_2": "US-MT"
         },
         "long": {
             "default": "Montana"

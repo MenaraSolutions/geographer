@@ -3,7 +3,8 @@
         "parent": "UZ",
         "ids": {
             "fips": "UZ09",
-            "geonames": 453752
+            "geonames": 453752,
+            "iso_3166_2": "UZ-QR"
         },
         "long": {
             "default": "Karakalpakstan"
@@ -46,7 +47,8 @@
         "parent": "UZ",
         "ids": {
             "fips": "UZ02",
-            "geonames": 1114929
+            "geonames": 1114929,
+            "iso_3166_2": "UZ-BU"
         },
         "long": {
             "default": "Bukhara"
@@ -67,7 +69,8 @@
         "parent": "UZ",
         "ids": {
             "fips": "UZ13",
-            "geonames": 1484839
+            "geonames": 1484839,
+            "iso_3166_2": "UZ-TO"
         },
         "long": {
             "default": "Toshkent Shahri"
@@ -132,7 +135,8 @@
         "parent": "UZ",
         "ids": {
             "fips": "UZ03",
-            "geonames": 1484845
+            "geonames": 1484845,
+            "iso_3166_2": "UZ-FA"
         },
         "long": {
             "default": "Fergana"
