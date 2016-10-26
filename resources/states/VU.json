@@ -47,7 +47,8 @@
         "parent": "VU",
         "ids": {
             "fips": "NH17",
-            "geonames": 2208266
+            "geonames": 2208266,
+            "iso_3166_2": "VU-PAM"
         },
         "long": {
             "default": "Penama"

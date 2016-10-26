@@ -3,7 +3,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM25",
-            "geonames": 70222
+            "geonames": 70222,
+            "iso_3166_2": "YE-TA"
         },
         "long": {
             "default": "Ta‘izz"
@@ -24,7 +25,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM16",
-            "geonames": 71132
+            "geonames": 71132,
+            "iso_3166_2": "YE-SN"
         },
         "long": {
             "default": "Sanaa"
@@ -34,7 +36,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM15",
-            "geonames": 71333
+            "geonames": 71333,
+            "iso_3166_2": "YE-SD"
         },
         "long": {
             "default": "Şa‘dah"
@@ -55,7 +58,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM14",
-            "geonames": 72966
+            "geonames": 72966,
+            "iso_3166_2": "YE-MA"
         },
         "long": {
             "default": "Ma’rib"
@@ -65,7 +69,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM10",
-            "geonames": 73200
+            "geonames": 73200,
+            "iso_3166_2": "YE-MW"
         },
         "long": {
             "default": "Al Maḩwīt"
@@ -75,7 +80,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM21",
-            "geonames": 74222
+            "geonames": 74222,
+            "iso_3166_2": "YE-JA"
         },
         "long": {
             "default": "Al Jawf"
@@ -85,17 +91,19 @@
         "parent": "YE",
         "ids": {
             "fips": "YM04",
-            "geonames": 75411
+            "geonames": 75411,
+            "iso_3166_2": "YE-HD"
         },
         "long": {
-            "default": "Muḩāfaz̧at Ḩaḑramawt"
+            "default": "Ḩaḑramawt"
         }
     },
     {
         "parent": "YE",
         "ids": {
             "fips": "YM11",
-            "geonames": 76183
+            "geonames": 76183,
+            "iso_3166_2": "YE-DH"
         },
         "long": {
             "default": "Dhamār"
@@ -116,17 +124,19 @@
         "parent": "YE",
         "ids": {
             "fips": "YM08",
-            "geonames": 79416
+            "geonames": 79416,
+            "iso_3166_2": "YE-HU"
         },
         "long": {
-            "default": "Muḩāfaz̧at al Ḩudaydah"
+            "default": "Al Ḩudaydah"
         }
     },
     {
         "parent": "YE",
         "ids": {
             "fips": "YM20",
-            "geonames": 79838
+            "geonames": 79838,
+            "iso_3166_2": "YE-BA"
         },
         "long": {
             "default": "Al Bayḑāʼ"
@@ -136,10 +146,11 @@
         "parent": "YE",
         "ids": {
             "fips": "YM02",
-            "geonames": 80412
+            "geonames": 80412,
+            "iso_3166_2": "YE-AD"
         },
         "long": {
-            "default": "Aden"
+            "default": "Adan"
         }
     },
     {
@@ -157,7 +168,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM18",
-            "geonames": 6201193
+            "geonames": 6201193,
+            "iso_3166_2": "YE-DA"
         },
         "long": {
             "default": "Aḑ Ḑāli‘"
@@ -167,17 +179,19 @@
         "parent": "YE",
         "ids": {
             "fips": "YM19",
-            "geonames": 6201194
+            "geonames": 6201194,
+            "iso_3166_2": "YE-AM"
         },
         "long": {
-            "default": "Omran"
+            "default": "Amran"
         }
     },
     {
         "parent": "YE",
         "ids": {
             "fips": "YM22",
-            "geonames": 6201195
+            "geonames": 6201195,
+            "iso_3166_2": "YE-HJ"
         },
         "long": {
             "default": "Ḩajjah"
@@ -198,7 +212,8 @@
         "parent": "YE",
         "ids": {
             "fips": "YM24",
-            "geonames": 6201197
+            "geonames": 6201197,
+            "iso_3166_2": "YE-LA"
         },
         "long": {
             "default": "Laḩij"
@@ -219,10 +234,11 @@
         "parent": "YE",
         "ids": {
             "fips": "YM28",
-            "geonames": 9645387
+            "geonames": 9645387,
+            "iso_3166_2": "YE-SU"
         },
         "long": {
-            "default": "Soqatra Governorate"
+            "default": "Arkhabīl Suquţrá"
         }
     }
 ]

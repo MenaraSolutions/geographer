@@ -55,6 +55,53 @@ class StateTest extends Test
     }
 
     /**
+     * 
+     */
+    public function all_countries_got_correct_iso_state_count()
+    {
+        $input = file_get_contents(dirname(dirname(dirname(__FILE__))) . '/iso3166_table.txt');
+        $line = strtok($input, "\r\n");
+        $isoCounters = [];
+
+        while ($line !== false) {
+            list($code, $name, $counters) = explode("\t", $line);
+
+            preg_match_all('/(\d+)/', $counters, $numbers);
+
+            if (empty($numbers[0])) {
+                $numbers[0][] = "0";
+            } else if (count($numbers[0]) > 1) {
+                $sum = 0;
+
+                foreach ($numbers[0] as $number) { $sum += intval($number); }
+
+                $numbers[0][] = strval($sum);
+            }
+
+            $isoCounters[$code] = $numbers[0];
+            unset($numbers);
+            $line = strtok("\r\n");
+        }
+
+        $planet = (new Earth());
+        $countries = $planet->getCountries()->sortBy('code');
+
+        foreach ($countries as $country) {
+            /**
+             * @var MemberCollection $states
+             */
+            $states = $country->getStates();
+            $count = strval(count($states));
+
+            if (in_array($count, $isoCounters[$country->getCode()])) {
+
+            } else {
+                echo "State count mismatch for " . $country->getCode() . ": ${count} not in ".json_encode($isoCounters[$country->getCode()])." \n";
+            }
+        }
+    }
+
+    /**
      *
      */
     public function all_states_have_iso_codes()

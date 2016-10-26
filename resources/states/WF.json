@@ -2,31 +2,34 @@
     {
         "parent": "WF",
         "ids": {
-            "fips": "WF98613",
-            "geonames": 4034759
+            "fips": false,
+            "geonames": 4034759,
+            "iso_3166_2": "WF-UV"
         },
         "long": {
-            "default": "Circonscription d'Uvéa"
+            "default": "Uvéa"
         }
     },
     {
         "parent": "WF",
         "ids": {
-            "fips": "WF98612",
-            "geonames": 4034776
+            "fips": false,
+            "geonames": 4034776,
+            "iso_3166_2": "WF-SG"
         },
         "long": {
-            "default": "Circonscription de Sigavé"
+            "default": "Sigavé"
         }
     },
     {
         "parent": "WF",
         "ids": {
-            "fips": "WF98611",
-            "geonames": 4034884
+            "fips": false,
+            "geonames": 4034884,
+            "iso_3166_2": "WF-AL"
         },
         "long": {
-            "default": "Circonscription d'Alo"
+            "default": "'Alo"
         }
     }
 ]

@@ -3,7 +3,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM58",
-            "geonames": 1559969
+            "geonames": 1559969,
+            "iso_3166_2": "VN-22"
         },
         "long": {
             "default": "Nghệ An"
@@ -13,7 +14,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM59",
-            "geonames": 1559970
+            "geonames": 1559970,
+            "iso_3166_2": "VN-18"
         },
         "long": {
             "default": "Ninh Bình"
@@ -23,7 +25,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM60",
-            "geonames": 1559971
+            "geonames": 1559971,
+            "iso_3166_2": "VN-36"
         },
         "long": {
             "default": "Ninh Thuận"
@@ -33,7 +36,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM65",
-            "geonames": 1559972
+            "geonames": 1559972,
+            "iso_3166_2": "VN-52"
         },
         "long": {
             "default": "Sóc Trăng"
@@ -43,7 +47,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM67",
-            "geonames": 1559975
+            "geonames": 1559975,
+            "iso_3166_2": "VN-51"
         },
         "long": {
             "default": "Trà Vinh"
@@ -53,7 +58,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM68",
-            "geonames": 1559976
+            "geonames": 1559976,
+            "iso_3166_2": "VN-07"
         },
         "long": {
             "default": "Tuyên Quang"
@@ -63,7 +69,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM69",
-            "geonames": 1559977
+            "geonames": 1559977,
+            "iso_3166_2": "VN-49"
         },
         "long": {
             "default": "Vĩnh Long"
@@ -73,7 +80,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM70",
-            "geonames": 1559978
+            "geonames": 1559978,
+            "iso_3166_2": "VN-06"
         },
         "long": {
             "default": "Yên Bái"
@@ -83,7 +91,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM90",
-            "geonames": 1562412
+            "geonames": 1562412,
+            "iso_3166_2": "VN-02"
         },
         "long": {
             "default": "Lào Cai"
@@ -93,7 +102,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM37",
-            "geonames": 1564676
+            "geonames": 1564676,
+            "iso_3166_2": "VN-46"
         },
         "long": {
             "default": "Tiền Giang"
@@ -103,7 +113,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM66",
-            "geonames": 1565033
+            "geonames": 1565033,
+            "iso_3166_2": "VN-26"
         },
         "long": {
             "default": "Thừa Thiên-Huế"
@@ -113,7 +124,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM55",
-            "geonames": 1565088
+            "geonames": 1565088,
+            "iso_3166_2": "VN-28"
         },
         "long": {
             "default": "Kon Tum"
@@ -123,7 +135,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM34",
-            "geonames": 1566165
+            "geonames": 1566165,
+            "iso_3166_2": "VN-21"
         },
         "long": {
             "default": "Thanh Hóa"
@@ -133,7 +146,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM35",
-            "geonames": 1566338
+            "geonames": 1566338,
+            "iso_3166_2": "VN-20"
         },
         "long": {
             "default": "Thái Bình"
@@ -143,7 +157,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM33",
-            "geonames": 1566557
+            "geonames": 1566557,
+            "iso_3166_2": "VN-37"
         },
         "long": {
             "default": "Tây Ninh"
@@ -153,7 +168,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM32",
-            "geonames": 1567643
+            "geonames": 1567643,
+            "iso_3166_2": "VN-05"
         },
         "long": {
             "default": "Sơn La"
@@ -163,7 +179,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM64",
-            "geonames": 1568733
+            "geonames": 1568733,
+            "iso_3166_2": "VN-25"
         },
         "long": {
             "default": "Quảng Trị"
@@ -173,7 +190,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM30",
-            "geonames": 1568758
+            "geonames": 1568758,
+            "iso_3166_2": "VN-13"
         },
         "long": {
             "default": "Quảng Ninh"
@@ -183,7 +201,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM63",
-            "geonames": 1568769
+            "geonames": 1568769,
+            "iso_3166_2": "VN-29"
         },
         "long": {
             "default": "Quảng Ngãi"
@@ -193,7 +212,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM62",
-            "geonames": 1568839
+            "geonames": 1568839,
+            "iso_3166_2": "VN-24"
         },
         "long": {
             "default": "Quảng Bình"
@@ -203,7 +223,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM61",
-            "geonames": 1569805
+            "geonames": 1569805,
+            "iso_3166_2": "VN-32"
         },
         "long": {
             "default": "Phú Yên"
@@ -213,7 +234,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM53",
-            "geonames": 1572594
+            "geonames": 1572594,
+            "iso_3166_2": "VN-14"
         },
         "long": {
             "default": "Hòa Bình"
@@ -234,7 +256,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM39",
-            "geonames": 1576632
+            "geonames": 1576632,
+            "iso_3166_2": "VN-09"
         },
         "long": {
             "default": "Lạng Sơn"
@@ -244,7 +267,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM23",
-            "geonames": 1577882
+            "geonames": 1577882,
+            "iso_3166_2": "VN-35"
         },
         "long": {
             "default": "Lâm Đồng"
@@ -254,7 +278,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM89",
-            "geonames": 1577954
+            "geonames": 1577954,
+            "iso_3166_2": "VN-01"
         },
         "long": {
             "default": "Lai Châu"
@@ -264,7 +289,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM21",
-            "geonames": 1579008
+            "geonames": 1579008,
+            "iso_3166_2": "VN-47"
         },
         "long": {
             "default": "Kiến Giang"
@@ -274,7 +300,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM54",
-            "geonames": 1579634
+            "geonames": 1579634,
+            "iso_3166_2": "VN-34"
         },
         "long": {
             "default": "Khánh Hòa"
@@ -284,17 +311,19 @@
         "parent": "VN",
         "ids": {
             "fips": "VM20",
-            "geonames": 1580578
+            "geonames": 1580578,
+            "iso_3166_2": "VN-SG"
         },
         "long": {
-            "default": "Ho Chi Minh City"
+            "default": "Ho Chi Minh"
         }
     },
     {
         "parent": "VN",
         "ids": {
             "fips": "VM52",
-            "geonames": 1580700
+            "geonames": 1580700,
+            "iso_3166_2": "VN-23"
         },
         "long": {
             "default": "Hà Tĩnh"
@@ -304,7 +333,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM50",
-            "geonames": 1581030
+            "geonames": 1581030,
+            "iso_3166_2": "VN-03"
         },
         "long": {
             "default": "Hà Giang"
@@ -325,7 +355,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM44",
-            "geonames": 1581129
+            "geonames": 1581129,
+            "iso_3166_2": "VN-HN"
         },
         "long": {
             "default": "Ha Nội"
@@ -335,7 +366,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM87",
-            "geonames": 1581188
+            "geonames": 1581188,
+            "iso_3166_2": "VN-CT"
         },
         "long": {
             "default": "Cần Thơ"
@@ -345,7 +377,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM13",
-            "geonames": 1581297
+            "geonames": 1581297,
+            "iso_3166_2": "VN-HP"
         },
         "long": {
             "default": "Hải Phòng"
@@ -355,7 +388,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM47",
-            "geonames": 1581882
+            "geonames": 1581882,
+            "iso_3166_2": "VN-40"
         },
         "long": {
             "default": "Bình Thuận"
@@ -365,7 +399,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM09",
-            "geonames": 1582562
+            "geonames": 1582562,
+            "iso_3166_2": "VN-45"
         },
         "long": {
             "default": "Đồng Tháp"
@@ -375,7 +410,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM43",
-            "geonames": 1582720
+            "geonames": 1582720,
+            "iso_3166_2": "VN-39"
         },
         "long": {
             "default": "Đồng Nai"
@@ -385,7 +421,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM88",
-            "geonames": 1584169
+            "geonames": 1584169,
+            "iso_3166_2": "VN-33"
         },
         "long": {
             "default": "Ðắc Lắk"
@@ -395,7 +432,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM45",
-            "geonames": 1584534
+            "geonames": 1584534,
+            "iso_3166_2": "VN-43"
         },
         "long": {
             "default": "Bà Rịa-Vũng Tàu"
@@ -405,7 +443,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM05",
-            "geonames": 1586182
+            "geonames": 1586182,
+            "iso_3166_2": "VN-04"
         },
         "long": {
             "default": "Cao Bằng"
@@ -415,7 +454,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM46",
-            "geonames": 1587871
+            "geonames": 1587871,
+            "iso_3166_2": "VN-31"
         },
         "long": {
             "default": "Bình Định"
@@ -425,7 +465,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM03",
-            "geonames": 1587974
+            "geonames": 1587974,
+            "iso_3166_2": "VN-50"
         },
         "long": {
             "default": "Bến Tre"
@@ -446,7 +487,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM91",
-            "geonames": 1904987
+            "geonames": 1904987,
+            "iso_3166_2": "VN-72"
         },
         "long": {
             "default": "Ðắk Nông"
@@ -456,17 +498,19 @@
         "parent": "VN",
         "ids": {
             "fips": "VM92",
-            "geonames": 1905099
+            "geonames": 1905099,
+            "iso_3166_2": "VN-71"
         },
         "long": {
-            "default": "Tỉnh Ðiện Biên"
+            "default": "Ðiện Biên"
         }
     },
     {
         "parent": "VN",
         "ids": {
             "fips": "VM74",
-            "geonames": 1905412
+            "geonames": 1905412,
+            "iso_3166_2": "VN-56"
         },
         "long": {
             "default": "Bắc Ninh"
@@ -476,7 +520,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM71",
-            "geonames": 1905419
+            "geonames": 1905419,
+            "iso_3166_2": "VN-54"
         },
         "long": {
             "default": "Bắc Giang"
@@ -486,7 +531,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM78",
-            "geonames": 1905468
+            "geonames": 1905468,
+            "iso_3166_2": "VN-DN"
         },
         "long": {
             "default": "Đà Nẵng"
@@ -496,7 +542,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM75",
-            "geonames": 1905475
+            "geonames": 1905475,
+            "iso_3166_2": "VN-57"
         },
         "long": {
             "default": "Bình Dương"
@@ -506,7 +553,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM76",
-            "geonames": 1905480
+            "geonames": 1905480,
+            "iso_3166_2": "VN-58"
         },
         "long": {
             "default": "Bình Phước"
@@ -516,7 +564,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM85",
-            "geonames": 1905497
+            "geonames": 1905497,
+            "iso_3166_2": "VN-69"
         },
         "long": {
             "default": "Thái Nguyên"
@@ -526,7 +575,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM84",
-            "geonames": 1905516
+            "geonames": 1905516,
+            "iso_3166_2": "VN-"
         },
         "long": {
             "default": "Quảng Nam"
@@ -536,7 +586,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM83",
-            "geonames": 1905577
+            "geonames": 1905577,
+            "iso_3166_2": "VN-68"
         },
         "long": {
             "default": "Phú Thọ"
@@ -546,7 +597,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM82",
-            "geonames": 1905626
+            "geonames": 1905626,
+            "iso_3166_2": "VN-67"
         },
         "long": {
             "default": "Nam Định"
@@ -556,7 +608,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM80",
-            "geonames": 1905637
+            "geonames": 1905637,
+            "iso_3166_2": "VN-63"
         },
         "long": {
             "default": "Hà Nam"
@@ -566,7 +619,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM72",
-            "geonames": 1905669
+            "geonames": 1905669,
+            "iso_3166_2": "VN-53"
         },
         "long": {
             "default": "Bắc Kạn"
@@ -576,7 +630,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM73",
-            "geonames": 1905675
+            "geonames": 1905675,
+            "iso_3166_2": "VN-55"
         },
         "long": {
             "default": "Bạc Liêu"
@@ -586,7 +641,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM77",
-            "geonames": 1905678
+            "geonames": 1905678,
+            "iso_3166_2": "VN-59"
         },
         "long": {
             "default": "Cà Mau"
@@ -596,7 +652,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM79",
-            "geonames": 1905686
+            "geonames": 1905686,
+            "iso_3166_2": "VN-61"
         },
         "long": {
             "default": "Hải Dương"
@@ -606,7 +663,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM81",
-            "geonames": 1905699
+            "geonames": 1905699,
+            "iso_3166_2": "VN-66"
         },
         "long": {
             "default": "Hưng Yên"
@@ -616,7 +674,8 @@
         "parent": "VN",
         "ids": {
             "fips": "VM86",
-            "geonames": 1905856
+            "geonames": 1905856,
+            "iso_3166_2": "VN-70"
         },
         "long": {
             "default": "Vĩnh Phúc"

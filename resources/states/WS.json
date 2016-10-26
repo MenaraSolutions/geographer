@@ -3,7 +3,8 @@
         "parent": "WS",
         "ids": {
             "fips": "WS11",
-            "geonames": 4034910
+            "geonames": 4034910,
+            "iso_3166_2": "WS-VS"
         },
         "long": {
             "default": "Vaisigano"
@@ -13,7 +14,8 @@
         "parent": "WS",
         "ids": {
             "fips": "WS06",
-            "geonames": 4034943
+            "geonames": 4034943,
+            "iso_3166_2": "WS-VF"
         },
         "long": {
             "default": "Va‘a-o-Fonoti"
@@ -34,7 +36,8 @@
         "parent": "WS",
         "ids": {
             "fips": "WS09",
-            "geonames": 4035046
+            "geonames": 4035046,
+            "iso_3166_2": "WS-SA"
         },
         "long": {
             "default": "Satupa‘itea"
@@ -66,7 +69,8 @@
         "parent": "WS",
         "ids": {
             "fips": "WS05",
-            "geonames": 4035314
+            "geonames": 4035314,
+            "iso_3166_2": "WS-GE"
         },
         "long": {
             "default": "Gaga‘emauga"
@@ -76,7 +80,8 @@
         "parent": "WS",
         "ids": {
             "fips": "WS04",
-            "geonames": 4035383
+            "geonames": 4035383,
+            "iso_3166_2": "WS-FA"
         },
         "long": {
             "default": "Fa‘asaleleaga"
@@ -97,7 +102,8 @@
         "parent": "WS",
         "ids": {
             "fips": "WS02",
-            "geonames": 4035425
+            "geonames": 4035425,
+            "iso_3166_2": "WS-AL"
         },
         "long": {
             "default": "Aiga-i-le-Tai"

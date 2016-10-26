@@ -3,10 +3,11 @@
         "parent": "ZA",
         "ids": {
             "fips": "SF03",
-            "geonames": 967573
+            "geonames": 967573,
+            "iso_3166_2": "ZA-FS"
         },
         "long": {
-            "default": "Orange Free State"
+            "default": "Free State"
         }
     },
     {
@@ -79,7 +80,8 @@
         "parent": "ZA",
         "ids": {
             "fips": "SF10",
-            "geonames": 1085598
+            "geonames": 1085598,
+            "iso_3166_2": "ZA-NW"
         },
         "long": {
             "default": "North-West"

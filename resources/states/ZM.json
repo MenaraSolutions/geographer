@@ -3,7 +3,8 @@
         "parent": "ZM",
         "ids": {
             "fips": "ZA01",
-            "geonames": 896140
+            "geonames": 896140,
+            "iso_3166_2": "ZM-01"
         },
         "long": {
             "default": "Western"
@@ -13,7 +14,8 @@
         "parent": "ZM",
         "ids": {
             "fips": "ZA07",
-            "geonames": 896972
+            "geonames": 896972,
+            "iso_3166_2": "ZM-07"
         },
         "long": {
             "default": "Southern"
@@ -34,7 +36,8 @@
         "parent": "ZM",
         "ids": {
             "fips": "ZA05",
-            "geonames": 900601
+            "geonames": 900601,
+            "iso_3166_2": "ZM-05"
         },
         "long": {
             "default": "Northern"
@@ -66,7 +69,8 @@
         "parent": "ZM",
         "ids": {
             "fips": "ZA03",
-            "geonames": 917388
+            "geonames": 917388,
+            "iso_3166_2": "ZM-03"
         },
         "long": {
             "default": "Eastern"
@@ -87,10 +91,22 @@
         "parent": "ZM",
         "ids": {
             "fips": "ZA02",
-            "geonames": 921064
+            "geonames": 921064,
+            "iso_3166_2": "ZM-02"
         },
         "long": {
             "default": "Central"
+        }
+    },
+    {
+        "parent": "ZM",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "ZM-10"
+        },
+        "long": {
+            "default": "Muchinga"
         }
     }
 ]
