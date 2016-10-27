@@ -25,7 +25,8 @@
         "parent": "SA",
         "ids": {
             "fips": "SA14",
-            "geonames": 104514
+            "geonames": 104514,
+            "iso_3166_2": "SA-02"
         },
         "long": {
             "default": "Makkah"
@@ -35,7 +36,8 @@
         "parent": "SA",
         "ids": {
             "fips": "SA17",
-            "geonames": 105298
+            "geonames": 105298,
+            "iso_3166_2": "SA-09"
         },
         "long": {
             "default": "Jizan"
@@ -45,7 +47,8 @@
         "parent": "SA",
         "ids": {
             "fips": "SA13",
-            "geonames": 106280
+            "geonames": 106280,
+            "iso_3166_2": "SA-06"
         },
         "long": {
             "default": "Ḩāʼil"
@@ -66,17 +69,19 @@
         "parent": "SA",
         "ids": {
             "fips": "SA06",
-            "geonames": 108241
+            "geonames": 108241,
+            "iso_3166_2": "SA-04"
         },
         "long": {
-            "default": "Eastern Province"
+            "default": "Ash Sharqīyah"
         }
     },
     {
         "parent": "SA",
         "ids": {
             "fips": "SA10",
-            "geonames": 108411
+            "geonames": 108411,
+            "iso_3166_2": "SA-01"
         },
         "long": {
             "default": "Ar Riyāḑ"
@@ -86,7 +91,8 @@
         "parent": "SA",
         "ids": {
             "fips": "SA08",
-            "geonames": 108933
+            "geonames": 108933,
+            "iso_3166_2": "SA-05"
         },
         "long": {
             "default": "Al-Qassim"
@@ -118,10 +124,11 @@
         "parent": "SA",
         "ids": {
             "fips": "SA15",
-            "geonames": 109579
+            "geonames": 109579,
+            "iso_3166_2": "SA-08"
         },
         "long": {
-            "default": "Northern Borders"
+            "default": "Al Ḩudūd ash Shamālīyah"
         }
     },
     {

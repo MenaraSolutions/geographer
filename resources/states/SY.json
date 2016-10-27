@@ -36,7 +36,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY11",
-            "geonames": 169575
+            "geonames": 169575,
+            "iso_3166_2": "SY-HI"
         },
         "long": {
             "default": "Homs"
@@ -46,7 +47,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY10",
-            "geonames": 170015
+            "geonames": 170015,
+            "iso_3166_2": "SY-HM"
         },
         "long": {
             "default": "Hama"
@@ -56,7 +58,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY09",
-            "geonames": 170062
+            "geonames": 170062,
+            "iso_3166_2": "SY-HL"
         },
         "long": {
             "default": "Aleppo"
@@ -66,7 +69,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY08",
-            "geonames": 170652
+            "geonames": 170652,
+            "iso_3166_2": "SY-RD"
         },
         "long": {
             "default": "Rif-dimashq"
@@ -76,7 +80,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY07",
-            "geonames": 170792
+            "geonames": 170792,
+            "iso_3166_2": "SY-DY"
         },
         "long": {
             "default": "Deir ez-Zor"
@@ -86,7 +91,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY06",
-            "geonames": 170903
+            "geonames": 170903,
+            "iso_3166_2": "SY-DR"
         },
         "long": {
             "default": "Daraa"
@@ -96,7 +102,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY05",
-            "geonames": 172410
+            "geonames": 172410,
+            "iso_3166_2": "SY-SU"
         },
         "long": {
             "default": "As-Suwayda"
@@ -106,7 +113,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY04",
-            "geonames": 172957
+            "geonames": 172957,
+            "iso_3166_2": "SY-RA"
         },
         "long": {
             "default": "Ar-Raqqah"
@@ -116,7 +124,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY03",
-            "geonames": 173336
+            "geonames": 173336,
+            "iso_3166_2": "SY-QU"
         },
         "long": {
             "default": "Quneitra"
@@ -126,7 +135,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY02",
-            "geonames": 173578
+            "geonames": 173578,
+            "iso_3166_2": "SY-LA"
         },
         "long": {
             "default": "Latakia"
@@ -136,7 +146,8 @@
         "parent": "SY",
         "ids": {
             "fips": "SY01",
-            "geonames": 173813
+            "geonames": 173813,
+            "iso_3166_2": "SY-HA"
         },
         "long": {
             "default": "Al-Hasakah"

@@ -76,6 +76,8 @@ class StateTest extends Test
                 foreach ($numbers[0] as $number) { $sum += intval($number); }
 
                 $numbers[0][] = strval($sum);
+
+                if (count($numbers[0]) > 2) { $numbers[0][] = $numbers[0][0] + $numbers[0][1]; }
             }
 
             $isoCounters[$code] = $numbers[0];
@@ -85,6 +87,7 @@ class StateTest extends Test
 
         $planet = (new Earth());
         $countries = $planet->getCountries()->sortBy('code');
+        $this->assertEquals(count($countries), count($isoCounters));
 
         foreach ($countries as $country) {
             /**

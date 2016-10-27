@@ -14,7 +14,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD12",
-            "geonames": 242246
+            "geonames": 242246,
+            "iso_3166_2": "TD-OD"
         },
         "long": {
             "default": "Ouadaï"
@@ -35,7 +36,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD14",
-            "geonames": 2425287
+            "geonames": 2425287,
+            "iso_3166_2": "TD-TA"
         },
         "long": {
             "default": "Tandjilé"
@@ -111,7 +113,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD05",
-            "geonames": 2431555
+            "geonames": 2431555,
+            "iso_3166_2": "TD-GR"
         },
         "long": {
             "default": "Guéra"
@@ -187,7 +190,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD21",
-            "geonames": 7603254
+            "geonames": 7603254,
+            "iso_3166_2": "TD-ND"
         },
         "long": {
             "default": "N’Djaména"
@@ -208,7 +212,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD25",
-            "geonames": 7603257
+            "geonames": 7603257,
+            "iso_3166_2": "TD-SI"
         },
         "long": {
             "default": "Sila"
@@ -229,7 +234,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD28",
-            "geonames": 8604857
+            "geonames": 8604857,
+            "iso_3166_2": "TD-EO"
         },
         "long": {
             "default": "Ennedi-Ouest"
@@ -239,7 +245,8 @@
         "parent": "TD",
         "ids": {
             "fips": "CD27",
-            "geonames": 8604858
+            "geonames": 8604858,
+            "iso_3166_2": "TD-EE"
         },
         "long": {
             "default": "Ennedi-Est"

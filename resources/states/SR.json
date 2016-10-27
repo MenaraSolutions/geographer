@@ -14,7 +14,8 @@
         "parent": "SR",
         "ids": {
             "fips": "NS18",
-            "geonames": 3383062
+            "geonames": 3383062,
+            "iso_3166_2": "SR-SI"
         },
         "long": {
             "default": "Sipaliwini"
@@ -46,7 +47,8 @@
         "parent": "SR",
         "ids": {
             "fips": "NS15",
-            "geonames": 3383337
+            "geonames": 3383337,
+            "iso_3166_2": "SR-PR"
         },
         "long": {
             "default": "Para"

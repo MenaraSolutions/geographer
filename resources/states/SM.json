@@ -47,7 +47,8 @@
         "parent": "SM",
         "ids": {
             "fips": "SM06",
-            "geonames": 3345304
+            "geonames": 3345304,
+            "iso_3166_2": "SM-06"
         },
         "long": {
             "default": "Borgo Maggiore"
@@ -57,7 +58,8 @@
         "parent": "SM",
         "ids": {
             "fips": "SM03",
-            "geonames": 3345305
+            "geonames": 3345305,
+            "iso_3166_2": "SM-03"
         },
         "long": {
             "default": "Domagnano"
@@ -67,7 +69,8 @@
         "parent": "SM",
         "ids": {
             "fips": "SM04",
-            "geonames": 3345306
+            "geonames": 3345306,
+            "iso_3166_2": "SM-04"
         },
         "long": {
             "default": "Faetano"
@@ -77,7 +80,8 @@
         "parent": "SM",
         "ids": {
             "fips": "SM05",
-            "geonames": 3345307
+            "geonames": 3345307,
+            "iso_3166_2": "SM-05"
         },
         "long": {
             "default": "Fiorentino"
@@ -87,7 +91,8 @@
         "parent": "SM",
         "ids": {
             "fips": "SM08",
-            "geonames": 3345308
+            "geonames": 3345308,
+            "iso_3166_2": "SM-08"
         },
         "long": {
             "default": "Montegiardino"

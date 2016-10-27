@@ -14,17 +14,19 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ25",
-            "geonames": 148724
+            "geonames": 148724,
+            "iso_3166_2": "TZ-15"
         },
         "long": {
-            "default": "Zanzibar Urban\/West"
+            "default": "Zanzibar West"
         }
     },
     {
         "parent": "TZ",
         "ids": {
             "fips": "TZ22",
-            "geonames": 148725
+            "geonames": 148725,
+            "iso_3166_2": "TZ-07"
         },
         "long": {
             "default": "Zanzibar North"
@@ -34,10 +36,11 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ21",
-            "geonames": 148728
+            "geonames": 148728,
+            "iso_3166_2": "TZ-11"
         },
         "long": {
-            "default": "Zanzibar Central\/South"
+            "default": "Zanzibar South"
         }
     },
     {
@@ -110,7 +113,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ20",
-            "geonames": 150732
+            "geonames": 150732,
+            "iso_3166_2": "TZ-10"
         },
         "long": {
             "default": "Pemba South"
@@ -120,7 +124,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ13",
-            "geonames": 150733
+            "geonames": 150733,
+            "iso_3166_2": "TZ-06"
         },
         "long": {
             "default": "Pemba North"
@@ -130,7 +135,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ12",
-            "geonames": 152219
+            "geonames": 152219,
+            "iso_3166_2": "TZ-18"
         },
         "long": {
             "default": "Mwanza"
@@ -283,7 +289,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ31",
-            "geonames": 8469238
+            "geonames": 8469238,
+            "iso_3166_2": "TZ-30"
         },
         "long": {
             "default": "Simiyu"
@@ -293,7 +300,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ28",
-            "geonames": 8469239
+            "geonames": 8469239,
+            "iso_3166_2": "TZ-27"
         },
         "long": {
             "default": "Geita"
@@ -303,7 +311,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ29",
-            "geonames": 8469240
+            "geonames": 8469240,
+            "iso_3166_2": "TZ-28"
         },
         "long": {
             "default": "Katavi"
@@ -313,7 +322,8 @@
         "parent": "TZ",
         "ids": {
             "fips": "TZ30",
-            "geonames": 8469241
+            "geonames": 8469241,
+            "iso_3166_2": "TZ-29"
         },
         "long": {
             "default": "Njombe"

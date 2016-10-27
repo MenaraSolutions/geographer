@@ -3,7 +3,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N5",
-            "geonames": 3186843
+            "geonames": 3186843,
+            "iso_3166_2": "SI-190"
         },
         "long": {
             "default": "Žalec"
@@ -35,7 +36,8 @@
         "parent": "SI",
         "ids": {
             "fips": "D5",
-            "geonames": 3188687
+            "geonames": 3188687,
+            "iso_3166_2": "SI-131"
         },
         "long": {
             "default": "Tržič"
@@ -89,7 +91,8 @@
         "parent": "SI",
         "ids": {
             "fips": "C5",
-            "geonames": 3190509
+            "geonames": 3190509,
+            "iso_3166_2": "SI-124"
         },
         "long": {
             "default": "Šmarje pri Jelšah"
@@ -132,7 +135,8 @@
         "parent": "SI",
         "ids": {
             "fips": "B9",
-            "geonames": 3190716
+            "geonames": 3190716,
+            "iso_3166_2": "SI-122"
         },
         "long": {
             "default": "Škofja Loka"
@@ -142,7 +146,8 @@
         "parent": "SI",
         "ids": {
             "fips": "B7",
-            "geonames": 3190944
+            "geonames": 3190944,
+            "iso_3166_2": "SI-111"
         },
         "long": {
             "default": "Sežana"
@@ -163,10 +168,11 @@
         "parent": "SI",
         "ids": {
             "fips": "L7",
-            "geonames": 3191028
+            "geonames": 3191028,
+            "iso_3166_2": "SI-120"
         },
         "long": {
-            "default": "Municipality of Šentjur"
+            "default": "Šentjur"
         }
     },
     {
@@ -228,17 +234,19 @@
         "parent": "SI",
         "ids": {
             "fips": "J9",
-            "geonames": 3193340
+            "geonames": 3193340,
+            "iso_3166_2": "SI-090"
         },
         "long": {
-            "default": "Piran-Pirano"
+            "default": "Piran"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "SI87",
-            "geonames": 3193964
+            "geonames": 3193964,
+            "iso_3166_2": "SI-087"
         },
         "long": {
             "default": "Ormož"
@@ -358,7 +366,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI57",
-            "geonames": 3196759
+            "geonames": 3196759,
+            "iso_3166_2": "SI-057"
         },
         "long": {
             "default": "Laško"
@@ -368,7 +377,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI54",
-            "geonames": 3197146
+            "geonames": 3197146,
+            "iso_3166_2": "SI-054"
         },
         "long": {
             "default": "Krško"
@@ -400,7 +410,8 @@
         "parent": "SI",
         "ids": {
             "fips": "H7",
-            "geonames": 3197942
+            "geonames": 3197942,
+            "iso_3166_2": "SI-048"
         },
         "long": {
             "default": "Kočevje"
@@ -509,7 +520,8 @@
         "parent": "SI",
         "ids": {
             "fips": "G7",
-            "geonames": 3201729
+            "geonames": 3201729,
+            "iso_3166_2": "SI-023"
         },
         "long": {
             "default": "Domžale"
@@ -519,7 +531,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI17",
-            "geonames": 3202332
+            "geonames": 3202332,
+            "iso_3166_2": "SI-017"
         },
         "long": {
             "default": "Črnomelj"
@@ -551,7 +564,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI08",
-            "geonames": 3203411
+            "geonames": 3203411,
+            "iso_3166_2": "SI-009"
         },
         "long": {
             "default": "Brežice"
@@ -561,7 +575,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI01",
-            "geonames": 3204853
+            "geonames": 3204853,
+            "iso_3166_2": "SI-001"
         },
         "long": {
             "default": "Ajdovščina"
@@ -571,7 +586,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI35",
-            "geonames": 3239050
+            "geonames": 3239050,
+            "iso_3166_2": "SI-035"
         },
         "long": {
             "default": "Hrpelje-Kozina"
@@ -581,7 +597,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI19",
-            "geonames": 3239051
+            "geonames": 3239051,
+            "iso_3166_2": "SI-019"
         },
         "long": {
             "default": "Divača"
@@ -602,7 +619,8 @@
         "parent": "SI",
         "ids": {
             "fips": "I7",
-            "geonames": 3239056
+            "geonames": 3239056,
+            "iso_3166_2": "SI-065"
         },
         "long": {
             "default": "Loška Dolina"
@@ -612,7 +630,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI66",
-            "geonames": 3239059
+            "geonames": 3239059,
+            "iso_3166_2": "SI-066"
         },
         "long": {
             "default": "Loški Potok"
@@ -622,7 +641,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI88",
-            "geonames": 3239061
+            "geonames": 3239061,
+            "iso_3166_2": "SI-088"
         },
         "long": {
             "default": "Osilnica"
@@ -632,7 +652,8 @@
         "parent": "SI",
         "ids": {
             "fips": "D8",
-            "geonames": 3239062
+            "geonames": 3239062,
+            "iso_3166_2": "SI-134"
         },
         "long": {
             "default": "Velike Lašče"
@@ -642,7 +663,8 @@
         "parent": "SI",
         "ids": {
             "fips": "C1",
-            "geonames": 3239066
+            "geonames": 3239066,
+            "iso_3166_2": "SI-123"
         },
         "long": {
             "default": "Škofljica"
@@ -696,7 +718,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI49",
-            "geonames": 3239078
+            "geonames": 3239078,
+            "iso_3166_2": "SI-049"
         },
         "long": {
             "default": "Komen"
@@ -717,7 +740,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI07",
-            "geonames": 3239083
+            "geonames": 3239083,
+            "iso_3166_2": "SI-007"
         },
         "long": {
             "default": "Brda"
@@ -738,7 +762,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F2",
-            "geonames": 3239087
+            "geonames": 3239087,
+            "iso_3166_2": "SI-147"
         },
         "long": {
             "default": "Žiri"
@@ -759,7 +784,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F1",
-            "geonames": 3239093
+            "geonames": 3239093,
+            "iso_3166_2": "SI-146"
         },
         "long": {
             "default": "Železniki"
@@ -769,7 +795,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI27",
-            "geonames": 3239095
+            "geonames": 3239095,
+            "iso_3166_2": "SI-027"
         },
         "long": {
             "default": "Gorenja Vas-Poljane"
@@ -778,8 +805,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "G4",
-            "geonames": 3239096
+            "fips": false,
+            "geonames": 3239096,
+            "iso_3166_2": "SI-021"
         },
         "long": {
             "default": "Dobrova-Horjul-Polhov Gradec"
@@ -833,7 +861,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI82",
-            "geonames": 3239104
+            "geonames": 3239104,
+            "iso_3166_2": "SI-082"
         },
         "long": {
             "default": "Naklo"
@@ -854,7 +883,8 @@
         "parent": "SI",
         "ids": {
             "fips": "K5",
-            "geonames": 3239107
+            "geonames": 3239107,
+            "iso_3166_2": "SI-095"
         },
         "long": {
             "default": "Preddvor"
@@ -864,17 +894,19 @@
         "parent": "SI",
         "ids": {
             "fips": "SI12",
-            "geonames": 3239110
+            "geonames": 3239110,
+            "iso_3166_2": "SI-012"
         },
         "long": {
-            "default": "Municipality of Cerklje na Gorenjskem"
+            "default": "Cerklje na Gorenjskem"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "B2",
-            "geonames": 3239111
+            "geonames": 3239111,
+            "iso_3166_2": "SI-117"
         },
         "long": {
             "default": "Šenčur"
@@ -906,7 +938,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI72",
-            "geonames": 3239114
+            "geonames": 3239114,
+            "iso_3166_2": "SI-072"
         },
         "long": {
             "default": "Mengeš"
@@ -916,7 +949,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI22",
-            "geonames": 3239115
+            "geonames": 3239115,
+            "iso_3166_2": "SI-022"
         },
         "long": {
             "default": "Dol pri Ljubljani"
@@ -926,7 +960,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI77",
-            "geonames": 3239132
+            "geonames": 3239132,
+            "iso_3166_2": "SI-077"
         },
         "long": {
             "default": "Moravče"
@@ -936,7 +971,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI30",
-            "geonames": 3239133
+            "geonames": 3239133,
+            "iso_3166_2": "SI-030"
         },
         "long": {
             "default": "Gornji Grad"
@@ -946,7 +982,8 @@
         "parent": "SI",
         "ids": {
             "fips": "I9",
-            "geonames": 3239134
+            "geonames": 3239134,
+            "iso_3166_2": "SI-067"
         },
         "long": {
             "default": "Luče"
@@ -967,7 +1004,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI74",
-            "geonames": 3239177
+            "geonames": 3239177,
+            "iso_3166_2": "SI-074"
         },
         "long": {
             "default": "Mežica"
@@ -999,7 +1037,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI16",
-            "geonames": 3239181
+            "geonames": 3239181,
+            "iso_3166_2": "SI-016"
         },
         "long": {
             "default": "Črna na Koroškem"
@@ -1009,7 +1048,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI62",
-            "geonames": 3239184
+            "geonames": 3239184,
+            "iso_3166_2": "SI-062"
         },
         "long": {
             "default": "Ljubno"
@@ -1019,7 +1059,8 @@
         "parent": "SI",
         "ids": {
             "fips": "C7",
-            "geonames": 3239185
+            "geonames": 3239185,
+            "iso_3166_2": "SI-126"
         },
         "long": {
             "default": "Šoštanj"
@@ -1029,7 +1070,8 @@
         "parent": "SI",
         "ids": {
             "fips": "C6",
-            "geonames": 3239187
+            "geonames": 3239187,
+            "iso_3166_2": "SI-125"
         },
         "long": {
             "default": "Šmartno ob Paki"
@@ -1039,7 +1081,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI68",
-            "geonames": 3239188
+            "geonames": 3239188,
+            "iso_3166_2": "SI-068"
         },
         "long": {
             "default": "Lukovica"
@@ -1049,7 +1092,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI99",
-            "geonames": 3239189
+            "geonames": 3239189,
+            "iso_3166_2": "SI-099"
         },
         "long": {
             "default": "Radeče"
@@ -1059,7 +1103,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI39",
-            "geonames": 3239191
+            "geonames": 3239191,
+            "iso_3166_2": "SI-039"
         },
         "long": {
             "default": "Ivančna Gorica"
@@ -1069,7 +1114,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI20",
-            "geonames": 3239193
+            "geonames": 3239193,
+            "iso_3166_2": "SI-020"
         },
         "long": {
             "default": "Dobrepolje"
@@ -1079,7 +1125,8 @@
         "parent": "SI",
         "ids": {
             "fips": "B1",
-            "geonames": 3239195
+            "geonames": 3239195,
+            "iso_3166_2": "SI-109"
         },
         "long": {
             "default": "Semič"
@@ -1089,7 +1136,8 @@
         "parent": "SI",
         "ids": {
             "fips": "B4",
-            "geonames": 3239197
+            "geonames": 3239197,
+            "iso_3166_2": "SI-119"
         },
         "long": {
             "default": "Šentjernej"
@@ -1099,7 +1147,8 @@
         "parent": "SI",
         "ids": {
             "fips": "B8",
-            "geonames": 3239199
+            "geonames": 3239199,
+            "iso_3166_2": "SI-121"
         },
         "long": {
             "default": "Škocjan"
@@ -1109,7 +1158,8 @@
         "parent": "SI",
         "ids": {
             "fips": "C9",
-            "geonames": 3239200
+            "geonames": 3239200,
+            "iso_3166_2": "SI-127"
         },
         "long": {
             "default": "Štore"
@@ -1130,7 +1180,8 @@
         "parent": "SI",
         "ids": {
             "fips": "E2",
-            "geonames": 3239204
+            "geonames": 3239204,
+            "iso_3166_2": "SI-137"
         },
         "long": {
             "default": "Vitanje"
@@ -1140,7 +1191,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F3",
-            "geonames": 3239205
+            "geonames": 3239205,
+            "iso_3166_2": "SI-144"
         },
         "long": {
             "default": "Zreče"
@@ -1161,7 +1213,8 @@
         "parent": "SI",
         "ids": {
             "fips": "L3",
-            "geonames": 3239211
+            "geonames": 3239211,
+            "iso_3166_2": "SI-108"
         },
         "long": {
             "default": "Ruše"
@@ -1171,7 +1224,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI55",
-            "geonames": 3239213
+            "geonames": 3239213,
+            "iso_3166_2": "SI-055"
         },
         "long": {
             "default": "Kungota"
@@ -1181,7 +1235,8 @@
         "parent": "SI",
         "ids": {
             "fips": "B3",
-            "geonames": 3239214
+            "geonames": 3239214,
+            "iso_3166_2": "SI-118"
         },
         "long": {
             "default": "Šentilj"
@@ -1191,7 +1246,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI89",
-            "geonames": 3239215
+            "geonames": 3239215,
+            "iso_3166_2": "SI-089"
         },
         "long": {
             "default": "Pesnica"
@@ -1201,7 +1257,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI26",
-            "geonames": 3239216
+            "geonames": 3239216,
+            "iso_3166_2": "SI-026"
         },
         "long": {
             "default": "Duplek"
@@ -1211,7 +1268,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI98",
-            "geonames": 3239224
+            "geonames": 3239224,
+            "iso_3166_2": "SI-098"
         },
         "long": {
             "default": "Rače-Fram"
@@ -1221,7 +1279,8 @@
         "parent": "SI",
         "ids": {
             "fips": "C8",
-            "geonames": 3239226
+            "geonames": 3239226,
+            "iso_3166_2": "SI-115"
         },
         "long": {
             "default": "Starše"
@@ -1231,7 +1290,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI45",
-            "geonames": 3239227
+            "geonames": 3239227,
+            "iso_3166_2": "SI-045"
         },
         "long": {
             "default": "Kidričevo"
@@ -1241,7 +1301,8 @@
         "parent": "SI",
         "ids": {
             "fips": "J1",
-            "geonames": 3239229
+            "geonames": 3239229,
+            "iso_3166_2": "SI-069"
         },
         "long": {
             "default": "Majšperk"
@@ -1251,7 +1312,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N2",
-            "geonames": 3239231
+            "geonames": 3239231,
+            "iso_3166_2": "SI-135"
         },
         "long": {
             "default": "Videm"
@@ -1272,7 +1334,8 @@
         "parent": "SI",
         "ids": {
             "fips": "A8",
-            "geonames": 3239237
+            "geonames": 3239237,
+            "iso_3166_2": "SI-107"
         },
         "long": {
             "default": "Rogatec"
@@ -1282,7 +1345,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI92",
-            "geonames": 3239241
+            "geonames": 3239241,
+            "iso_3166_2": "SI-092"
         },
         "long": {
             "default": "Podčetrtek"
@@ -1292,7 +1356,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI51",
-            "geonames": 3239243
+            "geonames": 3239243,
+            "iso_3166_2": "SI-051"
         },
         "long": {
             "default": "Kozje"
@@ -1302,7 +1367,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI28",
-            "geonames": 3239245
+            "geonames": 3239245,
+            "iso_3166_2": "SI-028"
         },
         "long": {
             "default": "Gorišnica"
@@ -1312,7 +1378,8 @@
         "parent": "SI",
         "ids": {
             "fips": "E9",
-            "geonames": 3239247
+            "geonames": 3239247,
+            "iso_3166_2": "SI-143"
         },
         "long": {
             "default": "Zavrč"
@@ -1322,17 +1389,19 @@
         "parent": "SI",
         "ids": {
             "fips": "SI24",
-            "geonames": 3239248
+            "geonames": 3239248,
+            "iso_3166_2": "SI-024"
         },
         "long": {
-            "default": "Municipality of Dornava"
+            "default": "Dornava"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "SI42",
-            "geonames": 3239251
+            "geonames": 3239251,
+            "iso_3166_2": "SI-042"
         },
         "long": {
             "default": "Juršinci"
@@ -1342,7 +1411,8 @@
         "parent": "SI",
         "ids": {
             "fips": "D1",
-            "geonames": 3239259
+            "geonames": 3239259,
+            "iso_3166_2": "SI-116"
         },
         "long": {
             "default": "Sveti Jurij"
@@ -1363,7 +1433,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI97",
-            "geonames": 3239268
+            "geonames": 3239268,
+            "iso_3166_2": "SI-097"
         },
         "long": {
             "default": "Puconci"
@@ -1373,7 +1444,8 @@
         "parent": "SI",
         "ids": {
             "fips": "A6",
-            "geonames": 3239270
+            "geonames": 3239270,
+            "iso_3166_2": "SI-105"
         },
         "long": {
             "default": "Rogašovci"
@@ -1383,7 +1455,8 @@
         "parent": "SI",
         "ids": {
             "fips": "I2",
-            "geonames": 3239272
+            "geonames": 3239272,
+            "iso_3166_2": "SI-056"
         },
         "long": {
             "default": "Kuzma"
@@ -1393,7 +1466,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI31",
-            "geonames": 3239275
+            "geonames": 3239275,
+            "iso_3166_2": "SI-031"
         },
         "long": {
             "default": "Gornji Petrovci"
@@ -1403,17 +1477,19 @@
         "parent": "SI",
         "ids": {
             "fips": "SI78",
-            "geonames": 3239279
+            "geonames": 3239279,
+            "iso_3166_2": "SI-078"
         },
         "long": {
-            "default": "Municipality of Moravske Toplice"
+            "default": "Moravske Toplice"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "SI47",
-            "geonames": 3239280
+            "geonames": 3239280,
+            "iso_3166_2": "SI-047"
         },
         "long": {
             "default": "Kobilje"
@@ -1423,7 +1499,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI02",
-            "geonames": 3239282
+            "geonames": 3239282,
+            "iso_3166_2": "SI-002"
         },
         "long": {
             "default": "Beltinci"
@@ -1433,7 +1510,8 @@
         "parent": "SI",
         "ids": {
             "fips": "D6",
-            "geonames": 3239283
+            "geonames": 3239283,
+            "iso_3166_2": "SI-132"
         },
         "long": {
             "default": "Turnišče"
@@ -1454,7 +1532,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI15",
-            "geonames": 3239286
+            "geonames": 3239286,
+            "iso_3166_2": "SI-015"
         },
         "long": {
             "default": "Črenšovci"
@@ -1464,7 +1543,8 @@
         "parent": "SI",
         "ids": {
             "fips": "SI83",
-            "geonames": 3239294
+            "geonames": 3239294,
+            "iso_3166_2": "SI-083"
         },
         "long": {
             "default": "Nazarje"
@@ -1485,7 +1565,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N7",
-            "geonames": 3344893
+            "geonames": 3344893,
+            "iso_3166_2": "SI-192"
         },
         "long": {
             "default": "Žirovnica"
@@ -1495,7 +1576,8 @@
         "parent": "SI",
         "ids": {
             "fips": "H5",
-            "geonames": 3344894
+            "geonames": 3344894,
+            "iso_3166_2": "SI-163"
         },
         "long": {
             "default": "Jezersko"
@@ -1505,7 +1587,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M2",
-            "geonames": 3344895
+            "geonames": 3344895,
+            "iso_3166_2": "SI-180"
         },
         "long": {
             "default": "Solčava"
@@ -1515,7 +1598,8 @@
         "parent": "SI",
         "ids": {
             "fips": "H8",
-            "geonames": 3344896
+            "geonames": 3344896,
+            "iso_3166_2": "SI-164"
         },
         "long": {
             "default": "Komenda"
@@ -1547,7 +1631,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F6",
-            "geonames": 3344899
+            "geonames": 3344899,
+            "iso_3166_2": "SI-150"
         },
         "long": {
             "default": "Bloke"
@@ -1557,7 +1642,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M1",
-            "geonames": 3344900
+            "geonames": 3344900,
+            "iso_3166_2": "SI-179"
         },
         "long": {
             "default": "Sodražica"
@@ -1589,7 +1675,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N4",
-            "geonames": 3344903
+            "geonames": 3344903,
+            "iso_3166_2": "SI-189"
         },
         "long": {
             "default": "Vransko"
@@ -1599,7 +1686,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M5",
-            "geonames": 3344904
+            "geonames": 3344904,
+            "iso_3166_2": "SI-184"
         },
         "long": {
             "default": "Tabor"
@@ -1609,7 +1697,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F7",
-            "geonames": 3344905
+            "geonames": 3344905,
+            "iso_3166_2": "SI-151"
         },
         "long": {
             "default": "Braslovče"
@@ -1641,7 +1730,8 @@
         "parent": "SI",
         "ids": {
             "fips": "H9",
-            "geonames": 3344908
+            "geonames": 3344908,
+            "iso_3166_2": "SI-165"
         },
         "long": {
             "default": "Kostel"
@@ -1651,7 +1741,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N8",
-            "geonames": 3344909
+            "geonames": 3344909,
+            "iso_3166_2": "SI-193"
         },
         "long": {
             "default": "Žužemberk"
@@ -1661,7 +1752,8 @@
         "parent": "SI",
         "ids": {
             "fips": "G6",
-            "geonames": 3344910
+            "geonames": 3344910,
+            "iso_3166_2": "SI-157"
         },
         "long": {
             "default": "Dolenjske Toplice"
@@ -1671,7 +1763,8 @@
         "parent": "SI",
         "ids": {
             "fips": "J6",
-            "geonames": 3344911
+            "geonames": 3344911,
+            "iso_3166_2": "SI-170"
         },
         "long": {
             "default": "Mirna Peč"
@@ -1681,7 +1774,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F5",
-            "geonames": 3344912
+            "geonames": 3344912,
+            "iso_3166_2": "SI-149"
         },
         "long": {
             "default": "Bistrica ob Sotli"
@@ -1691,7 +1785,8 @@
         "parent": "SI",
         "ids": {
             "fips": "G2",
-            "geonames": 3344913
+            "geonames": 3344913,
+            "iso_3166_2": "SI-154"
         },
         "long": {
             "default": "Dobje"
@@ -1701,10 +1796,11 @@
         "parent": "SI",
         "ids": {
             "fips": "G3",
-            "geonames": 3344914
+            "geonames": 3344914,
+            "iso_3166_2": "SI-155"
         },
         "long": {
-            "default": "Municipality of Dobrna"
+            "default": "Dobrna"
         }
     },
     {
@@ -1722,7 +1818,8 @@
         "parent": "SI",
         "ids": {
             "fips": "K2",
-            "geonames": 3344916
+            "geonames": 3344916,
+            "iso_3166_2": "SI-093"
         },
         "long": {
             "default": "Podvelka"
@@ -1732,7 +1829,8 @@
         "parent": "SI",
         "ids": {
             "fips": "L2",
-            "geonames": 3344917
+            "geonames": 3344917,
+            "iso_3166_2": "SI-177"
         },
         "long": {
             "default": "Ribnica na Pohorju"
@@ -1753,7 +1851,8 @@
         "parent": "SI",
         "ids": {
             "fips": "L5",
-            "geonames": 3344919
+            "geonames": 3344919,
+            "iso_3166_2": "SI-178"
         },
         "long": {
             "default": "Selnica ob Dravi"
@@ -1763,7 +1862,8 @@
         "parent": "SI",
         "ids": {
             "fips": "H1",
-            "geonames": 3344920
+            "geonames": 3344920,
+            "iso_3166_2": "SI-160"
         },
         "long": {
             "default": "Hoče-Slivnica"
@@ -1784,7 +1884,8 @@
         "parent": "SI",
         "ids": {
             "fips": "G9",
-            "geonames": 3344922
+            "geonames": 3344922,
+            "iso_3166_2": "SI-159"
         },
         "long": {
             "default": "Hajdina"
@@ -1794,7 +1895,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N6",
-            "geonames": 3344923
+            "geonames": 3344923,
+            "iso_3166_2": "SI-191"
         },
         "long": {
             "default": "Žetale"
@@ -1804,7 +1906,8 @@
         "parent": "SI",
         "ids": {
             "fips": "K1",
-            "geonames": 3344924
+            "geonames": 3344924,
+            "iso_3166_2": "SI-172"
         },
         "long": {
             "default": "Podlehnik"
@@ -1814,7 +1917,8 @@
         "parent": "SI",
         "ids": {
             "fips": "J3",
-            "geonames": 3344925
+            "geonames": 3344925,
+            "iso_3166_2": "SI-168"
         },
         "long": {
             "default": "Markovci"
@@ -1835,7 +1939,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M7",
-            "geonames": 3344927
+            "geonames": 3344927,
+            "iso_3166_2": "SI-185"
         },
         "long": {
             "default": "Trnovska Vas"
@@ -1845,7 +1950,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M4",
-            "geonames": 3344928
+            "geonames": 3344928,
+            "iso_3166_2": "SI-182"
         },
         "long": {
             "default": "Sveti Andraž v Slovenskih Goricah"
@@ -1855,7 +1961,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F9",
-            "geonames": 3344929
+            "geonames": 3344929,
+            "iso_3166_2": "SI-153"
         },
         "long": {
             "default": "Cerkvenjak"
@@ -1865,7 +1972,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F4",
-            "geonames": 3344930
+            "geonames": 3344930,
+            "iso_3166_2": "SI-148"
         },
         "long": {
             "default": "Benedikt"
@@ -1875,7 +1983,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M3",
-            "geonames": 3344931
+            "geonames": 3344931,
+            "iso_3166_2": "SI-181"
         },
         "long": {
             "default": "Sveta Ana"
@@ -1885,7 +1994,8 @@
         "parent": "SI",
         "ids": {
             "fips": "I1",
-            "geonames": 3344932
+            "geonames": 3344932,
+            "iso_3166_2": "SI-166"
         },
         "long": {
             "default": "Križevci"
@@ -1895,7 +2005,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N1",
-            "geonames": 3344933
+            "geonames": 3344933,
+            "iso_3166_2": "SI-188"
         },
         "long": {
             "default": "Veržej"
@@ -1905,7 +2016,8 @@
         "parent": "SI",
         "ids": {
             "fips": "M9",
-            "geonames": 3344934
+            "geonames": 3344934,
+            "iso_3166_2": "SI-187"
         },
         "long": {
             "default": "Velika Polana"
@@ -1915,27 +2027,30 @@
         "parent": "SI",
         "ids": {
             "fips": "I4",
-            "geonames": 3344935
+            "geonames": 3344935,
+            "iso_3166_2": "SI-059"
         },
         "long": {
-            "default": "Lendava-Lendva"
+            "default": "Lendava"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "G5",
-            "geonames": 3344936
+            "geonames": 3344936,
+            "iso_3166_2": "SI-156"
         },
         "long": {
-            "default": "Dobrovnik-Dobronak"
+            "default": "Dobrovnik"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "M6",
-            "geonames": 3344937
+            "geonames": 3344937,
+            "iso_3166_2": "SI-010"
         },
         "long": {
             "default": "Tišina"
@@ -1945,7 +2060,8 @@
         "parent": "SI",
         "ids": {
             "fips": "F8",
-            "geonames": 3344938
+            "geonames": 3344938,
+            "iso_3166_2": "SI-152"
         },
         "long": {
             "default": "Cankova"
@@ -1955,7 +2071,8 @@
         "parent": "SI",
         "ids": {
             "fips": "G8",
-            "geonames": 3344939
+            "geonames": 3344939,
+            "iso_3166_2": "SI-158"
         },
         "long": {
             "default": "Grad"
@@ -1965,17 +2082,19 @@
         "parent": "SI",
         "ids": {
             "fips": "H2",
-            "geonames": 3344940
+            "geonames": 3344940,
+            "iso_3166_2": "SI-161"
         },
         "long": {
-            "default": "Hodoš-Hodos"
+            "default": "Hodoš"
         }
     },
     {
         "parent": "SI",
         "ids": {
             "fips": "K9",
-            "geonames": 3344941
+            "geonames": 3344941,
+            "iso_3166_2": "SI-176"
         },
         "long": {
             "default": "Razkrižje"
@@ -1985,7 +2104,8 @@
         "parent": "SI",
         "ids": {
             "fips": "L9",
-            "geonames": 3344942
+            "geonames": 3344942,
+            "iso_3166_2": "SI-194"
         },
         "long": {
             "default": "Šmartno pri Litiji"
@@ -1995,7 +2115,8 @@
         "parent": "SI",
         "ids": {
             "fips": "L4",
-            "geonames": 3344943
+            "geonames": 3344943,
+            "iso_3166_2": "SI-033"
         },
         "long": {
             "default": "Šalovci"
@@ -2005,7 +2126,8 @@
         "parent": "SI",
         "ids": {
             "fips": "N9",
-            "geonames": 8133579
+            "geonames": 8133579,
+            "iso_3166_2": "SI-195"
         },
         "long": {
             "default": "Apače"
@@ -2015,7 +2137,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O1",
-            "geonames": 8133580
+            "geonames": 8133580,
+            "iso_3166_2": "SI-196"
         },
         "long": {
             "default": "Cirkulane"
@@ -2025,7 +2148,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O3",
-            "geonames": 8133581
+            "geonames": 8133581,
+            "iso_3166_2": "SI-197"
         },
         "long": {
             "default": "Kostanjevica na Krki"
@@ -2035,7 +2159,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O4",
-            "geonames": 8133582
+            "geonames": 8133582,
+            "iso_3166_2": "SI-208"
         },
         "long": {
             "default": "Log–Dragomer"
@@ -2045,7 +2170,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O5",
-            "geonames": 8133583
+            "geonames": 8133583,
+            "iso_3166_2": "SI-198"
         },
         "long": {
             "default": "Makole"
@@ -2055,7 +2181,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O7",
-            "geonames": 8133584
+            "geonames": 8133584,
+            "iso_3166_2": "SI-199"
         },
         "long": {
             "default": "Mokronog-Trebelno"
@@ -2065,7 +2192,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O8",
-            "geonames": 8133585
+            "geonames": 8133585,
+            "iso_3166_2": "SI-200"
         },
         "long": {
             "default": "Poljčane"
@@ -2075,7 +2203,8 @@
         "parent": "SI",
         "ids": {
             "fips": "O9",
-            "geonames": 8133586
+            "geonames": 8133586,
+            "iso_3166_2": "SI-209"
         },
         "long": {
             "default": "Rečica ob Savinji"
@@ -2084,8 +2213,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P1",
-            "geonames": 8133587
+            "fips": false,
+            "geonames": 8133587,
+            "iso_3166_2": "SI-201"
         },
         "long": {
             "default": "Renče-Vogrsko"
@@ -2094,8 +2224,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P4",
-            "geonames": 8133588
+            "fips": false,
+            "geonames": 8133588,
+            "iso_3166_2": "SI-202"
         },
         "long": {
             "default": "Središče ob Dravi"
@@ -2104,8 +2235,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P5",
-            "geonames": 8133589
+            "fips": false,
+            "geonames": 8133589,
+            "iso_3166_2": "SI-203"
         },
         "long": {
             "default": "Straža"
@@ -2114,8 +2246,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P6",
-            "geonames": 8133590
+            "fips": false,
+            "geonames": 8133590,
+            "iso_3166_2": "SI-204"
         },
         "long": {
             "default": "Sveta Trojica v Slovenskih Goricah"
@@ -2124,8 +2257,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P8",
-            "geonames": 8133591
+            "fips": false,
+            "geonames": 8133591,
+            "iso_3166_2": "SI-205"
         },
         "long": {
             "default": "Sveti Tomaž"
@@ -2134,8 +2268,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P2",
-            "geonames": 8133592
+            "fips": false,
+            "geonames": 8133592,
+            "iso_3166_2": "SI-211"
         },
         "long": {
             "default": "Šentrupert"
@@ -2144,8 +2279,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P3",
-            "geonames": 8133593
+            "fips": false,
+            "geonames": 8133593,
+            "iso_3166_2": "SI-206"
         },
         "long": {
             "default": "Šmarješke Toplice"
@@ -2154,8 +2290,9 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "P7",
-            "geonames": 8469236
+            "fips": false,
+            "geonames": 8469236,
+            "iso_3166_2": "SI-210"
         },
         "long": {
             "default": "Sveti Jurij v Slovenskih Goricah"
@@ -2164,11 +2301,23 @@
     {
         "parent": "SI",
         "ids": {
-            "fips": "O2",
-            "geonames": 8986279
+            "fips": false,
+            "geonames": 8986279,
+            "iso_3166_2": "SI-207"
         },
         "long": {
             "default": "Gorje"
+        }
+    },
+    {
+        "parent": "SI",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "SI-212"
+        },
+        "long": {
+            "default": "Mirna"
         }
     }
 ]

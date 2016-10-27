@@ -2,8 +2,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "NUI",
-            "geonames": 2110341
+            "fips": false,
+            "geonames": 2110341,
+            "iso_3166_2": "TV-NUI"
         },
         "long": {
             "default": "Nui"
@@ -12,8 +13,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "NMA",
-            "geonames": 2110345
+            "fips": false,
+            "geonames": 2110345,
+            "iso_3166_2": "TV-NMA"
         },
         "long": {
             "default": "Nanumea"
@@ -22,8 +24,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "FUN",
-            "geonames": 2110384
+            "fips": false,
+            "geonames": 2110384,
+            "iso_3166_2": "TV-FUN"
         },
         "long": {
             "default": "Funafuti"
@@ -32,8 +35,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "NIT",
-            "geonames": 7601979
+            "fips": false,
+            "geonames": 7601979,
+            "iso_3166_2": "TV-NIT"
         },
         "long": {
             "default": "Niutao"
@@ -42,8 +46,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "NMG",
-            "geonames": 7601980
+            "fips": false,
+            "geonames": 7601980,
+            "iso_3166_2": "TV-NMG"
         },
         "long": {
             "default": "Nanumanga"
@@ -52,8 +57,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "VAI",
-            "geonames": 7601981
+            "fips": false,
+            "geonames": 7601981,
+            "iso_3166_2": "TV-VAI"
         },
         "long": {
             "default": "Vaitupu"
@@ -62,8 +68,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "NKF",
-            "geonames": 7601982
+            "fips": false,
+            "geonames": 7601982,
+            "iso_3166_2": "TV-NKF"
         },
         "long": {
             "default": "Nukufetau"
@@ -72,8 +79,9 @@
     {
         "parent": "TV",
         "ids": {
-            "fips": "NKL",
-            "geonames": 7601983
+            "fips": false,
+            "geonames": 7601983,
+            "iso_3166_2": "TV-NKL"
         },
         "long": {
             "default": "Nukulaelae"

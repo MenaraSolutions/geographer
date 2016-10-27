@@ -14,7 +14,8 @@
         "parent": "TG",
         "ids": {
             "fips": "TO25",
-            "geonames": 2364370
+            "geonames": 2364370,
+            "iso_3166_2": "TG-P"
         },
         "long": {
             "default": "Plateaux"
@@ -35,7 +36,8 @@
         "parent": "TG",
         "ids": {
             "fips": "TO22",
-            "geonames": 2367237
+            "geonames": 2367237,
+            "iso_3166_2": "TG-C"
         },
         "long": {
             "default": "Centrale"

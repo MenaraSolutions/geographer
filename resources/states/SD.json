@@ -3,7 +3,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU43",
-            "geonames": 378389
+            "geonames": 378389,
+            "iso_3166_2": "SD-NO"
         },
         "long": {
             "default": "Northern State"
@@ -35,7 +36,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU38",
-            "geonames": 408648
+            "geonames": 408648,
+            "iso_3166_2": "SD-GZ"
         },
         "long": {
             "default": "Al Jazīrah"
@@ -45,7 +47,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU39",
-            "geonames": 408649
+            "geonames": 408649,
+            "iso_3166_2": "SD-GD"
         },
         "long": {
             "default": "Al Qaḑārif"
@@ -77,7 +80,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU47",
-            "geonames": 408658
+            "geonames": 408658,
+            "iso_3166_2": "SD-DW"
         },
         "long": {
             "default": "Western Darfur"
@@ -87,17 +91,19 @@
         "parent": "SD",
         "ids": {
             "fips": "SU62",
-            "geonames": 408659
+            "geonames": 408659,
+            "iso_3166_2": "SD-GK"
         },
         "long": {
-            "default": "West Kordofan State"
+            "default": "West Kordofan"
         }
     },
     {
         "parent": "SD",
         "ids": {
             "fips": "SU49",
-            "geonames": 408660
+            "geonames": 408660,
+            "iso_3166_2": "SD-DS"
         },
         "long": {
             "default": "Southern Darfur"
@@ -140,7 +146,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU55",
-            "geonames": 408666
+            "geonames": 408666,
+            "iso_3166_2": "SD-DN"
         },
         "long": {
             "default": "Northern Darfur"
@@ -150,17 +157,19 @@
         "parent": "SD",
         "ids": {
             "fips": "SU56",
-            "geonames": 408667
+            "geonames": 408667,
+            "iso_3166_2": "SD-KN"
         },
         "long": {
-            "default": "Shamāl Kurdufān"
+            "default": "North Kurdufān"
         }
     },
     {
         "parent": "SD",
         "ids": {
             "fips": "SU58",
-            "geonames": 408669
+            "geonames": 408669,
+            "iso_3166_2": "SD-SI"
         },
         "long": {
             "default": "Sinnār"
@@ -170,7 +179,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU60",
-            "geonames": 8394435
+            "geonames": 8394435,
+            "iso_3166_2": "SD-DE"
         },
         "long": {
             "default": "Eastern Darfur"
@@ -180,7 +190,8 @@
         "parent": "SD",
         "ids": {
             "fips": "SU61",
-            "geonames": 8394436
+            "geonames": 8394436,
+            "iso_3166_2": "SD-DC"
         },
         "long": {
             "default": "Central Darfur"

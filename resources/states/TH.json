@@ -300,7 +300,8 @@
         "parent": "TH",
         "ids": {
             "fips": "TH30",
-            "geonames": 1606238
+            "geonames": 1606238,
+            "iso_3166_2": "TH-33"
         },
         "long": {
             "default": "Sisaket"
@@ -332,7 +333,8 @@
         "parent": "TH",
         "ids": {
             "fips": "TH37",
-            "geonames": 1606417
+            "geonames": 1606417,
+            "iso_3166_2": "TH-19"
         },
         "long": {
             "default": "Sara Buri"
@@ -661,7 +663,8 @@
         "parent": "TH",
         "ids": {
             "fips": "TH40",
-            "geonames": 1609348
+            "geonames": 1609348,
+            "iso_3166_2": "TH-10"
         },
         "long": {
             "default": "Bangkok"
@@ -748,7 +751,8 @@
         "parent": "TH",
         "ids": {
             "fips": "TH28",
-            "geonames": 1611452
+            "geonames": 1611452,
+            "iso_3166_2": "TH-31"
         },
         "long": {
             "default": "Buriram"
@@ -769,10 +773,11 @@
         "parent": "TH",
         "ids": {
             "fips": "TH76",
-            "geonames": 1906686
+            "geonames": 1906686,
+            "iso_3166_2": "TH-41"
         },
         "long": {
-            "default": "Changwat Udon Thani"
+            "default": "Udon Thani"
         }
     },
     {
@@ -790,10 +795,11 @@
         "parent": "TH",
         "ids": {
             "fips": "TH75",
-            "geonames": 1906688
+            "geonames": 1906688,
+            "iso_3166_2": "TH-34"
         },
         "long": {
-            "default": "Changwat Ubon Ratchathani"
+            "default": "Ubon Ratchathani"
         }
     },
     {
@@ -811,10 +817,11 @@
         "parent": "TH",
         "ids": {
             "fips": "TH79",
-            "geonames": 1906690
+            "geonames": 1906690,
+            "iso_3166_2": "TH-39"
         },
         "long": {
-            "default": "Changwat Nong Bua Lamphu"
+            "default": "Nong Bua Lamphu"
         }
     },
     {
@@ -832,10 +839,22 @@
         "parent": "TH",
         "ids": {
             "fips": "TH81",
-            "geonames": 8133594
+            "geonames": 8133594,
+            "iso_3166_2": "TH-38"
         },
         "long": {
-            "default": "Changwat Bueng Kan"
+            "default": "Bueng Kan"
+        }
+    },
+    {
+        "parent": "TH",
+        "ids": {
+            "fips": false,
+            "geonames": false,
+            "iso_3166_2": "TH-S"
+        },
+        "long": {
+            "default": "Phatthaya"
         }
     }
 ]

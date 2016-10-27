@@ -14,7 +14,8 @@
         "parent": "SN",
         "ids": {
             "fips": "SG07",
-            "geonames": 2244800
+            "geonames": 2244800,
+            "iso_3166_2": "SN-TH"
         },
         "long": {
             "default": "Thiès"
@@ -134,7 +135,8 @@
         "parent": "SN",
         "ids": {
             "fips": "SG17",
-            "geonames": 7303936
+            "geonames": 7303936,
+            "iso_3166_2": "SN-KE"
         },
         "long": {
             "default": "Kédougou"
@@ -144,7 +146,8 @@
         "parent": "SN",
         "ids": {
             "fips": "SG18",
-            "geonames": 7303937
+            "geonames": 7303937,
+            "iso_3166_2": "SN-SE"
         },
         "long": {
             "default": "Sédhiou"

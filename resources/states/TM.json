@@ -25,7 +25,8 @@
         "parent": "TM",
         "ids": {
             "fips": "TX03",
-            "geonames": 601465
+            "geonames": 601465,
+            "iso_3166_2": "TM-D"
         },
         "long": {
             "default": "Daşoguz"

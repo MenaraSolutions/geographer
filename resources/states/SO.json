@@ -25,7 +25,8 @@
         "parent": "SO",
         "ids": {
             "fips": "SO14",
-            "geonames": 51966
+            "geonames": 51966,
+            "iso_3166_2": "SO-SH"
         },
         "long": {
             "default": "Lower Shabeelle"
@@ -35,7 +36,8 @@
         "parent": "SO",
         "ids": {
             "fips": "SO13",
-            "geonames": 51967
+            "geonames": 51967,
+            "iso_3166_2": "SO-SD"
         },
         "long": {
             "default": "Middle Shabele"
@@ -78,7 +80,8 @@
         "parent": "SO",
         "ids": {
             "fips": "SO09",
-            "geonames": 56083
+            "geonames": 56083,
+            "iso_3166_2": "SO-JH"
         },
         "long": {
             "default": "Lower Juba"
@@ -88,7 +91,8 @@
         "parent": "SO",
         "ids": {
             "fips": "SO08",
-            "geonames": 56084
+            "geonames": 56084,
+            "iso_3166_2": "SO-JD"
         },
         "long": {
             "default": "Middle Juba"

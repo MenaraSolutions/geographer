@@ -3,7 +3,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES14",
-            "geonames": 3582882
+            "geonames": 3582882,
+            "iso_3166_2": "SV-US"
         },
         "long": {
             "default": "Usulután"
@@ -68,7 +69,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES08",
-            "geonames": 3584317
+            "geonames": 3584317,
+            "iso_3166_2": "SV-MO"
         },
         "long": {
             "default": "Morazán"
@@ -78,7 +80,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES07",
-            "geonames": 3584767
+            "geonames": 3584767,
+            "iso_3166_2": "SV-UN"
         },
         "long": {
             "default": "La Unión"
@@ -88,7 +91,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES06",
-            "geonames": 3585087
+            "geonames": 3585087,
+            "iso_3166_2": "SV-PA"
         },
         "long": {
             "default": "La Paz"
@@ -98,7 +102,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES05",
-            "geonames": 3585155
+            "geonames": 3585155,
+            "iso_3166_2": "SV-LI"
         },
         "long": {
             "default": "La Libertad"
@@ -108,7 +113,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES04",
-            "geonames": 3586831
+            "geonames": 3586831,
+            "iso_3166_2": "SV-CU"
         },
         "long": {
             "default": "Cuscatlán"
@@ -129,7 +135,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES02",
-            "geonames": 3587217
+            "geonames": 3587217,
+            "iso_3166_2": "SV-CA"
         },
         "long": {
             "default": "Cabañas"
@@ -139,7 +146,8 @@
         "parent": "SV",
         "ids": {
             "fips": "ES01",
-            "geonames": 3587425
+            "geonames": 3587425,
+            "iso_3166_2": "SV-AH"
         },
         "long": {
             "default": "Ahuachapán"

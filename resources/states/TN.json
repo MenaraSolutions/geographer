@@ -3,7 +3,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS37",
-            "geonames": 2464038
+            "geonames": 2464038,
+            "iso_3166_2": "TN-22"
         },
         "long": {
             "default": "Zaghwān"
@@ -13,7 +14,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS36",
-            "geonames": 2464464
+            "geonames": 2464464,
+            "iso_3166_2": "TN-11"
         },
         "long": {
             "default": "Tūnis"
@@ -23,7 +25,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS35",
-            "geonames": 2464645
+            "geonames": 2464645,
+            "iso_3166_2": "TN-72"
         },
         "long": {
             "default": "Tawzar"
@@ -44,7 +47,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS23",
-            "geonames": 2464912
+            "geonames": 2464912,
+            "iso_3166_2": "TN-51"
         },
         "long": {
             "default": "Sūsah"
@@ -54,7 +58,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS22",
-            "geonames": 2465027
+            "geonames": 2465027,
+            "iso_3166_2": "TN-34"
         },
         "long": {
             "default": "Silyānah"
@@ -64,7 +69,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS33",
-            "geonames": 2465837
+            "geonames": 2465837,
+            "iso_3166_2": "TN-43"
         },
         "long": {
             "default": "Sīdī Bū Zayd"
@@ -74,7 +80,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS32",
-            "geonames": 2467450
+            "geonames": 2467450,
+            "iso_3166_2": "TN-61"
         },
         "long": {
             "default": "Şafāqis"
@@ -84,7 +91,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS31",
-            "geonames": 2468014
+            "geonames": 2468014,
+            "iso_3166_2": "TN-73"
         },
         "long": {
             "default": "Qibilī"
@@ -105,7 +113,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS29",
-            "geonames": 2468365
+            "geonames": 2468365,
+            "iso_3166_2": "TN-81"
         },
         "long": {
             "default": "Qābis"
@@ -115,7 +124,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS19",
-            "geonames": 2468576
+            "geonames": 2468576,
+            "iso_3166_2": "TN-21"
         },
         "long": {
             "default": "Nābul"
@@ -125,7 +135,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS28",
-            "geonames": 2469470
+            "geonames": 2469470,
+            "iso_3166_2": "TN-82"
         },
         "long": {
             "default": "Madanīn"
@@ -135,7 +146,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS06",
-            "geonames": 2470085
+            "geonames": 2470085,
+            "iso_3166_2": "TN-32"
         },
         "long": {
             "default": "Jundūbah"
@@ -145,7 +157,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS27",
-            "geonames": 2472477
+            "geonames": 2472477,
+            "iso_3166_2": "TN-13"
         },
         "long": {
             "default": "Bin ‘Arūs"
@@ -155,7 +168,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS18",
-            "geonames": 2472699
+            "geonames": 2472699,
+            "iso_3166_2": "TN-23"
         },
         "long": {
             "default": "Banzart"
@@ -165,7 +179,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS17",
-            "geonames": 2472770
+            "geonames": 2472770,
+            "iso_3166_2": "TN-31"
         },
         "long": {
             "default": "Bājah"
@@ -186,7 +201,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS03",
-            "geonames": 2473451
+            "geonames": 2473451,
+            "iso_3166_2": "TN-41"
         },
         "long": {
             "default": "Al Qayrawān"
@@ -196,7 +212,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS02",
-            "geonames": 2473460
+            "geonames": 2473460,
+            "iso_3166_2": "TN-42"
         },
         "long": {
             "default": "Al Qaşrayn"
@@ -206,7 +223,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS16",
-            "geonames": 2473495
+            "geonames": 2473495,
+            "iso_3166_2": "TN-52"
         },
         "long": {
             "default": "Al Munastīr"
@@ -216,7 +234,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS15",
-            "geonames": 2473574
+            "geonames": 2473574,
+            "iso_3166_2": "TN-53"
         },
         "long": {
             "default": "Al Mahdīyah"
@@ -226,7 +245,8 @@
         "parent": "TN",
         "ids": {
             "fips": "TS14",
-            "geonames": 2473637
+            "geonames": 2473637,
+            "iso_3166_2": "TN-33"
         },
         "long": {
             "default": "Kef"

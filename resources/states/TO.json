@@ -3,7 +3,8 @@
         "parent": "TO",
         "ids": {
             "fips": "TN03",
-            "geonames": 4032231
+            "geonames": 4032231,
+            "iso_3166_2": "TO-05"
         },
         "long": {
             "default": "Vava‘u"
@@ -24,7 +25,8 @@
         "parent": "TO",
         "ids": {
             "fips": "TN01",
-            "geonames": 4032637
+            "geonames": 4032637,
+            "iso_3166_2": "TO-02"
         },
         "long": {
             "default": "Ha‘apai"
@@ -34,7 +36,8 @@
         "parent": "TO",
         "ids": {
             "fips": "EU",
-            "geonames": 7668021
+            "geonames": 7668021,
+            "iso_3166_2": "TO-01"
         },
         "long": {
             "default": "ʻEua"
@@ -44,7 +47,8 @@
         "parent": "TO",
         "ids": {
             "fips": "NI",
-            "geonames": 7668055
+            "geonames": 7668055,
+            "iso_3166_2": "TO-03"
         },
         "long": {
             "default": "Niuas"
