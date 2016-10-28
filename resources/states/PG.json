@@ -14,7 +14,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP06",
-            "geonames": 2083549
+            "geonames": 2083549,
+            "iso_3166_2": "PG-WPD"
         },
         "long": {
             "default": "Western Province"
@@ -46,7 +47,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP18",
-            "geonames": 2087246
+            "geonames": 2087246,
+            "iso_3166_2": "PG-SAN"
         },
         "long": {
             "default": "Sandaun"
@@ -67,7 +69,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP04",
-            "geonames": 2089478
+            "geonames": 2089478,
+            "iso_3166_2": "PG-NPP"
         },
         "long": {
             "default": "Northern Province"
@@ -88,7 +91,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP20",
-            "geonames": 2089856
+            "geonames": 2089856,
+            "iso_3166_2": "PG-NCD"
         },
         "long": {
             "default": "National Capital"
@@ -208,7 +212,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP01",
-            "geonames": 2133763
+            "geonames": 2133763,
+            "iso_3166_2": "PG-CPM"
         },
         "long": {
             "default": "Central Province"
@@ -218,7 +223,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP21",
-            "geonames": 8521658
+            "geonames": 8521658,
+            "iso_3166_2": "PG-HLA"
         },
         "long": {
             "default": "Hela"
@@ -228,7 +234,8 @@
         "parent": "PG",
         "ids": {
             "fips": "PP22",
-            "geonames": 8521660
+            "geonames": 8521660,
+            "iso_3166_2": "PG-JWK"
         },
         "long": {
             "default": "Jiwaka"

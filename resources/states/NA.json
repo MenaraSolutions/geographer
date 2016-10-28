@@ -135,7 +135,8 @@
         "parent": "NA",
         "ids": {
             "fips": "WA40",
-            "geonames": 8693188
+            "geonames": 8693188,
+            "iso_3166_2": "NA-KE"
         },
         "long": {
             "default": "Kavango East"
@@ -145,7 +146,8 @@
         "parent": "NA",
         "ids": {
             "fips": "WA41",
-            "geonames": 8693189
+            "geonames": 8693189,
+            "iso_3166_2": "NA-KW"
         },
         "long": {
             "default": "Kavango West"

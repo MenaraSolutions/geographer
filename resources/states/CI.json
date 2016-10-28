@@ -4,7 +4,7 @@
         "ids": {
             "fips": "IV82",
             "geonames": 2597316,
-            "iso_3166_2": "CI-01"
+            "iso_3166_2": "CI-LG"
         },
         "long": {
             "default": "Lagunes"
@@ -14,7 +14,8 @@
         "parent": "CI",
         "ids": {
             "fips": "IV89",
-            "geonames": 2597317
+            "geonames": 2597317,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Sud-Comoé"
@@ -24,7 +25,8 @@
         "parent": "CI",
         "ids": {
             "fips": "IV74",
-            "geonames": 2597318
+            "geonames": 2597318,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Agnéby"
@@ -35,10 +37,10 @@
         "ids": {
             "fips": "IV80",
             "geonames": 2597319,
-            "iso_3166_2": "CI-02"
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Haut-Sassandra"
+            "default": "Bas-Sassandra"
         }
     },
     {
@@ -46,7 +48,7 @@
         "ids": {
             "fips": "IV87",
             "geonames": 2597320,
-            "iso_3166_2": "CI-03"
+            "iso_3166_2": "CI-SV"
         },
         "long": {
             "default": "Savanes"
@@ -57,7 +59,7 @@
         "ids": {
             "fips": "IV90",
             "geonames": 2597321,
-            "iso_3166_2": "CI-04"
+            "iso_3166_2": "CI-VB"
         },
         "long": {
             "default": "Vallée du Bandama"
@@ -67,7 +69,8 @@
         "parent": "CI",
         "ids": {
             "fips": "IV85",
-            "geonames": 2597322
+            "geonames": 2597322,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Moyen-Comoé"
@@ -78,10 +81,10 @@
         "ids": {
             "fips": "IV78",
             "geonames": 2597323,
-            "iso_3166_2": "CI-06"
+            "iso_3166_2": "CI-MG"
         },
         "long": {
-            "default": "Dix-Huit Montagnes"
+            "default": "Montagnes"
         }
     },
     {
@@ -89,7 +92,7 @@
         "ids": {
             "fips": "IV81",
             "geonames": 2597324,
-            "iso_3166_2": "CI-07"
+            "iso_3166_2": "CI-LC"
         },
         "long": {
             "default": "Lacs"
@@ -100,7 +103,7 @@
         "ids": {
             "fips": "IV92",
             "geonames": 2597325,
-            "iso_3166_2": "CI-08"
+            "iso_3166_2": "CI-ZZ"
         },
         "long": {
             "default": "Zanzan"
@@ -111,7 +114,7 @@
         "ids": {
             "fips": "IV76",
             "geonames": 2597326,
-            "iso_3166_2": "CI-09"
+            "iso_3166_2": "CI-BS"
         },
         "long": {
             "default": "Bas-Sassandra"
@@ -122,7 +125,7 @@
         "ids": {
             "fips": "IV91",
             "geonames": 2597327,
-            "iso_3166_2": "CI-14"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Worodougou"
@@ -132,7 +135,8 @@
         "parent": "CI",
         "ids": {
             "fips": "IV77",
-            "geonames": 2597328
+            "geonames": 2597328,
+            "iso_3166_2": "CI-DN"
         },
         "long": {
             "default": "Denguélé"
@@ -143,7 +147,7 @@
         "ids": {
             "fips": "IV88",
             "geonames": 2597329,
-            "iso_3166_2": "CI-15"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Sud-Bandama"
@@ -154,7 +158,7 @@
         "ids": {
             "fips": "IV79",
             "geonames": 2597330,
-            "iso_3166_2": "CI-18"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Fromager"
@@ -164,20 +168,22 @@
         "parent": "CI",
         "ids": {
             "fips": "IV86",
-            "geonames": 2597331
+            "geonames": 2597331,
+            "iso_3166_2": "CI-CM"
         },
         "long": {
-            "default": "Nʼzi-Comoé"
+            "default": "Comoé"
         }
     },
     {
         "parent": "CI",
         "ids": {
             "fips": "IV83",
-            "geonames": 2597332
+            "geonames": 2597332,
+            "iso_3166_2": "CI-SM"
         },
         "long": {
-            "default": "Marahoué"
+            "default": "Sassandra-Marahoué"
         }
     },
     {
@@ -185,7 +191,7 @@
         "ids": {
             "fips": "IV84",
             "geonames": 2597333,
-            "iso_3166_2": "CI-19"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Moyen-Cavally"
@@ -194,9 +200,20 @@
     {
         "parent": "CI",
         "ids": {
+            "fips": "IV93",
+            "geonames": 11153151,
+            "iso_3166_2": "CI-AB"
+        },
+        "long": {
+            "default": "Abidjan"
+        }
+    },
+    {
+        "parent": "CI",
+        "ids": {
             "fips": "IV75",
             "geonames": 2597334,
-            "iso_3166_2": "CI-17"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bafing"
@@ -206,7 +223,8 @@
         "parent": "CI",
         "ids": {
             "fips": "IV58",
-            "geonames": 10629377
+            "geonames": 10629377,
+            "iso_3166_2": "CI-YM"
         },
         "long": {
             "default": "Yamoussoukro Autonomous District"

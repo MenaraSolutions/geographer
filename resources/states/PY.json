@@ -25,7 +25,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA15",
-            "geonames": 3437599
+            "geonames": 3437599,
+            "iso_3166_2": "PY-9"
         },
         "long": {
             "default": "Paraguarí"
@@ -35,7 +36,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA13",
-            "geonames": 3437677
+            "geonames": 3437677,
+            "iso_3166_2": "PY-12"
         },
         "long": {
             "default": "Ñeembucú"
@@ -45,7 +47,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA12",
-            "geonames": 3437727
+            "geonames": 3437727,
+            "iso_3166_2": "PY-8"
         },
         "long": {
             "default": "Misiones"
@@ -55,7 +58,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA11",
-            "geonames": 3437923
+            "geonames": 3437923,
+            "iso_3166_2": "PY-7"
         },
         "long": {
             "default": "Itapúa"
@@ -65,7 +69,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA10",
-            "geonames": 3438049
+            "geonames": 3438049,
+            "iso_3166_2": "PY-4"
         },
         "long": {
             "default": "Guairá"
@@ -86,7 +91,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA07",
-            "geonames": 3438833
+            "geonames": 3438833,
+            "iso_3166_2": "PY-1"
         },
         "long": {
             "default": "Concepción"
@@ -96,7 +102,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA06",
-            "geonames": 3439137
+            "geonames": 3439137,
+            "iso_3166_2": "PY-11"
         },
         "long": {
             "default": "Central"
@@ -106,7 +113,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA19",
-            "geonames": 3439216
+            "geonames": 3439216,
+            "iso_3166_2": "PY-14"
         },
         "long": {
             "default": "Canindeyú"
@@ -116,7 +124,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA05",
-            "geonames": 3439296
+            "geonames": 3439296,
+            "iso_3166_2": "PY-6"
         },
         "long": {
             "default": "Caazapá"
@@ -126,7 +135,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA04",
-            "geonames": 3439312
+            "geonames": 3439312,
+            "iso_3166_2": "PY-5"
         },
         "long": {
             "default": "Caaguazú"
@@ -147,7 +157,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA01",
-            "geonames": 3439440
+            "geonames": 3439440,
+            "iso_3166_2": "PY-10"
         },
         "long": {
             "default": "Alto Paraná"
@@ -168,7 +179,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA22",
-            "geonames": 3474570
+            "geonames": 3474570,
+            "iso_3166_2": "PY-ASU"
         },
         "long": {
             "default": "Asunción"
@@ -178,7 +190,8 @@
         "parent": "PY",
         "ids": {
             "fips": "PA24",
-            "geonames": 3867442
+            "geonames": 3867442,
+            "iso_3166_2": "PY-19"
         },
         "long": {
             "default": "Boquerón"

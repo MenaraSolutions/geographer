@@ -25,7 +25,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG10",
-            "geonames": 1515917
+            "geonames": 1515917,
+            "iso_3166_2": "MN-065"
         },
         "long": {
             "default": "Govĭ-Altay"
@@ -35,7 +36,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG09",
-            "geonames": 1516012
+            "geonames": 1516012,
+            "iso_3166_2": "MN-057"
         },
         "long": {
             "default": "Dzabkhan"
@@ -45,7 +47,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG03",
-            "geonames": 1516278
+            "geonames": 1516278,
+            "iso_3166_2": "MN-071"
         },
         "long": {
             "default": "Bayan-Ölgiy"
@@ -77,17 +80,19 @@
         "parent": "MN",
         "ids": {
             "fips": "MG18",
-            "geonames": 2028849
+            "geonames": 2028849,
+            "iso_3166_2": "MN-047"
         },
         "long": {
-            "default": "Central Aimak"
+            "default": "Töv"
         }
     },
     {
         "parent": "MN",
         "ids": {
             "fips": "MG17",
-            "geonames": 2029155
+            "geonames": 2029155,
+            "iso_3166_2": "MN-051"
         },
         "long": {
             "default": "Sühbaatar"
@@ -108,7 +113,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG15",
-            "geonames": 2029546
+            "geonames": 2029546,
+            "iso_3166_2": "MN-055"
         },
         "long": {
             "default": "Övörhangay"
@@ -118,7 +124,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG14",
-            "geonames": 2029669
+            "geonames": 2029669,
+            "iso_3166_2": "MN-053"
         },
         "long": {
             "default": "Ömnögovĭ"
@@ -128,7 +135,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG13",
-            "geonames": 2030469
+            "geonames": 2030469,
+            "iso_3166_2": "MN-041"
         },
         "long": {
             "default": "Hövsgöl"
@@ -149,30 +157,33 @@
         "parent": "MN",
         "ids": {
             "fips": "MG08",
-            "geonames": 2031740
+            "geonames": 2031740,
+            "iso_3166_2": "MN-059"
         },
         "long": {
-            "default": "Middle Govĭ"
+            "default": "Middle Gobi"
         }
     },
     {
         "parent": "MN",
         "ids": {
             "fips": "MG07",
-            "geonames": 2031798
+            "geonames": 2031798,
+            "iso_3166_2": "MN-063"
         },
         "long": {
-            "default": "East Gobi Aymag"
+            "default": "East Gobi"
         }
     },
     {
         "parent": "MN",
         "ids": {
             "fips": "MG06",
-            "geonames": 2031799
+            "geonames": 2031799,
+            "iso_3166_2": "MN-061"
         },
         "long": {
-            "default": "East Aimak"
+            "default": "Dornod"
         }
     },
     {
@@ -201,7 +212,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG23",
-            "geonames": 2055111
+            "geonames": 2055111,
+            "iso_3166_2": "MN-037"
         },
         "long": {
             "default": "Darhan Uul"
@@ -211,7 +223,8 @@
         "parent": "MN",
         "ids": {
             "fips": "MG24",
-            "geonames": 2055112
+            "geonames": 2055112,
+            "iso_3166_2": "MN-064"
         },
         "long": {
             "default": "Govĭ-Sumber"

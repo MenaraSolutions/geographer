@@ -3,7 +3,8 @@
         "parent": "CN",
         "ids": {
             "fips": "CH14",
-            "geonames": 1279685
+            "geonames": 1279685,
+            "iso_3166_2": "CN-54"
         },
         "long": {
             "default": "Tibet Autonomous Region"
@@ -24,7 +25,8 @@
         "parent": "CN",
         "ids": {
             "fips": "CH13",
-            "geonames": 1529047
+            "geonames": 1529047,
+            "iso_3166_2": "CN-65"
         },
         "long": {
             "default": "Xinjiang Uyghur Autonomous Region"
@@ -122,7 +124,8 @@
         "parent": "CN",
         "ids": {
             "fips": "CH21",
-            "geonames": 1799355
+            "geonames": 1799355,
+            "iso_3166_2": "CN-64"
         },
         "long": {
             "default": "Ningsia Hui Autonomous Region"
@@ -220,7 +223,8 @@
         "parent": "CN",
         "ids": {
             "fips": "CH16",
-            "geonames": 1809867
+            "geonames": 1809867,
+            "iso_3166_2": "CN-45"
         },
         "long": {
             "default": "Guangxi Zhuang Autonomous Region"
@@ -235,6 +239,50 @@
         },
         "long": {
             "default": "Guangdong"
+        }
+    },
+    {
+        "parent": "CN",
+        "ids": {
+            "fips": "CH24",
+            "geonames": 1795912,
+            "iso_3166_2": "CN-61"
+        },
+        "long": {
+            "default": "Shaanxi"
+        }
+    },
+    {
+        "parent": "CN",
+        "ids": {
+            "fips": false,
+            "geonames": 7280291,
+            "iso_3166_2": "CN-71"
+        },
+        "long": {
+            "default": "Taiwan"
+        }
+    },
+    {
+        "parent": "CN",
+        "ids": {
+            "fips": false,
+            "geonames": 7533598,
+            "iso_3166_2": "CN-91"
+        },
+        "long": {
+            "default": "Hong Kong"
+        }
+    },
+    {
+        "parent": "CN",
+        "ids": {
+            "fips": false,
+            "geonames": 1821273,
+            "iso_3166_2": "CN-92"
+        },
+        "long": {
+            "default": "Macao"
         }
     },
     {
@@ -285,7 +333,8 @@
         "parent": "CN",
         "ids": {
             "fips": "CH20",
-            "geonames": 2035607
+            "geonames": 2035607,
+            "iso_3166_2": "CN-15"
         },
         "long": {
             "default": "Inner Mongolia"

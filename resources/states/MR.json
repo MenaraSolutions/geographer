@@ -35,12 +35,34 @@
     {
         "parent": "MR",
         "ids": {
-            "fips": "NKC",
+            "fips": false,
             "geonames": 2377449,
-            "iso_3166_2": "MR-NKC"
+            "iso_3166_2": "MR-13"
         },
         "long": {
-            "default": "Nouakchott"
+            "default": "Nouakchott Ouest"
+        }
+    },
+    {
+        "parent": "MR",
+        "ids": {
+            "fips": false,
+            "geonames": 8051338,
+            "iso_3166_2": "MR-14"
+        },
+        "long": {
+            "default": "Nouakchott Nord"
+        }
+    },
+    {
+        "parent": "MR",
+        "ids": {
+            "fips": false,
+            "geonames": 8051337,
+            "iso_3166_2": "MR-15"
+        },
+        "long": {
+            "default": "Nouakchott Sud"
         }
     },
     {
@@ -135,7 +157,8 @@
         "parent": "MR",
         "ids": {
             "fips": "MR07",
-            "geonames": 2381972
+            "geonames": 2381972,
+            "iso_3166_2": "MR-07"
         },
         "long": {
             "default": "Adrar"

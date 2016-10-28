@@ -14,7 +14,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR13",
-            "geonames": 2110420
+            "geonames": 2110420,
+            "iso_3166_2": "NR-13"
         },
         "long": {
             "default": "Uaboe"
@@ -24,7 +25,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR12",
-            "geonames": 2110423
+            "geonames": 2110423,
+            "iso_3166_2": "NR-12"
         },
         "long": {
             "default": "Nibok"
@@ -34,7 +36,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR11",
-            "geonames": 2110431
+            "geonames": 2110431,
+            "iso_3166_2": "NR-11"
         },
         "long": {
             "default": "Meneng"
@@ -44,7 +47,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR10",
-            "geonames": 2110432
+            "geonames": 2110432,
+            "iso_3166_2": "NR-10"
         },
         "long": {
             "default": "Ijuw"
@@ -54,7 +58,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR09",
-            "geonames": 2110435
+            "geonames": 2110435,
+            "iso_3166_2": "NR-09"
         },
         "long": {
             "default": "Ewa"
@@ -64,7 +69,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR08",
-            "geonames": 2110437
+            "geonames": 2110437,
+            "iso_3166_2": "NR-08"
         },
         "long": {
             "default": "Denigomodu"
@@ -74,7 +80,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR07",
-            "geonames": 2110440
+            "geonames": 2110440,
+            "iso_3166_2": "NR-07"
         },
         "long": {
             "default": "Buada"
@@ -84,7 +91,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR06",
-            "geonames": 2110441
+            "geonames": 2110441,
+            "iso_3166_2": "NR-06"
         },
         "long": {
             "default": "Boe"
@@ -94,7 +102,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR05",
-            "geonames": 2110442
+            "geonames": 2110442,
+            "iso_3166_2": "NR-05"
         },
         "long": {
             "default": "Baiti"
@@ -104,7 +113,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR04",
-            "geonames": 2110445
+            "geonames": 2110445,
+            "iso_3166_2": "NR-04"
         },
         "long": {
             "default": "Anibare"
@@ -114,7 +124,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR03",
-            "geonames": 2110448
+            "geonames": 2110448,
+            "iso_3166_2": "NR-03"
         },
         "long": {
             "default": "Anetan"
@@ -124,7 +135,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR02",
-            "geonames": 2110449
+            "geonames": 2110449,
+            "iso_3166_2": "NR-02"
         },
         "long": {
             "default": "Anabar"
@@ -134,7 +146,8 @@
         "parent": "NR",
         "ids": {
             "fips": "NR01",
-            "geonames": 2110451
+            "geonames": 2110451,
+            "iso_3166_2": "NR-01"
         },
         "long": {
             "default": "Aiwo"

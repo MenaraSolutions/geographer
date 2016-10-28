@@ -14,7 +14,8 @@
         "parent": "NI",
         "ids": {
             "fips": "NU14",
-            "geonames": 3617056
+            "geonames": 3617056,
+            "iso_3166_2": "NI-SJ"
         },
         "long": {
             "default": "Río San Juan"
@@ -79,7 +80,8 @@
         "parent": "NI",
         "ids": {
             "fips": "NU08",
-            "geonames": 3618029
+            "geonames": 3618029,
+            "iso_3166_2": "NI-LE"
         },
         "long": {
             "default": "León"
@@ -111,7 +113,8 @@
         "parent": "NI",
         "ids": {
             "fips": "NU05",
-            "geonames": 3619193
+            "geonames": 3619193,
+            "iso_3166_2": "NI-ES"
         },
         "long": {
             "default": "Estelí"
@@ -165,17 +168,19 @@
         "parent": "NI",
         "ids": {
             "fips": "NU17",
-            "geonames": 3830307
+            "geonames": 3830307,
+            "iso_3166_2": "NI-AN"
         },
         "long": {
-            "default": "Atlántico Norte (RAAN)"
+            "default": "Atlántico Norte"
         }
     },
     {
         "parent": "NI",
         "ids": {
             "fips": "NU18",
-            "geonames": 3830308
+            "geonames": 3830308,
+            "iso_3166_2": "NI-AS"
         },
         "long": {
             "default": "Atlántico Sur"

@@ -14,7 +14,8 @@
         "parent": "PW",
         "ids": {
             "fips": "PS16",
-            "geonames": 1559630
+            "geonames": 1559630,
+            "iso_3166_2": "PW-370"
         },
         "long": {
             "default": "Sonsorol"
@@ -35,7 +36,8 @@
         "parent": "PW",
         "ids": {
             "fips": "PS04",
-            "geonames": 1559776
+            "geonames": 1559776,
+            "iso_3166_2": "PW-050"
         },
         "long": {
             "default": "Hatohobei"
@@ -111,7 +113,8 @@
         "parent": "PW",
         "ids": {
             "fips": "PS12",
-            "geonames": 4037976
+            "geonames": 4037976,
+            "iso_3166_2": "PW-226"
         },
         "long": {
             "default": "Ngchesar"
@@ -143,7 +146,8 @@
         "parent": "PW",
         "ids": {
             "fips": "PS13",
-            "geonames": 4038068
+            "geonames": 4038068,
+            "iso_3166_2": "PW-227"
         },
         "long": {
             "default": "Ngaremlengui"

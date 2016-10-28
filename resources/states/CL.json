@@ -3,7 +3,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI01",
-            "geonames": 3868621
+            "geonames": 3868621,
+            "iso_3166_2": "CL-VS"
         },
         "long": {
             "default": "Valparaíso"
@@ -13,7 +14,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI15",
-            "geonames": 3870116
+            "geonames": 3870116,
+            "iso_3166_2": "CL-TA"
         },
         "long": {
             "default": "Tarapacá"
@@ -23,7 +25,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI12",
-            "geonames": 3873544
+            "geonames": 3873544,
+            "iso_3166_2": "CL-RM"
         },
         "long": {
             "default": "Santiago Metropolitan"
@@ -55,7 +58,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI08",
-            "geonames": 3883281
+            "geonames": 3883281,
+            "iso_3166_2": "CL-LI"
         },
         "long": {
             "default": "O'Higgins"
@@ -76,7 +80,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI06",
-            "geonames": 3898380
+            "geonames": 3898380,
+            "iso_3166_2": "CL-BI"
         },
         "long": {
             "default": "Biobío"
@@ -97,7 +102,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI04",
-            "geonames": 3899463
+            "geonames": 3899463,
+            "iso_3166_2": "CL-AR"
         },
         "long": {
             "default": "Araucanía"
@@ -118,10 +124,11 @@
         "parent": "CL",
         "ids": {
             "fips": "CI02",
-            "geonames": 3900333
+            "geonames": 3900333,
+            "iso_3166_2": "CL-AI"
         },
         "long": {
-            "default": "Aisén"
+            "default": "Aysén"
         }
     },
     {
@@ -150,7 +157,8 @@
         "parent": "CL",
         "ids": {
             "fips": "CI17",
-            "geonames": 6693563
+            "geonames": 6693563,
+            "iso_3166_2": "CL-LR"
         },
         "long": {
             "default": "Los Ríos"

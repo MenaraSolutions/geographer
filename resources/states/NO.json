@@ -3,7 +3,8 @@
         "parent": "NO",
         "ids": {
             "fips": "NO05",
-            "geonames": 780166
+            "geonames": 780166,
+            "iso_3166_2": "NO-20"
         },
         "long": {
             "default": "Finnmark Fylke"
@@ -57,7 +58,8 @@
         "parent": "NO",
         "ids": {
             "fips": "NO16",
-            "geonames": 3137400
+            "geonames": 3137400,
+            "iso_3166_2": "NO-16"
         },
         "long": {
             "default": "Sør-Trøndelag"
@@ -89,7 +91,8 @@
         "parent": "NO",
         "ids": {
             "fips": "NO13",
-            "geonames": 3143188
+            "geonames": 3143188,
+            "iso_3166_2": "NO-01"
         },
         "long": {
             "default": "Østfold"
@@ -121,7 +124,8 @@
         "parent": "NO",
         "ids": {
             "fips": "NO10",
-            "geonames": 3144148
+            "geonames": 3144148,
+            "iso_3166_2": "NO-17"
         },
         "long": {
             "default": "Nord-Trøndelag"

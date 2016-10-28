@@ -3,7 +3,8 @@
         "parent": "MX",
         "ids": {
             "fips": "MX31",
-            "geonames": 3514211
+            "geonames": 3514211,
+            "iso_3166_2": "MX-YUC"
         },
         "long": {
             "default": "Yucatán"
@@ -68,7 +69,8 @@
         "parent": "MX",
         "ids": {
             "fips": "MX22",
-            "geonames": 3520914
+            "geonames": 3520914,
+            "iso_3166_2": "MX-QUE"
         },
         "long": {
             "default": "Querétaro"
@@ -100,7 +102,8 @@
         "parent": "MX",
         "ids": {
             "fips": "MX19",
-            "geonames": 3522542
+            "geonames": 3522542,
+            "iso_3166_2": "MX-NLE"
         },
         "long": {
             "default": "Nuevo León"
@@ -121,7 +124,8 @@
         "parent": "MX",
         "ids": {
             "fips": "MX15",
-            "geonames": 3523272
+            "geonames": 3523272,
+            "iso_3166_2": "MX-MEX"
         },
         "long": {
             "default": "México"
@@ -153,10 +157,11 @@
         "parent": "MX",
         "ids": {
             "fips": "MX09",
-            "geonames": 3527646
+            "geonames": 3527646,
+            "iso_3166_2": "MX-DIF"
         },
         "long": {
-            "default": "Mexico City"
+            "default": "Distrito Federal"
         }
     },
     {
@@ -240,7 +245,8 @@
         "parent": "MX",
         "ids": {
             "fips": "MX16",
-            "geonames": 3995955
+            "geonames": 3995955,
+            "iso_3166_2": "MX-MIC"
         },
         "long": {
             "default": "Michoacán"

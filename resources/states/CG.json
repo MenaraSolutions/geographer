@@ -58,7 +58,8 @@
         "parent": "CG",
         "ids": {
             "fips": "CF05",
-            "geonames": 2258534
+            "geonames": 2258534,
+            "iso_3166_2": "CG-2"
         },
         "long": {
             "default": "Lékoumou"
@@ -68,7 +69,8 @@
         "parent": "CG",
         "ids": {
             "fips": "CF04",
-            "geonames": 2258738
+            "geonames": 2258738,
+            "iso_3166_2": "CG-5"
         },
         "long": {
             "default": "Kouilou"

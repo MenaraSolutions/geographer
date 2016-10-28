@@ -146,7 +146,8 @@
         "parent": "CH",
         "ids": {
             "fips": "SZ12",
-            "geonames": 2659495
+            "geonames": 2659495,
+            "iso_3166_2": "CH-NE"
         },
         "long": {
             "default": "Neuchâtel"
@@ -156,7 +157,8 @@
         "parent": "CH",
         "ids": {
             "fips": "SZ11",
-            "geonames": 2659810
+            "geonames": 2659810,
+            "iso_3166_2": "CH-LU"
         },
         "long": {
             "default": "Lucerne"
@@ -177,7 +179,8 @@
         "parent": "CH",
         "ids": {
             "fips": "SZ09",
-            "geonames": 2660522
+            "geonames": 2660522,
+            "iso_3166_2": "CH-GR"
         },
         "long": {
             "default": "Grisons"
@@ -198,7 +201,8 @@
         "parent": "CH",
         "ids": {
             "fips": "SZ07",
-            "geonames": 2660645
+            "geonames": 2660645,
+            "iso_3166_2": "CH-GE"
         },
         "long": {
             "default": "Geneva"
@@ -230,10 +234,11 @@
         "parent": "CH",
         "ids": {
             "fips": "SZ04",
-            "geonames": 2661602
+            "geonames": 2661602,
+            "iso_3166_2": "CH-BS"
         },
         "long": {
-            "default": "Basel-City"
+            "default": "Basel City"
         }
     },
     {

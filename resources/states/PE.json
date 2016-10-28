@@ -25,7 +25,8 @@
         "parent": "PE",
         "ids": {
             "fips": "PE22",
-            "geonames": 3692385
+            "geonames": 3692385,
+            "iso_3166_2": "PE-SAM"
         },
         "long": {
             "default": "San Martín"
@@ -112,7 +113,8 @@
         "parent": "PE",
         "ids": {
             "fips": "PE01",
-            "geonames": 3699699
+            "geonames": 3699699,
+            "iso_3166_2": "PE-AMA"
         },
         "long": {
             "default": "Amazonas"
@@ -144,10 +146,11 @@
         "parent": "PE",
         "ids": {
             "fips": "PE19",
-            "geonames": 3932834
+            "geonames": 3932834,
+            "iso_3166_2": "PE-PAS"
         },
         "long": {
-            "default": "Pasco Region"
+            "default": "Pasco"
         }
     },
     {
@@ -176,17 +179,19 @@
         "parent": "PE",
         "ids": {
             "fips": "LMA",
-            "geonames": 3936451
+            "geonames": 3936451,
+            "iso_3166_2": "PE-LMA"
         },
         "long": {
-            "default": "Lima Province"
+            "default": "Lima"
         }
     },
     {
         "parent": "PE",
         "ids": {
             "fips": "PE15",
-            "geonames": 3936452
+            "geonames": 3936452,
+            "iso_3166_2": "PE-LIM"
         },
         "long": {
             "default": "Lima region"
@@ -196,10 +201,11 @@
         "parent": "PE",
         "ids": {
             "fips": "PE12",
-            "geonames": 3937485
+            "geonames": 3937485,
+            "iso_3166_2": "PE-JUN"
         },
         "long": {
-            "default": "Junín Region"
+            "default": "Junín"
         }
     },
     {
@@ -272,7 +278,8 @@
         "parent": "PE",
         "ids": {
             "fips": "PE03",
-            "geonames": 3947421
+            "geonames": 3947421,
+            "iso_3166_2": "PE-APU"
         },
         "long": {
             "default": "Apurímac"

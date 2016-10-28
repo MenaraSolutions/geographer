@@ -3,7 +3,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO19",
-            "geonames": 2262961
+            "geonames": 2262961,
+            "iso_3166_2": "PT-15"
         },
         "long": {
             "default": "Setúbal"
@@ -13,7 +14,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO18",
-            "geonames": 2263478
+            "geonames": 2263478,
+            "iso_3166_2": "PT-14"
         },
         "long": {
             "default": "Santarém"
@@ -34,7 +36,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO14",
-            "geonames": 2267056
+            "geonames": 2267056,
+            "iso_3166_2": "PT-11"
         },
         "long": {
             "default": "Lisbon"
@@ -66,7 +69,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO08",
-            "geonames": 2268404
+            "geonames": 2268404,
+            "iso_3166_2": "PT-07"
         },
         "long": {
             "default": "Évora"
@@ -98,7 +102,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO10",
-            "geonames": 2593105
+            "geonames": 2593105,
+            "iso_3166_2": "PT-30"
         },
         "long": {
             "default": "Madeira"
@@ -174,7 +179,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO05",
-            "geonames": 2742026
+            "geonames": 2742026,
+            "iso_3166_2": "PT-04"
         },
         "long": {
             "default": "Bragança"
@@ -206,7 +212,8 @@
         "parent": "PT",
         "ids": {
             "fips": "PO23",
-            "geonames": 3411865
+            "geonames": 3411865,
+            "iso_3166_2": "PT-20"
         },
         "long": {
             "default": "Azores"

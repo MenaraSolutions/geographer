@@ -3,7 +3,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT01",
-            "geonames": 8299700
+            "geonames": 8299700,
+            "iso_3166_2": "MT-01"
         },
         "long": {
             "default": "Attard"
@@ -13,7 +14,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT02",
-            "geonames": 8299701
+            "geonames": 8299701,
+            "iso_3166_2": "MT-02"
         },
         "long": {
             "default": "Balzan"
@@ -23,7 +25,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT03",
-            "geonames": 8299702
+            "geonames": 8299702,
+            "iso_3166_2": "MT-03"
         },
         "long": {
             "default": "Il-Birgu"
@@ -33,7 +36,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT04",
-            "geonames": 8299703
+            "geonames": 8299703,
+            "iso_3166_2": "MT-04"
         },
         "long": {
             "default": "Birkirkara"
@@ -43,7 +47,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT05",
-            "geonames": 8299704
+            "geonames": 8299704,
+            "iso_3166_2": "MT-05"
         },
         "long": {
             "default": "Birżebbuġa"
@@ -53,7 +58,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT06",
-            "geonames": 8299705
+            "geonames": 8299705,
+            "iso_3166_2": "MT-06"
         },
         "long": {
             "default": "Bormla"
@@ -63,7 +69,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT07",
-            "geonames": 8299706
+            "geonames": 8299706,
+            "iso_3166_2": "MT-07"
         },
         "long": {
             "default": "Dingli"
@@ -73,37 +80,41 @@
         "parent": "MT",
         "ids": {
             "fips": "MT08",
-            "geonames": 8299707
+            "geonames": 8299707,
+            "iso_3166_2": "MT-08"
         },
         "long": {
-            "default": "Il-Fgura"
+            "default": "Fgura"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT09",
-            "geonames": 8299708
+            "geonames": 8299708,
+            "iso_3166_2": "MT-09"
         },
         "long": {
-            "default": "Il-Furjana"
+            "default": "Floriana"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT10",
-            "geonames": 8299709
+            "geonames": 8299709,
+            "iso_3166_2": "MT-10"
         },
         "long": {
-            "default": "Il-Fontana"
+            "default": "Fontana"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT11",
-            "geonames": 8299710
+            "geonames": 8299710,
+            "iso_3166_2": "MT-13"
         },
         "long": {
             "default": "Għajnsielem"
@@ -113,157 +124,173 @@
         "parent": "MT",
         "ids": {
             "fips": "MT12",
-            "geonames": 8299711
+            "geonames": 8299711,
+            "iso_3166_2": "MT-14"
         },
         "long": {
-            "default": "L-Għarb"
+            "default": "Għarb"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT13",
-            "geonames": 8299712
+            "geonames": 8299712,
+            "iso_3166_2": "MT-15"
         },
         "long": {
-            "default": "Ħal Għargħur"
+            "default": "Għargħur"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT14",
-            "geonames": 8299713
+            "geonames": 8299713,
+            "iso_3166_2": "MT-16"
         },
         "long": {
-            "default": "L-Għasri"
+            "default": "Għasri"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT15",
-            "geonames": 8299714
+            "geonames": 8299714,
+            "iso_3166_2": "MT-17"
         },
         "long": {
-            "default": "Ħal Għaxaq"
+            "default": "Għaxaq"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT16",
-            "geonames": 8299715
+            "geonames": 8299715,
+            "iso_3166_2": "MT-11"
         },
         "long": {
-            "default": "Il-Gudja"
+            "default": "Gudja"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT17",
-            "geonames": 8299716
+            "geonames": 8299716,
+            "iso_3166_2": "MT-12"
         },
         "long": {
-            "default": "Il-Gżira"
+            "default": "Gżira"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT18",
-            "geonames": 8299717
+            "geonames": 8299717,
+            "iso_3166_2": "MT-18"
         },
         "long": {
-            "default": "Il-Ħamrun"
+            "default": "Ħamrun"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT19",
-            "geonames": 8299718
+            "geonames": 8299718,
+            "iso_3166_2": "MT-19"
         },
         "long": {
-            "default": "L-Iklin"
+            "default": "Iklin"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT20",
-            "geonames": 8299719
+            "geonames": 8299719,
+            "iso_3166_2": "MT-29"
         },
         "long": {
-            "default": "L-Imdina"
+            "default": "Mdina"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT21",
-            "geonames": 8299720
+            "geonames": 8299720,
+            "iso_3166_2": "MT-31"
         },
         "long": {
-            "default": "L-Imġarr"
+            "default": "Mġarr"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT22",
-            "geonames": 8299721
+            "geonames": 8299721,
+            "iso_3166_2": "MT-33"
         },
         "long": {
-            "default": "L-Imqabba"
+            "default": "Mqabba"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT23",
-            "geonames": 8299722
+            "geonames": 8299722,
+            "iso_3166_2": "MT-34"
         },
         "long": {
-            "default": "L-Imsida"
+            "default": "Msida"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT24",
-            "geonames": 8299723
+            "geonames": 8299723,
+            "iso_3166_2": "MT-35"
         },
         "long": {
-            "default": "L-Imtarfa"
+            "default": "Mtarfa"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT25",
-            "geonames": 8299724
+            "geonames": 8299724,
+            "iso_3166_2": "MT-20"
         },
         "long": {
-            "default": "L-Isla"
+            "default": "Isla"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT26",
-            "geonames": 8299725
+            "geonames": 8299725,
+            "iso_3166_2": "MT-21"
         },
         "long": {
-            "default": "Il-Kalkara"
+            "default": "Kalkara"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT27",
-            "geonames": 8299726
+            "geonames": 8299726,
+            "iso_3166_2": "MT-22"
         },
         "long": {
             "default": "Ta’ Kerċem"
@@ -273,7 +300,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT28",
-            "geonames": 8299727
+            "geonames": 8299727,
+            "iso_3166_2": "MT-23"
         },
         "long": {
             "default": "Kirkop"
@@ -283,7 +311,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT29",
-            "geonames": 8299728
+            "geonames": 8299728,
+            "iso_3166_2": "MT-24"
         },
         "long": {
             "default": "Lija"
@@ -293,7 +322,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT30",
-            "geonames": 8299729
+            "geonames": 8299729,
+            "iso_3166_2": "MT-25"
         },
         "long": {
             "default": "Luqa"
@@ -303,7 +333,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT31",
-            "geonames": 8299730
+            "geonames": 8299730,
+            "iso_3166_2": "MT-26"
         },
         "long": {
             "default": "Il-Marsa"
@@ -313,7 +344,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT32",
-            "geonames": 8299731
+            "geonames": 8299731,
+            "iso_3166_2": "MT-27"
         },
         "long": {
             "default": "Marsaskala"
@@ -323,7 +355,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT33",
-            "geonames": 8299732
+            "geonames": 8299732,
+            "iso_3166_2": "MT-28"
         },
         "long": {
             "default": "Marsaxlokk"
@@ -333,57 +366,63 @@
         "parent": "MT",
         "ids": {
             "fips": "MT34",
-            "geonames": 8299733
+            "geonames": 8299733,
+            "iso_3166_2": "MT-30"
         },
         "long": {
-            "default": "Il-Mellieħa"
+            "default": "Mellieħa"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT35",
-            "geonames": 8299734
+            "geonames": 8299734,
+            "iso_3166_2": "MT-32"
         },
         "long": {
-            "default": "Il-Mosta"
+            "default": "Mosta"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT36",
-            "geonames": 8299735
+            "geonames": 8299735,
+            "iso_3166_2": "MT-36"
         },
         "long": {
-            "default": "Il-Munxar"
+            "default": "Munxar"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT37",
-            "geonames": 8299736
+            "geonames": 8299736,
+            "iso_3166_2": "MT-37"
         },
         "long": {
-            "default": "In-Nadur"
+            "default": "Nadur"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT38",
-            "geonames": 8299737
+            "geonames": 8299737,
+            "iso_3166_2": "MT-38"
         },
         "long": {
-            "default": "In-Naxxar"
+            "default": "Naxxar"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT39",
-            "geonames": 8299738
+            "geonames": 8299738,
+            "iso_3166_2": "MT-39"
         },
         "long": {
             "default": "Paola"
@@ -393,7 +432,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT40",
-            "geonames": 8299739
+            "geonames": 8299739,
+            "iso_3166_2": "MT-40"
         },
         "long": {
             "default": "Pembroke"
@@ -403,27 +443,30 @@
         "parent": "MT",
         "ids": {
             "fips": "MT41",
-            "geonames": 8299740
+            "geonames": 8299740,
+            "iso_3166_2": "MT-41"
         },
         "long": {
-            "default": "Tal-Pietà"
+            "default": "Pietà"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT42",
-            "geonames": 8299741
+            "geonames": 8299741,
+            "iso_3166_2": "MT-42"
         },
         "long": {
-            "default": "Il-Qala"
+            "default": "Qala"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT43",
-            "geonames": 8299742
+            "geonames": 8299742,
+            "iso_3166_2": "MT-43"
         },
         "long": {
             "default": "Qormi"
@@ -433,17 +476,19 @@
         "parent": "MT",
         "ids": {
             "fips": "MT44",
-            "geonames": 8299743
+            "geonames": 8299743,
+            "iso_3166_2": "MT-44"
         },
         "long": {
-            "default": "Il-Qrendi"
+            "default": "Qrendi"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT45",
-            "geonames": 8299744
+            "geonames": 8299744,
+            "iso_3166_2": "MT-46"
         },
         "long": {
             "default": "Ir-Rabat"
@@ -453,7 +498,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT46",
-            "geonames": 8299745
+            "geonames": 8299745,
+            "iso_3166_2": "MT-45"
         },
         "long": {
             "default": "Victoria"
@@ -463,7 +509,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT47",
-            "geonames": 8299746
+            "geonames": 8299746,
+            "iso_3166_2": "MT-47"
         },
         "long": {
             "default": "Safi"
@@ -473,7 +520,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT48",
-            "geonames": 8299747
+            "geonames": 8299747,
+            "iso_3166_2": "MT-49"
         },
         "long": {
             "default": "Saint John"
@@ -483,7 +531,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT49",
-            "geonames": 8299748
+            "geonames": 8299748,
+            "iso_3166_2": "MT-48"
         },
         "long": {
             "default": "Saint Julian"
@@ -493,7 +542,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT50",
-            "geonames": 8299749
+            "geonames": 8299749,
+            "iso_3166_2": "MT-50"
         },
         "long": {
             "default": "Saint Lawrence"
@@ -503,7 +553,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT51",
-            "geonames": 8299750
+            "geonames": 8299750,
+            "iso_3166_2": "MT-53"
         },
         "long": {
             "default": "Saint Lucia"
@@ -513,7 +564,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT52",
-            "geonames": 8299751
+            "geonames": 8299751,
+            "iso_3166_2": "MT-51"
         },
         "long": {
             "default": "Saint Paul’s Bay"
@@ -523,7 +575,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT53",
-            "geonames": 8299752
+            "geonames": 8299752,
+            "iso_3166_2": "MT-54"
         },
         "long": {
             "default": "Saint Venera"
@@ -533,7 +586,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT54",
-            "geonames": 8299753
+            "geonames": 8299753,
+            "iso_3166_2": "MT-52"
         },
         "long": {
             "default": "Sannat"
@@ -543,37 +597,41 @@
         "parent": "MT",
         "ids": {
             "fips": "MT55",
-            "geonames": 8299754
+            "geonames": 8299754,
+            "iso_3166_2": "MT-55"
         },
         "long": {
-            "default": "Is-Siġġiewi"
+            "default": "Siġġiewi"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT56",
-            "geonames": 8299755
+            "geonames": 8299755,
+            "iso_3166_2": "MT-56"
         },
         "long": {
-            "default": "Tas-Sliema"
+            "default": "Sliema"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT57",
-            "geonames": 8299756
+            "geonames": 8299756,
+            "iso_3166_2": "MT-57"
         },
         "long": {
-            "default": "Is-Swieqi"
+            "default": "Swieqi"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT58",
-            "geonames": 8299757
+            "geonames": 8299757,
+            "iso_3166_2": "MT-59"
         },
         "long": {
             "default": "Tarxien"
@@ -583,7 +641,8 @@
         "parent": "MT",
         "ids": {
             "fips": "MT59",
-            "geonames": 8299758
+            "geonames": 8299758,
+            "iso_3166_2": "MT-58"
         },
         "long": {
             "default": "Ta’ Xbiex"
@@ -593,90 +652,99 @@
         "parent": "MT",
         "ids": {
             "fips": "MT61",
-            "geonames": 8299759
+            "geonames": 8299759,
+            "iso_3166_2": "MT-61"
         },
         "long": {
-            "default": "Ix-Xagħra"
+            "default": "Xagħra"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT62",
-            "geonames": 8299760
+            "geonames": 8299760,
+            "iso_3166_2": "MT-62"
         },
         "long": {
-            "default": "Ix-Xewkija"
+            "default": "Xewkija"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT63",
-            "geonames": 8299761
+            "geonames": 8299761,
+            "iso_3166_2": "MT-63"
         },
         "long": {
-            "default": "Ix-Xgħajra"
+            "default": "Xgħajra"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT64",
-            "geonames": 8299762
+            "geonames": 8299762,
+            "iso_3166_2": "MT-64"
         },
         "long": {
-            "default": "Ħaż-Żabbar"
+            "default": "Żabbar"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT65",
-            "geonames": 8299763
+            "geonames": 8299763,
+            "iso_3166_2": "MT-65"
         },
         "long": {
-            "default": "Ħaż-Żebbuġ"
+            "default": "Żebbuġ Gozo"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT66",
-            "geonames": 8299764
+            "geonames": 8299764,
+            "iso_3166_2": "MT-66"
         },
         "long": {
-            "default": "Iż-Żebbuġ"
+            "default": "Żebbuġ Malta"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT67",
-            "geonames": 8299765
+            "geonames": 8299765,
+            "iso_3166_2": "MT-67"
         },
         "long": {
-            "default": "Iż-Żejtun"
+            "default": "Żejtun"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT68",
-            "geonames": 8299766
+            "geonames": 8299766,
+            "iso_3166_2": "MT-68"
         },
         "long": {
-            "default": "Iż-Żurrieq"
+            "default": "Żurrieq"
         }
     },
     {
         "parent": "MT",
         "ids": {
             "fips": "MT60",
-            "geonames": 8334638
+            "geonames": 8334638,
+            "iso_3166_2": "MT-60"
         },
         "long": {
-            "default": "Il-Belt Valletta"
+            "default": "Valletta"
         }
     }
 ]

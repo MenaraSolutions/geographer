@@ -14,7 +14,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO39",
-            "geonames": 662892
+            "geonames": 662892,
+            "iso_3166_2": "RO-VL"
         },
         "long": {
             "default": "Vâlcea"
@@ -46,7 +47,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO36",
-            "geonames": 665091
+            "geonames": 665091,
+            "iso_3166_2": "RO-TM"
         },
         "long": {
             "default": "Timiş"
@@ -100,7 +102,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO31",
-            "geonames": 668248
+            "geonames": 668248,
+            "iso_3166_2": "RO-SJ"
         },
         "long": {
             "default": "Sălaj"
@@ -121,17 +124,19 @@
         "parent": "RO",
         "ids": {
             "fips": "RO29",
-            "geonames": 671857
+            "geonames": 671857,
+            "iso_3166_2": "RO-OT"
         },
         "long": {
-            "default": "Olt County"
+            "default": "Olt"
         }
     },
     {
         "parent": "RO",
         "ids": {
             "fips": "RO28",
-            "geonames": 672460
+            "geonames": 672460,
+            "iso_3166_2": "RO-NT"
         },
         "long": {
             "default": "Neamţ"
@@ -141,7 +146,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO27",
-            "geonames": 672628
+            "geonames": 672628,
+            "iso_3166_2": "RO-MS"
         },
         "long": {
             "default": "Mureş"
@@ -151,7 +157,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO26",
-            "geonames": 673612
+            "geonames": 673612,
+            "iso_3166_2": "RO-MH"
         },
         "long": {
             "default": "Mehedinţi"
@@ -161,7 +168,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO25",
-            "geonames": 673887
+            "geonames": 673887,
+            "iso_3166_2": "RO-MM"
         },
         "long": {
             "default": "Maramureş"
@@ -171,7 +179,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO23",
-            "geonames": 675809
+            "geonames": 675809,
+            "iso_3166_2": "RO-IS"
         },
         "long": {
             "default": "Iaşi"
@@ -181,7 +190,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO22",
-            "geonames": 675848
+            "geonames": 675848,
+            "iso_3166_2": "RO-IL"
         },
         "long": {
             "default": "Ialomiţa"
@@ -235,7 +245,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO18",
-            "geonames": 677692
+            "geonames": 677692,
+            "iso_3166_2": "RO-GL"
         },
         "long": {
             "default": "Galaţi"
@@ -256,7 +267,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO16",
-            "geonames": 679385
+            "geonames": 679385,
+            "iso_3166_2": "RO-DB"
         },
         "long": {
             "default": "Dâmboviţa"
@@ -277,7 +289,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO14",
-            "geonames": 680962
+            "geonames": 680962,
+            "iso_3166_2": "RO-CT"
         },
         "long": {
             "default": "Constanța"
@@ -298,7 +311,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO12",
-            "geonames": 682714
+            "geonames": 682714,
+            "iso_3166_2": "RO-CS"
         },
         "long": {
             "default": "Caraş-Severin"
@@ -308,7 +322,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO41",
-            "geonames": 683016
+            "geonames": 683016,
+            "iso_3166_2": "RO-CL"
         },
         "long": {
             "default": "Călăraşi"
@@ -318,7 +333,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO11",
-            "geonames": 683121
+            "geonames": 683121,
+            "iso_3166_2": "RO-BZ"
         },
         "long": {
             "default": "Buzău"
@@ -328,7 +344,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO10",
-            "geonames": 683504
+            "geonames": 683504,
+            "iso_3166_2": "RO-B"
         },
         "long": {
             "default": "Bucureşti"
@@ -338,7 +355,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO09",
-            "geonames": 683843
+            "geonames": 683843,
+            "iso_3166_2": "RO-BV"
         },
         "long": {
             "default": "Braşov"
@@ -348,7 +366,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO08",
-            "geonames": 683901
+            "geonames": 683901,
+            "iso_3166_2": "RO-BR"
         },
         "long": {
             "default": "Brăila"
@@ -358,7 +377,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO07",
-            "geonames": 684038
+            "geonames": 684038,
+            "iso_3166_2": "RO-BT"
         },
         "long": {
             "default": "Botoşani"
@@ -368,7 +388,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO06",
-            "geonames": 684647
+            "geonames": 684647,
+            "iso_3166_2": "RO-BN"
         },
         "long": {
             "default": "Bistriţa-Năsăud"
@@ -389,7 +410,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO04",
-            "geonames": 685947
+            "geonames": 685947,
+            "iso_3166_2": "RO-BC"
         },
         "long": {
             "default": "Bacău"
@@ -399,7 +421,8 @@
         "parent": "RO",
         "ids": {
             "fips": "RO03",
-            "geonames": 686192
+            "geonames": 686192,
+            "iso_3166_2": "RO-AG"
         },
         "long": {
             "default": "Argeş"

@@ -69,20 +69,22 @@
         "parent": "NZ",
         "ids": {
             "fips": "E8",
-            "geonames": 2182560
+            "geonames": 2182560,
+            "iso_3166_2": "NZ-BOP"
         },
         "long": {
-            "default": "Bay of Plenty Region"
+            "default": "Bay of Plenty"
         }
     },
     {
         "parent": "NZ",
         "ids": {
             "fips": "F6",
-            "geonames": 2185978
+            "geonames": 2185978,
+            "iso_3166_2": "NZ-NTL"
         },
         "long": {
-            "default": "Northland Region"
+            "default": "Northland"
         }
     },
     {

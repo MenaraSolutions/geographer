@@ -3,40 +3,44 @@
         "parent": "PL",
         "ids": {
             "fips": "PL75",
-            "geonames": 858785
+            "geonames": 858785,
+            "iso_3166_2": "PL-LU"
         },
         "long": {
-            "default": "Lublin Voivodeship"
+            "default": "Lublin"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL77",
-            "geonames": 858786
+            "geonames": 858786,
+            "iso_3166_2": "PL-MA"
         },
         "long": {
-            "default": "Lesser Poland Voivodeship"
+            "default": "Lesser Poland"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL78",
-            "geonames": 858787
+            "geonames": 858787,
+            "iso_3166_2": "PL-MZ"
         },
         "long": {
-            "default": "Masovian Voivodeship"
+            "default": "Masovian"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL80",
-            "geonames": 858788
+            "geonames": 858788,
+            "iso_3166_2": "PL-PK"
         },
         "long": {
-            "default": "Subcarpathian Voivodeship"
+            "default": "Subcarpathian"
         }
     },
     {
@@ -54,47 +58,52 @@
         "parent": "PL",
         "ids": {
             "fips": "PL84",
-            "geonames": 858790
+            "geonames": 858790,
+            "iso_3166_2": "PL-SK"
         },
         "long": {
-            "default": "Świętokrzyskie"
+            "default": "Holy Cross"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL85",
-            "geonames": 858791
+            "geonames": 858791,
+            "iso_3166_2": "PL-WN"
         },
         "long": {
-            "default": "Warmian-Masurian Voivodeship"
+            "default": "Warmian-Masurian"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL72",
-            "geonames": 3337492
+            "geonames": 3337492,
+            "iso_3166_2": "PL-DS"
         },
         "long": {
-            "default": "Lower Silesian Voivodeship"
+            "default": "Lower Silesian"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL74",
-            "geonames": 3337493
+            "geonames": 3337493,
+            "iso_3166_2": "PL-LD"
         },
         "long": {
-            "default": "Łódź Voivodeship"
+            "default": "Łódź"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL76",
-            "geonames": 3337494
+            "geonames": 3337494,
+            "iso_3166_2": "PL-LB"
         },
         "long": {
             "default": "Lubusz"
@@ -104,50 +113,55 @@
         "parent": "PL",
         "ids": {
             "fips": "PL79",
-            "geonames": 3337495
+            "geonames": 3337495,
+            "iso_3166_2": "PL-OP"
         },
         "long": {
-            "default": "Opole Voivodeship"
+            "default": "Opole"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL82",
-            "geonames": 3337496
+            "geonames": 3337496,
+            "iso_3166_2": "PL-PM"
         },
         "long": {
-            "default": "Pomeranian Voivodeship"
+            "default": "Pomeranian"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL83",
-            "geonames": 3337497
+            "geonames": 3337497,
+            "iso_3166_2": "PL-SL"
         },
         "long": {
-            "default": "Silesian Voivodeship"
+            "default": "Silesian"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL86",
-            "geonames": 3337498
+            "geonames": 3337498,
+            "iso_3166_2": "PL-WP"
         },
         "long": {
-            "default": "Greater Poland Voivodeship"
+            "default": "Greater Poland"
         }
     },
     {
         "parent": "PL",
         "ids": {
             "fips": "PL87",
-            "geonames": 3337499
+            "geonames": 3337499,
+            "iso_3166_2": "PL-ZP"
         },
         "long": {
-            "default": "West Pomeranian Voivodeship"
+            "default": "West Pomeranian"
         }
     },
     {

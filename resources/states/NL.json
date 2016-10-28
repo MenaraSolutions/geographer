@@ -3,7 +3,8 @@
         "parent": "NL",
         "ids": {
             "fips": "NL11",
-            "geonames": 2743698
+            "geonames": 2743698,
+            "iso_3166_2": "NL-ZH"
         },
         "long": {
             "default": "South Holland"
@@ -46,7 +47,8 @@
         "parent": "NL",
         "ids": {
             "fips": "NL07",
-            "geonames": 2749879
+            "geonames": 2749879,
+            "iso_3166_2": "NL-"
         },
         "long": {
             "default": "North Holland"
@@ -56,7 +58,8 @@
         "parent": "NL",
         "ids": {
             "fips": "NL06",
-            "geonames": 2749990
+            "geonames": 2749990,
+            "iso_3166_2": "NL-NB"
         },
         "long": {
             "default": "North Brabant"
@@ -66,7 +69,8 @@
         "parent": "NL",
         "ids": {
             "fips": "NL05",
-            "geonames": 2751596
+            "geonames": 2751596,
+            "iso_3166_2": "NL-LI"
         },
         "long": {
             "default": "Limburg"
@@ -98,7 +102,8 @@
         "parent": "NL",
         "ids": {
             "fips": "NL02",
-            "geonames": 2755812
+            "geonames": 2755812,
+            "iso_3166_2": "NL-FR"
         },
         "long": {
             "default": "Friesland"

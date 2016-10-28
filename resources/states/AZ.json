@@ -103,6 +103,17 @@
         "ids": {
             "fips": "AJ35",
             "geonames": 147435,
+            "iso_3166_2": "AZ-NX"
+        },
+        "long": {
+            "default": "Nakhchivan"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 147434,
             "iso_3166_2": "AZ-NV"
         },
         "long": {
@@ -580,6 +591,83 @@
         },
         "long": {
             "default": "Balakǝn"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 7669114,
+            "iso_3166_2": "AZ-BAB"
+        },
+        "long": {
+            "default": "Babek"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 148132,
+            "iso_3166_2": "AZ-CUL"
+        },
+        "long": {
+            "default": "Julfa"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 8014931,
+            "iso_3166_2": "AZ-KAN"
+        },
+        "long": {
+            "default": "Kangarli"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 147365,
+            "iso_3166_2": "AZ-ORD"
+        },
+        "long": {
+            "default": "Ordubad"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 409387,
+            "iso_3166_2": "AZ-SAD"
+        },
+        "long": {
+            "default": "Sadarak"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 147212,
+            "iso_3166_2": "AZ-SAH"
+        },
+        "long": {
+            "default": "Shahbuz"
+        }
+    },
+    {
+        "parent": "AZ",
+        "ids": {
+            "fips": false,
+            "geonames": 147997,
+            "iso_3166_2": "AZ-SAR"
+        },
+        "long": {
+            "default": "Sharur"
         }
     },
     {

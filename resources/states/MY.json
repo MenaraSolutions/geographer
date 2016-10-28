@@ -113,7 +113,8 @@
         "parent": "MY",
         "ids": {
             "fips": "MY14",
-            "geonames": 1733046
+            "geonames": 1733046,
+            "iso_3166_2": "MY-14"
         },
         "long": {
             "default": "Kuala Lumpur"
@@ -123,7 +124,8 @@
         "parent": "MY",
         "ids": {
             "fips": "MY09",
-            "geonames": 1733047
+            "geonames": 1733047,
+            "iso_3166_2": "MY-07"
         },
         "long": {
             "default": "Penang"
@@ -155,7 +157,8 @@
         "parent": "MY",
         "ids": {
             "fips": "MY15",
-            "geonames": 1734240
+            "geonames": 1734240,
+            "iso_3166_2": "MY-15"
         },
         "long": {
             "default": "Labuan"
@@ -165,7 +168,8 @@
         "parent": "MY",
         "ids": {
             "fips": "MY17",
-            "geonames": 1996552
+            "geonames": 1996552,
+            "iso_3166_2": "MY-16"
         },
         "long": {
             "default": "Putrajaya"
