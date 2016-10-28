@@ -55,7 +55,7 @@ class StateTest extends Test
     }
 
     /**
-     * 
+     *
      */
     public function all_countries_got_correct_iso_state_count()
     {
