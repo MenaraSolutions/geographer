@@ -55,6 +55,11 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     protected $parentCode;
 
     /**
+     * @var string
+     */
+    protected $standard;
+
+    /**
      * @var array
      */
     protected $exposed = [];
@@ -88,7 +93,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     protected function loadMembers(MemberCollection $collection = null)
     {
-        $standard = $this->manager->getStandard();
+        $standard = $this->standard ?: $this->manager->getStandard();
 
         $data = $this->manager->getRepository()->getData(get_class($this), [
             'code' => $this->getCode(), 'parentCode' => $this->getParentCode()

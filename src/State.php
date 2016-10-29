@@ -19,6 +19,11 @@ class State extends Divisible
     protected static $parentClass = Country::class;
 
     /**
+     * @var string
+     */
+    protected $standard = 'geonames';
+
+    /**
      * @var array
      */
     protected $exposed = [
