@@ -3,17 +3,7 @@
         "parent": "LV",
         "ids": {
             "fips": "LG33",
-            "geonames": 454307
-        },
-        "long": {
-            "default": "Ventspils Rajons"
-        }
-    },
-    {
-        "parent": "LV",
-        "ids": {
-            "fips": "LG32",
-            "geonames": 454311,
+            "geonames": 454307,
             "iso_3166_2": "LV-106"
         },
         "long": {
@@ -23,51 +13,67 @@
     {
         "parent": "LV",
         "ids": {
-            "fips": "LG31",
-            "geonames": 454564
+            "fips": "LG32",
+            "geonames": 454311,
+            "iso_3166_2": "LV-VEN"
         },
         "long": {
-            "default": "Valmieras Rajons"
+            "default": "Ventspils"
+        }
+    },
+    {
+        "parent": "LV",
+        "ids": {
+            "fips": "LG31",
+            "geonames": 454564,
+            "iso_3166_2": "LV-VMR"
+        },
+        "long": {
+            "default": "Valmieras"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG30",
-            "geonames": 454571
+            "geonames": 454571,
+            "iso_3166_2": "LV-101"
         },
         "long": {
-            "default": "Valkas Rajons"
+            "default": "Valkas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG29",
-            "geonames": 454771
+            "geonames": 454771,
+            "iso_3166_2": "LV-099"
         },
         "long": {
-            "default": "Tukuma Rajons"
+            "default": "Tukuma"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG28",
-            "geonames": 454968
+            "geonames": 454968,
+            "iso_3166_2": "LV-097"
         },
         "long": {
-            "default": "Talsu Rajons"
+            "default": "Talsu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG27",
-            "geonames": 455888
+            "geonames": 455888,
+            "iso_3166_2": "LV-088"
         },
         "long": {
-            "default": "Saldus Rajons"
+            "default": "Saldus"
         }
     },
     {
@@ -85,17 +91,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG24",
-            "geonames": 456197
+            "geonames": 456197,
+            "iso_3166_2": "LV-077"
         },
         "long": {
-            "default": "Rēzeknes Rajons"
+            "default": "Rēzeknes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG23",
-            "geonames": 456203
+            "geonames": 456203,
+            "iso_3166_2": "LV-REZ"
         },
         "long": {
             "default": "Rēzekne"
@@ -105,57 +113,63 @@
         "parent": "LV",
         "ids": {
             "fips": "LG22",
-            "geonames": 456528
+            "geonames": 456528,
+            "iso_3166_2": "LV-073"
         },
         "long": {
-            "default": "Preiļu Rajons"
+            "default": "Preiļu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG21",
-            "geonames": 457061
+            "geonames": 457061,
+            "iso_3166_2": "LV-067"
         },
         "long": {
-            "default": "Ogre"
+            "default": "Ogres"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG20",
-            "geonames": 457712
+            "geonames": 457712,
+            "iso_3166_2": "LV-059"
         },
         "long": {
-            "default": "Madonas Rajons"
+            "default": "Madonas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG19",
-            "geonames": 457773
+            "geonames": 457773,
+            "iso_3166_2": "LV-058"
         },
         "long": {
-            "default": "Ludzas Rajons"
+            "default": "Ludzas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG18",
-            "geonames": 457889
+            "geonames": 457889,
+            "iso_3166_2": "LV-054"
         },
         "long": {
-            "default": "Limbažu Rajons"
+            "default": "Limbažu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG16",
-            "geonames": 457955
+            "geonames": 457955,
+            "iso_3166_2": "LV-LPX"
         },
         "long": {
             "default": "Liepāja"
@@ -165,27 +179,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG15",
-            "geonames": 458459
+            "geonames": 458459,
+            "iso_3166_2": "LV-050"
         },
         "long": {
-            "default": "Kuldīgas Rajons"
+            "default": "Kuldīgas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG14",
-            "geonames": 458621
+            "geonames": 458621,
+            "iso_3166_2": "LV-047"
         },
         "long": {
-            "default": "Krāslavas Rajons"
+            "default": "Krāslavas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG13",
-            "geonames": 459202
+            "geonames": 459202,
+            "iso_3166_2": "LV-JUR"
         },
         "long": {
             "default": "Jūrmala"
@@ -195,10 +212,11 @@
         "parent": "LV",
         "ids": {
             "fips": "LG12",
-            "geonames": 459278
+            "geonames": 459278,
+            "iso_3166_2": "LV-041"
         },
         "long": {
-            "default": "Jelgavas Rajons"
+            "default": "Jelgavas"
         }
     },
     {
@@ -206,7 +224,7 @@
         "ids": {
             "fips": "LG11",
             "geonames": 459281,
-            "iso_3166_2": "LV-041"
+            "iso_3166_2": "LV-JEL"
         },
         "long": {
             "default": "Jelgava"
@@ -216,40 +234,44 @@
         "parent": "LV",
         "ids": {
             "fips": "LG10",
-            "geonames": 459282
+            "geonames": 459282,
+            "iso_3166_2": "LV-JKB"
         },
         "long": {
-            "default": "Jēkabpils Municipality"
+            "default": "Jēkabpils"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG09",
-            "geonames": 459664
+            "geonames": 459664,
+            "iso_3166_2": "LV-033"
         },
         "long": {
-            "default": "Gulbenes Rajons"
+            "default": "Gulbenes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG08",
-            "geonames": 460311
+            "geonames": 460311,
+            "iso_3166_2": "LV-026"
         },
         "long": {
-            "default": "Dobeles Rajons"
+            "default": "Dobeles"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG07",
-            "geonames": 460410
+            "geonames": 460410,
+            "iso_3166_2": "LV-DGV"
         },
         "long": {
-            "default": "Daugavpils municipality"
+            "default": "Daugavpils"
         }
     },
     {
@@ -267,50 +289,55 @@
         "parent": "LV",
         "ids": {
             "fips": "LG05",
-            "geonames": 460569
+            "geonames": 460569,
+            "iso_3166_2": "LV-022"
         },
         "long": {
-            "default": "Cēsu Rajons"
+            "default": "Cēsu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG04",
-            "geonames": 461112
+            "geonames": 461112,
+            "iso_3166_2": "LV-016"
         },
         "long": {
-            "default": "Bauskas Rajons"
+            "default": "Bauskas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG03",
-            "geonames": 461160
+            "geonames": 461160,
+            "iso_3166_2": "LV-015"
         },
         "long": {
-            "default": "Balvu Rajons"
+            "default": "Balvu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG02",
-            "geonames": 461525
+            "geonames": 461525,
+            "iso_3166_2": "LV-007"
         },
         "long": {
-            "default": "Alūksnes Rajons"
+            "default": "Alūksnes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG01",
-            "geonames": 461613
+            "geonames": 461613,
+            "iso_3166_2": "LV-002"
         },
         "long": {
-            "default": "Aizkraukles Rajons"
+            "default": "Aizkraukles"
         }
     },
     {
@@ -328,17 +355,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG40",
-            "geonames": 7628299
+            "geonames": 7628299,
+            "iso_3166_2": "LV-006"
         },
         "long": {
-            "default": "Alsunga"
+            "default": "Alsungas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "A5",
-            "geonames": 7628300
+            "geonames": 7628300,
+            "iso_3166_2": "LV-071"
         },
         "long": {
             "default": "Pāvilostas"
@@ -348,17 +377,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG99",
-            "geonames": 7628301
+            "geonames": 7628301,
+            "iso_3166_2": "LV-066"
         },
         "long": {
-            "default": "Nīca"
+            "default": "Nīcas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "B6",
-            "geonames": 7628302
+            "geonames": 7628302,
+            "iso_3166_2": "LV-081"
         },
         "long": {
             "default": "Rucavas"
@@ -368,20 +399,22 @@
         "parent": "LV",
         "ids": {
             "fips": "LG65",
-            "geonames": 7628303
+            "geonames": 7628303,
+            "iso_3166_2": "LV-032"
         },
         "long": {
-            "default": "Grobiņa"
+            "default": "Grobiņas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG61",
-            "geonames": 7628304
+            "geonames": 7628304,
+            "iso_3166_2": "LV-028"
         },
         "long": {
-            "default": "Durbe"
+            "default": "Durbes"
         }
     },
     {
@@ -399,20 +432,22 @@
         "parent": "LV",
         "ids": {
             "fips": "A8",
-            "geonames": 7628306
+            "geonames": 7628306,
+            "iso_3166_2": "LV-074"
         },
         "long": {
-            "default": "Priekule"
+            "default": "Priekules"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "D7",
-            "geonames": 7628307
+            "geonames": 7628307,
+            "iso_3166_2": "LV-100"
         },
         "long": {
-            "default": "Vaiņode"
+            "default": "Vaiņodes"
         }
     },
     {
@@ -430,10 +465,11 @@
         "parent": "LV",
         "ids": {
             "fips": "LG51",
-            "geonames": 7628309
+            "geonames": 7628309,
+            "iso_3166_2": "LV-018"
         },
         "long": {
-            "default": "Brocēni"
+            "default": "Brocēnu"
         }
     },
     {
@@ -451,20 +487,22 @@
         "parent": "LV",
         "ids": {
             "fips": "LG77",
-            "geonames": 7628311
+            "geonames": 7628311,
+            "iso_3166_2": "LV-043"
         },
         "long": {
-            "default": "Kandava"
+            "default": "Kandavas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG44",
-            "geonames": 7628312
+            "geonames": 7628312,
+            "iso_3166_2": "LV-010"
         },
         "long": {
-            "default": "Auces Novads"
+            "default": "Auces"
         }
     },
     {
@@ -482,20 +520,22 @@
         "parent": "LV",
         "ids": {
             "fips": "LG62",
-            "geonames": 7628314
+            "geonames": 7628314,
+            "iso_3166_2": "LV-029"
         },
         "long": {
-            "default": "Engure"
+            "default": "Engures"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "D5",
-            "geonames": 7628315
+            "geonames": 7628315,
+            "iso_3166_2": "LV-098"
         },
         "long": {
-            "default": "Tērvete"
+            "default": "Tērvetes"
         }
     },
     {
@@ -513,7 +553,8 @@
         "parent": "LV",
         "ids": {
             "fips": "B9",
-            "geonames": 7628317
+            "geonames": 7628317,
+            "iso_3166_2": "LV-083"
         },
         "long": {
             "default": "Rundāles"
@@ -523,20 +564,22 @@
         "parent": "LV",
         "ids": {
             "fips": "LG45",
-            "geonames": 7628318
+            "geonames": 7628318,
+            "iso_3166_2": "LV-012"
         },
         "long": {
-            "default": "Babīte"
+            "default": "Babītes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG95",
-            "geonames": 7628319
+            "geonames": 7628319,
+            "iso_3166_2": "LV-062"
         },
         "long": {
-            "default": "Mārupe"
+            "default": "Mārupes"
         }
     },
     {
@@ -554,27 +597,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG67",
-            "geonames": 7628321
+            "geonames": 7628321,
+            "iso_3166_2": "LV-034"
         },
         "long": {
-            "default": "Lecava"
+            "default": "Iecavas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG80",
-            "geonames": 7628322
+            "geonames": 7628322,
+            "iso_3166_2": "LV-052"
         },
         "long": {
-            "default": "Ķekava"
+            "default": "Ķekavas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "C3",
-            "geonames": 7628323
+            "geonames": 7628323,
+            "iso_3166_2": "LV-087"
         },
         "long": {
             "default": "Salaspils"
@@ -584,20 +630,22 @@
         "parent": "LV",
         "ids": {
             "fips": "LG46",
-            "geonames": 7628324
+            "geonames": 7628324,
+            "iso_3166_2": "LV-013"
         },
         "long": {
-            "default": "Baldone"
+            "default": "Baldones"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "D2",
-            "geonames": 7628325
+            "geonames": 7628325,
+            "iso_3166_2": "LV-095"
         },
         "long": {
-            "default": "Stopiņi"
+            "default": "Stopiņu"
         }
     },
     {
@@ -615,27 +663,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG34",
-            "geonames": 7628327
+            "geonames": 7628327,
+            "iso_3166_2": "LV-011"
         },
         "long": {
-            "default": "Ādaži"
+            "default": "Ādažu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG64",
-            "geonames": 7628328
+            "geonames": 7628328,
+            "iso_3166_2": "LV-031"
         },
         "long": {
-            "default": "Garkalne"
+            "default": "Garkalnes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "E4",
-            "geonames": 7628329
+            "geonames": 7628329,
+            "iso_3166_2": "LV-105"
         },
         "long": {
             "default": "Vecumnieki"
@@ -645,30 +696,33 @@
         "parent": "LV",
         "ids": {
             "fips": "LG79",
-            "geonames": 7628330
+            "geonames": 7628330,
+            "iso_3166_2": "LV-051"
         },
         "long": {
-            "default": "Ķegums"
+            "default": "Ķeguma"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG87",
-            "geonames": 7628331
+            "geonames": 7628331,
+            "iso_3166_2": "LV-053"
         },
         "long": {
-            "default": "Lielvārde"
+            "default": "Lielvārdes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "C8",
-            "geonames": 7628332
+            "geonames": 7628332,
+            "iso_3166_2": "LV-092"
         },
         "long": {
-            "default": "Skrīveri"
+            "default": "Skrīveru"
         }
     },
     {
@@ -686,27 +740,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG98",
-            "geonames": 7628334
+            "geonames": 7628334,
+            "iso_3166_2": "LV-065"
         },
         "long": {
-            "default": "Nereta"
+            "default": "Neretas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "E6",
-            "geonames": 7628335
+            "geonames": 7628335,
+            "iso_3166_2": "LV-107"
         },
         "long": {
-            "default": "Viesīte"
+            "default": "Viesītes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "C2",
-            "geonames": 7628336
+            "geonames": 7628336,
+            "iso_3166_2": "LV-085"
         },
         "long": {
             "default": "Salas"
@@ -716,7 +773,8 @@
         "parent": "LV",
         "ids": {
             "fips": "LG74",
-            "geonames": 7628337
+            "geonames": 7628337,
+            "iso_3166_2": "LV-042"
         },
         "long": {
             "default": "Jēkabpils"
@@ -726,57 +784,63 @@
         "parent": "LV",
         "ids": {
             "fips": "LG38",
-            "geonames": 7628338
+            "geonames": 7628338,
+            "iso_3166_2": "LV-004"
         },
         "long": {
-            "default": "Aknīste"
+            "default": "Aknīstes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG69",
-            "geonames": 7628339
+            "geonames": 7628339,
+            "iso_3166_2": "LV-036"
         },
         "long": {
-            "default": "Ilūkste"
+            "default": "Ilūkstes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "E2",
-            "geonames": 7628340
+            "geonames": 7628340,
+            "iso_3166_2": "LV-103"
         },
         "long": {
-            "default": "Vārkava"
+            "default": "Vārkavas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG90",
-            "geonames": 7628341
+            "geonames": 7628341,
+            "iso_3166_2": "LV-056"
         },
         "long": {
-            "default": "Līvāni"
+            "default": "Līvānu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "E1",
-            "geonames": 7628342
+            "geonames": 7628342,
+            "iso_3166_2": "LV-102"
         },
         "long": {
-            "default": "Varakļāni"
+            "default": "Varakļānu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "E8",
-            "geonames": 7628343
+            "geonames": 7628343,
+            "iso_3166_2": "LV-109"
         },
         "long": {
             "default": "Vilanu"
@@ -786,7 +850,8 @@
         "parent": "LV",
         "ids": {
             "fips": "B3",
-            "geonames": 7628344
+            "geonames": 7628344,
+            "iso_3166_2": "LV-078"
         },
         "long": {
             "default": "Riebiņu"
@@ -818,7 +883,8 @@
         "parent": "LV",
         "ids": {
             "fips": "E9",
-            "geonames": 7628347
+            "geonames": 7628347,
+            "iso_3166_2": "LV-110"
         },
         "long": {
             "default": "Zilupes"
@@ -828,10 +894,11 @@
         "parent": "LV",
         "ids": {
             "fips": "E7",
-            "geonames": 7628348
+            "geonames": 7628348,
+            "iso_3166_2": "LV-108"
         },
         "long": {
-            "default": "Viļaka"
+            "default": "Viļakas"
         }
     },
     {
@@ -849,27 +916,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG57",
-            "geonames": 7628350
+            "geonames": 7628350,
+            "iso_3166_2": "LV-024"
         },
         "long": {
-            "default": "Dagda"
+            "default": "Dagdas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG78",
-            "geonames": 7628351
+            "geonames": 7628351,
+            "iso_3166_2": "LV-044"
         },
         "long": {
-            "default": "Karsava"
+            "default": "Karsavas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "B7",
-            "geonames": 7628352
+            "geonames": 7628352,
+            "iso_3166_2": "LV-082"
         },
         "long": {
             "default": "Rugāju"
@@ -890,17 +960,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG91",
-            "geonames": 7628354
+            "geonames": 7628354,
+            "iso_3166_2": "LV-057"
         },
         "long": {
-            "default": "Lubāna"
+            "default": "Lubānas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG85",
-            "geonames": 7628355
+            "geonames": 7628355,
+            "iso_3166_2": "LV-049"
         },
         "long": {
             "default": "Krustpils"
@@ -910,7 +982,8 @@
         "parent": "LV",
         "ids": {
             "fips": "A6",
-            "geonames": 7628356
+            "geonames": 7628356,
+            "iso_3166_2": "LV-072"
         },
         "long": {
             "default": "Pļaviņu"
@@ -931,17 +1004,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG68",
-            "geonames": 7628358
+            "geonames": 7628358,
+            "iso_3166_2": "LV-035"
         },
         "long": {
-            "default": "Ikšķile"
+            "default": "Ikšķiles"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "B5",
-            "geonames": 7628359
+            "geonames": 7628359,
+            "iso_3166_2": "LV-080"
         },
         "long": {
             "default": "Ropažu"
@@ -951,20 +1026,22 @@
         "parent": "LV",
         "ids": {
             "fips": "LG70",
-            "geonames": 7628360
+            "geonames": 7628360,
+            "iso_3166_2": "LV-037"
         },
         "long": {
-            "default": "Inčukalns"
+            "default": "Inčukalna"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG84",
-            "geonames": 7628361
+            "geonames": 7628361,
+            "iso_3166_2": "LV-048"
         },
         "long": {
-            "default": "Krimulda"
+            "default": "Krimuldas"
         }
     },
     {
@@ -982,17 +1059,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG88",
-            "geonames": 7628363
+            "geonames": 7628363,
+            "iso_3166_2": "LV-055"
         },
         "long": {
-            "default": "Līgatne"
+            "default": "Līgatnes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG94",
-            "geonames": 7628364
+            "geonames": 7628364,
+            "iso_3166_2": "LV-061"
         },
         "long": {
             "default": "Mālpils"
@@ -1002,17 +1081,19 @@
         "parent": "LV",
         "ids": {
             "fips": "C6",
-            "geonames": 7628365
+            "geonames": 7628365,
+            "iso_3166_2": "LV-090"
         },
         "long": {
-            "default": "Sēja"
+            "default": "Sējas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "C5",
-            "geonames": 7628366
+            "geonames": 7628366,
+            "iso_3166_2": "LV-089"
         },
         "long": {
             "default": "Saulkrastu"
@@ -1022,7 +1103,8 @@
         "parent": "LV",
         "ids": {
             "fips": "C1",
-            "geonames": 7628367
+            "geonames": 7628367,
+            "iso_3166_2": "LV-086"
         },
         "long": {
             "default": "Salacgrīvas"
@@ -1043,17 +1125,19 @@
         "parent": "LV",
         "ids": {
             "fips": "LG97",
-            "geonames": 7628369
+            "geonames": 7628369,
+            "iso_3166_2": "LV-064"
         },
         "long": {
-            "default": "Naukšēni"
+            "default": "Naukšēnu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "B8",
-            "geonames": 7628370
+            "geonames": 7628370,
+            "iso_3166_2": "LV-084"
         },
         "long": {
             "default": "Rūjienas"
@@ -1063,27 +1147,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG96",
-            "geonames": 7628371
+            "geonames": 7628371,
+            "iso_3166_2": "LV-060"
         },
         "long": {
-            "default": "Mazsalaca"
+            "default": "Mazsalacas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG52",
-            "geonames": 7628372
+            "geonames": 7628372,
+            "iso_3166_2": "LV-019"
         },
         "long": {
-            "default": "Burtnieki"
+            "default": "Burtnieku"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "A4",
-            "geonames": 7628373
+            "geonames": 7628373,
+            "iso_3166_2": "LV-070"
         },
         "long": {
             "default": "Pārgaujas"
@@ -1093,27 +1180,30 @@
         "parent": "LV",
         "ids": {
             "fips": "LG81",
-            "geonames": 7628374
+            "geonames": 7628374,
+            "iso_3166_2": "LV-045"
         },
         "long": {
-            "default": "Kocēni"
+            "default": "Kocēnu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG42",
-            "geonames": 7628375
+            "geonames": 7628375,
+            "iso_3166_2": "LV-008"
         },
         "long": {
-            "default": "Amatas Novads"
+            "default": "Amatas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "A9",
-            "geonames": 7628376
+            "geonames": 7628376,
+            "iso_3166_2": "LV-075"
         },
         "long": {
             "default": "Priekuļi"
@@ -1123,7 +1213,8 @@
         "parent": "LV",
         "ids": {
             "fips": "B1",
-            "geonames": 7628377
+            "geonames": 7628377,
+            "iso_3166_2": "LV-076"
         },
         "long": {
             "default": "Raunas"
@@ -1133,30 +1224,33 @@
         "parent": "LV",
         "ids": {
             "fips": "D3",
-            "geonames": 7628378
+            "geonames": 7628378,
+            "iso_3166_2": "LV-096"
         },
         "long": {
-            "default": "Strenči"
+            "default": "Strenču"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG50",
-            "geonames": 7628379
+            "geonames": 7628379,
+            "iso_3166_2": "LV-017"
         },
         "long": {
-            "default": "Beverīna"
+            "default": "Beverīnas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "D1",
-            "geonames": 7628380
+            "geonames": 7628380,
+            "iso_3166_2": "LV-094"
         },
         "long": {
-            "default": "Smiltene"
+            "default": "Smiltenes"
         }
     },
     {
@@ -1174,40 +1268,44 @@
         "parent": "LV",
         "ids": {
             "fips": "LG63",
-            "geonames": 7628382
+            "geonames": 7628382,
+            "iso_3166_2": "LV-030"
         },
         "long": {
-            "default": "Ērgļi"
+            "default": "Ērgļu"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "E3",
-            "geonames": 7628383
+            "geonames": 7628383,
+            "iso_3166_2": "LV-104"
         },
         "long": {
-            "default": "Vecpiebalga"
+            "default": "Vecpiebalgas"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "LG43",
-            "geonames": 7628384
+            "geonames": 7628384,
+            "iso_3166_2": "LV-009"
         },
         "long": {
-            "default": "Apes Novads"
+            "default": "Apes"
         }
     },
     {
         "parent": "LV",
         "ids": {
             "fips": "F1",
-            "geonames": 8299767
+            "geonames": 8299767,
+            "iso_3166_2": "LV-063"
         },
         "long": {
-            "default": "Mesraga"
+            "default": "Mērsraga"
         }
     }
 ]
