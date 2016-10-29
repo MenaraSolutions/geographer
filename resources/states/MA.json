@@ -3,7 +3,8 @@
         "parent": "MA",
         "ids": {
             "fips": "MO49",
-            "geonames": 2538470
+            "geonames": 2538470,
+            "iso_3166_2": "MA-07"
         },
         "long": {
             "default": "Rabat-Salé-Zemmour-Zaër"
@@ -35,7 +36,8 @@
         "parent": "MA",
         "ids": {
             "fips": "MO46",
-            "geonames": 2548882
+            "geonames": 2548882,
+            "iso_3166_2": "MA-05"
         },
         "long": {
             "default": "Fès-Boulemane"
@@ -100,7 +102,8 @@
         "parent": "MA",
         "ids": {
             "fips": "MO54",
-            "geonames": 2597553
+            "geonames": 2597553,
+            "iso_3166_2": "MA-04"
         },
         "long": {
             "default": "Oriental"
@@ -132,7 +135,8 @@
         "parent": "MA",
         "ids": {
             "fips": "MO57",
-            "geonames": 2597556
+            "geonames": 2597556,
+            "iso_3166_2": "MA-01"
         },
         "long": {
             "default": "Tanger-Tétouan"
@@ -153,7 +157,8 @@
         "parent": "MA",
         "ids": {
             "fips": "MO59",
-            "geonames": 6545402
+            "geonames": 6545402,
+            "iso_3166_2": "MA-15"
         },
         "long": {
             "default": "Laâyoune-Boujdour-Sakia El Hamra"
@@ -163,7 +168,8 @@
         "parent": "MA",
         "ids": {
             "fips": "EH",
-            "geonames": 7627603
+            "geonames": 7627603,
+            "iso_3166_2": "MA-16"
         },
         "long": {
             "default": "Oued ed Dahab-Lagouira"

@@ -14,6 +14,13 @@ use MenaraSolutions\Geographer\Repositories\File;
 class DefaultManager implements ManagerInterface
 {
     /**
+     * Supported subdivision standards
+     */
+    const STANDARD_ISO = 'iso';
+    const STANDARD_FIPS = 'fips';
+    const STANDARD_GEONAMES = 'geonames';
+
+    /**
      * @var TranslationAgencyInterface $translator
      */
     protected $translator;
@@ -32,6 +39,11 @@ class DefaultManager implements ManagerInterface
      * @var string
      */
     protected $form;
+
+    /**
+     * @var string
+     */
+    protected $standard = self::STANDARD_ISO;
 
     /**
      * @var bool
@@ -154,7 +166,7 @@ class DefaultManager implements ManagerInterface
     /**
      * @return string
      */
-    public function getLanguage()
+    public function getLocale()
     {
         return $this->language;
     }
@@ -205,5 +217,24 @@ class DefaultManager implements ManagerInterface
     public function expectsLongNames()
     {
         return ! $this->brief;
+    }
+
+    /**
+     * @return string
+     */
+    public function getStandard()
+    {
+        return $this->standard;
+    }
+
+    /**
+     * @param string $standard
+     * @return $this
+     */
+    public function setStandard($standard)
+    {
+        $this->standard = $standard;
+
+        return $this;
     }
 }

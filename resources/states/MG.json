@@ -2,166 +2,23 @@
     {
         "parent": "MG",
         "ids": {
-            "fips": "MA01",
-            "geonames": 7670842,
-            "iso_3166_2": "MG-D"
-        },
-        "long": {
-            "default": "Diana"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA01",
-            "geonames": 7670846,
-            "iso_3166_2": "MG-D"
-        },
-        "long": {
-            "default": "Sava"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA03",
-            "geonames": 7670847,
-            "iso_3166_2": "MG-M"
-        },
-        "long": {
-            "default": "Sofia"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA04",
-            "geonames": 7670848,
-            "iso_3166_2": "MG-A"
-        },
-        "long": {
-            "default": "Analanjirofo"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA03",
-            "geonames": 7670849,
-            "iso_3166_2": "MG-M"
-        },
-        "long": {
-            "default": "Boeny"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA03",
-            "geonames": 7670850,
-            "iso_3166_2": "MG-M"
-        },
-        "long": {
-            "default": "Betsiboka"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA04",
-            "geonames": 7670851,
-            "iso_3166_2": "MG-A"
-        },
-        "long": {
-            "default": "Alaotra Mangoro"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA03",
-            "geonames": 7670852,
-            "iso_3166_2": "MG-M"
-        },
-        "long": {
-            "default": "Melaky"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA05",
-            "geonames": 7670853,
-            "iso_3166_2": "MG-T"
-        },
-        "long": {
-            "default": "Bongolava"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA05",
-            "geonames": 7670854,
-            "iso_3166_2": "MG-T"
-        },
-        "long": {
-            "default": "Vakinankaratra"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA05",
-            "geonames": 7670855,
-            "iso_3166_2": "MG-T"
-        },
-        "long": {
-            "default": "Itasy"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
             "fips": "MA05",
             "geonames": 7670856,
             "iso_3166_2": "MG-T"
         },
         "long": {
-            "default": "Analamanga"
+            "default": "Antananarivo"
         }
     },
     {
         "parent": "MG",
         "ids": {
-            "fips": "MA04",
-            "geonames": 7670857,
-            "iso_3166_2": "MG-A"
+            "fips": "MA01",
+            "geonames": 7670842,
+            "iso_3166_2": "MG-D"
         },
         "long": {
-            "default": "Atsinanana"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA06",
-            "geonames": 7670902,
-            "iso_3166_2": "MG-U"
-        },
-        "long": {
-            "default": "Menabe"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA02",
-            "geonames": 7670904,
-            "iso_3166_2": "MG-F"
-        },
-        "long": {
-            "default": "Amoron'i Mania"
+            "default": "Antsiranana"
         }
     },
     {
@@ -172,62 +29,29 @@
             "iso_3166_2": "MG-F"
         },
         "long": {
-            "default": "Upper Matsiatra"
+            "default": "Fianarantsoa"
         }
     },
     {
         "parent": "MG",
         "ids": {
-            "fips": "MA02",
-            "geonames": 7670906,
-            "iso_3166_2": "MG-F"
+            "fips": "MA03",
+            "geonames": 7670849,
+            "iso_3166_2": "MG-M"
         },
         "long": {
-            "default": "Vatovavy Fitovinany"
+            "default": "Mahajanga"
         }
     },
     {
         "parent": "MG",
         "ids": {
-            "fips": "MA02",
-            "geonames": 7670907,
-            "iso_3166_2": "MG-F"
+            "fips": "MA04",
+            "geonames": 7670857,
+            "iso_3166_2": "MG-A"
         },
         "long": {
-            "default": "Ihorombe"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA02",
-            "geonames": 7670908,
-            "iso_3166_2": "MG-F"
-        },
-        "long": {
-            "default": "Atsimo-Atsinanana"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA06",
-            "geonames": 7670910,
-            "iso_3166_2": "MG-U"
-        },
-        "long": {
-            "default": "Anosy"
-        }
-    },
-    {
-        "parent": "MG",
-        "ids": {
-            "fips": "MA06",
-            "geonames": 7670911,
-            "iso_3166_2": "MG-U"
-        },
-        "long": {
-            "default": "Androy"
+            "default": "Toamasina"
         }
     },
     {
@@ -238,7 +62,7 @@
             "iso_3166_2": "MG-U"
         },
         "long": {
-            "default": "Atsimo-Andrefana"
+            "default": "Toliara"
         }
     }
 ]

@@ -14,7 +14,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY69",
-            "geonames": 88318
+            "geonames": 88318,
+            "iso_3166_2": "LY-BA"
         },
         "long": {
             "default": "Banghāzī"
@@ -46,7 +47,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY63",
-            "geonames": 443289
+            "geonames": 443289,
+            "iso_3166_2": "LY-JA"
         },
         "long": {
             "default": "Al Jabal al Akhḑar"
@@ -56,7 +58,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY77",
-            "geonames": 2210245
+            "geonames": 2210245,
+            "iso_3166_2": "LY-TB"
         },
         "long": {
             "default": "Tripoli"
@@ -77,7 +80,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY75",
-            "geonames": 2212774
+            "geonames": 2212774,
+            "iso_3166_2": "LY-SB"
         },
         "long": {
             "default": "Sabhā"
@@ -87,10 +91,11 @@
         "parent": "LY",
         "ids": {
             "fips": "LY74",
-            "geonames": 2214432
+            "geonames": 2214432,
+            "iso_3166_2": "LY-NL"
         },
         "long": {
-            "default": "Sha‘bīyat Nālūt"
+            "default": "Nālūt"
         }
     },
     {
@@ -108,7 +113,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY72",
-            "geonames": 2214845
+            "geonames": 2214845,
+            "iso_3166_2": "LY-MI"
         },
         "long": {
             "default": "Mişrātah"
@@ -118,17 +124,19 @@
         "parent": "LY",
         "ids": {
             "fips": "LY71",
-            "geonames": 2217350
+            "geonames": 2217350,
+            "iso_3166_2": "LY-GT"
         },
         "long": {
-            "default": "Sha‘bīyat Ghāt"
+            "default": "Ghāt"
         }
     },
     {
         "parent": "LY",
         "ids": {
             "fips": "LY68",
-            "geonames": 2218972
+            "geonames": 2218972,
+            "iso_3166_2": "LY-ZA"
         },
         "long": {
             "default": "Az Zāwiyah"
@@ -138,7 +146,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY78",
-            "geonames": 2219413
+            "geonames": 2219413,
+            "iso_3166_2": "LY-WS"
         },
         "long": {
             "default": "Ash Shāţiʼ"
@@ -159,7 +168,8 @@
         "parent": "LY",
         "ids": {
             "fips": "LY67",
-            "geonames": 2593778
+            "geonames": 2593778,
+            "iso_3166_2": "LY-NQ"
         },
         "long": {
             "default": "An Nuqāţ al Khams"
@@ -169,30 +179,33 @@
         "parent": "LY",
         "ids": {
             "fips": "LY79",
-            "geonames": 7602688
+            "geonames": 7602688,
+            "iso_3166_2": "LY-BU"
         },
         "long": {
-            "default": "Sha‘bīyat al Buţnān"
+            "default": "Al Buţnān"
         }
     },
     {
         "parent": "LY",
         "ids": {
             "fips": "LY80",
-            "geonames": 7602689
+            "geonames": 7602689,
+            "iso_3166_2": "LY-JG"
         },
         "long": {
-            "default": "Jabal al Gharbi District"
+            "default": "Al Jabal al Gharbi"
         }
     },
     {
         "parent": "LY",
         "ids": {
             "fips": "LY81",
-            "geonames": 7602690
+            "geonames": 7602690,
+            "iso_3166_2": "LY-JI"
         },
         "long": {
-            "default": "Sha‘bīyat al Jafārah"
+            "default": "Al Jafārah"
         }
     },
     {
@@ -210,20 +223,22 @@
         "parent": "LY",
         "ids": {
             "fips": "LY83",
-            "geonames": 7602692
+            "geonames": 7602692,
+            "iso_3166_2": "LY-WA"
         },
         "long": {
-            "default": "Sha‘bīyat al Wāḩāt"
+            "default": "Al Wāḩāt"
         }
     },
     {
         "parent": "LY",
         "ids": {
             "fips": "LY84",
-            "geonames": 7602693
+            "geonames": 7602693,
+            "iso_3166_2": "LY-WD"
         },
         "long": {
-            "default": "Sha‘bīyat Wādī al Ḩayāt"
+            "default": "Wādī al Ḩayāt"
         }
     }
 ]

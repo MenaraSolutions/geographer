@@ -20,6 +20,18 @@ trait HasManager
     }
 
     /**
+     * @param string $standard
+     * @return $this
+     */
+    public function setStandard($standard)
+    {
+        $this->manager->setStandard($standard);
+        $this->members = null;
+
+        return $this;
+    }
+
+    /**
      * @param string $form
      * @return $this
      */

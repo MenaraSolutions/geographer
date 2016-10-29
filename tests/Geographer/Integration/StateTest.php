@@ -5,6 +5,7 @@ namespace Tests;
 use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Earth;
+use MenaraSolutions\Geographer\Services\DefaultManager;
 
 class StateTest extends Test
 {
@@ -55,7 +56,7 @@ class StateTest extends Test
     }
 
     /**
-     *
+     * 
      */
     public function all_countries_got_correct_iso_state_count()
     {

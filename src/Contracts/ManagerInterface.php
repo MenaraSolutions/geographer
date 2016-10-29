@@ -49,7 +49,7 @@ interface ManagerInterface
     /**
      * @return string
      */
-    public function getLanguage();
+    public function getLocale();
 
     /**
      * @param string $language
@@ -81,4 +81,15 @@ interface ManagerInterface
      * @return bool
      */
     public function expectsLongNames();
+
+    /**
+     * @param string $standard
+     * @return $this
+     */
+    public function setStandard($standard);
+
+    /**
+     * @return string
+     */
+    public function getStandard();
 }

@@ -88,6 +88,8 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
      */
     protected function loadMembers(MemberCollection $collection = null)
     {
+        $standard = $this->manager->getStandard();
+
         $data = $this->manager->getRepository()->getData(get_class($this), [
             'code' => $this->getCode(), 'parentCode' => $this->getParentCode()
         ]);
@@ -96,7 +98,8 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
 
         foreach($data as $meta) {
             $entity = new $this->memberClass($meta, $this->getCode(), $this->manager);
-            $collection->add($entity, $entity->getCode());
+
+            if (! empty($entity[$standard . 'Code'])) $collection->add($entity, $entity[$standard . 'Code']);
         }
 
         $this->members = $collection;
@@ -181,7 +184,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
         if ($locale) $this->manager->setLocale($locale);
 
         return $this->manager->getTranslator()
-            ->translate($this, $this->manager->getLanguage());
+            ->translate($this, $this->manager->getLocale());
     }
     
     /**

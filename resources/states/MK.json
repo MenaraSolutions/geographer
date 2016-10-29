@@ -3,20 +3,22 @@
         "parent": "MK",
         "ids": {
             "fips": "E9",
-            "geonames": 784732
+            "geonames": 784732,
+            "iso_3166_2": "MK-10"
         },
         "long": {
-            "default": "Valandovo Municipality"
+            "default": "Valandovo"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "MK86",
-            "geonames": 786339
+            "geonames": 786339,
+            "iso_3166_2": "MK-66"
         },
         "long": {
-            "default": "Resen Municipality"
+            "default": "Resen"
         }
     },
     {
@@ -34,7 +36,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK78",
-            "geonames": 862938
+            "geonames": 862938,
+            "iso_3166_2": "MK-60"
         },
         "long": {
             "default": "Pehčevo"
@@ -99,7 +102,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK47",
-            "geonames": 862953
+            "geonames": 862953,
+            "iso_3166_2": "MK-41"
         },
         "long": {
             "default": "Konče"
@@ -186,7 +190,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK19",
-            "geonames": 862977
+            "geonames": 862977,
+            "iso_3166_2": "MK-81"
         },
         "long": {
             "default": "Češinovo-Obleševo"
@@ -240,7 +245,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK01",
-            "geonames": 863831
+            "geonames": 863831,
+            "iso_3166_2": "MK-02"
         },
         "long": {
             "default": "Aračinovo"
@@ -272,7 +278,8 @@
         "parent": "MK",
         "ids": {
             "fips": "C8",
-            "geonames": 863836
+            "geonames": 863836,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Čair"
@@ -282,17 +289,19 @@
         "parent": "MK",
         "ids": {
             "fips": "C9",
-            "geonames": 863838
+            "geonames": 863838,
+            "iso_3166_2": "MK-80"
         },
         "long": {
-            "default": "Čaška Municipality"
+            "default": "Čaška"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "D1",
-            "geonames": 863840
+            "geonames": 863840,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Centar"
@@ -302,7 +311,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK18",
-            "geonames": 863841
+            "geonames": 863841,
+            "iso_3166_2": "MK-78"
         },
         "long": {
             "default": "Centar Župa"
@@ -312,7 +322,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK20",
-            "geonames": 863842
+            "geonames": 863842,
+            "iso_3166_2": "MK-82"
         },
         "long": {
             "default": "Čučer-Sandevo"
@@ -333,7 +344,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK22",
-            "geonames": 863844
+            "geonames": 863844,
+            "iso_3166_2": "MK-23"
         },
         "long": {
             "default": "Delčevo"
@@ -354,17 +366,19 @@
         "parent": "MK",
         "ids": {
             "fips": "MK28",
-            "geonames": 863849
+            "geonames": 863849,
+            "iso_3166_2": "MK-27"
         },
         "long": {
-            "default": "Dolneni Municipality"
+            "default": "Dolneni"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "MK29",
-            "geonames": 863850
+            "geonames": 863850,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Opstina Gjorce Petrov"
@@ -374,7 +388,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK30",
-            "geonames": 863851
+            "geonames": 863851,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Drugovo"
@@ -384,7 +399,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK32",
-            "geonames": 863853
+            "geonames": 863853,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Gazi Baba"
@@ -438,7 +454,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK41",
-            "geonames": 863860
+            "geonames": 863860,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Karpoš"
@@ -459,7 +476,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK43",
-            "geonames": 863862
+            "geonames": 863862,
+            "iso_3166_2": "MK-40"
         },
         "long": {
             "default": "Kičevo"
@@ -469,7 +487,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK44",
-            "geonames": 863863
+            "geonames": 863863,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Kisela Voda"
@@ -479,7 +498,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK46",
-            "geonames": 863865
+            "geonames": 863865,
+            "iso_3166_2": "MK-42"
         },
         "long": {
             "default": "Kočani"
@@ -500,7 +520,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK53",
-            "geonames": 863870
+            "geonames": 863870,
+            "iso_3166_2": "MK-45"
         },
         "long": {
             "default": "Krivogaštani"
@@ -510,7 +531,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK54",
-            "geonames": 863871
+            "geonames": 863871,
+            "iso_3166_2": "MK-46"
         },
         "long": {
             "default": "Kruševo"
@@ -531,10 +553,11 @@
         "parent": "MK",
         "ids": {
             "fips": "MK59",
-            "geonames": 863875
+            "geonames": 863875,
+            "iso_3166_2": "MK-48"
         },
         "long": {
-            "default": "Opstina Lipkovo"
+            "default": "Lipkovo"
         }
     },
     {
@@ -574,7 +597,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK77",
-            "geonames": 863885
+            "geonames": 863885,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Oslomej"
@@ -617,7 +641,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK83",
-            "geonames": 863889
+            "geonames": 863889,
+            "iso_3166_2": "MK-63"
         },
         "long": {
             "default": "Probištip"
@@ -627,7 +652,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK84",
-            "geonames": 863890
+            "geonames": 863890,
+            "iso_3166_2": "MK-64"
         },
         "long": {
             "default": "Radoviš"
@@ -637,37 +663,41 @@
         "parent": "MK",
         "ids": {
             "fips": "MK85",
-            "geonames": 863891
+            "geonames": 863891,
+            "iso_3166_2": "MK-65"
         },
         "long": {
-            "default": "Opstina Rankovce"
+            "default": "Rankovce"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "E4",
-            "geonames": 863892
+            "geonames": 863892,
+            "iso_3166_2": "MK-50"
         },
         "long": {
-            "default": "Mavrovo and Rostuša Municipality"
+            "default": "Mavrovo and Rostuša"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "MK90",
-            "geonames": 863894
+            "geonames": 863894,
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Saraj Municipality"
+            "default": "Saraj"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "MK92",
-            "geonames": 863896
+            "geonames": 863896,
+            "iso_3166_2": "MK-70"
         },
         "long": {
             "default": "Sopište"
@@ -688,7 +718,8 @@
         "parent": "MK",
         "ids": {
             "fips": "MK98",
-            "geonames": 863900
+            "geonames": 863900,
+            "iso_3166_2": "MK-83"
         },
         "long": {
             "default": "Štip"
@@ -720,7 +751,8 @@
         "parent": "MK",
         "ids": {
             "fips": "A2",
-            "geonames": 863903
+            "geonames": 863903,
+            "iso_3166_2": "MK-74"
         },
         "long": {
             "default": "Studeničani"
@@ -730,7 +762,8 @@
         "parent": "MK",
         "ids": {
             "fips": "A3",
-            "geonames": 863904
+            "geonames": 863904,
+            "iso_3166_2": "MK-84"
         },
         "long": {
             "default": "Šuto Orizari"
@@ -740,10 +773,11 @@
         "parent": "MK",
         "ids": {
             "fips": "A4",
-            "geonames": 863905
+            "geonames": 863905,
+            "iso_3166_2": "MK-69"
         },
         "long": {
-            "default": "Sveti Nikole Municipality"
+            "default": "Sveti Nikole"
         }
     },
     {
@@ -783,7 +817,8 @@
         "parent": "MK",
         "ids": {
             "fips": "B3",
-            "geonames": 863911
+            "geonames": 863911,
+            "iso_3166_2": "MK-12"
         },
         "long": {
             "default": "Vevčani"
@@ -804,7 +839,8 @@
         "parent": "MK",
         "ids": {
             "fips": "B6",
-            "geonames": 863913
+            "geonames": 863913,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Vraneštica"
@@ -814,7 +850,8 @@
         "parent": "MK",
         "ids": {
             "fips": "B7",
-            "geonames": 863914
+            "geonames": 863914,
+            "iso_3166_2": "MK-16"
         },
         "long": {
             "default": "Vrapčište"
@@ -824,7 +861,8 @@
         "parent": "MK",
         "ids": {
             "fips": "C1",
-            "geonames": 863917
+            "geonames": 863917,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Zajas"
@@ -845,7 +883,8 @@
         "parent": "MK",
         "ids": {
             "fips": "C3",
-            "geonames": 863919
+            "geonames": 863919,
+            "iso_3166_2": "MK-30"
         },
         "long": {
             "default": "Želino"
@@ -855,7 +894,8 @@
         "parent": "MK",
         "ids": {
             "fips": "F3",
-            "geonames": 7056266
+            "geonames": 7056266,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Aerodrom"
@@ -865,20 +905,22 @@
         "parent": "MK",
         "ids": {
             "fips": "F4",
-            "geonames": 7056269
+            "geonames": 7056269,
+            "iso_3166_2": false
         },
         "long": {
-            "default": "Butel Municipality"
+            "default": "Butel"
         }
     },
     {
         "parent": "MK",
         "ids": {
             "fips": "F5",
-            "geonames": 7056271
+            "geonames": 7056271,
+            "iso_3166_2": "MK-22"
         },
         "long": {
-            "default": "Debarca Municipality"
+            "default": "Debarca"
         }
     }
 ]

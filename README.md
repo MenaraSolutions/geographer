@@ -111,6 +111,21 @@ $object['name']; // Same effect
 $object->toArray()['name']; // Same effect again
 ```
 
+## Subdivision standards
+
+By default, we will use ISO-3166-1 country and ISO 3166-2 state classification. Therefore, countries or states that don't have ISO codes are not visible by default.
+Please note that FIPS 10-4 is a deprecated (abandoned) standard. It's better not to rely on it – new states and/or countries won't appear in FIPS.
+
+You can change subdivision standard with ```setStandard``` method:
+
+```php
+$country->setStandard(DefaultManager::STANDARD_ISO); // ISO subdivisions
+$country->setStandard(DefaultManager::STANDARD_FIPS); // FIPS 10-4 subdivisions
+$country->setStandard(DefaultManager::STANDARD_GEONAMES); // Geonames subdivisions
+```
+
+This will affect ```getStates()``` and ```getCountries()``` output.
+
 ## Earth API
 
 Earth object got the following convenience methods:
@@ -147,9 +162,6 @@ $country->getStates(); // A collection of all states
 ```
 
 Geonames, ISO 3166-1 alpha-2, alpha-3 and numeric codes are four viable options to reference country in your data store.
-
-By default, we will use ISO 3166-2 state classification. Therefore, states that don't have ISO 3166-2 codes are not visible by default.
-Please note that FIPS is a deprecated (abandoned) standard. It's better not to rely on it – new states and/or countries won't appear in FIPS.
 
 ## State API
 

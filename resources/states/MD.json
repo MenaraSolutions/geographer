@@ -3,10 +3,11 @@
         "parent": "MD",
         "ids": {
             "fips": "MD73",
-            "geonames": 617077
+            "geonames": 617077,
+            "iso_3166_2": "MD-ED"
         },
         "long": {
-            "default": "Raionul Edineţ"
+            "default": "Edineţ"
         }
     },
     {
@@ -24,7 +25,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD91",
-            "geonames": 617255
+            "geonames": 617255,
+            "iso_3166_2": "MD-TE"
         },
         "long": {
             "default": "Teleneşti"
@@ -45,7 +47,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD88",
-            "geonames": 617283
+            "geonames": 617283,
+            "iso_3166_2": "MD-SV"
         },
         "long": {
             "default": "Ştefan-Vodă"
@@ -55,7 +58,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD89",
-            "geonames": 617301
+            "geonames": 617301,
+            "iso_3166_2": "MD-ST"
         },
         "long": {
             "default": "Strășeni"
@@ -65,17 +69,19 @@
         "parent": "MD",
         "ids": {
             "fips": "MD87",
-            "geonames": 617366
+            "geonames": 617366,
+            "iso_3166_2": "MD-SO"
         },
         "long": {
-            "default": "Raionul Soroca"
+            "default": "Soroca"
         }
     },
     {
         "parent": "MD",
         "ids": {
             "fips": "MD84",
-            "geonames": 617483
+            "geonames": 617483,
+            "iso_3166_2": "MD-RI"
         },
         "long": {
             "default": "Rîşcani"
@@ -107,10 +113,11 @@
         "parent": "MD",
         "ids": {
             "fips": "MD81",
-            "geonames": 617656
+            "geonames": 617656,
+            "iso_3166_2": "MD-OC"
         },
         "long": {
-            "default": "Raionul Ocniţa"
+            "default": "Ocniţa"
         }
     },
     {
@@ -150,7 +157,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD85",
-            "geonames": 617913
+            "geonames": 617913,
+            "iso_3166_2": "MD-SI"
         },
         "long": {
             "default": "Sîngerei"
@@ -171,7 +179,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD78",
-            "geonames": 617991
+            "geonames": 617991,
+            "iso_3166_2": "MD-IA"
         },
         "long": {
             "default": "Laloveni"
@@ -181,7 +190,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD57",
-            "geonames": 618069
+            "geonames": 618069,
+            "iso_3166_2": "MD-CU"
         },
         "long": {
             "default": "Chişinău"
@@ -191,7 +201,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD67",
-            "geonames": 618119
+            "geonames": 618119,
+            "iso_3166_2": "MD-CS"
         },
         "long": {
             "default": "Căuşeni"
@@ -212,7 +223,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD66",
-            "geonames": 618162
+            "geonames": 618162,
+            "iso_3166_2": "MD-CL"
         },
         "long": {
             "default": "Călăraşi"
@@ -244,7 +256,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD75",
-            "geonames": 618331
+            "geonames": 618331,
+            "iso_3166_2": "MD-FL"
         },
         "long": {
             "default": "Floreşti"
@@ -254,7 +267,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD74",
-            "geonames": 618345
+            "geonames": 618345,
+            "iso_3166_2": "MD-FA"
         },
         "long": {
             "default": "Făleşti"
@@ -264,7 +278,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD72",
-            "geonames": 618363
+            "geonames": 618363,
+            "iso_3166_2": "MD-DU"
         },
         "long": {
             "default": "Dubăsari"
@@ -285,7 +300,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD70",
-            "geonames": 618381
+            "geonames": 618381,
+            "iso_3166_2": "MD-DO"
         },
         "long": {
             "default": "Donduşeni"
@@ -295,7 +311,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD68",
-            "geonames": 618430
+            "geonames": 618430,
+            "iso_3166_2": "MD-CM"
         },
         "long": {
             "default": "Cimişlia"
@@ -327,7 +344,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD77",
-            "geonames": 858803
+            "geonames": 858803,
+            "iso_3166_2": "MD-HI"
         },
         "long": {
             "default": "Hînceşti"
@@ -337,7 +355,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD86",
-            "geonames": 858808
+            "geonames": 858808,
+            "iso_3166_2": "MD-SD"
         },
         "long": {
             "default": "Şoldăneşti"
@@ -347,7 +366,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD58",
-            "geonames": 858889
+            "geonames": 858889,
+            "iso_3166_2": "MD-SN"
         },
         "long": {
             "default": "Stînga Nistrului"
@@ -357,7 +377,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD51",
-            "geonames": 858895
+            "geonames": 858895,
+            "iso_3166_2": "MD-GA"
         },
         "long": {
             "default": "Găgăuzia"
@@ -378,7 +399,8 @@
         "parent": "MD",
         "ids": {
             "fips": "MD60",
-            "geonames": 873909
+            "geonames": 873909,
+            "iso_3166_2": "MD-BA"
         },
         "long": {
             "default": "Bălţi"
