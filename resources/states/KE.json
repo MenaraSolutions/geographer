@@ -3,7 +3,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE55",
-            "geonames": 178145
+            "geonames": 178145,
+            "iso_3166_2": "KE-47"
         },
         "long": {
             "default": "West Pokot"
@@ -13,7 +14,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE54",
-            "geonames": 178440
+            "geonames": 178440,
+            "iso_3166_2": "KE-46"
         },
         "long": {
             "default": "Wajir"
@@ -23,7 +25,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE52",
-            "geonames": 178837
+            "geonames": 178837,
+            "iso_3166_2": "KE-44"
         },
         "long": {
             "default": "Uasin Gishu"
@@ -33,7 +36,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE51",
-            "geonames": 178914
+            "geonames": 178914,
+            "iso_3166_2": "KE-43"
         },
         "long": {
             "default": "Turkana"
@@ -43,7 +47,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE50",
-            "geonames": 179068
+            "geonames": 179068,
+            "iso_3166_2": "KE-42"
         },
         "long": {
             "default": "Trans Nzoia"
@@ -53,7 +58,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE49",
-            "geonames": 179380
+            "geonames": 179380,
+            "iso_3166_2": "KE-41"
         },
         "long": {
             "default": "Tharaka - Nithi"
@@ -63,7 +69,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE48",
-            "geonames": 179585
+            "geonames": 179585,
+            "iso_3166_2": "KE-40"
         },
         "long": {
             "default": "Tana River"
@@ -73,7 +80,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE46",
-            "geonames": 180320
+            "geonames": 180320,
+            "iso_3166_2": "KE-38"
         },
         "long": {
             "default": "Siaya"
@@ -83,7 +91,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE45",
-            "geonames": 180782
+            "geonames": 180782,
+            "iso_3166_2": "KE-37"
         },
         "long": {
             "default": "Samburu"
@@ -104,17 +113,19 @@
         "parent": "KE",
         "ids": {
             "fips": "KE38",
-            "geonames": 185578
+            "geonames": 185578,
+            "iso_3166_2": "KE-29"
         },
         "long": {
-            "default": "Murang'A"
+            "default": "Murang'a"
         }
     },
     {
         "parent": "KE",
         "ids": {
             "fips": "KE37",
-            "geonames": 186298
+            "geonames": 186298,
+            "iso_3166_2": "KE-28"
         },
         "long": {
             "default": "Mombasa"
@@ -124,7 +135,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE35",
-            "geonames": 186824
+            "geonames": 186824,
+            "iso_3166_2": "KE-26"
         },
         "long": {
             "default": "Meru"
@@ -134,7 +146,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE34",
-            "geonames": 187583
+            "geonames": 187583,
+            "iso_3166_2": "KE-25"
         },
         "long": {
             "default": "Marsabit"
@@ -144,7 +157,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE33",
-            "geonames": 187895
+            "geonames": 187895,
+            "iso_3166_2": "KE-24"
         },
         "long": {
             "default": "Mandera"
@@ -154,7 +168,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE29",
-            "geonames": 189794
+            "geonames": 189794,
+            "iso_3166_2": "KE-20"
         },
         "long": {
             "default": "Laikipia"
@@ -164,7 +179,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE28",
-            "geonames": 190106
+            "geonames": 190106,
+            "iso_3166_2": "KE-19"
         },
         "long": {
             "default": "Kwale"
@@ -174,7 +190,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE27",
-            "geonames": 191037
+            "geonames": 191037,
+            "iso_3166_2": "KE-18"
         },
         "long": {
             "default": "Kitui"
@@ -184,7 +201,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE26",
-            "geonames": 191242
+            "geonames": 191242,
+            "iso_3166_2": "KE-17"
         },
         "long": {
             "default": "Kisumu"
@@ -194,7 +212,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE25",
-            "geonames": 191298
+            "geonames": 191298,
+            "iso_3166_2": "KE-16"
         },
         "long": {
             "default": "Kisii"
@@ -204,7 +223,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE24",
-            "geonames": 191420
+            "geonames": 191420,
+            "iso_3166_2": "KE-15"
         },
         "long": {
             "default": "Kirinyaga"
@@ -214,7 +234,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE23",
-            "geonames": 192064
+            "geonames": 192064,
+            "iso_3166_2": "KE-14"
         },
         "long": {
             "default": "Kilifi"
@@ -224,7 +245,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE22",
-            "geonames": 192709
+            "geonames": 192709,
+            "iso_3166_2": "KE-13"
         },
         "long": {
             "default": "Kiambu"
@@ -234,7 +256,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE21",
-            "geonames": 192898
+            "geonames": 192898,
+            "iso_3166_2": "KE-12"
         },
         "long": {
             "default": "Kericho"
@@ -244,7 +267,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE20",
-            "geonames": 195271
+            "geonames": 195271,
+            "iso_3166_2": "KE-11"
         },
         "long": {
             "default": "Kakamega"
@@ -254,7 +278,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE18",
-            "geonames": 196228
+            "geonames": 196228,
+            "iso_3166_2": "KE-09"
         },
         "long": {
             "default": "Isiolo"
@@ -264,7 +289,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE16",
-            "geonames": 197744
+            "geonames": 197744,
+            "iso_3166_2": "KE-07"
         },
         "long": {
             "default": "Garissa"
@@ -274,7 +300,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE15",
-            "geonames": 198474
+            "geonames": 198474,
+            "iso_3166_2": "KE-06"
         },
         "long": {
             "default": "Embu"
@@ -284,7 +311,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE13",
-            "geonames": 199987
+            "geonames": 199987,
+            "iso_3166_2": "KE-04"
         },
         "long": {
             "default": "Busia"
@@ -294,7 +322,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE12",
-            "geonames": 200066
+            "geonames": 200066,
+            "iso_3166_2": "KE-03"
         },
         "long": {
             "default": "Bungoma"
@@ -304,7 +333,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE10",
-            "geonames": 200573
+            "geonames": 200573,
+            "iso_3166_2": "KE-01"
         },
         "long": {
             "default": "Baringo"
@@ -314,7 +344,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE43",
-            "geonames": 7603036
+            "geonames": 7603036,
+            "iso_3166_2": "KE-35"
         },
         "long": {
             "default": "Nyandarua"
@@ -324,7 +355,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE53",
-            "geonames": 7667638
+            "geonames": 7667638,
+            "iso_3166_2": "KE-45"
         },
         "long": {
             "default": "Vihiga"
@@ -334,7 +366,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE30",
-            "geonames": 7667643
+            "geonames": 7667643,
+            "iso_3166_2": "KE-21"
         },
         "long": {
             "default": "Lamu"
@@ -344,7 +377,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE31",
-            "geonames": 7667644
+            "geonames": 7667644,
+            "iso_3166_2": "KE-22"
         },
         "long": {
             "default": "Machakos"
@@ -354,7 +388,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE32",
-            "geonames": 7667645
+            "geonames": 7667645,
+            "iso_3166_2": "KE-23"
         },
         "long": {
             "default": "Makueni"
@@ -364,7 +399,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE14",
-            "geonames": 7667646
+            "geonames": 7667646,
+            "iso_3166_2": "KE-05"
         },
         "long": {
             "default": "Elegeyo-Marakwet"
@@ -374,7 +410,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE47",
-            "geonames": 7667652
+            "geonames": 7667652,
+            "iso_3166_2": "KE-39"
         },
         "long": {
             "default": "Taita Taveta"
@@ -384,7 +421,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE19",
-            "geonames": 7667657
+            "geonames": 7667657,
+            "iso_3166_2": "KE-10"
         },
         "long": {
             "default": "Kajiado"
@@ -394,7 +432,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE44",
-            "geonames": 7667661
+            "geonames": 7667661,
+            "iso_3166_2": "KE-36"
         },
         "long": {
             "default": "Nyeri"
@@ -404,7 +443,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE17",
-            "geonames": 7667665
+            "geonames": 7667665,
+            "iso_3166_2": "KE-08"
         },
         "long": {
             "default": "Homa Bay"
@@ -414,7 +454,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE11",
-            "geonames": 7667666
+            "geonames": 7667666,
+            "iso_3166_2": "KE-02"
         },
         "long": {
             "default": "Bomet"
@@ -424,7 +465,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE36",
-            "geonames": 7667678
+            "geonames": 7667678,
+            "iso_3166_2": "KE-27"
         },
         "long": {
             "default": "Migori"
@@ -434,7 +476,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE39",
-            "geonames": 7668902
+            "geonames": 7668902,
+            "iso_3166_2": "KE-31"
         },
         "long": {
             "default": "Nakuru"
@@ -444,7 +487,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE41",
-            "geonames": 7668904
+            "geonames": 7668904,
+            "iso_3166_2": "KE-33"
         },
         "long": {
             "default": "Narok"
@@ -454,7 +498,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE42",
-            "geonames": 7806857
+            "geonames": 7806857,
+            "iso_3166_2": "KE-34"
         },
         "long": {
             "default": "Nyamira"
@@ -464,7 +509,8 @@
         "parent": "KE",
         "ids": {
             "fips": "KE40",
-            "geonames": 8051212
+            "geonames": 8051212,
+            "iso_3166_2": "KE-32"
         },
         "long": {
             "default": "Nandi"

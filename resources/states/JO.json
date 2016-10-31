@@ -3,7 +3,8 @@
         "parent": "JO",
         "ids": {
             "fips": "JO19",
-            "geonames": 248380
+            "geonames": 248380,
+            "iso_3166_2": "JO-MN"
         },
         "long": {
             "default": "Ma’an"
@@ -24,67 +25,74 @@
         "parent": "JO",
         "ids": {
             "fips": "JO17",
-            "geonames": 250092
+            "geonames": 250092,
+            "iso_3166_2": "JO-AZ"
         },
         "long": {
-            "default": "Zarqa"
+            "default": "Az Zarqā’"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO12",
-            "geonames": 250199
+            "geonames": 250199,
+            "iso_3166_2": "JO-AT"
         },
         "long": {
-            "default": "Tafielah"
+            "default": "Aţ Ţafīlah"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO16",
-            "geonames": 250439
+            "geonames": 250439,
+            "iso_3166_2": "JO-AM"
         },
         "long": {
-            "default": "Amman"
+            "default": "Al ‘A̅şimah"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO15",
-            "geonames": 250583
+            "geonames": 250583,
+            "iso_3166_2": "JO-MA"
         },
         "long": {
-            "default": "Mafraq"
+            "default": "Al Mafraq"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO09",
-            "geonames": 250625
+            "geonames": 250625,
+            "iso_3166_2": "JO-KA"
         },
         "long": {
-            "default": "Karak"
+            "default": "Al Karak"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO02",
-            "geonames": 250751
+            "geonames": 250751,
+            "iso_3166_2": "JO-BA"
         },
         "long": {
-            "default": "Balqa"
+            "default": "Al Balqa"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO20",
-            "geonames": 443120
+            "geonames": 443120,
+            "iso_3166_2": "JO-AJ"
         },
         "long": {
             "default": "Ajlun"
@@ -94,20 +102,22 @@
         "parent": "JO",
         "ids": {
             "fips": "JO22",
-            "geonames": 443121
+            "geonames": 443121,
+            "iso_3166_2": "JO-JA"
         },
         "long": {
-            "default": "Jerash"
+            "default": "Jarash"
         }
     },
     {
         "parent": "JO",
         "ids": {
             "fips": "JO21",
-            "geonames": 443122
+            "geonames": 443122,
+            "iso_3166_2": "JO-AQ"
         },
         "long": {
-            "default": "Aqaba"
+            "default": "Al ‘Aqabah"
         }
     },
     {

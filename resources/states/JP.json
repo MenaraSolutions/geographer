@@ -113,10 +113,11 @@
         "parent": "JP",
         "ids": {
             "fips": "JA35",
-            "geonames": 1852553
+            "geonames": 1852553,
+            "iso_3166_2": "JP-25"
         },
         "long": {
-            "default": "Shiga Prefecture"
+            "default": "Shiga"
         }
     },
     {
@@ -134,17 +135,19 @@
         "parent": "JP",
         "ids": {
             "fips": "JA33",
-            "geonames": 1853299
+            "geonames": 1853299,
+            "iso_3166_2": "JP-41"
         },
         "long": {
-            "default": "Saga Prefecture"
+            "default": "Saga"
         }
     },
     {
         "parent": "JP",
         "ids": {
             "fips": "JA32",
-            "geonames": 1853904
+            "geonames": 1853904,
+            "iso_3166_2": "JP-27"
         },
         "long": {
             "default": "Ōsaka"
@@ -330,7 +333,8 @@
         "parent": "JP",
         "ids": {
             "fips": "JA13",
-            "geonames": 1862047
+            "geonames": 1862047,
+            "iso_3166_2": "JP-28"
         },
         "long": {
             "default": "Hyōgo"

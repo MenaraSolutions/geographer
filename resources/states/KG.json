@@ -47,7 +47,8 @@
         "parent": "KG",
         "ids": {
             "fips": "KG07",
-            "geonames": 1528260
+            "geonames": 1528260,
+            "iso_3166_2": "KG-Y"
         },
         "long": {
             "default": "Ysyk-Köl"
@@ -79,7 +80,8 @@
         "parent": "KG",
         "ids": {
             "fips": "KG02",
-            "geonames": 1538652
+            "geonames": 1538652,
+            "iso_3166_2": "KG-C"
         },
         "long": {
             "default": "Chüy"
@@ -89,7 +91,8 @@
         "parent": "KG",
         "ids": {
             "fips": "KG10",
-            "geonames": 10300944
+            "geonames": 10300944,
+            "iso_3166_2": "KG-GO"
         },
         "long": {
             "default": "Osh City"

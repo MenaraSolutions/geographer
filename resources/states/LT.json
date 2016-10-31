@@ -25,7 +25,8 @@
         "parent": "LT",
         "ids": {
             "fips": "LH58",
-            "geonames": 864478
+            "geonames": 864478,
+            "iso_3166_2": "LT-KL"
         },
         "long": {
             "default": "Klaipėdos apskritis"
@@ -35,7 +36,8 @@
         "parent": "LT",
         "ids": {
             "fips": "LH59",
-            "geonames": 864479
+            "geonames": 864479,
+            "iso_3166_2": "LT-MR"
         },
         "long": {
             "default": "Marijampolės apskritis"
@@ -45,27 +47,30 @@
         "parent": "LT",
         "ids": {
             "fips": "LH60",
-            "geonames": 864480
+            "geonames": 864480,
+            "iso_3166_2": "LT-PN"
         },
         "long": {
-            "default": "Panevėžys"
+            "default": "Panevėžio Apskritis"
         }
     },
     {
         "parent": "LT",
         "ids": {
             "fips": "LH61",
-            "geonames": 864481
+            "geonames": 864481,
+            "iso_3166_2": "LT-SA"
         },
         "long": {
-            "default": "Siauliai"
+            "default": "Šiaulių Apskritis"
         }
     },
     {
         "parent": "LT",
         "ids": {
             "fips": "LH62",
-            "geonames": 864482
+            "geonames": 864482,
+            "iso_3166_2": "LT-TA"
         },
         "long": {
             "default": "Tauragės apskritis"
@@ -75,7 +80,8 @@
         "parent": "LT",
         "ids": {
             "fips": "LH63",
-            "geonames": 864483
+            "geonames": 864483,
+            "iso_3166_2": "LT-TE"
         },
         "long": {
             "default": "Telšių apskritis"
@@ -85,20 +91,22 @@
         "parent": "LT",
         "ids": {
             "fips": "LH64",
-            "geonames": 864484
+            "geonames": 864484,
+            "iso_3166_2": "LT-UT"
         },
         "long": {
-            "default": "Utena"
+            "default": "Utenos Apskritis"
         }
     },
     {
         "parent": "LT",
         "ids": {
             "fips": "LH65",
-            "geonames": 864485
+            "geonames": 864485,
+            "iso_3166_2": "LT-VL"
         },
         "long": {
-            "default": "Vilnius County"
+            "default": "Vilniaus Apskritis"
         }
     }
 ]

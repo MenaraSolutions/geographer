@@ -3,7 +3,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE36",
-            "geonames": 1223421
+            "geonames": 1223421,
+            "iso_3166_2": "LK-1"
         },
         "long": {
             "default": "Western"
@@ -13,7 +14,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE35",
-            "geonames": 1225265
+            "geonames": 1225265,
+            "iso_3166_2": "LK-8"
         },
         "long": {
             "default": "Uva"
@@ -23,7 +25,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE34",
-            "geonames": 1227618
+            "geonames": 1227618,
+            "iso_3166_2": "LK-3"
         },
         "long": {
             "default": "Southern"
@@ -33,7 +36,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE33",
-            "geonames": 1228435
+            "geonames": 1228435,
+            "iso_3166_2": "LK-9"
         },
         "long": {
             "default": "Sabaragamuwa"
@@ -43,7 +47,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE32",
-            "geonames": 1232860
+            "geonames": 1232860,
+            "iso_3166_2": "LK-6"
         },
         "long": {
             "default": "North Western"
@@ -53,7 +58,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE30",
-            "geonames": 1232870
+            "geonames": 1232870,
+            "iso_3166_2": "LK-7"
         },
         "long": {
             "default": "North Central"
@@ -63,7 +69,8 @@
         "parent": "LK",
         "ids": {
             "fips": "CE29",
-            "geonames": 1249296
+            "geonames": 1249296,
+            "iso_3166_2": "LK-2"
         },
         "long": {
             "default": "Central"

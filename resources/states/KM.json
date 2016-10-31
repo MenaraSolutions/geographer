@@ -3,7 +3,8 @@
         "parent": "KM",
         "ids": {
             "fips": "CN03",
-            "geonames": 921780
+            "geonames": 921780,
+            "iso_3166_2": "KM-M"
         },
         "long": {
             "default": "Mohéli"

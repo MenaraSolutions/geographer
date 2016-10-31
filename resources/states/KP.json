@@ -14,30 +14,33 @@
         "parent": "KP",
         "ids": {
             "fips": "KN15",
-            "geonames": 1871952
+            "geonames": 1871952,
+            "iso_3166_2": "KP-02"
         },
         "long": {
-            "default": "P'yŏngan-namdo"
+            "default": "South Pyongan"
         }
     },
     {
         "parent": "KP",
         "ids": {
             "fips": "KN11",
-            "geonames": 1871954
+            "geonames": 1871954,
+            "iso_3166_2": "KP-03"
         },
         "long": {
-            "default": "P'yŏngan-bukto"
+            "default": "North Pyongan"
         }
     },
     {
         "parent": "KP",
         "ids": {
             "fips": "KN09",
-            "geonames": 1876101
+            "geonames": 1876101,
+            "iso_3166_2": "KP-07"
         },
         "long": {
-            "default": "Kangwŏn-do"
+            "default": "Kangwon"
         }
     },
     {
@@ -48,7 +51,7 @@
             "iso_3166_2": "KP-05"
         },
         "long": {
-            "default": "Hwanghae-namdo"
+            "default": "South Hwanghae"
         }
     },
     {
@@ -59,17 +62,18 @@
             "iso_3166_2": "KP-06"
         },
         "long": {
-            "default": "Hwanghae-bukto"
+            "default": "North Hwanghae"
         }
     },
     {
         "parent": "KP",
         "ids": {
             "fips": "KN03",
-            "geonames": 1877450
+            "geonames": 1877450,
+            "iso_3166_2": "KP-08"
         },
         "long": {
-            "default": "Hamgyŏng-namdo"
+            "default": "South Hamgyong"
         }
     },
     {
@@ -80,17 +84,18 @@
             "iso_3166_2": "KP-10"
         },
         "long": {
-            "default": "Yanggang-do"
+            "default": "Ryanggang"
         }
     },
     {
         "parent": "KP",
         "ids": {
             "fips": "KN17",
-            "geonames": 2044245
+            "geonames": 2044245,
+            "iso_3166_2": "KP-09"
         },
         "long": {
-            "default": "Hamgyŏng-bukto"
+            "default": "North Hamgyong"
         }
     },
     {
@@ -101,14 +106,15 @@
             "iso_3166_2": "KP-04"
         },
         "long": {
-            "default": "Chagang-do"
+            "default": "Chagang"
         }
     },
     {
         "parent": "KP",
         "ids": {
             "fips": "KN18",
-            "geonames": 2054927
+            "geonames": 2054927,
+            "iso_3166_2": "KP-13"
         },
         "long": {
             "default": "Rason"

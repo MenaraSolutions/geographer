@@ -3,17 +3,19 @@
         "parent": "KW",
         "ids": {
             "fips": "KU08",
-            "geonames": 285628
+            "geonames": 285628,
+            "iso_3166_2": "KW-HA"
         },
         "long": {
-            "default": "Muḩāfaz̧at Ḩawallī"
+            "default": "Ḩawallī"
         }
     },
     {
         "parent": "KW",
         "ids": {
             "fips": "KU02",
-            "geonames": 285788
+            "geonames": 285788,
+            "iso_3166_2": "KW-KU"
         },
         "long": {
             "default": "Al Asimah"
@@ -23,7 +25,8 @@
         "parent": "KW",
         "ids": {
             "fips": "KU05",
-            "geonames": 285798
+            "geonames": 285798,
+            "iso_3166_2": "KW-JA"
         },
         "long": {
             "default": "Al Jahrāʼ"
@@ -44,7 +47,8 @@
         "parent": "KW",
         "ids": {
             "fips": "KU04",
-            "geonames": 285841
+            "geonames": 285841,
+            "iso_3166_2": "KW-AH"
         },
         "long": {
             "default": "Al Aḩmadī"
@@ -54,7 +58,8 @@
         "parent": "KW",
         "ids": {
             "fips": "KU09",
-            "geonames": 7733358
+            "geonames": 7733358,
+            "iso_3166_2": "KW-MU"
         },
         "long": {
             "default": "Mubārak al Kabīr"

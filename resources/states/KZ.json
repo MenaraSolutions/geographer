@@ -3,7 +3,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ07",
-            "geonames": 607847
+            "geonames": 607847,
+            "iso_3166_2": "KZ-ZAP"
         },
         "long": {
             "default": "Batys Qazaqstan"
@@ -13,7 +14,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ09",
-            "geonames": 608879
+            "geonames": 608879,
+            "iso_3166_2": "KZ-MAN"
         },
         "long": {
             "default": "Mangghystaū"
@@ -23,7 +25,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ06",
-            "geonames": 609862
+            "geonames": 609862,
+            "iso_3166_2": "KZ-ATY"
         },
         "long": {
             "default": "Atyraū"
@@ -33,7 +36,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ04",
-            "geonames": 610688
+            "geonames": 610688,
+            "iso_3166_2": "KZ-AKT"
         },
         "long": {
             "default": "Aqtöbe"
@@ -43,17 +47,19 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ15",
-            "geonames": 1517381
+            "geonames": 1517381,
+            "iso_3166_2": "KZ-VOS"
         },
         "long": {
-            "default": "East Kazakhstan"
+            "default": "Shyghys Qazaqstan"
         }
     },
     {
         "parent": "KZ",
         "ids": {
             "fips": "KZ03",
-            "geonames": 1518003
+            "geonames": 1518003,
+            "iso_3166_2": "KZ-AKM"
         },
         "long": {
             "default": "Aqmola"
@@ -63,7 +69,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ16",
-            "geonames": 1519367
+            "geonames": 1519367,
+            "iso_3166_2": "KZ-SEV"
         },
         "long": {
             "default": "Soltüstik Qazaqstan"
@@ -73,7 +80,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ11",
-            "geonames": 1520239
+            "geonames": 1520239,
+            "iso_3166_2": "KZ-PAV"
         },
         "long": {
             "default": "Pavlodar"
@@ -83,7 +91,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ14",
-            "geonames": 1521406
+            "geonames": 1521406,
+            "iso_3166_2": "KZ-KZY"
         },
         "long": {
             "default": "Qyzylorda"
@@ -93,7 +102,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ13",
-            "geonames": 1521671
+            "geonames": 1521671,
+            "iso_3166_2": "KZ-KUS"
         },
         "long": {
             "default": "Qostanay"
@@ -103,7 +113,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ12",
-            "geonames": 1523401
+            "geonames": 1523401,
+            "iso_3166_2": "KZ-KAR"
         },
         "long": {
             "default": "Qaraghandy"
@@ -113,7 +124,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ17",
-            "geonames": 1524444
+            "geonames": 1524444,
+            "iso_3166_2": "KZ-ZHA"
         },
         "long": {
             "default": "Zhambyl"
@@ -123,7 +135,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ10",
-            "geonames": 1524787
+            "geonames": 1524787,
+            "iso_3166_2": "KZ-YUZ"
         },
         "long": {
             "default": "Ongtüstik Qazaqstan"
@@ -133,10 +146,11 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ02",
-            "geonames": 1526395
+            "geonames": 1526395,
+            "iso_3166_2": "KZ-ALA"
         },
         "long": {
-            "default": "Almaty Qalasy"
+            "default": "Almaty"
         }
     },
     {
@@ -154,7 +168,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ08",
-            "geonames": 1538316
+            "geonames": 1538316,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Bayqongyr Qalasy"
@@ -164,7 +179,8 @@
         "parent": "KZ",
         "ids": {
             "fips": "KZ05",
-            "geonames": 1538317
+            "geonames": 1538317,
+            "iso_3166_2": "KZ-AST"
         },
         "long": {
             "default": "Astana Qalasy"

@@ -25,7 +25,8 @@
         "parent": "LS",
         "ids": {
             "fips": "LT17",
-            "geonames": 932219
+            "geonames": 932219,
+            "iso_3166_2": "LS-H"
         },
         "long": {
             "default": "Qachaʼs Nek"
@@ -46,7 +47,8 @@
         "parent": "LS",
         "ids": {
             "fips": "LT15",
-            "geonames": 932439
+            "geonames": 932439,
+            "iso_3166_2": "LS-F"
         },
         "long": {
             "default": "Mohaleʼs Hoek"

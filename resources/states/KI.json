@@ -25,7 +25,8 @@
         "parent": "KI",
         "ids": {
             "fips": "KR03",
-            "geonames": 7521379
+            "geonames": 7521379,
+            "iso_3166_2": "KI-P"
         },
         "long": {
             "default": "Phoenix Islands"

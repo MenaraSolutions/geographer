@@ -36,17 +36,19 @@
         "parent": "LB",
         "ids": {
             "fips": "LE06",
-            "geonames": 279894
+            "geonames": 279894,
+            "iso_3166_2": "LB-JA"
         },
         "long": {
-            "default": "South Governorate"
+            "default": "Liban-Sud"
         }
     },
     {
         "parent": "LB",
         "ids": {
             "fips": "LE08",
-            "geonames": 280282
+            "geonames": 280282,
+            "iso_3166_2": "LB-BI"
         },
         "long": {
             "default": "Béqaa"
@@ -56,7 +58,8 @@
         "parent": "LB",
         "ids": {
             "fips": "LE07",
-            "geonames": 444191
+            "geonames": 444191,
+            "iso_3166_2": "LB-NA"
         },
         "long": {
             "default": "Nabatîyé"
@@ -66,7 +69,8 @@
         "parent": "LB",
         "ids": {
             "fips": "LE10",
-            "geonames": 6201370
+            "geonames": 6201370,
+            "iso_3166_2": "LB-AK"
         },
         "long": {
             "default": "Aakkâr"

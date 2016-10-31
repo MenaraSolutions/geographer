@@ -2,8 +2,9 @@
     {
         "parent": "LC",
         "ids": {
-            "fips": "10",
-            "geonames": 3576413
+            "fips": "ST10",
+            "geonames": 3576413,
+            "iso_3166_2": "LC-11"
         },
         "long": {
             "default": "Vieux-Fort"
@@ -12,8 +13,9 @@
     {
         "parent": "LC",
         "ids": {
-            "fips": "09",
-            "geonames": 3576441
+            "fips": "ST09",
+            "geonames": 3576441,
+            "iso_3166_2": "LC-10"
         },
         "long": {
             "default": "Soufrière"
@@ -22,8 +24,9 @@
     {
         "parent": "LC",
         "ids": {
-            "fips": "11",
-            "geonames": 3576507
+            "fips": "ST11",
+            "geonames": 3576507,
+            "iso_3166_2": "LC-"
         },
         "long": {
             "default": "Praslin"
@@ -32,48 +35,53 @@
     {
         "parent": "LC",
         "ids": {
-            "fips": "08",
-            "geonames": 3576567
+            "fips": "ST08",
+            "geonames": 3576567,
+            "iso_3166_2": "LC-08"
         },
         "long": {
-            "default": "Micoud Quarter"
+            "default": "Micoud"
         }
     },
     {
         "parent": "LC",
         "ids": {
-            "fips": "07",
-            "geonames": 3576662
+            "fips": "ST07",
+            "geonames": 3576662,
+            "iso_3166_2": "LC-07"
         },
         "long": {
-            "default": "Laborie Quarter"
+            "default": "Laborie"
         }
     },
     {
         "parent": "LC",
         "ids": {
-            "fips": "06",
-            "geonames": 3576685
+            "fips": "ST06",
+            "geonames": 3576685,
+            "iso_3166_2": "LC-06"
         },
         "long": {
-            "default": "Gros-Islet"
+            "default": "Gros Islet"
         }
     },
     {
         "parent": "LC",
         "ids": {
-            "fips": "05",
-            "geonames": 3576764
+            "fips": "ST05",
+            "geonames": 3576764,
+            "iso_3166_2": "LC-05"
         },
         "long": {
-            "default": "Dennery Quarter"
+            "default": "Dennery"
         }
     },
     {
         "parent": "LC",
         "ids": {
-            "fips": "02",
-            "geonames": 3576771
+            "fips": "ST02",
+            "geonames": 3576771,
+            "iso_3166_2": false
         },
         "long": {
             "default": "Dauphin"
@@ -82,28 +90,31 @@
     {
         "parent": "LC",
         "ids": {
-            "fips": "04",
-            "geonames": 3576794
+            "fips": "ST04",
+            "geonames": 3576794,
+            "iso_3166_2": "LC-03"
         },
         "long": {
-            "default": "Choiseul Quarter"
+            "default": "Choiseul"
         }
     },
     {
         "parent": "LC",
         "ids": {
-            "fips": "03",
-            "geonames": 3576810
+            "fips": "ST03",
+            "geonames": 3576810,
+            "iso_3166_2": "LC-02"
         },
         "long": {
-            "default": "Castries Quarter"
+            "default": "Castries"
         }
     },
     {
         "parent": "LC",
         "ids": {
-            "fips": "01",
-            "geonames": 3576891
+            "fips": "ST01",
+            "geonames": 3576891,
+            "iso_3166_2": "LC-01"
         },
         "long": {
             "default": "Anse-la-Raye"
