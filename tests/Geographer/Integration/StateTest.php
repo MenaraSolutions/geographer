@@ -56,6 +56,60 @@ class StateTest extends Test
     }
 
     /**
+     * 
+     */
+    public function all_countries_got_correct_fips_state_count()
+    {
+        $input = file_get_contents(dirname(dirname(dirname(__FILE__))) . '/fips-414.txt');
+        $line = strtok($input, "\r\n");
+        $isoCounters = [];
+
+        while ($line !== false) {
+            list($code, $garbage) = explode("_", $line);
+
+            $countryCode = substr($code, 0, 2);
+            $stateCode = substr($code, 2);
+
+            if ($stateCode == "00") {
+                $isoCounters[$countryCode] = 0;
+            } else {
+                $isoCounters[$countryCode]++;
+            }
+
+            $line = strtok("\r\n");
+        }
+
+        $planet = (new Earth());
+        $countries = $planet->setStandard('fips')->getCountries()->sortBy('code');
+
+        foreach ($countries as $country) {
+            if (! in_array($country->getFipsCode(), array_keys($isoCounters))) echo 'Missing country: ' . $country->getFipsCode() . "\n";
+        }
+
+        foreach ($isoCounters as $key => $value) {
+            if (! $countries->findOne(['fipsCode' => $key])) {
+                //echo 'Country ' . $key . " doesnt exist\n";
+            }
+        }
+        //$this->assertEquals(count($countries), count($isoCounters));
+
+        foreach ($countries as $country) {
+            /**
+             * @var MemberCollection $states
+             */
+            $states = $country->getStates();
+            $count = strval(count($states));
+
+            if ($count == $isoCounters[$country->getFipsCode()]) {
+
+            } else {
+                echo "State count mismatch for " . $country->getFipsCode() . ": ${count} not in ".json_encode($isoCounters[$country->getFipsCode()])." \n";
+            }
+        }
+
+    }
+
+    /**
      * @test
      */
     public function all_countries_got_correct_iso_state_count()
