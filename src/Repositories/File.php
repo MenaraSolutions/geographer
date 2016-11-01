@@ -8,6 +8,7 @@ use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Exceptions\FileNotFoundException;
 use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
+use MenaraSolutions\Geographer\Helpers\WhereAmI;
 use MenaraSolutions\Geographer\State;
 use MenaraSolutions\Geographer\Exceptions\ObjectNotFoundException;
 use MenaraSolutions\Geographer\City;
@@ -55,10 +56,21 @@ class File implements RepositoryInterface
      * @param string $prefix
      * @param string $translationsPrefix
      */
-    public function __construct($prefix, $translationsPrefix = null)
+    public function __construct($prefix = null, $translationsPrefix = null)
     {
-        $this->prefix = $prefix;
+        $this->prefix = $prefix ?: $this->getDefaultPath();
         $this->translationsPrefix = $translationsPrefix ?: $this->guessTranslationsPrefix();
+    }
+
+    /**
+     * @return string
+     * @throws FileNotFoundException
+     */
+    private function getDefaultPath()
+    {
+        if (! class_exists(WhereAmI::class)) throw new FileNotFoundException('Unable to locate data package');
+
+        return WhereAmI::path();
     }
 
     /**
@@ -72,7 +84,7 @@ class File implements RepositoryInterface
     {
         if (! isset(self::$paths[$class])) throw new MisconfigurationException($class . ' is not supposed to load data');
 
-        return str_replace(array_keys($params), array_values($params), $prefix . self::$paths[$class]);
+        return str_replace(array_keys($params), array_values($params), $prefix . DIRECTORY_SEPARATOR . self::$paths[$class]);
     }
 
     /**
@@ -184,7 +196,7 @@ class File implements RepositoryInterface
      */
     public function indexSearch($id, $class)
     {
-        $code = $this->getCodeFromIndex($this->prefix . self::$indexes[$class], $id);
+        $code = $this->getCodeFromIndex($this->prefix . DIRECTORY_SEPARATOR . self::$indexes[$class], $id);
 
         $key = ($class == State::class) ? 'parentCode' : 'code';
         $path = self::getPath($class, $this->prefix, [ $key => $code ]);

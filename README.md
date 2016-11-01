@@ -30,7 +30,7 @@ Or add it to `composer.json` manually:
 ```json
 {
     "require": {
-        "menarasolutions/geographer": "~0.2"
+        "menarasolutions/geographer": "~0.3"
     }
 }
 ```
@@ -203,7 +203,7 @@ attempt to use a non-existing language – expect an exception.
 
 | Language  |  Countries   |   States   |    Cities    | Package |
 |-----------|--------------|------------|--------------|---------|
-| English   | ✓            | ✓         | ✓            | --- |
+| English   | ✓            | ✓         | ✓            | [geographer-data](https://github.com/MenaraSolutions/geographer-data) |
 | Russian   | ✓            | ✓         | ✓            | [geographer-ru](https://github.com/MenaraSolutions/geographer-ru) | 
 | Ukrainian | ✓            | ✓         | ✓           | [geographer-uk](https://github.com/MenaraSolutions/geographer-uk) |           
 | Spanish   | ✓            | ✓         | ✓           | [geographer-es](https://github.com/MenaraSolutions/geographer-es) |           
@@ -212,11 +212,12 @@ attempt to use a non-existing language – expect an exception.
 | German    | ✓            | ✓         | ✓           | [geographer-de](https://github.com/MenaraSolutions/geographer-de) |
 | Chinese Mandarin | ✓            | ✓         | ✓           | [geographer-zh](https://github.com/MenaraSolutions/geographer-zh) |
 
-English texts are included in the main package and are used as default metadata. 
+English texts are included in the data package and are used as default metadata. 
 
 ## Subdivisions
 
-Geographer is 100% compliant with current ISO 3166-1 and ISO 3166-2 codes as of today.
+Subdivision data is kept in a separate repo - [geographer-data](https://github.com/MenaraSolutions/geographer-data) so that it 
+may be reused by different language SDKs. Geographer is 100% compliant with current ISO 3166-1 and ISO 3166-2 codes.
 
 ## Vision
 
