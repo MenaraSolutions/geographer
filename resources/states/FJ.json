@@ -25,7 +25,8 @@
         "parent": "FJ",
         "ids": {
             "fips": "FJ01",
-            "geonames": 2205272
+            "geonames": 2205272,
+            "iso_3166_2": "FJ-C"
         },
         "long": {
             "default": "Central"
@@ -35,7 +36,8 @@
         "parent": "FJ",
         "ids": {
             "fips": "FJ02",
-            "geonames": 4036647
+            "geonames": 4036647,
+            "iso_3166_2": "FJ-E"
         },
         "long": {
             "default": "Eastern"
@@ -45,7 +47,8 @@
         "parent": "FJ",
         "ids": {
             "fips": "FJ04",
-            "geonames": 6324593
+            "geonames": 6324593,
+            "iso_3166_2": "FJ-R"
         },
         "long": {
             "default": "Rotuma"

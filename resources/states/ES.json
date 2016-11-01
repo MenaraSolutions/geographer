@@ -3,7 +3,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP31",
-            "geonames": 2513413
+            "geonames": 2513413,
+            "iso_3166_2": "ES-MC"
         },
         "long": {
             "default": "Murcia"
@@ -24,7 +25,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP07",
-            "geonames": 2521383
+            "geonames": 2521383,
+            "iso_3166_2": "ES-IB"
         },
         "long": {
             "default": "Balearic Islands"
@@ -34,7 +36,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP51",
-            "geonames": 2593109
+            "geonames": 2593109,
+            "iso_3166_2": "ES-AN"
         },
         "long": {
             "default": "Andalusia"
@@ -44,7 +47,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP53",
-            "geonames": 2593110
+            "geonames": 2593110,
+            "iso_3166_2": "ES-CN"
         },
         "long": {
             "default": "Canary Islands"
@@ -76,7 +80,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP60",
-            "geonames": 2593113
+            "geonames": 2593113,
+            "iso_3166_2": "ES-VC"
         },
         "long": {
             "default": "Valencia"
@@ -86,7 +91,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP34",
-            "geonames": 3114710
+            "geonames": 3114710,
+            "iso_3166_2": "ES-AS"
         },
         "long": {
             "default": "Asturias"
@@ -96,17 +102,19 @@
         "parent": "ES",
         "ids": {
             "fips": "SP32",
-            "geonames": 3115609
+            "geonames": 3115609,
+            "iso_3166_2": "ES-NC"
         },
         "long": {
-            "default": "Navarre"
+            "default": "Navarra"
         }
     },
     {
         "parent": "ES",
         "ids": {
             "fips": "SP29",
-            "geonames": 3117732
+            "geonames": 3117732,
+            "iso_3166_2": "ES-MD"
         },
         "long": {
             "default": "Madrid"
@@ -116,7 +124,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP27",
-            "geonames": 3336897
+            "geonames": 3336897,
+            "iso_3166_2": "ES-RI"
         },
         "long": {
             "default": "La Rioja"
@@ -148,7 +157,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP55",
-            "geonames": 3336900
+            "geonames": 3336900,
+            "iso_3166_2": "ES-CL"
         },
         "long": {
             "default": "Castille and León"
@@ -158,7 +168,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP56",
-            "geonames": 3336901
+            "geonames": 3336901,
+            "iso_3166_2": "ES-CT"
         },
         "long": {
             "default": "Catalonia"
@@ -179,7 +190,8 @@
         "parent": "ES",
         "ids": {
             "fips": "SP59",
-            "geonames": 3336903
+            "geonames": 3336903,
+            "iso_3166_2": "ES-PV"
         },
         "long": {
             "default": "Basque Country"

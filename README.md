@@ -214,6 +214,10 @@ attempt to use a non-existing language – expect an exception.
 
 English texts are included in the main package and are used as default metadata. 
 
+## Subdivisions
+
+Geographer is 100% compliant with current ISO 3166-1 and ISO 3166-2 codes as of today.
+
 ## Vision
 
 Our main principles and goals are:

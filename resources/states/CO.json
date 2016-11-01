@@ -14,7 +14,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO30",
-            "geonames": 3666254
+            "geonames": 3666254,
+            "iso_3166_2": "CO-VAU"
         },
         "long": {
             "default": "Vaupés"
@@ -68,10 +69,11 @@
         "parent": "CO",
         "ids": {
             "fips": "CO25",
-            "geonames": 3670205
+            "geonames": 3670205,
+            "iso_3166_2": "CO-SAP"
         },
         "long": {
-            "default": "Archipiélago de San Andrés, Providencia y Santa Catalina"
+            "default": "San Andrés, Providencia y Santa Catalina"
         }
     },
     {
@@ -89,7 +91,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO23",
-            "geonames": 3671087
+            "geonames": 3671087,
+            "iso_3166_2": "CO-QUI"
         },
         "long": {
             "default": "Quindío"
@@ -121,7 +124,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO20",
-            "geonames": 3674021
+            "geonames": 3674021,
+            "iso_3166_2": "CO-NAR"
         },
         "long": {
             "default": "Nariño"
@@ -164,7 +168,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO16",
-            "geonames": 3680692
+            "geonames": 3680692,
+            "iso_3166_2": "CO-HUI"
         },
         "long": {
             "default": "Huila"
@@ -185,7 +190,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO15",
-            "geonames": 3681652
+            "geonames": 3681652,
+            "iso_3166_2": "CO-GUA"
         },
         "long": {
             "default": "Guainía"
@@ -206,7 +212,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO12",
-            "geonames": 3685889
+            "geonames": 3685889,
+            "iso_3166_2": "CO-COR"
         },
         "long": {
             "default": "Córdoba"
@@ -216,7 +223,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO11",
-            "geonames": 3686431
+            "geonames": 3686431,
+            "iso_3166_2": "CO-CHO"
         },
         "long": {
             "default": "Chocó"
@@ -259,7 +267,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO08",
-            "geonames": 3687479
+            "geonames": 3687479,
+            "iso_3166_2": "CO-CAQ"
         },
         "long": {
             "default": "Caquetá"
@@ -280,7 +289,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO36",
-            "geonames": 3688536
+            "geonames": 3688536,
+            "iso_3166_2": "CO-BOY"
         },
         "long": {
             "default": "Boyacá"
@@ -290,7 +300,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO35",
-            "geonames": 3688650
+            "geonames": 3688650,
+            "iso_3166_2": "CO-BOL"
         },
         "long": {
             "default": "Bolívar"
@@ -300,17 +311,19 @@
         "parent": "CO",
         "ids": {
             "fips": "CO34",
-            "geonames": 3688685
+            "geonames": 3688685,
+            "iso_3166_2": "CO-DC"
         },
         "long": {
-            "default": "Bogota D.C."
+            "default": "Distrito Capital de Bogota"
         }
     },
     {
         "parent": "CO",
         "ids": {
             "fips": "CO04",
-            "geonames": 3689436
+            "geonames": 3689436,
+            "iso_3166_2": "CO-ATL"
         },
         "long": {
             "default": "Atlántico"
@@ -342,7 +355,8 @@
         "parent": "CO",
         "ids": {
             "fips": "CO01",
-            "geonames": 3689982
+            "geonames": 3689982,
+            "iso_3166_2": "CO-AMA"
         },
         "long": {
             "default": "Amazonas"

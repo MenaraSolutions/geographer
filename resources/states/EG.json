@@ -3,7 +3,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG24",
-            "geonames": 347794
+            "geonames": 347794,
+            "iso_3166_2": "EG-SHG"
         },
         "long": {
             "default": "Sohag"
@@ -13,7 +14,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG27",
-            "geonames": 349401
+            "geonames": 349401,
+            "iso_3166_2": "EG-SIN"
         },
         "long": {
             "default": "North Sinai"
@@ -23,7 +25,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG23",
-            "geonames": 350546
+            "geonames": 350546,
+            "iso_3166_2": "EG-KN"
         },
         "long": {
             "default": "Qena"
@@ -44,7 +47,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG21",
-            "geonames": 354500
+            "geonames": 354500,
+            "iso_3166_2": "EG-KFS"
         },
         "long": {
             "default": "Kafr el-Sheikh"
@@ -54,7 +58,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG26",
-            "geonames": 355182
+            "geonames": 355182,
+            "iso_3166_2": "EG-JS"
         },
         "long": {
             "default": "South Sinai"
@@ -64,7 +69,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG20",
-            "geonames": 358044
+            "geonames": 358044,
+            "iso_3166_2": "EG-DT"
         },
         "long": {
             "default": "Damietta"
@@ -74,7 +80,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG19",
-            "geonames": 358617
+            "geonames": 358617,
+            "iso_3166_2": "EG-PTS"
         },
         "long": {
             "default": "Port Said"
@@ -84,7 +91,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG18",
-            "geonames": 359171
+            "geonames": 359171,
+            "iso_3166_2": "EG-BNS"
         },
         "long": {
             "default": "Beni Suweif"
@@ -116,7 +124,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG15",
-            "geonames": 359797
+            "geonames": 359797,
+            "iso_3166_2": "EG-SUZ"
         },
         "long": {
             "default": "Suez"
@@ -126,17 +135,19 @@
         "parent": "EG",
         "ids": {
             "fips": "EG14",
-            "geonames": 360016
+            "geonames": 360016,
+            "iso_3166_2": "EG-SHR"
         },
         "long": {
-            "default": "Sharqia"
+            "default": "Al Sharqia"
         }
     },
     {
         "parent": "EG",
         "ids": {
             "fips": "EG13",
-            "geonames": 360483
+            "geonames": 360483,
+            "iso_3166_2": "EG-WAD"
         },
         "long": {
             "default": "New Valley"
@@ -146,7 +157,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG12",
-            "geonames": 360621
+            "geonames": 360621,
+            "iso_3166_2": "EG-KB"
         },
         "long": {
             "default": "Qalyubia"
@@ -156,7 +168,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG11",
-            "geonames": 360631
+            "geonames": 360631,
+            "iso_3166_2": "EG-C"
         },
         "long": {
             "default": "Cairo"
@@ -166,7 +179,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG10",
-            "geonames": 360688
+            "geonames": 360688,
+            "iso_3166_2": "EG-MN"
         },
         "long": {
             "default": "Minya"
@@ -176,7 +190,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG09",
-            "geonames": 360689
+            "geonames": 360689,
+            "iso_3166_2": "EG-MNF"
         },
         "long": {
             "default": "Monufia"
@@ -186,7 +201,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG08",
-            "geonames": 360997
+            "geonames": 360997,
+            "iso_3166_2": "EG-GZ"
         },
         "long": {
             "default": "Giza"
@@ -196,7 +212,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG07",
-            "geonames": 361056
+            "geonames": 361056,
+            "iso_3166_2": "EG-IS"
         },
         "long": {
             "default": "Ismailia"
@@ -206,7 +223,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG06",
-            "geonames": 361059
+            "geonames": 361059,
+            "iso_3166_2": "EG-ALX"
         },
         "long": {
             "default": "Alexandria"
@@ -216,7 +234,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG05",
-            "geonames": 361294
+            "geonames": 361294,
+            "iso_3166_2": "EG-GH"
         },
         "long": {
             "default": "Gharbia"
@@ -226,7 +245,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG04",
-            "geonames": 361323
+            "geonames": 361323,
+            "iso_3166_2": "EG-FYM"
         },
         "long": {
             "default": "Faiyum"
@@ -236,7 +256,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG03",
-            "geonames": 361370
+            "geonames": 361370,
+            "iso_3166_2": "EG-BH"
         },
         "long": {
             "default": "Beheira"
@@ -246,7 +267,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG02",
-            "geonames": 361468
+            "geonames": 361468,
+            "iso_3166_2": "EG-BA"
         },
         "long": {
             "default": "Red Sea"
@@ -256,7 +278,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG01",
-            "geonames": 361849
+            "geonames": 361849,
+            "iso_3166_2": "EG-DK"
         },
         "long": {
             "default": "Dakahlia"
@@ -266,7 +289,8 @@
         "parent": "EG",
         "ids": {
             "fips": "EG28",
-            "geonames": 7603259
+            "geonames": 7603259,
+            "iso_3166_2": "EG-LX"
         },
         "long": {
             "default": "Luxor"

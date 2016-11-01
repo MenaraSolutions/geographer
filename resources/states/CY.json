@@ -14,7 +14,8 @@
         "parent": "CY",
         "ids": {
             "fips": "CY04",
-            "geonames": 146267
+            "geonames": 146267,
+            "iso_3166_2": "CY-01"
         },
         "long": {
             "default": "Nicosia"
@@ -24,7 +25,8 @@
         "parent": "CY",
         "ids": {
             "fips": "CY05",
-            "geonames": 146383
+            "geonames": 146383,
+            "iso_3166_2": "CY-02"
         },
         "long": {
             "default": "Limassol"

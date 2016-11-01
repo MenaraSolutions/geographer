@@ -69,7 +69,8 @@
         "parent": "EC",
         "ids": {
             "fips": "EC14",
-            "geonames": 3654451
+            "geonames": 3654451,
+            "iso_3166_2": "EC-M"
         },
         "long": {
             "default": "Manabí"
@@ -79,7 +80,8 @@
         "parent": "EC",
         "ids": {
             "fips": "EC13",
-            "geonames": 3654592
+            "geonames": 3654592,
+            "iso_3166_2": "EC-R"
         },
         "long": {
             "default": "Los Ríos"
@@ -122,7 +124,8 @@
         "parent": "EC",
         "ids": {
             "fips": "EC01",
-            "geonames": 3657879
+            "geonames": 3657879,
+            "iso_3166_2": "EC-W"
         },
         "long": {
             "default": "Galápagos"
@@ -187,7 +190,8 @@
         "parent": "EC",
         "ids": {
             "fips": "EC04",
-            "geonames": 3659849
+            "geonames": 3659849,
+            "iso_3166_2": "EC-F"
         },
         "long": {
             "default": "Cañar"
@@ -197,7 +201,8 @@
         "parent": "EC",
         "ids": {
             "fips": "EC03",
-            "geonames": 3660130
+            "geonames": 3660130,
+            "iso_3166_2": "EC-B"
         },
         "long": {
             "default": "Bolívar"
@@ -240,7 +245,8 @@
         "parent": "EC",
         "ids": {
             "fips": "EC26",
-            "geonames": 7062136
+            "geonames": 7062136,
+            "iso_3166_2": "EC-SD"
         },
         "long": {
             "default": "Santo Domingo de los Tsáchilas"

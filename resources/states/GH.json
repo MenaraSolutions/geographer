@@ -3,7 +3,8 @@
         "parent": "GH",
         "ids": {
             "fips": "GH09",
-            "geonames": 2294076
+            "geonames": 2294076,
+            "iso_3166_2": "GH-WP"
         },
         "long": {
             "default": "Western"
@@ -46,7 +47,8 @@
         "parent": "GH",
         "ids": {
             "fips": "GH06",
-            "geonames": 2297169
+            "geonames": 2297169,
+            "iso_3166_2": "GH-NP"
         },
         "long": {
             "default": "Northern"
@@ -78,7 +80,8 @@
         "parent": "GH",
         "ids": {
             "fips": "GH04",
-            "geonames": 2302353
+            "geonames": 2302353,
+            "iso_3166_2": "GH-CP"
         },
         "long": {
             "default": "Central"

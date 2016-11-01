@@ -25,7 +25,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO16",
-            "geonames": 3601689
+            "geonames": 3601689,
+            "iso_3166_2": "HN-SB"
         },
         "long": {
             "default": "Santa Bárbara"
@@ -68,7 +69,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO12",
-            "geonames": 3607251
+            "geonames": 3607251,
+            "iso_3166_2": "HN-LP"
         },
         "long": {
             "default": "La Paz"
@@ -78,17 +80,19 @@
         "parent": "HN",
         "ids": {
             "fips": "HO11",
-            "geonames": 3608814
+            "geonames": 3608814,
+            "iso_3166_2": "HN-IB"
         },
         "long": {
-            "default": "Bay Islands"
+            "default": "Islas de la Bahía"
         }
     },
     {
         "parent": "HN",
         "ids": {
             "fips": "HO10",
-            "geonames": 3608833
+            "geonames": 3608833,
+            "iso_3166_2": "HN-IN"
         },
         "long": {
             "default": "Intibucá"
@@ -120,7 +124,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO07",
-            "geonames": 3610942
+            "geonames": 3610942,
+            "iso_3166_2": "HN-EP"
         },
         "long": {
             "default": "El Paraíso"
@@ -130,7 +135,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO06",
-            "geonames": 3613140
+            "geonames": 3613140,
+            "iso_3166_2": "HN-CR"
         },
         "long": {
             "default": "Cortés"
@@ -140,7 +146,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO05",
-            "geonames": 3613229
+            "geonames": 3613229,
+            "iso_3166_2": "HN-CP"
         },
         "long": {
             "default": "Copán"
@@ -161,7 +168,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO03",
-            "geonames": 3613358
+            "geonames": 3613358,
+            "iso_3166_2": "HN-CL"
         },
         "long": {
             "default": "Colón"
@@ -182,7 +190,8 @@
         "parent": "HN",
         "ids": {
             "fips": "HO01",
-            "geonames": 3615027
+            "geonames": 3615027,
+            "iso_3166_2": "HN-AT"
         },
         "long": {
             "default": "Atlántida"

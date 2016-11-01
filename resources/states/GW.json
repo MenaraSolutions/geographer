@@ -36,7 +36,8 @@
         "parent": "GW",
         "ids": {
             "fips": "PU10",
-            "geonames": 2372533
+            "geonames": 2372533,
+            "iso_3166_2": "GW-GA"
         },
         "long": {
             "default": "Gabú"
@@ -57,10 +58,11 @@
         "parent": "GW",
         "ids": {
             "fips": "PU05",
-            "geonames": 2374689
+            "geonames": 2374689,
+            "iso_3166_2": "GW-BL"
         },
         "long": {
-            "default": "Bolama and Bijagos"
+            "default": "Bolama"
         }
     },
     {
@@ -89,7 +91,8 @@
         "parent": "GW",
         "ids": {
             "fips": "PU01",
-            "geonames": 2375255
+            "geonames": 2375255,
+            "iso_3166_2": "GW-BA"
         },
         "long": {
             "default": "Bafatá"

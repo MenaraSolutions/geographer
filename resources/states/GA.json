@@ -25,7 +25,8 @@
         "parent": "GA",
         "ids": {
             "fips": "GB07",
-            "geonames": 2396925
+            "geonames": 2396925,
+            "iso_3166_2": "GA-7"
         },
         "long": {
             "default": "Ogooué-Lolo"
@@ -35,7 +36,8 @@
         "parent": "GA",
         "ids": {
             "fips": "GB06",
-            "geonames": 2396926
+            "geonames": 2396926,
+            "iso_3166_2": "GA-6"
         },
         "long": {
             "default": "Ogooué-Ivindo"
@@ -67,7 +69,8 @@
         "parent": "GA",
         "ids": {
             "fips": "GB03",
-            "geonames": 2397842
+            "geonames": 2397842,
+            "iso_3166_2": "GA-3"
         },
         "long": {
             "default": "Moyen-Ogooué"
@@ -77,7 +80,8 @@
         "parent": "GA",
         "ids": {
             "fips": "GB02",
-            "geonames": 2400454
+            "geonames": 2400454,
+            "iso_3166_2": "GA-2"
         },
         "long": {
             "default": "Haut-Ogooué"

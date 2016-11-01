@@ -79,7 +79,8 @@
         "parent": "CU",
         "ids": {
             "fips": "CU12",
-            "geonames": 3556965
+            "geonames": 3556965,
+            "iso_3166_2": "CU-11"
         },
         "long": {
             "default": "Holguín"
@@ -89,7 +90,8 @@
         "parent": "CU",
         "ids": {
             "fips": "CU10",
-            "geonames": 3557685
+            "geonames": 3557685,
+            "iso_3166_2": "CU-14"
         },
         "long": {
             "default": "Guantánamo"
@@ -132,7 +134,8 @@
         "parent": "CU",
         "ids": {
             "fips": "CU07",
-            "geonames": 3564175
+            "geonames": 3564175,
+            "iso_3166_2": "CU-08"
         },
         "long": {
             "default": "Ciego de Ávila"
@@ -142,7 +145,8 @@
         "parent": "CU",
         "ids": {
             "fips": "CU05",
-            "geonames": 3566062
+            "geonames": 3566062,
+            "iso_3166_2": "CU-09"
         },
         "long": {
             "default": "Camagüey"

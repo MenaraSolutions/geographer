@@ -3,7 +3,8 @@
         "parent": "ET",
         "ids": {
             "fips": "ET44",
-            "geonames": 444178
+            "geonames": 444178,
+            "iso_3166_2": "ET-AA"
         },
         "long": {
             "default": "Addis Ababa"
@@ -13,7 +14,8 @@
         "parent": "ET",
         "ids": {
             "fips": "ET45",
-            "geonames": 444179
+            "geonames": 444179,
+            "iso_3166_2": "ET-AF"
         },
         "long": {
             "default": "Āfar"
@@ -56,20 +58,22 @@
         "parent": "ET",
         "ids": {
             "fips": "ET49",
-            "geonames": 444183
+            "geonames": 444183,
+            "iso_3166_2": "ET-GA"
         },
         "long": {
-            "default": "Gambela"
+            "default": "Gambela Peoples"
         }
     },
     {
         "parent": "ET",
         "ids": {
             "fips": "ET50",
-            "geonames": 444184
+            "geonames": 444184,
+            "iso_3166_2": "ET-HA"
         },
         "long": {
-            "default": "Harari"
+            "default": "Harari People"
         }
     },
     {
@@ -87,7 +91,8 @@
         "parent": "ET",
         "ids": {
             "fips": "ET52",
-            "geonames": 444186
+            "geonames": 444186,
+            "iso_3166_2": "ET-SO"
         },
         "long": {
             "default": "Somali"
@@ -108,10 +113,11 @@
         "parent": "ET",
         "ids": {
             "fips": "ET54",
-            "geonames": 444188
+            "geonames": 444188,
+            "iso_3166_2": "ET-SN"
         },
         "long": {
-            "default": "Southern Nations, Nationalities, and People's Region"
+            "default": "Southern Nations, Nationalities, and Peoples"
         }
     }
 ]

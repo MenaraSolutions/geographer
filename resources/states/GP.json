@@ -2,9 +2,9 @@
     {
         "parent": "GP",
         "ids": {
-            "fips": "GP",
+            "fips": false,
             "geonames": 6690363,
-            "iso_3166_2": "GP"
+            "iso_3166_2": false
         },
         "long": {
             "default": "Guadeloupe"

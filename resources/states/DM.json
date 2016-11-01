@@ -3,7 +3,8 @@
         "parent": "DM",
         "ids": {
             "fips": "DO11",
-            "geonames": 3575618
+            "geonames": 3575618,
+            "iso_3166_2": "DM-11"
         },
         "long": {
             "default": "Saint Peter"
@@ -13,7 +14,8 @@
         "parent": "DM",
         "ids": {
             "fips": "DO10",
-            "geonames": 3575619
+            "geonames": 3575619,
+            "iso_3166_2": "DM-10"
         },
         "long": {
             "default": "Saint Paul"
@@ -56,7 +58,8 @@
         "parent": "DM",
         "ids": {
             "fips": "DO06",
-            "geonames": 3575625
+            "geonames": 3575625,
+            "iso_3166_2": "DM-06"
         },
         "long": {
             "default": "Saint Joseph"
@@ -66,7 +69,8 @@
         "parent": "DM",
         "ids": {
             "fips": "DO05",
-            "geonames": 3575626
+            "geonames": 3575626,
+            "iso_3166_2": "DM-05"
         },
         "long": {
             "default": "Saint John"

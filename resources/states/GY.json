@@ -3,7 +3,8 @@
         "parent": "GY",
         "ids": {
             "fips": "GY19",
-            "geonames": 3375463
+            "geonames": 3375463,
+            "iso_3166_2": "GY-UT"
         },
         "long": {
             "default": "Upper Takutu-Upper Essequibo"
@@ -24,7 +25,8 @@
         "parent": "GY",
         "ids": {
             "fips": "GY17",
-            "geonames": 3376386
+            "geonames": 3376386,
+            "iso_3166_2": "GY-PT"
         },
         "long": {
             "default": "Potaro-Siparuni"
@@ -100,7 +102,8 @@
         "parent": "GY",
         "ids": {
             "fips": "GY10",
-            "geonames": 3379515
+            "geonames": 3379515,
+            "iso_3166_2": "GY-BA"
         },
         "long": {
             "default": "Barima-Waini"

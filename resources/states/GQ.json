@@ -3,10 +3,11 @@
         "parent": "GQ",
         "ids": {
             "fips": "EK03",
-            "geonames": 2310307
+            "geonames": 2310307,
+            "iso_3166_2": "GQ-AN"
         },
         "long": {
-            "default": "Annobón Province"
+            "default": "Annobón"
         }
     },
     {
@@ -46,7 +47,8 @@
         "parent": "GQ",
         "ids": {
             "fips": "EK07",
-            "geonames": 2566981
+            "geonames": 2566981,
+            "iso_3166_2": "GQ-KN"
         },
         "long": {
             "default": "Kié-Ntem"

@@ -3,7 +3,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID26",
-            "geonames": 1213642
+            "geonames": 1213642,
+            "iso_3166_2": "ID-SU"
         },
         "long": {
             "default": "North Sumatra"
@@ -35,7 +36,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID32",
-            "geonames": 1626196
+            "geonames": 1626196,
+            "iso_3166_2": "ID-SS"
         },
         "long": {
             "default": "South Sumatra"
@@ -45,7 +47,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID24",
-            "geonames": 1626197
+            "geonames": 1626197,
+            "iso_3166_2": "ID-SB"
         },
         "long": {
             "default": "West Sumatra"
@@ -55,7 +58,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID31",
-            "geonames": 1626229
+            "geonames": 1626229,
+            "iso_3166_2": "ID-SA"
         },
         "long": {
             "default": "North Sulawesi"
@@ -65,7 +69,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID22",
-            "geonames": 1626230
+            "geonames": 1626230,
+            "iso_3166_2": "ID-SG"
         },
         "long": {
             "default": "Southeast Sulawesi"
@@ -75,7 +80,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID21",
-            "geonames": 1626231
+            "geonames": 1626231,
+            "iso_3166_2": "ID-ST"
         },
         "long": {
             "default": "Central Sulawesi"
@@ -85,7 +91,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID38",
-            "geonames": 1626232
+            "geonames": 1626232,
+            "iso_3166_2": "ID-SN"
         },
         "long": {
             "default": "South Sulawesi"
@@ -106,7 +113,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID18",
-            "geonames": 1633791
+            "geonames": 1633791,
+            "iso_3166_2": "ID-NT"
         },
         "long": {
             "default": "East Nusa Tenggara"
@@ -116,7 +124,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID17",
-            "geonames": 1633792
+            "geonames": 1633792,
+            "iso_3166_2": "ID-NB"
         },
         "long": {
             "default": "West Nusa Tenggara"
@@ -148,7 +157,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID14",
-            "geonames": 1641897
+            "geonames": 1641897,
+            "iso_3166_2": "ID-KI"
         },
         "long": {
             "default": "East Kalimantan"
@@ -158,7 +168,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID13",
-            "geonames": 1641898
+            "geonames": 1641898,
+            "iso_3166_2": "ID-KT"
         },
         "long": {
             "default": "Central Kalimantan"
@@ -168,7 +179,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID12",
-            "geonames": 1641899
+            "geonames": 1641899,
+            "iso_3166_2": "ID-KS"
         },
         "long": {
             "default": "South Kalimantan"
@@ -178,7 +190,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID11",
-            "geonames": 1641900
+            "geonames": 1641900,
+            "iso_3166_2": "ID-KB"
         },
         "long": {
             "default": "West Kalimantan"
@@ -188,7 +201,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID08",
-            "geonames": 1642668
+            "geonames": 1642668,
+            "iso_3166_2": "ID-JI"
         },
         "long": {
             "default": "East Java"
@@ -198,7 +212,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID07",
-            "geonames": 1642669
+            "geonames": 1642669,
+            "iso_3166_2": "ID-JT"
         },
         "long": {
             "default": "Central Java"
@@ -208,7 +223,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID30",
-            "geonames": 1642672
+            "geonames": 1642672,
+            "iso_3166_2": "ID-JB"
         },
         "long": {
             "default": "West Java"
@@ -229,10 +245,11 @@
         "parent": "ID",
         "ids": {
             "fips": "ID04",
-            "geonames": 1642907
+            "geonames": 1642907,
+            "iso_3166_2": "ID-JK"
         },
         "long": {
-            "default": "Jakarta"
+            "default": "Jakarta Raya"
         }
     },
     {
@@ -294,7 +311,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID35",
-            "geonames": 1923047
+            "geonames": 1923047,
+            "iso_3166_2": "ID-BB"
         },
         "long": {
             "default": "Bangka–Belitung Islands"
@@ -304,7 +322,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID29",
-            "geonames": 1958070
+            "geonames": 1958070,
+            "iso_3166_2": "ID-MU"
         },
         "long": {
             "default": "North Maluku"
@@ -314,7 +333,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID39",
-            "geonames": 1996549
+            "geonames": 1996549,
+            "iso_3166_2": "ID-PB"
         },
         "long": {
             "default": "West Papua"
@@ -324,7 +344,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID41",
-            "geonames": 1996550
+            "geonames": 1996550,
+            "iso_3166_2": "ID-SR"
         },
         "long": {
             "default": "West Sulawesi"
@@ -334,7 +355,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID40",
-            "geonames": 1996551
+            "geonames": 1996551,
+            "iso_3166_2": "ID-KR"
         },
         "long": {
             "default": "Riau Islands"
@@ -344,7 +366,8 @@
         "parent": "ID",
         "ids": {
             "fips": "ID42",
-            "geonames": 8604684
+            "geonames": 8604684,
+            "iso_3166_2": "ID-KU"
         },
         "long": {
             "default": "North Kalimantan"

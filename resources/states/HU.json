@@ -36,7 +36,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU10",
-            "geonames": 720293
+            "geonames": 720293,
+            "iso_3166_2": "HU-HB"
         },
         "long": {
             "default": "Hajdú-Bihar"
@@ -46,7 +47,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU06",
-            "geonames": 721589
+            "geonames": 721589,
+            "iso_3166_2": "HU-CS"
         },
         "long": {
             "default": "Csongrád"
@@ -56,7 +58,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU04",
-            "geonames": 722064
+            "geonames": 722064,
+            "iso_3166_2": "HU-BZ"
         },
         "long": {
             "default": "Borsod-Abaúj-Zemplén"
@@ -88,7 +91,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU23",
-            "geonames": 3042925
+            "geonames": 3042925,
+            "iso_3166_2": "HU-VE"
         },
         "long": {
             "default": "Veszprém"
@@ -142,7 +146,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU14",
-            "geonames": 3047348
+            "geonames": 3047348,
+            "iso_3166_2": "HU-NO"
         },
         "long": {
             "default": "Nógrád"
@@ -174,7 +179,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU08",
-            "geonames": 3053028
+            "geonames": 3053028,
+            "iso_3166_2": "HU-FE"
         },
         "long": {
             "default": "Fejér"
@@ -206,7 +212,8 @@
         "parent": "HU",
         "ids": {
             "fips": "HU01",
-            "geonames": 3055744
+            "geonames": 3055744,
+            "iso_3166_2": "HU-BK"
         },
         "long": {
             "default": "Bács-Kiskun"

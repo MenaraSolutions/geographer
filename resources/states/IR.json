@@ -3,7 +3,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR26",
-            "geonames": 110791
+            "geonames": 110791,
+            "iso_3166_2": "IR-07"
         },
         "long": {
             "default": "Tehrān"
@@ -35,7 +36,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR25",
-            "geonames": 116401
+            "geonames": 116401,
+            "iso_3166_2": "IR-12"
         },
         "long": {
             "default": "Semnān"
@@ -45,7 +47,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR35",
-            "geonames": 124544
+            "geonames": 124544,
+            "iso_3166_2": "IR-21"
         },
         "long": {
             "default": "Māzandarān"
@@ -66,7 +69,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR23",
-            "geonames": 125605
+            "geonames": 125605,
+            "iso_3166_2": "IR-20"
         },
         "long": {
             "default": "Lorestān"
@@ -76,7 +80,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR16",
-            "geonames": 126584
+            "geonames": 126584,
+            "iso_3166_2": "IR-16"
         },
         "long": {
             "default": "Kordestān"
@@ -86,7 +91,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR05",
-            "geonames": 126878
+            "geonames": 126878,
+            "iso_3166_2": "IR-18"
         },
         "long": {
             "default": "Kohgīlūyeh va Būyer Aḩmad"
@@ -107,7 +113,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR13",
-            "geonames": 128222
+            "geonames": 128222,
+            "iso_3166_2": "IR-17"
         },
         "long": {
             "default": "Kermānshāh"
@@ -128,7 +135,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR10",
-            "geonames": 130801
+            "geonames": 130801,
+            "iso_3166_2": "IR-05"
         },
         "long": {
             "default": "Īlām"
@@ -149,7 +157,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR09",
-            "geonames": 132142
+            "geonames": 132142,
+            "iso_3166_2": "IR-24"
         },
         "long": {
             "default": "Hamadān"
@@ -159,7 +168,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR08",
-            "geonames": 133349
+            "geonames": 133349,
+            "iso_3166_2": "IR-19"
         },
         "long": {
             "default": "Gīlān"
@@ -180,7 +190,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR03",
-            "geonames": 139677
+            "geonames": 139677,
+            "iso_3166_2": "IR-08"
         },
         "long": {
             "default": "Chahār Maḩāll va Bakhtīārī"
@@ -201,17 +212,19 @@
         "parent": "IR",
         "ids": {
             "fips": "IR33",
-            "geonames": 142549
+            "geonames": 142549,
+            "iso_3166_2": "IR-01"
         },
         "long": {
-            "default": "East Azerbaijan"
+            "default": "Āz̄arbāyjān-e Sharqī"
         }
     },
     {
         "parent": "IR",
         "ids": {
             "fips": "IR01",
-            "geonames": 142550
+            "geonames": 142550,
+            "iso_3166_2": "IR-02"
         },
         "long": {
             "default": "Āz̄ārbāyjān-e Gharbī"
@@ -221,7 +234,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR32",
-            "geonames": 413931
+            "geonames": 413931,
+            "iso_3166_2": "IR-03"
         },
         "long": {
             "default": "Ardabīl"
@@ -231,17 +245,19 @@
         "parent": "IR",
         "ids": {
             "fips": "IR28",
-            "geonames": 418862
+            "geonames": 418862,
+            "iso_3166_2": "IR-04"
         },
         "long": {
-            "default": "Isfahan"
+            "default": "Eşfahān"
         }
     },
     {
         "parent": "IR",
         "ids": {
             "fips": "IR37",
-            "geonames": 443792
+            "geonames": 443792,
+            "iso_3166_2": "IR-27"
         },
         "long": {
             "default": "Golestān"
@@ -251,7 +267,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR38",
-            "geonames": 443793
+            "geonames": 443793,
+            "iso_3166_2": "IR-28"
         },
         "long": {
             "default": "Qazvīn"
@@ -283,7 +300,8 @@
         "parent": "IR",
         "ids": {
             "fips": "IR41",
-            "geonames": 6201374
+            "geonames": 6201374,
+            "iso_3166_2": "IR-29"
         },
         "long": {
             "default": "Khorāsān-e Jonūbī"
@@ -293,17 +311,19 @@
         "parent": "IR",
         "ids": {
             "fips": "IR42",
-            "geonames": 6201375
+            "geonames": 6201375,
+            "iso_3166_2": "IR-30"
         },
         "long": {
-            "default": "Razavi Khorasan"
+            "default": "Khorāsān-e Raẕavī"
         }
     },
     {
         "parent": "IR",
         "ids": {
             "fips": "IR43",
-            "geonames": 6201376
+            "geonames": 6201376,
+            "iso_3166_2": "IR-31"
         },
         "long": {
             "default": "Khorāsān-e Shomālī"

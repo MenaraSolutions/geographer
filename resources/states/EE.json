@@ -3,7 +3,8 @@
         "parent": "EE",
         "ids": {
             "fips": "EN21",
-            "geonames": 587448
+            "geonames": 587448,
+            "iso_3166_2": "EE-86"
         },
         "long": {
             "default": "Võrumaa"
@@ -35,7 +36,8 @@
         "parent": "EE",
         "ids": {
             "fips": "EN18",
-            "geonames": 588334
+            "geonames": 588334,
+            "iso_3166_2": "EE-78"
         },
         "long": {
             "default": "Tartu"
@@ -45,7 +47,8 @@
         "parent": "EE",
         "ids": {
             "fips": "EN14",
-            "geonames": 588879
+            "geonames": 588879,
+            "iso_3166_2": "EE-74"
         },
         "long": {
             "default": "Saare"
@@ -66,37 +69,41 @@
         "parent": "EE",
         "ids": {
             "fips": "EN12",
-            "geonames": 589373
+            "geonames": 589373,
+            "iso_3166_2": "EE-65"
         },
         "long": {
-            "default": "Põlvamaa"
+            "default": "Põlva"
         }
     },
     {
         "parent": "EE",
         "ids": {
             "fips": "EN11",
-            "geonames": 589576
+            "geonames": 589576,
+            "iso_3166_2": "EE-67"
         },
         "long": {
-            "default": "Pärnumaa"
+            "default": "Pärnu"
         }
     },
     {
         "parent": "EE",
         "ids": {
             "fips": "EN08",
-            "geonames": 590854
+            "geonames": 590854,
+            "iso_3166_2": "EE-59"
         },
         "long": {
-            "default": "Lääne-Virumaa"
+            "default": "Lääne-Viru"
         }
     },
     {
         "parent": "EE",
         "ids": {
             "fips": "EN07",
-            "geonames": 590856
+            "geonames": 590856,
+            "iso_3166_2": "EE-57"
         },
         "long": {
             "default": "Lääne"
@@ -106,20 +113,22 @@
         "parent": "EE",
         "ids": {
             "fips": "EN05",
-            "geonames": 591901
+            "geonames": 591901,
+            "iso_3166_2": "EE-49"
         },
         "long": {
-            "default": "Jõgevamaa"
+            "default": "Jõgeva"
         }
     },
     {
         "parent": "EE",
         "ids": {
             "fips": "EN04",
-            "geonames": 591961
+            "geonames": 591961,
+            "iso_3166_2": "EE-51"
         },
         "long": {
-            "default": "Järvamaa"
+            "default": "Järva"
         }
     },
     {

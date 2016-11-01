@@ -3,7 +3,8 @@
         "parent": "CR",
         "ids": {
             "fips": "CS08",
-            "geonames": 3621837
+            "geonames": 3621837,
+            "iso_3166_2": "CR-SJ"
         },
         "long": {
             "default": "San José"
@@ -24,7 +25,8 @@
         "parent": "CR",
         "ids": {
             "fips": "CS06",
-            "geonames": 3623064
+            "geonames": 3623064,
+            "iso_3166_2": "CR-L"
         },
         "long": {
             "default": "Limón"

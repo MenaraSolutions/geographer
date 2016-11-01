@@ -3,7 +3,8 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ06",
-            "geonames": 3579907
+            "geonames": 3579907,
+            "iso_3166_2": "GD-06"
         },
         "long": {
             "default": "Saint Patrick"
@@ -13,7 +14,8 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ05",
-            "geonames": 3579913
+            "geonames": 3579913,
+            "iso_3166_2": "GD-05"
         },
         "long": {
             "default": "Saint Mark"
@@ -23,7 +25,8 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ04",
-            "geonames": 3579919
+            "geonames": 3579919,
+            "iso_3166_2": "GD-04"
         },
         "long": {
             "default": "Saint John"
@@ -33,7 +36,8 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ03",
-            "geonames": 3579926
+            "geonames": 3579926,
+            "iso_3166_2": "GD-03"
         },
         "long": {
             "default": "Saint George"
@@ -43,7 +47,8 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ02",
-            "geonames": 3579932
+            "geonames": 3579932,
+            "iso_3166_2": "GD-02"
         },
         "long": {
             "default": "Saint David"
@@ -53,7 +58,8 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ01",
-            "geonames": 3579938
+            "geonames": 3579938,
+            "iso_3166_2": "GD-01"
         },
         "long": {
             "default": "Saint Andrew"
@@ -63,10 +69,11 @@
         "parent": "GD",
         "ids": {
             "fips": "GJ10",
-            "geonames": 7303836
+            "geonames": 7303836,
+            "iso_3166_2": "GD-10"
         },
         "long": {
-            "default": "Carriacou and Petite Martinique"
+            "default": "Southern Grenadine Islands"
         }
     }
 ]

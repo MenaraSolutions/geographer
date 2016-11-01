@@ -14,7 +14,8 @@
         "parent": "HT",
         "ids": {
             "fips": "HA12",
-            "geonames": 3716952
+            "geonames": 3716952,
+            "iso_3166_2": "HT-SD"
         },
         "long": {
             "default": "Sud"
@@ -24,7 +25,8 @@
         "parent": "HT",
         "ids": {
             "fips": "HA11",
-            "geonames": 3719432
+            "geonames": 3719432,
+            "iso_3166_2": "HT-OU"
         },
         "long": {
             "default": "Ouest"
@@ -34,7 +36,8 @@
         "parent": "HT",
         "ids": {
             "fips": "HA03",
-            "geonames": 3719536
+            "geonames": 3719536,
+            "iso_3166_2": "HT-NO"
         },
         "long": {
             "default": "Nord-Ouest"
@@ -55,7 +58,8 @@
         "parent": "HT",
         "ids": {
             "fips": "HA09",
-            "geonames": 3719543
+            "geonames": 3719543,
+            "iso_3166_2": "HT-ND"
         },
         "long": {
             "default": "Nord"
@@ -65,7 +69,8 @@
         "parent": "HT",
         "ids": {
             "fips": "HA14",
-            "geonames": 3724613
+            "geonames": 3724613,
+            "iso_3166_2": "HT-GA"
         },
         "long": {
             "default": "GrandʼAnse"
@@ -75,7 +80,8 @@
         "parent": "HT",
         "ids": {
             "fips": "HA07",
-            "geonames": 3728069
+            "geonames": 3728069,
+            "iso_3166_2": "HT-CE"
         },
         "long": {
             "default": "Centre"

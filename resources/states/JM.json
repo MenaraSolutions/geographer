@@ -36,7 +36,8 @@
         "parent": "JM",
         "ids": {
             "fips": "JM13",
-            "geonames": 3488693
+            "geonames": 3488693,
+            "iso_3166_2": "JM-05"
         },
         "long": {
             "default": "Saint Mary"
@@ -46,7 +47,8 @@
         "parent": "JM",
         "ids": {
             "fips": "JM12",
-            "geonames": 3488700
+            "geonames": 3488700,
+            "iso_3166_2": "JM-08"
         },
         "long": {
             "default": "Saint James"
@@ -56,7 +58,8 @@
         "parent": "JM",
         "ids": {
             "fips": "JM11",
-            "geonames": 3488708
+            "geonames": 3488708,
+            "iso_3166_2": "JM-11"
         },
         "long": {
             "default": "St. Elizabeth"
@@ -88,7 +91,8 @@
         "parent": "JM",
         "ids": {
             "fips": "JM08",
-            "geonames": 3488716
+            "geonames": 3488716,
+            "iso_3166_2": "JM-02"
         },
         "long": {
             "default": "Saint Andrew"

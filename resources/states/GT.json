@@ -14,7 +14,8 @@
         "parent": "GT",
         "ids": {
             "fips": "GT21",
-            "geonames": 3588257
+            "geonames": 3588257,
+            "iso_3166_2": "GT-TO"
         },
         "long": {
             "default": "Totonicapán"
@@ -35,7 +36,8 @@
         "parent": "GT",
         "ids": {
             "fips": "GT19",
-            "geonames": 3588697
+            "geonames": 3588697,
+            "iso_3166_2": "GT-SO"
         },
         "long": {
             "default": "Sololá"
@@ -67,7 +69,8 @@
         "parent": "GT",
         "ids": {
             "fips": "GT16",
-            "geonames": 3590686
+            "geonames": 3590686,
+            "iso_3166_2": "GT-SA"
         },
         "long": {
             "default": "Sacatepéquez"
@@ -88,7 +91,8 @@
         "parent": "GT",
         "ids": {
             "fips": "GT14",
-            "geonames": 3590964
+            "geonames": 3590964,
+            "iso_3166_2": "GT-QC"
         },
         "long": {
             "default": "Quiché"
@@ -109,7 +113,8 @@
         "parent": "GT",
         "ids": {
             "fips": "GT12",
-            "geonames": 3591410
+            "geonames": 3591410,
+            "iso_3166_2": "GT-PE"
         },
         "long": {
             "default": "Petén"

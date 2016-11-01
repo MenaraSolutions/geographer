@@ -3,7 +3,8 @@
         "parent": "DE",
         "ids": {
             "fips": "GM15",
-            "geonames": 2822542
+            "geonames": 2822542,
+            "iso_3166_2": "DE-TH"
         },
         "long": {
             "default": "Thuringia"
@@ -24,7 +25,8 @@
         "parent": "DE",
         "ids": {
             "fips": "GM14",
-            "geonames": 2842565
+            "geonames": 2842565,
+            "iso_3166_2": "DE-ST"
         },
         "long": {
             "default": "Saxony-Anhalt"
@@ -34,7 +36,8 @@
         "parent": "DE",
         "ids": {
             "fips": "GM13",
-            "geonames": 2842566
+            "geonames": 2842566,
+            "iso_3166_2": "DE-SN"
         },
         "long": {
             "default": "Saxony"
@@ -66,7 +69,8 @@
         "parent": "DE",
         "ids": {
             "fips": "GM07",
-            "geonames": 2861876
+            "geonames": 2861876,
+            "iso_3166_2": "DE-NW"
         },
         "long": {
             "default": "North Rhine-Westphalia"
@@ -76,7 +80,8 @@
         "parent": "DE",
         "ids": {
             "fips": "GM06",
-            "geonames": 2862926
+            "geonames": 2862926,
+            "iso_3166_2": "DE-NI"
         },
         "long": {
             "default": "Lower Saxony"
@@ -152,7 +157,8 @@
         "parent": "DE",
         "ids": {
             "fips": "GM02",
-            "geonames": 2951839
+            "geonames": 2951839,
+            "iso_3166_2": "DE-BY"
         },
         "long": {
             "default": "Bavaria"

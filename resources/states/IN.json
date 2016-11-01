@@ -91,7 +91,8 @@
         "parent": "IN",
         "ids": {
             "fips": "IN22",
-            "geonames": 1259424
+            "geonames": 1259424,
+            "iso_3166_2": "IN-PY"
         },
         "long": {
             "default": "Pondicherry"
@@ -178,10 +179,11 @@
         "parent": "IN",
         "ids": {
             "fips": "IN14",
-            "geonames": 1265206
+            "geonames": 1265206,
+            "iso_3166_2": "IN-LD"
         },
         "long": {
-            "default": "Laccadives"
+            "default": "Lakshadweep"
         }
     },
     {
@@ -210,10 +212,11 @@
         "parent": "IN",
         "ids": {
             "fips": "IN12",
-            "geonames": 1269320
+            "geonames": 1269320,
+            "iso_3166_2": "IN-JK"
         },
         "long": {
-            "default": "Kashmir"
+            "default": "Jammu and Kashmir"
         }
     },
     {
@@ -275,10 +278,11 @@
         "parent": "IN",
         "ids": {
             "fips": "IN07",
-            "geonames": 1273293
+            "geonames": 1273293,
+            "iso_3166_2": "IN-DL"
         },
         "long": {
-            "default": "NCT"
+            "default": "Delhi"
         }
     },
     {
