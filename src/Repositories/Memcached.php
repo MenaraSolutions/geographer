@@ -26,7 +26,7 @@ class Memcached extends File implements RepositoryInterface
      * @param Memcached $client
      * @throws MisconfigurationException
      */
-    public function __construct($prefix, $client = null)
+    public function __construct($prefix = null, $client = null)
     {
         parent::__construct($prefix);
 
@@ -87,7 +87,7 @@ class Memcached extends File implements RepositoryInterface
      */
     public function indexSearch($id, $class)
     {
-        $code = $this->getCodeFromIndex($this->prefix . self::$indexes[$class], $id);
+        $code = $this->getCodeFromIndex($this->prefix . DIRECTORY_SEPARATOR . self::$indexes[$class], $id);
 
         $key = ($class == State::class) ? 'parentCode' : 'code';
         $path = $this->getPath($class, $this->prefix, [ $key => $code ]);
