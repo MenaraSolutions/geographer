@@ -195,7 +195,17 @@ Geonames ID is currently the only viable option to reference a city in your data
 
 [Official Laravel package](https://github.com/MenaraSolutions/geographer-laravel)
 
-## Current coverage
+## Current coverage: subdivisions
+
+| Type | ISO 3166 | FIPS | Geonames | GENC |
+|------|----------|------|----------|------|
+| Countries | 100% | Coming soon | 100% | TBC |
+| States | 100% | Coming soon | 100% | TBC |
+
+Subdivision data is kept in a separate repo - [geographer-data](https://github.com/MenaraSolutions/geographer-data) so that it 
+may be reused by different language SDKs. 
+
+## Current coverage: translations
 
 By default Geographer assumes that you use Packagist (Composer) to install language packages, therefore
 we will expect them in vendor/ folder. There is no need to manually turn on an extra language, but if you
@@ -213,11 +223,6 @@ attempt to use a non-existing language – expect an exception.
 | Chinese Mandarin | ✓            | ✓         | ✓           | [geographer-zh](https://github.com/MenaraSolutions/geographer-zh) |
 
 English texts are included in the data package and are used as default metadata. 
-
-## Subdivisions
-
-Subdivision data is kept in a separate repo - [geographer-data](https://github.com/MenaraSolutions/geographer-data) so that it 
-may be reused by different language SDKs. Geographer is 100% compliant with current ISO 3166-1 and ISO 3166-2 codes.
 
 ## Vision
 
