@@ -213,8 +213,8 @@ attempt to use a non-existing language – expect an exception.
 
 | Language  |  Countries   |   States   |    Cities    | Package |
 |-----------|--------------|------------|--------------|---------|
-| English   | ✓            | ✓         | ✓            | [geographer-data](https://github.com/MenaraSolutions/geographer-data) |
-| Russian   | ✓            | ✓         | ✓            | [geographer-ru](https://github.com/MenaraSolutions/geographer-ru) | 
+| English   | 100%         | 100%       | 100%         | [geographer-data](https://github.com/MenaraSolutions/geographer-data) |
+| Russian   | 100%         | 34%        | ✓            | [geographer-ru](https://github.com/MenaraSolutions/geographer-ru) | 
 | Ukrainian | ✓            | ✓         | ✓           | [geographer-uk](https://github.com/MenaraSolutions/geographer-uk) |           
 | Spanish   | ✓            | ✓         | ✓           | [geographer-es](https://github.com/MenaraSolutions/geographer-es) |           
 | Italian   | ✓            | ✓         | ✓           | [geographer-it](https://github.com/MenaraSolutions/geographer-it) |

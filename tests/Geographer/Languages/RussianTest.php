@@ -34,7 +34,81 @@ class RussianTest extends Test
     }
 
     /**
-     * 
+     * @test
+     */
+    public function calculate_state_translation_coverage()
+    {
+        $planet = (new Earth())->setLocale('ru')->setStandard('iso');
+
+        $total = 0;
+        $translated = 0;
+
+        foreach ($planet->getCountries() as $country) {
+            $states = $country->getStates();
+
+            foreach ($states as $state) {
+                $total++;
+
+                if (preg_match('/[A-Za-z]+/', $state->inflict('default')->setLocale('ru')->getName())) {
+                } else {
+                    $translated++;
+                }
+            }
+
+        }
+
+        echo "Russian translation coverage for ISO states: " . round(($translated / $total) * 100) . "%\n";
+    }
+
+    /**
+     *
+     */
+    public function all_iso_states_have_russian_translations()
+    {
+        $planet = (new Earth())->setLocale('ru')->setStandard('iso');
+
+        // Parse translations
+        $input = file_get_contents(dirname(dirname(dirname(__FILE__))) . '/ru.txt');
+        $line = strtok($input, "\r\n");
+        $translations = [];
+
+        while ($line !== false) {
+            list($code, $translation, $garbage) = explode("\t", $line);
+            $translations[$code] = $translation;
+            $line = strtok("\r\n");
+        }
+
+
+        $array = [];
+        $output = [
+            'code' => "0",
+            'long' => [
+                'default' => ''
+            ]
+        ];
+
+        foreach ($planet->getCountries() as $country) {
+            $states = $country->getStates();
+
+            $hasFailures = false;
+
+            foreach ($states as $state) {
+                if (preg_match('/[A-Za-z]+/', $state->inflict('default')->setLocale('ru')->getName())) {
+                    $output['code'] = strval($state->getGeonamesCode());
+                    $output['long']['default'] = $translations[strval($state->getIsoCode())];
+                    $array[] = $output;
+                    $hasFailures = true;
+                }
+            }
+
+            if ($hasFailures) break;
+        }
+
+        echo json_encode($array, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+    }
+
+    /**
+     *
      */
     public function specific_country_has_all_states()
     {
