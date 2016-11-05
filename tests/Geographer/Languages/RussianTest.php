@@ -19,6 +19,75 @@ class RussianTest extends Test
      */
     protected $threshold = 50;
 
+    protected $translit = [
+        'а' => 'a',
+        'б' => 'b',
+        'в' => 'v',
+        'г' => 'g',
+        'д' => 'd',
+        'е' => 'e',
+        'ё' => 'yo',
+        'ж' => 'zh',
+        'з' => 'z',
+        'и' => 'i',
+        'й' => 'j',
+        'к' => 'k',
+        'л' => 'l',
+        'м' => 'm',
+        'н' => 'n',
+        'о' => 'o',
+        'п' => 'p',
+        'р' => 'r',
+        'с' => 's',
+        'т' => 't',
+        'у' => 'u',
+        'ф' => 'f',
+        'х' => 'x',
+        'ц' => 'c',
+        'ч' => 'ch',
+        'ш' => 'sh',
+        'щ' => 'shh',
+        'ь' => '\'',
+        'ы' => 'y',
+        'ъ' => '\'\'',
+        'э' => 'e\'',
+        'ю' => 'yu',
+        'я' => 'ya',
+        'А' => 'A',
+        'Б' => 'B',
+        'В' => 'V',
+        'Г' => 'G',
+        'Д' => 'D',
+        'Е' => 'E',
+        'Ё' => 'YO',
+        'Ж' => 'Zh',
+        'З' => 'Z',
+        'И' => 'I',
+        'Й' => 'J',
+        'К' => 'K',
+        'Л' => 'L',
+        'М' => 'M',
+        'Н' => 'N',
+        'О' => 'O',
+        'П' => 'P',
+        'Р' => 'R',
+        'С' => 'S',
+        'Т' => 'T',
+        'У' => 'U',
+        'Ф' => 'F',
+        'Х' => 'X',
+        'Ц' => 'C',
+        'Ч' => 'CH',
+        'Ш' => 'SH',
+        'Щ' => 'SHH',
+        'Ь' => '\'',
+        'Ы' => 'Y\'',
+        'Ъ' => '\'\'',
+        'Э' => 'E\'',
+        'Ю' => 'YU',
+        'Я' => 'YA',
+    ];
+
     /**
      * @test
      */
@@ -74,6 +143,12 @@ class RussianTest extends Test
 
         while ($line !== false) {
             list($code, $translation, $garbage) = explode("\t", $line);
+            if (stripos($translation, '.svg') !== false) {
+                $translation = substr($translation, stripos($translation, '.svg') + 5);
+            }
+            if (stripos($translation, '.png') !== false) {
+                $translation = substr($translation, stripos($translation, '.png') + 5);
+            }
             $translations[$code] = $translation;
             $line = strtok("\r\n");
         }
@@ -92,16 +167,31 @@ class RussianTest extends Test
 
             $hasFailures = false;
 
+            $total = 0;
+            $translated = 0;
+
             foreach ($states as $state) {
+                $total++;
                 if (preg_match('/[A-Za-z]+/', $state->inflict('default')->setLocale('ru')->getName())) {
-                    $output['code'] = strval($state->getGeonamesCode());
-                    $output['long']['default'] = $translations[strval($state->getIsoCode())];
+                    $output['code'] = strval($state->getIsoCode());
+
+                    if (! empty($translations[strval($state->getIsoCode())])) {
+                        $output['long']['default'] = $translations[strval($state->getIsoCode())];
+                    } else {
+                        $output['long']['default'] = strtr($state->getName(), array_flip($this->translit)) . ' *';
+                    }
+
                     $array[] = $output;
                     $hasFailures = true;
+                } else {
+                    $translated++;
                 }
             }
 
-            if ($hasFailures) break;
+            if ($hasFailures) {
+                echo "Got " . $translated . " out of " . $total . " translations\n";
+                break;
+            }
         }
 
         echo json_encode($array, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);

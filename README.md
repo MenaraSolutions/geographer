@@ -101,6 +101,7 @@ $object->parent(); // Return a parent (city returns a state, state returns a cou
 $object->getCode(); // Get default unique ID
 $object->getShortName(); // Get short (colloquial) name of the object
 $object->getLongName(); // Get longer name
+$object->getCodes(); // Get a plain array of all available unique codes
 ```
 
 You can access information in a number of ways, do whatever you are comfortable with:
@@ -214,7 +215,7 @@ attempt to use a non-existing language – expect an exception.
 | Language  |  Countries   |   States   |    Cities    | Package |
 |-----------|--------------|------------|--------------|---------|
 | English   | 100%         | 100%       | 100%         | [geographer-data](https://github.com/MenaraSolutions/geographer-data) |
-| Russian   | 100%         | 34%        | ✓            | [geographer-ru](https://github.com/MenaraSolutions/geographer-ru) | 
+| Russian   | 100%         | 44%        | ✓            | [geographer-ru](https://github.com/MenaraSolutions/geographer-ru) | 
 | Ukrainian | ✓            | ✓         | ✓           | [geographer-uk](https://github.com/MenaraSolutions/geographer-uk) |           
 | Spanish   | ✓            | ✓         | ✓           | [geographer-es](https://github.com/MenaraSolutions/geographer-es) |           
 | Italian   | ✓            | ✓         | ✓           | [geographer-it](https://github.com/MenaraSolutions/geographer-it) |

@@ -238,8 +238,11 @@ class File implements RepositoryInterface
         $path = $this->getTranslationsPath($subject, $language);
         if (empty($this->cache[$path])) $this->loadTranslations($path);
 
-        return isset($this->cache[$path][$subject->getCode()]) ?
-            $this->cache[$path][$subject->getCode()] : null;
+        foreach ($subject->getCodes() as $code) {
+            if (isset($this->cache[$path][$code])) return $this->cache[$path][$code];
+        }
+
+        return null;
     }
 
     /**

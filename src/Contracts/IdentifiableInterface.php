@@ -17,4 +17,11 @@ interface IdentifiableInterface
      * @return array
      */
     public function getMeta();
+
+    /**
+     * Get an array of unique identification codes for this object
+     *
+     * @return array
+     */
+    public function getCodes();
 }

@@ -206,4 +206,15 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
 
         return new static($meta, $parent, $config);
     }
+
+    /**
+     * @return array
+     */
+    public function getCodes()
+    {
+        $codes = [];
+        array_walk_recursive($this->meta['ids'], function($id) use (&$codes) { $codes[] = $id; });
+
+        return $codes;
+    }
 }
