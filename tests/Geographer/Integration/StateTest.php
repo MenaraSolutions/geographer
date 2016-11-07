@@ -56,7 +56,7 @@ class StateTest extends Test
     }
 
     /**
-     * 
+     * @test
      */
     public function all_countries_got_correct_fips_state_count()
     {
@@ -88,7 +88,7 @@ class StateTest extends Test
 
         foreach ($isoCounters as $key => $value) {
             if (! $countries->findOne(['fipsCode' => $key])) {
-                //echo 'Country ' . $key . " doesnt exist\n";
+                echo 'Country ' . $key . " doesnt exist\n";
             }
         }
         //$this->assertEquals(count($countries), count($isoCounters));

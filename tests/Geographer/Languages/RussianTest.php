@@ -130,7 +130,7 @@ class RussianTest extends Test
     }
 
     /**
-     *
+     * @test
      */
     public function all_iso_states_have_russian_translations()
     {
@@ -194,7 +194,7 @@ class RussianTest extends Test
             }
         }
 
-        echo json_encode($array, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+        //echo json_encode($array, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
     }
 
     /**
@@ -227,29 +227,5 @@ class RussianTest extends Test
         }
 
         echo json_encode($array);
-    }
-
-    /**
-     * @test
-     */
-    public function many_states_have_translated_names()
-    {
-        $earth = new Earth();
-        $countries = $earth->getCountries();
-        $stateCount = 0;
-        $translatedCount = 0;
-
-        foreach($countries as $country) {
-            $states = $country->getStates();
-            $stateCount =+ count($states);
-
-            foreach($states as $state) {
-                if ($state->setLocale($this->languageCode)->getName() != $state->setLocale('en')->getName()) {
-                    $translatedCount++;
-                }
-            }
-        }
-
-        $this->assertTrue(($translatedCount / $stateCount) * 100 > $this->threshold);
     }
 }
