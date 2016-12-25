@@ -30,7 +30,7 @@ class CountryTest extends Test
             $this->assertNotEmpty($country->getContinent());
             $this->assertNotEmpty($country->getNumericCode());
             $country->inflict('in');
-            echo $country->getShortName() . "\n";
+            //echo $country->getShortName() . "\n";
             //echo $country->getLongName() . "\n";
             //echo $array['name'] . "\n";
         }
