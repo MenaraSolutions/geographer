@@ -29,10 +29,10 @@ class StateTest extends Test
                 //$this->assertTrue(isset($array['code']) && is_int($array['code']));
                 $this->assertTrue(isset($array['name']) && is_string($array['name']));
 
-                if ($country->getCode() == 'AF') {
-                    //echo $state->inflict('default')->getName() . "\n";
-                    //echo $state->inflict('from')->getName() . "\n";
-                    //echo $state->inflict('in')->getName() . "\n";
+                if ($country->getCode() == 'RU') {
+                    echo $state->inflict('default')->getName() . "\n";
+                    echo $state->inflict('from')->getName() . "\n";
+                    echo $state->inflict('in')->getName() . "\n";
                 }
             }
         }
