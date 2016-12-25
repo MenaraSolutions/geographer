@@ -2,12 +2,33 @@
 
 namespace MenaraSolutions\Geographer\Traits;
 
+use MenaraSolutions\Geographer\Contracts\ManagerInterface;
+
 /**
  * Class HasManager
  * @package MenaraSolutions\FluentGeonames\Traits
  */
 trait HasManager
 {
+    /**
+     * @return ManagerInterface
+     */
+    public function getManager()
+    {
+        return $this->manager;
+    }
+
+    /**
+     * @param ManagerInterface $manager
+     * @return $this
+     */
+    public function setManager(ManagerInterface $manager)
+    {
+        $this->manager = $manager;
+
+        return $this;
+    }
+
     /**
      * @param string $locale
      * @return $this

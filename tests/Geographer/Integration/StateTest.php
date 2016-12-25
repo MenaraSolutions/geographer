@@ -6,6 +6,7 @@ use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\Services\DefaultManager;
+use MenaraSolutions\Geographer\State;
 
 class StateTest extends Test
 {
@@ -35,6 +36,16 @@ class StateTest extends Test
                 }
             }
         }
+    }
+
+    /**
+     * @test
+     */
+    public function state_can_be_built_from_iso_code()
+    {
+        $voronezh = State::build('RU-VOR');
+        $this->assertInstanceOf(State::class, $voronezh);
+        $this->assertNotEmpty($voronezh->getName());
     }
 
     /**

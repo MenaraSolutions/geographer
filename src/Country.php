@@ -3,6 +3,7 @@
 namespace MenaraSolutions\Geographer;
 
 use MenaraSolutions\Geographer\Collections\MemberCollection;
+use MenaraSolutions\Geographer\Services\DefaultManager;
 
 /**
  * Class Country
@@ -63,5 +64,16 @@ class Country extends Divisible
     public function getStates()
     {
         return $this->getMembers();
+    }
+
+    /**
+     * @inheritdoc
+     */
+    public static function build($id, $config = null)
+    {
+        $config = $config ?: new DefaultManager();
+        $earth = (new Earth())->setManager($config);
+
+        return $earth->findOneByCode($id);
     }
 }

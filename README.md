@@ -61,6 +61,7 @@ $earth->getCountries()->useShortNames()->toArray();
 $thailand = $earth->getCountries()->findOne(['code' => 'TH']); // You can call find on collection
 $thailand = $earth->findOne(['code' => 'TH']); // Or right away on division
 $thailand = $earth->findOneByCode('TH'); // Alternative shorter syntax
+$thailand = Country::build('TH'); // You can build a country object directly, too
 $thailand->getStates()->toArray();
 
 // Oh, but I want them in Russian
@@ -160,6 +161,7 @@ $country->getPopulation(); // Population
 $country->getLanguage(); // Country's first official language
 
 $country->getStates(); // A collection of all states
+Country::build('TH'); // Build a country object based on ISO code
 ```
 
 Geonames, ISO 3166-1 alpha-2, alpha-3 and numeric codes are four viable options to reference country in your data store.
@@ -175,7 +177,7 @@ $state->getFipsCode(); // Get FIPS code
 $state->getGeonamesCode(); // Get Geonames code
 
 $state->getCities(); // A collection of all cities
-$state = State::build($id); // Instantiate a state directly, based on $id provided (Geonames) 
+$state = State::build($id); // Instantiate a state directly, based on $id provided (Geonames or ISO)
 ```
 
 Geonames, ISO 3166-2 and FIPS are all unique codes so all three can be used to reference states in your data store.

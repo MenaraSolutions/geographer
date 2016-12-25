@@ -62,6 +62,16 @@ class CountryTest extends Test
     /**
      * @test
      */
+    public function country_can_be_built_from_iso_code()
+    {
+        $russia = Country::build('RU');
+        $this->assertInstanceOf(Country::class, $russia);
+        $this->assertNotEmpty($russia->getName());
+    }
+
+    /**
+     * @test
+     */
     public function data_can_be_accesses_as_properties_and_as_array_keys()
     {
         $earth = new Earth();

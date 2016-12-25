@@ -179,6 +179,10 @@ class File implements RepositoryInterface
      */
     protected function getCodeFromIndex($path, $id)
     {
+        if (preg_match('/[A-Z]{2}-[A-Z0-9]{2,3}/', $id) == 1) {
+            return substr($id, 0, 2);
+        }
+
         if (! isset($this->cache[$path])) {
             $this->cache[$path] = $this->loadJson($path);
         }
@@ -206,10 +210,10 @@ class File implements RepositoryInterface
         }
 
         foreach ($this->cache[$path] as $member) {
-            if ($member['ids']['geonames'] == $id) return $member;
+            if (in_array($id, $member['ids'])) return $member;
         }
 
-        throw new ObjectNotFoundException('Cannot find meta for division #' . $id);
+        throw new ObjectNotFoundException('Cannot find meta for division ' . $id);
     }
 
     /**
