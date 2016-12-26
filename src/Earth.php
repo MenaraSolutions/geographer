@@ -3,6 +3,7 @@
 namespace MenaraSolutions\Geographer;
 
 use MenaraSolutions\Geographer\Collections\MemberCollection;
+use MenaraSolutions\Geographer\Services\DefaultManager;
 
 class Earth extends Divisible
 {
@@ -132,5 +133,14 @@ class Earth extends Divisible
         return $this->getMembers()->filter(function($item) {
             return $item->getPopulation() > 100000;
         });
+    }
+
+    /**
+     * @inheritdoc
+     */
+    public static function build($id, $config = null)
+    {
+        $config = $config ?: new DefaultManager();
+        return new static([], null, $config);
     }
 }

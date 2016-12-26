@@ -49,6 +49,21 @@ class StateTest extends Test
     }
 
     /**
+     * @test
+     */
+    public function parent_method_can_traverse_up_to_a_planet()
+    {
+        $voronezh = State::build('RU-VOR');
+        $russia = $voronezh->parent();
+        $this->assertInstanceOf(Country::class, $russia);
+        $this->assertNotEmpty($russia->getName());
+
+        $planet = $russia->parent();
+        $this->assertInstanceOf(Earth::class, $planet);
+        $this->assertNotEmpty($planet->getName());
+    }
+
+    /**
      *
      */
     public function count_states_with_iso_codes()

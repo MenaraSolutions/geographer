@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1482651472">
-  <project timestamp="1482651472">
+<coverage generated="1482728051">
+  <project timestamp="1482728051">
     <package name="MenaraSolutions\Geographer">
       <file name="/Users/duster/repos/geographer/src/City.php">
         <class name="City" namespace="MenaraSolutions\Geographer" fullPackage="MenaraSolutions" package="MenaraSolutions">
@@ -16,104 +16,107 @@
         <line num="48" type="stmt" count="4"/>
         <line num="64" type="method" name="getStates" visibility="public" complexity="1" crap="1" count="4"/>
         <line num="66" type="stmt" count="4"/>
-        <line num="72" type="method" name="build" visibility="public" complexity="2" crap="2" count="1"/>
-        <line num="74" type="stmt" count="1"/>
-        <line num="75" type="stmt" count="1"/>
-        <line num="77" type="stmt" count="1"/>
+        <line num="72" type="method" name="build" visibility="public" complexity="2" crap="2" count="2"/>
+        <line num="74" type="stmt" count="2"/>
+        <line num="75" type="stmt" count="2"/>
+        <line num="77" type="stmt" count="2"/>
         <metrics loc="78" ncloc="53" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="5" coveredstatements="5" elements="8" coveredelements="8"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Divisible.php">
         <class name="Divisible" namespace="MenaraSolutions\Geographer" fullPackage="App" package="App">
           <metrics complexity="26" methods="13" coveredmethods="13" conditionals="0" coveredconditionals="0" statements="36" coveredstatements="36" elements="49" coveredelements="49"/>
         </class>
-        <line num="73" type="method" name="__construct" visibility="public" complexity="2" crap="2" count="19"/>
-        <line num="75" type="stmt" count="19"/>
-        <line num="76" type="stmt" count="19"/>
-        <line num="77" type="stmt" count="19"/>
-        <line num="78" type="stmt" count="19"/>
-        <line num="83" type="method" name="getMembers" visibility="public" complexity="2" crap="2" count="16"/>
-        <line num="85" type="stmt" count="16"/>
-        <line num="87" type="stmt" count="16"/>
-        <line num="94" type="method" name="loadMembers" visibility="protected" complexity="5" crap="5" count="16"/>
-        <line num="96" type="stmt" count="16"/>
-        <line num="98" type="stmt" count="16"/>
-        <line num="99" type="stmt" count="16"/>
-        <line num="102" type="stmt" count="16"/>
-        <line num="104" type="stmt" count="16"/>
-        <line num="105" type="stmt" count="16"/>
-        <line num="107" type="stmt" count="16"/>
-        <line num="110" type="stmt" count="16"/>
-        <line num="111" type="stmt" count="16"/>
-        <line num="119" type="method" name="getName" visibility="public" complexity="3" crap="3" count="13"/>
-        <line num="121" type="stmt" count="13"/>
-        <line num="123" type="stmt" count="13"/>
-        <line num="130" type="method" name="getShortName" visibility="public" complexity="1" crap="1" count="14"/>
-        <line num="132" type="stmt" count="14"/>
-        <line num="134" type="stmt" count="14"/>
-        <line num="140" type="method" name="getLongName" visibility="public" complexity="1" crap="1" count="3"/>
-        <line num="142" type="stmt" count="3"/>
-        <line num="144" type="stmt" count="3"/>
-        <line num="150" type="method" name="expectsLongNames" visibility="public" complexity="1" crap="1" count="15"/>
-        <line num="152" type="stmt" count="15"/>
-        <line num="158" type="method" name="parent" visibility="public" complexity="2" crap="2" count="1"/>
-        <line num="160" type="stmt" count="1"/>
-        <line num="161" type="stmt" count="1"/>
-        <line num="164" type="stmt" count="1"/>
-        <line num="170" type="method" name="getMeta" visibility="public" complexity="1" crap="1" count="12"/>
-        <line num="172" type="stmt" count="12"/>
-        <line num="178" type="method" name="getParentCode" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="180" type="stmt" count="1"/>
-        <line num="187" type="method" name="translate" visibility="public" complexity="2" crap="2" count="15"/>
-        <line num="189" type="stmt" count="15"/>
-        <line num="191" type="stmt" count="15"/>
-        <line num="192" type="stmt" count="15"/>
-        <line num="200" type="method" name="build" visibility="public" complexity="3" crap="3" count="3"/>
-        <line num="202" type="stmt" count="3"/>
-        <line num="203" type="stmt" count="3"/>
-        <line num="204" type="stmt" count="3"/>
-        <line num="205" type="stmt" count="3"/>
-        <line num="207" type="stmt" count="3"/>
-        <line num="213" type="method" name="getCodes" visibility="public" complexity="1" crap="1" count="4"/>
-        <line num="215" type="stmt" count="4"/>
-        <line num="218" type="stmt" count="4"/>
-        <metrics loc="220" ncloc="140" classes="1" methods="13" coveredmethods="13" conditionals="0" coveredconditionals="0" statements="37" coveredstatements="37" elements="50" coveredelements="50"/>
+        <line num="72" type="method" name="__construct" visibility="public" complexity="2" crap="2" count="20"/>
+        <line num="74" type="stmt" count="20"/>
+        <line num="75" type="stmt" count="20"/>
+        <line num="76" type="stmt" count="20"/>
+        <line num="77" type="stmt" count="20"/>
+        <line num="82" type="method" name="getMembers" visibility="public" complexity="2" crap="2" count="17"/>
+        <line num="84" type="stmt" count="17"/>
+        <line num="86" type="stmt" count="17"/>
+        <line num="93" type="method" name="loadMembers" visibility="protected" complexity="5" crap="5" count="17"/>
+        <line num="95" type="stmt" count="17"/>
+        <line num="97" type="stmt" count="17"/>
+        <line num="98" type="stmt" count="17"/>
+        <line num="101" type="stmt" count="17"/>
+        <line num="103" type="stmt" count="17"/>
+        <line num="104" type="stmt" count="17"/>
+        <line num="106" type="stmt" count="17"/>
+        <line num="109" type="stmt" count="17"/>
+        <line num="110" type="stmt" count="17"/>
+        <line num="118" type="method" name="getName" visibility="public" complexity="3" crap="3" count="14"/>
+        <line num="120" type="stmt" count="14"/>
+        <line num="122" type="stmt" count="14"/>
+        <line num="129" type="method" name="getShortName" visibility="public" complexity="1" crap="1" count="15"/>
+        <line num="131" type="stmt" count="15"/>
+        <line num="133" type="stmt" count="15"/>
+        <line num="139" type="method" name="getLongName" visibility="public" complexity="1" crap="1" count="3"/>
+        <line num="141" type="stmt" count="3"/>
+        <line num="143" type="stmt" count="3"/>
+        <line num="149" type="method" name="expectsLongNames" visibility="public" complexity="1" crap="1" count="16"/>
+        <line num="151" type="stmt" count="16"/>
+        <line num="157" type="method" name="parent" visibility="public" complexity="2" crap="2" count="2"/>
+        <line num="159" type="stmt" count="2"/>
+        <line num="160" type="stmt" count="2"/>
+        <line num="163" type="stmt" count="2"/>
+        <line num="169" type="method" name="getMeta" visibility="public" complexity="1" crap="1" count="14"/>
+        <line num="171" type="stmt" count="14"/>
+        <line num="177" type="method" name="getParentCode" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="179" type="stmt" count="1"/>
+        <line num="186" type="method" name="translate" visibility="public" complexity="2" crap="2" count="16"/>
+        <line num="188" type="stmt" count="16"/>
+        <line num="190" type="stmt" count="16"/>
+        <line num="191" type="stmt" count="16"/>
+        <line num="199" type="method" name="build" visibility="public" complexity="3" crap="3" count="4"/>
+        <line num="201" type="stmt" count="4"/>
+        <line num="202" type="stmt" count="4"/>
+        <line num="203" type="stmt" count="4"/>
+        <line num="204" type="stmt" count="4"/>
+        <line num="206" type="stmt" count="4"/>
+        <line num="212" type="method" name="getCodes" visibility="public" complexity="1" crap="1" count="4"/>
+        <line num="214" type="stmt" count="4"/>
+        <line num="217" type="stmt" count="4"/>
+        <metrics loc="219" ncloc="139" classes="1" methods="13" coveredmethods="13" conditionals="0" coveredconditionals="0" statements="37" coveredstatements="37" elements="50" coveredelements="50"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Earth.php">
         <class name="Earth" namespace="MenaraSolutions\Geographer">
-          <metrics complexity="13" methods="12" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="17" elements="31" coveredelements="27"/>
+          <metrics complexity="15" methods="13" coveredmethods="12" conditionals="0" coveredconditionals="0" statements="21" coveredstatements="20" elements="34" coveredelements="32"/>
         </class>
-        <line num="30" type="method" name="getCountries" visibility="public" complexity="1" crap="1" count="6"/>
-        <line num="32" type="stmt" count="6"/>
-        <line num="38" type="method" name="getShortName" visibility="public" complexity="1" crap="2" count="0"/>
-        <line num="40" type="stmt" count="0"/>
-        <line num="46" type="method" name="getLongName" visibility="public" complexity="1" crap="2" count="0"/>
-        <line num="48" type="stmt" count="0"/>
-        <line num="54" type="method" name="getCode" visibility="public" complexity="1" crap="1" count="16"/>
-        <line num="56" type="stmt" count="16"/>
-        <line num="62" type="method" name="getParentCode" visibility="public" complexity="1" crap="1" count="16"/>
-        <line num="64" type="stmt" count="16"/>
-        <line num="70" type="method" name="getAfrica" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="72" type="stmt" count="1"/>
-        <line num="74" type="stmt" count="1"/>
-        <line num="80" type="method" name="getNorthAmerica" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="82" type="stmt" count="1"/>
-        <line num="84" type="stmt" count="1"/>
-        <line num="90" type="method" name="getSouthAmerica" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="92" type="stmt" count="1"/>
-        <line num="94" type="stmt" count="1"/>
-        <line num="100" type="method" name="getAsia" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="102" type="stmt" count="1"/>
-        <line num="104" type="stmt" count="1"/>
-        <line num="110" type="method" name="getEurope" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="112" type="stmt" count="1"/>
-        <line num="114" type="stmt" count="1"/>
-        <line num="120" type="method" name="getOceania" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="122" type="stmt" count="1"/>
-        <line num="124" type="stmt" count="1"/>
-        <line num="132" type="method" name="anonymous function" complexity="1" crap="1" count="1"/>
-        <line num="133" type="stmt" count="1"/>
+        <line num="31" type="method" name="getCountries" visibility="public" complexity="1" crap="1" count="6"/>
+        <line num="33" type="stmt" count="6"/>
+        <line num="39" type="method" name="getShortName" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="41" type="stmt" count="1"/>
+        <line num="47" type="method" name="getLongName" visibility="public" complexity="1" crap="2" count="0"/>
+        <line num="49" type="stmt" count="0"/>
+        <line num="55" type="method" name="getCode" visibility="public" complexity="1" crap="1" count="17"/>
+        <line num="57" type="stmt" count="17"/>
+        <line num="63" type="method" name="getParentCode" visibility="public" complexity="1" crap="1" count="17"/>
+        <line num="65" type="stmt" count="17"/>
+        <line num="71" type="method" name="getAfrica" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="73" type="stmt" count="1"/>
+        <line num="75" type="stmt" count="1"/>
+        <line num="81" type="method" name="getNorthAmerica" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="83" type="stmt" count="1"/>
+        <line num="85" type="stmt" count="1"/>
+        <line num="91" type="method" name="getSouthAmerica" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="93" type="stmt" count="1"/>
+        <line num="95" type="stmt" count="1"/>
+        <line num="101" type="method" name="getAsia" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="103" type="stmt" count="1"/>
+        <line num="105" type="stmt" count="1"/>
+        <line num="111" type="method" name="getEurope" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="113" type="stmt" count="1"/>
+        <line num="115" type="stmt" count="1"/>
+        <line num="121" type="method" name="getOceania" visibility="public" complexity="1" crap="1" count="1"/>
+        <line num="123" type="stmt" count="1"/>
+        <line num="125" type="stmt" count="1"/>
+        <line num="133" type="method" name="anonymous function" complexity="1" crap="1" count="1"/>
         <line num="134" type="stmt" count="1"/>
-        <metrics loc="135" ncloc="90" classes="1" methods="12" coveredmethods="10" conditionals="0" coveredconditionals="0" statements="19" coveredstatements="17" elements="31" coveredelements="27"/>
+        <line num="135" type="stmt" count="1"/>
+        <line num="141" type="method" name="build" visibility="public" complexity="2" crap="2" count="1"/>
+        <line num="143" type="stmt" count="1"/>
+        <line num="144" type="stmt" count="1"/>
+        <metrics loc="145" ncloc="97" classes="1" methods="13" coveredmethods="12" conditionals="0" coveredconditionals="0" statements="21" coveredstatements="20" elements="34" coveredelements="32"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/State.php">
         <class name="State" namespace="MenaraSolutions\Geographer" fullPackage="MenaraSolutions" package="MenaraSolutions">
@@ -129,11 +132,11 @@
         <class name="MemberCollection" namespace="MenaraSolutions\Geographer\Collections" fullPackage="MenaraSolutions" package="MenaraSolutions">
           <metrics complexity="22" methods="10" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="38" coveredstatements="35" elements="48" coveredelements="42"/>
         </class>
-        <line num="34" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="16"/>
-        <line num="36" type="stmt" count="16"/>
-        <line num="38" type="stmt" count="16"/>
-        <line num="39" type="stmt" count="16"/>
-        <line num="40" type="stmt" count="16"/>
+        <line num="34" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="17"/>
+        <line num="36" type="stmt" count="17"/>
+        <line num="38" type="stmt" count="17"/>
+        <line num="39" type="stmt" count="17"/>
+        <line num="40" type="stmt" count="17"/>
         <line num="45" type="method" name="toArray" visibility="public" complexity="2" crap="2" count="2"/>
         <line num="47" type="stmt" count="2"/>
         <line num="49" type="stmt" count="2"/>
@@ -141,12 +144,12 @@
         <line num="53" type="stmt" count="2"/>
         <line num="59" type="method" name="first" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="61" type="stmt" count="0"/>
-        <line num="69" type="method" name="get" visibility="public" complexity="2" crap="2" count="8"/>
-        <line num="71" type="stmt" count="8"/>
-        <line num="73" type="stmt" count="8"/>
-        <line num="81" type="method" name="add" visibility="public" complexity="1" crap="1" count="16"/>
-        <line num="83" type="stmt" count="16"/>
-        <line num="85" type="stmt" count="16"/>
+        <line num="69" type="method" name="get" visibility="public" complexity="2" crap="2" count="9"/>
+        <line num="71" type="stmt" count="9"/>
+        <line num="73" type="stmt" count="9"/>
+        <line num="81" type="method" name="add" visibility="public" complexity="1" crap="1" count="17"/>
+        <line num="83" type="stmt" count="17"/>
+        <line num="85" type="stmt" count="17"/>
         <line num="94" type="method" name="filter" visibility="public" complexity="2" crap="2.15" count="2"/>
         <line num="96" type="stmt" count="2"/>
         <line num="97" type="stmt" count="2"/>
@@ -163,9 +166,9 @@
         <line num="129" type="stmt" count="1"/>
         <line num="130" type="stmt" count="1"/>
         <line num="134" type="stmt" count="1"/>
-        <line num="141" type="method" name="findOne" visibility="public" complexity="2" crap="2.15" count="8"/>
-        <line num="143" type="stmt" count="8"/>
-        <line num="144" type="stmt" count="8"/>
+        <line num="141" type="method" name="findOne" visibility="public" complexity="2" crap="2.15" count="9"/>
+        <line num="143" type="stmt" count="9"/>
+        <line num="144" type="stmt" count="9"/>
         <line num="147" type="stmt" count="0"/>
         <line num="158" type="method" name="sortBy" visibility="public" complexity="4" crap="4" count="2"/>
         <line num="160" type="stmt" count="2"/>
@@ -254,26 +257,26 @@
     <package name="MenaraSolutions\Geographer\Repositories">
       <file name="/Users/duster/repos/geographer/src/Repositories/File.php">
         <class name="File" namespace="MenaraSolutions\Geographer\Repositories">
-          <metrics complexity="38" methods="14" coveredmethods="8" conditionals="0" coveredconditionals="0" statements="57" coveredstatements="48" elements="71" coveredelements="56"/>
+          <metrics complexity="38" methods="14" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="57" coveredstatements="49" elements="71" coveredelements="58"/>
         </class>
-        <line num="59" type="method" name="__construct" visibility="public" complexity="3" crap="3" count="19"/>
-        <line num="61" type="stmt" count="19"/>
-        <line num="62" type="stmt" count="19"/>
-        <line num="63" type="stmt" count="19"/>
-        <line num="69" type="method" name="getDefaultPath" visibility="private" complexity="2" crap="2" count="19"/>
-        <line num="71" type="stmt" count="19"/>
-        <line num="73" type="stmt" count="19"/>
-        <line num="83" type="method" name="getPath" visibility="public" complexity="2" crap="2" count="19"/>
-        <line num="85" type="stmt" count="19"/>
-        <line num="87" type="stmt" count="19"/>
+        <line num="59" type="method" name="__construct" visibility="public" complexity="3" crap="3" count="20"/>
+        <line num="61" type="stmt" count="20"/>
+        <line num="62" type="stmt" count="20"/>
+        <line num="63" type="stmt" count="20"/>
+        <line num="69" type="method" name="getDefaultPath" visibility="private" complexity="2" crap="2" count="20"/>
+        <line num="71" type="stmt" count="20"/>
+        <line num="73" type="stmt" count="20"/>
+        <line num="83" type="method" name="getPath" visibility="public" complexity="2" crap="2" count="20"/>
+        <line num="85" type="stmt" count="20"/>
+        <line num="87" type="stmt" count="20"/>
         <line num="93" type="method" name="getTranslationsPrefix" visibility="public" complexity="1" crap="1" count="4"/>
         <line num="95" type="stmt" count="4"/>
         <line num="102" type="method" name="setTranslationsPrefix" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="104" type="stmt" count="0"/>
         <line num="106" type="stmt" count="0"/>
-        <line num="112" type="method" name="guessTranslationsPrefix" visibility="public" complexity="2" crap="2.15" count="19"/>
-        <line num="114" type="stmt" count="19"/>
-        <line num="115" type="stmt" count="19"/>
+        <line num="112" type="method" name="guessTranslationsPrefix" visibility="public" complexity="2" crap="2.15" count="20"/>
+        <line num="114" type="stmt" count="20"/>
+        <line num="115" type="stmt" count="20"/>
         <line num="118" type="stmt" count="0"/>
         <line num="126" type="method" name="getTranslationsPath" visibility="public" complexity="2" crap="2.09" count="4"/>
         <line num="128" type="stmt" count="4"/>
@@ -286,48 +289,48 @@
         <line num="143" type="method" name="setPrefix" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="145" type="stmt" count="0"/>
         <line num="146" type="stmt" count="0"/>
-        <line num="153" type="method" name="getData" visibility="public" complexity="6" crap="6" count="16"/>
-        <line num="155" type="stmt" count="16"/>
-        <line num="158" type="stmt" count="16"/>
+        <line num="153" type="method" name="getData" visibility="public" complexity="6" crap="6" count="17"/>
+        <line num="155" type="stmt" count="17"/>
+        <line num="158" type="stmt" count="17"/>
         <line num="159" type="stmt" count="4"/>
         <line num="161" type="stmt" count="4"/>
-        <line num="165" type="stmt" count="16"/>
+        <line num="165" type="stmt" count="17"/>
         <line num="166" type="stmt" count="1"/>
         <line num="167" type="stmt" count="1"/>
-        <line num="171" type="stmt" count="16"/>
-        <line num="180" type="method" name="getCodeFromIndex" visibility="protected" complexity="4" crap="4" count="3"/>
-        <line num="182" type="stmt" count="3"/>
-        <line num="183" type="stmt" count="1"/>
+        <line num="171" type="stmt" count="17"/>
+        <line num="180" type="method" name="getCodeFromIndex" visibility="protected" complexity="4" crap="4" count="4"/>
+        <line num="182" type="stmt" count="4"/>
+        <line num="183" type="stmt" count="2"/>
         <line num="186" type="stmt" count="2"/>
         <line num="187" type="stmt" count="2"/>
         <line num="190" type="stmt" count="2"/>
         <line num="192" type="stmt" count="2"/>
-        <line num="201" type="method" name="indexSearch" visibility="public" complexity="5" crap="5.05" count="3"/>
-        <line num="203" type="stmt" count="3"/>
-        <line num="205" type="stmt" count="3"/>
-        <line num="206" type="stmt" count="3"/>
-        <line num="208" type="stmt" count="3"/>
-        <line num="209" type="stmt" count="3"/>
-        <line num="212" type="stmt" count="3"/>
-        <line num="213" type="stmt" count="3"/>
+        <line num="201" type="method" name="indexSearch" visibility="public" complexity="5" crap="5.05" count="4"/>
+        <line num="203" type="stmt" count="4"/>
+        <line num="205" type="stmt" count="4"/>
+        <line num="206" type="stmt" count="4"/>
+        <line num="208" type="stmt" count="4"/>
+        <line num="209" type="stmt" count="4"/>
+        <line num="212" type="stmt" count="4"/>
+        <line num="213" type="stmt" count="4"/>
         <line num="216" type="stmt" count="0"/>
-        <line num="226" type="method" name="loadJson" visibility="public" complexity="3" crap="3" count="19"/>
-        <line num="228" type="stmt" count="19"/>
-        <line num="229" type="stmt" count="19"/>
-        <line num="230" type="stmt" count="19"/>
-        <line num="232" type="stmt" count="19"/>
-        <line num="240" type="method" name="getTranslations" visibility="public" complexity="4" crap="4.13" count="4"/>
+        <line num="226" type="method" name="loadJson" visibility="public" complexity="3" crap="3" count="20"/>
+        <line num="228" type="stmt" count="20"/>
+        <line num="229" type="stmt" count="20"/>
+        <line num="230" type="stmt" count="20"/>
+        <line num="232" type="stmt" count="20"/>
+        <line num="240" type="method" name="getTranslations" visibility="public" complexity="4" crap="4" count="4"/>
         <line num="242" type="stmt" count="4"/>
         <line num="243" type="stmt" count="4"/>
         <line num="245" type="stmt" count="4"/>
         <line num="246" type="stmt" count="4"/>
-        <line num="249" type="stmt" count="0"/>
+        <line num="249" type="stmt" count="1"/>
         <line num="256" type="method" name="loadTranslations" visibility="protected" complexity="2" crap="2" count="4"/>
         <line num="258" type="stmt" count="4"/>
         <line num="260" type="stmt" count="4"/>
         <line num="261" type="stmt" count="4"/>
         <line num="263" type="stmt" count="4"/>
-        <metrics loc="264" ncloc="172" classes="1" methods="14" coveredmethods="8" conditionals="0" coveredconditionals="0" statements="57" coveredstatements="48" elements="71" coveredelements="56"/>
+        <metrics loc="264" ncloc="172" classes="1" methods="14" coveredmethods="9" conditionals="0" coveredconditionals="0" statements="57" coveredstatements="49" elements="71" coveredelements="58"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Repositories/Memcached.php">
         <class name="Memcached" namespace="MenaraSolutions\Geographer\Repositories">
@@ -403,26 +406,26 @@
         <class name="DefaultManager" namespace="MenaraSolutions\Geographer\Services" fullPackage="MenaraSolutions" package="MenaraSolutions">
           <metrics complexity="22" methods="18" coveredmethods="13" conditionals="0" coveredconditionals="0" statements="33" coveredstatements="23" elements="51" coveredelements="36"/>
         </class>
-        <line num="69" type="method" name="__construct" visibility="public" complexity="4" crap="4" count="19"/>
-        <line num="71" type="stmt" count="19"/>
-        <line num="72" type="stmt" count="19"/>
-        <line num="73" type="stmt" count="19"/>
-        <line num="74" type="stmt" count="19"/>
-        <line num="79" type="method" name="getDefaultPrefix" visibility="public" complexity="1" crap="1" count="19"/>
-        <line num="81" type="stmt" count="19"/>
+        <line num="69" type="method" name="__construct" visibility="public" complexity="4" crap="4" count="20"/>
+        <line num="71" type="stmt" count="20"/>
+        <line num="72" type="stmt" count="20"/>
+        <line num="73" type="stmt" count="20"/>
+        <line num="74" type="stmt" count="20"/>
+        <line num="79" type="method" name="getDefaultPrefix" visibility="public" complexity="1" crap="1" count="20"/>
+        <line num="81" type="stmt" count="20"/>
         <line num="87" type="method" name="getStoragePath" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="89" type="stmt" count="0"/>
         <line num="96" type="method" name="setStoragePath" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="98" type="stmt" count="0"/>
         <line num="100" type="stmt" count="0"/>
-        <line num="106" type="method" name="getTranslator" visibility="public" complexity="2" crap="2" count="15"/>
-        <line num="108" type="stmt" count="15"/>
-        <line num="110" type="stmt" count="15"/>
+        <line num="106" type="method" name="getTranslator" visibility="public" complexity="2" crap="2" count="16"/>
+        <line num="108" type="stmt" count="16"/>
+        <line num="110" type="stmt" count="16"/>
         <line num="117" type="method" name="setTranslator" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="119" type="stmt" count="0"/>
         <line num="121" type="stmt" count="0"/>
-        <line num="127" type="method" name="getRepository" visibility="public" complexity="1" crap="1" count="19"/>
-        <line num="129" type="stmt" count="19"/>
+        <line num="127" type="method" name="getRepository" visibility="public" complexity="1" crap="1" count="20"/>
+        <line num="129" type="stmt" count="20"/>
         <line num="136" type="method" name="setRepository" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="138" type="stmt" count="0"/>
         <line num="139" type="stmt" count="0"/>
@@ -433,24 +436,24 @@
         <line num="159" type="method" name="setForm" visibility="public" complexity="1" crap="1" count="3"/>
         <line num="161" type="stmt" count="3"/>
         <line num="163" type="stmt" count="3"/>
-        <line num="169" type="method" name="getLocale" visibility="public" complexity="1" crap="1" count="15"/>
-        <line num="171" type="stmt" count="15"/>
+        <line num="169" type="method" name="getLocale" visibility="public" complexity="1" crap="1" count="16"/>
+        <line num="171" type="stmt" count="16"/>
         <line num="177" type="method" name="useLongNames" visibility="public" complexity="1" crap="1" count="3"/>
         <line num="179" type="stmt" count="3"/>
         <line num="181" type="stmt" count="3"/>
-        <line num="187" type="method" name="useShortNames" visibility="public" complexity="1" crap="1" count="14"/>
-        <line num="189" type="stmt" count="14"/>
-        <line num="191" type="stmt" count="14"/>
+        <line num="187" type="method" name="useShortNames" visibility="public" complexity="1" crap="1" count="15"/>
+        <line num="189" type="stmt" count="15"/>
+        <line num="191" type="stmt" count="15"/>
         <line num="197" type="method" name="includePrepositions" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="199" type="stmt" count="1"/>
         <line num="201" type="stmt" count="1"/>
         <line num="207" type="method" name="excludePrepositions" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="209" type="stmt" count="1"/>
         <line num="211" type="stmt" count="1"/>
-        <line num="217" type="method" name="expectsLongNames" visibility="public" complexity="1" crap="1" count="15"/>
-        <line num="219" type="stmt" count="15"/>
-        <line num="225" type="method" name="getStandard" visibility="public" complexity="1" crap="1" count="16"/>
-        <line num="227" type="stmt" count="16"/>
+        <line num="217" type="method" name="expectsLongNames" visibility="public" complexity="1" crap="1" count="16"/>
+        <line num="219" type="stmt" count="16"/>
+        <line num="225" type="method" name="getStandard" visibility="public" complexity="1" crap="1" count="17"/>
+        <line num="227" type="stmt" count="17"/>
         <line num="234" type="method" name="setStandard" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="236" type="stmt" count="0"/>
         <line num="238" type="stmt" count="0"/>
@@ -460,28 +463,28 @@
         <class name="TranslationAgency" namespace="MenaraSolutions\Geographer\Services" fullPackage="MenaraSolutions" package="MenaraSolutions">
           <metrics complexity="11" methods="9" coveredmethods="6" conditionals="0" coveredconditionals="0" statements="20" coveredstatements="16" elements="29" coveredelements="22"/>
         </class>
-        <line num="95" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="19"/>
-        <line num="97" type="stmt" count="19"/>
-        <line num="98" type="stmt" count="19"/>
-        <line num="99" type="stmt" count="19"/>
+        <line num="95" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="20"/>
+        <line num="97" type="stmt" count="20"/>
+        <line num="98" type="stmt" count="20"/>
+        <line num="99" type="stmt" count="20"/>
         <line num="105" type="method" name="setForm" visibility="public" complexity="1" crap="1" count="3"/>
         <line num="107" type="stmt" count="3"/>
         <line num="109" type="stmt" count="3"/>
-        <line num="115" type="method" name="includePrepositions" visibility="public" complexity="1" crap="1" count="15"/>
-        <line num="117" type="stmt" count="15"/>
-        <line num="119" type="stmt" count="15"/>
+        <line num="115" type="method" name="includePrepositions" visibility="public" complexity="1" crap="1" count="16"/>
+        <line num="117" type="stmt" count="16"/>
+        <line num="119" type="stmt" count="16"/>
         <line num="125" type="method" name="excludePrepositions" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="127" type="stmt" count="1"/>
         <line num="129" type="stmt" count="1"/>
-        <line num="137" type="method" name="translate" visibility="public" complexity="1" crap="1" count="15"/>
-        <line num="139" type="stmt" count="15"/>
-        <line num="141" type="stmt" count="15"/>
-        <line num="149" type="method" name="getTranslator" visibility="public" complexity="3" crap="3.07" count="15"/>
-        <line num="151" type="stmt" count="15"/>
+        <line num="137" type="method" name="translate" visibility="public" complexity="1" crap="1" count="16"/>
+        <line num="139" type="stmt" count="16"/>
+        <line num="141" type="stmt" count="16"/>
+        <line num="149" type="method" name="getTranslator" visibility="public" complexity="3" crap="3.07" count="16"/>
+        <line num="151" type="stmt" count="16"/>
         <line num="152" type="stmt" count="0"/>
-        <line num="155" type="stmt" count="15"/>
-        <line num="156" type="stmt" count="15"/>
-        <line num="159" type="stmt" count="15"/>
+        <line num="155" type="stmt" count="16"/>
+        <line num="156" type="stmt" count="16"/>
+        <line num="159" type="stmt" count="16"/>
         <line num="165" type="method" name="getRepository" visibility="public" complexity="1" crap="1" count="4"/>
         <line num="167" type="stmt" count="4"/>
         <line num="174" type="method" name="setRepository" visibility="public" complexity="1" crap="2" count="0"/>
@@ -540,15 +543,15 @@
         </class>
         <line num="32" type="method" name="getLongName" visibility="private" complexity="2" crap="2" count="3"/>
         <line num="34" type="stmt" count="3"/>
-        <line num="41" type="method" name="getShortName" visibility="private" complexity="2" crap="2" count="11"/>
-        <line num="43" type="stmt" count="11"/>
-        <line num="53" type="method" name="translate" visibility="public" complexity="6" crap="7.33" count="12"/>
-        <line num="55" type="stmt" count="12"/>
+        <line num="41" type="method" name="getShortName" visibility="private" complexity="2" crap="2" count="12"/>
+        <line num="43" type="stmt" count="12"/>
+        <line num="53" type="method" name="translate" visibility="public" complexity="6" crap="7.33" count="13"/>
+        <line num="55" type="stmt" count="13"/>
         <line num="56" type="stmt" count="0"/>
-        <line num="59" type="stmt" count="12"/>
-        <line num="61" type="stmt" count="12"/>
+        <line num="59" type="stmt" count="13"/>
+        <line num="61" type="stmt" count="13"/>
         <line num="62" type="stmt" count="0"/>
-        <line num="65" type="stmt" count="12"/>
+        <line num="65" type="stmt" count="13"/>
         <metrics loc="67" ncloc="42" classes="1" methods="3" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="8" coveredstatements="6" elements="11" coveredelements="8"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Services/Poliglottas/French.php">
@@ -645,11 +648,11 @@
         <class name="ExposesFields" namespace="MenaraSolutions\Geographer\Traits">
           <metrics complexity="21" methods="6" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="30" coveredstatements="27" elements="36" coveredelements="30"/>
         </class>
-        <line num="16" type="method" name="offsetExists" visibility="public" complexity="1" crap="1" count="16"/>
-        <line num="18" type="stmt" count="16"/>
-        <line num="25" type="method" name="offsetGet" visibility="public" complexity="2" crap="2.15" count="16"/>
-        <line num="27" type="stmt" count="16"/>
-        <line num="28" type="stmt" count="16"/>
+        <line num="16" type="method" name="offsetExists" visibility="public" complexity="1" crap="1" count="17"/>
+        <line num="18" type="stmt" count="17"/>
+        <line num="25" type="method" name="offsetGet" visibility="public" complexity="2" crap="2.15" count="17"/>
+        <line num="27" type="stmt" count="17"/>
+        <line num="28" type="stmt" count="17"/>
         <line num="30" type="stmt" count="0"/>
         <line num="54" type="method" name="toArray" visibility="public" complexity="3" crap="3" count="6"/>
         <line num="56" type="stmt" count="6"/>
@@ -657,30 +660,30 @@
         <line num="59" type="stmt" count="6"/>
         <line num="61" type="stmt" count="6"/>
         <line num="64" type="stmt" count="6"/>
-        <line num="71" type="method" name="extract" visibility="protected" complexity="5" crap="5" count="16"/>
-        <line num="73" type="stmt" count="16"/>
-        <line num="75" type="stmt" count="16"/>
+        <line num="71" type="method" name="extract" visibility="protected" complexity="5" crap="5" count="17"/>
+        <line num="73" type="stmt" count="17"/>
+        <line num="75" type="stmt" count="17"/>
         <line num="76" type="stmt" count="6"/>
-        <line num="79" type="stmt" count="16"/>
-        <line num="81" type="stmt" count="16"/>
-        <line num="82" type="stmt" count="16"/>
-        <line num="83" type="stmt" count="16"/>
-        <line num="86" type="stmt" count="16"/>
-        <line num="89" type="stmt" count="16"/>
-        <line num="98" type="method" name="__call" visibility="public" complexity="3" crap="3.03" count="9"/>
-        <line num="100" type="stmt" count="9"/>
+        <line num="79" type="stmt" count="17"/>
+        <line num="81" type="stmt" count="17"/>
+        <line num="82" type="stmt" count="17"/>
+        <line num="83" type="stmt" count="17"/>
+        <line num="86" type="stmt" count="17"/>
+        <line num="89" type="stmt" count="17"/>
+        <line num="98" type="method" name="__call" visibility="public" complexity="3" crap="3.03" count="10"/>
+        <line num="100" type="stmt" count="10"/>
         <line num="101" type="stmt" count="7"/>
         <line num="103" type="stmt" count="7"/>
-        <line num="106" type="stmt" count="2"/>
-        <line num="107" type="stmt" count="2"/>
-        <line num="109" type="stmt" count="2"/>
+        <line num="106" type="stmt" count="3"/>
+        <line num="107" type="stmt" count="3"/>
+        <line num="109" type="stmt" count="3"/>
         <line num="112" type="stmt" count="0"/>
-        <line num="120" type="method" name="__get" visibility="public" complexity="5" crap="5.20" count="16"/>
-        <line num="122" type="stmt" count="16"/>
+        <line num="120" type="method" name="__get" visibility="public" complexity="5" crap="5.20" count="17"/>
+        <line num="122" type="stmt" count="17"/>
         <line num="123" type="stmt" count="0"/>
-        <line num="126" type="stmt" count="16"/>
+        <line num="126" type="stmt" count="17"/>
         <line num="127" type="stmt" count="7"/>
-        <line num="130" type="stmt" count="16"/>
+        <line num="130" type="stmt" count="17"/>
         <metrics loc="131" ncloc="93" classes="1" methods="6" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="30" coveredstatements="27" elements="36" coveredelements="30"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Traits/HasCollection.php">
@@ -689,8 +692,8 @@
         </class>
         <line num="15" type="method" name="find" visibility="public" complexity="1" crap="1" count="1"/>
         <line num="17" type="stmt" count="1"/>
-        <line num="24" type="method" name="findOne" visibility="public" complexity="1" crap="1" count="8"/>
-        <line num="26" type="stmt" count="8"/>
+        <line num="24" type="method" name="findOne" visibility="public" complexity="1" crap="1" count="9"/>
+        <line num="26" type="stmt" count="9"/>
         <metrics loc="27" ncloc="15" classes="1" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
       </file>
       <file name="/Users/duster/repos/geographer/src/Traits/HasManager.php">
@@ -699,9 +702,9 @@
         </class>
         <line num="16" type="method" name="getManager" visibility="public" complexity="1" crap="2" count="0"/>
         <line num="18" type="stmt" count="0"/>
-        <line num="25" type="method" name="setManager" visibility="public" complexity="1" crap="1" count="1"/>
-        <line num="27" type="stmt" count="1"/>
-        <line num="29" type="stmt" count="1"/>
+        <line num="25" type="method" name="setManager" visibility="public" complexity="1" crap="1" count="2"/>
+        <line num="27" type="stmt" count="2"/>
+        <line num="29" type="stmt" count="2"/>
         <line num="36" type="method" name="setLocale" visibility="public" complexity="1" crap="1" count="4"/>
         <line num="38" type="stmt" count="4"/>
         <line num="40" type="stmt" count="4"/>
@@ -727,6 +730,6 @@
         <metrics loc="104" ncloc="69" classes="1" methods="9" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="18" coveredstatements="14" elements="27" coveredelements="21"/>
       </file>
     </package>
-    <metrics files="33" loc="2699" ncloc="1693" classes="16" methods="132" coveredmethods="88" conditionals="0" coveredconditionals="0" statements="398" coveredstatements="284" elements="530" coveredelements="372"/>
+    <metrics files="33" loc="2708" ncloc="1699" classes="16" methods="133" coveredmethods="91" conditionals="0" coveredconditionals="0" statements="400" coveredstatements="288" elements="533" coveredelements="379"/>
   </project>
 </coverage>

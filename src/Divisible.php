@@ -8,7 +8,6 @@ use MenaraSolutions\Geographer\Contracts\IdentifiableInterface;
 use MenaraSolutions\Geographer\Services\DefaultManager;
 use MenaraSolutions\Geographer\Traits\ExposesFields;
 use MenaraSolutions\Geographer\Traits\HasManager;
-use MenaraSolutions\Geographer\Repositories\File;
 use MenaraSolutions\Geographer\Traits\HasCollection;
 
 /**
