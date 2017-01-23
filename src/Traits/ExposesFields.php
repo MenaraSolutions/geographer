@@ -81,8 +81,8 @@ trait ExposesFields
         foreach ($parts as $field) {
             if (! isset($current[$field])) {
                 return null;
-            } 
-            
+            }
+
             $current = &$current[$field];
         }
 
@@ -128,5 +128,22 @@ trait ExposesFields
         }
 
         return $this->extract(isset($this->exposed[$field]) ? $this->exposed[$field] : $field);
+    }
+
+    /**
+     * @param  int  $options
+     * @return string
+     */
+    public function toJson($options = 0)
+    {
+        return json_encode($this->toArray(), $options);
+    }
+
+    /**
+     * @return string
+     */
+    public function __toString()
+    {
+        return $this->toJson();
     }
 }
