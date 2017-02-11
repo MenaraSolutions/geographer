@@ -202,7 +202,7 @@ class RussianTest extends Test
      */
     public function specific_country_has_all_states()
     {
-        $country = (new Earth())->findOneByCode('BO')->setLocale('ru');
+        $country = (new Earth())->findOneByCode('TT')->setLocale('ru');
         $states = $country->getStates();
 
         $array = [];
@@ -214,10 +214,16 @@ class RussianTest extends Test
         ];
 
         foreach ($states as $state) {
+            $cities = $state->getCities();
+
             echo "id: " . $state->getCode() . " iso: " . $state->getIsoCode() .  " names: "
                 . $state->inflict('default')->getName() . "  "
                 . $state->inflict('in')->getName() . "  "
                 . $state->inflict('from')->getName() . "\n";
+
+            foreach ($cities as $city) {
+                echo $city->name;
+            }
 
             if (preg_match('/[A-Za-z]+/', $state->inflict('default')->getName())) {
                 $output['code'] = strval($state->getCode());

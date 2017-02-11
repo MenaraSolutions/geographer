@@ -30,9 +30,9 @@ class StateTest extends Test
                 $this->assertTrue(isset($array['name']) && is_string($array['name']));
 
                 if ($country->getContinent() == 'EU') {
-                    echo $state->inflict('default')->getName() . "\n";
-                    echo $state->inflict('from')->getName() . "\n";
-                    echo $state->inflict('in')->getName() . "\n";
+                    //echo $state->inflict('default')->getName() . "\n";
+                    //echo $state->inflict('from')->getName() . "\n";
+                    //echo $state->inflict('in')->getName() . "\n";
                 }
             }
         }

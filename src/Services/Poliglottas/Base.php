@@ -81,8 +81,12 @@ abstract class Base implements PoliglottaInterface
      */
     protected function fromDictionary(IdentifiableInterface $subject)
     {
-        $translations = $this->agency->getRepository()->getTranslations($subject, $this->code);
-        
+        try {
+            $translations = $this->agency->getRepository()->getTranslations($subject, $this->code);
+        } catch (FileNotFoundException $e) {
+            return $subject->getMeta();
+        }
+
         return $translations ?: $subject->getMeta();
     }
 
