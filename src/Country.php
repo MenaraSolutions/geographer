@@ -66,6 +66,16 @@ class Country extends Divisible
         return $this->getMembers();
     }
 
+    public function getCities()
+    {
+        $cities = [];
+        foreach ($this->getMembers() as $state) {
+            $cities = array_merge($cities, $state->getCities()->toArray());
+        }
+
+        return $cities;
+    }
+
     /**
      * @inheritdoc
      */
