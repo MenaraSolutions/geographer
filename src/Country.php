@@ -66,6 +66,11 @@ class Country extends Divisible
         return $this->getMembers();
     }
 
+    /**
+     * All the cities that belong to a Country
+     *
+     * @return array
+     */
     public function getCities()
     {
         $cities = [];
