@@ -109,7 +109,6 @@ class CountryTest extends Test
     public function country_can_return_an_array_with_all_its_cities()
     {
         $maldives = Country::build('MV')->getCities();
-        var_dump($maldives);
         // Currently MV "Maldives" has only 1 city above 50 000 ppl.
         $this->assertCount(1, $maldives);
         $this->assertTrue(is_array($maldives) || $maldives instanceof \ArrayObject);
