@@ -84,7 +84,7 @@ class File implements RepositoryInterface
     {
         if (! isset(self::$paths[$class])) throw new MisconfigurationException($class . ' is not supposed to load data');
 
-        return str_replace(array_keys($params), array_values($params), $prefix . DIRECTORY_SEPARATOR . self::$paths[$class]);
+        return $prefix . DIRECTORY_SEPARATOR . str_replace(array_keys($params), array_values($params), self::$paths[$class]);
     }
 
     /**
