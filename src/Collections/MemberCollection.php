@@ -54,6 +54,17 @@ class MemberCollection extends \ArrayObject
     }
 
     /**
+     * @param string $key
+     * @return array
+     */
+    public function pluck($key)
+    {
+        return array_map(function($division) use ($key) {
+            return isset($division[$key]) ? $division[$key] : null;
+        }, $this->toArray());
+    }
+
+    /**
      * @return mixed
      */
     public function first()

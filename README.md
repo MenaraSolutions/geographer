@@ -91,6 +91,8 @@ $states->setLocale('ru')->sortBy('name'); // States will be sorted by Russian tr
 $states->find(['code' => 472039]); // Find 1+ divisions that match specified parameters 
 $states->findOne(['code' => 472039]); // Return the first match only
 $states->findOneByCode(472039); // Convenience magic method
+$states->toArray(); // Return a flat array of states
+$states->pluck('name'); // Return a flat array of state names
 ```
 
 ## Common methods on division objects
