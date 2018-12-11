@@ -21,7 +21,8 @@
         "codeclimate/php-test-reporter": "dev-master",
         "illuminate/support": "5.*",
         "menarasolutions/geographer-de": "0.*",
-        "menarasolutions/geographer-ru": "0.*"
+        "menarasolutions/geographer-ru": "0.*",
+        "menarasolutions/geographer-nl": "0.*"
     },
     "autoload": {
         "psr-4": {
