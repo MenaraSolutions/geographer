@@ -245,6 +245,10 @@ While not a number one priority at this stage, we will try maintain reasonable C
 
 Time: 6 ms, memory: 81056 bytes
 
+## Video tutorials
+
+I've just started a educational YouTube channel that will cover top IT trends in software development and DevOps: [config.sys](https://www.youtube.com/channel/UCIvUJ1iVRjJP_xL0CD7cMpg)
+
 ## Todo
 
 1. Add a basic spatial index
