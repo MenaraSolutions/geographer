@@ -42,4 +42,18 @@ class State extends Divisible
     {
         return $this->getMembers();
     }
+
+    /**
+     * @return array
+     */
+    public function getZipRanges()
+    {
+        $ranges = $this->meta['zip_ranges'];
+
+        if ($zip_ranges === null) {
+            return [];
+        }
+
+        return $ranges;
+    }
 }
