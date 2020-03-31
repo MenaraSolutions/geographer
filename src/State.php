@@ -31,6 +31,7 @@ class State extends Divisible
         'fipsCode' => 'ids.fips',
         'isoCode' => 'ids.iso_3166_2',
         'geonamesCode' => 'ids.geonames',
+        'zipRanges' => 'zip_ranges',
         'name'
     ];
 
