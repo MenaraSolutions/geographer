@@ -13,11 +13,11 @@
         }
     ],
     "require": {
-        "php": ">=5.5.0",
+        "php": ">=7.0",
         "menarasolutions/geographer-data": "^0.1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.*|5.*",
+        "phpunit/phpunit": "^6|^7",
         "codeclimate/php-test-reporter": "dev-master",
         "illuminate/support": "5.*",
         "menarasolutions/geographer-de": "0.*",

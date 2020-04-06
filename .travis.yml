@@ -1,13 +1,15 @@
 language: php
 
 php:
-  - 5.5
-#  - 5.6
   - 7.0
+  - 7.1
+  - 7.2
+  - 7.3
+  - 7.4
   - nightly
 
 install:
-  - composer install --dev
+  - composer install
   - mkdir -p build/logs
 
 after_script:

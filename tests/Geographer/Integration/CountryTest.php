@@ -23,7 +23,7 @@ class CountryTest extends Test
             $this->assertEquals(MemberCollection::class, get_class($states));
             $this->assertTrue(is_array($states) || $states instanceof \ArrayObject);
             $array = $country->toArray();
-            $this->assertTrue(is_array($array));
+            $this->assertInternalType('array', $array);
             $this->assertArrayHasKey('code', $array);
             $this->assertArrayHasKey('code3', $array);
             $this->assertArrayHasKey('name', $array);
