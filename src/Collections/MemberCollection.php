@@ -184,4 +184,16 @@ class MemberCollection extends \ArrayObject
 
         return new static($this->manager, $results);
     }
+
+    /**
+     * Slice the underlying collection array.
+     *
+     * @param  int  $offset
+     * @param  int  $length
+     * @return static
+     */
+    public function slice($offset, $length = null)
+    {
+        return new static($this->manager, array_slice($this->divisions, $offset, $length, true));
+    }
 }
