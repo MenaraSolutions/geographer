@@ -196,4 +196,17 @@ class MemberCollection extends \ArrayObject
     {
         return new static($this->manager, array_slice($this->divisions, $offset, $length, true));
     }
+
+    /**
+     * Merge collections.
+     *
+     * @param  array  $divisions
+     * @return static
+     */
+    public function merge($divisions)
+    {
+        return ($divisions instanceof MemberCollection)
+		? $divisions->merge($this->divisions)
+		: new static($this->manager, array_merge($this->divisions, $divisions));
+    }
 }
