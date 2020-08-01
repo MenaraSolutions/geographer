@@ -257,8 +257,7 @@ I've just started a educational YouTube channel that will cover top IT trends in
 
 ## Projects using Geographer
 
-* [Boogie Call – Music event finder](https://www.boogiecall.com)
-* [Rapport – Real-time random photo and video streams](https://www.rapport.fm)
+* [GrammarCI – Typo Detection for developers](https://www.grammarci.com/)
 
 Tell us about yours!
 
