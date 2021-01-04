@@ -194,7 +194,7 @@ abstract class Divisible implements IdentifiableInterface, \ArrayAccess
     /**
      * @param int|string $id
      * @param ManagerInterface $config
-     * @return City
+     * @return City|Country|State
      */
     public static function build($id, $config = null)
     {
