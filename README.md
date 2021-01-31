@@ -163,6 +163,7 @@ $country->getPopulation(); // Population
 $country->getLanguage(); // Country's first official language
 
 $country->getStates(); // A collection of all states
+$country->getCities(); // A collection of all cities. It only returns an array for the moment.
 Country::build('TH'); // Build a country object based on ISO code
 ```
 

@@ -2,11 +2,12 @@
 
 namespace Tests;
 
-use MenaraSolutions\Geographer\Collections\MemberCollection;
+use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Divisible;
-use MenaraSolutions\Geographer\Earth;
+use MenaraSolutions\Geographer\Services\DefaultManager;
 use MenaraSolutions\Geographer\Services\TranslationAgency;
+use MenaraSolutions\Geographer\Collections\MemberCollection;
 
 class CountryTest extends Test
 {
@@ -101,5 +102,19 @@ class CountryTest extends Test
         $russia->inflict(TranslationAgency::FORM_IN)->useShortNames()->includePrepositions();
         $this->assertNotEquals($defaultName, $russia->getName());
         $this->assertNotEquals($russia->getName(), $russia->excludePrepositions()->getName());
+    }
+    /**
+     * @test
+     */
+    public function country_can_return_an_array_with_all_its_cities()
+    {
+        $maldives = Country::build('MV')->getCities();
+        // Currently MV "Maldives" has only 1 city above 50 000 ppl.
+        $this->assertCount(1, $maldives);
+        $this->assertTrue(is_array($maldives) || $maldives instanceof \ArrayObject);
+        foreach ($maldives as $city) {
+            $this->assertTrue(is_array($city));
+            $this->assertArrayHasKey('name', $city);
+        }
     }
 }

@@ -70,6 +70,21 @@ class Country extends Divisible
     }
 
     /**
+     * All the cities that belong to a Country
+     *
+     * @return array
+     */
+    public function getCities()
+    {
+        $cities = [];
+        foreach ($this->getMembers() as $state) {
+            $cities = array_merge($cities, $state->getCities()->toArray());
+        }
+
+        return $cities;
+    }
+
+    /**
      * @inheritdoc
      */
     public static function build($id, $config = null)
