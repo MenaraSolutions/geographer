@@ -2,6 +2,7 @@
 
 namespace Tests;
 
+use MenaraSolutions\Geographer\City;
 use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
 use MenaraSolutions\Geographer\Divisible;
@@ -101,5 +102,17 @@ class CountryTest extends Test
         $russia->inflict(TranslationAgency::FORM_IN)->useShortNames()->includePrepositions();
         $this->assertNotEquals($defaultName, $russia->getName());
         $this->assertNotEquals($russia->getName(), $russia->excludePrepositions()->getName());
+    }
+
+    /**
+     * @test
+     */
+    public function capital_can_be_found_for_a_country()
+    {
+        $earth = new Earth();
+        $russia = $earth->findOne(['code' => 'RU']);
+        $capital = $russia->getCapital();
+        $this->assertInstanceOf(City::class, $capital);
+        $this->assertTrue($capital['capital']);
     }
 }

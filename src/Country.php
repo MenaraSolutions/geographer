@@ -56,9 +56,13 @@ class Country extends Divisible
      */
     public function getCapital()
     {
-        return $this->findOne([
-            'capital' => true
-        ]);
+        foreach ($this->getStates() as $state) {
+            if ($capital = $state->findOne([
+                'capital' => true
+            ])) {
+                return $capital;
+            }
+        }
     }
 
     /**

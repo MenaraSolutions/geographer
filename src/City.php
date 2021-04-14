@@ -27,6 +27,7 @@ class City extends Divisible
         'name',
         'latitude' => 'lat',
         'longitude' => 'lng',
-        'population'
+        'population',
+        'capital'
     ];
 }
