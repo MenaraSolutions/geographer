@@ -20,6 +20,7 @@
         "phpunit/phpunit": "4.*|5.*",
         "codeclimate/php-test-reporter": "dev-master",
         "illuminate/support": "5.*",
+        "menarasolutions/geographer-da": "0.*",
         "menarasolutions/geographer-de": "0.*",
         "menarasolutions/geographer-ru": "0.*",
         "menarasolutions/geographer-nl": "0.*"

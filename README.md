@@ -225,7 +225,8 @@ attempt to use a non-existing language – expect an exception.
 | Italian   | ✓            | ✓         | ✓           | [geographer-it](https://github.com/MenaraSolutions/geographer-it) |
 | French    | ✓            | ✓         | ✓           | [geographer-fr](https://github.com/MenaraSolutions/geographer-fr) |
 | German    | ✓            | ✓         | ✓           | [geographer-de](https://github.com/MenaraSolutions/geographer-de) |
-| Chinese Mandarin | ✓            | ✓         | ✓           | [geographer-zh](https://github.com/MenaraSolutions/geographer-zh) |
+| Chinese Mandarin | ✓     | ✓         | ✓           | [geographer-zh](https://github.com/MenaraSolutions/geographer-zh) |
+| Danish    | ✓            | -         | -           | [geographer-da](https://github.com/MenaraSolutions/geographer-da) |
 
 English texts are included in the data package and are used as default metadata. 
 
