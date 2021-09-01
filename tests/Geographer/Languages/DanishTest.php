@@ -5,14 +5,14 @@ namespace Tests\Languages;
 use Tests\Test;
 use MenaraSolutions\Geographer\Earth;
 
-class DutchTest extends Test
+class DanishTest extends Test
 {
     protected $forms = ['', 'to', 'from'];
 
     /**
      * @var string
      */
-    protected $languageCode = 'nl';
+    protected $languageCode = 'da';
 
     /**
      * @test
