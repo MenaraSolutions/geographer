@@ -32,7 +32,8 @@ class State extends Divisible
         'isoCode' => 'ids.iso_3166_2',
         'geonamesCode' => 'ids.geonames',
         'postCodes' => 'postcodes',
-        'name'
+        'name',
+        'timezone'
     ];
 
     /**
