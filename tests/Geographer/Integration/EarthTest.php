@@ -4,13 +4,12 @@ namespace Tests;
 
 use MenaraSolutions\Geographer\Collections\MemberCollection;
 use MenaraSolutions\Geographer\Country;
-use MenaraSolutions\Geographer\Exceptions\MisconfigurationException;
 use MenaraSolutions\Geographer\Earth;
 
 class EarthTest extends Test
 {
     const TOTAL_COUNTRIES = 249;
-    
+
     /**
      * @test
      */
@@ -18,9 +17,9 @@ class EarthTest extends Test
     {
         $earth = new Earth();
         $countries = $earth->getCountries();
-        $this->assertTrue(is_array($countries->toArray()));
-        $this->assertEquals(self::TOTAL_COUNTRIES, count($countries));
-        $this->assertEquals(self::TOTAL_COUNTRIES, count($countries->toArray()));
+        $this->assertInternalType('array', $countries->toArray());
+        $this->assertCount(self::TOTAL_COUNTRIES, $countries);
+        $this->assertCount(self::TOTAL_COUNTRIES, $countries->toArray());
     }
 
     /**
@@ -58,7 +57,7 @@ class EarthTest extends Test
     {
         $earth = new Earth();
         $russia = $earth->findOne(['code' => 'RU']);
-        $this->assertTrue($russia instanceof Country);
+        $this->assertInstanceOf(Country::class, $russia);
         $this->assertEquals('RU', $russia->getCode());
     }
 
@@ -75,7 +74,7 @@ class EarthTest extends Test
         {
             $continent = $earth->{'get' . $continent}();
             $this->assertInstanceOf(MemberCollection::class, $continent);
-            $this->assertTrue(is_array($continent->toArray()));
+            $this->assertInternalType('array', $continent->toArray());
         }
     }
 

@@ -2,16 +2,16 @@
 
 namespace Tests;
 
-use MenaraSolutions\Geographer\Earth;
+use PHPUnit\Framework\TestCase;
 
-abstract class Test extends \PHPUnit_Framework_TestCase
+abstract class Test extends TestCase
 {
     use AnalyzesPerformance;
 
     /**
      * @return void
      */
-    public function setUp()
+    protected function setUp()
     {
         $this->performanceHook();
         parent::setUp();
@@ -20,7 +20,7 @@ abstract class Test extends \PHPUnit_Framework_TestCase
     /**
      * @return void
      */
-    public function tearDown()
+    protected function tearDown()
     {
         $this->performanceCheck();
         parent::tearDown();

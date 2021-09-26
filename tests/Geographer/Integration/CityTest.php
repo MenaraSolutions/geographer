@@ -2,11 +2,12 @@
 
 namespace Tests;
 
+use PHPUnit\Framework\TestCase;
 use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\City;
 use MenaraSolutions\Geographer\State;
 
-class CityTest extends \PHPUnit_Framework_TestCase
+class CityTest extends TestCase
 {
     /**
      * Countries that don't have any big cities
@@ -51,7 +52,7 @@ class CityTest extends \PHPUnit_Framework_TestCase
             if (! in_array($country->getCode(), $this->emptyCountries)) {
                 //if ($citiesCount == 0) echo $country->getCode();
                 //if ($citiesCount == 0) echo count($country->getStates());
-                $this->assertTrue($citiesCount > 0);
+                $this->assertGreaterThan(0, $citiesCount);
             }
         }
     }
