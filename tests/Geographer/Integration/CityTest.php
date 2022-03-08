@@ -6,7 +6,7 @@ use MenaraSolutions\Geographer\Earth;
 use MenaraSolutions\Geographer\City;
 use MenaraSolutions\Geographer\State;
 
-class CityTest extends \PHPUnit_Framework_TestCase
+class CityTest extends \PHPUnit\Framework\TestCase
 {
     /**
      * Countries that don't have any big cities

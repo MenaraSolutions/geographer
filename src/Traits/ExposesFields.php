@@ -13,7 +13,7 @@ trait ExposesFields
      * @param mixed $offset
      * @return boolean
      */
-    public function offsetExists($offset)
+    public function offsetExists($offset): bool
     {
         return isset($this->exposed[$offset]);
     }
