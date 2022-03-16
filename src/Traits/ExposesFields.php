@@ -22,7 +22,7 @@ trait ExposesFields
      * @param mixed $offset
      * @return mixed
      */
-    public function offsetGet($offset)
+    public function offsetGet($offset): mixed
     {
         if (is_string($offset)) {
             return $this->__get($offset);
