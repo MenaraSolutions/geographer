@@ -18,9 +18,12 @@ trait ExposesFields
         return isset($this->exposed[$offset]);
     }
 
+
     /**
      * @param mixed $offset
+     *
      * @return mixed
+     * @throws UnknownFieldException
      */
     public function offsetGet($offset): mixed
     {
@@ -43,7 +46,7 @@ trait ExposesFields
      * @param mixed $offset
      * @return void
      */
-    public function offsetUnset($offset)
+    public function offsetUnset($offset): void
     {
         return;
     }

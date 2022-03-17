@@ -11,7 +11,7 @@ trait ImplementsArray
     /**
      * @return \ArrayIterator
      */
-    public function getIterator() {
+    public function getIterator(): \Iterator {
         return new \ArrayIterator($this->divisions);
     }
     
@@ -19,7 +19,7 @@ trait ImplementsArray
      * @param mixed $offset
      * @return mixed
      */
-    public function offsetExists($offset)
+    public function offsetExists($offset): bool
     {
         return array_key_exists($offset, $this->divisions);
     }
@@ -28,7 +28,7 @@ trait ImplementsArray
      * @param mixed $offset
      * @return mixed
      */
-    public function offsetGet($offset)
+    public function offsetGet($offset): mixed
     {
         return $this->divisions[$offset];
     }
@@ -38,16 +38,16 @@ trait ImplementsArray
      * @param mixed $value
      * @return mixed
      */
-    public function offsetSet($offset, $value)
+    public function offsetSet($offset, $value): mixed
     {
         $this->divisions[$offset] = $value;
     }
 
     /**
      * @param mixed $offset
-     * @return mixed
+     * @return void
      */
-    public function offsetUnset($offset)
+    public function offsetUnset($offset): void
     {
         unset($this->divisions[$offset]);
     }
@@ -55,15 +55,15 @@ trait ImplementsArray
     /**
      * @return int
      */
-    public function count()
+    public function count(): int
     {
         return count($this->divisions);
     }
 
     /**
-     * @return mixed
+     * @return string
      */
-    public function serialize()
+    public function serialize(): string
     {
         return serialize($this->divisions);
     }
@@ -71,7 +71,7 @@ trait ImplementsArray
     /**
      * @param string $serialized
      */
-    public function unserialize($serialized)
+    public function unserialize($serialized): void
     {
         $this->divisions = unserialize($serialized);
     }
