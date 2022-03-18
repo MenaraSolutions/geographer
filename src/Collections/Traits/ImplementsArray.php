@@ -38,7 +38,7 @@ trait ImplementsArray
      * @param mixed $value
      * @return mixed
      */
-    public function offsetSet($offset, $value): mixed
+    public function offsetSet($offset, $value): void
     {
         $this->divisions[$offset] = $value;
     }
