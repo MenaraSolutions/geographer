@@ -7,7 +7,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/MenaraSolutions/geographer/v/unstable.svg)](https://packagist.org/packages/MenaraSolutions/geographer)
 [![License](https://poser.pugx.org/MenaraSolutions/geographer/license.svg)](https://packagist.org/packages/MenaraSolutions/geographer)
 
-Geographer is a PHP library that knows how any country, state or city is called in any language. [Documentation on the official website](https://geographer.su/documentation/php/)
+Geographer is a PHP library that knows how any country, state or city is called in any language. [Documentation on the official website](https://geographer.au/documentation/php/)
 
 Includes integrations with: Laravel 5, Lumen 5
 
