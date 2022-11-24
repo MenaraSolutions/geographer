@@ -179,7 +179,7 @@ class File implements RepositoryInterface
      */
     protected function getCodeFromIndex($path, $id)
     {
-        if (preg_match('/[A-Z]{2}-[A-Z0-9]{2,3}/', $id) == 1) {
+        if (preg_match('/[A-Z]{2}-[A-Z0-9]{1,3}/', $id) == 1) {
             return substr($id, 0, 2);
         }
 
