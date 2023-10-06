@@ -14,7 +14,7 @@ trait ImplementsArray
     public function getIterator(): \Iterator {
         return new \ArrayIterator($this->divisions);
     }
-    
+
     /**
      * @param mixed $offset
      * @return mixed
@@ -71,6 +71,7 @@ trait ImplementsArray
     /**
      * @param string $serialized
      */
+    #[\ReturnTypeWillChange]
     public function unserialize($serialized): void
     {
         $this->divisions = unserialize($serialized);
