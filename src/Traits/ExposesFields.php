@@ -46,6 +46,7 @@ trait ExposesFields
      * @param mixed $offset
      * @return void
      */
+    #[\ReturnTypeWillChange]
     public function offsetUnset($offset): void
     {
         return;
